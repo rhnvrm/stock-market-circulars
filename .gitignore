@@ -1,0 +1,54 @@
+# OS and system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Local environment files
+*.local.*
+.env.local
+.env.*.local
+
+# Development directories
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build outputs
+hugo-site/public/
+hugo-site/resources/
+dist/
+build/
+
+# State and cache files
+state/
+.cache/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Nix result symlinks
+result
+result-*
+
+# Hugo specific
+hugo-site/.hugo_build.lock
+
+# Downloaded content (keep structure but not actual files for repo)
+inbox/*.pdf
+inbox/*.doc
+inbox/*.docx
