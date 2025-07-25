@@ -5,7 +5,7 @@
 # Default processing delays (seconds)
 request_delay = 2.0
 claude_delay = 3.0
-timeout = 30
+timeout = 60
 
 # Debug and logging
 debug = false
@@ -32,8 +32,9 @@ min_content_length = 50
 max_content_length = 50000
 strip_whitespace = true
 
-# Retry settings
+# Retry settings  
 max_retries = 3
+retry_delays = [5, 15, 30]  # Custom backoff delays in seconds
 backoff_multiplier = 2
 
 # File validation

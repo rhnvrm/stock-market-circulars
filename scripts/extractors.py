@@ -1,5 +1,6 @@
 """RSS feed parsing and PDF URL extraction."""
 
+import asyncio
 import re
 from typing import Dict, List, Optional
 from urllib.parse import urljoin
@@ -11,8 +12,9 @@ from lxml import etree, html
 class RSSExtractor:
     """Handles RSS feed downloading and parsing"""
     
-    def __init__(self, timeout: int = 30):
+    def __init__(self, timeout: int = 30, retry_delays: List[int] = None):
         self.timeout = timeout
+        self.retry_delays = retry_delays or [5, 15, 30]
     
     async def download_rss_feed(self, source: str, url: str) -> Optional[str]:
         """Download RSS feed with validation"""
@@ -32,15 +34,31 @@ class RSSExtractor:
         return None
     
     async def _fetch_with_retry(self, url: str, headers: Dict[str, str]) -> Optional[str]:
-        """Generic HTTP fetch with retry logic"""
-        async with httpx.AsyncClient(timeout=self.timeout) as client:
+        """Generic HTTP fetch with retry logic and exponential backoff"""
+        last_error = None
+        
+        for attempt in range(len(self.retry_delays) + 1):  # +1 for initial attempt
             try:
-                response = await client.get(url, headers=headers)
-                response.raise_for_status()
-                return response.text
+                async with httpx.AsyncClient(timeout=self.timeout) as client:
+                    print(f"HTTP fetch attempt {attempt + 1}/{len(self.retry_delays) + 1} for {url}")
+                    response = await client.get(url, headers=headers)
+                    response.raise_for_status()
+                    return response.text
+                    
             except Exception as e:
-                print(f"HTTP fetch failed for {url}: {e}")
-                return None
+                last_error = e
+                print(f"HTTP fetch attempt {attempt + 1} failed for {url}: {e}")
+                
+                # If this isn't the last attempt, wait before retrying
+                if attempt < len(self.retry_delays):
+                    delay = self.retry_delays[attempt]
+                    print(f"Retrying in {delay} seconds...")
+                    await asyncio.sleep(delay)
+                else:
+                    print(f"All retry attempts exhausted for {url}")
+        
+        print(f"HTTP fetch failed after all retries for {url}: {last_error}")
+        return None
     
     def parse_rss_feed(self, content: str, source: str) -> List[Dict[str, str]]:
         """Parse RSS feed content and extract items"""

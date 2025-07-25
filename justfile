@@ -40,10 +40,7 @@ deps:
 
 # Show processing statistics and status
 stats:
-    @echo "📊 Processing Statistics"
-    @echo "NSE: $(find hugo-site/content/circulars/nse -name "*.md" 2>/dev/null | wc -l) circulars"
-    @echo "BSE: $(find hugo-site/content/circulars/bse -name "*.md" 2>/dev/null | wc -l) circulars" 
-    @echo "SEBI: $(find hugo-site/content/circulars/sebi -name "*.md" 2>/dev/null | wc -l) circulars"
+    @uv run --script scripts/analyze_stats.py
 
 # View recent logs
 logs:

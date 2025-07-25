@@ -120,6 +120,14 @@ class FrontmatterManager:
                 if processing_state:
                     post.metadata['processing'] = processing_state
                 
+                # Set draft status based on processing state
+                if processing_state:
+                    status = processing_state.get('status', 'draft')
+                    if status == 'published':
+                        post.metadata['draft'] = False
+                    else:
+                        post.metadata['draft'] = True
+                
                 # Use atomic write
                 final_content = frontmatter.dumps(post)
                 success = self._atomic_write(file_path, final_content)
@@ -227,6 +235,12 @@ class FrontmatterManager:
                     content_hash=None  # No content hash for state-only files
                 )
                 post.metadata['processing'] = processing_state
+                
+                # Set draft status based on processing state
+                if status == 'published':
+                    post.metadata['draft'] = False
+                else:
+                    post.metadata['draft'] = True
                 
                 # Use atomic write
                 final_content = frontmatter.dumps(post)

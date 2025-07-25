@@ -1,0 +1,60 @@
+name: Update Stock Market Circulars
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Every 3 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Install Nix
+      uses: DeterminateSystems/nix-installer-action@v8
+
+    - name: Setup Nix cache
+      uses: DeterminateSystems/magic-nix-cache-action@v2
+
+    - name: Run pipeline
+      env:
+        CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+      run: |
+        nix develop --command just pipeline
+
+    - name: Build Hugo site
+      run: |
+        nix develop --command just build
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: hugo-site/public
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
+
+    - name: Commit updated content
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update circulars - $(date -u +"%Y-%m-%d %H:%M UTC")"
+          git push
+        fi

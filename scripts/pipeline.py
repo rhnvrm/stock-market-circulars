@@ -38,7 +38,7 @@ class CircularsPipeline:
         self.item_semaphore = asyncio.Semaphore(self.max_concurrent_items)
         
         # Initialize components
-        self.rss_extractor = RSSExtractor(self.timeout)
+        self.rss_extractor = RSSExtractor(self.timeout, self.config.get('processing', {}).get('retry_delays', [5, 15, 30]))
         self.pdf_extractor = PDFURLExtractor(self.timeout)
         self.content_scraper = ContentScraper(self.timeout)
         self.file_downloader = FileDownloader(max_downloads, logger=self.log)
