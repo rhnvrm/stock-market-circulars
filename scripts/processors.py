@@ -1,6 +1,9 @@
 """File processing, text extraction, and Claude integration."""
 
 import asyncio
+import json
+import re
+import shlex
 import subprocess
 import tempfile
 from pathlib import Path
@@ -50,7 +53,13 @@ class FileDownloader:
                     self._log(f"File downloaded and validated ({file_type}): {temp_path}", "INFO", item_id)
                     return temp_path, None
                 else:
-                    self._log(f"File validation failed ({file_type}): {url}", "ERROR", item_id)
+                    # For debugging: log first 200 chars of failed file
+                    try:
+                        with open(temp_path, 'r', encoding='utf-8', errors='replace') as f:
+                            sample = f.read(200)
+                        self._log(f"File validation failed ({file_type}): {url} - Content sample: {sample[:100]}...", "ERROR", item_id)
+                    except:
+                        self._log(f"File validation failed ({file_type}): {url}", "ERROR", item_id)
                     temp_path.unlink()
                     return None, "validation"
                 
@@ -77,7 +86,7 @@ class FileDownloader:
                 return True, 'pdf'
             
             # ZIP/Office documents (DOCX, XLSX, etc.)
-            elif header.startswith(b'PK\\x03\\x04'):
+            elif header.startswith(b'PK\x03\x04'):
                 return True, 'zip_office'
             
             # Legacy Office documents
@@ -140,6 +149,64 @@ class TextExtractor:
         except Exception as e:
             self._log(f"Text extraction failed: {e}", "ERROR", item_id)
             return None
+    
+    async def extract_html_text(self, url: str, item_id: str = None) -> Optional[str]:
+        """Extract text content from HTML page (BSE fallback)"""
+        try:
+            import httpx
+            from bs4 import BeautifulSoup
+            
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            
+            async with httpx.AsyncClient(timeout=30) as client:
+                self._log(f"Fetching HTML content from: {url}", "INFO", item_id)
+                response = await client.get(url, headers=headers)
+                response.raise_for_status()
+                
+                # Parse HTML and extract text content
+                soup = BeautifulSoup(response.text, 'html.parser')
+                
+                # Remove script and style elements
+                for script in soup(["script", "style"]):
+                    script.decompose()
+                
+                # Look for main content areas (BSE-specific selectors)
+                content_selectors = [
+                    'div.content',
+                    'div.main-content', 
+                    'div#content',
+                    'table.tbldata',
+                    'div.notice-content',
+                    'td.normalText'  # Common BSE notice text class
+                ]
+                
+                text_content = ""
+                for selector in content_selectors:
+                    elements = soup.select(selector)
+                    if elements:
+                        for element in elements:
+                            text_content += element.get_text(separator=" ", strip=True) + "\n"
+                        break
+                
+                # Fallback to body text if no specific content found
+                if not text_content or len(text_content.strip()) < 100:
+                    body = soup.find('body')
+                    if body:
+                        text_content = body.get_text(separator=" ", strip=True)
+                
+                # Clean up text
+                text_content = text_content.strip()
+                
+                if len(text_content) < 100:
+                    self._log(f"HTML text content too short ({len(text_content)} chars)", "WARNING", item_id)
+                    return None
+                
+                self._log(f"Successfully extracted {len(text_content)} characters from HTML", "INFO", item_id)
+                return text_content
+                
+        except Exception as e:
+            self._log(f"HTML text extraction failed: {e}", "ERROR", item_id)
+            return None
 
 
 class ClaudeProcessor:
@@ -175,7 +242,8 @@ class ClaudeProcessor:
         # Use @filepath syntax for direct PDF processing
         full_prompt = f"@{pdf_path} {claude_prompt}"
         
-        return await self._run_claude_with_retry(full_prompt, item_id)
+        response = await self._run_claude_with_retry(full_prompt, item_id)
+        return response.get("result") if response else None
     
     async def run_claude(self, pdf_content: str, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
         """Run Claude with extracted text content"""
@@ -191,10 +259,36 @@ class ClaudeProcessor:
             content=pdf_content[:4000]  # Limit content length
         )
         
-        return await self._run_claude_with_retry(claude_prompt, item_id)
+        response = await self._run_claude_with_retry(claude_prompt, item_id)
+        return response.get("result") if response else None
     
-    async def _run_claude_with_retry(self, prompt: str, item_id: str = None, max_retries: int = 3) -> Optional[str]:
-        """Run Claude command with retry logic and concurrency control"""
+    def _sanitize_prompt(self, prompt: str) -> str:
+        """Sanitize prompt input to prevent command injection"""
+        if not isinstance(prompt, str):
+            raise ValueError("Prompt must be a string")
+        
+        # Length validation
+        if len(prompt) > 100000:  # 100KB limit
+            raise ValueError("Prompt exceeds maximum length")
+        
+        # Remove null bytes and control characters
+        prompt = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', prompt)
+        
+        # Basic validation - no shell metacharacters in critical parts
+        if any(char in prompt[:200] for char in ['`', '$', '&&', '||', ';']):
+            self._log("Potentially dangerous characters detected in prompt start", "WARNING")
+        
+        return prompt.strip()
+    
+    async def _run_claude_with_retry(self, prompt: str, item_id: str = None, max_retries: int = 3) -> Optional[Dict]:
+        """Run Claude command with retry logic and concurrency control, returns JSON response"""
+        # Sanitize input
+        try:
+            sanitized_prompt = self._sanitize_prompt(prompt)
+        except ValueError as e:
+            self._log(f"Prompt validation failed: {e}", "ERROR", item_id)
+            return None
+        
         async with self.claude_semaphore:
             for attempt in range(1, max_retries + 1):
                 try:
@@ -204,19 +298,34 @@ class ClaudeProcessor:
                         await asyncio.sleep(self.claude_delay)
                     
                     self._log(f"Running Claude (attempt {attempt}/{max_retries})", "INFO", item_id)
+                    
+                    # Use list format to prevent shell injection
+                    cmd = [
+                        "claude", 
+                        "-p", sanitized_prompt,
+                        "--output-format", "json",
+                        "--allowedTools", "Read"
+                    ]
+                    
                     result = subprocess.run(
-                        ["claude", "-p", prompt,
-                         "--allowedTools", "Write,Read"
-                        ],
+                        cmd,
                         capture_output=True,
                         text=True,
-                        timeout=120
+                        timeout=120,
+                        check=False  # Don't raise on non-zero exit
                     )
                     
                     if result.returncode == 0 and result.stdout.strip():
-                        content = result.stdout.strip()
-                        self._log(f"Successfully generated content ({len(content)} chars)", "INFO", item_id)
-                        return content
+                        try:
+                            response_data = json.loads(result.stdout.strip())
+                            if response_data.get("type") == "result" and not response_data.get("is_error", False):
+                                content = response_data.get("result", "")
+                                self._log(f"Successfully generated content ({len(content)} chars)", "INFO", item_id)
+                                return response_data
+                            else:
+                                self._log(f"Claude returned error response: {response_data.get('result', 'Unknown error')}", "ERROR", item_id)
+                        except json.JSONDecodeError as e:
+                            self._log(f"Failed to parse Claude JSON response: {e}", "ERROR", item_id)
                     else:
                         self._log(f"Claude attempt {attempt} failed: {result.stderr}", "ERROR", item_id)
                         

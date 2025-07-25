@@ -1,6 +1,6 @@
 # Stock Market Circulars Processing Pipeline
 
-A modern Python-based system for automatically collecting, processing, and displaying regulatory circulars from NSE, BSE, and SEBI. Uses Claude AI to generate Hugo-compatible markdown with proper frontmatter and structured content.
+A modern Python-based system for automatically collecting, processing, and displaying regulatory circulars from NSE, BSE, and SEBI. Uses Claude AI to generate Hugo-compatible markdown with content-based state management for reliable processing and deployment.
 
 ## Quick Start
 
@@ -18,25 +18,28 @@ just serve
 ## Architecture
 
 - **Unified Python Pipeline** (`scripts/combined_pipeline.py` - uv script format)
-- **Claude AI Integration** (text extraction + content generation with Hugo-compatible output)
+- **Claude AI Integration** (JSON output format for GitHub Actions compatibility)
+- **Content-Based State Management** (markdown frontmatter instead of JSON files)
 - **Hugo Static Site** with Zerodha-inspired design
-- **State Management** with retry logic and progress tracking
+- **Multi-Format Support** (PDF, ZIP archives, HTML fallback for BSE)
 
 ## Key Features
 
 - **RSS Feed Processing**: Automated scraping from NSE, BSE, SEBI with intelligent PDF extraction
-- **AI Content Generation**: Claude processes PDFs to generate structured markdown with YAML frontmatter
+- **AI Content Generation**: Claude processes PDFs/HTML to generate structured markdown with YAML frontmatter
 - **Hugo Site Generation**: Professional static site with filtering, search, and responsive design
-- **Retry Logic**: 3-attempt system with state preservation for reliable processing
+- **Content-Based State**: Frontmatter-based state management with complete audit trails
+- **Multi-Format Support**: PDF files, ZIP archives, and HTML fallback (BSE 404 handling)
+- **Resume Functionality**: Automatically detects and skips completed items across runs
 - **Content Regeneration**: Fix specific items with updated prompts without full pipeline re-run
 
 ## RSS Data Sources
 
-| Source | Format | Method |
-|--------|--------|--------|
-| NSE | RSS 2.0 | Direct PDF links |
-| BSE | RSS 2.0 | HTML page extraction |
-| SEBI | RSS 2.0 | HTML page extraction with iframe detection |
+| Source | Format | Method | Fallback |
+|--------|--------|--------|----------|
+| NSE | RSS 2.0 | Direct PDF/ZIP links | N/A |
+| BSE | RSS 2.0 | HTML page extraction | HTML scraping on 404 |
+| SEBI | RSS 2.0 | HTML page extraction with iframe detection | N/A |
 
 ## Commands
 
@@ -75,14 +78,16 @@ just validate        # Validate RSS feeds are accessible (CI/CD)
 │   ├── combined_pipeline.py # Main pipeline script (uv format)
 │   ├── cli.py              # Command-line interface with regenerate support
 │   ├── pipeline.py         # Core pipeline orchestration
-│   ├── processors.py       # Claude integration and file processing
+│   ├── processors.py       # Claude integration, file processing, and HTML extraction
 │   ├── extractors.py       # RSS parsing and PDF URL extraction
-│   ├── models.py           # Data models and enums
+│   ├── frontmatter_manager.py # Content-based state management
+│   ├── models.py           # Data models (simplified)
 │   └── config.py           # Configuration loading
 ├── config/
 │   └── config.toml         # Unified configuration (RSS feeds, prompts, settings)
 ├── hugo-site/             # Hugo static site with Zerodha design
-└── state/                 # Processing state files and logs
+├── combined_pipeline.log  # Pipeline execution logs
+└── state/                 # Legacy state directory (unused)
 ```
 
 ## Development Environment

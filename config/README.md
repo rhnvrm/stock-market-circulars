@@ -7,12 +7,11 @@ This directory contains human-editable configuration files for the stock market 
 ### `config.toml` 
 Complete pipeline configuration including:
 - Processing delays and timeouts
-- RSS feed URLs  
-- File validation settings
-- Output formatting options
-- Directory structure
-- AI prompts for Claude analysis
-- Claude API configuration
+- RSS feed URLs for NSE, BSE, SEBI
+- Concurrency limits for parallel processing
+- Directory structure (content-based state management)
+- AI prompts for Claude analysis (JSON output format)
+- Claude API configuration (Read-only permissions)
 
 ## Editing Tips
 
@@ -23,10 +22,11 @@ Complete pipeline configuration including:
 - Include examples for complex requirements
 
 ### General Configuration
-- Adjust delays based on API rate limits
-- Modify file size limits based on your needs
-- Add new RSS feeds to the `[rss_feeds]` section
-- Customize category mappings for better tagging
+- **Concurrency**: Adjust `max_concurrent_*` settings based on system resources
+- **Delays**: Modify `request_delay` and `claude_delay` based on API rate limits
+- **RSS Feeds**: Add new sources to the `[rss_feeds]` section
+- **Directories**: Content stored in `content_dir`, logs in root `combined_pipeline.log`
+- **State Management**: No JSON files needed - all state in markdown frontmatter
 
 ## Environment Variables
 
@@ -90,5 +90,5 @@ Settings can be overridden with environment variables (useful for CI/CD):
 After editing configuration files:
 1. Run `just deps` to check setup
 2. Test with a single source: `uv run scripts/combined_pipeline.py nse`
-3. Check logs in `state/combined_pipeline.log`
+3. Check logs in `combined_pipeline.log`
 4. Review generated content in `hugo-site/content/circulars/`

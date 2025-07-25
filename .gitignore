@@ -51,9 +51,12 @@ result-*
 hugo-site/.hugo_build.lock
 
 # --- State and cache files ---
-# State directory is preserved with .gitkeep files
+# State directory is preserved with .gitkeep files (legacy, unused)
 state/
 .cache/
+
+# --- Log files ---
+combined_pipeline.log
 
 # --- Temporary files ---
 *.tmp

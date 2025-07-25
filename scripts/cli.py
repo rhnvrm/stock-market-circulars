@@ -107,13 +107,13 @@ def display_results(stats, elapsed_time: float):
     table.add_row("Total Items", str(stats.total_items))
     table.add_row("Completed", str(stats.completed_items))
     table.add_row("Failed", str(stats.failed_items))
-    table.add_row("Success Rate", f"{stats.overall_success_rate:.1f}%")
+    table.add_row("Success Rate", f"{stats.success_rate:.1f}%")
     table.add_row("Processing Time", f"{elapsed_time:.1f}s")
     
     console.print(table)
     
     # Per-source stats
-    if stats.sources:
+    if stats.source_results:
         console.print("\\n📈 Per-Source Statistics", style="bold blue")
         
         source_table = Table()
@@ -123,7 +123,7 @@ def display_results(stats, elapsed_time: float):
         source_table.add_column("Failed", style="red")
         source_table.add_column("Success Rate", style="yellow")
         
-        for source_stat in stats.sources:
+        for source_stat in stats.source_results.values():
             source_table.add_row(
                 source_stat.source.upper(),
                 str(source_stat.total_items),

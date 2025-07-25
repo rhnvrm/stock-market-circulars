@@ -44,11 +44,10 @@ stats:
     @echo "NSE: $(find hugo-site/content/circulars/nse -name "*.md" 2>/dev/null | wc -l) circulars"
     @echo "BSE: $(find hugo-site/content/circulars/bse -name "*.md" 2>/dev/null | wc -l) circulars" 
     @echo "SEBI: $(find hugo-site/content/circulars/sebi -name "*.md" 2>/dev/null | wc -l) circulars"
-    @echo "Progress files: $(find state/combined_progress -name "*.json" 2>/dev/null | wc -l)"
 
 # View recent logs
 logs:
-    @tail -20 state/combined_pipeline.log 2>/dev/null || echo "No logs found - run 'just pipeline' first"
+    @tail -20 combined_pipeline.log 2>/dev/null || echo "No logs found - run 'just pipeline' first"
 
 # Cleaning Commands
 
@@ -59,8 +58,7 @@ clean:
 # Reset pipeline state for fresh run
 clean-state:
     @echo "🧹 Cleaning pipeline state..."
-    rm -rf state/combined_progress/* state/combined_errors/*
-    rm -f state/*_combined_seen_guids.txt state/combined_pipeline.log
+    rm -f combined_pipeline.log
     @echo "✅ State cleaned"
 
 # CI/CD Commands (for GitHub Actions)

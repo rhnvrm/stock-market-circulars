@@ -67,7 +67,7 @@ content_dir = "hugo-site/content/circulars"
 state_dir = "state"
 progress_dir = "state/combined_progress"
 error_dir = "state/combined_errors"
-log_file = "state/combined_pipeline.log"
+log_file = "combined_pipeline.log"
 
 [prompts]
 # Claude AI prompts for content generation

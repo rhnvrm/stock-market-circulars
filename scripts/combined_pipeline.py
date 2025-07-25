@@ -7,8 +7,10 @@
 #     "pydantic",
 #     "httpx",
 #     "lxml",
+#     "beautifulsoup4",
 #     "markitdown[pdf,docx,xlsx,xls]",
 #     "tomli",
+#     "python-frontmatter",
 # ]
 # ///
 

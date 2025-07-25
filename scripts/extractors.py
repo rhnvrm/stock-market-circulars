@@ -167,6 +167,18 @@ class ContentScraper:
     def __init__(self, timeout: int = 30):
         self.timeout = timeout
     
+    async def fetch_content(self, url: str) -> Optional[str]:
+        """Generic method to fetch content from any URL"""
+        try:
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            async with httpx.AsyncClient(timeout=self.timeout) as client:
+                response = await client.get(url, headers=headers)
+                response.raise_for_status()
+                return response.text
+        except Exception as e:
+            print(f"Error fetching content from {url}: {e}")
+            return None
+    
     async def scrape_bse_page_content(self, url: str) -> Optional[str]:
         """Scrape content directly from BSE page when no attachment is available"""
         try:
