@@ -1,0 +1,195 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "description" }}{{ .Params.description | default .Summary }}{{ end }}
+
+{{ define "main" }}
+<article class="max-w-4xl mx-auto">
+    <!-- Breadcrumb -->
+    <div class="breadcrumbs text-sm mb-6">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/circulars/">Circulars</a></li>
+            {{ if .Params.source }}
+            <li><a href="/sources/{{ .Params.source }}/">{{ upper .Params.source }}</a></li>
+            {{ end }}
+            <li>{{ .Title }}</li>
+        </ul>
+    </div>
+
+    <!-- Article Header -->
+    <header class="mb-8">
+        <div class="flex flex-wrap justify-between items-start gap-4 mb-4">
+            <div class="flex items-center gap-3">
+                {{ if .Params.source }}
+                <div class="badge badge-lg {{ if eq .Params.source "nse" }}badge-primary{{ else if eq .Params.source "bse" }}badge-secondary{{ else if eq .Params.source "sebi" }}badge-accent{{ end }}">
+                    {{ upper .Params.source }}
+                </div>
+                {{ end }}
+                
+                {{ if .Params.severity }}
+                <div class="badge badge-lg severity-{{ .Params.severity }}">
+                    {{ if eq .Params.severity "high" }}🔴{{ else if eq .Params.severity "medium" }}🟡{{ else }}🟢{{ end }}
+                    {{ title .Params.severity }} Severity
+                </div>
+                {{ end }}
+            </div>
+            
+            <div class="text-right">
+                <div class="text-sm opacity-70">{{ .Date.Format "January 2, 2006" }}</div>
+                {{ if .Params.circular_id }}
+                <div class="text-xs opacity-50 font-mono mt-1">{{ .Params.circular_id }}</div>
+                {{ end }}
+            </div>
+        </div>
+        
+        <h1 class="text-4xl font-bold leading-tight mb-4">{{ .Title }}</h1>
+        
+        {{ if .Params.description }}
+        <p class="text-xl opacity-80 leading-relaxed">{{ .Params.description }}</p>
+        {{ end }}
+    </header>
+
+    <!-- Key Information Cards -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+        <!-- Impact Card -->
+        {{ if .Params.impact }}
+        <div class="card bg-base-100 shadow-lg">
+            <div class="card-body">
+                <h3 class="card-title text-lg">Impact Level</h3>
+                <div class="text-2xl font-bold {{ if eq .Params.impact "high" }}text-error{{ else if eq .Params.impact "medium" }}text-warning{{ else }}text-success{{ end }}">
+                    {{ title .Params.impact }}
+                </div>
+                {{ if .Params.impact_ranking }}
+                <p class="text-sm opacity-70">Ranking: {{ title .Params.impact_ranking }}</p>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Importance Card -->
+        {{ if .Params.importance_ranking }}
+        <div class="card bg-base-100 shadow-lg">
+            <div class="card-body">
+                <h3 class="card-title text-lg">Importance</h3>
+                <div class="text-2xl font-bold {{ if eq .Params.importance_ranking "high" }}text-error{{ else if eq .Params.importance_ranking "medium" }}text-warning{{ else }}text-success{{ end }}">
+                    {{ title .Params.importance_ranking }}
+                </div>
+                {{ if .Params.justification }}
+                <p class="text-sm opacity-70">{{ .Params.justification }}</p>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Category Card -->
+        {{ if .Params.category }}
+        <div class="card bg-base-100 shadow-lg">
+            <div class="card-body">
+                <h3 class="card-title text-lg">Category</h3>
+                <div class="text-lg font-semibold">{{ title .Params.category }}</div>
+                <a href="/categories/{{ .Params.category }}/" class="btn btn-outline btn-sm mt-2">
+                    View Similar
+                </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- PDF Viewer -->
+    {{ if .Params.pdf_url }}
+    <div class="card bg-base-100 shadow-xl mb-8">
+        <div class="card-body">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="card-title">Original Document</h2>
+                <div class="flex gap-2">
+                    <a href="{{ .Params.pdf_url }}" target="_blank" class="btn btn-outline btn-sm">
+                        📄 Open PDF
+                    </a>
+                    <a href="{{ .Params.pdf_url }}" download class="btn btn-primary btn-sm">
+                        💾 Download
+                    </a>
+                </div>
+            </div>
+            
+            <!-- PDF Embed -->
+            <div class="w-full h-96 bg-base-200 rounded-lg overflow-hidden">
+                <embed src="{{ .Params.pdf_url }}" type="application/pdf" width="100%" height="100%" class="rounded-lg">
+            </div>
+        </div>
+    </div>
+    {{ end }}
+
+    <!-- Content -->
+    <div class="card bg-base-100 shadow-xl mb-8">
+        <div class="card-body">
+            <h2 class="card-title text-2xl mb-6">Circular Summary</h2>
+            <div class="prose prose-lg max-w-none">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <!-- Tags and Metadata -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+        <!-- Tags -->
+        {{ if .Params.tags }}
+        <div class="card bg-base-100 shadow-lg">
+            <div class="card-body">
+                <h3 class="card-title">Tags</h3>
+                <div class="flex flex-wrap gap-2">
+                    {{ range .Params.tags }}
+                    <a href="/tags/{{ . | urlize }}/" class="badge badge-outline hover:badge-primary transition-colors">
+                        {{ . }}
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
+        <!-- Stock Mentions -->
+        {{ if .Params.stocks }}
+        <div class="card bg-base-100 shadow-lg">
+            <div class="card-body">
+                <h3 class="card-title">Mentioned Stocks</h3>
+                <div class="flex flex-wrap gap-2">
+                    {{ range .Params.stocks }}
+                    <a href="/stocks/{{ . | urlize }}/" class="badge badge-info hover:badge-info-focus transition-colors">
+                        {{ . }}
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Related Circulars -->
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ if $related }}
+    <div class="mb-8">
+        <h2 class="text-2xl font-bold mb-6">Related Circulars</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {{ range $related }}
+            {{ partial "circular-card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+
+    <!-- Navigation -->
+    <div class="flex justify-between items-center mt-12 pt-8 border-t border-base-300">
+        <a href="/circulars/" class="btn btn-outline">
+            ← Back to All Circulars
+        </a>
+        
+        <div class="flex gap-2">
+            {{ if .Params.source }}
+            <a href="/sources/{{ .Params.source }}/" class="btn btn-primary">
+                More from {{ upper .Params.source }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</article>
+{{ end }}

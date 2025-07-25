@@ -1,0 +1,176 @@
+{{ define "title" }}{{ .Site.Title }} - Regulatory Circulars Dashboard{{ end }}
+
+{{ define "description" }}Latest regulatory circulars from NSE, BSE, and SEBI with AI-powered summaries and intelligent categorization{{ end }}
+
+{{ define "main" }}
+<div x-data="circularDashboard()">
+    <!-- Hero Section -->
+    <div class="bg-white rounded-lg p-8 mb-8 border" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+        <div class="text-center">
+            <h1 class="text-4xl font-semibold mb-4 text-gray-800">Stock Market Circulars</h1>
+            <p class="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
+                Stay updated with the latest regulatory circulars from NSE, BSE, and SEBI.<br>
+                AI-powered summaries help you quickly understand the impact and importance.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
+                <div class="text-center">
+                    <div class="text-3xl font-semibold text-gray-800 mb-1">{{ len (where .Site.RegularPages "Section" "circulars") }}</div>
+                    <div class="text-sm text-gray-500">Total Circulars</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-semibold text-gray-800 mb-1">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "nse") }} + {{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "bse") }} + {{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "sebi") }}</div>
+                    <div class="text-sm text-gray-500">NSE + BSE + SEBI</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-semibold text-gray-800 mb-1">100%</div>
+                    <div class="text-sm text-gray-500">AI Processed</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Actions -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+        <div class="bg-white rounded-lg p-6 text-center border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <div class="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                </svg>
+            </div>
+            <h3 class="text-lg font-semibold mb-2 text-gray-800">Browse All Circulars</h3>
+            <p class="text-sm text-gray-600 mb-4">View complete collection with advanced filtering</p>
+            <a href="/circulars/" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded font-medium transition-colors text-sm">View All</a>
+        </div>
+        
+        <div class="bg-white rounded-lg p-6 text-center border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <div class="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+            </div>
+            <h3 class="text-lg font-semibold mb-2 text-gray-800">High Priority</h3>
+            <p class="text-sm text-gray-600 mb-4">Circulars requiring immediate attention</p>
+            <a href="/circulars/?severity=high" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded font-medium transition-colors text-sm">View High Priority</a>
+        </div>
+        
+        <div class="bg-white rounded-lg p-6 text-center border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <div class="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center mx-auto mb-4">
+                <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path>
+                </svg>
+            </div>
+            <h3 class="text-lg font-semibold mb-2 text-gray-800">Recent Updates</h3>
+            <p class="text-sm text-gray-600 mb-4">Latest circulars from this week</p>
+            <a href="/circulars/?recent=7d" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded font-medium transition-colors text-sm">View Recent</a>
+        </div>
+    </div>
+
+    <!-- All Circulars -->
+    <div class="mb-8">
+        <div class="flex justify-between items-center mb-6">
+            <h2 class="text-3xl font-bold">All Circulars</h2>
+            <div class="flex space-x-2">
+                <button @click="viewMode = 'grid'" :class="viewMode === 'grid' ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700'" class="px-4 py-2 rounded">Grid</button>
+                <button @click="viewMode = 'list'" :class="viewMode === 'list' ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700'" class="px-4 py-2 rounded">List</button>
+            </div>
+        </div>
+        
+        <!-- Grid View -->
+        <div x-show="viewMode === 'grid'" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-fr">
+            {{ range (sort (where .Site.RegularPages "Section" "circulars") "Date" "desc") }}
+            <div x-show="isVisible({ title: {{ .Title | jsonify }}, source: {{ .Params.source | jsonify }}, severity: {{ .Params.severity | jsonify }}, category: {{ .Params.category | jsonify }}, tags: {{ .Params.tags | jsonify }}, date: {{ .Date.Format "2006-01-02" | jsonify }}, impact: {{ .Params.impact | jsonify }} })">
+                {{ partial "circular-card.html" . }}
+            </div>
+            {{ end }}
+        </div>
+        
+        <!-- List View -->
+        <div x-show="viewMode === 'list'" class="space-y-4">
+            {{ range (sort (where .Site.RegularPages "Section" "circulars") "Date" "desc") }}
+            <div x-show="isVisible({ title: {{ .Title | jsonify }}, source: {{ .Params.source | jsonify }}, severity: {{ .Params.severity | jsonify }}, category: {{ .Params.category | jsonify }}, tags: {{ .Params.tags | jsonify }}, date: {{ .Date.Format "2006-01-02" | jsonify }}, impact: {{ .Params.impact | jsonify }} })" class="bg-white rounded-lg shadow-lg p-6 border">
+                <div class="flex justify-between items-start">
+                    <div class="flex-1">
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="px-2 py-1 text-xs rounded {{ if eq .Params.source "nse" }}bg-blue-100 text-blue-800{{ else if eq .Params.source "bse" }}bg-orange-100 text-orange-800{{ else }}bg-green-100 text-green-800{{ end }}">
+                                {{ upper .Params.source }}
+                            </span>
+                            {{ if .Params.severity }}
+                            <span class="px-2 py-1 text-xs rounded {{ if eq .Params.severity "high" }}bg-red-100 text-red-800{{ else if eq .Params.severity "medium" }}bg-yellow-100 text-yellow-800{{ else }}bg-green-100 text-green-800{{ end }}">
+                                {{ title .Params.severity }} Priority
+                            </span>
+                            {{ end }}
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2">
+                            <a href="{{ .Permalink }}" class="hover:text-blue-600 transition-colors">{{ .Title }}</a>
+                        </h3>
+                        {{ if .Params.description }}
+                        <p class="text-gray-600 mb-3">{{ .Params.description }}</p>
+                        {{ end }}
+                        <div class="text-sm text-gray-500">{{ .Date.Format "January 2, 2006" }}</div>
+                    </div>
+                    <div class="flex space-x-2">
+                        {{ if .Params.pdf_url }}
+                        <a href="{{ .Params.pdf_url }}" target="_blank" class="bg-gray-100 hover:bg-gray-200 text-gray-700 px-3 py-1 rounded text-sm transition-colors">PDF</a>
+                        {{ end }}
+                        <a href="{{ .Permalink }}" class="bg-blue-600 hover:bg-blue-700 text-white px-3 py-1 rounded text-sm transition-colors">Details</a>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- Source Breakdown -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <!-- NSE -->
+        <div class="bg-white rounded-lg p-6 border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <h2 class="text-xl font-semibold mb-2 text-gray-800">
+                <span class="inline-block px-3 py-1 bg-gray-100 text-gray-700 rounded text-sm mr-2 font-medium">NSE</span>
+                National Stock Exchange
+            </h2>
+            <div class="text-3xl font-semibold text-gray-800 mb-2">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "nse") }}</div>
+            <p class="text-gray-600 mb-4 text-sm">Circulars from NSE covering trading rules, listing requirements, and market operations.</p>
+            <a href="/circulars/nse/" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm transition-colors font-medium">Browse NSE</a>
+        </div>
+
+        <!-- BSE -->
+        <div class="bg-white rounded-lg p-6 border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <h2 class="text-xl font-semibold mb-2 text-gray-800">
+                <span class="inline-block px-3 py-1 bg-gray-100 text-gray-700 rounded text-sm mr-2 font-medium">BSE</span>
+                Bombay Stock Exchange
+            </h2>
+            <div class="text-3xl font-semibold text-gray-800 mb-2">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "bse") }}</div>
+            <p class="text-gray-600 mb-4 text-sm">BSE circulars on trading guidelines, compliance requirements, and regulatory updates.</p>
+            <a href="/circulars/bse/" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm transition-colors font-medium">Browse BSE</a>
+        </div>
+
+        <!-- SEBI -->
+        <div class="bg-white rounded-lg p-6 border hover:shadow-md transition-shadow" style="box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);">
+            <h2 class="text-xl font-semibold mb-2 text-gray-800">
+                <span class="inline-block px-3 py-1 bg-gray-100 text-gray-700 rounded text-sm mr-2 font-medium">SEBI</span>
+                Securities & Exchange Board
+            </h2>
+            <div class="text-3xl font-semibold text-gray-800 mb-2">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "sebi") }}</div>
+            <p class="text-gray-600 mb-4 text-sm">SEBI regulations, policy changes, and guidelines for market participants.</p>
+            <a href="/circulars/sebi/" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm transition-colors font-medium">Browse SEBI</a>
+        </div>
+    </div>
+</div>
+
+<script>
+function circularDashboard() {
+    return {
+        viewMode: 'grid',
+        
+        init() {
+            console.log('Circular dashboard initialized');
+        },
+        
+        isVisible(circular) {
+            // For homepage, show all circulars by default
+            return true;
+        }
+    }
+}
+</script>
+{{ end }}

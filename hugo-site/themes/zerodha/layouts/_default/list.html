@@ -1,0 +1,283 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "description" }}{{ .Params.description | default .Summary | default "Browse circulars and regulatory documents" }}{{ end }}
+
+{{ define "main" }}
+<div x-data="circularList()" x-init="init()">
+    <!-- Page Header -->
+    <div class="mb-8">
+        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
+        {{ if .Content }}
+        <div class="prose prose-lg">
+            {{ .Content }}
+        </div>
+        {{ end }}
+    </div>
+
+    <!-- Filters and Search -->
+    <div class="card bg-base-100 shadow-xl mb-8">
+        <div class="card-body">
+            <h2 class="card-title mb-4">Filter & Search</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
+                <!-- Search -->
+                <div class="form-control">
+                    <label class="label">
+                        <span class="label-text">Search</span>
+                    </label>
+                    <input type="text" placeholder="Search circulars..." 
+                           class="input input-bordered" 
+                           x-model.debounce.300ms="search">
+                </div>
+
+                <!-- Source Filter -->
+                <div class="form-control">
+                    <label class="label">
+                        <span class="label-text">Source</span>
+                    </label>
+                    <select class="select select-bordered" x-model="selectedSource">
+                        <option value="">All Sources</option>
+                        <option value="nse">NSE</option>
+                        <option value="bse">BSE</option>
+                        <option value="sebi">SEBI</option>
+                    </select>
+                </div>
+
+                <!-- Severity Filter -->
+                <div class="form-control">
+                    <label class="label">
+                        <span class="label-text">Severity</span>
+                    </label>
+                    <select class="select select-bordered" x-model="selectedSeverity">
+                        <option value="">All Severities</option>
+                        <option value="high">High</option>
+                        <option value="medium">Medium</option>
+                        <option value="low">Low</option>
+                    </select>
+                </div>
+
+                <!-- Category Filter -->
+                <div class="form-control">
+                    <label class="label">
+                        <span class="label-text">Category</span>
+                    </label>
+                    <select class="select select-bordered" x-model="selectedCategory">
+                        <option value="">All Categories</option>
+                        <option value="trading">Trading</option>
+                        <option value="listing">Listing</option>
+                        <option value="compliance">Compliance</option>
+                        <option value="disclosure">Disclosure</option>
+                        <option value="market-operations">Market Operations</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Tag Filter -->
+            <div class="mb-4">
+                <label class="label">
+                    <span class="label-text">Filter by Tags</span>
+                </label>
+                <div class="flex flex-wrap gap-2">
+                    {{ $allTags := slice }}
+                    {{ range .Site.RegularPages }}
+                        {{ range .Params.tags }}
+                            {{ $allTags = $allTags | append . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ range sort (uniq $allTags) }}
+                    <button class="btn btn-sm btn-outline" 
+                            x-bind:class="selectedTags.includes('{{ . }}') ? 'btn-primary' : 'btn-outline'"
+                            @click="toggleTag('{{ . }}')">
+                        {{ . }}
+                    </button>
+                    {{ end }}
+                </div>
+            </div>
+
+            <!-- Sort Options -->
+            <div class="flex justify-between items-center">
+                <div class="form-control">
+                    <label class="label">
+                        <span class="label-text">Sort by</span>
+                    </label>
+                    <select class="select select-bordered select-sm" x-model="sortBy">
+                        <option value="date-desc">Newest First</option>
+                        <option value="date-asc">Oldest First</option>
+                        <option value="title-asc">Title A-Z</option>
+                        <option value="severity-desc">High Severity First</option>
+                        <option value="impact-desc">High Impact First</option>
+                    </select>
+                </div>
+
+                <div class="flex items-center gap-4">
+                    <span class="text-sm opacity-70" x-text="`${filteredCirculars.length} circulars found`"></span>
+                    
+                    <!-- Clear Filters -->
+                    <button class="btn btn-outline btn-sm" @click="clearFilters()">
+                        Clear Filters
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results -->
+    <div x-show="filteredCirculars.length > 0">
+        <!-- View Toggle -->
+        <div class="flex justify-end mb-4">
+            <div class="btn-group">
+                <button class="btn btn-sm" 
+                        x-bind:class="viewMode === 'grid' ? 'btn-active' : ''"
+                        @click="viewMode = 'grid'">
+                    Grid
+                </button>
+                <button class="btn btn-sm" 
+                        x-bind:class="viewMode === 'list' ? 'btn-active' : ''"
+                        @click="viewMode = 'list'">
+                    List
+                </button>
+            </div>
+        </div>
+
+        <!-- Grid View -->
+        <div x-show="viewMode === 'grid'" 
+             class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {{ range .Pages }}
+            <div x-show="isVisible({ title: {{ .Title | jsonify }}, source: {{ .Params.source | jsonify }}, severity: {{ .Params.severity | jsonify }}, category: {{ .Params.category | jsonify }}, tags: {{ .Params.tags | jsonify }}, date: {{ .Date.Format "2006-01-02" | jsonify }}, impact: {{ .Params.impact | jsonify }} })">
+                {{ partial "circular-card.html" . }}
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- List View -->
+        <div x-show="viewMode === 'list'" class="space-y-4">
+            {{ range .Pages }}
+            <div x-show="isVisible({ title: {{ .Title | jsonify }}, source: {{ .Params.source | jsonify }}, severity: {{ .Params.severity | jsonify }}, category: {{ .Params.category | jsonify }}, tags: {{ .Params.tags | jsonify }}, date: {{ .Date.Format "2006-01-02" | jsonify }}, impact: {{ .Params.impact | jsonify }} })"
+                 class="card bg-base-100 shadow-lg">
+                <div class="card-body">
+                    <div class="flex justify-between items-start">
+                        <div class="flex-1">
+                            <div class="flex items-center gap-3 mb-2">
+                                <div class="badge {{ if eq .Params.source "nse" }}badge-primary{{ else if eq .Params.source "bse" }}badge-secondary{{ else if eq .Params.source "sebi" }}badge-accent{{ end }}">
+                                    {{ upper .Params.source }}
+                                </div>
+                                {{ if .Params.severity }}
+                                <div class="badge severity-{{ .Params.severity }}">
+                                    {{ title .Params.severity }}
+                                </div>
+                                {{ end }}
+                                <div class="text-sm opacity-70">{{ .Date.Format "Jan 2, 2006" }}</div>
+                            </div>
+                            
+                            <h3 class="text-xl font-bold mb-2">
+                                <a href="{{ .Permalink }}" class="hover:text-primary">{{ .Title }}</a>
+                            </h3>
+                            
+                            {{ if .Params.description }}
+                            <p class="opacity-80 mb-3">{{ .Params.description }}</p>
+                            {{ end }}
+                            
+                            {{ if .Params.tags }}
+                            <div class="flex flex-wrap gap-1">
+                                {{ range first 5 .Params.tags }}
+                                <div class="badge badge-ghost badge-sm">{{ . }}</div>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                        
+                        <div class="flex flex-col gap-2 ml-4">
+                            {{ if .Params.pdf_url }}
+                            <a href="{{ .Params.pdf_url }}" target="_blank" class="btn btn-outline btn-sm">PDF</a>
+                            {{ end }}
+                            <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <!-- No Results -->
+    <div x-show="filteredCirculars.length === 0" class="text-center py-12">
+        <div class="text-6xl mb-4">📋</div>
+        <h3 class="text-2xl font-bold mb-2">No circulars found</h3>
+        <p class="opacity-70 mb-4">Try adjusting your search criteria or filters</p>
+        <button class="btn btn-primary" @click="clearFilters()">Clear All Filters</button>
+    </div>
+</div>
+
+<script>
+function circularList() {
+    return {
+        search: '',
+        selectedSource: '',
+        selectedSeverity: '',
+        selectedCategory: '',
+        selectedTags: [],
+        sortBy: 'date-desc',
+        viewMode: 'grid',
+        allCirculars: [],
+        
+        init() {
+            // Initialize with all circulars
+            this.allCirculars = Array.from(document.querySelectorAll('[x-show*="isVisible"]')).map(el => {
+                // Extract data from template
+                return {}; // Simplified for now
+            });
+        },
+        
+        get filteredCirculars() {
+            // This will be handled by the template visibility logic
+            return this.allCirculars;
+        },
+        
+        toggleTag(tag) {
+            if (this.selectedTags.includes(tag)) {
+                this.selectedTags = this.selectedTags.filter(t => t !== tag);
+            } else {
+                this.selectedTags.push(tag);
+            }
+        },
+        
+        clearFilters() {
+            this.search = '';
+            this.selectedSource = '';
+            this.selectedSeverity = '';
+            this.selectedCategory = '';
+            this.selectedTags = [];
+        },
+        
+        isVisible(circular) {
+            // Search filter
+            if (this.search && !circular.title.toLowerCase().includes(this.search.toLowerCase())) {
+                return false;
+            }
+            
+            // Source filter
+            if (this.selectedSource && circular.source !== this.selectedSource) {
+                return false;
+            }
+            
+            // Severity filter
+            if (this.selectedSeverity && circular.severity !== this.selectedSeverity) {
+                return false;
+            }
+            
+            // Category filter
+            if (this.selectedCategory && circular.category !== this.selectedCategory) {
+                return false;
+            }
+            
+            // Tags filter
+            if (this.selectedTags.length > 0 && !this.selectedTags.some(tag => circular.tags && circular.tags.includes(tag))) {
+                return false;
+            }
+            
+            return true;
+        }
+    }
+}
+</script>
+{{ end }}

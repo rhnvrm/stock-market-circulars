@@ -1,0 +1,158 @@
+name: Deploy Stock Market Circulars
+
+on:
+  # Manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      reset_state:
+        description: 'Reset processing state before running'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+      force_full_process:
+        description: 'Force reprocessing of all items'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false' 
+          - 'true'
+  # Scheduled runs every 4 hours
+  schedule:
+    - cron: '0 */4 * * *'
+  # Also run on push to main for testing
+  push:
+    branches: [ main, master ]
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history for proper git operations
+    
+    - name: Install Nix
+      uses: DeterminateSystems/nix-installer-action@v8
+    
+    - name: Setup Nix cache
+      uses: DeterminateSystems/magic-nix-cache-action@v2
+    
+    - name: Setup development environment
+      run: |
+        nix develop --command bash -c "echo 'Development environment ready'"
+    
+    - name: Setup state directories
+      run: |
+        mkdir -p state/combined_progress state/combined_errors
+        mkdir -p hugo-site/content/circulars/nse/2025 hugo-site/content/circulars/bse/2025 hugo-site/content/circulars/sebi/2025
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+    
+    - name: Reset state if requested
+      if: github.event.inputs.reset_state == 'true'
+      run: |
+        echo "Resetting processing state as requested..."
+        rm -rf state/combined_progress/* state/combined_errors/*
+        rm -f state/*_combined_seen_guids.txt state/combined_pipeline.log state/combined_report.json
+        mkdir -p state/combined_progress state/combined_errors
+    
+    - name: Check existing state
+      run: |
+        echo "📋 Existing state before processing:"
+        echo "Progress files: $(find state/combined_progress -name "*.json" 2>/dev/null | wc -l)"
+        echo "Seen GUIDs: $(wc -l state/*_combined_seen_guids.txt 2>/dev/null | head -1 || echo '0 total')"
+        echo "Content files: $(find hugo-site/content/circulars -name "*.md" 2>/dev/null | wc -l)"
+    
+    - name: Run combined RSS fetch and AI processing pipeline
+      env:
+        CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        DEBUG: false
+        LOG_LEVEL: INFO
+        # Use console-only logging for GitHub Actions (don't write log files)
+        LOG_TO_FILE: false
+        LOG_TO_CONSOLE: true
+      run: |
+        nix develop --command just pipeline
+    
+    - name: Handle pipeline errors gracefully
+      if: failure()
+      run: |
+        echo "⚠️ Pipeline encountered errors, but preserving state for next run"
+        echo "Error files: $(find state/combined_errors -name "*.json" 2>/dev/null | wc -l)"
+        echo "📋 Error details:"
+        if [ -d state/combined_errors ]; then
+          find state/combined_errors -name "*.json" -exec echo "Error: $(basename {})" \; -exec cat {} \; | head -20
+        fi
+        echo "💡 Full pipeline logs are available in the GitHub Actions output above"
+    
+    - name: Show processing statistics
+      run: |
+        echo "📊 Processing Results:"
+        if [ -f state/combined_report.json ]; then
+          cat state/combined_report.json | jq -r '.summary // "No summary available"'
+        fi
+        echo "New content files: $(find hugo-site/content/circulars -name "*.md" -newer .git/FETCH_HEAD 2>/dev/null | wc -l)"
+        echo "State files: $(find state/combined_progress -name "*.json" 2>/dev/null | wc -l)"
+    
+    - name: Commit new content and state
+      if: always()  # Always commit state, even if pipeline failed
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          # Get processing stats for commit message
+          NEW_CONTENT=$(find hugo-site/content/circulars -name "*.md" -newer .git/FETCH_HEAD 2>/dev/null | wc -l)
+          STATE_FILES=$(find state/combined_progress -name "*.json" 2>/dev/null | wc -l)
+          ERROR_FILES=$(find state/combined_errors -name "*.json" 2>/dev/null | wc -l)
+          
+          # Determine status based on processing results
+          if [ "${{ job.status }}" = "failure" ]; then
+            STATUS_MSG="⚠️ Pipeline errors (${ERROR_FILES} errors)"
+          else
+            STATUS_MSG="✅ Successful processing"
+          fi
+          
+          git commit -m "Automated update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+          ${STATUS_MSG}
+          - Processed ${NEW_CONTENT} new circulars via combined pipeline
+          - Updated ${STATE_FILES} state tracking files  
+          - Generated Hugo content with AI analysis (MarkItDown + Claude)"
+        fi
+    
+    - name: Push changes
+      if: always()  # Always push state, even if pipeline failed
+      run: |
+        git push origin ${{ github.ref_name }}
+    
+    - name: Build Hugo site
+      if: success()  # Only build if pipeline succeeded
+      run: |
+        nix develop --command bash -c "cd hugo-site && hugo --minify --gc"
+    
+    - name: Upload Hugo build artifacts
+      if: success()  # Only upload if build succeeded
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./hugo-site/public
+    
+    - name: Deploy to GitHub Pages
+      if: success()  # Only deploy if upload succeeded
+      id: deployment
+      uses: actions/deploy-pages@v4
+

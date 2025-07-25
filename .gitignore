@@ -1,4 +1,4 @@
-# OS and system files
+# --- System and OS Files ---
 .DS_Store
 .DS_Store?
 ._*
@@ -7,48 +7,68 @@
 ehthumbs.db
 Thumbs.db
 
-# Local environment files
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+
+# --- Local environment files ---
 *.local.*
+.local/
 .env.local
 .env.*.local
+.envrc
 
-# Development directories
+# --- Development directories ---
 node_modules/
 .npm/
 .pnpm-store/
 
-# Build outputs
+# --- Build outputs ---
 hugo-site/public/
 hugo-site/resources/
 dist/
 build/
 
-# State and cache files
+# --- Nix ---
+result
+result-*
+.direnv/
+
+# --- Hugo specific ---
+hugo-site/.hugo_build.lock
+
+# --- State and cache files ---
+# State directory is preserved with .gitkeep files
 state/
 .cache/
-*.log
 
-# Temporary files
+# --- Temporary files ---
 *.tmp
 *.temp
 .tmp/
 .temp/
 
-# IDE and editor files
+# --- IDE and editor files ---
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Nix result symlinks
-result
-result-*
-
-# Hugo specific
-hugo-site/.hugo_build.lock
-
-# Downloaded content (keep structure but not actual files for repo)
+# --- Downloaded content (keep structure but not actual files for repo) ---
 inbox/*.pdf
 inbox/*.doc
 inbox/*.docx

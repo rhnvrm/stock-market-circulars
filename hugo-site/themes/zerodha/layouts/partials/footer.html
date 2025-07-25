@@ -1,0 +1,51 @@
+<footer class="zerodha-card mt-16 border-t border-gray-200">
+    <div class="container mx-auto px-6 py-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <!-- About -->
+            <div>
+                <h3 class="text-lg font-semibold mb-4">Stock Market Circulars</h3>
+                <p class="text-sm opacity-80">
+                    Automated regulatory circular processing with AI-powered summaries for NSE, BSE, and SEBI.
+                </p>
+            </div>
+            
+            <!-- Quick Links -->
+            <div>
+                <h4 class="font-semibold mb-3">Quick Links</h4>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/circulars/" class="hover:text-primary transition-colors">All Circulars</a></li>
+                    <li><a href="/circulars/?severity=high" class="hover:text-primary transition-colors">High Priority</a></li>
+                    <li><a href="/circulars/?recent=7d" class="hover:text-primary transition-colors">Recent Updates</a></li>
+                </ul>
+            </div>
+            
+            <!-- Sources -->
+            <div>
+                <h4 class="font-semibold mb-3">Sources</h4>
+                <ul class="space-y-2 text-sm">
+                    <li><a href="/sources/nse/" class="hover:text-primary transition-colors">NSE Circulars</a></li>
+                    <li><a href="/sources/bse/" class="hover:text-primary transition-colors">BSE Circulars</a></li>
+                    <li><a href="/sources/sebi/" class="hover:text-primary transition-colors">SEBI Regulations</a></li>
+                </ul>
+            </div>
+            
+            <!-- Info -->
+            <div>
+                <h4 class="font-semibold mb-3">Information</h4>
+                <p class="text-xs opacity-70">
+                    Data updated automatically from official RSS feeds. AI processing provides summaries for quick understanding.
+                </p>
+                <div class="mt-4 text-xs opacity-60">
+                    Last updated: {{ now.Format "Jan 2, 2006 15:04 MST" }}
+                </div>
+            </div>
+        </div>
+        
+        <div class="border-t border-gray-200 mt-8 pt-6 text-center text-sm opacity-70">
+            <p>&copy; {{ now.Format "2006" }}. All rights reserved. 
+               <span class="mx-2">•</span> 
+               Powered by Hugo & AI Processing
+            </p>
+        </div>
+    </div>
+</footer>

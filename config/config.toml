@@ -1,0 +1,142 @@
+# Stock Market Circulars Processing Configuration
+# Human-editable configuration for the combined pipeline
+
+[general]
+# Default processing delays (seconds)
+request_delay = 2.0
+claude_delay = 3.0
+timeout = 30
+
+# Debug and logging
+debug = false
+log_level = "INFO"  # DEBUG, INFO, WARN, ERROR
+log_to_file = true  # Set to false for CI/CD to output to console only
+log_to_console = true  # Whether to also output to console (in addition to file)
+
+# Concurrency limits
+max_concurrent_items = 5
+max_concurrent_sources = 3
+max_concurrent_claude_calls = 2
+max_concurrent_downloads = 3
+
+[rss_feeds]
+# RSS feed URLs for each source
+nse = "https://nsearchives.nseindia.com/content/RSS/Circulars.xml"
+bse = "https://www.bseindia.com/data/xml/notices.xml"
+sebi = "https://www.sebi.gov.in/sebirss.xml"
+
+[processing]
+# PDF processing settings
+max_pdf_size_mb = 50
+min_content_length = 50
+max_content_length = 50000
+strip_whitespace = true
+
+# Retry settings
+max_retries = 3
+backoff_multiplier = 2
+
+# File validation
+validate_pdf_signature = true
+allowed_file_types = ["pdf"]
+
+[output]
+# Hugo content generation
+default_year = "2025"  # Where to place content if date parsing fails
+max_filename_length = 100
+content_encoding = "utf-8"
+
+# Categories mapping
+category_mapping = [
+    { keywords = ["trading", "trade"], category = "trading" },
+    { keywords = ["listing", "list"], category = "listing" },
+    { keywords = ["compliance", "regulatory"], category = "compliance" },
+    { keywords = ["disclosure", "announce"], category = "disclosure" },
+    { keywords = ["surveillance", "monitor"], category = "surveillance" },
+    { keywords = ["market", "operation"], category = "market-operations" },
+]
+
+[api]
+# API configuration (can be overridden by environment variables)
+# claude_api_key = ""  # Set via CLAUDE_API_KEY env var
+# claude_model = "claude-3-sonnet-20240229"  # Override default model
+
+[directories]
+# Directory structure (relative to project root)
+content_dir = "hugo-site/content/circulars"
+state_dir = "state"
+progress_dir = "state/combined_progress"
+error_dir = "state/combined_errors"
+log_file = "state/combined_pipeline.log"
+
+[prompts]
+# Claude AI prompts for content generation
+claude_analysis = """Analyze this regulatory circular from {source} and generate markdown content with Hugo-compatible YAML frontmatter.
+
+Source: {source}
+Title: {title}
+PDF URL: {pdf_url}
+Circular ID: {circular_id}
+
+Metadata:
+{metadata}
+
+CIRCULAR CONTENT:
+{content}
+
+CRITICAL: Generate raw markdown text ONLY. DO NOT use any code blocks, backticks, or ```yaml wrappers anywhere in your response. DO NOT be creative with the format.
+
+Your entire response must be raw markdown text that starts directly with --- and follows this exact format:
+
+---
+title: "Clear descriptive title"
+description: "Brief 1-2 sentence summary"
+date: 2025-07-25
+source: {source}
+circular_id: "{circular_id}"
+pdf_url: "{pdf_url}"
+tags:
+  - relevant-tag-1
+  - relevant-tag-2
+  - stock-ticker-if-mentioned
+severity: "high/medium/low"
+impact: "high/medium/low" 
+category: "trading/listing/compliance/disclosure/market-operations"
+stocks: ["TICKER1", "TICKER2"]
+importance_ranking: "high/medium/low"
+impact_ranking: "high/medium/low"
+justification: "Brief reasoning for rankings"
+---
+
+## Summary
+
+[Comprehensive summary]
+
+## Key Points
+
+- Key point 1
+- Key point 2
+
+## Regulatory Changes
+
+[Details of regulatory changes if any]
+
+## Compliance Requirements
+
+[What entities need to do]
+
+## Important Dates
+
+[Deadlines and effective dates]
+
+## Impact Assessment
+
+[Market/operational impact analysis]
+
+Extract concrete information from the circular content. Be specific and accurate. Use flat tag structure (no nesting)."""
+
+[github_actions]
+# GitHub Actions specific settings
+commit_state = true  # Whether to commit state files back to repo
+max_errors_before_skip = 50  # Skip deployment if too many errors
+preserve_state_on_failure = true  # Always preserve state, even on pipeline failure

@@ -1,5 +1,5 @@
 {
-  description = "Stock Market Circulars Static Site Development Environment";
+  description = "Stock Market Circulars Processing Pipeline Development Environment";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -14,44 +14,50 @@
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            # Core tools for RSS parsing and file processing
+            # Core development tools
             curl
-            wget
-            xmlstarlet
-            jq
+            git
+            just
+            
+            # Python ecosystem
+            python311
+            uv  # Python dependency management
+            
+            # Static site generation
+            hugo
+            nodejs_20  # For Claude Code and Hugo tooling
             
             # Development utilities
             direnv
-            git
-            
-            # Node.js for npm packages (Hugo will be installed via npm initially)
-            nodejs_20
-            
-            # Shell scripting utilities
-            bash
-            coreutils
-            findutils
-            
-            # PDF processing tools
-            poppler_utils  # for pdftotext if needed
           ];
 
           shellHook = ''
-            echo "🏗️  Stock Market Circulars Development Environment"
-            echo "📦 Available tools:"
-            echo "   - curl, wget: For downloading RSS feeds and files"
-            echo "   - xmlstarlet: For RSS XML parsing"
-            echo "   - jq: For JSON processing"
-            echo "   - nodejs: For npm packages (Hugo installation)"
+            echo "🚀 Stock Market Circulars Processing Pipeline"
+            echo "Python + uv + Claude + Hugo development environment"
             echo ""
-            echo "📁 Project structure will be:"
-            echo "   ├── scripts/     # RSS scraper and processing scripts"
-            echo "   ├── hugo-site/   # Hugo static site"
-            echo "   ├── inbox/       # Downloaded circulars"
-            echo "   └── state/       # Processing state files"
+            
+            # Set up npm prefix for user-local installs
+            export NPM_CONFIG_PREFIX="$HOME/.npm-global"
+            export PATH="$NPM_CONFIG_PREFIX/bin:$PATH"
+            
+            # Create npm global directory if it doesn't exist
+            mkdir -p "$NPM_CONFIG_PREFIX"
+            
+            # Install Claude Code if not available
+            if ! command -v claude-code &> /dev/null; then
+              echo "📦 Installing Claude Code..."
+              npm install -g @anthropic-ai/claude-code
+            else
+              echo "✅ Claude Code available"
+            fi
+            
             echo ""
-            echo "🚀 Run './scripts/fetch-circulars.sh' to start downloading circulars"
-            echo "🔄 Run './scripts/process-all.sh' to process downloaded files"
+            echo "🔧 Available commands:"
+            echo "  just pipeline    # Run RSS scraping & AI processing"
+            echo "  just serve       # Start Hugo development server"
+            echo "  just stats       # Show processing statistics"
+            echo ""
+            echo "📚 Documentation: README.md"
           '';
         };
       });

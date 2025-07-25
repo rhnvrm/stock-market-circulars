@@ -1,0 +1,39 @@
+baseURL = 'https://rhnvrm.github.io/stock-market-circulars/'
+languageCode = 'en-us'
+title = 'Stock Market Circulars'
+theme = 'zerodha'
+
+[params]
+  description = 'Regulatory circulars from NSE, BSE, and SEBI with AI-powered summaries'
+  author = 'Automated Processing System'
+  
+[taxonomies]
+  source = 'sources'
+  tag = 'tags'
+  severity = 'severities'
+  impact = 'impacts'
+  category = 'categories'
+  stock = 'stocks'
+
+[menu]
+  [[menu.main]]
+    name = 'All Circulars'
+    url = '/circulars/'
+    weight = 10
+  [[menu.main]]
+    name = 'NSE'
+    url = '/sources/nse/'
+    weight = 20
+  [[menu.main]]
+    name = 'BSE'
+    url = '/sources/bse/'
+    weight = 30
+  [[menu.main]]
+    name = 'SEBI'
+    url = '/sources/sebi/'
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
