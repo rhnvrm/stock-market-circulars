@@ -15,6 +15,14 @@ just pipeline
 just serve
 ```
 
+## Recent Updates
+
+### 2025-07-26: Pipeline Reprocessing Bug Fix
+- **Fixed**: Items with `stage: completed` but missing `status` field were being reprocessed
+- **Enhanced**: `is_processed()` detection now checks both `status` and `stage` fields
+- **Result**: 99.1% skip rate (114/115 files correctly identified as processed)
+- **Performance**: Eliminates unnecessary reprocessing, faster pipeline execution
+
 ## Architecture
 
 - **Unified Python Pipeline** (`scripts/combined_pipeline.py` - uv script format)

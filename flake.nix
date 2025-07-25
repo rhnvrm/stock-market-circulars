@@ -23,6 +23,11 @@
             python311
             uv  # Python dependency management
             
+            # System libraries for Python packages
+            gcc
+            stdenv.cc.cc.lib  # libstdc++
+            zlib
+            
             # Static site generation
             hugo
             nodejs_20  # For Claude Code and Hugo tooling
@@ -35,6 +40,9 @@
             echo "🚀 Stock Market Circulars Processing Pipeline"
             echo "Python + uv + Claude + Hugo development environment"
             echo ""
+            
+            # Set up library paths for Python packages
+            export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:${pkgs.zlib}/lib:$LD_LIBRARY_PATH"
             
             # Set up npm prefix for user-local installs
             export NPM_CONFIG_PREFIX="$HOME/.npm-global"

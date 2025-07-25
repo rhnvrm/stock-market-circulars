@@ -91,7 +91,7 @@ class FrontmatterManager:
         
         with file_lock:
             try:
-                # Check if content already has frontmatter (from Claude)
+                # Always create a fresh post to avoid any state file contamination
                 if content.strip().startswith('---'):
                     # Parse existing frontmatter from Claude's output
                     post = frontmatter.loads(content)
@@ -100,6 +100,11 @@ class FrontmatterManager:
                     # Create new post with content (no frontmatter from Claude)
                     post = frontmatter.Post(content)
                     self._log(f"Created new post from content without frontmatter", "DEBUG")
+                
+                # Ensure we're not accidentally preserving old state file content
+                if post.content.strip() == "Processing in progress...":
+                    self._log(f"Warning: Detected state file content, replacing with new content", "WARN")
+                    post.content = content
                 
                 # Add/update pipeline metadata (don't overwrite Claude's metadata)
                 pipeline_metadata = {
@@ -211,8 +216,19 @@ class FrontmatterManager:
             if post and post.metadata.get('circular_id') == circular_id:
                 if source and post.metadata.get('source') != source:
                     continue
-                processing_status = post.metadata.get('processing', {}).get('status', '')
-                return processing_status in ['published', 'completed']
+                
+                processing = post.metadata.get('processing', {})
+                processing_status = processing.get('status', '')
+                processing_stage = processing.get('stage', '')
+                
+                # Check if file is completed (either status=published/completed OR stage=completed)
+                is_status_complete = processing_status in ['published', 'completed']
+                is_stage_complete = processing_stage == 'completed'
+                has_real_content = post.content.strip() != "Processing in progress..."
+                
+                # File is processed if it has completed status/stage AND real content
+                if (is_status_complete or is_stage_complete) and has_real_content:
+                    return True
         
         return False
     

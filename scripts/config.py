@@ -9,7 +9,7 @@ import tomli
 
 def load_config() -> Dict[str, Any]:
     """Load configuration from TOML file with environment overrides"""
-    config_path = Path("config/config.toml")
+    config_path = Path("../config/config.toml")
     
     # Default configuration
     config = {
@@ -43,7 +43,7 @@ def load_config() -> Dict[str, Any]:
     
     # Environment variable overrides
     env_overrides = {
-        "claude_api_key": os.getenv("CLAUDE_API_KEY", ""),
+        "claude_api_key": os.getenv("CLAUDE_CODE_OAUTH_TOKEN", ""),
         "request_delay": float(os.getenv("REQUEST_DELAY", "0")) or None,
         "claude_delay": float(os.getenv("CLAUDE_DELAY", "0")) or None,
         "timeout": int(os.getenv("TIMEOUT", "0")) or None,

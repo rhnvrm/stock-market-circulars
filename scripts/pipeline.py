@@ -401,6 +401,14 @@ class CircularsPipeline:
                 return True
             else:
                 self.log(f"Failed to write content file", "ERROR", circular_id)
+                
+                # Mark as failed to prevent infinite reprocessing
+                try:
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "write_failed", "failed")
+                    self.log(f"Marked item as failed due to write failure", "INFO", circular_id)
+                except Exception as state_error:
+                    self.log(f"Failed to update state after write failure: {state_error}", "ERROR", circular_id)
+                
                 return False
                 
         except Exception as e:

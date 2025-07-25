@@ -63,12 +63,9 @@ category_mapping = [
 # claude_model = "claude-3-sonnet-20240229"  # Override default model
 
 [directories]
-# Directory structure (relative to project root)
-content_dir = "hugo-site/content/circulars"
-state_dir = "state"
-progress_dir = "state/combined_progress"
-error_dir = "state/combined_errors"
-log_file = "combined_pipeline.log"
+# Directory structure (relative to scripts directory)
+content_dir = "../hugo-site/content/circulars"
+log_file = "../combined_pipeline.log"
 
 [prompts]
 # Claude AI prompts for content generation

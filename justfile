@@ -9,12 +9,12 @@ default:
 # Run RSS scraping and AI processing pipeline
 pipeline:
     @echo "🚀 Running RSS scraping & AI processing pipeline..."
-    uv run --script scripts/combined_pipeline.py main
+    cd scripts && uv run combined_pipeline.py main
 
 # Regenerate specific items with updated prompts
 regenerate *args:
     @echo "🔄 Regenerating items: {{args}}"
-    uv run --script scripts/combined_pipeline.py regenerate {{args}}
+    cd scripts && uv run combined_pipeline.py regenerate {{args}}
 
 # Development Commands
 
@@ -36,11 +36,11 @@ deps:
     @which curl > /dev/null && echo "✅ curl" || echo "❌ curl"
     @which hugo > /dev/null && echo "✅ hugo" || echo "❌ hugo"  
     @which claude > /dev/null && echo "✅ claude" || echo "❌ claude"
-    @uv run --script scripts/combined_pipeline.py --help > /dev/null && echo "✅ Python dependencies" || echo "❌ Missing Python dependencies"
+    @cd scripts && uv run combined_pipeline.py --help > /dev/null && echo "✅ Python dependencies" || echo "❌ Missing Python dependencies"
 
 # Show processing statistics and status
 stats:
-    @uv run --script scripts/analyze_stats.py
+    @cd scripts && uv run analyze_stats.py
 
 # View recent logs
 logs:
@@ -69,5 +69,5 @@ validate:
 
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p state state/combined_progress state/combined_errors hugo-site/content/circulars/{nse,bse,sebi}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
 
