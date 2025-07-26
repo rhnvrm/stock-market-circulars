@@ -9,7 +9,7 @@ import tomli
 
 def load_config() -> Dict[str, Any]:
     """Load configuration from TOML file with environment overrides"""
-    config_path = Path("../config/config.toml")
+    config_path = Path("../config/config.toml").resolve()  # Resolve to absolute path
     
     # Default configuration
     config = {
@@ -26,20 +26,24 @@ def load_config() -> Dict[str, Any]:
         "api": {
             "claude_api_key": ""
         },
-        "prompts": {
-            "claude_analysis": "Analyze this regulatory circular and generate markdown content with YAML frontmatter."
-        },
+        "prompts": {},
         "rss_feeds": {}
     }
     
-    # Load from TOML file if it exists
-    if config_path.exists():
-        try:
-            with open(config_path, "rb") as f:
-                file_config = tomli.load(f)
-                config.update(file_config)
-        except Exception as e:
-            print(f"Warning: Failed to load config from {config_path}: {e}")
+    # Load from TOML file - required
+    if not config_path.exists():
+        raise FileNotFoundError(f"Required config file not found: {config_path}")
+    
+    try:
+        with open(config_path, "rb") as f:
+            file_config = tomli.load(f)
+            config.update(file_config)
+    except Exception as e:
+        raise RuntimeError(f"Failed to load config from {config_path}: {e}")
+    
+    # Validate required sections
+    if not config.get("prompts", {}).get("claude_analysis"):
+        raise ValueError("Missing required config: prompts.claude_analysis")
     
     # Environment variable overrides
     env_overrides = {

@@ -225,7 +225,9 @@ class ClaudeProcessor:
     def __init__(self, claude_delay: float = 3.0, max_claude_calls: int = 2, prompts: Dict[str, str] = None, logger=None):
         self.claude_delay = claude_delay
         self.claude_semaphore = asyncio.Semaphore(max_claude_calls)
-        self.prompts = prompts or {"claude_analysis": "Analyze this regulatory circular and generate markdown content with YAML frontmatter."}
+        if not prompts or not prompts.get("claude_analysis"):
+            raise ValueError("Missing required prompt: claude_analysis")
+        self.prompts = prompts
         self.logger = logger or print  # Fallback to print if no logger provided
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
@@ -240,7 +242,10 @@ class ClaudeProcessor:
         # Build metadata string for prompt
         metadata_str = "\\n".join([f"- {k}: {v}" for k, v in metadata.items() if v])
         
-        claude_prompt = self.prompts["claude_analysis"].format(
+        # Use string.Template to avoid issues with braces in content
+        import string
+        template = string.Template(self.prompts["claude_analysis"])
+        claude_prompt = template.safe_substitute(
             source=metadata.get("source", "unknown"),
             title=metadata.get("title", "Untitled"),
             pdf_url=metadata.get("pdf_url", ""),
@@ -253,14 +258,19 @@ class ClaudeProcessor:
         full_prompt = f"@{pdf_path} {claude_prompt}"
         
         response = await self._run_claude_with_retry(full_prompt, item_id)
-        return response.get("result") if response else None
+        if response and response.get("result"):
+            return self._parse_structured_response(response["result"], item_id)
+        return None
     
     async def run_claude(self, pdf_content: str, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
         """Run Claude with extracted text content"""
         # Build metadata string for prompt
         metadata_str = "\\n".join([f"- {k}: {v}" for k, v in metadata.items() if v])
         
-        claude_prompt = self.prompts["claude_analysis"].format(
+        # Use string.Template to avoid issues with braces in content
+        import string
+        template = string.Template(self.prompts["claude_analysis"])
+        claude_prompt = template.safe_substitute(
             source=metadata.get("source", "unknown"),
             title=metadata.get("title", "Untitled"),
             pdf_url=metadata.get("pdf_url", ""),
@@ -269,9 +279,74 @@ class ClaudeProcessor:
             content=pdf_content[:4000]  # Limit content length
         )
         
+        # Debug: log the content and prompt
+        self._log(f"Content length: {len(pdf_content)} chars", "DEBUG", item_id)
+        self._log(f"Prompt length: {len(claude_prompt)} chars", "DEBUG", item_id)
+        
         response = await self._run_claude_with_retry(claude_prompt, item_id)
-        return response.get("result") if response else None
+        if response and response.get("result"):
+            self._log(f"Claude returned result, calling parser", "DEBUG", item_id)
+            result = self._parse_structured_response(response["result"], item_id)
+            self._log(f"Parser returned: {type(result)}", "DEBUG", item_id)
+            return result
+        else:
+            self._log(f"No result from Claude: {response}", "DEBUG", item_id)
+            return None
     
+    def _parse_structured_response(self, response: str, item_id: str = None) -> Optional[str]:
+        """Parse structured JSON response and reconstruct markdown"""
+        try:
+            # Log the raw response for debugging
+            self._log(f"Raw Claude response ({len(response)} chars): {response[:200]}...", "DEBUG", item_id)
+            
+            # Extract JSON from response (handle markdown code blocks if present)
+            json_content = response.strip()
+            
+            # Remove markdown code blocks if present
+            if json_content.startswith("```json"):
+                json_content = json_content.replace("```json", "").replace("```", "").strip()
+            elif json_content.startswith("```"):
+                json_content = json_content.replace("```", "").strip()
+            
+            self._log(f"Cleaned JSON content: {json_content[:200]}...", "DEBUG", item_id)
+            
+            # Parse JSON
+            try:
+                data = json.loads(json_content)
+            except json.JSONDecodeError as e:
+                self._log(f"JSON decode error: {e}", "DEBUG", item_id)
+                # Fallback: try to find JSON within the response
+                import re
+                json_match = re.search(r'\{.*\}', json_content, re.DOTALL)
+                if json_match:
+                    self._log(f"Found JSON match: {json_match.group()[:200]}...", "DEBUG", item_id)
+                    data = json.loads(json_match.group())
+                else:
+                    raise ValueError("No valid JSON found in response")
+            
+            # Validate structure
+            if not isinstance(data, dict) or "frontmatter" not in data or "content" not in data:
+                self._log(f"Invalid JSON structure: missing frontmatter or content keys", "ERROR", item_id)
+                return None
+            
+            frontmatter_data = data["frontmatter"]
+            content_data = data["content"]
+            
+            # Reconstruct markdown with frontmatter
+            import yaml
+            frontmatter_yaml = yaml.dump(frontmatter_data, default_flow_style=False, allow_unicode=True)
+            
+            # Build final markdown
+            markdown_content = f"---\n{frontmatter_yaml}---\n\n{content_data}"
+            
+            self._log(f"Successfully parsed structured JSON response", "DEBUG", item_id)
+            return markdown_content
+            
+        except Exception as e:
+            self._log(f"Failed to parse structured response: {e}", "ERROR", item_id)
+            self._log(f"Raw response: {response[:500]}...", "DEBUG", item_id)
+            return None
+
     def _sanitize_prompt(self, prompt: str) -> str:
         """Sanitize prompt input to prevent command injection"""
         if not isinstance(prompt, str):

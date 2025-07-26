@@ -69,18 +69,36 @@ log_file = "../combined_pipeline.log"
 
 [prompts]
 # Claude AI prompts for content generation
-claude_analysis = """OUTPUT HUGO MARKDOWN. START WITH ---.
+claude_analysis = """Generate Hugo content as JSON with separate frontmatter and content sections.
 
-SOURCE: {source} | TITLE: {title} | URL: {pdf_url} | ID: {circular_id}
+SOURCE: $source | TITLE: $title | URL: $pdf_url | ID: $circular_id
 
 CONTENT:
-{content}
+$content
 
-RESPONSE FORMAT: Raw markdown starting with --- (first character). Zero preamble text.
+Output valid JSON only (no explanations, no markdown wrappers):
 
-FORBIDDEN: "Based on", "Here is", "I can", "I cannot", explanations, commentary, analysis text.
+{
+  "frontmatter": {
+    "title": "Clear descriptive title",
+    "description": "Brief 1-2 sentence summary", 
+    "date": "2025-07-25",
+    "source": "$source",
+    "circular_id": "$circular_id",
+    "pdf_url": "$pdf_url",
+    "tags": ["relevant-tag-1", "relevant-tag-2"],
+    "severity": "high/medium/low",
+    "impact": "high/medium/low",
+    "category": "trading/listing/compliance/disclosure/market-operations",
+    "stocks": ["TICKER1"],
+    "importance_ranking": "high/medium/low",
+    "impact_ranking": "high/medium/low",
+    "justification": "Brief reasoning"
+  },
+  "content": "## Summary\\n\\n[Summary text]\\n\\n## Key Points\\n\\n- Point 1\\n- Point 2\\n\\n## Regulatory Changes\\n\\n[Changes]\\n\\n## Compliance Requirements\\n\\n[Requirements]\\n\\n## Important Dates\\n\\n[Dates]\\n\\n## Impact Assessment\\n\\n[Impact]"
+}
 
-OUTPUT TEMPLATE:
+CRITICAL: Output JSON only. No markdown blocks, no explanations, no preamble text.
 
 ---
 title: "Clear descriptive title"

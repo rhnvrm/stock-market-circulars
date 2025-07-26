@@ -322,7 +322,7 @@ class CircularsPipeline:
                 'source': source,
                 'title': item['title'],
                 'circular_id': circular_id,
-                'published_date': parse_rss_date(item.get('pubdate', '')),
+                'published_date': item.get('pubdate', '') if item.get('pubdate', '').startswith('2025-') else parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
                 'rss_url': item['download_url']  # Original URL from RSS feed
             }
@@ -368,7 +368,13 @@ class CircularsPipeline:
                             
                             # Process the HTML content with Claude
                             self.frontmatter_manager.write_state_file(content_path, base_metadata, "claude_processing", "processing")
-                            claude_content = await self.claude_processor.run_claude(html_text, base_metadata, circular_id)
+                            try:
+                                self.log(f"Calling Claude with {len(html_text)} chars of HTML", "DEBUG", circular_id)
+                                claude_content = await self.claude_processor.run_claude(html_text, base_metadata, circular_id)
+                                self.log(f"Claude returned: {type(claude_content)} - {len(claude_content) if claude_content else 0} chars", "DEBUG", circular_id)
+                            except Exception as e:
+                                self.log(f"Claude call failed: {e}", "ERROR", circular_id)
+                                raise
                             
                             if claude_content:
                                 # Stage 5: Finalize and write content
@@ -472,21 +478,15 @@ class CircularsPipeline:
     async def regenerate_item_markdown(self, item_id: str, source: str) -> bool:
         """Regenerate a specific item by reprocessing it from scratch"""
         try:
-            # Find the existing content file
-            content_path = None
-            content_dir = Path(f"hugo-site/content/circulars/{source}")
-            
-            for year_dir in content_dir.glob("*"):
-                if year_dir.is_dir():
-                    for file_path in year_dir.glob(f"*{item_id}*.md"):
-                        content_path = file_path
-                        break
-                if content_path:
-                    break
-            
-            if not content_path or not content_path.exists():
+            # Use FrontmatterManager to find files (configured paths)
+            files = self.frontmatter_manager.find_files_by_circular_id(item_id)
+            if not files:
                 self.log(f"Content file not found for item {item_id}", "ERROR", item_id)
                 return False
+            
+            # Use the first matching file
+            content_path = files[0]
+            self.log(f"Found content file: {content_path}", "DEBUG", item_id)
             
             # Parse existing frontmatter to get original RSS data
             try:
@@ -495,16 +495,17 @@ class CircularsPipeline:
                     self.log(f"Could not parse frontmatter from {content_path}", "ERROR", item_id)
                     return False
                 
-                # Reconstruct item data for reprocessing
+                # Reconstruct item data for reprocessing (same as main pipeline)
                 item_data = {
                     'guid': existing_metadata.get('guid', ''),
                     'title': existing_metadata.get('title', ''),
-                    'download_url': existing_metadata.get('rss_url', existing_metadata.get('pdf_url', ''))
+                    'download_url': existing_metadata.get('rss_url', existing_metadata.get('pdf_url', '')),
+                    'pubdate': existing_metadata.get('published_date', '')
                 }
                 
                 self.log(f"Regenerating item {item_id}: {item_data['title']}", "INFO", item_id)
                 
-                # Delete existing file and reprocess
+                # Delete existing file and reprocess using SAME method as main pipeline
                 content_path.unlink()
                 return await self.process_item_content_based(source, item_data)
                 

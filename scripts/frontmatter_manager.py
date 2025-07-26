@@ -17,7 +17,7 @@ class FrontmatterManager:
     """Manages processing state using markdown frontmatter"""
     
     def __init__(self, content_dir: Path, logger=None):
-        self.content_dir = Path(content_dir)
+        self.content_dir = Path(content_dir).resolve()  # Resolve to absolute path immediately
         self.content_dir.mkdir(parents=True, exist_ok=True)
         self.logger = logger or print
         
@@ -138,8 +138,13 @@ class FrontmatterManager:
                 success = self._atomic_write(file_path, final_content)
                 
                 if success:
-                    self._log(f"Successfully wrote content file: {file_path}", "INFO")
-                    return True
+                    # Verify file was actually written
+                    if file_path.exists() and file_path.stat().st_size > 0:
+                        self._log(f"Successfully wrote content file: {file_path} ({file_path.stat().st_size} bytes)", "INFO")
+                        return True
+                    else:
+                        self._log(f"File write claimed success but file missing or empty: {file_path}", "ERROR")
+                        return False
                 else:
                     self._log(f"Atomic write failed for: {file_path}", "ERROR")
                     return False
