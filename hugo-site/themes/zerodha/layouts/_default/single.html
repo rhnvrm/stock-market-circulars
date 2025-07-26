@@ -7,10 +7,10 @@
     <!-- Breadcrumb -->
     <div class="breadcrumbs text-sm mb-6">
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/circulars/">Circulars</a></li>
+            <li><a href="{{ "/" | relURL }}">Home</a></li>
+            <li><a href="{{ "circulars" | relURL }}">Circulars</a></li>
             {{ if .Params.source }}
-            <li><a href="/sources/{{ .Params.source }}/">{{ upper .Params.source }}</a></li>
+            <li><a href="{{ printf "circulars/%s" .Params.source | relURL }}">{{ upper .Params.source }}</a></li>
             {{ end }}
             <li>{{ .Title }}</li>
         </ul>
@@ -87,7 +87,7 @@
             <div class="card-body">
                 <h3 class="card-title text-lg">Category</h3>
                 <div class="text-lg font-semibold">{{ title .Params.category }}</div>
-                <a href="/categories/{{ .Params.category }}/" class="btn btn-outline btn-sm mt-2">
+                <a href="{{ printf "categories/%s" .Params.category | relURL }}" class="btn btn-outline btn-sm mt-2">
                     View Similar
                 </a>
             </div>
@@ -138,7 +138,7 @@
                 <h3 class="card-title">Tags</h3>
                 <div class="flex flex-wrap gap-2">
                     {{ range .Params.tags }}
-                    <a href="/tags/{{ . | urlize }}/" class="badge badge-outline hover:badge-primary transition-colors">
+                    <a href="{{ printf "tags/%s" (. | urlize) | relURL }}" class="badge badge-outline hover:badge-primary transition-colors">
                         {{ . }}
                     </a>
                     {{ end }}
@@ -154,7 +154,7 @@
                 <h3 class="card-title">Mentioned Stocks</h3>
                 <div class="flex flex-wrap gap-2">
                     {{ range .Params.stocks }}
-                    <a href="/stocks/{{ . | urlize }}/" class="badge badge-info hover:badge-info-focus transition-colors">
+                    <a href="{{ printf "stocks/%s" (. | urlize) | relURL }}" class="badge badge-info hover:badge-info-focus transition-colors">
                         {{ . }}
                     </a>
                     {{ end }}
@@ -179,13 +179,13 @@
 
     <!-- Navigation -->
     <div class="flex justify-between items-center mt-12 pt-8 border-t border-base-300">
-        <a href="/circulars/" class="btn btn-outline">
+        <a href="{{ "circulars" | relURL }}" class="btn btn-outline">
             ← Back to All Circulars
         </a>
         
         <div class="flex gap-2">
             {{ if .Params.source }}
-            <a href="/sources/{{ .Params.source }}/" class="btn btn-primary">
+            <a href="{{ printf "circulars/%s" .Params.source | relURL }}" class="btn btn-primary">
                 More from {{ upper .Params.source }}
             </a>
             {{ end }}

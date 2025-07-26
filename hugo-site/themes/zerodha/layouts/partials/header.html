@@ -16,11 +16,11 @@
             </div>
             
             <nav class="hidden md:flex items-center space-x-1">
-                <a href="/" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all">Home</a>
-                <a href="/circulars/" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all">All Circulars</a>
-                <a href="/circulars/nse/" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all">NSE</a>
-                <a href="/circulars/bse/" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all">BSE</a>
-                <a href="/circulars/sebi/" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all">SEBI</a>
+                {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all {{ if eq $.Page.RelPermalink .URL }}bg-blue-100 text-blue-600{{ end }}">
+                    {{ .Name }}
+                </a>
+                {{ end }}
             </nav>
             
             <div class="flex items-center space-x-3">

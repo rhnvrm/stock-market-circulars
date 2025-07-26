@@ -17,20 +17,24 @@ theme = 'zerodha'
 
 [menu]
   [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 5
+  [[menu.main]]
     name = 'All Circulars'
     url = '/circulars/'
     weight = 10
   [[menu.main]]
     name = 'NSE'
-    url = '/sources/nse/'
+    url = '/circulars/nse/'
     weight = 20
   [[menu.main]]
     name = 'BSE'
-    url = '/sources/bse/'
+    url = '/circulars/bse/'
     weight = 30
   [[menu.main]]
     name = 'SEBI'
-    url = '/sources/sebi/'
+    url = '/circulars/sebi/'
     weight = 40
 
 [markup]

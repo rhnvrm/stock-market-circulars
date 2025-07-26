@@ -218,19 +218,20 @@ function circularList() {
         selectedTags: [],
         sortBy: 'date-desc',
         viewMode: 'grid',
-        allCirculars: [],
         
         init() {
-            // Initialize with all circulars
-            this.allCirculars = Array.from(document.querySelectorAll('[x-show*="isVisible"]')).map(el => {
-                // Extract data from template
-                return {}; // Simplified for now
-            });
+            console.log('Circular list filtering initialized');
+            this.$watch('search', value => console.log('Search changed:', value));
+            this.$watch('selectedSource', value => console.log('Source changed:', value));
         },
         
         get filteredCirculars() {
-            // This will be handled by the template visibility logic
-            return this.allCirculars;
+            // Count visible elements for display
+            try {
+                return document.querySelectorAll('[x-show*="isVisible"]:not([style*="display: none"])');
+            } catch (e) {
+                return [];
+            }
         },
         
         toggleTag(tag) {
@@ -250,29 +251,44 @@ function circularList() {
         },
         
         isVisible(circular) {
+            // Ensure circular object exists
+            if (!circular) return true;
+            
             // Search filter
-            if (this.search && !circular.title.toLowerCase().includes(this.search.toLowerCase())) {
-                return false;
+            if (this.search && this.search.trim()) {
+                const title = (circular.title || '').toLowerCase();
+                if (!title.includes(this.search.toLowerCase().trim())) {
+                    return false;
+                }
             }
             
             // Source filter
-            if (this.selectedSource && circular.source !== this.selectedSource) {
-                return false;
+            if (this.selectedSource && this.selectedSource.trim()) {
+                if ((circular.source || '') !== this.selectedSource) {
+                    return false;
+                }
             }
             
             // Severity filter
-            if (this.selectedSeverity && circular.severity !== this.selectedSeverity) {
-                return false;
+            if (this.selectedSeverity && this.selectedSeverity.trim()) {
+                if ((circular.severity || '') !== this.selectedSeverity) {
+                    return false;
+                }
             }
             
             // Category filter
-            if (this.selectedCategory && circular.category !== this.selectedCategory) {
-                return false;
+            if (this.selectedCategory && this.selectedCategory.trim()) {
+                if ((circular.category || '') !== this.selectedCategory) {
+                    return false;
+                }
             }
             
             // Tags filter
-            if (this.selectedTags.length > 0 && !this.selectedTags.some(tag => circular.tags && circular.tags.includes(tag))) {
-                return false;
+            if (this.selectedTags.length > 0) {
+                const tags = circular.tags || [];
+                if (!this.selectedTags.some(tag => tags.includes(tag))) {
+                    return false;
+                }
             }
             
             return true;
