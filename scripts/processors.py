@@ -44,11 +44,14 @@ class FileDownloader:
                     async with client.stream('GET', url, headers=headers) as response:
                         response.raise_for_status()
                         
+                        # Check Content-Disposition header for filename
+                        content_disposition = response.headers.get('content-disposition', '')
+                        
                         with open(temp_path, 'wb') as f:
                             async for chunk in response.aiter_bytes():
                                 f.write(chunk)
                 
-                is_valid, file_type = self._validate_file_type(temp_path)
+                is_valid, file_type = self._validate_file_type(temp_path, url, content_disposition)
                 if is_valid:
                     self._log(f"File downloaded and validated ({file_type}): {temp_path}", "INFO", item_id)
                     return temp_path, None
@@ -75,7 +78,7 @@ class FileDownloader:
                 
                 return None, "other"
     
-    def _validate_file_type(self, file_path: Path) -> Tuple[bool, str]:
+    def _validate_file_type(self, file_path: Path, url: str = "", content_disposition: str = "") -> Tuple[bool, str]:
         """Validate file type by checking binary signatures"""
         try:
             with open(file_path, 'rb') as f:
@@ -101,8 +104,15 @@ class FileDownloader:
             elif any(b > 127 for b in header[:8]):
                 return True, 'unknown_binary'
             
+            # Plain text files - check if it's a legitimate text file from BSE
             else:
-                return False, 'unknown_text'
+                # Simple check: BSE domain + .txt filename in Content-Disposition
+                content_disp_lower = content_disposition.lower()
+                if (url.endswith('bseindia.com') or '.bseindia.com/' in url) and \
+                   'filename=' in content_disp_lower and '.txt' in content_disp_lower:
+                    return True, 'text'
+                else:
+                    return False, 'unknown_text'
                 
         except Exception as e:
             self._log(f"Error validating file type: {e}", "ERROR")
