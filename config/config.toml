@@ -69,7 +69,7 @@ log_file = "../combined_pipeline.log"
 
 [prompts]
 # Claude AI prompts for content generation
-claude_analysis = """Analyze this regulatory circular from {source} and generate markdown content with Hugo-compatible YAML frontmatter.
+claude_analysis = """Generate a Hugo-compatible markdown file for this {source} regulatory circular.
 
 Source: {source}
 Title: {title}
@@ -82,9 +82,14 @@ Metadata:
 CIRCULAR CONTENT:
 {content}
 
-CRITICAL: Generate raw markdown text ONLY. DO NOT use any code blocks, backticks, or ```yaml wrappers anywhere in your response. DO NOT be creative with the format.
+CRITICAL OUTPUT REQUIREMENTS:
+- NO explanatory text, preamble, or commentary
+- NO "Based on...", "Here is...", or similar introductions  
+- NO code blocks, backticks, or ```yaml wrappers
+- Start IMMEDIATELY with --- (first character of response)
+- Output raw markdown text only
 
-Your entire response must be raw markdown text that starts directly with --- and follows this exact format:
+Your response must begin with the first character being --- and follow this exact format:
 
 ---
 title: "Clear descriptive title"
