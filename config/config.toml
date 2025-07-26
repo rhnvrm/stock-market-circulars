@@ -69,27 +69,18 @@ log_file = "../combined_pipeline.log"
 
 [prompts]
 # Claude AI prompts for content generation
-claude_analysis = """Generate a Hugo-compatible markdown file for this {source} regulatory circular.
+claude_analysis = """OUTPUT HUGO MARKDOWN. START WITH ---.
 
-Source: {source}
-Title: {title}
-PDF URL: {pdf_url}
-Circular ID: {circular_id}
+SOURCE: {source} | TITLE: {title} | URL: {pdf_url} | ID: {circular_id}
 
-Metadata:
-{metadata}
-
-CIRCULAR CONTENT:
+CONTENT:
 {content}
 
-CRITICAL OUTPUT REQUIREMENTS:
-- NO explanatory text, preamble, or commentary
-- NO "Based on...", "Here is...", or similar introductions  
-- NO code blocks, backticks, or ```yaml wrappers
-- Start IMMEDIATELY with --- (first character of response)
-- Output raw markdown text only
+RESPONSE FORMAT: Raw markdown starting with --- (first character). Zero preamble text.
 
-Your response must begin with the first character being --- and follow this exact format:
+FORBIDDEN: "Based on", "Here is", "I can", "I cannot", explanations, commentary, analysis text.
+
+OUTPUT TEMPLATE:
 
 ---
 title: "Clear descriptive title"
