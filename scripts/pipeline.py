@@ -3,8 +3,10 @@
 import asyncio
 import hashlib
 import json
+import re
 import tempfile
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -13,6 +15,54 @@ from extractors import ContentScraper, PDFURLExtractor, RSSExtractor
 from frontmatter_manager import FrontmatterManager
 from models import PipelineStats, SourceStats
 from processors import ClaudeProcessor, FileDownloader, TextExtractor
+
+# Pre-compiled regex for SEBI date format parsing
+SEBI_DATE_PATTERN = re.compile(r'(\d{1,2})\s+(\w{3}),?\s+(\d{4})\s+([+-]\d{4})')
+
+# Month name to number mapping
+MONTH_NAMES = {
+    'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+    'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+}
+
+
+def parse_rss_date(pubdate: str) -> str:
+    """Convert RSS pubDate format to ISO format"""
+    if not pubdate:
+        raise ValueError("pubDate is missing from RSS feed item")
+    
+    try:
+        # Try RFC 2822 format first (standard RSS format)
+        dt = parsedate_to_datetime(pubdate)
+        return dt.isoformat()
+    except Exception:
+        # Handle SEBI's non-standard format: "25 Jul, 2025 +0530"
+        try:
+            # Extract components using pre-compiled regex
+            match = SEBI_DATE_PATTERN.match(pubdate.strip())
+            if match:
+                day, month_str, year, tz = match.groups()
+                
+                # Convert month name to number using constant
+                month = MONTH_NAMES.get(month_str)
+                if not month:
+                    raise ValueError(f"Unknown month: {month_str}")
+                
+                # Parse timezone offset
+                tz_sign = 1 if tz[0] == '+' else -1
+                tz_hours = int(tz[1:3])
+                tz_minutes = int(tz[3:5])
+                
+                # Create datetime with timezone
+                tz_offset = timezone(timedelta(hours=tz_sign*tz_hours, minutes=tz_sign*tz_minutes))
+                dt = datetime(int(year), month, int(day), tzinfo=tz_offset)
+                
+                return dt.isoformat()
+            else:
+                raise ValueError(f"Unrecognized date format: {pubdate}")
+                
+        except Exception as e:
+            raise ValueError(f"Failed to parse pubDate '{pubdate}': {e}")
 
 
 class CircularsPipeline:
@@ -185,7 +235,7 @@ class CircularsPipeline:
                     'source': source,
                     'title': item['title'],
                     'circular_id': circular_id,
-                    'published_date': item.get('pubDate', datetime.now().isoformat()),
+                    'published_date': parse_rss_date(item.get('pubdate', '')),
                     'guid': item['guid'],
                     'rss_url': item['download_url']  # Original URL from RSS feed
                 }
@@ -272,7 +322,7 @@ class CircularsPipeline:
                 'source': source,
                 'title': item['title'],
                 'circular_id': circular_id,
-                'published_date': item.get('pubDate', datetime.now().isoformat()),
+                'published_date': parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
                 'rss_url': item['download_url']  # Original URL from RSS feed
             }
