@@ -1,33 +1,31 @@
-{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+{{ define "title" }}{{ .Title }} Stock - {{ .Site.Title }}{{ end }}
 
-{{ define "description" }}{{ .Params.description | default .Summary | default "Browse circulars and regulatory documents" }}{{ end }}
+{{ define "description" }}Regulatory circulars mentioning {{ .Title }}{{ end }}
 
 {{ define "main" }}
 <div>
-    {{ if .Data.Singular }}
-    <!-- Individual Taxonomy Term Page (e.g., individual tag page) -->
     <!-- Page Header -->
     <div class="mb-8">
         <nav class="breadcrumbs text-sm mb-4">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                <li><a href="{{ printf "/%s/" .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a></li>
+                <li><a href="{{ "stocks" | relURL }}">Stocks</a></li>
                 <li>{{ .Title }}</li>
             </ul>
         </nav>
         
         <h1 class="text-4xl font-bold mb-4">
-            <span class="badge badge-primary mr-3">#</span>{{ .Title }}
+            <span class="badge badge-primary mr-3">📈</span>{{ .Title }}
         </h1>
-        <p class="text-lg text-gray-600">{{ len .Pages }} circular{{ if ne (len .Pages) 1 }}s{{ end }} tagged with "{{ .Title }}"</p>
+        <p class="text-lg text-gray-600">{{ len .Pages }} circular{{ if ne (len .Pages) 1 }}s{{ end }} mentioning {{ .Title }}</p>
     </div>
 
     <!-- Stats -->
     <div class="stats shadow mb-8">
         <div class="stat">
-            <div class="stat-title">Tagged Circulars</div>
+            <div class="stat-title">Stock Mentions</div>
             <div class="stat-value">{{ len .Pages }}</div>
-            <div class="stat-desc">Total circulars with this tag</div>
+            <div class="stat-desc">Total circulars mentioning this stock</div>
         </div>
         <div class="stat">
             <div class="stat-title">Sources</div>
@@ -41,6 +39,16 @@
                 {{ len (uniq $sources) }}
             </div>
             <div class="stat-desc">Different regulatory sources</div>
+        </div>
+        <div class="stat">
+            <div class="stat-title">Severity Distribution</div>
+            <div class="stat-value text-sm">
+                {{ $highCount := len (where .Pages "Params.severity" "high") }}
+                {{ $mediumCount := len (where .Pages "Params.severity" "medium") }}
+                {{ $lowCount := len (where .Pages "Params.severity" "low") }}
+                H:{{ $highCount }} M:{{ $mediumCount }} L:{{ $lowCount }}
+            </div>
+            <div class="stat-desc">High, Medium, Low severity</div>
         </div>
     </div>
 
@@ -142,66 +150,30 @@
     </div>
     {{ end }}
 
-    <!-- Related Tags -->
+    <!-- Related Stocks -->
     {{ if .Pages }}
-    {{ $allTags := slice }}
+    {{ $allStocks := slice }}
     {{ range .Pages }}
-        {{ range .Params.tags }}
+        {{ range .Params.stocks }}
             {{ if ne . $.Title }}
-                {{ $allTags = $allTags | append . }}
+                {{ $allStocks = $allStocks | append . }}
             {{ end }}
         {{ end }}
     {{ end }}
-    {{ $relatedTags := first 10 (sort (uniq $allTags)) }}
-    {{ if $relatedTags }}
+    {{ $relatedStocks := first 10 (sort (uniq $allStocks)) }}
+    {{ if $relatedStocks }}
     <div class="mt-12">
-        <h2 class="text-2xl font-bold mb-4">Related Tags</h2>
+        <h2 class="text-2xl font-bold mb-4">Related Stocks</h2>
         <div class="flex flex-wrap gap-2">
-            {{ range $relatedTags }}
-            <a href="{{ printf "/tags/%s/" (urlize .) | relURL }}" 
+            {{ range $relatedStocks }}
+            <a href="{{ printf "/stocks/%s/" (urlize .) | relURL }}" 
                class="btn btn-outline btn-sm hover:btn-primary">
-                {{ . }}
+                📈 {{ . }}
             </a>
             {{ end }}
         </div>
     </div>
     {{ end }}
     {{ end }}
-
-    {{ else }}
-    <!-- Regular List Page -->
-    <!-- Page Header -->
-    <div class="mb-8">
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
-        {{ if .Content }}
-        <div class="prose prose-lg">
-            {{ .Content }}
-        </div>
-        {{ end }}
-    </div>
-
-    <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">Total Circulars</div>
-            <div class="stat-value">{{ len (where .Site.RegularPages "Section" "circulars") }}</div>
-            <div class="stat-desc">Latest regulatory updates</div>
-        </div>
-    </div>
-
-    <!-- Circulars Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {{ $pages := .Pages }}
-        {{ if eq .Section "circulars" }}
-            {{ $pages = where .Site.RegularPages "Section" "circulars" }}
-        {{ end }}
-        {{ range $pages }}
-        {{ if .Params.source }}
-            {{ partial "circular-card.html" . }}
-        {{ end }}
-        {{ end }}
-    </div>
-    {{ end }}
 </div>
-
 {{ end }}

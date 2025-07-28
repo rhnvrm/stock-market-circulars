@@ -23,27 +23,12 @@
                 {{ end }}
             </nav>
             
-            <div class="flex items-center space-x-3">
-                <div class="relative">
-                    <input type="text" 
-                           placeholder="Search circulars..." 
-                           class="border border-gray-300 rounded px-3 py-2 pl-10 w-64 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-200"
-                           x-data="{ search: '' }"
-                           x-model="search">
-                    <svg class="w-4 h-4 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" 
-                         fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                              d="m21 21-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-                    </svg>
-                </div>
-                
-                <!-- Mobile menu button -->
-                <button class="md:hidden p-2 rounded-lg hover:bg-gray-100">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                    </svg>
-                </button>
-            </div>
+            <!-- Mobile menu button -->
+            <button class="md:hidden p-2 rounded-lg hover:bg-gray-100">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
         </div>
     </div>
 </header>

@@ -1,0 +1,74 @@
+{{ define "title" }}{{ .Title }} Circulars - {{ .Site.Title }}{{ end }}
+
+{{ define "description" }}Regulatory circulars from {{ .Title }}{{ end }}
+
+{{ define "main" }}
+<div>
+    <!-- Page Header -->
+    <div class="mb-8">
+        <nav class="breadcrumbs text-sm mb-4">
+            <ul>
+                <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                <li><a href="{{ "circulars" | relURL }}">All Circulars</a></li>
+                <li>{{ .Title }}</li>
+            </ul>
+        </nav>
+        
+        <h1 class="text-4xl font-bold mb-4">{{ .Title }} Circulars</h1>
+        <p class="text-lg text-gray-600">Latest regulatory circulars from {{ .Title }}</p>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats shadow mb-8">
+        <div class="stat">
+            <div class="stat-title">{{ .Title }} Circulars</div>
+            <div class="stat-value">{{ len .Pages }}</div>
+            <div class="stat-desc">Total regulatory updates</div>
+        </div>
+        <div class="stat">
+            <div class="stat-title">Categories</div>
+            <div class="stat-value text-sm">
+                {{ $categories := slice }}
+                {{ range .Pages }}
+                    {{ if .Params.category }}
+                        {{ $categories = $categories | append .Params.category }}
+                    {{ end }}
+                {{ end }}
+                {{ len (uniq $categories) }}
+            </div>
+            <div class="stat-desc">Different categories covered</div>
+        </div>
+    </div>
+
+    <!-- Circulars Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ range .Pages }}
+        {{ if .Params.source }}
+            {{ partial "circular-card.html" . }}
+        {{ end }}
+        {{ end }}
+    </div>
+
+    <!-- Popular Tags for this source -->
+    {{ $allTags := slice }}
+    {{ range .Pages }}
+        {{ range .Params.tags }}
+            {{ $allTags = $allTags | append . }}
+        {{ end }}
+    {{ end }}
+    {{ $topTags := first 15 (sort (uniq $allTags)) }}
+    {{ if $topTags }}
+    <div class="mt-12">
+        <h2 class="text-2xl font-bold mb-4">Popular Tags for {{ .Title }}</h2>
+        <div class="flex flex-wrap gap-2">
+            {{ range $topTags }}
+            <a href="{{ printf "/tags/%s/" (urlize .) | relURL }}" 
+               class="btn btn-outline btn-sm hover:btn-primary">
+                {{ . }}
+            </a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

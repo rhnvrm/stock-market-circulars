@@ -1,17 +1,15 @@
 {{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
 
-{{ define "description" }}{{ .Params.description | default .Summary | default "Browse circulars and regulatory documents" }}{{ end }}
+{{ define "description" }}Circulars tagged with {{ .Title }}{{ end }}
 
 {{ define "main" }}
 <div>
-    {{ if .Data.Singular }}
-    <!-- Individual Taxonomy Term Page (e.g., individual tag page) -->
     <!-- Page Header -->
     <div class="mb-8">
         <nav class="breadcrumbs text-sm mb-4">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                <li><a href="{{ printf "/%s/" .Data.Plural | relURL }}">{{ .Data.Plural | title }}</a></li>
+                <li><a href="{{ "tags" | relURL }}">Tags</a></li>
                 <li>{{ .Title }}</li>
             </ul>
         </nav>
@@ -167,41 +165,5 @@
     </div>
     {{ end }}
     {{ end }}
-
-    {{ else }}
-    <!-- Regular List Page -->
-    <!-- Page Header -->
-    <div class="mb-8">
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
-        {{ if .Content }}
-        <div class="prose prose-lg">
-            {{ .Content }}
-        </div>
-        {{ end }}
-    </div>
-
-    <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">Total Circulars</div>
-            <div class="stat-value">{{ len (where .Site.RegularPages "Section" "circulars") }}</div>
-            <div class="stat-desc">Latest regulatory updates</div>
-        </div>
-    </div>
-
-    <!-- Circulars Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {{ $pages := .Pages }}
-        {{ if eq .Section "circulars" }}
-            {{ $pages = where .Site.RegularPages "Section" "circulars" }}
-        {{ end }}
-        {{ range $pages }}
-        {{ if .Params.source }}
-            {{ partial "circular-card.html" . }}
-        {{ end }}
-        {{ end }}
-    </div>
-    {{ end }}
 </div>
-
 {{ end }}

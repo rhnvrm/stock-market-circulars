@@ -36,6 +36,15 @@ theme = 'zerodha'
     name = 'SEBI'
     url = '/circulars/sebi/'
     weight = 40
+  [[menu.main]]
+    name = 'Tags'
+    url = '/tags/'
+    weight = 50
+  [[menu.main]]
+    name = 'Stocks'
+    url = '/stocks/'
+    weight = 60
+
 
 [markup]
   [markup.goldmark]
