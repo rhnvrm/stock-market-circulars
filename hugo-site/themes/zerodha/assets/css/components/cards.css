@@ -1,13 +1,92 @@
 /*! =======================================================================
-   Card Components - Specialized Styles (Base styles in unified-cards.css)
+   Card Components - Unified Card System (formerly unified-cards.css + cards.css)
    ======================================================================= */
 
-/* Enhanced hover behavior for circular cards - overrides unified-cards.css */
+/* ALL card types inherit base properties through grouped selectors */
+.card,
+.circular-card,
+.statistic-card,
+.stats-card,
+.info-card,
+.metadata-card,
+.source-card {
+  background: var(--z-background);
+  border: 1px solid var(--z-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  padding: var(--spacing-xl);
+  transition: all var(--transition-fast);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Specialized properties for specific card types */
+
+/* Generic card - adds overflow */
+.card {
+  overflow: hidden;
+}
+
+/* Circular cards - adds interaction behavior */
+.circular-card {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  height: 100%; /* Grid layout optimization */
+}
+
+/* Enhanced hover behavior for circular cards - consolidated from both files */
 .circular-card:hover {
   box-shadow: var(--shadow-lg); /* Enhanced shadow on hover */
   transform: translateY(-2px); /* Slightly more movement than base -1px */
 }
 
+/* Statistics and stats cards - center aligned */
+.statistic-card,
+.stats-card {
+  text-align: center;
+}
+
+/* Source cards - adds positioning context */
+.source-card {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Common card content structure - shared across all card types */
+.card-body {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--z-black);
+  margin: 0 0 var(--spacing-md) 0;
+  line-height: 1.4;
+}
+
+.card-title a {
+  color: var(--z-black);
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  color: var(--z-blue);
+  text-decoration: none;
+}
+
+.card-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-top: auto;
+  padding-top: var(--spacing-lg);
+}
+
+/* Card header components */
 .card-header {
   display: flex;
   justify-content: space-between;
@@ -23,19 +102,11 @@
 .card-date {
   font-size: var(--font-size-sm);
   color: var(--z-gray);
+  margin-bottom: var(--spacing-sm);
   white-space: nowrap;
 }
 
-.card-title a {
-  color: var(--z-black);
-  text-decoration: none;
-}
-
-.card-title a:hover {
-  color: var(--z-blue);
-  text-decoration: none;
-}
-
+/* Card description and content */
 .card-description {
   font-size: var(--font-size-sm);
   color: var(--z-gray-700);
@@ -186,6 +257,7 @@
   gap: var(--spacing-sm);
 }
 
+/* Card utilities */
 .card-info {
   position: relative;
   display: flex;
@@ -229,7 +301,6 @@
   padding: var(--spacing-xs) var(--spacing-sm);
   border-radius: var(--radius-sm);
 }
-
 
 /* Source Cards */
 .source-breakdown {

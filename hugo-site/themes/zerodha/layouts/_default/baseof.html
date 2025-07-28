@@ -18,23 +18,21 @@
     <!-- Layout System -->
     {{ $containers := resources.Get "css/components/containers.css" }}
     {{ $layoutSections := resources.Get "css/components/layout-sections.css" }}
-    {{ $unifiedGrids := resources.Get "css/components/unified-grids.css" }}
+    {{ $grids := resources.Get "css/components/grids.css" }}
     
     <!-- Typography System -->
     {{ $typography := resources.Get "css/components/typography.css" }}
     
     <!-- Interactive Components -->
-    {{ $unifiedButtons := resources.Get "css/components/unified-buttons.css" }}
     {{ $buttons := resources.Get "css/components/buttons.css" }}
-    {{ $semanticForms := resources.Get "css/components/semantic-forms.css" }}
+    {{ $forms := resources.Get "css/components/forms.css" }}
     {{ $navigation := resources.Get "css/components/navigation.css" }}
     
     <!-- Content Components -->
-    {{ $unifiedCards := resources.Get "css/components/unified-cards.css" }}
     {{ $cards := resources.Get "css/components/cards.css" }}
     {{ $badges := resources.Get "css/components/badges.css" }}
     {{ $statistics := resources.Get "css/components/statistics.css" }}
-    {{ $semanticAlerts := resources.Get "css/components/semantic-alerts.css" }}
+    {{ $alerts := resources.Get "css/components/alerts.css" }}
     {{ $taxonomy := resources.Get "css/components/taxonomy.css" }}
     {{ $homepage := resources.Get "css/components/homepage.css" }}
     {{ $content := resources.Get "css/components/content.css" }}
@@ -48,7 +46,7 @@
     {{ $utilities := resources.Get "css/components/utilities.css" }}
     {{ $responsive := resources.Get "css/responsive.css" }}
     
-    {{ $css := slice $variables $base $containers $layoutSections $unifiedGrids $typography $unifiedButtons $buttons $semanticForms $navigation $unifiedCards $cards $badges $statistics $semanticAlerts $taxonomy $homepage $hero $content $article $footer $utilities $responsive | resources.Concat "css/zerodha-semantic-system.css" }}
+    {{ $css := slice $variables $base $containers $layoutSections $grids $typography $buttons $forms $navigation $cards $badges $statistics $alerts $taxonomy $homepage $hero $content $article $footer $utilities $responsive | resources.Concat "css/zerodha-semantic-system.css" }}
     {{ if hugo.IsProduction }}
         {{ $css = $css | resources.Minify }}
     {{ end }}
