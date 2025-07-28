@@ -30,6 +30,7 @@ VENV/
 .env.local
 .env.*.local
 .envrc
+.mcp.json
 
 # --- Development directories ---
 node_modules/

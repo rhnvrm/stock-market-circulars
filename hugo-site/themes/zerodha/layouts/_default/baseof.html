@@ -1,233 +1,33 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" data-theme="zerodha">
+<html lang="{{ .Site.Language.Lang }}" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ block "description" . }}{{ .Site.Params.description }}{{ end }}">
     
-    <!-- Tailwind CSS + DaisyUI -->
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Alpine.js -->
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <!-- Custom Zerodha Theme -->
-    <style>
-        :root {
-            --zerodha-primary: #387ed1;
-            --zerodha-primary-light: #4a90e2;
-            --zerodha-background: #fafafa;
-            --zerodha-text: #424242;
-            --zerodha-text-light: #666666;
-            --zerodha-text-lighter: #888888;
-            --zerodha-light-gray: #f9f9f9;
-            --zerodha-border: #eeeeee;
-            --zerodha-card: #ffffff;
-            --zerodha-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
-            --zerodha-shadow-lg: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
-        }
-        
-        [data-theme="zerodha"] {
-            --p: 216 69% 56%;        /* Primary: #387ed1 */
-            --pc: 0 0% 100%;         /* Primary content */
-            --b1: 0 0% 100%;         /* Background */
-            --bc: 214 17% 26%;       /* Base content: #424242 */
-            --b2: 221 39% 97%;       /* Light gray background */
-            --n: 214 17% 26%;        /* Neutral */
-            --nc: 0 0% 100%;         /* Neutral content */
-            --b3: 220 13% 91%;       /* Border color */
-        }
-        
-        body {
-            font-family: 'Inter', system-ui, sans-serif;
-            background-color: var(--zerodha-background);
-            color: var(--zerodha-text);
-            font-size: 14px;
-            line-height: 1.6;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-        }
-        
-        .zerodha-primary {
-            color: var(--zerodha-primary);
-        }
-        
-        .zerodha-card {
-            background-color: var(--zerodha-card);
-            border-radius: 8px;
-            box-shadow: var(--zerodha-shadow);
-            border: 1px solid var(--zerodha-border);
-        }
-        
-        .zerodha-button {
-            background-color: var(--zerodha-primary);
-            color: white;
-            border: none;
-            border-radius: 4px;
-            padding: 8px 16px;
-            font-weight: 500;
-            font-size: 14px;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-        
-        .zerodha-button:hover {
-            background-color: var(--zerodha-primary-dark);
-            transform: translateY(-1px);
-        }
-        
-        .zerodha-input {
-            border: 1px solid var(--zerodha-border);
-            border-radius: 4px;
-            padding: 8px 12px;
-            font-size: 14px;
-            transition: border-color 0.2s ease;
-        }
-        
-        .zerodha-input:focus {
-            outline: none;
-            border-color: var(--zerodha-primary);
-            box-shadow: 0 0 0 3px rgba(56, 126, 209, 0.1);
-        }
-        
-        .severity-high {
-            background-color: #fef2f2;
-            color: #dc2626;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .severity-medium {
-            background-color: #fffbeb;
-            color: #d97706;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .severity-low {
-            background-color: #f0fdf4;
-            color: #16a34a;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .impact-high {
-            border-left: 4px solid #dc2626;
-        }
-        
-        .impact-medium {
-            border-left: 4px solid #d97706;
-        }
-        
-        .impact-low {
-            border-left: 4px solid #16a34a;
-        }
-        
-        .source-nse {
-            background-color: #eff6ff;
-            color: #1d4ed8;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .source-bse {
-            background-color: #fef3c7;
-            color: #d97706;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .source-sebi {
-            background-color: #f0fdf4;
-            color: #059669;
-            border-radius: 4px;
-            padding: 4px 8px;
-            font-size: 12px;
-            font-weight: 500;
-        }
-        
-        .circular-card {
-            transition: all 0.2s ease;
-        }
-        
-        .circular-card:hover {
-            transform: translateY(-2px);
-            box-shadow: var(--zerodha-shadow-lg);
-        }
-        
-        .nav-link {
-            color: var(--zerodha-text);
-            text-decoration: none;
-            font-weight: 500;
-            padding: 8px 16px;
-            border-radius: 4px;
-            transition: all 0.2s ease;
-        }
-        
-        .nav-link:hover {
-            background-color: rgba(56, 126, 209, 0.1);
-            color: var(--zerodha-primary);
-        }
-        
-        .nav-link.active {
-            background-color: var(--zerodha-primary);
-            color: white;
-        }
-        
-        h1, h2, h3, h4, h5, h6 {
-            font-weight: 600;
-            color: var(--zerodha-text);
-        }
-        
-        h1 { font-size: 28px; line-height: 1.2; }
-        h2 { font-size: 24px; line-height: 1.3; }
-        h3 { font-size: 20px; line-height: 1.4; }
-        
-        .stats-card {
-            background: linear-gradient(135deg, var(--zerodha-primary) 0%, var(--zerodha-primary-dark) 100%);
-            color: white;
-            border-radius: 8px;
-            padding: 24px;
-            box-shadow: var(--zerodha-shadow-lg);
-        }
-        
-        .filter-chip {
-            background-color: var(--zerodha-border);
-            color: var(--zerodha-text);
-            border-radius: 20px;
-            padding: 6px 12px;
-            font-size: 12px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: none;
-        }
-        
-        .filter-chip:hover,
-        .filter-chip.active {
-            background-color: var(--zerodha-primary);
-            color: white;
-        }
-    </style>
+    <!-- DaisyUI + Tailwind CSS (CDN for now) -->
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Custom Styles -->
+    {{ $styles := resources.Get "css/main.css" }}
+    {{ if $styles }}
+        {{ if hugo.IsProduction }}
+            {{ $styles = $styles | resources.Minify }}
+        {{ end }}
+        <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    {{ end }}
+    
+    <!-- Alpine.js -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="min-h-screen bg-base-200">
+<body class="min-h-screen bg-base-100">
     {{ partial "header.html" . }}
     
     <main class="container mx-auto px-4 py-8">
