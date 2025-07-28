@@ -5,8 +5,8 @@
 {{ define "main" }}
 <div>
     <!-- Page Header -->
-    <div class="mb-8">
-        <nav class="breadcrumbs text-sm mb-4">
+    <div class="page-header">
+        <nav class="breadcrumbs">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                 {{ if ne .RelPermalink "/circulars/" }}
@@ -16,19 +16,19 @@
             </ul>
         </nav>
         
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
+        <h1 class="page-title">{{ .Title }}</h1>
         {{ if .Content }}
-        <div class="prose prose-lg mb-6">
+        <div class="page-description">
             {{ .Content }}
         </div>
         {{ end }}
     </div>
 
     <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">{{ .Title }}</div>
-            <div class="stat-value">
+    <div class="statistics-container">
+        <div class="statistic-card">
+            <div class="statistic-title">{{ .Title }}</div>
+            <div class="statistic-value">
                 {{ if or (eq .RelPermalink "/circulars/") (eq .RelPermalink "/stock-market-circulars/circulars/") }}
                     {{ $allCirculars := where .Site.RegularPages "Section" "circulars" }}
                     {{ $withSource := where $allCirculars "Params.source" "!=" nil }}
@@ -37,11 +37,11 @@
                     {{ len .Pages }}
                 {{ end }}
             </div>
-            <div class="stat-desc">Total regulatory updates</div>
+            <div class="statistic-description">Total regulatory updates</div>
         </div>
-        <div class="stat">
-            <div class="stat-title">Categories</div>
-            <div class="stat-value text-sm">
+        <div class="statistic-card">
+            <div class="statistic-title">Categories</div>
+            <div class="statistic-value">
                 {{ $categories := slice }}
                 {{ $targetPages := .Pages }}
                 {{ if or (eq .RelPermalink "/circulars/") (eq .RelPermalink "/stock-market-circulars/circulars/") }}
@@ -54,33 +54,33 @@
                 {{ end }}
                 {{ len (uniq $categories) }}
             </div>
-            <div class="stat-desc">Different categories covered</div>
+            <div class="statistic-description">Different categories covered</div>
         </div>
     </div>
 
     <!-- Source Filter (only show on main circulars page) -->
-    {{ if eq .RelPermalink "/circulars/" }}
-    <div class="mb-8">
-        <h2 class="text-2xl font-bold mb-4">Browse by Source</h2>
-        <div class="flex flex-wrap gap-4">
-            <a href="{{ "circulars/nse" | relURL }}" class="btn btn-outline btn-lg hover:btn-primary">
-                <span class="font-bold">NSE</span>
-                <div class="badge badge-ghost ml-2">{{ len (where .Site.RegularPages "Params.source" "NSE") }}</div>
+    {{ if or (eq .RelPermalink "/circulars/") (eq .RelPermalink "/stock-market-circulars/circulars/") }}
+    <div class="source-filter-section">
+        <h2 class="source-filter-title">Browse by Source</h2>
+        <div class="source-filter-buttons">
+            <a href="{{ "circulars/nse" | relURL }}" class="source-filter-button">
+                <span class="source-button-label">NSE</span>
+                <span class="source-count">{{ len (where .Site.RegularPages "Params.source" "nse") }}</span>
             </a>
-            <a href="{{ "circulars/bse" | relURL }}" class="btn btn-outline btn-lg hover:btn-primary">
-                <span class="font-bold">BSE</span>
-                <div class="badge badge-ghost ml-2">{{ len (where .Site.RegularPages "Params.source" "BSE") }}</div>
+            <a href="{{ "circulars/bse" | relURL }}" class="source-filter-button">
+                <span class="source-button-label">BSE</span>
+                <span class="source-count">{{ len (where .Site.RegularPages "Params.source" "bse") }}</span>
             </a>
-            <a href="{{ "circulars/sebi" | relURL }}" class="btn btn-outline btn-lg hover:btn-primary">
-                <span class="font-bold">SEBI</span>
-                <div class="badge badge-ghost ml-2">{{ len (where .Site.RegularPages "Params.source" "SEBI") }}</div>
+            <a href="{{ "circulars/sebi" | relURL }}" class="source-filter-button">
+                <span class="source-button-label">SEBI</span>
+                <span class="source-count">{{ len (where .Site.RegularPages "Params.source" "sebi") }}</span>
             </a>
         </div>
     </div>
     {{ end }}
 
     <!-- Circulars Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="circulars-grid">
         {{ $pages := .Pages }}
         {{ if or (eq .RelPermalink "/circulars/") (eq .RelPermalink "/stock-market-circulars/circulars/") }}
             {{ $allCirculars := where .Site.RegularPages "Section" "circulars" }}
@@ -96,24 +96,24 @@
 
     <!-- Pagination -->
     {{ if gt $paginator.TotalPages 1 }}
-    <div class="flex flex-col items-center mt-12 gap-4">
+    <div class="pagination-section">
         <!-- Pagination Info -->
-        <div class="text-sm text-gray-600">
+        <div class="pagination-info">
             Showing {{ add (mul (sub $paginator.PageNumber 1) $paginator.PagerSize) 1 }} - {{ if lt (mul $paginator.PageNumber $paginator.PagerSize) $paginator.TotalNumberOfElements }}{{ mul $paginator.PageNumber $paginator.PagerSize }}{{ else }}{{ $paginator.TotalNumberOfElements }}{{ end }} of {{ $paginator.TotalNumberOfElements }} circulars
         </div>
         
         <!-- Pagination Controls -->
-        <div class="join shadow-lg">
+        <div class="pagination-controls">
             {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.URL }}" class="join-item btn btn-outline hover:btn-primary">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <a href="{{ $paginator.Prev.URL }}" class="pagination-button pagination-prev">
+                <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
                 Previous
             </a>
             {{ else }}
-            <button class="join-item btn btn-outline btn-disabled">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <button class="pagination-button pagination-prev pagination-disabled">
+                <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
                 Previous
@@ -140,40 +140,40 @@
             {{ end }}
             
             {{ if gt $startPage 1 }}
-            <a href="{{ (index $paginator.Pagers 0).URL }}" class="join-item btn btn-outline hover:btn-primary">1</a>
+            <a href="{{ (index $paginator.Pagers 0).URL }}" class="pagination-button">1</a>
             {{ if gt $startPage 2 }}
-            <button class="join-item btn btn-outline btn-disabled">...</button>
+            <button class="pagination-button pagination-disabled">...</button>
             {{ end }}
             {{ end }}
             
             {{ range $paginator.Pagers }}
                 {{ if and (ge .PageNumber $startPage) (le .PageNumber $endPage) }}
                     {{ if eq . $paginator }}
-                    <button class="join-item btn btn-primary">{{ .PageNumber }}</button>
+                    <button class="pagination-button pagination-current">{{ .PageNumber }}</button>
                     {{ else }}
-                    <a href="{{ .URL }}" class="join-item btn btn-outline hover:btn-primary">{{ .PageNumber }}</a>
+                    <a href="{{ .URL }}" class="pagination-button">{{ .PageNumber }}</a>
                     {{ end }}
                 {{ end }}
             {{ end }}
             
             {{ if lt $endPage $totalPages }}
             {{ if lt $endPage (sub $totalPages 1) }}
-            <button class="join-item btn btn-outline btn-disabled">...</button>
+            <button class="pagination-button pagination-disabled">...</button>
             {{ end }}
-            <a href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}" class="join-item btn btn-outline hover:btn-primary">{{ $totalPages }}</a>
+            <a href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}" class="pagination-button">{{ $totalPages }}</a>
             {{ end }}
             
             {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}" class="join-item btn btn-outline hover:btn-primary">
+            <a href="{{ $paginator.Next.URL }}" class="pagination-button pagination-next">
                 Next
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
             </a>
             {{ else }}
-            <button class="join-item btn btn-outline btn-disabled">
+            <button class="pagination-button pagination-next pagination-disabled">
                 Next
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg class="pagination-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
             </button>
@@ -192,13 +192,13 @@
     {{ end }}
     {{ $topTags := first 15 (sort (uniq $allTags)) }}
     {{ if $topTags }}
-    <div class="mt-12">
-        <h2 class="text-2xl font-bold mb-4">Popular Tags for {{ .Title }}</h2>
-        <div class="flex flex-wrap gap-2">
+    <div class="popular-tags-section">
+        <h2 class="popular-tags-title">Popular Tags for {{ .Title }}</h2>
+        <div class="popular-tags-grid">
             {{ range $topTags }}
             <a href="{{ printf "/tags/%s/" (urlize .) | relURL }}" 
-               class="btn btn-outline btn-sm hover:btn-primary">
-                {{ . }}
+               class="stock-tag">
+                {{ . | lower }}
             </a>
             {{ end }}
         </div>

@@ -1,0 +1,78 @@
+/*! =======================================================================
+   Container Components - Page Layout and Structure
+   ======================================================================= */
+
+/* Page Wrapper */
+.page-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg);
+  width: 100%;
+}
+
+/* Main Content Area */
+.main-content {
+  flex: 1;
+  padding: var(--spacing-2xl) 0;
+}
+
+/* Page Sections */
+.page-section {
+  margin-bottom: var(--spacing-3xl);
+}
+
+.page-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Content Sections */
+.content-section {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.content-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Component Sections */
+.component-section {
+  margin-bottom: var(--spacing-xl);
+}
+
+.component-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Tight Sections */
+.tight-section {
+  margin-bottom: var(--spacing-lg);
+}
+
+.tight-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Site Body - replaces .min-h-screen utility */
+.site-body {
+  min-height: 100vh;
+}
+
+/* Responsive Containers */
+@media (max-width: 640px) {
+  .container {
+    padding: 0 var(--spacing-md);
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 var(--spacing-sm);
+  }
+}

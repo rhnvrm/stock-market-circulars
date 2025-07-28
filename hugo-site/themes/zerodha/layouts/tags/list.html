@@ -33,21 +33,21 @@
     }
 }">
     <!-- Page Header -->
-    <div class="mb-8">
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
-        <p class="text-lg text-gray-600">Browse circulars by tags and topics</p>
+    <div class="page-header">
+        <h1 class="page-title">{{ .Title }}</h1>
+        <p class="page-description">Browse circulars by tags and topics</p>
     </div>
 
     <!-- Search Filter -->
-    <div class="mb-8">
-        <div class="form-control w-full max-w-md">
-            <label class="label">
-                <span class="label-text font-semibold">🔍 Filter Tags</span>
+    <div class="tags-filter-section">
+        <div class="form-field content-container">
+            <label class="form-label">
+                <span class="emphasis-text">🔍 Filter Tags</span>
             </label>
             <input 
                 type="text" 
                 placeholder="Search tags..." 
-                class="input input-bordered w-full"
+                class="search-input"
                 x-model="searchQuery"
                 x-on:input="$nextTick(() => $dispatch('tags-filtered'))"
             />
@@ -55,73 +55,58 @@
     </div>
 
     <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">Total Tags</div>
-            <div class="stat-value" x-text="searchQuery.trim() ? totalFilteredTags : {{ len .Site.Taxonomies.tags }}"></div>
-            <div class="stat-desc" x-text="searchQuery.trim() ? 'Matching tags' : 'Topics and categories'"></div>
+    <div class="statistics-container">
+        <div class="statistic-item">
+            <div class="statistic-title">Total Tags</div>
+            <div class="statistic-value" x-text="searchQuery.trim() ? totalFilteredTags : {{ len .Site.Taxonomies.tags }}"></div>
+            <div class="statistic-description" x-text="searchQuery.trim() ? 'Matching tags' : 'Topics and categories'"></div>
         </div>
-        <div class="stat" x-show="searchQuery.trim()">
-            <div class="stat-title">Search Query</div>
-            <div class="stat-value text-sm" x-text="searchQuery"></div>
-            <div class="stat-desc">
-                <button @click="searchQuery = ''" class="btn btn-ghost btn-xs">Clear</button>
+        <div class="statistic-item" x-show="searchQuery.trim()">
+            <div class="statistic-title">Search Query</div>
+            <div class="statistic-value caption-text" x-text="searchQuery"></div>
+            <div class="statistic-description">
+                <button @click="searchQuery = ''" class="semantic-clear-button">Clear</button>
             </div>
         </div>
     </div>
 
     <!-- No Results Message -->
-    <div x-show="searchQuery.trim() && totalFilteredTags === 0" class="alert alert-info mb-8">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current shrink-0 w-6 h-6">
+    <div x-show="searchQuery.trim() && totalFilteredTags === 0" class="alert alert-info">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
         </svg>
-        <div>
-            <h3 class="font-bold">No tags found!</h3>
-            <div class="text-xs">Try a different search term or <button @click="searchQuery = ''" class="link">clear the filter</button>.</div>
+        <div class="alert-content">
+            <h3>No tags found!</h3>
+            <div>Try a different search term or <button @click="searchQuery = ''" class="link">clear the filter</button>.</div>
         </div>
     </div>
 
-    <!-- Tags Cloud -->
-    <div class="mb-8">
-        <h2 class="text-2xl font-bold mb-4">
-            <span x-show="!searchQuery.trim()">All Tags</span>
-            <span x-show="searchQuery.trim()" x-text="`Filtered Tags (${totalFilteredTags})`"></span>
-        </h2>
-        <div class="flex flex-wrap gap-3">
-            <template x-for="tag in filteredTags" :key="tag.title">
-                <a :href="tag.permalink" 
-                   class="btn btn-outline btn-sm hover:btn-primary transition-all">
-                    <span x-text="tag.title"></span>
-                    <div class="badge badge-ghost ml-2" x-text="tag.count"></div>
+    <!-- Popular Tags (Top Section) -->
+    <div class="component-section" x-show="popularTags.length > 0 && !searchQuery.trim()">
+        <h2 class="component-title">Most Popular Tags</h2>
+        <div class="popular-tags-compact-grid">
+            <template x-for="tag in popularTags" :key="tag.title">
+                <a :href="tag.permalink" class="stock-tag">
+                    <span x-text="tag.title.toLowerCase()"></span>
+                    <span class="tag-count" x-text="tag.count"></span>
                 </a>
             </template>
         </div>
     </div>
 
-    <!-- Popular Tags -->
-    <div class="mb-8" x-show="popularTags.length > 0">
-        <h2 class="text-2xl font-bold mb-4">
-            <span x-show="!searchQuery.trim()">Most Popular Tags</span>
-            <span x-show="searchQuery.trim()">Top Matching Tags</span>
+    <!-- Tags Cloud -->
+    <div class="content-section">
+        <h2 class="component-title">
+            <span x-show="!searchQuery.trim()">All Tags</span>
+            <span x-show="searchQuery.trim()" x-text="`Filtered Tags (${totalFilteredTags})`"></span>
         </h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            <template x-for="tag in popularTags" :key="tag.title">
-                <div class="card bg-base-100 shadow-md hover:shadow-lg transition-shadow">
-                    <div class="card-body">
-                        <h3 class="card-title text-lg">
-                            <a :href="tag.permalink" class="hover:text-primary" x-text="tag.title"></a>
-                        </h3>
-                        <p class="text-sm text-gray-600">
-                            <span x-text="tag.count"></span>
-                            <span x-text="tag.count === 1 ? ' circular' : ' circulars'"></span>
-                        </p>
-                        <div class="card-actions justify-end">
-                            <a :href="tag.permalink" class="btn btn-primary btn-sm">
-                                View Circulars
-                            </a>
-                        </div>
-                    </div>
-                </div>
+        <div class="tags-cloud-grid">
+            <template x-for="tag in filteredTags" :key="tag.title">
+                <a :href="tag.permalink" 
+                   class="stock-tag">
+                    <span x-text="tag.title.toLowerCase()"></span>
+                    <span class="tag-count" x-text="tag.count"></span>
+                </a>
             </template>
         </div>
     </div>

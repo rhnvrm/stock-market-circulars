@@ -1,0 +1,93 @@
+/*! =======================================================================
+   Layout Section Components - Replace spacing utilities
+   ======================================================================= */
+
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg);
+}
+
+.page-section {
+  margin-bottom: var(--spacing-3xl); /* mb-12 equivalent */
+}
+
+.page-section:last-child {
+  margin-bottom: 0;
+}
+
+.content-section {
+  margin-bottom: var(--spacing-2xl); /* mb-8 equivalent */
+}
+
+.content-section:last-child {
+  margin-bottom: 0;
+}
+
+.component-section {
+  margin-bottom: var(--spacing-xl); /* mb-6 equivalent */
+}
+
+.component-section:last-child {
+  margin-bottom: 0;
+}
+
+.tight-section {
+  margin-bottom: var(--spacing-lg); /* mb-4 equivalent */
+}
+
+.tight-section:last-child {
+  margin-bottom: 0;
+}
+
+.hero-section {
+  padding: var(--spacing-3xl) 0; /* py-12 equivalent */
+  margin-bottom: var(--spacing-2xl);
+}
+
+.content-header {
+  margin-bottom: var(--spacing-2xl); /* mb-8 equivalent */
+  padding-bottom: var(--spacing-lg); /* pb-4 equivalent */
+  border-bottom: 1px solid var(--z-gray-200);
+}
+
+.page-header {
+  margin-bottom: var(--spacing-2xl);
+}
+
+.section-top {
+  margin-top: var(--spacing-3xl); /* mt-12 */
+}
+
+.section-padding {
+  padding: var(--spacing-2xl) 0; /* py-8 */
+}
+
+.element-gap {
+  margin-right: var(--spacing-md); /* mr-3 */
+}
+
+/* Container & Sizing Components */
+.content-container {
+  max-width: 28rem; /* max-w-md */
+  margin: 0 auto;
+}
+
+.content-container-wide {
+  max-width: 64rem; /* max-w-screen-xl */
+  margin: 0 auto;
+}
+
+.narrow-container {
+  max-width: 28rem;
+  margin: 0 auto;
+}
+
+.wide-container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.full-width {
+  width: 100%; /* w-full */
+}

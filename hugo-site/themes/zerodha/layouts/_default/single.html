@@ -3,9 +3,9 @@
 {{ define "description" }}{{ .Params.description | default .Summary }}{{ end }}
 
 {{ define "main" }}
-<article class="max-w-4xl mx-auto">
+<article class="article-container">
     <!-- Breadcrumb -->
-    <div class="breadcrumbs text-sm mb-6">
+    <div class="breadcrumbs">
         <ul>
             <li><a href="{{ "/" | relURL }}">Home</a></li>
             <li><a href="{{ "circulars" | relURL }}">Circulars</a></li>
@@ -17,50 +17,50 @@
     </div>
 
     <!-- Article Header -->
-    <header class="mb-8">
-        <div class="flex flex-wrap justify-between items-start gap-4 mb-4">
-            <div class="flex items-center gap-3">
+    <header class="article-header">
+        <div class="article-header-meta">
+            <div class="article-badges">
                 {{ if .Params.source }}
-                <div class="badge badge-lg {{ if eq .Params.source "nse" }}badge-primary{{ else if eq .Params.source "bse" }}badge-secondary{{ else if eq .Params.source "sebi" }}badge-accent{{ end }}">
+                <div class="source-badge source-{{ .Params.source }}">
                     {{ upper .Params.source }}
                 </div>
                 {{ end }}
                 
                 {{ if .Params.severity }}
-                <div class="badge badge-lg severity-{{ .Params.severity }}">
+                <div class="severity-badge severity-{{ .Params.severity }}">
                     {{ if eq .Params.severity "high" }}🔴{{ else if eq .Params.severity "medium" }}🟡{{ else }}🟢{{ end }}
                     {{ title .Params.severity }} Severity
                 </div>
                 {{ end }}
             </div>
             
-            <div class="text-right">
-                <div class="text-sm opacity-70">{{ .Date.Format "January 2, 2006" }}</div>
+            <div class="article-meta-info">
+                <div class="article-date">{{ .Date.Format "January 2, 2006" }}</div>
                 {{ if .Params.circular_id }}
-                <div class="text-xs opacity-50 font-mono mt-1">{{ .Params.circular_id }}</div>
+                <div class="article-id">{{ .Params.circular_id }}</div>
                 {{ end }}
             </div>
         </div>
         
-        <h1 class="text-4xl font-bold leading-tight mb-4">{{ .Title }}</h1>
+        <h1 class="article-title">{{ .Title }}</h1>
         
         {{ if .Params.description }}
-        <p class="text-xl opacity-80 leading-relaxed">{{ .Params.description }}</p>
+        <p class="article-description">{{ .Params.description }}</p>
         {{ end }}
     </header>
 
     <!-- Key Information Cards -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+    <div class="info-cards-grid">
         <!-- Impact Card -->
         {{ if .Params.impact }}
-        <div class="card bg-base-100 shadow-lg">
-            <div class="card-body">
-                <h3 class="card-title text-lg">Impact Level</h3>
-                <div class="text-2xl font-bold {{ if eq .Params.impact "high" }}text-error{{ else if eq .Params.impact "medium" }}text-warning{{ else }}text-success{{ end }}">
+        <div class="info-card">
+            <div class="info-card-content">
+                <h3 class="info-card-title">Impact Level</h3>
+                <div class="info-card-value impact-{{ .Params.impact }}">
                     {{ title .Params.impact }}
                 </div>
                 {{ if .Params.impact_ranking }}
-                <p class="text-sm opacity-70">Ranking: {{ title .Params.impact_ranking }}</p>
+                <p class="info-card-detail">Ranking: {{ title .Params.impact_ranking }}</p>
                 {{ end }}
             </div>
         </div>
@@ -68,14 +68,14 @@
 
         <!-- Importance Card -->
         {{ if .Params.importance_ranking }}
-        <div class="card bg-base-100 shadow-lg">
-            <div class="card-body">
-                <h3 class="card-title text-lg">Importance</h3>
-                <div class="text-2xl font-bold {{ if eq .Params.importance_ranking "high" }}text-error{{ else if eq .Params.importance_ranking "medium" }}text-warning{{ else }}text-success{{ end }}">
+        <div class="info-card">
+            <div class="info-card-content">
+                <h3 class="info-card-title">Importance</h3>
+                <div class="info-card-value importance-{{ .Params.importance_ranking }}">
                     {{ title .Params.importance_ranking }}
                 </div>
                 {{ if .Params.justification }}
-                <p class="text-sm opacity-70">{{ .Params.justification }}</p>
+                <p class="info-card-detail">{{ .Params.justification }}</p>
                 {{ end }}
             </div>
         </div>
@@ -83,11 +83,11 @@
 
         <!-- Category Card -->
         {{ if .Params.category }}
-        <div class="card bg-base-100 shadow-lg">
-            <div class="card-body">
-                <h3 class="card-title text-lg">Category</h3>
-                <div class="text-lg font-semibold">{{ title .Params.category }}</div>
-                <a href="{{ printf "categories/%s" .Params.category | relURL }}" class="btn btn-outline btn-sm mt-2">
+        <div class="info-card">
+            <div class="info-card-content">
+                <h3 class="info-card-title">Category</h3>
+                <div class="info-card-value">{{ title .Params.category }}</div>
+                <a href="{{ printf "categories/%s" .Params.category | relURL }}" class="info-card-button">
                     View Similar
                 </a>
             </div>
@@ -97,49 +97,47 @@
 
     <!-- PDF Viewer -->
     {{ if .Params.pdf_url }}
-    <div class="card bg-base-100 shadow-xl mb-8">
-        <div class="card-body">
-            <div class="flex justify-between items-center mb-4">
-                <h2 class="card-title">Original Document</h2>
-                <div class="flex gap-2">
-                    <a href="{{ .Params.pdf_url }}" target="_blank" class="btn btn-outline btn-sm">
-                        📄 Open PDF
-                    </a>
-                    <a href="{{ .Params.pdf_url }}" download class="btn btn-primary btn-sm">
-                        💾 Download
-                    </a>
-                </div>
+    <div class="pdf-viewer-section">
+        <div class="pdf-viewer-header">
+            <h2 class="pdf-viewer-title">Original Document</h2>
+            <div class="pdf-actions">
+                <a href="{{ .Params.pdf_url }}" target="_blank" class="pdf-action-button pdf-action-secondary">
+                    📄 Open PDF
+                </a>
+                <a href="{{ .Params.pdf_url }}" download class="pdf-action-button pdf-action-primary">
+                    💾 Download
+                </a>
             </div>
-            
-            <!-- PDF Embed -->
-            <div class="w-full h-96 bg-base-200 rounded-lg overflow-hidden">
-                <embed src="{{ .Params.pdf_url }}" type="application/pdf" width="100%" height="100%" class="rounded-lg">
-            </div>
+        </div>
+        
+        <!-- PDF Embed -->
+        <div class="pdf-embed-container">
+            <embed src="{{ .Params.pdf_url }}" type="application/pdf" width="100%" height="100%" class="pdf-embed">
         </div>
     </div>
     {{ end }}
 
     <!-- Content -->
-    <div class="card bg-base-100 shadow-xl mb-8">
-        <div class="card-body">
-            <h2 class="card-title text-2xl mb-6">Circular Summary</h2>
-            <div class="prose prose-lg max-w-none">
-                {{ .Content }}
-            </div>
+    <div class="article-content-section">
+        <div class="article-content-header">
+            <h2 class="article-content-title">Circular Summary</h2>
+        </div>
+        <div class="article-prose">
+            {{ .Content }}
         </div>
     </div>
 
     <!-- Tags and Metadata -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+    <div class="metadata-cards-grid">
         <!-- Tags -->
         {{ if .Params.tags }}
-        <div class="card bg-base-100 shadow-lg">
-            <div class="card-body">
-                <h3 class="card-title">Tags</h3>
-                <div class="flex flex-wrap gap-2">
+        <div class="metadata-card">
+            <div class="metadata-card-content">
+                <h3 class="metadata-card-title">Tags</h3>
+                <div class="metadata-tags-list">
                     {{ range .Params.tags }}
-                    <a href="{{ printf "tags/%s" (. | urlize) | relURL }}" class="badge badge-outline hover:badge-primary transition-colors">
-                        {{ . }}
+                    <a href="{{ printf "tags/%s" (. | urlize) | relURL }}" class="stock-tag">
+                        {{ . | lower }}
                     </a>
                     {{ end }}
                 </div>
@@ -149,12 +147,12 @@
 
         <!-- Stock Mentions -->
         {{ if .Params.stocks }}
-        <div class="card bg-base-100 shadow-lg">
-            <div class="card-body">
-                <h3 class="card-title">Mentioned Stocks</h3>
-                <div class="flex flex-wrap gap-2">
+        <div class="metadata-card">
+            <div class="metadata-card-content">
+                <h3 class="metadata-card-title">Mentioned Stocks</h3>
+                <div class="metadata-tags-list">
                     {{ range .Params.stocks }}
-                    <a href="{{ printf "stocks/%s" (. | urlize) | relURL }}" class="badge badge-info hover:badge-info-focus transition-colors">
+                    <a href="{{ printf "stocks/%s" (. | urlize) | relURL }}" class="stock-tag">
                         {{ . }}
                     </a>
                     {{ end }}
@@ -167,9 +165,9 @@
     <!-- Related Circulars -->
     {{ $related := .Site.RegularPages.Related . | first 3 }}
     {{ if $related }}
-    <div class="mb-8">
-        <h2 class="text-2xl font-bold mb-6">Related Circulars</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div class="related-circulars-section">
+        <h2 class="related-circulars-title">Related Circulars</h2>
+        <div class="related-circulars-grid">
             {{ range $related }}
             {{ partial "circular-card.html" . }}
             {{ end }}
@@ -178,14 +176,14 @@
     {{ end }}
 
     <!-- Navigation -->
-    <div class="flex justify-between items-center mt-12 pt-8 border-t border-base-300">
-        <a href="{{ "circulars" | relURL }}" class="btn btn-outline">
+    <div class="article-navigation">
+        <a href="{{ "circulars" | relURL }}" class="nav-button nav-button-secondary">
             ← Back to All Circulars
         </a>
         
-        <div class="flex gap-2">
+        <div class="article-nav-actions">
             {{ if .Params.source }}
-            <a href="{{ printf "circulars/%s" .Params.source | relURL }}" class="btn btn-primary">
+            <a href="{{ printf "circulars/%s" .Params.source | relURL }}" class="nav-button nav-button-primary">
                 More from {{ upper .Params.source }}
             </a>
             {{ end }}

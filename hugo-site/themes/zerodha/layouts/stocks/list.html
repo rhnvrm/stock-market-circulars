@@ -22,7 +22,7 @@
         
         const query = this.searchQuery.toLowerCase().trim();
         return allStocks.filter(stock => 
-            stock.title.toLowerCase().includes(query)
+            stock.title.includes(query)
         );
     },
     get mostActiveStocks() {
@@ -36,28 +36,28 @@
     }
 }">
     <!-- Page Header -->
-    <div class="mb-8">
-        <nav class="breadcrumbs text-sm mb-4">
+    <div class="page-header">
+        <nav class="breadcrumbs caption-text tight-section">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                 <li>Stocks</li>
             </ul>
         </nav>
         
-        <h1 class="text-4xl font-bold mb-4">📈 Stocks</h1>
-        <p class="text-lg text-gray-600">Browse regulatory circulars by mentioned stocks and companies</p>
+        <h1 class="page-title">📈 Stocks</h1>
+        <p class="page-description">Browse regulatory circulars by mentioned stocks and companies</p>
     </div>
 
     <!-- Search Filter -->
-    <div class="mb-8">
-        <div class="form-control w-full max-w-md">
-            <label class="label">
-                <span class="label-text font-semibold">🔍 Filter Stocks</span>
+    <div class="tags-filter-section">
+        <div class="form-field content-container">
+            <label class="form-label">
+                <span class="emphasis-text">🔍 Filter Stocks</span>
             </label>
             <input 
                 type="text" 
                 placeholder="Search stocks..." 
-                class="input input-bordered w-full"
+                class="search-input"
                 x-model="searchQuery"
                 x-on:input="$nextTick(() => $dispatch('stocks-filtered'))"
             />
@@ -65,79 +65,62 @@
     </div>
 
     <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">Total Stocks</div>
-            <div class="stat-value" x-text="searchQuery.trim() ? totalFilteredStocks : {{ len .Site.Taxonomies.stocks }}"></div>
-            <div class="stat-desc" x-text="searchQuery.trim() ? 'Matching stocks' : 'Companies mentioned in circulars'"></div>
+    <div class="statistics-container">
+        <div class="statistic-item">
+            <div class="statistic-title">Total Stocks</div>
+            <div class="statistic-value" x-text="searchQuery.trim() ? totalFilteredStocks : {{ len .Site.Taxonomies.stocks }}"></div>
+            <div class="statistic-description" x-text="searchQuery.trim() ? 'Matching stocks' : 'Companies mentioned in circulars'"></div>
         </div>
-        <div class="stat">
-            <div class="stat-title">Total Circulars</div>
-            <div class="stat-value" x-text="searchQuery.trim() ? totalFilteredCirculars : {{ $totalCirculars := 0 }}{{ range .Site.Taxonomies.stocks }}{{ $totalCirculars = add $totalCirculars .Count }}{{ end }}{{ $totalCirculars }}"></div>
-            <div class="stat-desc">Circulars mentioning stocks</div>
+        <div class="statistic-item">
+            <div class="statistic-title">Total Circulars</div>
+            <div class="statistic-value" x-text="searchQuery.trim() ? totalFilteredCirculars : {{ $totalCirculars := 0 }}{{ range .Site.Taxonomies.stocks }}{{ $totalCirculars = add $totalCirculars .Count }}{{ end }}{{ $totalCirculars }}"></div>
+            <div class="statistic-description">Circulars mentioning stocks</div>
         </div>
-        <div class="stat" x-show="searchQuery.trim()">
-            <div class="stat-title">Search Query</div>
-            <div class="stat-value text-sm" x-text="searchQuery"></div>
-            <div class="stat-desc">
-                <button @click="searchQuery = ''" class="btn btn-ghost btn-xs">Clear</button>
+        <div class="statistic-item" x-show="searchQuery.trim()">
+            <div class="statistic-title">Search Query</div>
+            <div class="statistic-value caption-text" x-text="searchQuery"></div>
+            <div class="statistic-description">
+                <button @click="searchQuery = ''" class="semantic-clear-button">Clear</button>
             </div>
         </div>
     </div>
 
     <!-- No Results Message -->
-    <div x-show="searchQuery.trim() && totalFilteredStocks === 0" class="alert alert-info mb-8">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current shrink-0 w-6 h-6">
+    <div x-show="searchQuery.trim() && totalFilteredStocks === 0" class="alert alert-info">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
         </svg>
-        <div>
-            <h3 class="font-bold">No stocks found!</h3>
-            <div class="text-xs">Try a different search term or <button @click="searchQuery = ''" class="link">clear the filter</button>.</div>
+        <div class="alert-content">
+            <h3>No stocks found!</h3>
+            <div>Try a different search term or <button @click="searchQuery = ''" class="link">clear the filter</button>.</div>
         </div>
     </div>
 
-    <!-- Stocks Cloud -->
-    <div class="mb-8">
-        <h2 class="text-2xl font-bold mb-4">
-            <span x-show="!searchQuery.trim()">All Stocks</span>
-            <span x-show="searchQuery.trim()" x-text="`Filtered Stocks (${totalFilteredStocks})`"></span>
-        </h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            <template x-for="stock in filteredStocks" :key="stock.title">
-                <div class="bg-white border rounded-lg p-4 hover:shadow-md transition-shadow">
-                    <div class="flex justify-between items-center">
-                        <a :href="stock.permalink" class="font-semibold text-blue-600 hover:text-blue-800 transition-colors">
-                            <span x-text="stock.title"></span>
-                        </a>
-                        <div class="text-sm text-gray-500">
-                            <span x-text="stock.count"></span>
-                            <span x-text="stock.count === 1 ? ' circular' : ' circulars'"></span>
-                        </div>
-                    </div>
-                </div>
+    <!-- Most Active Stocks (Top Section) -->
+    <div class="component-section" x-show="mostActiveStocks.length > 0 && !searchQuery.trim()">
+        <h2 class="component-title">Most Active Stocks</h2>
+        <div class="popular-tags-compact-grid">
+            <template x-for="stock in mostActiveStocks" :key="stock.title">
+                <a :href="stock.permalink" class="stock-tag">
+                    <span x-text="stock.title"></span>
+                    <span class="tag-count" x-text="stock.count"></span>
+                </a>
             </template>
         </div>
     </div>
 
-    <!-- Most Active Stocks -->
-    <div class="mt-12" x-show="mostActiveStocks.length > 0">
-        <h2 class="text-2xl font-bold mb-4">
-            <span x-show="!searchQuery.trim()">Most Active Stocks</span>
-            <span x-show="searchQuery.trim()">Top Matching Stocks</span>
+    <!-- Stocks Cloud -->
+    <div class="content-section">
+        <h2 class="component-title">
+            <span x-show="!searchQuery.trim()">All Stocks</span>
+            <span x-show="searchQuery.trim()" x-text="`Filtered Stocks (${totalFilteredStocks})`"></span>
         </h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-            <template x-for="stock in mostActiveStocks" :key="stock.title">
-                <div class="bg-gradient-to-br from-blue-50 to-indigo-100 border border-blue-200 rounded-lg p-4 hover:shadow-md transition-all hover:scale-105">
-                    <div class="text-center">
-                        <a :href="stock.permalink" class="block font-bold text-lg text-blue-700 hover:text-blue-900 transition-colors mb-1">
-                            <span x-text="stock.title"></span>
-                        </a>
-                        <div class="text-sm text-blue-600 font-medium">
-                            <span x-text="stock.count"></span> circulars
-                        </div>
-                        <div class="text-xs text-blue-500 mt-1">View all circulars</div>
-                    </div>
-                </div>
+        <div class="tags-cloud-grid">
+            <template x-for="stock in filteredStocks" :key="stock.title">
+                <a :href="stock.permalink" class="stock-tag">
+                    <span x-text="stock.title"></span>
+                    <span class="tag-count" x-text="stock.count"></span>
+                </a>
             </template>
         </div>
     </div>

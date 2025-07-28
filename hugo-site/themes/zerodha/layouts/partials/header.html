@@ -1,34 +1,32 @@
-<header class="bg-white shadow-lg mb-8 border-b border-gray-200 rounded-lg border">
-    <div class="container mx-auto px-6 py-4">
-        <div class="flex items-center justify-between">
-            <div class="flex items-center space-x-4">
-                <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-3 no-underline">
-                    <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
-                        <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 20 20">
-                            <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"></path>
-                        </svg>
-                    </div>
-                    <div>
-                        <h1 class="text-xl font-bold text-gray-800">{{ .Site.Title }}</h1>
-                        <p class="text-sm text-gray-500">Regulatory Circulars Dashboard</p>
-                    </div>
-                </a>
+<header class="header">
+    <div class="header-content">
+        <a href="{{ .Site.BaseURL }}" class="logo">
+            <div class="logo-container">
+                <div class="logo-icon">
+                    <svg fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M3 4a1 1 0 011-1h12a1 1 0 011 1v2a1 1 0 01-1 1H4a1 1 0 01-1-1V4zM3 10a1 1 0 011-1h6a1 1 0 011 1v6a1 1 0 01-1 1H4a1 1 0 01-1-1v-6zM14 9a1 1 0 00-1 1v6a1 1 0 001 1h2a1 1 0 001-1v-6a1 1 0 00-1-1h-2z"></path>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <h1 class="logo-title">{{ .Site.Title }}</h1>
+                    <p class="logo-subtitle">Regulatory Circulars Dashboard</p>
+                </div>
             </div>
-            
-            <nav class="hidden md:flex items-center space-x-1">
-                {{ range .Site.Menus.main }}
-                <a href="{{ .URL }}" class="text-gray-700 no-underline font-medium px-4 py-2 rounded hover:bg-blue-50 hover:text-blue-600 transition-all {{ if eq $.Page.RelPermalink .URL }}bg-blue-100 text-blue-600{{ end }}">
-                    {{ .Name }}
-                </a>
-                {{ end }}
-            </nav>
-            
-            <!-- Mobile menu button -->
-            <button class="md:hidden p-2 rounded-lg hover:bg-gray-100">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                </svg>
-            </button>
-        </div>
+        </a>
+        
+        <nav class="nav">
+            {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}" class="nav-link {{ if eq $.Page.RelPermalink .URL }}active{{ end }}">
+                {{ .Name }}
+            </a>
+            {{ end }}
+        </nav>
+        
+        <!-- Mobile menu button -->
+        <button class="nav-toggle">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+        </button>
     </div>
 </header>

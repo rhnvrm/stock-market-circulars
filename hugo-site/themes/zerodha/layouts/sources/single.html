@@ -5,8 +5,8 @@
 {{ define "main" }}
 <div>
     <!-- Page Header -->
-    <div class="mb-8">
-        <nav class="breadcrumbs text-sm mb-4">
+    <div class="page-header">
+        <nav class="breadcrumbs">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                 <li><a href="{{ "circulars" | relURL }}">All Circulars</a></li>
@@ -14,20 +14,20 @@
             </ul>
         </nav>
         
-        <h1 class="text-4xl font-bold mb-4">{{ .Title }} Circulars</h1>
-        <p class="text-lg text-gray-600">Latest regulatory circulars from {{ .Title }}</p>
+        <h1 class="page-title">{{ .Title }} Circulars</h1>
+        <p class="page-description">Latest regulatory circulars from {{ .Title }}</p>
     </div>
 
     <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">{{ .Title }} Circulars</div>
-            <div class="stat-value">{{ len .Pages }}</div>
-            <div class="stat-desc">Total regulatory updates</div>
+    <div class="statistics-container">
+        <div class="statistic-card">
+            <div class="statistic-title">{{ .Title }} Circulars</div>
+            <div class="statistic-value">{{ len .Pages }}</div>
+            <div class="statistic-description">Total regulatory updates</div>
         </div>
-        <div class="stat">
-            <div class="stat-title">Categories</div>
-            <div class="stat-value text-sm">
+        <div class="statistic-card">
+            <div class="statistic-title">Categories</div>
+            <div class="statistic-value statistic-value-compact">
                 {{ $categories := slice }}
                 {{ range .Pages }}
                     {{ if .Params.category }}
@@ -36,12 +36,12 @@
                 {{ end }}
                 {{ len (uniq $categories) }}
             </div>
-            <div class="stat-desc">Different categories covered</div>
+            <div class="statistic-description">Different categories covered</div>
         </div>
     </div>
 
     <!-- Circulars Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="circulars-grid">
         {{ range .Pages }}
         {{ if .Params.source }}
             {{ partial "circular-card.html" . }}
@@ -58,12 +58,12 @@
     {{ end }}
     {{ $topTags := first 15 (sort (uniq $allTags)) }}
     {{ if $topTags }}
-    <div class="mt-12">
-        <h2 class="text-2xl font-bold mb-4">Popular Tags for {{ .Title }}</h2>
-        <div class="flex flex-wrap gap-2">
+    <div class="popular-tags-section">
+        <h2 class="popular-tags-title">Popular Tags for {{ .Title }}</h2>
+        <div class="popular-tags-list">
             {{ range $topTags }}
             <a href="{{ printf "/tags/%s/" (urlize .) | relURL }}" 
-               class="btn btn-outline btn-sm hover:btn-primary">
+               class="tag-link">
                 {{ . }}
             </a>
             {{ end }}

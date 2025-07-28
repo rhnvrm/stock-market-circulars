@@ -5,8 +5,8 @@
 {{ define "main" }}
 <div>
     <!-- Page Header -->
-    <div class="mb-8">
-        <nav class="breadcrumbs text-sm mb-4">
+    <div class="page-header">
+        <nav class="breadcrumbs">
             <ul>
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                 <li><a href="{{ "tags" | relURL }}">Tags</a></li>
@@ -14,22 +14,22 @@
             </ul>
         </nav>
         
-        <h1 class="text-4xl font-bold mb-4">
-            <span class="badge badge-primary mr-3">#</span>{{ .Title }}
+        <h1 class="tag-page-title">
+            <span class="tag-hash-badge">#</span>{{ .Title }}
         </h1>
-        <p class="text-lg text-gray-600">{{ len .Pages }} circular{{ if ne (len .Pages) 1 }}s{{ end }} tagged with "{{ .Title }}"</p>
+        <p class="tag-page-description">{{ len .Pages }} circular{{ if ne (len .Pages) 1 }}s{{ end }} tagged with "{{ .Title }}"</p>
     </div>
 
     <!-- Stats -->
-    <div class="stats shadow mb-8">
-        <div class="stat">
-            <div class="stat-title">Circulars with this tag</div>
-            <div class="stat-value">{{ len .Pages }}</div>
-            <div class="stat-desc">Latest regulatory updates</div>
+    <div class="statistics-container">
+        <div class="statistic-card">
+            <div class="statistic-title">Circulars with this tag</div>
+            <div class="statistic-value">{{ len .Pages }}</div>
+            <div class="statistic-description">Latest regulatory updates</div>
         </div>
-        <div class="stat">
-            <div class="stat-title">Sources</div>
-            <div class="stat-value text-sm">
+        <div class="statistic-card">
+            <div class="statistic-title">Sources</div>
+            <div class="statistic-value">
                 {{ $sources := slice }}
                 {{ range .Pages }}
                     {{ if .Params.source }}
@@ -41,12 +41,12 @@
                     {{ if $i }}, {{ end }}{{ upper $source }}
                 {{ end }}
             </div>
-            <div class="stat-desc">{{ len (uniq $sources) }} different sources</div>
+            <div class="statistic-description">{{ len (uniq $sources) }} different sources</div>
         </div>
     </div>
 
     <!-- Circulars Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div class="circulars-grid">
         {{ range .Pages }}
         {{ if .Params.source }}
             {{ partial "circular-card.html" . }}
@@ -65,12 +65,12 @@
     {{ end }}
     {{ $uniqueRelatedTags := first 10 (sort (uniq $relatedTags)) }}
     {{ if $uniqueRelatedTags }}
-    <div class="mt-12">
-        <h2 class="text-2xl font-bold mb-4">Related Tags</h2>
-        <div class="flex flex-wrap gap-2">
+    <div class="related-tags-section">
+        <h2 class="related-tags-title">Related Tags</h2>
+        <div class="related-tags-list">
             {{ range $uniqueRelatedTags }}
             <a href="{{ printf "/tags/%s/" (urlize .) | relURL }}" 
-               class="btn btn-outline btn-sm hover:btn-primary">
+               class="stock-tag">
                 {{ . }}
             </a>
             {{ end }}

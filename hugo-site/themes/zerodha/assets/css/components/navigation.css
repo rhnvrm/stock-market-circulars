@@ -1,0 +1,146 @@
+/*! =======================================================================
+   Navigation Components
+   ======================================================================= */
+
+/* Header & Navigation */
+.header {
+  background-color: var(--z-background);
+  border-bottom: 1px solid var(--z-border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  height: 4rem;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg);
+}
+
+.logo {
+  color: var(--z-blue);
+  text-decoration: none;
+}
+
+.logo:hover {
+  color: var(--z-blue-hover);
+  text-decoration: none;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.logo-icon {
+  width: var(--spacing-2xl);
+  height: var(--spacing-2xl);
+  background-color: var(--z-blue);
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-icon svg {
+  width: var(--spacing-5);
+  height: var(--spacing-5);
+  color: white;
+}
+
+.logo-title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--z-black);
+  margin: 0;
+}
+
+.logo-subtitle {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray);
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xl);
+}
+
+.nav-link {
+  color: var(--z-black);
+  font-weight: var(--font-weight-medium);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  transition: all var(--transition-fast);
+}
+
+.nav-link:hover {
+  background-color: var(--z-blue-light);
+  color: var(--z-blue);
+  text-decoration: none;
+}
+
+.nav-link.current {
+  background-color: var(--z-blue);
+  color: white;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  margin-bottom: var(--spacing-lg);
+}
+
+.breadcrumbs ul {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumbs li:not(:last-child)::after {
+  content: '›';
+  margin-left: var(--spacing-sm);
+  color: var(--z-gray);
+}
+
+.breadcrumbs a {
+  color: var(--z-blue);
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs li:last-child {
+  color: var(--z-gray);
+  font-size: var(--font-size-sm);
+}
+
+/* .join and .join-item utilities removed - use semantic pagination components */
+}
+
+.pagination-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-3xl);
+}
+
+.pagination-info {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray);
+  text-align: center;
+}

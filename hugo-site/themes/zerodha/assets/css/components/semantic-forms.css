@@ -1,0 +1,68 @@
+/*! =======================================================================
+   Form Components - Replace DaisyUI form system
+   ======================================================================= */
+
+/* Replace input-bordered, form-control, label */
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+}
+
+.form-label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--z-black);
+}
+
+.form-input {
+  padding: var(--spacing-md);
+  border: 2px solid var(--z-border);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-base);
+  transition: border-color var(--transition-fast);
+  background: white;
+  color: var(--z-black);
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--z-blue);
+  box-shadow: 0 0 0 3px rgba(56, 126, 209, 0.1);
+}
+
+.form-input::placeholder {
+  color: var(--z-gray-500);
+}
+
+/* Specific form components for taxonomy pages */
+.tags-filter-section {
+  margin-bottom: var(--spacing-xl);
+}
+
+.tags-filter-section .form-field {
+  max-width: 28rem; /* max-w-md replacement */
+}
+
+/* Search input styling */
+.search-input {
+  padding: var(--spacing-md);
+  border: 2px solid var(--z-border);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-base);
+  transition: border-color var(--transition-fast);
+  background: white;
+  color: var(--z-black);
+  width: 100%;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--z-blue);
+  box-shadow: 0 0 0 3px rgba(56, 126, 209, 0.1);
+}
+
+.search-input::placeholder {
+  color: var(--z-gray-500);
+}

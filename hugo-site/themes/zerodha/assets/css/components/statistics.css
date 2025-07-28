@@ -1,0 +1,57 @@
+/*! =======================================================================
+   Statistics Components - Replace DaisyUI stats system
+   ======================================================================= */
+
+/* Replace stats, stat, stat-title, stat-value, stat-desc */
+.statistics-container {
+  /* Grid properties inherited from unified-grids.css */
+  padding: var(--spacing-xl);
+  background: white;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  margin-bottom: var(--spacing-2xl);
+}
+
+.statistic-item {
+  text-align: center;
+  padding: var(--spacing-lg);
+}
+
+/* .statistic-card base properties now defined in unified-cards.css */
+
+.statistic-title {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray-600);
+  margin-bottom: var(--spacing-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: var(--font-weight-medium);
+}
+
+.statistic-value {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--z-blue);
+  margin-bottom: var(--spacing-sm);
+}
+
+.statistic-description {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray-600);
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .statistics-container {
+    grid-template-columns: 1fr;
+    padding: var(--spacing-lg);
+  }
+  
+  .statistic-item {
+    padding: var(--spacing-md);
+  }
+  
+  .statistic-value {
+    font-size: var(--font-size-2xl);
+  }
+}

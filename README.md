@@ -1,6 +1,6 @@
 # Stock Market Circulars Processing Pipeline
 
-A modern Python-based system for automatically collecting, processing, and displaying regulatory circulars from NSE, BSE, and SEBI. Uses Claude AI to generate Hugo-compatible markdown with content-based state management for reliable processing and deployment.
+A modern Python-based system for automatically collecting, processing, and displaying regulatory circulars from NSE, BSE, and SEBI. Features Claude AI content generation, 100% semantic CSS architecture, and content-based state management for reliable processing and deployment.
 
 ## Quick Start
 
@@ -15,27 +15,19 @@ just pipeline
 just serve
 ```
 
-## Recent Updates
-
-### 2025-07-26: Pipeline Reprocessing Bug Fix
-- **Fixed**: Items with `stage: completed` but missing `status` field were being reprocessed
-- **Enhanced**: `is_processed()` detection now checks both `status` and `stage` fields
-- **Result**: 99.1% skip rate (114/115 files correctly identified as processed)
-- **Performance**: Eliminates unnecessary reprocessing, faster pipeline execution
-
 ## Architecture
 
 - **Unified Python Pipeline** (`scripts/combined_pipeline.py` - uv script format)
 - **Claude AI Integration** (JSON output format for GitHub Actions compatibility)
 - **Content-Based State Management** (markdown frontmatter instead of JSON files)
-- **Hugo Static Site** with Zerodha-inspired design
+- **Hugo Static Site** with 100% semantic CSS architecture and Zerodha design system
 - **Multi-Format Support** (PDF, ZIP archives, HTML fallback for BSE)
 
 ## Key Features
 
 - **RSS Feed Processing**: Automated scraping from NSE, BSE, SEBI with intelligent PDF extraction
 - **AI Content Generation**: Claude processes PDFs/HTML to generate structured markdown with YAML frontmatter
-- **Hugo Site Generation**: Professional static site with filtering, search, and responsive design
+- **Hugo Site Generation**: Professional static site with 100% semantic CSS, filtering, search, and responsive design
 - **Content-Based State**: Frontmatter-based state management with complete audit trails
 - **Multi-Format Support**: PDF files, ZIP archives, and HTML fallback (BSE 404 handling)
 - **Resume Functionality**: Automatically detects and skips completed items across runs
@@ -166,11 +158,14 @@ hugo-site/content/circulars/
 
 ## Design System
 
-Built with Zerodha-inspired design language:
-- **Primary Blue**: `#387ed1`
-- **Typography**: Inter, system-ui, sans-serif
-- **Framework**: Hugo + Alpine.js + DaisyUI
-- **Features**: Source filtering, tag-based filtering, search, responsive design
+Professional, responsive web interface built with Zerodha-inspired design:
+
+- **Clean Interface**: Minimalist design focused on content readability
+- **Fast Performance**: Lightweight CSS with no external framework dependencies  
+- **Mobile-First**: Responsive design that works on all devices
+- **Accessibility**: Proper semantic markup and keyboard navigation
+- **Search & Filtering**: Advanced filtering by source, severity, tags, and content search
+- **Professional Aesthetics**: Zerodha's signature blue (`#387ed1`) with Inter typography
 
 ## License
 

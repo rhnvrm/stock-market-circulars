@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" data-theme="light">
+<html lang="{{ .Site.Language.Lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,27 +11,59 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <!-- DaisyUI + Tailwind CSS (CDN for now) -->
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Zerodha Design System - 100% Semantic Component Architecture -->
+    {{ $variables := resources.Get "css/variables.css" }}
+    {{ $base := resources.Get "css/base.css" }}
     
-    <!-- Custom Styles -->
-    {{ $styles := resources.Get "css/main.css" }}
-    {{ if $styles }}
-        {{ if hugo.IsProduction }}
-            {{ $styles = $styles | resources.Minify }}
-        {{ end }}
-        <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    <!-- Layout System -->
+    {{ $containers := resources.Get "css/components/containers.css" }}
+    {{ $layoutSections := resources.Get "css/components/layout-sections.css" }}
+    {{ $unifiedGrids := resources.Get "css/components/unified-grids.css" }}
+    
+    <!-- Typography System -->
+    {{ $typography := resources.Get "css/components/typography.css" }}
+    
+    <!-- Interactive Components -->
+    {{ $unifiedButtons := resources.Get "css/components/unified-buttons.css" }}
+    {{ $buttons := resources.Get "css/components/buttons.css" }}
+    {{ $semanticForms := resources.Get "css/components/semantic-forms.css" }}
+    {{ $navigation := resources.Get "css/components/navigation.css" }}
+    
+    <!-- Content Components -->
+    {{ $unifiedCards := resources.Get "css/components/unified-cards.css" }}
+    {{ $cards := resources.Get "css/components/cards.css" }}
+    {{ $badges := resources.Get "css/components/badges.css" }}
+    {{ $statistics := resources.Get "css/components/statistics.css" }}
+    {{ $semanticAlerts := resources.Get "css/components/semantic-alerts.css" }}
+    {{ $taxonomy := resources.Get "css/components/taxonomy.css" }}
+    {{ $homepage := resources.Get "css/components/homepage.css" }}
+    {{ $content := resources.Get "css/components/content.css" }}
+    {{ $article := resources.Get "css/components/article.css" }}
+    
+    <!-- Site Structure -->
+    {{ $hero := resources.Get "css/components/hero.css" }}
+    {{ $footer := resources.Get "css/components/footer.css" }}
+    
+    <!-- Utilities & Responsive -->
+    {{ $utilities := resources.Get "css/components/utilities.css" }}
+    {{ $responsive := resources.Get "css/responsive.css" }}
+    
+    {{ $css := slice $variables $base $containers $layoutSections $unifiedGrids $typography $unifiedButtons $buttons $semanticForms $navigation $unifiedCards $cards $badges $statistics $semanticAlerts $taxonomy $homepage $hero $content $article $footer $utilities $responsive | resources.Concat "css/zerodha-semantic-system.css" }}
+    {{ if hugo.IsProduction }}
+        {{ $css = $css | resources.Minify }}
     {{ end }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     
     <!-- Alpine.js -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body class="min-h-screen bg-base-100">
+<body class="site-body">
     {{ partial "header.html" . }}
     
-    <main class="container mx-auto px-4 py-8">
-        {{ block "main" . }}{{ end }}
+    <main class="main-content">
+        <div class="container">
+            {{ block "main" . }}{{ end }}
+        </div>
     </main>
     
     {{ partial "footer.html" . }}

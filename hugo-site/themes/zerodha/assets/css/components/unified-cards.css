@@ -1,0 +1,157 @@
+/*! =======================================================================
+   Unified Card System - True consolidation using CSS selector grouping
+   ======================================================================= */
+
+/* ALL card types inherit base properties through grouped selectors */
+.card,
+.circular-card,
+.statistic-card,
+.stats-card,
+.info-card,
+.metadata-card,
+.source-card {
+  background: var(--z-background);
+  border: 1px solid var(--z-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  padding: var(--spacing-xl);
+  transition: all var(--transition-fast);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Specialized properties for specific card types */
+
+/* Generic card - adds overflow */
+.card {
+  overflow: hidden;
+}
+
+/* Circular cards - adds interaction behavior */
+.circular-card {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  height: 100%; /* Grid layout optimization */
+}
+
+/* Statistics and stats cards - center aligned */
+.statistic-card,
+.stats-card {
+  text-align: center;
+}
+
+/* Source cards - adds positioning context */
+.source-card {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Interactive behavior for cards that need it */
+.circular-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
+}
+
+/* Common card content structure - shared across all card types */
+.card-body {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--z-black);
+  margin: 0 0 var(--spacing-md) 0;
+  line-height: 1.4;
+}
+
+.card-actions {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-top: auto;
+  padding-top: var(--spacing-lg);
+}
+
+/* Card header components */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--spacing-lg);
+}
+
+.card-badges {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+.card-date {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Card description and content */
+.card-description {
+  font-size: var(--font-size-sm);
+  color: var(--z-gray);
+  line-height: 1.6;
+  margin-bottom: var(--spacing-lg);
+  flex-grow: 1;
+}
+
+/* Card utilities */
+.card-info {
+  position: relative;
+  display: inline-block;
+}
+
+.card-info-icon {
+  cursor: help;
+}
+
+.card-tooltip {
+  position: absolute;
+  background: var(--z-black);
+  color: white;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-xs);
+  white-space: nowrap;
+  z-index: 10;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: var(--spacing-sm);
+  opacity: 0;
+  visibility: hidden;
+  transition: all var(--transition-fast);
+}
+
+.card-info:hover .card-tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.card-id {
+  font-family: 'Courier New', monospace;
+  font-size: var(--font-size-xs);
+  color: var(--z-gray-400);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background-color: var(--z-light-gray);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--z-border);
+  display: inline-block;
+  margin-top: var(--spacing-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.card-buttons {
+  display: flex;
+  gap: var(--spacing-sm);
+}

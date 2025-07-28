@@ -1,0 +1,35 @@
+/*! =======================================================================
+   Button Components - Specialized Styles (Base styles in unified-buttons.css)
+   ======================================================================= */
+
+/* Specialized badge interactions within buttons */
+.btn-outline:hover .badge {
+  color: white;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.btn-outline:hover .badge-ghost {
+  color: rgba(255, 255, 255, 0.8);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Override ghost button to inherit color */
+.btn-ghost {
+  color: inherit; /* Overrides unified-buttons.css blue color */
+}
+
+.btn-ghost:hover {
+  background-color: rgba(0, 0, 0, 0.05); /* Subtle gray instead of blue */
+}
+
+/* .btn-xs removed - use semantic button variants */
+
+/* Special hover state variants */
+.btn-sm.hover\:btn-primary:hover {
+  background-color: var(--z-blue);
+  border-color: var(--z-blue);
+  color: white;
+}
+
+/* All other button properties (.view-all-btn, .semantic-clear-button, size variants, etc.) 
+   are now defined in unified-buttons.css */
