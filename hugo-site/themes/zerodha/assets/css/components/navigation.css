@@ -88,9 +88,47 @@
   text-decoration: none;
 }
 
-.nav-link.current {
+.nav-link.active {
   background-color: var(--z-blue);
   color: white;
+}
+
+/* Mobile navigation */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  padding: var(--spacing-sm);
+  cursor: pointer;
+  border-radius: var(--radius-md);
+}
+
+.nav-toggle svg {
+  width: 24px;
+  height: 24px;
+  color: var(--z-black);
+}
+
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+  }
+  
+  .nav-toggle {
+    display: block;
+  }
+  
+  .header-content {
+    padding: 0 var(--spacing-lg);
+  }
+  
+  .logo-title {
+    font-size: var(--font-size-lg);
+  }
+  
+  .logo-subtitle {
+    display: none;
+  }
 }
 
 /* Breadcrumbs */
@@ -129,7 +167,6 @@
 }
 
 /* .join and .join-item utilities removed - use semantic pagination components */
-}
 
 .pagination-section {
   display: flex;

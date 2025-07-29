@@ -38,6 +38,27 @@
   --art-red: #e86559;
   --art-yellow: #ff9100;
   
+  /* Professional Document Intelligence Color System */
+  /* Clean Professional Base */
+  --primary-blue: #2563eb;      /* Primary brand color */
+  --primary-navy: #1e293b;      /* Text, authority */
+  --neutral-50: #f8fafc;        /* Light backgrounds */
+  --neutral-100: #f1f5f9;       /* Card backgrounds */
+  --neutral-200: #e2e8f0;       /* Borders */
+  --neutral-500: #64748b;       /* Secondary text */
+  --neutral-700: #334155;       /* Primary text */
+  --neutral-900: #0f172a;       /* Strong emphasis */
+  
+  /* Source Colors (Subtle) */
+  --nse-blue: #3b82f6;          /* NSE blue */
+  --bse-orange: #f59e0b;        /* BSE amber */
+  --sebi-green: #10b981;        /* SEBI emerald */
+  
+  /* Priority Indicators (Minimal) */
+  --priority-high: #ef4444;     /* Red dot for high */
+  --priority-medium: #f59e0b;   /* Amber dot for medium */
+  --priority-low: #10b981;      /* Green dot for low */
+  
   /* Spacing System */
   --spacing: 0.25rem; /* 4px base unit */
   

@@ -95,27 +95,6 @@
         {{ end }}
     </div>
 
-    <!-- PDF Viewer -->
-    {{ if .Params.pdf_url }}
-    <div class="pdf-viewer-section">
-        <div class="pdf-viewer-header">
-            <h2 class="pdf-viewer-title">Original Document</h2>
-            <div class="pdf-actions">
-                <a href="{{ .Params.pdf_url }}" target="_blank" class="pdf-action-button pdf-action-secondary">
-                    📄 Open PDF
-                </a>
-                <a href="{{ .Params.pdf_url }}" download class="pdf-action-button pdf-action-primary">
-                    💾 Download
-                </a>
-            </div>
-        </div>
-        
-        <!-- PDF Embed -->
-        <div class="pdf-embed-container">
-            <embed src="{{ .Params.pdf_url }}" type="application/pdf" width="100%" height="100%" class="pdf-embed">
-        </div>
-    </div>
-    {{ end }}
 
     <!-- Content -->
     <div class="article-content-section">

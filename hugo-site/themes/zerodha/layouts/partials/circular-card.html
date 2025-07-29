@@ -1,97 +1,42 @@
-<!-- Circular Card Component -->
+<!-- Compact Professional Card -->
 <div class="circular-card">
-    <!-- Header with source and date -->
+    <!-- Header: source, date, priority in one line -->
     <div class="card-header">
-        <div class="card-badges">
-            <span class="source-badge source-{{ .Params.source }}">
-                {{ upper .Params.source }}
-            </span>
-            {{ if .Params.circular_id }}
-            <span class="card-id">{{ .Params.circular_id }}</span>
-            {{ end }}
-        </div>
-        <div class="card-date">{{ .Date.Format "Jan 2, 2006" }}</div>
+        <span class="source-badge source-{{ .Params.source }}">{{ upper .Params.source }}</span>
+        <span class="card-date">{{ .Date.Format "Jan 2" }}</span>
+        {{ if .Params.severity }}
+        <span class="priority-dot priority-{{ .Params.severity }}"></span>
+        {{ end }}
     </div>
     
-    <!-- Title -->
+    <!-- Title - crisp and concise -->
     <h3 class="card-title">
-        <a href="{{ .Permalink }}">
-            {{ .Title }}
-        </a>
+        <a href="{{ .Permalink }}">{{ .Title | truncate 80 }}</a>
     </h3>
     
-    <!-- Description -->
+    <!-- AI Summary - one line only -->
     {{ if .Params.description }}
-    <p class="card-description">{{ .Params.description }}</p>
+    <p class="card-summary">{{ .Params.description | truncate 120 }}</p>
     {{ end }}
     
-    <!-- Severity and Impact Indicators -->
-    <div class="card-indicators">
-        {{ if .Params.severity }}
-        <span class="severity-badge severity-{{ .Params.severity }}">
-            {{ title .Params.severity }} Severity
-        </span>
-        {{ end }}
-        
-        {{ if .Params.impact }}
-        <span class="stock-tag">
-            Impact: {{ title .Params.impact }}
-        </span>
-        {{ end }}
-        
-        {{ if .Params.importance_ranking }}
-        <span class="stock-tag">
-            Priority: {{ title .Params.importance_ranking }}
-        </span>
-        {{ end }}
-    </div>
-    
-    <!-- Tags -->
-    {{ if .Params.tags }}
-    <div class="card-tags">
-        {{ range first 4 .Params.tags }}
-        <span class="stock-tag">{{ . | lower }}</span>
-        {{ end }}
-        {{ if gt (len .Params.tags) 4 }}
-        <span class="stock-tag">+{{ sub (len .Params.tags) 4 }} more</span>
-        {{ end }}
-    </div>
-    {{ end }}
-    
-    <!-- Stock mentions -->
-    {{ if .Params.stocks }}
-    <div class="card-stocks">
-        <div class="card-stocks-label">Mentioned Stocks:</div>
-        <div class="card-stocks-list">
-            {{ range .Params.stocks }}
-            <a href="{{ printf "/stocks/%s/" (urlize .) | relURL }}" class="stock-tag">
-                {{ . }}
-            </a>
+    <!-- Bottom row: tags + actions -->
+    <div class="card-bottom">
+        <div class="card-tags">
+            {{ if .Params.stocks }}
+                {{ range first 1 .Params.stocks }}
+                <span class="tag">{{ . }}</span>
+                {{ end }}
+            {{ end }}
+            {{ if .Params.impact }}
+            <span class="impact-tag">{{ .Params.impact | title }}</span>
             {{ end }}
         </div>
-    </div>
-    {{ end }}
-    
-    <!-- Actions -->
-    <div class="card-actions">
-        <div class="card-buttons">
+        
+        <div class="card-actions">
+            <a href="{{ .Permalink }}" class="btn-primary">View</a>
             {{ if .Params.pdf_url }}
-            <a href="{{ .Params.pdf_url }}" target="_blank" class="card-action-button card-action-button-secondary">
-                📄 PDF
-            </a>
+            <a href="{{ .Params.pdf_url }}" target="_blank" class="btn-secondary">PDF</a>
             {{ end }}
-            <a href="{{ .Permalink }}" class="card-action-button card-action-button-primary">
-                Details
-            </a>
         </div>
-        
-        {{ if .Params.justification }}
-        <div class="card-info">
-            <div class="card-info-icon">ℹ️</div>
-            <div class="card-tooltip">
-                {{ .Params.justification }}
-            </div>
-        </div>
-        {{ end }}
     </div>
 </div>

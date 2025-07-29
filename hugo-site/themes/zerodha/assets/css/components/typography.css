@@ -96,3 +96,115 @@
   color: var(--z-gray-600);
   margin-bottom: var(--spacing-xl);
 }
+
+/* ===== PROFESSIONAL DOCUMENT SCANNING TYPOGRAPHY ===== */
+
+/* Platform and overview typography */
+.platform-title {
+  font-family: var(--font-family);
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--z-black);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+}
+
+.platform-description {
+  font-family: var(--font-family);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-normal);
+  color: var(--z-gray-600);
+  line-height: 1.5;
+}
+
+/* Document card typography - optimized for scanning */
+.doc-title {
+  font-family: var(--font-family);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--z-black);
+  line-height: 1.4;
+  letter-spacing: -0.015em;
+}
+
+.doc-summary {
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-normal);
+  color: var(--z-gray-700);
+  line-height: 1.6;
+}
+
+/* Document metadata typography */
+.doc-source {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+
+.doc-date {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  color: var(--z-gray);
+}
+
+.doc-impact {
+  font-family: var(--font-family);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-medium);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--z-gray);
+}
+
+/* Stock ticker typography */
+.stock-tag {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: 0.025em;
+}
+
+/* Action button typography */
+.doc-read-btn,
+.doc-pdf-link {
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  letter-spacing: 0.015em;
+}
+
+/* Statistics typography */
+.stat-number {
+  font-family: var(--font-family);
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+  line-height: 1;
+  letter-spacing: -0.025em;
+}
+
+.stat-label {
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.source-count {
+  font-family: var(--font-family);
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  line-height: 1;
+}
+
+.source-name {
+  font-family: var(--font-family);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}

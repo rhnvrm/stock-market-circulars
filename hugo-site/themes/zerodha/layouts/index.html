@@ -4,27 +4,38 @@
 
 {{ define "main" }}
 <div x-data="circularDashboard()">
-    <!-- Hero Section -->
-    <div class="hero">
-        <div class="hero-title">Stock Market Circulars</div>
-        <p class="hero-subtitle">
-            Stay updated with the latest regulatory circulars from NSE, BSE, and SEBI.<br>
-            AI-powered summaries help you quickly understand the impact and importance.
-        </p>
-        <div class="stats-grid">
-            <div class="stats-card">
-                <div class="stats-number">{{ len (where .Site.RegularPages "Section" "circulars") }}</div>
-                <div class="stats-label">Total Circulars</div>
+    <!-- Clean Document Intelligence Overview -->
+    <div class="document-intelligence-overview">
+        <header class="overview-header">
+            <h1 class="platform-title">AI-Processed Regulatory Documents</h1>
+            <p class="platform-description">Automated summaries and analysis of NSE, BSE, and SEBI circulars for quick review</p>
+        </header>
+        
+        <!-- Simple Statistics -->
+        <section class="processing-stats">
+            <div class="stat-card">
+                <span class="stat-number">{{ len (where .Site.RegularPages "Section" "circulars") }}</span>
+                <span class="stat-label">Documents Processed</span>
             </div>
-            <div class="stats-card">
-                <div class="stats-number">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "nse") }} + {{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "bse") }} + {{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "sebi") }}</div>
-                <div class="stats-label">NSE + BSE + SEBI</div>
+            <div class="stat-card">
+                <span class="stat-number">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.stocks" "!=" nil) }}</span>
+                <span class="stat-label">Stock-Related</span>
             </div>
-            <div class="stats-card">
-                <div class="stats-number">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.severity" "high") }}</div>
-                <div class="stats-label">High Priority</div>
+            <div class="stat-breakdown">
+                <div class="source-stat">
+                    <span class="source-count">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "nse") }}</span>
+                    <span class="source-name">NSE</span>
+                </div>
+                <div class="source-stat">
+                    <span class="source-count">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "bse") }}</span>
+                    <span class="source-name">BSE</span>
+                </div>
+                <div class="source-stat">
+                    <span class="source-count">{{ len (where (where .Site.RegularPages "Section" "circulars") ".Params.source" "sebi") }}</span>
+                    <span class="source-name">SEBI</span>
+                </div>
             </div>
-        </div>
+        </section>
     </div>
 
 
@@ -35,8 +46,8 @@
             <div class="latest-circulars-controls">
                 <a href="{{ "circulars" | relURL }}" class="view-all-link">View All →</a>
                 <div class="view-mode-controls">
-                    <button @click="viewMode = 'grid'" :class="viewMode === 'grid' ? 'view-mode-button view-mode-button-active' : 'view-mode-button'">Grid</button>
-                    <button @click="viewMode = 'list'" :class="viewMode === 'list' ? 'view-mode-button view-mode-button-active' : 'view-mode-button'">List</button>
+                    <button @click="viewMode = 'grid'" :class="viewMode === 'grid' ? 'view-mode-button-active' : 'view-mode-button'">Grid</button>
+                    <button @click="viewMode = 'list'" :class="viewMode === 'list' ? 'view-mode-button-active' : 'view-mode-button'">List</button>
                 </div>
             </div>
         </div>
