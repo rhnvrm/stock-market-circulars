@@ -886,6 +886,10 @@ footer {
   color: var(--tx-primary);
 }
 
+.taxonomy-link:visited {
+  color: var(--tx-muted) !important;
+}
+
 .taxonomy-name {
   font-weight: 500;
   font-size: var(--font-size-sm);
@@ -993,6 +997,10 @@ footer {
   text-decoration: underline;
 }
 
+.taxonomy-name-link:visited {
+  color: var(--tx-muted) !important;
+}
+
 .stock-symbol {
   font-family: monospace;
   font-weight: bold;
@@ -1054,6 +1062,10 @@ footer {
   padding: var(--space-sm);
   text-decoration: none;
   color: var(--tx-primary);
+}
+
+.taxonomy-column-link:visited {
+  color: var(--tx-muted) !important;
 }
 
 .taxonomy-column-name {

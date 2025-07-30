@@ -5,8 +5,15 @@
     {{ with .Date }}
       <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "2006-01-02" }}</time>
     {{ end }}
-    {{ with .Params.source }}
-      <span> • {{ . | upper }}</span>
+    {{ $source := .Params.source }}
+    {{ if reflect.IsSlice $source }}
+      {{ range $source }}
+        <span> • {{ . | upper }}</span>
+      {{ end }}
+    {{ else }}
+      {{ with $source }}
+        <span> • {{ . | upper }}</span>
+      {{ end }}
     {{ end }}
   </header>
 

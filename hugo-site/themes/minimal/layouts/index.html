@@ -39,11 +39,25 @@
               </td>
               <td class="article-tags">
                 <div class="tag-container">
-                  {{ with .Params.source }}
-                    <a href="{{ printf "/circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+                  {{ $source := .Params.source }}
+                  {{ if reflect.IsSlice $source }}
+                    {{ range $source }}
+                      <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+                    {{ end }}
+                  {{ else }}
+                    {{ with $source }}
+                      <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+                    {{ end }}
                   {{ end }}
-                  {{ with .Params.category }}
-                    <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
+                  {{ $category := .Params.category }}
+                  {{ if reflect.IsSlice $category }}
+                    {{ range $category }}
+                      <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
+                    {{ end }}
+                  {{ else }}
+                    {{ with $category }}
+                      <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
+                    {{ end }}
                   {{ end }}
                   {{ if .Params.stocks }}
                     {{ range first 2 .Params.stocks }}
