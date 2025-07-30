@@ -1,0 +1,47 @@
+{{ $paginator := . }}
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="pagination">
+  {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL | relURL }}" class="pagination-prev">← prev</a>
+  {{ else }}
+    <span class="pagination-prev disabled">← prev</span>
+  {{ end }}
+
+  {{ $currentPage := $paginator.PageNumber }}
+  {{ $totalPages := $paginator.TotalPages }}
+  
+  {{ $startPage := sub $currentPage 1 }}
+  {{ $endPage := add $currentPage 1 }}
+  {{ if lt $startPage 1 }}{{ $startPage = 1 }}{{ end }}
+  {{ if gt $endPage $totalPages }}{{ $endPage = $totalPages }}{{ end }}
+
+  <!-- Show page 1 if not in range -->
+  {{ if gt $startPage 1 }}
+    <a href="{{ $paginator.First.URL | relURL }}" class="pagination-page">1</a>
+    {{ if gt $startPage 2 }}<span class="pagination-ellipsis">…</span>{{ end }}
+  {{ end }}
+
+  <!-- Show current page range -->
+  {{ range $paginator.Pagers }}
+    {{ if and (ge .PageNumber $startPage) (le .PageNumber $endPage) }}
+      {{ if eq .PageNumber $currentPage }}
+        <span class="pagination-current">{{ .PageNumber }}</span>
+      {{ else }}
+        <a href="{{ .URL | relURL }}" class="pagination-page">{{ .PageNumber }}</a>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <!-- Show last page if not in range -->
+  {{ if lt $endPage $totalPages }}
+    {{ if lt $endPage (sub $totalPages 1) }}<span class="pagination-ellipsis">…</span>{{ end }}
+    <a href="{{ $paginator.Last.URL | relURL }}" class="pagination-page">{{ $totalPages }}</a>
+  {{ end }}
+
+  {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL | relURL }}" class="pagination-next">next →</a>
+  {{ else }}
+    <span class="pagination-next disabled">next →</span>
+  {{ end }}
+</nav>
+{{ end }}

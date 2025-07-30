@@ -1,0 +1,9 @@
+# Minimal Academic Theme
+name = "minimal"
+license = "MIT"
+description = "A minimal, research-oriented theme inspired by arXiv and Hacker News"
+min_version = "0.121.0"
+
+[author]
+  name = "Stock Market Circulars"
+  homepage = "https://github.com/rhnvrm/stock-market-circulars"
