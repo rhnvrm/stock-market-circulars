@@ -1,19 +1,13 @@
 {{ define "main" }}
 <section>
-  {{ $pages := .Pages }}
-  {{ if eq .Section "circulars" }}
-    {{ if eq .Title "All Circulars" }}
-      {{ $pages = where site.RegularPages "Section" "circulars" }}
-    {{ end }}
-  {{ end }}
-  
   <header>
-    <h1>{{ .Title }}{{ if $pages }} <span class="page-count">({{ len $pages }})</span>{{ end }}</h1>
+    <h1>{{ .Title }} <span class="page-count">({{ len .Pages }})</span></h1>
     {{ if .Content }}
       <div>{{ .Content }}</div>
     {{ end }}
   </header>
-  {{ $paginator := .Paginate $pages }}
+  
+  {{ $paginator := .Paginate .Pages }}
   {{ if $paginator.Pages }}
     <div x-data="{ expanded: {}, toggle(id) { this.expanded[id] = !this.expanded[id]; } }">
     <table class="article-table">

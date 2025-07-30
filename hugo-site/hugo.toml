@@ -2,17 +2,14 @@ baseURL = 'https://rhnvrm.github.io/stock-market-circulars/'
 languageCode = 'en-us'
 title = 'Stock Market Circulars'
 theme = 'minimal'
+pluralizeListTitles = false
 
 [params]
   description = 'Regulatory circulars from NSE, BSE, and SEBI with AI-powered summaries'
   author = 'Automated Processing System'
   
 [taxonomies]
-  source = 'sources'
   tag = 'tags'
-  severity = 'severities'
-  impact = 'impacts'
-  category = 'categories'
   stock = 'stocks'
 
 [menu]

@@ -49,15 +49,8 @@
                       <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
                     {{ end }}
                   {{ end }}
-                  {{ $category := .Params.category }}
-                  {{ if reflect.IsSlice $category }}
-                    {{ range $category }}
-                      <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
-                    {{ end }}
-                  {{ else }}
-                    {{ with $category }}
-                      <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
-                    {{ end }}
+                  {{ with .Params.category }}
+                    <span class="tag-badge category-badge">{{ . | humanize }}</span>
                   {{ end }}
                   {{ if .Params.stocks }}
                     {{ range first 2 .Params.stocks }}
