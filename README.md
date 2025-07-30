@@ -1,171 +1,59 @@
-# Stock Market Circulars Processing Pipeline
+# Stock Market Circulars - Living Dataset
 
-A modern Python-based system for automatically collecting, processing, and displaying regulatory circulars from NSE, BSE, and SEBI. Features Claude AI content generation, 100% semantic CSS architecture, and content-based state management for reliable processing and deployment.
+A living dataset of regulatory circulars from NSE, BSE, and SEBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
-## Quick Start
+**Live Website**: https://rhnvrm.github.io/stock-market-circulars/
 
-```bash
-# Setup environment (Nix + direnv)
-direnv allow
+## Data Sources
 
-# Run complete pipeline
-just pipeline
+Regulatory circulars from official RSS feeds:
 
-# Start development server
-just serve
-```
+- **NSE** - Trading circulars, market updates, regulatory changes
+- **BSE** - Listing requirements, compliance notices, market rules  
+- **SEBI** - Policy changes, investor guidelines, regulatory frameworks
 
-## Architecture
+## How the Living Dataset Works
 
-- **Unified Python Pipeline** (`scripts/combined_pipeline.py` - uv script format)
-- **Claude AI Integration** (JSON output format for GitHub Actions compatibility)
-- **Content-Based State Management** (markdown frontmatter instead of JSON files)
-- **Hugo Static Site** with 100% semantic CSS architecture and Zerodha design system
-- **Multi-Format Support** (PDF, ZIP archives, HTML fallback for BSE)
+The dataset updates automatically every 3 hours via GitHub Actions:
 
-## Key Features
+1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger)
+2. **Environment Setup** - Nix development environment provides Python, uv, Claude CLI, and Hugo
+3. **Pipeline Execution** - `just pipeline` command runs the complete RSS monitoring and processing pipeline
+4. **Content Processing** - Python scripts download PDFs, extract text, and use Claude AI for analysis
+5. **Dataset Updates** - New circulars are committed as structured markdown files with timestamps
+6. **Site Rebuild** - Hugo regenerates the static site with new content
+7. **Deployment** - Updated website automatically deploys to GitHub Pages
 
-- **RSS Feed Processing**: Automated scraping from NSE, BSE, SEBI with intelligent PDF extraction
-- **AI Content Generation**: Claude processes PDFs/HTML to generate structured markdown with YAML frontmatter
-- **Hugo Site Generation**: Professional static site with 100% semantic CSS, filtering, search, and responsive design
-- **Content-Based State**: Frontmatter-based state management with complete audit trails
-- **Multi-Format Support**: PDF files, ZIP archives, and HTML fallback (BSE 404 handling)
-- **Resume Functionality**: Automatically detects and skips completed items across runs
-- **Content Regeneration**: Fix specific items with updated prompts without full pipeline re-run
+All processing happens in the cloud using GitHub's infrastructure - no local setup required for the dataset to stay current.
 
-## RSS Data Sources
+Each circular is stored as a markdown file with YAML frontmatter containing source, date, impact level, affected stocks, and AI-generated categorization.
 
-| Source | Format | Method | Fallback |
-|--------|--------|--------|----------|
-| NSE | RSS 2.0 | Direct PDF/ZIP links | N/A |
-| BSE | RSS 2.0 | HTML page extraction | HTML scraping on 404 |
-| SEBI | RSS 2.0 | HTML page extraction with iframe detection | N/A |
-
-## Commands
-
-### Core Workflow
-```bash
-just pipeline        # Run RSS scraping and AI processing (all sources)
-just regenerate <id> # Regenerate specific items with updated prompts
-
-# Direct script usage (advanced)
-uv run --script scripts/combined_pipeline.py main           # All sources
-uv run --script scripts/combined_pipeline.py main nse bse  # Specific sources
-uv run --script scripts/combined_pipeline.py main --debug  # Debug mode
-```
-
-### Development
-```bash
-just serve           # Start Hugo development server
-just build           # Build static site for production
-```
-
-### Utilities
-```bash
-just deps            # Check dependencies and system status
-just stats           # Show processing statistics
-just logs            # View recent pipeline logs
-just clean-state     # Reset pipeline state for fresh run
-just validate        # Validate RSS feeds are accessible (CI/CD)
-```
-
-## Project Structure
+## Repository Structure
 
 ```
-├── flake.nix              # Modern Nix development environment
-├── justfile               # Streamlined command runner
-├── scripts/
-│   ├── combined_pipeline.py # Main pipeline script (uv format)
-│   ├── cli.py              # Command-line interface with regenerate support
-│   ├── pipeline.py         # Core pipeline orchestration
-│   ├── processors.py       # Claude integration, file processing, and HTML extraction
-│   ├── extractors.py       # RSS parsing and PDF URL extraction
-│   ├── frontmatter_manager.py # Content-based state management
-│   ├── models.py           # Data models (simplified)
-│   └── config.py           # Configuration loading
-├── config/
-│   └── config.toml         # Unified configuration (RSS feeds, prompts, settings)
-├── hugo-site/             # Hugo static site with Zerodha design
-├── combined_pipeline.log  # Pipeline execution logs
-└── state/                 # Legacy state directory (unused)
+├── scripts/                 # Python processing pipeline
+├── config/                  # Configuration files
+├── hugo-site/              # Static website
+│   └── content/circulars/  # Processed dataset
+│       ├── nse/           # NSE circulars by year
+│       ├── bse/           # BSE circulars by year
+│       └── sebi/          # SEBI circulars by year
+└── .github/workflows/     # GitHub Actions for automation
 ```
 
-## Development Environment
+## Contributing
 
-### Requirements
-- **Nix** with flakes enabled
-- **direnv** for automatic environment activation
+Contributions welcome! You can:
 
-### Setup
-```bash
-git clone <repo>
-cd stock-market-circulars
-direnv allow  # Automatically installs Python + uv + Claude Code + Hugo
-```
+- Improve the processing pipeline (RSS parsing, document extraction, LLM prompts)
+- Fix data issues or incorrectly processed circulars
+- Enhance the website design or functionality  
+- Add new features (search, filtering, analysis)
+- Improve documentation
 
-### Dependencies (managed by uv)
-- `rich` - CLI interface and progress display
-- `typer` - Command-line argument parsing  
-- `pydantic` - Data models and validation
-- `httpx` - HTTP client for RSS/PDF downloading
-- `lxml` - XML/HTML parsing
-- `markitdown[pdf]` - PDF text extraction
-- `tomli` - TOML configuration parsing
+See [Technical Reference](.local/docs/technical-reference.md) for development setup.
 
-### External Tools
-- `claude` CLI - AI content generation (auto-installed via npm)
-- `hugo` - Static site generation
-
-## Configuration
-
-All configuration is centralized in `config/config.toml`:
-- RSS feed URLs and processing settings
-- Claude AI prompts for Hugo-compatible output
-- Retry logic and concurrency limits
-- Output formatting and directory structure
-
-## Content Generation
-
-### Frontmatter Schema
-```yaml
----
-title: "Clear descriptive title"
-description: "Brief 1-2 sentence summary"
-date: 2025-07-25
-source: nse
-circular_id: "16-character-hash"
-pdf_url: "https://example.com/circular.pdf"
-tags:
-  - relevant-tag-1
-  - stock-ticker-if-mentioned
-severity: "high/medium/low"
-impact: "high/medium/low"
-category: "trading/listing/compliance/disclosure/market-operations"
-stocks: ["TICKER1", "TICKER2"]
-importance_ranking: "high/medium/low"
-impact_ranking: "high/medium/low"
-justification: "Brief reasoning for rankings"
----
-```
-
-### File Organization
-```
-hugo-site/content/circulars/
-├── nse/2025/nse-2025-07-25-[16-char-id]-[title-slug].md
-├── bse/2025/bse-2025-07-25-[16-char-id]-[title-slug].md
-└── sebi/2025/sebi-2025-07-25-[16-char-id]-[title-slug].md
-```
-
-## Design System
-
-Professional, responsive web interface built with Zerodha-inspired design:
-
-- **Clean Interface**: Minimalist design focused on content readability
-- **Fast Performance**: Lightweight CSS with no external framework dependencies  
-- **Mobile-First**: Responsive design that works on all devices
-- **Accessibility**: Proper semantic markup and keyboard navigation
-- **Search & Filtering**: Advanced filtering by source, severity, tags, and content search
-- **Professional Aesthetics**: Zerodha's signature blue (`#387ed1`) with Inter typography
+**Issues**: [GitHub Issues](https://github.com/rhnvrm/stock-market-circulars/issues)
 
 ## License
 
