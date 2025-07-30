@@ -1,0 +1,128 @@
+{{ define "main" }}
+<section>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}
+      <div>{{ .Content }}</div>
+    {{ end }}
+  </header>
+
+  {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ if $paginator.Pages }}
+    <div x-data="{ expanded: {} }">
+    <table class="article-table">
+      <thead>
+        <tr class="table-header">
+          <th class="header-date">Date</th>
+          <th class="header-circular">Circular</th>
+          <th class="header-tags">Tags</th>
+          <th class="header-expand"></th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $index, $page := $paginator.Pages }}
+            <tr class="article-row" :class="{ 'expanded': expanded[{{ $index }}] }" data-circular-id="{{ .Params.circular_id }}">
+              <td class="article-date">
+                {{ with .Date }}
+                  <a href="{{ $.RelPermalink }}" class="date-link">
+                    <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "02/01/06" }}</time>
+                  </a>
+                {{ end }}
+              </td>
+              <td class="article-circular">
+                <div class="circular-title">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </div>
+                {{ with .Params.description }}
+                  <div class="circular-description">{{ . | truncate 140 }}</div>
+                {{ end }}
+              </td>
+              <td class="article-tags">
+                <div class="tag-container">
+                  {{ with .Params.source }}
+                    <a href="{{ printf "/circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+                  {{ end }}
+                  {{ with .Params.category }}
+                    <a href="{{ printf "categories/%s/" (. | urlize) | relURL }}" class="tag-badge category-badge">{{ . | humanize }}</a>
+                  {{ end }}
+                  {{ if .Params.stocks }}
+                    {{ range first 2 .Params.stocks }}
+                      <a href="{{ printf "stocks/%s/" (. | urlize) | relURL }}" class="tag-badge stock-badge">{{ . | upper }}</a>
+                    {{ end }}
+                  {{ end }}
+                  {{ if .Params.tags }}
+                    {{ range first 2 .Params.tags }}
+                      <a href="{{ printf "tags/%s/" (. | urlize) | relURL }}" class="tag-badge">{{ . }}</a>
+                    {{ end }}
+                  {{ end }}
+                  {{ $stocksLen := 0 }}
+                  {{ $tagsLen := 0 }}
+                  {{ if .Params.stocks }}{{ $stocksLen = len .Params.stocks }}{{ end }}
+                  {{ if .Params.tags }}{{ $tagsLen = len .Params.tags }}{{ end }}
+                  {{ $totalTags := add $stocksLen $tagsLen }}
+                  {{ if gt $totalTags 4 }}
+                    <span class="tag-more">+{{ sub $totalTags 4 }}</span>
+                  {{ end }}
+                </div>
+              </td>
+              <td class="article-expand">
+                <button class="expand-button" 
+                        @click="expanded[{{ $index }}] = !expanded[{{ $index }}]"
+                        :class="{ 'expanded': expanded[{{ $index }}] }"
+                        aria-label="Expand details">›</button>
+              </td>
+            </tr>
+            <tr class="article-details" x-show="expanded[{{ $index }}]" x-transition>
+              <td class="empty-date-column"></td>
+              <td colspan="3">
+                <div class="details-content">
+                  <div class="full-description">
+                    {{ with .Params.description }}{{ . }}{{ end }}
+                  </div>
+                  
+                  <div class="simple-details">
+                    {{ with .Params.impact }}
+                      <div><strong>Impact:</strong> <span class="tag-badge impact-badge">{{ . | title }}</span></div>
+                    {{ end }}
+                    
+                    {{ with .Params.severity }}
+                      <div><strong>Severity:</strong> <span class="tag-badge severity-badge">{{ . | title }}</span></div>
+                    {{ end }}
+                    
+                    {{ with .Params.justification }}
+                      <div><strong>Justification:</strong> {{ . }}</div>
+                    {{ end }}
+                    
+                    {{ if .Params.stocks }}
+                      <div><strong>Stocks:</strong> 
+                      {{ range .Params.stocks }}<a href="{{ printf "stocks/%s/" (. | urlize) | relURL }}" class="tag-badge stock-badge">{{ . | upper }}</a>{{ end }}
+                      </div>
+                    {{ end }}
+                    
+                    {{ if .Params.tags }}
+                      <div><strong>Tags:</strong> 
+                      {{ range .Params.tags }}<a href="{{ printf "tags/%s/" (. | urlize) | relURL }}" class="tag-badge">{{ . }}</a>{{ end }}
+                      </div>
+                    {{ end }}
+                    
+                    <div><strong>Links:</strong> 
+                      <a href="{{ .Permalink }}" class="simple-link">{{ .Params.circular_id }}</a>
+                      {{ with .Params.pdf_url }}<a href="{{ . }}" target="_blank" class="simple-link">PDF</a>{{ end }}
+                      {{ with .Params.rss_url }}<a href="{{ . }}" target="_blank" class="simple-link">Source</a>{{ end }}
+                      {{ if .Content }}<a href="{{ .RelPermalink }}" class="simple-link">Analysis</a>{{ end }}
+                    </div>
+                  </div>
+                </div>
+              </td>
+            </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    </div>
+
+    {{ partial "pagination.html" $paginator }}
+  {{ else }}
+    <p>No recent posts found.</p>
+  {{ end }}
+</section>
+{{ end }}

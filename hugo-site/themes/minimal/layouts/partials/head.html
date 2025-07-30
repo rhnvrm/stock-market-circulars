@@ -1,0 +1,32 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>
+  {{- if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end -}}
+</title>
+
+{{ with .Description }}
+  <meta name="description" content="{{ . }}">
+{{ end }}
+
+{{ with site.Params.author }}
+  <meta name="author" content="{{ . }}">
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ $style := resources.Get "css/style.css" }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+{{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.Title }}",
+    "url": "{{ site.BaseURL }}"
+  }
+  </script>
+{{ end }}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article>
+  <header class="article-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Date }}
+      <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "2006-01-02" }}</time>
+    {{ end }}
+    {{ with .Params.source }}
+      <span> • {{ . | upper }}</span>
+    {{ end }}
+  </header>
+
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.tags }}
+    <footer>
+      <h3>Tags</h3>
+      <ul class="tag-list">
+        {{ range .Params.tags }}
+          <li class="tag-item"><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+      </ul>
+    </footer>
+  {{ end }}
+</article>
+{{ end }}
