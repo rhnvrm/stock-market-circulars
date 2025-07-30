@@ -2,34 +2,175 @@
 <article>
   <header class="article-header">
     <h1>{{ .Title }}</h1>
-    {{ with .Date }}
-      <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "2006-01-02" }}</time>
-    {{ end }}
-    {{ $source := .Params.source }}
-    {{ if reflect.IsSlice $source }}
-      {{ range $source }}
-        <span> • {{ . | upper }}</span>
+    <div class="article-dates">
+      {{ with .Date }}
+        <div class="date-item">
+          <span class="date-label">Published:</span>
+          <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}" class="date-value">{{ .Format "January 2, 2006" }}</time>
+        </div>
       {{ end }}
-    {{ else }}
-      {{ with $source }}
-        <span> • {{ . | upper }}</span>
+      {{ with .Params.processing.processed_at }}
+        <div class="date-item">
+          <span class="date-label">Processed:</span>
+          <time class="date-value">{{ dateFormat "January 2, 2006" . }}</time>
+        </div>
       {{ end }}
-    {{ end }}
+    </div>
+    
+    <!-- Quick Tags -->
+    <div class="article-quick-tags">
+      {{ $source := .Params.source }}
+      {{ if reflect.IsSlice $source }}
+        {{ range $source }}
+          <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+        {{ end }}
+      {{ else }}
+        {{ with $source }}
+          <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+        {{ end }}
+      {{ end }}
+      {{ with .Params.category }}
+        <span class="tag-badge category-badge">{{ . | humanize }}</span>
+      {{ end }}
+      {{ if .Params.stocks }}
+        {{ range first 2 .Params.stocks }}
+          <a href="{{ printf "stocks/%s/" (. | urlize) | relURL }}" class="tag-badge stock-badge">{{ . | upper }}</a>
+        {{ end }}
+      {{ end }}
+      {{ if .Params.tags }}
+        {{ range first 2 .Params.tags }}
+          <a href="{{ printf "tags/%s/" (. | urlize) | relURL }}" class="tag-badge">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
   </header>
 
+
+
+  <!-- PDF Embed Section -->
+  {{ with .Params.pdf_url }}
+    {{ if (strings.HasSuffix . ".pdf") }}
+    <div class="pdf-section">
+      <h2>PDF Document</h2>
+      <div class="pdf-container">
+        <embed src="{{ . }}" type="application/pdf" width="100%" height="600px" />
+        <p class="pdf-fallback">
+          <a href="{{ . }}" target="_blank" class="simple-link">
+            If the PDF doesn't display, click here to view it in a new tab ↗
+          </a>
+        </p>
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+
+  <!-- Main Content -->
   <div class="article-body">
+  {{ with .Params.description }}
+    <h2>Description</h2>
+    <p>{{ . }}</p>
+  {{ end }}
     {{ .Content }}
+
+  {{ with .Params.justification }}
+    <h2>Impact Justification</h2>
+    <p class="justification-text">{{ . }}</p>
+  {{ end }}
   </div>
 
-  {{ if .Params.tags }}
-    <footer>
-      <h3>Tags</h3>
-      <ul class="tag-list">
-        {{ range .Params.tags }}
-          <li class="tag-item"><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+
+  <!-- Metadata Table -->
+  <div class="metadata-section">
+    <table class="metadata-table">
+      <tbody>
+        <tr>
+          <td class="metadata-label">Source</td>
+          <td class="metadata-value">
+            {{ $source := .Params.source }}
+            {{ if reflect.IsSlice $source }}
+              {{ range $source }}
+                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+              {{ end }}
+            {{ else }}
+              {{ with $source }}
+                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+              {{ end }}
+            {{ end }}
+          </td>
+        </tr>
+        
+        {{ with .Params.category }}
+        <tr>
+          <td class="metadata-label">Category</td>
+          <td class="metadata-value">
+            <span class="tag-badge category-badge">{{ . | humanize }}</span>
+          </td>
+        </tr>
         {{ end }}
-      </ul>
-    </footer>
-  {{ end }}
+        
+        {{ with .Params.circular_id }}
+        <tr>
+          <td class="metadata-label">Circular ID</td>
+          <td class="metadata-value">
+            <code class="circular-id">{{ . }}</code>
+          </td>
+        </tr>
+        {{ end }}
+        
+        {{ with .Params.impact }}
+        <tr>
+          <td class="metadata-label">Impact</td>
+          <td class="metadata-value">
+            <span class="tag-badge impact-badge impact-{{ . }}">{{ . | title }}</span>
+          </td>
+        </tr>
+        {{ end }}
+        
+        {{ with .Params.severity }}
+        <tr>
+          <td class="metadata-label">Severity</td>
+          <td class="metadata-value">
+            <span class="tag-badge severity-badge severity-{{ . }}">{{ . | title }}</span>
+          </td>
+        </tr>
+        {{ end }}
+        
+        {{ if .Params.stocks }}
+        <tr>
+          <td class="metadata-label">Stocks</td>
+          <td class="metadata-value tag-cell">
+            {{ range .Params.stocks }}
+              <a href="{{ printf "stocks/%s/" (. | urlize) | relURL }}" class="tag-badge stock-badge">{{ . | upper }}</a>
+            {{ end }}
+          </td>
+        </tr>
+        {{ end }}
+        
+        {{ if .Params.tags }}
+        <tr>
+          <td class="metadata-label">Tags</td>
+          <td class="metadata-value tag-cell">
+            {{ range .Params.tags }}
+              <a href="{{ printf "tags/%s/" (. | urlize) | relURL }}" class="tag-badge">{{ . }}</a>
+            {{ end }}
+          </td>
+        </tr>
+        {{ end }}
+        
+        <tr>
+          <td class="metadata-label">Links</td>
+          <td class="metadata-value">
+            {{ with .Params.pdf_url }}
+              <a href="{{ . }}" target="_blank" class="simple-link">PDF Document ↗</a>
+            {{ end }}
+            {{ with .Params.rss_url }}
+              <a href="{{ . }}" target="_blank" class="simple-link">Original Source ↗</a>
+            {{ end }}
+            <a href="{{ .Permalink }}" class="simple-link">Permalink</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </article>
 {{ end }}
