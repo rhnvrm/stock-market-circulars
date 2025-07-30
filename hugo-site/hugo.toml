@@ -1,7 +1,7 @@
 baseURL = 'https://rhnvrm.github.io/stock-market-circulars/'
 languageCode = 'en-us'
 title = 'Stock Market Circulars'
-theme = 'zerodha'
+theme = 'minimal'
 
 [params]
   description = 'Regulatory circulars from NSE, BSE, and SEBI with AI-powered summaries'

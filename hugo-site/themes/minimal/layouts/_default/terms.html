@@ -1,0 +1,71 @@
+{{ define "main" }}
+<section>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}
+      <div>{{ .Content }}</div>
+    {{ end }}
+  </header>
+
+  {{ $taxonomy := .Data.Terms.ByCount }}
+  {{ $recentTaxonomy := .Data.Terms.Alphabetical }}
+  
+  <!-- Quick Links Section -->
+  <div class="taxonomy-quick-links">
+    <!-- Top 20 Most Used -->
+    <div class="taxonomy-section">
+      <h2>Most Popular {{ .Title }}</h2>
+      <div class="taxonomy-grid">
+        {{ range first 20 $taxonomy }}
+          <div class="taxonomy-item">
+            <a href="{{ .Page.RelPermalink }}" class="taxonomy-link">
+              <span class="taxonomy-name">{{ .Page.Title }}</span>
+              <span class="taxonomy-count">{{ .Count }}</span>
+            </a>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Recently Updated (based on latest circular dates) -->
+    <div class="taxonomy-section">
+      <h2>Recently Active {{ .Title }}</h2>
+      <div class="taxonomy-grid">
+        {{ range first 20 (sort $taxonomy "Page.Lastmod" "desc") }}
+          <div class="taxonomy-item">
+            <a href="{{ .Page.RelPermalink }}" class="taxonomy-link">
+              <span class="taxonomy-name">{{ .Page.Title }}</span>
+              <span class="taxonomy-date">{{ .Page.Lastmod.Format "02/01/06" }}</span>
+            </a>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- All Items Section -->
+  <div class="taxonomy-all-section">
+    <h2>All {{ .Title }} ({{ len $taxonomy }})</h2>
+    <div class="taxonomy-columns">
+      {{ range $taxonomy }}
+        <div class="taxonomy-column-item">
+          <a href="{{ .Page.RelPermalink }}" class="taxonomy-column-link">
+            <span class="taxonomy-column-name">
+              {{ if eq $.Title "Stocks" }}
+                <span class="stock-symbol">{{ .Page.Title | upper }}</span>
+              {{ else }}
+                {{ .Page.Title }}
+              {{ end }}
+            </span>
+            <span class="taxonomy-column-meta">
+              <span class="count-badge">{{ .Count }}</span>
+              <time class="taxonomy-date">{{ .Page.Lastmod.Format "02/01/06" }}</time>
+            </span>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+</section>
+{{ end }}
