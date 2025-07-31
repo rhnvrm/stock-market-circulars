@@ -60,6 +60,11 @@ clean-state:
 
 # CI/CD Commands (for GitHub Actions)
 
+# Trigger GitHub Actions workflow manually
+trigger-workflow:
+    @echo "🚀 Triggering GitHub Actions workflow..."
+    @gh workflow run update-circulars.yml
+
 # Validate RSS feeds are accessible
 validate:
     @echo "🔍 Validating RSS feeds..."
