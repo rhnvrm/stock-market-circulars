@@ -83,22 +83,6 @@
   <div class="metadata-section">
     <table class="metadata-table">
       <tbody>
-        <tr>
-          <td class="metadata-label">Source</td>
-          <td class="metadata-value">
-            {{ $source := .Params.source }}
-            {{ if reflect.IsSlice $source }}
-              {{ range $source }}
-                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
-              {{ end }}
-            {{ else }}
-              {{ with $source }}
-                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
-              {{ end }}
-            {{ end }}
-          </td>
-        </tr>
-        
         {{ with .Params.category }}
         <tr>
           <td class="metadata-label">Category</td>
@@ -156,6 +140,22 @@
           </td>
         </tr>
         {{ end }}
+        
+        <tr>
+          <td class="metadata-label">Source</td>
+          <td class="metadata-value">
+            {{ $source := .Params.source }}
+            {{ if reflect.IsSlice $source }}
+              {{ range $source }}
+                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+              {{ end }}
+            {{ else }}
+              {{ with $source }}
+                <a href="{{ printf "circulars/%s/" . | relURL }}" class="tag-badge source-badge">{{ . | upper }}</a>
+              {{ end }}
+            {{ end }}
+          </td>
+        </tr>
         
         <tr>
           <td class="metadata-label">Links</td>

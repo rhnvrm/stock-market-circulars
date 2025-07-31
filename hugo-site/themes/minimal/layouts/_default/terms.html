@@ -9,6 +9,7 @@
 
   {{ $taxonomy := .Data.Terms.ByCount }}
   {{ $recentTaxonomy := .Data.Terms.Alphabetical }}
+  {{ $isTagsPage := eq $.Data.Plural "tags" }}
   
   <!-- Quick Links Section -->
   <div class="taxonomy-quick-links">
@@ -19,7 +20,13 @@
         {{ range first 20 $taxonomy }}
           <div class="taxonomy-item">
             <a href="{{ .Page.RelPermalink }}" class="taxonomy-link">
-              <span class="taxonomy-name">{{ .Page.Title }}</span>
+              <span class="taxonomy-name">
+                {{ if $isTagsPage }}
+                  {{ .Page.Title | lower }}
+                {{ else }}
+                  {{ .Page.Title }}
+                {{ end }}
+              </span>
               <span class="taxonomy-count">{{ .Count }}</span>
             </a>
           </div>
@@ -34,7 +41,13 @@
         {{ range first 20 (sort $taxonomy "Page.Lastmod" "desc") }}
           <div class="taxonomy-item">
             <a href="{{ .Page.RelPermalink }}" class="taxonomy-link">
-              <span class="taxonomy-name">{{ .Page.Title }}</span>
+              <span class="taxonomy-name">
+                {{ if $isTagsPage }}
+                  {{ .Page.Title | lower }}
+                {{ else }}
+                  {{ .Page.Title }}
+                {{ end }}
+              </span>
               <span class="taxonomy-date">{{ .Page.Lastmod.Format "02/01/06" }}</span>
             </a>
           </div>
@@ -53,6 +66,8 @@
             <span class="taxonomy-column-name">
               {{ if eq $.Title "Stocks" }}
                 <span class="stock-symbol">{{ .Page.Title | upper }}</span>
+              {{ else if $isTagsPage }}
+                {{ .Page.Title | lower }}
               {{ else }}
                 {{ .Page.Title }}
               {{ end }}

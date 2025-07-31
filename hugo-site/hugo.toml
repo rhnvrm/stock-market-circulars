@@ -14,11 +14,11 @@ pluralizeListTitles = false
 
 [menu]
   [[menu.main]]
-    name = 'Home'
+    name = 'Recent'
     url = '/'
     weight = 5
   [[menu.main]]
-    name = 'All Circulars'
+    name = 'All'
     url = '/circulars/'
     weight = 10
   [[menu.main]]
