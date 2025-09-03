@@ -1,0 +1,64 @@
+---
+category: trading
+circular_id: e3f0380c83af3665
+date: '2025-09-03'
+description: BSE suspends trading in debt securities of Setco Auto Systems Private
+  Limited due to maturity on September 4, 2025.
+draft: false
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={4107BF1C-0AE8-4A9B-8D2C-A84E07FF904D}&noticeno=20250903-6&dt=09/03/2025&icount=6&totcount=53&flag=0
+impact: low
+impact_ranking: low
+importance_ranking: low
+justification: Routine suspension due to debt security maturity affecting single private
+  company
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250903-6&attachedId=
+processing:
+  attempts: 1
+  content_hash: 0b1e55ac7ebdbf63
+  processed_at: '2025-09-03T18:40:29.460771'
+  processor_version: '2.0'
+  stage: completed
+  status: published
+published_date: '2025-09-03T07:20:36+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={4107BF1C-0AE8-4A9B-8D2C-A84E07FF904D}&noticeno=20250903-6&dt=09/03/2025&icount=6&totcount=53&flag=0
+severity: medium
+source: bse
+stocks:
+- SASPL
+tags:
+- trading-suspension
+- debt-securities
+- maturity
+- setco-auto-systems
+title: Suspension of Trading in Debt Securities of Setco Auto Systems Private Limited
+---
+
+## Summary
+
+BSE has announced the suspension of trading in debt securities of Setco Auto Systems Private Limited (SCRIP CODE: 975859, ISIN: INE0I0R07029) effective September 4, 2025, due to the securities reaching their maturity date.
+
+## Key Points
+
+- Debt securities SASPL-5%-7-9-25-PVT will mature on September 4, 2025
+- Trading suspension effective from September 4, 2025
+- Notice reference: DR-708/2025-2026
+- SCRIP CODE: 975859
+- ISIN: INE0I0R07029
+
+## Regulatory Changes
+
+No regulatory changes - this is a routine suspension due to security maturity.
+
+## Compliance Requirements
+
+- Trading members must not deal in the specified debt securities from September 4, 2025
+- Trading members are advised to take note of this suspension
+
+## Important Dates
+
+- **September 3, 2025**: Notice date
+- **September 4, 2025**: Effective date of trading suspension and maturity date
+
+## Impact Assessment
+
+Minimal market impact as this affects only one private company's debt securities reaching natural maturity. Routine administrative action with no broader market implications.
