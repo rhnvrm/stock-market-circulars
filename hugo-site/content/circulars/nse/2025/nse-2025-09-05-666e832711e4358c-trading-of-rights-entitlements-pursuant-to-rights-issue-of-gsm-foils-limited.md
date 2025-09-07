@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/null70063.null
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-07T01:27:32.297986'
+  processed_at: '2025-09-07T03:34:15.647301'
   processor_version: '2.0'
   stage: download_failed
   status: failed
