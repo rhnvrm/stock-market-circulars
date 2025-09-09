@@ -1,0 +1,21 @@
+{{- $.Scratch.Add "search" slice -}}
+{{- range where site.RegularPages "Section" "circulars" -}}
+  {{- $.Scratch.Add "search" (dict 
+    "circular_id" .Params.circular_id
+    "title" .Title
+    "description" .Params.description
+    "content" .Plain
+    "source" .Params.source
+    "category" .Params.category
+    "impact" .Params.impact
+    "severity" .Params.severity
+    "tags" .Params.tags
+    "stocks" .Params.stocks
+    "date" (.Date.Format "2006-01-02")
+    "published_date" .Params.published_date
+    "url" .Permalink
+    "pdf_url" .Params.pdf_url
+    "rss_url" .Params.rss_url
+  ) -}}
+{{- end -}}
+{{- $.Scratch.Get "search" | jsonify -}}

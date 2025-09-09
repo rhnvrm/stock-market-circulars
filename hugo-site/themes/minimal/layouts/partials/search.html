@@ -1,0 +1,614 @@
+{{/* Search Modal */}}
+<div id="search-modal" class="search-modal" x-data="searchModal" x-show="isOpen" x-cloak x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-200" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" @keydown.escape.window="isOpen = false" @click.self="isOpen = false" @open-search.window="isOpen = true">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <div class="search-input-container">
+        <input 
+          type="text" 
+          x-model="query"
+          x-ref="searchInput"
+          @input="debouncedSearch"
+          placeholder="Search circulars..."
+          class="search-input"
+          :class="{ 'search-input-searching': searching }"
+        >
+        <button @click="isOpen = false" class="search-close">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+          </svg>
+        </button>
+      </div>
+      
+      <div class="search-filters" x-show="results.length > 0">
+        <select x-model="selectedSource" @change="performSearch" class="filter-select">
+          <option value="">All Sources</option>
+          <option value="nse">NSE</option>
+          <option value="bse">BSE</option>
+          <option value="sebi">SEBI</option>
+        </select>
+        
+        <select x-model="selectedCategory" @change="performSearch" class="filter-select">
+          <option value="">All Categories</option>
+          <option value="trading">Trading</option>
+          <option value="listing">Listing</option>
+          <option value="compliance">Compliance</option>
+          <option value="regulation">Regulation</option>
+        </select>
+        
+        <select x-model="selectedImpact" @change="performSearch" class="filter-select">
+          <option value="">All Impact</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+          <option value="low">Low</option>
+        </select>
+      </div>
+    </div>
+    
+    <div class="search-results">
+      <div x-show="loading && results.length === 0" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="search-loading">
+        <div class="loading-spinner"></div>
+        <p>Searching...</p>
+      </div>
+      
+      <div x-show="!loading && results.length === 0 && query" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="search-no-results">
+        <p>No results found for "<span x-text="query"></span>"</p>
+      </div>
+      
+      <div x-show="!loading && results.length === 0 && !query" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="search-empty">
+        <p>Type to search circulars</p>
+      </div>
+      
+      <div x-show="results.length > 0" x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0 transform translate-y-2" x-transition:enter-end="opacity-100 transform translate-y-0" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100 transform translate-y-0" x-transition:leave-end="opacity-0 transform translate-y-2" class="search-results-list">
+        <div x-show="showFacets && facets.length > 0" class="search-facets">
+          <h4>Filter by:</h4>
+          <div class="facets-container">
+            <template x-for="facet in facets" :key="facet.field">
+              <div class="facet-group">
+                <h5 x-text="facet.field"></h5>
+                <div class="facet-items">
+                  <template x-for="item in facet.values" :key="item.value">
+                    <label class="facet-item">
+                      <input 
+                        type="checkbox" 
+                        :value="item.value"
+                        :checked="selectedFacets[facet.field]?.includes(item.value) || false"
+                        @change="toggleFacet(facet.field, item.value)"
+                      >
+                      <span x-text="item.value"></span>
+                      <span class="facet-count" x-text="`(${item.count})`"></span>
+                    </label>
+                  </template>
+                </div>
+              </div>
+            </template>
+          </div>
+        </div>
+        
+        <div class="search-results-items">
+          <template x-for="result in results" :key="result.document.id">
+            <div class="search-result-item">
+              <div class="result-header">
+                <a :href="result.document.url" class="result-title" x-text="result.document.title"></a>
+                <div class="result-meta">
+                  <span class="result-date" x-text="formatDate(result.document.date)"></span>
+                  <span class="result-source" x-text="result.document.source?.toUpperCase()"></span>
+                </div>
+              </div>
+              
+              <div class="result-description" x-text="result.document.description"></div>
+              
+              <div class="result-tags">
+                <template x-for="tag in result.document.tags?.slice(0, 3) || []" :key="tag">
+                  <span class="result-tag" x-text="tag"></span>
+                </template>
+                <template x-for="stock in result.document.stocks?.slice(0, 2) || []" :key="stock">
+                  <span class="result-stock" x-text="stock"></span>
+                </template>
+              </div>
+              
+              <div class="result-highlights" x-show="result.highlights">
+                <template x-for="highlight in result.highlights" :key="highlight">
+                  <div class="result-highlight" x-html="highlight"></div>
+                </template>
+              </div>
+            </div>
+          </template>
+        </div>
+        
+        <div x-show="hasMoreResults" class="search-load-more">
+          <button @click="loadMoreResults" class="load-more-button">
+            Load more results
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+/* Enhanced Search Modal - Matches Minimal Theme */
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(16, 15, 15, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 8vh;
+  animation: search-modal-appear 0.15s ease-out;
+}
+
+@keyframes search-modal-appear {
+  from {
+    opacity: 0;
+    backdrop-filter: blur(0px);
+  }
+  to {
+    opacity: 1;
+    backdrop-filter: blur(4px);
+  }
+}
+
+.search-modal-content {
+  background: var(--ui-bg);
+  border: 1px solid var(--ui-border);
+  border-radius: var(--space-md);
+  width: 90%;
+  max-width: 800px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  animation: search-modal-content-appear 0.2s ease-out;
+  overflow: hidden;
+}
+
+@keyframes search-modal-content-appear {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Search Header */
+.search-header {
+  padding: var(--space-lg);
+  border-bottom: 1px solid var(--ui-border);
+  background: var(--ui-bg-2);
+}
+
+.search-input-container {
+  position: relative;
+  margin-bottom: var(--space-md);
+}
+
+.search-input {
+  width: 100%;
+  padding: var(--space-md) var(--space-xl) var(--space-md) var(--space-md);
+  border: 1px solid var(--ui-border);
+  border-radius: var(--space-sm);
+  font-size: var(--font-size-base);
+  font-family: inherit;
+  color: var(--tx-primary);
+  background: var(--ui-bg);
+  outline: none;
+  transition: all var(--transition-normal);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.search-input:focus {
+  border-color: var(--blue-600);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+  background: var(--ui-bg);
+}
+
+.search-input::placeholder {
+  color: var(--tx-muted);
+}
+
+.search-input-searching {
+  background: linear-gradient(90deg, var(--ui-bg) 50%, var(--ui-bg-2) 100%);
+  animation: subtle-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes subtle-pulse {
+  0%, 100% { 
+    background: var(--ui-bg);
+  }
+  50% { 
+    background: var(--ui-bg-2);
+  }
+}
+
+.search-close {
+  position: absolute;
+  right: var(--space-md);
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--tx-muted);
+  padding: var(--space-xs);
+  border-radius: var(--space-xs);
+  transition: all var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-close:hover {
+  color: var(--tx-primary);
+  background: var(--hover-bg);
+}
+
+.search-close:focus {
+  outline: 2px solid var(--focus-outline);
+  outline-offset: 2px;
+}
+
+/* Search Filters */
+.search-filters {
+  display: flex;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.filter-select {
+  padding: var(--space-xs) var(--space-md);
+  border: 1px solid var(--ui-border);
+  border-radius: var(--space-xs);
+  background: var(--ui-bg);
+  color: var(--tx-primary);
+  font-size: var(--font-size-sm);
+  font-family: inherit;
+  outline: none;
+  transition: all var(--transition-fast);
+  cursor: pointer;
+}
+
+.filter-select:hover {
+  border-color: var(--ui-active);
+  background: var(--hover-bg);
+}
+
+.filter-select:focus {
+  border-color: var(--blue-600);
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.1);
+}
+
+/* Search Results Area */
+.search-results {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-lg);
+  background: var(--ui-bg);
+  min-height: 200px;
+  position: relative;
+}
+
+/* Loading, Empty, and No Results States */
+.search-loading, .search-no-results, .search-empty {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: var(--tx-muted);
+  width: 80%;
+  max-width: 400px;
+}
+
+.search-loading p, .search-no-results p, .search-empty p {
+  font-size: var(--font-size-base);
+  margin: 0;
+}
+
+.loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--ui-border);
+  border-top: 3px solid var(--blue-600);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto var(--space-md);
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Results Layout */
+.search-results-list {
+  display: flex;
+  gap: var(--space-lg);
+}
+
+.search-facets {
+  flex: 0 0 200px;
+  padding-right: var(--space-lg);
+  border-right: 1px solid var(--ui-border);
+}
+
+.facets-container {
+  margin-top: var(--space-md);
+}
+
+.facet-group {
+  margin-bottom: var(--space-lg);
+}
+
+.facet-group h5 {
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+  color: var(--tx-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.facet-items {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.facet-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+  color: var(--tx-muted);
+  transition: color var(--transition-fast);
+}
+
+.facet-item:hover {
+  color: var(--tx-primary);
+}
+
+.facet-count {
+  color: var(--tx-faint);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+}
+
+/* Search Result Items */
+.search-results-items {
+  flex: 1;
+}
+
+.search-result-item {
+  padding: var(--space-lg);
+  border-bottom: 1px solid var(--ui-border);
+  transition: all var(--transition-fast);
+  border-radius: var(--space-xs);
+  margin-bottom: var(--space-sm);
+}
+
+.search-result-item:hover {
+  background-color: var(--hover-bg);
+  border-color: var(--ui-active);
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.result-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--space-sm);
+  gap: var(--space-md);
+}
+
+.result-title {
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--tx-primary);
+  text-decoration: none;
+  flex: 1;
+  line-height: 1.4;
+  transition: color var(--transition-fast);
+}
+
+.result-title:hover {
+  color: var(--color-link-hover);
+}
+
+.result-meta {
+  display: flex;
+  gap: var(--space-sm);
+  align-items: center;
+  font-size: var(--font-size-xs);
+  color: var(--tx-muted);
+  flex-shrink: 0;
+}
+
+.result-description {
+  color: var(--tx-muted);
+  font-size: var(--font-size-sm);
+  line-height: 1.5;
+  margin-bottom: var(--space-md);
+}
+
+/* Result Tags */
+.result-tags {
+  display: flex;
+  gap: var(--space-xs);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-md);
+}
+
+.result-tag, .result-stock {
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--space-xs);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  border: 1px solid;
+  transition: all var(--transition-fast);
+}
+
+.result-tag {
+  background: var(--badge-tag-bg);
+  color: var(--badge-tag-text);
+  border-color: var(--badge-tag-border);
+}
+
+.result-tag:hover {
+  background: var(--ui-hover);
+  color: var(--tx-primary);
+}
+
+.result-stock {
+  background: var(--badge-stock-bg);
+  color: var(--badge-stock-text);
+  border-color: var(--badge-stock-border);
+  font-family: monospace;
+}
+
+.result-stock:hover {
+  background: var(--ui-hover);
+  color: var(--tx-primary);
+}
+
+/* Result Highlights */
+.result-highlight {
+  background: var(--base-100);
+  padding: var(--space-sm);
+  border-radius: var(--space-xs);
+  font-size: var(--font-size-sm);
+  margin-bottom: var(--space-sm);
+  border-left: 3px solid var(--yellow-400);
+}
+
+.result-highlight mark,
+.search-highlight {
+  background: var(--yellow-400);
+  color: var(--base-50);
+  padding: 2px var(--space-xs);
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+/* Load More Button */
+.search-load-more {
+  text-align: center;
+  padding: var(--space-lg);
+  border-top: 1px solid var(--ui-border);
+}
+
+.load-more-button {
+  padding: var(--space-sm) var(--space-lg);
+  background: var(--blue-600);
+  color: var(--base-50);
+  border: none;
+  border-radius: var(--space-xs);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: inherit;
+  transition: all var(--transition-fast);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.load-more-button:hover {
+  background: var(--blue-400);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+}
+
+.load-more-button:focus {
+  outline: 2px solid var(--focus-outline);
+  outline-offset: 2px;
+}
+
+.load-more-button:active {
+  transform: translateY(0);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .search-modal {
+    padding-top: 4vh;
+  }
+  
+  .search-modal-content {
+    max-height: 92vh;
+    border-radius: var(--space-sm);
+  }
+  
+  .search-header {
+    padding: var(--space-md);
+  }
+  
+  .search-results {
+    padding: var(--space-md);
+  }
+  
+  .search-results-list {
+    flex-direction: column;
+    gap: var(--space-md);
+  }
+  
+  .search-facets {
+    border-right: none;
+    border-bottom: 1px solid var(--ui-border);
+    padding-right: 0;
+    padding-bottom: var(--space-md);
+    margin-bottom: var(--space-md);
+  }
+  
+  .search-result-item {
+    padding: var(--space-md);
+  }
+  
+  .result-header {
+    flex-direction: column;
+    gap: var(--space-sm);
+    align-items: flex-start;
+  }
+  
+  .result-meta {
+    align-self: flex-end;
+  }
+}
+
+@media (max-width: 480px) {
+  .search-modal {
+    padding-top: 2vh;
+    padding-left: var(--space-sm);
+    padding-right: var(--space-sm);
+  }
+  
+  .search-modal-content {
+    max-height: 96vh;
+  }
+  
+  .search-filters {
+    gap: var(--space-xs);
+  }
+  
+  .filter-select {
+    font-size: var(--font-size-xs);
+    padding: var(--space-xs) var(--space-sm);
+  }
+}
+
+/* Prevent flash of unstyled content */
+[x-cloak] {
+  display: none !important;
+}
+</style>

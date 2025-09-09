@@ -18,6 +18,13 @@
 {{ $style := resources.Get "css/style.css" }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
+{{/* Load Typesense client first */}}
+<script src="https://cdn.jsdelivr.net/npm/typesense@1.7.0/dist/typesense.min.js"></script>
+
+{{/* Load search.js before Alpine to register components */}}
+<script src="{{ "js/search.js" | relURL }}"></script>
+
+{{/* Load Alpine.js last with defer */}}
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 {{ if .IsHome }}

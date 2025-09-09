@@ -1,8 +1,171 @@
-<header>
+<header x-data="{ searchOpen: false }">
   <nav>
-    <a href="{{ site.BaseURL }}">{{ site.Title }}</a>
-    {{ range site.Menus.main }}
-      <a href="{{ .URL | relURL }}">{{ .Name }}</a>
-    {{ end }}
+    <div class="nav-main">
+      <a href="{{ site.BaseURL }}">{{ site.Title }}</a>
+      <div class="nav-links">
+        {{ range site.Menus.main }}
+          <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+        {{ end }}
+      </div>
+    </div>
+    <button onclick="openSearchModal()" class="search-button" title="Search (Ctrl+K)" x-data="{ clicked: false }" @click="clicked = true; setTimeout(() => clicked = false, 150)" :class="{ 'clicked': clicked }">
+      <svg class="search-icon" width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+      </svg>
+      <span class="search-text">Search</span>
+      <kbd class="search-kbd">⌘K</kbd>
+    </button>
   </nav>
 </header>
+
+{{ partial "search.html" }}
+
+<style>
+/* Enhanced Header Navigation */
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.nav-main {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  flex: 1;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+/* Enhanced Search Button - Matches Minimal Theme */
+.search-button {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-xs) var(--space-md);
+  background: var(--ui-bg-2);
+  border: 1px solid var(--ui-border);
+  border-radius: var(--space-xs);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  color: var(--tx-muted);
+  transition: all var(--transition-fast);
+  outline: none;
+  font-family: inherit;
+  position: relative;
+  overflow: hidden;
+}
+
+.search-button:hover {
+  background: var(--hover-bg-alt);
+  border-color: var(--ui-active);
+  color: var(--tx-primary);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-button:focus {
+  outline: 2px solid var(--focus-outline);
+  outline-offset: 2px;
+}
+
+.search-button:active,
+.search-button.clicked {
+  transform: translateY(0);
+  background: var(--ui-active);
+  border-color: var(--blue-600);
+}
+
+.search-button::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(59, 130, 246, 0.1);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.search-button.clicked::before {
+  width: 120%;
+  height: 120%;
+}
+
+.search-icon {
+  flex-shrink: 0;
+  opacity: 0.8;
+  transition: opacity var(--transition-fast);
+}
+
+.search-button:hover .search-icon {
+  opacity: 1;
+}
+
+.search-text {
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.search-kbd {
+  background: var(--ui-bg);
+  border: 1px solid var(--ui-border);
+  border-radius: 3px;
+  padding: 2px var(--space-xs);
+  font-size: var(--font-size-xs);
+  font-family: monospace;
+  color: var(--tx-muted);
+  line-height: 1;
+  margin-left: var(--space-xs);
+  min-width: 24px;
+  text-align: center;
+  box-shadow: 0 1px 0 var(--ui-border);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header nav {
+    gap: var(--space-md);
+  }
+  
+  .nav-main {
+    gap: var(--space-md);
+  }
+  
+  .nav-links {
+    gap: var(--space-md);
+  }
+  
+  .search-text {
+    display: none;
+  }
+  
+  .search-kbd {
+    display: none;
+  }
+  
+  .search-button {
+    padding: var(--space-sm);
+    min-width: 36px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-links a {
+    font-size: var(--font-size-xs);
+  }
+  
+  .search-button {
+    min-width: 32px;
+    padding: var(--space-xs);
+  }
+}
+</style>

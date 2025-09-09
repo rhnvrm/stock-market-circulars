@@ -76,3 +76,47 @@ validate:
 setup:
     mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
 
+# Search Commands
+
+# Start Typesense server for local development
+search-start:
+    @echo "🔍 Starting Typesense server..."
+    docker compose up -d typesense
+    @echo "⏳ Waiting for Typesense to be ready..."
+    @sleep 5
+    @curl -sf "http://localhost:8108/health" > /dev/null && echo "✅ Typesense is ready" || echo "⚠️ Typesense starting up..."
+
+# Stop Typesense server
+search-stop:
+    @echo "🛑 Stopping Typesense server..."
+    docker compose down
+
+# Generate search data from Hugo content
+search-build:
+    @echo "📄 Generating search data..."
+    cd hugo-site && hugo --minify --gc
+    @echo "✅ Search data generated: hugo-site/public/search.json"
+
+# Import search data into Typesense
+search-import *args:
+    @echo "📤 Importing search data into Typesense..."
+    @cd scripts && uv run typesense_import.py --data-path ../hugo-site/public/search.json {{args}}
+
+# Rebuild search index (delete and recreate)
+search-rebuild:
+    @echo "🔄 Rebuilding search index..."
+    just search-build
+    just search-import --rebuild
+
+# Full search setup (start server, build, import)
+search-setup:
+    just search-start
+    just search-build
+    just search-import
+
+# Development with search (build + import + serve)
+dev-search:
+    just search-build
+    just search-import
+    just serve
+

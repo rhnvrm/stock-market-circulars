@@ -47,3 +47,21 @@ pluralizeListTitles = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "Search"]
+  section = ["HTML"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    isPlainText = true
+    isHTML = false
+    notAlternative = true
+    
+  [outputFormats.Search]
+    mediaType = "application/json"
+    isPlainText = true
+    isHTML = false
+    notAlternative = true
+    baseName = "search"
