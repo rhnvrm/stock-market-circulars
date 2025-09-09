@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR70109.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-09T15:42:53.929654'
+  processed_at: '2025-09-09T18:45:26.183272'
   processor_version: '2.0'
   stage: download_failed
   status: failed
