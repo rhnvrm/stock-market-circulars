@@ -1,0 +1,19 @@
+---
+circular_id: fdf15fe2f9f2ec6f
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={77158596-3A2F-42CB-9945-33D13F5720EE}&noticeno=20250912-84&dt=09/12/2025&icount=84&totcount=84&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250912-84&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-12T12:39:21.853961'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-12T12:26:27+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={77158596-3A2F-42CB-9945-33D13F5720EE}&noticeno=20250912-84&dt=09/12/2025&icount=84&totcount=84&flag=0
+source: bse
+title: Listing of new Commercial Paper of Kotak Mahindra Prime Limited
+---
+
+Processing in progress...
