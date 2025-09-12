@@ -1,0 +1,19 @@
+---
+circular_id: 7d22747941ccf034
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={96F5ABDB-4962-4139-9386-4DFEA1BF124F}&noticeno=20250912-9&dt=09/12/2025&icount=9&totcount=103&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250912-9&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-12T18:48:51.436232'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-12T05:45:19+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={96F5ABDB-4962-4139-9386-4DFEA1BF124F}&noticeno=20250912-9&dt=09/12/2025&icount=9&totcount=103&flag=0
+source: bse
+title: Release of BOLT Pro TWS Version 12.06
+---
+
+Processing in progress...
