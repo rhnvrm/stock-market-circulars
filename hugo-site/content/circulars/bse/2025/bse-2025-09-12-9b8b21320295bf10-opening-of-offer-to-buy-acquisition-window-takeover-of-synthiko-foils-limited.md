@@ -6,7 +6,7 @@ pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=2025
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-12T21:22:54.835295'
+  processed_at: '2025-09-13T01:21:46.758876'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
