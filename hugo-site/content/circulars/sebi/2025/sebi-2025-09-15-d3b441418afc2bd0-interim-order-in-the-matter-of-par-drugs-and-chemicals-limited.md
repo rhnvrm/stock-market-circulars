@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/interim_order_pdc
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-16T03:52:47.867495'
+  processed_at: '2025-09-16T09:27:18.620550'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
