@@ -1,0 +1,19 @@
+---
+circular_id: 8d8027a6e865d10a
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML70224.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70224.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-16T15:47:07.394102'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-16T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML70224.pdf
+source: nse
+title: Listing of privately placed securities on the debt market segment of the exchange
+---
+
+Processing in progress...
