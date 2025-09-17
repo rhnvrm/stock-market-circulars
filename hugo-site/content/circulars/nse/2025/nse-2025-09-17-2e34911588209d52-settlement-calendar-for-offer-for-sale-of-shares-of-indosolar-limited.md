@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT70257.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-17T15:37:10.929623'
+  processed_at: '2025-09-17T18:43:36.068058'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
