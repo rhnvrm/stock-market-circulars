@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70274.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-18T21:38:23.902334'
+  processed_at: '2025-09-19T01:43:28.691595'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
