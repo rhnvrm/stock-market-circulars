@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD70263.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-19T06:36:04.642458'
+  processed_at: '2025-09-19T09:28:45.312820'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
