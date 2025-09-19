@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS70269.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-19T03:40:22.344663'
+  processed_at: '2025-09-19T06:34:40.310636'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
