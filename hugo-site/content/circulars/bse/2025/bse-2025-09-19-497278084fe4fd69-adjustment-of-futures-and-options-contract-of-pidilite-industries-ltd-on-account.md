@@ -1,0 +1,20 @@
+---
+circular_id: 497278084fe4fd69
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={5B34E9AF-0C37-4F77-B191-7EC3FDD3DF3C}&noticeno=20250919-12&dt=09/19/2025&icount=12&totcount=24&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250919-12&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-19T12:42:33.438327'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-19T10:45:57+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={5B34E9AF-0C37-4F77-B191-7EC3FDD3DF3C}&noticeno=20250919-12&dt=09/19/2025&icount=12&totcount=24&flag=0
+source: bse
+title: Adjustment of Futures and Options contract of Pidilite Industries Ltd on account
+  of Bonus issue
+---
+
+Processing in progress...
