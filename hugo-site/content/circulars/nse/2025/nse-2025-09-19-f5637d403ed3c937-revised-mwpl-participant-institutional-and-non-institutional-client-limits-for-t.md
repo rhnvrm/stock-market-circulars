@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT70310.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-20T12:47:55.789485'
+  processed_at: '2025-09-20T15:31:04.968575'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
