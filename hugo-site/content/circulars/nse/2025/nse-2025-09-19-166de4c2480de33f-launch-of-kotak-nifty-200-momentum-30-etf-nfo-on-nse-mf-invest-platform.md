@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF70293.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-19T21:22:47.563338'
+  processed_at: '2025-09-20T01:35:39.758651'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
