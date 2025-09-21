@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC70294.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-21T06:34:11.691754'
+  processed_at: '2025-09-21T09:33:48.443782'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
