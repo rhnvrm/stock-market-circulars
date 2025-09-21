@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70302.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-21T18:38:47.583077'
+  processed_at: '2025-09-21T21:30:30.311352'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
