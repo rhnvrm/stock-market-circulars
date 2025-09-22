@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/order_matter_mile
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-22T06:36:31.680976'
+  processed_at: '2025-09-22T09:30:40.737788'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
