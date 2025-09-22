@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/exemption_order_t
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-22T09:30:11.267400'
+  processed_at: '2025-09-22T12:52:07.095810'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
