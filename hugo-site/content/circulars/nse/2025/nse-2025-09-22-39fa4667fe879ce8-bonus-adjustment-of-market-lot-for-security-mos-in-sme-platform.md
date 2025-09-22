@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR70343.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-22T15:46:39.323856'
+  processed_at: '2025-09-22T18:46:00.895275'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
