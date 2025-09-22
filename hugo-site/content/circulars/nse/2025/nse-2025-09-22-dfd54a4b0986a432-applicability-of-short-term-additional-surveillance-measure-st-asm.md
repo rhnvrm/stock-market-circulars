@@ -1,0 +1,19 @@
+---
+circular_id: dfd54a4b0986a432
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/SURV70330.zip
+pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV70330.zip
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-22T15:49:28.767673'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-22T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/SURV70330.zip
+source: nse
+title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
+---
+
+Processing in progress...
