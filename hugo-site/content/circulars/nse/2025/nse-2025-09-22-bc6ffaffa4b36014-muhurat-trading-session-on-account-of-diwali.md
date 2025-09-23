@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD70321.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-23T01:45:22.195972'
+  processed_at: '2025-09-23T03:55:56.002681'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
