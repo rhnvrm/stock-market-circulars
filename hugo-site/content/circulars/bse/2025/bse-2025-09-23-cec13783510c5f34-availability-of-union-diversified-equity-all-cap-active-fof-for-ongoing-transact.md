@@ -1,0 +1,20 @@
+---
+circular_id: cec13783510c5f34
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={9F10CFA8-9377-4C6A-8365-79AAA4B69E60}&noticeno=20250923-58&dt=09/23/2025&icount=58&totcount=78&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250923-58&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-23T15:29:12.332197'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-23T13:02:11+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={9F10CFA8-9377-4C6A-8365-79AAA4B69E60}&noticeno=20250923-58&dt=09/23/2025&icount=58&totcount=78&flag=0
+source: bse
+title: Availability of UNION DIVERSIFIED EQUITY ALL CAP ACTIVE FOF for ongoing transactions
+  on BSE StAR MF Platform
+---
+
+Processing in progress...

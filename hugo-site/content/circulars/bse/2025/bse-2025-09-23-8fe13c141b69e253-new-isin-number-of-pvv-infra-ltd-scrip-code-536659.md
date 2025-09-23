@@ -1,0 +1,19 @@
+---
+circular_id: 8fe13c141b69e253
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={29BBF0F5-2DB9-453B-B547-F831471F9C86}&noticeno=20250923-72&dt=09/23/2025&icount=72&totcount=78&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250923-72&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-23T15:25:50.139736'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-23T14:40:15+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={29BBF0F5-2DB9-453B-B547-F831471F9C86}&noticeno=20250923-72&dt=09/23/2025&icount=72&totcount=78&flag=0
+source: bse
+title: 'New ISIN Number of PVV Infra Ltd (Scrip Code: 536659)'
+---
+
+Processing in progress...
