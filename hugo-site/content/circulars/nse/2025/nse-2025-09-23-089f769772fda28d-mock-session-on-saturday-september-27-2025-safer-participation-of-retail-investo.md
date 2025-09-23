@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD70369.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-23T15:46:29.192444'
+  processed_at: '2025-09-23T18:56:31.198985'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

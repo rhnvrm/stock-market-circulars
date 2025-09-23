@@ -1,0 +1,19 @@
+---
+circular_id: 90b29173d4a2bd25
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={10C95346-5A2B-462D-8D2B-5E4D13D2C268}&noticeno=20250923-2&dt=09/23/2025&icount=2&totcount=84&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20250923-2&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-23T18:51:51.273552'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-09-23T05:44:46+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={10C95346-5A2B-462D-8D2B-5E4D13D2C268}&noticeno=20250923-2&dt=09/23/2025&icount=2&totcount=84&flag=0
+source: bse
+title: Listing of Equity Shares of SAMPAT ALUMINIUM LIMITED
+---
+
+Processing in progress...
