@@ -1,0 +1,20 @@
+---
+circular_id: 1a7809d7efe336be
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CMTR70373.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR70373.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-23T12:54:06.032381'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-23T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CMTR70373.pdf
+source: nse
+title: Mock session on Saturday, September 27, 2025 - Safer participation of retail
+  investors in Algorithmic trading - No new version release
+---
+
+Processing in progress...
