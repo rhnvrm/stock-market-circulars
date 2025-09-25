@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/final_order_sssl.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-24T15:44:05.411992'
+  processed_at: '2025-09-25T01:50:27.669715'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
