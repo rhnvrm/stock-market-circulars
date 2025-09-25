@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG70405.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-25T01:27:42.659490'
+  processed_at: '2025-09-25T03:37:57.617832'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
