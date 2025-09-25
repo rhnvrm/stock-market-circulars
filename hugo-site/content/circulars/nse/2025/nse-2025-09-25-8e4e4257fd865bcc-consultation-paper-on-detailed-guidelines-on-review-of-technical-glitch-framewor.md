@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COMP70434.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-25T18:47:33.254267'
+  processed_at: '2025-09-25T21:20:28.237971'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
