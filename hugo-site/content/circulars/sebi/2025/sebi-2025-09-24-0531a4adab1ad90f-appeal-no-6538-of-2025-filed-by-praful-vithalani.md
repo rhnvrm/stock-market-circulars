@@ -1,0 +1,19 @@
+---
+circular_id: 0531a4adab1ad90f
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/sep-2025/appeal-no-6538-of-2025-filed-by-praful-vithalani_96845.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/1758776343860.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-25T09:26:15.757312'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-24T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/sep-2025/appeal-no-6538-of-2025-filed-by-praful-vithalani_96845.html
+source: sebi
+title: Appeal No. 6538 of 2025  filed by Praful Vithalani
+---
+
+Processing in progress...
