@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MFSS70469.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-27T09:18:21.554073'
+  processed_at: '2025-09-27T12:35:35.890775'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

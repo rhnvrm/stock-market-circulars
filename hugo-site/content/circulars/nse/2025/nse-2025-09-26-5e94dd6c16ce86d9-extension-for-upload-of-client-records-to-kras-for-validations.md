@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC70450.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-27T09:22:37.749012'
+  processed_at: '2025-09-27T12:40:19.671519'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
