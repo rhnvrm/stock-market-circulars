@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INSP70471.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-27T06:26:34.425361'
+  processed_at: '2025-09-27T09:18:48.720624'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
