@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS70436.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-28T03:48:35.451280'
+  processed_at: '2025-09-28T06:36:10.959115'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
