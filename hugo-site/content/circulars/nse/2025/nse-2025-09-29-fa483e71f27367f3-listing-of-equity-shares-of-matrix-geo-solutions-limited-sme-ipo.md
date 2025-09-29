@@ -1,0 +1,19 @@
+---
+circular_id: fa483e71f27367f3
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML70498.zip
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70498.zip
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-29T15:24:12.529833'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-29T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML70498.zip
+source: nse
+title: Listing of Equity Shares of Matrix Geo Solutions Limited (SME IPO)
+---
+
+Processing in progress...
