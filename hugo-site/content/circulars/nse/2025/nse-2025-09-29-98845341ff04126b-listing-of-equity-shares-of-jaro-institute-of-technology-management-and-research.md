@@ -1,17 +1,17 @@
 ---
-circular_id: 63217b1f41d50511
+circular_id: 98845341ff04126b
 draft: true
-guid: https://nsearchives.nseindia.com/content/circulars/CML70473.pdf
-pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70473.pdf
+guid: https://nsearchives.nseindia.com/content/circulars/CML70488.zip
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML70488.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-29T21:50:34.382508'
+  processed_at: '2025-09-29T21:46:44.152388'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
 published_date: '2025-09-29T00:00:00+05:30'
-rss_url: https://nsearchives.nseindia.com/content/circulars/CML70473.pdf
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML70488.zip
 source: nse
 title: Listing of Equity Shares of Jaro Institute of Technology Management and Research
   Limited (IPO)
