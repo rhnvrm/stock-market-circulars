@@ -1,0 +1,19 @@
+---
+circular_id: f4ec2366eab18fcf
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/INVG70545.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG70545.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-09-30T21:26:09.903676'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-09-30T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/INVG70545.pdf
+source: nse
+title: SEBI order in the matter of Milani Techno Engineering Limited
+---
+
+Processing in progress...
