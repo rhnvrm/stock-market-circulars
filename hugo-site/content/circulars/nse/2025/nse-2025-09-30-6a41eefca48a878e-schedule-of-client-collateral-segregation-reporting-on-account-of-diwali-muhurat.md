@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPL70522.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-09-30T15:28:26.349852'
+  processed_at: '2025-09-30T19:02:13.906191'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
