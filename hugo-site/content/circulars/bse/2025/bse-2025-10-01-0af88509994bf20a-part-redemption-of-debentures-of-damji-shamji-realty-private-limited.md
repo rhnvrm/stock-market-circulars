@@ -1,0 +1,19 @@
+---
+circular_id: 0af88509994bf20a
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={EB3E4337-DE92-4E84-AF7C-D92A90C6BAE6}&noticeno=20251001-19&dt=10/01/2025&icount=19&totcount=74&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20251001-19&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-10-01T15:37:20.165312'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-10-01T09:25:58+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={EB3E4337-DE92-4E84-AF7C-D92A90C6BAE6}&noticeno=20251001-19&dt=10/01/2025&icount=19&totcount=74&flag=0
+source: bse
+title: Part Redemption of Debentures of DAMJI SHAMJI REALTY PRIVATE LIMITED
+---
+
+Processing in progress...
