@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COMP70515.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-01T02:22:51.848221'
+  processed_at: '2025-10-01T03:54:37.787490'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
