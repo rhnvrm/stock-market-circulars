@@ -1,0 +1,19 @@
+---
+circular_id: a370cf7f1eee4865
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={344EB646-27D6-4FCB-A10A-F1AAFFE9911B}&noticeno=20251001-16&dt=10/01/2025&icount=16&totcount=18&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20251001-16&attachedId=067961fb-ecb9-4daf-92bd-e0f18ec49fc1
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-10-01T09:23:44.235911'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-10-01T08:31:08+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={344EB646-27D6-4FCB-A10A-F1AAFFE9911B}&noticeno=20251001-16&dt=10/01/2025&icount=16&totcount=18&flag=0
+source: bse
+title: Demat Auction -726
+---
+
+Processing in progress...
