@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD70580.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-03T03:31:17.251568'
+  processed_at: '2025-10-03T06:30:11.437043'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
