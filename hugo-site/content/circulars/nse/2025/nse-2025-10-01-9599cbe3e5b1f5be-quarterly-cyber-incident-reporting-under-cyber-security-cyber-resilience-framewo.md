@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INSP70557.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-03T02:21:11.175545'
+  processed_at: '2025-10-03T03:36:33.456089'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2025-10-01T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/INSP70557.pdf
