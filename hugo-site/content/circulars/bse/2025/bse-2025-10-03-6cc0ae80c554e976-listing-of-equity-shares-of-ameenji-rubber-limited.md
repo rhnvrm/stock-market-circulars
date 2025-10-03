@@ -1,0 +1,19 @@
+---
+circular_id: 6cc0ae80c554e976
+draft: true
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={8A608CB5-9418-4BB0-AC8D-99657AFBE975}&noticeno=20251003-23&dt=10/03/2025&icount=23&totcount=73&flag=0
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20251003-23&attachedId=
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-10-03T18:51:00.533922'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2025-10-03T10:35:48+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={8A608CB5-9418-4BB0-AC8D-99657AFBE975}&noticeno=20251003-23&dt=10/03/2025&icount=23&totcount=73&flag=0
+source: bse
+title: Listing of Equity Shares of AMEENJI RUBBER LIMITED
+---
+
+Processing in progress...
