@@ -2,11 +2,11 @@
 circular_id: 534dabf4de7b811e
 draft: true
 guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={9370D468-9815-49BD-BEE4-74A8932D4F39}&noticeno=20251001-65&dt=10/01/2025&icount=65&totcount=83&flag=0
-pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20251001-65&attachedId=
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={9370D468-9815-49BD-BEE4-74A8932D4F39}&noticeno=20251001-65&dt=10/01/2025&icount=65&totcount=83&flag=0
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-02T21:25:53.784298'
+  processed_at: '2025-10-03T02:57:19.077958'
   processor_version: '2.0'
   stage: download_failed
   status: failed
