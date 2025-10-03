@@ -1,0 +1,19 @@
+---
+circular_id: 640f7674037f61d5
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CMTR70599.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR70599.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2025-10-03T12:41:28.198138'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2025-10-03T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CMTR70599.pdf
+source: nse
+title: 'SPLIT and BONUS : Adjustment of Market Lot for Security GICL in SME Platform'
+---
+
+Processing in progress...
