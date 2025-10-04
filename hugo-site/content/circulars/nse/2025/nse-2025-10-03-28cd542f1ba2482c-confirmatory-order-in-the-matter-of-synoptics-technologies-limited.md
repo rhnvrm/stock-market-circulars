@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG70621.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-04T03:28:55.134007'
+  processed_at: '2025-10-04T06:29:37.786749'
   processor_version: '2.0'
   stage: download_failed
   status: failed

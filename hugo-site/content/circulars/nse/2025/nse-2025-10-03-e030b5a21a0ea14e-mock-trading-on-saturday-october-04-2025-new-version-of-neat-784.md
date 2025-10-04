@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP70603.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-04T03:31:50.290679'
+  processed_at: '2025-10-04T06:32:31.070480'
   processor_version: '2.0'
   stage: download_failed
   status: failed
