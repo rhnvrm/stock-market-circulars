@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR70609.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-04T09:41:47.015224'
+  processed_at: '2025-10-04T15:21:05.334295'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2025-10-03T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CMTR70609.pdf
