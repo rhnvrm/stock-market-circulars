@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS70604.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-05T01:34:09.914634'
+  processed_at: '2025-10-05T03:41:29.508051'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
