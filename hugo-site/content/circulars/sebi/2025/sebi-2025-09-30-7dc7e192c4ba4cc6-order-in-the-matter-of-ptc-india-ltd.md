@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/PTC_India_Ltd.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-01T09:29:33.211226'
+  processed_at: '2025-10-05T15:32:04.488612'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

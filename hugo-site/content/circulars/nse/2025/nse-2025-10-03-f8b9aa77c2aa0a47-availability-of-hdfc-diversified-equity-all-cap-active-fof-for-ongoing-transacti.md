@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF70589.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-05T12:42:55.556422'
+  processed_at: '2025-10-05T15:26:53.722403'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

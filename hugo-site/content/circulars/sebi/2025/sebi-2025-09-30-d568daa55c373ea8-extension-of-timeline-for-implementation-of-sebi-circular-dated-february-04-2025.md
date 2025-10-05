@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/1759232056254.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-01T09:30:10.895434'
+  processed_at: '2025-10-05T15:32:42.336895'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
