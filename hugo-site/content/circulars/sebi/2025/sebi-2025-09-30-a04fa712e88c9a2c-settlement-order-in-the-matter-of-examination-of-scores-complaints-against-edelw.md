@@ -2,11 +2,11 @@
 circular_id: a04fa712e88c9a2c
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/sep-2025/settlement-order-in-the-matter-of-examination-of-scores-complaints-against-edelweiss-stressed-and-troubled-assets-revival-fund-trust_96988.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/sep-2025/settlement-order-in-the-matter-of-examination-of-scores-complaints-against-edelweiss-stressed-and-troubled-assets-revival-fund-trust_96988.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/sep-2025/1759245877073.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-06T09:51:32.381628'
+  processed_at: '2025-10-07T06:37:43.066920'
   processor_version: '2.0'
   stage: download_failed
   status: failed
