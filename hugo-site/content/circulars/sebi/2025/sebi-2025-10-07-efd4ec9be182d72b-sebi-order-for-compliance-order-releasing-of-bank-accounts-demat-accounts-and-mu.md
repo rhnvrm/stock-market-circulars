@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2025/1759820140203.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-09T01:31:49.005671'
+  processed_at: '2025-10-09T06:41:56.912692'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2025-10-07T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2025/sebi-order-for-compliance-order-releasing-of-bank-accounts-demat-accounts-and-mutual-fund-folios-of-tango-commosales-llp-pan-aajft4529j-rc-no-8672-of-2025_97088.html
