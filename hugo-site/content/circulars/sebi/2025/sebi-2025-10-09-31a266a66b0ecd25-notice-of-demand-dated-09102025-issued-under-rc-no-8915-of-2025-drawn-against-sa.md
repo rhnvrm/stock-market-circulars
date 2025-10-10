@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2025/notic
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-10T01:37:54.986057'
+  processed_at: '2025-10-10T06:46:29.590868'
   processor_version: '2.0'
   stage: download_failed
   status: failed
