@@ -2,11 +2,11 @@
 circular_id: 3971b1d635808d08
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/oct-2025/appeal-no-6582-of-2025-filed-by-devangi-dipak-panchal_97307.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2025/1760433507580.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/orders/oct-2025/appeal-no-6582-of-2025-filed-by-devangi-dipak-panchal_97307.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-10-15T06:43:03.302722'
+  processed_at: '2025-10-15T09:30:42.686200'
   processor_version: '2.0'
   stage: download_failed
   status: failed
