@@ -9,25 +9,25 @@ Subscribe to these RSS feeds to stay updated on regulatory circulars from NSE, B
 
 ### All Circulars
 
-- **[All Circulars Feed](/feed.xml)** - All circulars from NSE, BSE, and SEBI
+- **[All Circulars Feed](../feed.xml)** - All circulars from NSE, BSE, and SEBI
 
 ### By Source
 
-- **[NSE Circulars](/circulars/nse/feed.xml)** - National Stock Exchange circulars only
-- **[BSE Circulars](/circulars/bse/feed.xml)** - Bombay Stock Exchange circulars only
-- **[SEBI Circulars](/circulars/sebi/feed.xml)** - Securities and Exchange Board of India circulars only
+- **[NSE Circulars](../circulars/nse/feed.xml)** - National Stock Exchange circulars only
+- **[BSE Circulars](../circulars/bse/feed.xml)** - Bombay Stock Exchange circulars only
+- **[SEBI Circulars](../circulars/sebi/feed.xml)** - Securities and Exchange Board of India circulars only
 
 ### By Tags
 
-Browse all available tags at [/tags/](/tags/) and append `/feed.xml` to any tag URL to get its RSS feed.
+Browse all available tags at [../tags/](../tags/) and append `/feed.xml` to any tag URL to get its RSS feed.
 
-Example: `/tags/trading/feed.xml`
+Example: `../tags/trading/feed.xml`
 
 ### By Stock
 
-Browse all stocks at [/stocks/](/stocks/) and append `/feed.xml` to any stock URL to get its RSS feed.
+Browse all stocks at [../stocks/](../stocks/) and append `/feed.xml` to any stock URL to get its RSS feed.
 
-Example: `/stocks/RELIANCE/feed.xml`
+Example: `../stocks/RELIANCE/feed.xml`
 
 ## RSS Feed Features
 
