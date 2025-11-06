@@ -7,6 +7,15 @@ pluralizeListTitles = false
 [params]
   description = 'Regulatory circulars from NSE, BSE, and SEBI with AI-powered summaries'
   author = 'Automated Processing System'
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  taxonomy = ['HTML', 'RSS']
+
+[outputFormats.RSS]
+  mediatype = "application/rss+xml"
+  baseName = "feed"
   
 [taxonomies]
   tag = 'tags'
@@ -41,6 +50,10 @@ pluralizeListTitles = false
     name = 'Stocks'
     url = '/stocks/'
     weight = 60
+  [[menu.main]]
+    name = 'RSS Feeds'
+    url = '/feeds/'
+    weight = 70
 
 
 [markup]
