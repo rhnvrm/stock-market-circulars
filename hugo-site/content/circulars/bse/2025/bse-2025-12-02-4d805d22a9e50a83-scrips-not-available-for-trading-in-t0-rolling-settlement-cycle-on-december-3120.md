@@ -1,0 +1,66 @@
+---
+category: trading
+circular_id: 4d805d22a9e50a83
+date: '2025-12-02'
+description: Union Bank of India and Yes Bank Limited will not be available for trading
+  in T+0 rolling settlement cycle on December 31, 2025.
+draft: false
+guid: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={F7D5FD08-551A-4765-B183-E8279961C8B4}&noticeno=20251202-19&dt=12/02/2025&icount=19&totcount=59&flag=0
+impact: low
+impact_ranking: low
+importance_ranking: low
+justification: Temporary one-day restriction on T+0 trading for two specific stocks
+  on year-end date; does not affect regular T+1 settlement trading
+pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=20251202-19&attachedId=
+processing:
+  attempts: 1
+  content_hash: ebaa0c2da79d6caa
+  processed_at: '2025-12-02T15:44:34.757381'
+  processor_version: '2.0'
+  stage: completed
+  status: published
+published_date: '2025-12-02T08:38:04+00:00'
+rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={F7D5FD08-551A-4765-B183-E8279961C8B4}&noticeno=20251202-19&dt=12/02/2025&icount=19&totcount=59&flag=0
+severity: medium
+source: bse
+stocks:
+- UNIONBANK
+- YESBANK
+tags:
+- t+0-settlement
+- trading-restrictions
+- settlement-cycle
+- year-end-trading
+title: Scrips Not Available for T+0 Trading on December 31, 2025
+---
+
+## Summary
+
+BSE has notified that Union Bank of India (UNIONBANK) and Yes Bank Limited (YESBANK) will not be available for trading in the T+0 rolling settlement cycle on Wednesday, December 31, 2025. This is a temporary restriction for a single trading day at year-end.
+
+## Key Points
+
+- Two scrips excluded from T+0 trading on December 31, 2025
+- Union Bank of India (Scrip Code: 132477, Symbol: UNIONBANK#)
+- Yes Bank Limited (Scrip Code: 132648, Symbol: YESBANK#)
+- Restriction applies only to T+0 settlement cycle
+- Regular T+1 settlement trading remains unaffected
+
+## Regulatory Changes
+
+No permanent regulatory changes. This is a temporary operational measure for year-end trading arrangements.
+
+## Compliance Requirements
+
+- Trading members must note these scrips will not be available for T+0 trading on the specified date
+- Members should inform clients who trade these stocks in T+0 cycle
+- Regular T+1 settlement trading can continue as normal
+
+## Important Dates
+
+- **Effective Date**: December 31, 2025 (Wednesday)
+- **Notice Date**: December 2, 2025
+
+## Impact Assessment
+
+**Market Impact**: Low - Only two stocks affected for a single day. Traders using T+0 intraday settlement for these stocks will need to use regular T+1 settlement instead on December 31, 2025. This appears to be a year-end operational measure and does not indicate any fundamental issues with these banks. Normal trading and settlement will resume after this date.
