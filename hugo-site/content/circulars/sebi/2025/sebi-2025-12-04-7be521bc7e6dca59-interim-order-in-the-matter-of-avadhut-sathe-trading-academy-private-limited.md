@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/ORDER_1764842991.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-12-04T18:46:50.776670'
+  processed_at: '2025-12-05T01:42:31.709334'
   processor_version: '2.0'
   stage: download_failed
   status: failed
