@@ -1,23 +1,23 @@
 ---
 category: market-operations
-circular_id: 058c1e2158900844
+circular_id: 058c1e2158900944
 date: '2025-12-05'
-description: NSE will conduct a mock trading session in the Commodity Derivatives
-  Segment on December 06, 2025, with no new NEAT version release. Members required
-  to test algorithmic trading functionality.
+description: NSE conducting mock trading session in Commodity Derivatives Segment
+  on December 06, 2025 with testing of algorithmic trading safety features for retail
+  investors.
 draft: false
 guid: https://nsearchives.nseindia.com/content/circulars/COM71648.pdf
 impact: low
 impact_ranking: low
 importance_ranking: low
 justification: Routine mock trading session for testing purposes with no new version
-  release. Primarily operational for trading members to test systems and algorithmic
-  trading functionality.
+  release; mandatory participation for testing algorithmic trading safety features
+  per SEBI requirements
 pdf_url: https://nsearchives.nseindia.com/content/circulars/COM71648.pdf
 processing:
   attempts: 1
-  content_hash: 028a83d18d5f370f
-  processed_at: '2025-12-05T13:04:18.839404'
+  content_hash: 4cc15362d5650c48
+  processed_at: '2025-12-05T15:38:15.824447'
   processor_version: '2.0'
   stage: completed
   status: published
@@ -30,60 +30,58 @@ tags:
 - mock-trading
 - commodity-derivatives
 - algorithmic-trading
-- testing
-- neat-version
 - retail-investors
+- testing
+- simulation
 - disaster-recovery
-title: Mock Trading Session on December 06, 2025 - No New Version Release
+title: Mock session on Saturday, December 06, 2025 - No new version release
 ---
 
 ## Summary
 
-NSE will conduct a mock trading session in the Commodity Derivatives Segment on Saturday, December 06, 2025. No new NEAT version will be released. The session includes trading from both Primary and Disaster Recovery (DR) sites. Members are required to test functionality related to safer participation of retail investors in algorithmic trading and provide evidence of participation to the exchange.
+NSE will conduct a mock trading session in the Commodity Derivatives Segment on Saturday, December 06, 2025. This is a routine testing session with no new NEAT version release. Trading members are required to test functionality related to safer participation of retail investors in algorithmic trading and provide evidence of participation to the Exchange.
 
 ## Key Points
 
 - Mock trading session scheduled for December 06, 2025 in Commodity Derivatives Segment
-- No new NEAT version release (current version: NEAT 1.5.3)
-- Two trading sessions: Primary Site (11:00-15:30) and DR Site (16:00-16:45)
-- Contingency drill from 12:00 to 13:30
-- Members must test algorithmic trading functionality for retail investors
+- No new NEAT version release; current version NEAT 1.5.3 will be used
+- Two trading sessions planned: Session-1 from Primary Site (11:00-15:30) and Session-2 from DR Site (16:00-16:45)
+- Contingency switchover testing during Session-1 (12:00-13:30)
+- Members must test algorithmic trading safety features for retail investors
 - Evidence of participation must be submitted to NNFREG@nse.co.in
-- Live re-login window: 18:30 to 19:00
+- No financial obligations arise from mock trading activities
+- Live re-login window available from 18:30 to 19:00
 
 ## Regulatory Changes
 
-No new regulatory changes. The circular reinforces SEBI's requirements for safer participation of retail investors in algorithmic trading as per SEBI circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/132 dated September 30, 2025.
+This circular implements testing requirements under SEBI circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/132 dated September 30, 2025 regarding safer participation of retail investors in algorithmic trading. Members must demonstrate compliance through participation in mock or simulation sessions.
 
 ## Compliance Requirements
 
-- Trading members must participate in the mock session or simulated environment
-- Members must test algorithmic trading functionality related to retail investor participation
-- Evidence of participation must be provided with the following details:
+- Trading members must participate in the mock trading session
+- Members must test functionality related to safer participation of retail investors in algorithmic trading
+- Evidence of participation must be submitted via email to NNFREG@nse.co.in with following details:
   - Trading Member Name and code
   - User ID
-  - Session type (Mock/Simulation)
+  - Type of participation (Mock/Simulation)
   - Date(s) of participation
-  - Segment
-- Submit evidence to NNFREG@nse.co.in
+  - Segment details
+- Members should refer to implementation standards and operational modalities from previous NSE circulars (NSE/INVG/67858, NSE/INVG/69255, NSE/INVG/69289, NSE/INVG/70309)
+- Position limit/collateral value setup cut-off time: 16:55
+- Trade modification end time: 16:55
 
 ## Important Dates
 
-- **Mock Session Date**: December 06, 2025
-- **Trading Session 1 (Primary Site)**: 11:00 - 15:30
-  - Normal Market Open: 11:00
-  - Contingency Start: 12:00
-  - Contingency Close: 13:30
-  - Normal Market Close: 15:30
-- **Trading Session 2 (DR Site)**: 16:00 - 16:45
-- **Position Limit/Collateral Setup Cutoff**: 16:55
-- **Trade Modification End Time**: 16:55
-- **Live Re-login Window**: 18:30 - 19:00
+- **December 06, 2025**: Mock trading session date
+  - Trading Session-1: 11:00 - 15:30 (Primary Site)
+  - Contingency period: 12:00 - 13:30
+  - Trading Session-2: 16:00 - 16:45 (DR Site)
+  - Live re-login: 18:30 - 19:00
 
 ## Impact Assessment
 
-**Market Impact**: None - This is a mock trading session with no financial obligations.
+**Market Impact**: Minimal - Mock session only for testing purposes with no real trading or financial obligations.
 
-**Operational Impact**: Low - Routine testing exercise for trading members. Members need to allocate resources to participate in the mock session and test their systems, particularly the algorithmic trading functionality for retail investors. The session allows members to test disaster recovery procedures through the switchover to DR site.
+**Operational Impact**: Low - Trading members need to allocate resources for participation and testing of algorithmic trading safety features. Members can alternatively use daily simulated trading sessions for testing.
 
-**Member Requirements**: Trading members must ensure their systems are configured for NEAT version 1.5.3 and participate in testing to comply with SEBI's guidelines on algorithmic trading for retail investors.
+**Compliance Impact**: Medium - Members are required to provide evidence of participation as per SEBI requirements for implementing safer algorithmic trading framework for retail investors. This is part of the glide path for adherence outlined by SEBI.
