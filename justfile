@@ -98,3 +98,21 @@ normalize-tags:
     @echo "🔄 Normalizing tags only..."
     cd scripts && uv run run_normalization.py --tags-only
 
+# Go Server Commands
+
+# Run Go server (local development)
+server:
+    @echo "🚀 Starting Go server..."
+    go run cmd/server/main.go
+
+# Build Go server binary
+server-build:
+    @echo "🏗️ Building Go server..."
+    go build -o server.bin cmd/server/main.go
+    @echo "✅ Binary created: server.bin"
+
+# Run built Go server
+server-run: server-build
+    @echo "🚀 Running Go server..."
+    ./server.bin
+
