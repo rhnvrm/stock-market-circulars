@@ -76,4 +76,4 @@ combined_pipeline.log
 # --- Downloaded content (keep structure but not actual files for repo) ---
 inbox/*.pdf
 inbox/*.doc
-inbox/*.docx
+inbox/*.docx*.bin
