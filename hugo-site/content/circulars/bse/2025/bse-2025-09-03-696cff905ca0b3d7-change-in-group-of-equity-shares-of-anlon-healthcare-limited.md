@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ANLON
 tags:
-- trade-for-trade
-- rolling-segment
-- group-transfer
 - anlon-healthcare
+- group-change
+- rolling-segment
+- trade-for-trade
 title: Change in Group of Equity Shares of Anlon Healthcare Limited
 ---
 

@@ -26,12 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- t-bills
-- debt-market
-- trading-suspension
-- redemption
+- debt-securities
 - market-operations
+- redemption
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - Three Treasury Bills Maturing November 13,
   2025
 ---

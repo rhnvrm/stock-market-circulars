@@ -26,10 +26,10 @@ source: bse
 stocks:
 - GANESH
 tags:
-- name-change
 - certificate-incorporation
 - corporate-action
 - ganesh-housing
+- name-change
 title: Ganesh Housing Corporation Limited Changes Name to Ganesh Housing Limited
 ---
 

@@ -75,12 +75,9 @@ stocks:
 - REFEX
 - REMI
 tags:
-- enhanced-surveillance-measure
-- esm
+- compliance
 - surveillance
 - trading-restrictions
-- market-surveillance
-- compliance
 title: Enhanced Surveillance Measure (ESM) - November 2025 Updates
 ---
 

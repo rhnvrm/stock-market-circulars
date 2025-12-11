@@ -29,10 +29,9 @@ stocks:
 - NVSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - nuvama-clearing-services
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of NUVAMA CLEARING SERVICES LIMITED
 ---
 

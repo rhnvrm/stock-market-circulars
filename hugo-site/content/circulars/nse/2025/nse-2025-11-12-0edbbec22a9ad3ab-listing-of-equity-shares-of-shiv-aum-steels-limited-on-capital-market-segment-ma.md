@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SHIVAUM
 tags:
+- capital-market-segment
+- equity
 - listing
 - migration
 - sme-to-mainboard
-- equity-shares
-- capital-market-segment
 title: Listing of Equity Shares of Shiv Aum Steels Limited on Capital Market Segment
   (Main Board) pursuant to migration from SME Emerge platform
 ---

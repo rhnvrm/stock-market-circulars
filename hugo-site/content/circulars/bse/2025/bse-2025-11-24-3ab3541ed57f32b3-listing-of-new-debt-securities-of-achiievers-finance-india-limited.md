@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- achiievers-finance
 - debt-securities
 - listing
+- ncd
 - private-placement
-- achiievers-finance
-- debentures
 title: Listing of New Debt Securities of ACHIIEVERS FINANCE INDIA LIMITED
 ---
 

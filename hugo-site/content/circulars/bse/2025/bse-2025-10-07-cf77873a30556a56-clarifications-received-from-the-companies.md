@@ -28,12 +28,9 @@ stocks:
 - SANSTAR
 tags:
 - clarification
-- price-movement
-- volume-movement
 - disclosure
+- price-movement
 - surveillance
-- ORISSAMINE
-- SANSTAR
 title: Clarifications received from the companies
 ---
 

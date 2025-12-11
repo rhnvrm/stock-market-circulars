@@ -28,9 +28,9 @@ stocks:
 - ICICIHOMELOAN
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - icici-home-finance
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of ICICI HOME FINANCE COMPANY LIMITED
 ---

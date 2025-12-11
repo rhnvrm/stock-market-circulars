@@ -28,16 +28,16 @@ source: bse
 stocks:
 - GALADA
 tags:
-- listing
-- equity-shares
-- xt-group
-- trade-to-trade
-- resolution-plan
-- ibc
-- nclt
+- asm-stage
 - capital-reduction
-- preferential-allotment
+- equity
+- insolvency
+- listing
 - lock-in
+- nclt
+- preferential-issue
+- resolution-plan
+- trade-to-trade
 title: Listing of Equity Shares of Galada Power & Telecommunication Limited
 ---
 

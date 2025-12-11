@@ -30,10 +30,10 @@ stocks:
 - SUVEN
 - ZOTA
 tags:
-- preferential-allotment
-- equity-shares
+- equity
 - listing
-- lock-in-period
+- lock-in
+- preferential-issue
 title: Listing of Further Issues of Securities - Preferential Allotment
 ---
 

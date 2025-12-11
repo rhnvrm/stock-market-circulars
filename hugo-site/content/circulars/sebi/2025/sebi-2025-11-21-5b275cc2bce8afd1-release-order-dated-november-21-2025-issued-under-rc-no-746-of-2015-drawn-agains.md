@@ -30,14 +30,12 @@ stocks:
 - AARTIDRUGS
 - HAVELLS
 tags:
-- release-order
-- recovery-certificate
 - enforcement
-- market-manipulation
-- aarti-industries
-- aarti-drugs
 - havells-india
 - lyka-labs
+- market-operations
+- recovery
+- release
 - tasc-pharmaceuticals
 title: Release Order dated November 21, 2025 issued under RC No. 746 of 2015 drawn
   against Bela H. Kayastha

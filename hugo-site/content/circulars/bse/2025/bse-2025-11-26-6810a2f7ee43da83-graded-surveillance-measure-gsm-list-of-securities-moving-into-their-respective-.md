@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - KAPILCOT
-- PHAARMASIA
+- PHRMASI
 - SHIVANSH
 - SUNGOLD
 - GOPALSTL
@@ -35,11 +35,10 @@ stocks:
 - NAGARJAGR
 - SENTHIL
 tags:
-- gsm
+- market-operations
+- regulatory
 - surveillance
-- market-monitoring
 - trading-restrictions
-- regulatory-action
 title: Graded Surveillance Measure (GSM) - Securities Moving to Stages I, II, and
   III
 ---

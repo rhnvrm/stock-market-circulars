@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- information-disclosure
-- fiduciary-capacity
-- compliance-documents
 - capitalaim-financial
+- compliance-documents
+- fiduciary-capacity
+- information-disclosure
+- rti
 title: RTI Appeal No. 6513 of 2025 - Nand Lal vs SEBI CPIO - Information Exemption
   under Fiduciary Capacity
 ---

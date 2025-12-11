@@ -31,9 +31,9 @@ stocks:
 - ICICIBANK
 - ITC
 tags:
-- listing
-- equity-shares
+- equity
 - esop
+- listing
 - preferential-issue
 - trading
 title: Listing of Further Issues of Securities - Multiple Companies

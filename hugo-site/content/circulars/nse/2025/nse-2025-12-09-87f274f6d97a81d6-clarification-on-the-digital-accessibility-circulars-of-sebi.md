@@ -27,14 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- regulated-entities
-- sebi-circular
+- digital-accessibility
+- intermediary
 - investor-charter
-- scores
-- accessibility-audit
 - reporting-requirements
+- scores
+- sebi
 title: Clarification on Digital Accessibility Requirements for Regulated Entities
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - KPDL
 tags:
-- debt
-- debentures
-- redemption
 - corporate-action
-- kolte-patil
+- debt-securities
 - face-value-reduction
-- KPDL
+- kolte-patil
+- ncd
+- redemption
 title: Part Redemption of Debentures of KOLTE-PATIL DEVELOPERS LTD
 ---
 

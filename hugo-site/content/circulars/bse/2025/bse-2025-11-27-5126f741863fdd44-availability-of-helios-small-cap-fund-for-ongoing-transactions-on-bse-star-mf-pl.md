@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity-scheme
 - helios-small-cap-fund
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-scheme
 title: HELIOS SMALL CAP FUND Reopening for Transactions on BSE StAR MF Platform
 ---
 

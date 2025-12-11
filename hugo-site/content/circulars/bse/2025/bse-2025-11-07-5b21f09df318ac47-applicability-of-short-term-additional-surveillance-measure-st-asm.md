@@ -30,7 +30,7 @@ stocks:
 - CONTAINE
 - EXXARO
 - ONEGLOBAL
-- PANTHINFINITY
+- PANTH
 - SARUPIND
 - SBLINFRA
 - SHIVAGRICO
@@ -51,12 +51,12 @@ stocks:
 - ANNAINFRA
 - ARAVALI
 tags:
-- surveillance
-- st-asm
-- market-regulation
-- trading-restrictions
-- sme
+- asm-stage
+- market-operations
 - risk-management
+- sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

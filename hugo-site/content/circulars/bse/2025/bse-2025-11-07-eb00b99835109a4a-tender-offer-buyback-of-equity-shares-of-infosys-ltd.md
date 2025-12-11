@@ -27,10 +27,10 @@ stocks:
 - INFY
 tags:
 - buyback
-- tender-offer
-- record-date
 - corporate-action
 - infosys
+- record-date
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of INFOSYS LTD
 ---
 

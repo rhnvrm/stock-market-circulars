@@ -35,10 +35,10 @@ stocks:
 - LLOYDS
 - MAESTROS
 tags:
-- surveillance
-- st-asm
-- trading-measures
+- asm-stage
 - market-operations
+- surveillance
+- trading-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

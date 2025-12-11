@@ -28,14 +28,13 @@ source: nse
 stocks:
 - DSKUL
 tags:
-- offer-for-sale
-- settlement
-- ofs
-- ds-kulkarni
 - clearing
-- settlement-calendar
+- ds-kulkarni
 - institutional
+- ofs
 - retail
+- settlement
+- settlement-calendar
 title: Settlement Calendar for Offer for Sale of D S Kulkarni Developers Limited
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - IRBINVIT
 tags:
-- listing
-- new-securities
-- preferential-allotment
-- units
 - invit
+- listing
 - lock-in
+- new-securities
+- preferential-issue
+- units
 title: Listing of New Securities of IRB InvIT Fund
 ---
 

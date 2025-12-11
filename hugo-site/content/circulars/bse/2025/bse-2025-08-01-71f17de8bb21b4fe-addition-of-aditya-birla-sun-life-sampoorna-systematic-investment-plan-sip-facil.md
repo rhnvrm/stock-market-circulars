@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- sip
-- systematic-investment
-- star-mf
 - aditya-birla
-- registration
+- mutual-fund
 - platform-enhancement
+- registration
+- sip
+- star-mf
+- systematic-investment
 title: Addition of Aditya Birla Sun Life Sampoorna Systematic Investment Plan (SIP)
   facility on BSE StAR MF platform
 ---

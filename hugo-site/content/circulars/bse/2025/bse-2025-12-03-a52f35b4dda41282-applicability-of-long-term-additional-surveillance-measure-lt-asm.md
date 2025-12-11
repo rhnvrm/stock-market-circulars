@@ -30,11 +30,10 @@ stocks:
 - NOVELIX
 - ARIGATO
 tags:
-- lt-asm
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
 - trading-restrictions
-- market-integrity
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -27,15 +27,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf-fof
-- subscription
+- groww
+- mutual-fund
+- nifty-capital-markets
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- groww
-- nifty-capital-markets
 title: Availability of GROWW NIFTY CAPITAL MARKETS ETF FOF for Ongoing Transactions
   on BSE StAR MF Platform
 ---

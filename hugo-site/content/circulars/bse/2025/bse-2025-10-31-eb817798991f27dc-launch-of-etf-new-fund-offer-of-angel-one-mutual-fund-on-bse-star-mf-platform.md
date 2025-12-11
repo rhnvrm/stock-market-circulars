@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- etf
-- nfo
-- mutual-fund
 - angel-one
 - equity
+- etf
+- mutual-fund
+- nfo
 - star-mf
-- new-fund-offer
 title: Launch of ETF New Fund Offer of ANGEL ONE Mutual Fund on BSE StAR MF Platform
 ---
 

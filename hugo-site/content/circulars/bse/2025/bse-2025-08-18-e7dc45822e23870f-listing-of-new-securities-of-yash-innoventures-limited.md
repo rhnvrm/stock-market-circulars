@@ -26,11 +26,9 @@ source: bse
 stocks:
 - YASHINNO
 tags:
+- equity
 - listing
-- equity-shares
-- amalgamation
 - scheme-of-arrangement
-- yash-innoventures
 title: Listing of new securities of Yash Innoventures Limited
 ---
 

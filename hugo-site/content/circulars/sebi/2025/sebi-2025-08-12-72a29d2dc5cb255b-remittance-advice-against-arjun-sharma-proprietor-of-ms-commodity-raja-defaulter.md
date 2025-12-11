@@ -26,10 +26,10 @@ source: sebi
 stocks: []
 tags:
 - defaulter
-- recovery
-- investment-advisory
-- unregistered-activities
 - enforcement
+- investment-adviser
+- recovery
+- unregistered-activities
 title: Remittance Advice against Arjun Sharma (Proprietor of M/s Commodity Raja) -
   Recovery Certificate No. 8772 of 2025
 ---

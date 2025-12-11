@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- keertana-finserv
 - listing
 - ncd
 - private-placement
-- keertana-finserv
 title: Listing of New Debt Securities of Keertana Finserv Limited
 ---
 

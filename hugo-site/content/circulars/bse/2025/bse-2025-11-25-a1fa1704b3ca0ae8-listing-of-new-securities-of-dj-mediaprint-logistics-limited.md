@@ -27,12 +27,12 @@ source: bse
 stocks:
 - DJMEDIA
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
-- lock-in
 - company-related
+- conversion
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of DJ Mediaprint & Logistics Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - etf
+- f-group
+- gsec
 - listing
 - mutual-fund
-- government-securities
 - zerodha
-- f-group
 title: Listing of Units Of Zerodha Nifty 8-13 Yr G-Sec ETF on BSE
 ---
 

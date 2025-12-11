@@ -29,12 +29,11 @@ stocks:
 - BESTAGRO
 - HALDER
 tags:
-- surveillance
-- price-movement
-- volume-increase
 - clarification
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies on price and volume movements
 ---
 

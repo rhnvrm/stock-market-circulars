@@ -26,10 +26,9 @@ source: bse
 stocks:
 - SODHACAP
 tags:
+- equity
 - listing
 - sme
-- new-listing
-- equity-shares
 title: Listing of Equity Shares of SODHANI CAPITAL LIMITED
 ---
 

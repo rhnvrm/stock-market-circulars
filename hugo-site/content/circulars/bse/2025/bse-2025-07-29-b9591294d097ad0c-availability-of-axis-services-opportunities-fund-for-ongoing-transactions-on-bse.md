@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- star-mf
 - axis-mutual-fund
-- fund-reopening
+- mutual-fund
+- reopening
 - sip
+- star-mf
 - stp
 - swp
 title: AXIS SERVICES OPPORTUNITIES FUND Reopening for Ongoing Transactions on BSE

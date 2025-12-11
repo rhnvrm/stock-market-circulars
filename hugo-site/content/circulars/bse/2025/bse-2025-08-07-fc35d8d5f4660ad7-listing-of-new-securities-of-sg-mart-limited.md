@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SGMART
 tags:
-- equity-listing
-- preferential-allotment
-- bonus-shares
-- warrant-conversion
-- lock-in-period
-- sg-mart
+- bonus
+- conversion
+- equity
+- lock-in
+- preferential-issue
 title: Listing of New Securities of SG MART LIMITED - Preferential Allotment and Bonus
   Shares
 ---

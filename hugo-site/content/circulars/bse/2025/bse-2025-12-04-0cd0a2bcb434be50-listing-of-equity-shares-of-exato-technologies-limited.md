@@ -26,11 +26,9 @@ source: bse
 stocks:
 - EXATO
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- exato
 title: Listing of Equity Shares of EXATO TECHNOLOGIES LIMITED
 ---
 

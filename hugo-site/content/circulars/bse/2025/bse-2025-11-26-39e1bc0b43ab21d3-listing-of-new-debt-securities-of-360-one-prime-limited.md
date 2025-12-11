@@ -26,12 +26,12 @@ source: bse
 stocks:
 - 360ONE
 tags:
-- debt-securities
-- listing
-- private-placement
 - 360-one-prime
-- debentures
+- debt-securities
 - icra-rated
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of 360 ONE Prime Limited
 ---
 

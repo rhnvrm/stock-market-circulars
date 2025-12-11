@@ -26,15 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- new-fund-offer
-- zerodha
-- bse-sensex
-- index-fund
-- bse-star-mf
+- bse-index
 - direct-plan
 - equity-scheme
+- index-fund
+- mutual-fund
+- nfo
+- zerodha
 title: Launch of New Fund Offer of ZERODHA BSE SENSEX INDEX FUND on BSE StAR MF Platform
 ---
 

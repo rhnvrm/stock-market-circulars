@@ -28,7 +28,7 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - trust-investment-advisors
 title: Listing of new Commercial Paper of TRUST INVESTMENT ADVISORS PRIVATE LIMITED

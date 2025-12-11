@@ -34,26 +34,25 @@ stocks:
 - BRIGHTREAL
 - VADILAL
 - AMBITIOUSPLASTO
-- AVROINDIA
+- AVROIND
 - BANGANGAPAPER
 - ENVAIRELECTRO
-- FIRSTFINTEC
-- GUJARATINVESTA
+- FIRSTFIN
+- GUJINV
 - HARIYANASHIP
 - KKALPANAINDUSTRIES
-- KKALPANAPLASTICK
+- KKPLASTICK
 - MARGTECHNO
 - NORTHLINKFISCAL
 - PARASDEFENCE
-- RAMGOPALPOLYTEX
+- RAMGOPOLY
 - SADBHAVINFRA
 - TRISHAKTI
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- long-term-asm
-- trading-measures
-- market-regulation
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

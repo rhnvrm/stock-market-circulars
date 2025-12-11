@@ -29,10 +29,10 @@ stocks:
 - DHAMPUR
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - dhampur-sugar-mills
 - kotak-mahindra-bank
+- private-placement
 title: Listing of New Commercial Paper of Dhampur Sugar Mills Ltd
 ---
 

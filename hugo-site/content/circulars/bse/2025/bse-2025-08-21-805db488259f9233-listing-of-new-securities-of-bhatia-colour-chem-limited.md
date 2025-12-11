@@ -26,10 +26,10 @@ source: bse
 stocks:
 - BHATIACOLR
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-issue
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Bhatia Colour Chem Limited
 ---
 

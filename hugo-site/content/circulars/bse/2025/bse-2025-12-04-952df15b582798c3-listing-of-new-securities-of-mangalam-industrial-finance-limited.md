@@ -28,11 +28,11 @@ source: bse
 stocks:
 - MANGALINF
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - mangalam-industrial-finance
 - new-securities
+- rights-issue
 title: Listing of 46.35 Crore Rights Issue Equity Shares of Mangalam Industrial Finance
   Limited
 ---

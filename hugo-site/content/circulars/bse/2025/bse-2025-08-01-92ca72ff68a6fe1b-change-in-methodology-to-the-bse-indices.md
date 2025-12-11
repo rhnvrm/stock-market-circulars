@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- bse-index
+- index-change
 - indices
-- methodology
-- bse-500
-- shariah
-- rebalancing
 - market-cap
+- methodology
+- shariah
 - traded-value
 title: Change in Methodology to the BSE Indices - BSE 500 and BSE 500 Shariah
 ---

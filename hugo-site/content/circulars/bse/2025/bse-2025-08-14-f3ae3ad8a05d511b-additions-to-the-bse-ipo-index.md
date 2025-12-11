@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544479'
-- '544480'
+- ALLTIME
+- JSWCEMENT
 tags:
-- index-addition
+- corporate-action
+- index-change
 - ipo-index
-- new-listings
-- corporate-actions
+- listing
 title: Additions to the BSE IPO Index - ALL TIME PLASTICS LIMITED and JSW CEMENT LIMITED
 ---
 

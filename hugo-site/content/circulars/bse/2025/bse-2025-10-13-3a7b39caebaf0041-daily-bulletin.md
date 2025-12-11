@@ -29,12 +29,12 @@ stocks:
 - BEML
 tags:
 - book-closure
-- record-date
+- corporate-action
 - dividend
 - interest-payment
-- stock-split
-- corporate-actions
-- debentures
+- ncd
+- record-date
+- split
 title: Daily Bulletin 134/2025-2026 - Book Closure, Record Dates and Corporate Actions
 ---
 

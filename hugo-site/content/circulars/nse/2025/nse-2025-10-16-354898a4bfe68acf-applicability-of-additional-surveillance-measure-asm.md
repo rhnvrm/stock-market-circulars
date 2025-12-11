@@ -26,12 +26,9 @@ source: nse
 stocks:
 - ATALREAL
 tags:
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- margin-requirements
+- asm-stage
+- margin
 - surveillance
-- atalreal
 title: Applicability of Additional Surveillance Measure (ASM) - Atal Realtech Limited
   Added to Long-Term ASM Stage I
 ---

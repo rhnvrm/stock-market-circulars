@@ -28,15 +28,15 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- stock-brokers
-- penalties
 - compliance
 - ease-of-doing-business
-- financial-disincentive
-- stock-exchanges
 - enforcement
-- samuhik-prativedan-manch
+- financial-disincentive
+- penalty
 - regulatory-framework
+- samuhik-prativedan-manch
+- stock-broker
+- stock-exchanges
 title: Ease of doing business – Rationalisation and standardisation of penalties levied
   on stock brokers by stock exchanges
 ---

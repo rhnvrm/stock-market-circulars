@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- poonawalla-fincorp
+- ncd
 - private-placement
-- non-convertible-debentures
 title: Listing of New Debt Securities of Poonawalla Fincorp Limited
 ---
 

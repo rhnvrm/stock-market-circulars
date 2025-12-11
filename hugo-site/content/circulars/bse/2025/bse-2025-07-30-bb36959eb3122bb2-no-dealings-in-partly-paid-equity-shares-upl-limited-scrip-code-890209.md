@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UPL
 tags:
-- trading-suspension
-- partly-paid-shares
-- record-date
 - call-money
-- corporate-actions
+- corporate-action
+- partly-paid
+- record-date
+- suspension
 title: No Dealings in Partly Paid Equity Shares of UPL Limited (Scrip Code 890209)
 ---
 

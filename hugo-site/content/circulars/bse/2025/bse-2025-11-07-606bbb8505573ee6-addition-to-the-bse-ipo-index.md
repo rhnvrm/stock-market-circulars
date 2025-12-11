@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544599'
+- STUDDS
 tags:
-- index
-- bse-ipo-index
 - addition
-- studds-accessories
+- bse-index
+- index-fund
 - listing
+- studds-accessories
 title: Addition to the BSE IPO INDEX - STUDDS ACCESSORIES LIMITED
 ---
 

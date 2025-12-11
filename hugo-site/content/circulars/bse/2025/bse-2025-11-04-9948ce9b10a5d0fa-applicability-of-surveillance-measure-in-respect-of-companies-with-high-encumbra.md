@@ -33,12 +33,10 @@ stocks:
 - TI
 - SHAREINDIA
 tags:
-- surveillance
+- compliance
 - encumbrance
-- promoter-pledge
-- sebi-sast
-- regulatory-compliance
-- market-surveillance
+- sast
+- surveillance
 title: Applicability of Surveillance Measure for Companies with High Promoter Encumbrance
 ---
 

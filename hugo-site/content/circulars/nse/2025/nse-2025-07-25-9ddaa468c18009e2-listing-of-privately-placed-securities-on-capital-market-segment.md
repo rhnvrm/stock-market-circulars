@@ -25,12 +25,12 @@ source: nse
 stocks:
 - PNBHFL
 tags:
-- listing
-- bonds
-- private-placement
-- debt-securities
-- pnb-housing-finance
+- bond
 - capital-market
+- debt-securities
+- listing
+- pnb-housing-finance
+- private-placement
 title: NSE Lists PNB Housing Finance Limited's 7.4342% Senior Bonds Due 2030
 ---
 

@@ -46,13 +46,12 @@ stocks:
 - TFCILTD
 - HYUNDAIMOTOR
 tags:
+- bonus
+- book-closure
 - corporate-action
 - dividend
-- bonus-issue
-- ex-date
 - record-date
-- shut-period
-- slb-securities
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issue Schedule
 ---
 

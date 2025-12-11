@@ -28,12 +28,12 @@ source: sebi
 stocks:
 - FOURSEASONS
 tags:
-- recovery-proceedings
 - collective-investment-schemes
 - enforcement
-- refund-order
-- prohibitory-order
 - four-season-farms-limited
+- prohibitory-order
+- recovery
+- refund-order
 title: Order No. 003 of 2025 dated 06.11.2025 issued under RC No. 0436 of 2014 in
   the matter of M/s Four Season Farms Limited
 ---

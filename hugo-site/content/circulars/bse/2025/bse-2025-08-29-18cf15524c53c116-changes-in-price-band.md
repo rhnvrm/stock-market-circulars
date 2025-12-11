@@ -26,7 +26,7 @@ source: bse
 stocks:
 - AALINK
 - AECL
-- APTECH
+- APTECHT
 - AUTORID
 - AVIPOLY
 - AXELPOLY
@@ -90,13 +90,13 @@ stocks:
 - PIOTEX
 - PREMIER
 - PNC
-- PRIYA
+- PRIYALT
 - PROSPECT
 - RAMA
 - RELIABLE
 - RELIC
 - RITESH
-- ROSEMERC
+- ROSEMER
 - SAB
 - SANGHVI
 - SEALMAT
@@ -119,15 +119,15 @@ stocks:
 - TWAMEV
 - UNIABEX
 - VEEFIN
-- VTM
+- VTMLTD
 - WAAREE
 - YASH
 - YOGI
 tags:
-- price-band
-- trading
 - equity
+- price-band
 - surveillance
+- trading
 title: Price Band Revisions for 99 Securities Effective September 1, 2025
 ---
 

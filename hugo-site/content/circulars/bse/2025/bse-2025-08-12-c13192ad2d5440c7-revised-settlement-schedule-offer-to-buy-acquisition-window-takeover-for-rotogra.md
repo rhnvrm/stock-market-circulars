@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ROTOGRAPHICS
 tags:
-- takeover
-- settlement
-- acquisition-window
-- rotographics
-- obligation-download
 - early-pay-in
+- obligation-download
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for Rotographics (India) Limited Takeover Acquisition
   Window
 ---

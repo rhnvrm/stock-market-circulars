@@ -26,8 +26,8 @@ stocks:
 - STLNET
 tags:
 - group-change
-- trading-classification
 - stl-networks
+- trading-classification
 title: Change in Group of Equity Shares of STL Networks Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MIDWEST
 tags:
-- index
-- bse-ipo-index
+- bse-index
+- index-change
+- index-fund
 - listing
 - midwest-limited
-- index-addition
 title: Addition to the BSE IPO Index - MIDWEST LIMITED
 ---
 

@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- futures-and-options
-- NEAT-plus
-- algorithmic-trading
+- algo-trading
 - disaster-recovery
-- testing
+- futures-options
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, December 13, 2025 - No New Version Release
 ---
 

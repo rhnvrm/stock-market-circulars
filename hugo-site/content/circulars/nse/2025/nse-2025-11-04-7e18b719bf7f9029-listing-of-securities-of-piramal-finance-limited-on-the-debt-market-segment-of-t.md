@@ -29,12 +29,10 @@ stocks:
 - PIRAMALENT
 - PIRAMALFI
 tags:
-- listing
-- debt-securities
 - commercial-paper
+- debt-securities
+- listing
 - scheme-of-arrangement
-- piramal-finance
-- corporate-restructuring
 title: Listing of securities of Piramal Finance Limited on the debt market segment
   of the Exchange pursuant to Scheme of Arrangement
 ---

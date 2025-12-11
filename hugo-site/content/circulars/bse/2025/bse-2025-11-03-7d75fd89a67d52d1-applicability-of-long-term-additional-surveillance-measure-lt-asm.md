@@ -30,10 +30,9 @@ stocks:
 - GTN
 - LANCER
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-integrity
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription-suspension
-- overseas-investment
-- HSBC
-- SEBI-limits
 - fund-of-funds
-- SIP
-- STP
+- hsbc
+- mutual-fund
+- overseas-investment
+- sebi-limits
+- sip
+- stp
+- suspension
 title: Temporary Suspension of Fresh Subscriptions in Certain Schemes of HSBC Mutual
   Fund
 ---

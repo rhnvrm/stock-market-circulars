@@ -26,12 +26,12 @@ source: nse
 stocks:
 - NESTLEIND
 tags:
-- bonus-issue
-- derivatives
-- futures
-- options
-- corporate-action
 - adjustment
+- bonus
+- corporate-action
+- derivatives
+- futures-options
+- options
 title: 'BONUS: Adjustment of Futures and Options contracts in the security NESTLEIND'
 ---
 

@@ -26,11 +26,11 @@ stocks:
 - NWFL
 tags:
 - debt-securities
+- demat-trading
 - listing
+- market-linked
 - nuvama-wealth
 - private-placement
-- market-linked
-- demat-trading
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

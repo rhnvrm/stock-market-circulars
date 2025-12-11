@@ -34,19 +34,12 @@ stocks:
 - ZENITHEX
 - GORANI
 tags:
-- surveillance
-- asm
-- lt-asm
-- trading-restrictions
-- emmforce-autotech
+- asm-stage
 - expo-engineering
-- filmcity-media
 - gabriel-india
-- kemistar-corp
-- raw-edge
-- scan-projects
-- zenith-exports
 - gorani-industries
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

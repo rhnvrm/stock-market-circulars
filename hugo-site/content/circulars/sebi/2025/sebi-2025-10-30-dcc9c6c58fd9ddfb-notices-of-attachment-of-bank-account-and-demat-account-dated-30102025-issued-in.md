@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- recovery
-- attachment-order
-- unregistered-activity
-- investment-advisory
-- portfolio-management
+- investment-adviser
 - maxx-innovation
+- portfolio-management
+- recovery
+- unregistered-activity
 title: Notices of Attachment of Bank Account and Demat Account Against Jitendra Bharbhuja
   (Maxx Innovation)
 ---

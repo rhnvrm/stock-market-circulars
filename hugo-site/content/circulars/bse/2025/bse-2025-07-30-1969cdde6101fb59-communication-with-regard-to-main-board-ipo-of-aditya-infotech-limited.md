@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ADITYAINFO
 tags:
-- ipo
 - clarification
 - investor-protection
-- aditya-infotech
+- ipo
 - name-similarity
 title: BSE Clarification on Aditya Infotech Limited IPO - No Affiliation with Aditya
   Birla Group

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TRUCAP
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- trustedge-capital
+- demat
 - equity
-- dematerialized-trading
+- renunciation
+- rights-issue
+- trustedge-capital
 title: Rights Entitlements of TRUSTEDGE CAPITAL LIMITED
 ---
 

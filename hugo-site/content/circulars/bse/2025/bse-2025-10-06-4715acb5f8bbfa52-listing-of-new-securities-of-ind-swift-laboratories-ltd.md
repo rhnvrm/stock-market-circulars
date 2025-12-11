@@ -29,11 +29,11 @@ source: bse
 stocks:
 - INDSWFTLAB
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Ind-Swift Laboratories Ltd
 ---
 

@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-framework
-- risk-management
-- initial-margin
-- option-margin
-- volatility-scan-range
 - crude-oil
+- derivatives
 - gold
+- initial-margin
+- margin-framework
+- option-margin
+- risk-management
 - silver
+- volatility-control
 title: Review of Margin Framework for Commodity Derivatives Segment
 ---
 

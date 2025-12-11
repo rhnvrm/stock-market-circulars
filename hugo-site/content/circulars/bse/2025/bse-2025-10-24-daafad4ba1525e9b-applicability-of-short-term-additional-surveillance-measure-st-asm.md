@@ -52,11 +52,10 @@ stocks:
 - URSUGAR
 - BANCO
 tags:
-- surveillance
-- additional-surveillance-measure
-- ST-ASM
-- market-regulation
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

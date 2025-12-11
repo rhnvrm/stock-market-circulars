@@ -29,12 +29,11 @@ stocks:
 - GAYAPROJ
 - DHARAN
 tags:
-- suspension
-- trading-suspension
 - financial-results
-- regulation-33
+- lodr
 - non-compliance
-- listing-regulations
+- regulation-33
+- suspension
 - trade-for-trade
 - z-category
 title: Suspension of trading in securities - Gayatri Projects Limited and Dharan Infra-EPC

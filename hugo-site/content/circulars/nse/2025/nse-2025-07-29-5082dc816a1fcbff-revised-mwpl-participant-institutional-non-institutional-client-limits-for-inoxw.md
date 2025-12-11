@@ -25,11 +25,8 @@ source: nse
 stocks:
 - INOXWIND
 tags:
-- securities-lending
-- borrowing-scheme
+- collateral
 - position-limits
-- INOXWIND
-- market-wide-limits
 title: Revised MWPL, Participant, Institutional & Non-Institutional Client Limits
   for INOXWIND
 ---

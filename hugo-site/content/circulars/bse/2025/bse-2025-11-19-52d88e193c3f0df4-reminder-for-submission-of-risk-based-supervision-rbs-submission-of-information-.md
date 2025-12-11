@@ -27,15 +27,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- risk-based-supervision
-- rbs
 - compliance
-- member-oversight
-- befs
-- electronic-filing
 - data-submission
-- regulatory-reporting
+- electronic-filing
 - mandatory-filing
+- member-oversight
+- rbs
+- regulatory-reporting
+- risk-based-supervision
+- trading-platform
 title: Reminder for submission of Risk Based Supervision (RBS) - Submission of information
   for the period April 01, 2025 - September 30, 2025
 ---

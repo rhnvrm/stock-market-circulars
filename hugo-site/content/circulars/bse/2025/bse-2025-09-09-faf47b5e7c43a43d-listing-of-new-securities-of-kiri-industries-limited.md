@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KIRIINDUS
 tags:
+- conversion
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Kiri Industries Limited - Preferential Allotment
 ---
 

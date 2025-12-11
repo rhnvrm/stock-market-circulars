@@ -29,11 +29,11 @@ stocks:
 - INCRED
 tags:
 - debt-securities
-- new-listing
-- private-placement
-- market-linked-debentures
 - incred-financial
+- listing
+- market-linked-debentures
 - nifty-50-linked
+- private-placement
 title: Listing of new debt securities of InCred Financial Services Limited
 ---
 

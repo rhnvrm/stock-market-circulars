@@ -27,10 +27,10 @@ stocks:
 - VEDL
 tags:
 - debt-securities
-- trading-suspension
 - maturity
+- ncd
+- suspension
 - vedanta-limited
-- debentures
 title: Suspension of Trading in Debt Securities of Vedanta Limited
 ---
 

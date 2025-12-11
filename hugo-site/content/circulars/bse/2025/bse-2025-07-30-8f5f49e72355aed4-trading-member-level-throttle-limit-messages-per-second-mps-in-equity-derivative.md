@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- trading-operations
 - mps
 - throttle-limit
 - trading-member
+- trading-operations
 title: Extension of MPS Assignment Cut-off Time for Equity Derivatives Trading
 ---
 

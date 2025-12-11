@@ -25,8 +25,8 @@ severity: high
 source: bse
 stocks: []
 tags:
-- cybersecurity
 - compliance
+- cybersecurity
 - regulatory-framework
 - sebi-regulated-entities
 - technical-clarifications

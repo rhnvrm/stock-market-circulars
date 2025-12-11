@@ -26,11 +26,10 @@ source: bse
 stocks:
 - IRFC
 tags:
-- trading-suspension
 - bond-redemption
-- irfc
 - debt-securities
 - record-date
+- suspension
 title: Suspension of Trading in Bonds of Indian Railway Finance Corporation
 ---
 

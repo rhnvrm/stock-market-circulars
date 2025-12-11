@@ -59,12 +59,11 @@ stocks:
 - SUBROS
 - RATNAMANI
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- ex-date
 - record-date
-- slb-securities
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issue Updates
 ---
 

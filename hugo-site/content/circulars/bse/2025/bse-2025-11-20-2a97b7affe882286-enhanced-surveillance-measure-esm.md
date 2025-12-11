@@ -34,11 +34,9 @@ stocks:
 - TYPHOON
 - SYNTHIKO
 tags:
-- esm
+- compliance
 - surveillance
 - trading-restrictions
-- market-surveillance
-- regulatory-compliance
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

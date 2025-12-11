@@ -28,13 +28,9 @@ source: bse
 stocks:
 - CARNATION
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
 - insolvency-resolution-process
-- bankruptcy
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Carnation Industries Ltd Added
   to Stage 1
 ---

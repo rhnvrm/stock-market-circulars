@@ -34,11 +34,9 @@ stocks:
 - EXPLICITFIN
 - NATURAHUE
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework - Movement of Securities Effective
   October 31, 2025
 ---

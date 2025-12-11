@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PRAXIS
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
 - equity
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for PRAXIS HOME RETAIL LIMITED
 ---
 

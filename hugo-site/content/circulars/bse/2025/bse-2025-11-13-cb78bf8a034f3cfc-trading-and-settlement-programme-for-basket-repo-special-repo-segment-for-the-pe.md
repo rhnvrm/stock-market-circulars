@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - basket-repo
-- special-repo
-- settlement-schedule
-- debt-market
+- debt-securities
 - repo-segment
+- settlement
+- special-repo
 - trading-schedule
 title: Trading and Settlement Programme for Basket Repo & Special Repo Segment for
   December 2025

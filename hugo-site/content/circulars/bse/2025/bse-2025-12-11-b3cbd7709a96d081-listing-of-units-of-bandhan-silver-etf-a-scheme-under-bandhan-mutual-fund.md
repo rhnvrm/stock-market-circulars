@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- bandhan-mutual-fund
 - etf
 - listing
-- silver-etf
-- bandhan-mutual-fund
-- exchange-traded-fund
 - market-makers
+- mutual-fund
+- silver
 title: Listing of Units of Bandhan Silver ETF a scheme under Bandhan Mutual Fund
 ---
 

@@ -27,17 +27,17 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- telecom-regulation
 - 1600-series
-- bfsi
-- customer-protection
 - anti-spam
+- bfsi
+- commercial-communications
+- customer-protection
+- numbering-series
+- pfrda-regulated
 - rbi-regulated
 - sebi-regulated
-- pfrda-regulated
-- numbering-series
-- commercial-communications
+- telecom-regulation
+- trai
 title: Telecom Regulatory Authority of India (TRAI) Direction dated 19.11.2025 - Mandatory
   Phase-wise Adoption of 1600-Series Numbers
 ---

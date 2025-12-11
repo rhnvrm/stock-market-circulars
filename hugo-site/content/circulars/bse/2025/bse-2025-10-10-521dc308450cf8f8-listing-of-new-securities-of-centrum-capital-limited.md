@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CENTRUM
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- non-promoters
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Centrum Capital Limited
 ---
 

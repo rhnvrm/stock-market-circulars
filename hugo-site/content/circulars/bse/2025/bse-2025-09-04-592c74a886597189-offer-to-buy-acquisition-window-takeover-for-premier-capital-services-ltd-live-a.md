@@ -26,11 +26,9 @@ source: bse
 stocks:
 - PREMCAP
 tags:
-- takeover
-- acquisition
 - otb
-- offer-to-buy
 - premier-capital-services
+- takeover
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for PREMIER CAPITAL SERVICES LTD
   - Live Activities Schedule

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - AVANSE
 tags:
+- avanse-financial
+- bond
 - debt-securities
 - listing
 - private-placement
-- avanse-financial
-- corporate-bonds
 title: Listing of new debt securities of Avanse Financial Services Limited
 ---
 

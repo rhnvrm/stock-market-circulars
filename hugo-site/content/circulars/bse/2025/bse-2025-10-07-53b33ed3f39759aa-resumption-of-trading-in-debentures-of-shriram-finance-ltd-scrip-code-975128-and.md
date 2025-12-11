@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- debentures
-- trading-resumption
+- corporate-action
+- debt-securities
+- ncd
 - put-option
-- debt-market
-- corporate-actions
-- shriram-finance
+- trading-resumption
 title: Resumption of Trading in Debentures of SHRIRAM FINANCE LTD (Scrip Code 975128
   and 975129)
 ---

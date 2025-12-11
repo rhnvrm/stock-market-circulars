@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SHEEL
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Sheel Biotech Limited (SME IPO)
 ---
 

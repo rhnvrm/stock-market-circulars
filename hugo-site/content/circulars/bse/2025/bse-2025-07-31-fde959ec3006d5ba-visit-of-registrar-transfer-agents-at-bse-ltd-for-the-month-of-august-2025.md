@@ -35,10 +35,9 @@ stocks:
 - BAJAJ
 - VISAGAR
 tags:
-- rta
-- registrar-transfer-agents
 - adroit-corporate
 - august-2025
+- rta
 - visit-schedule
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for the month of August 2025
 ---

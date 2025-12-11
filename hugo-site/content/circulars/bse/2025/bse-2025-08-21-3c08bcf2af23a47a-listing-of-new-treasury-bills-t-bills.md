@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- debt-instruments
+- debt-securities
+- gsec
 - listing
-- government-securities
-- t-bills
+- treasury-bills
 title: Listing of New Treasury Bills (T-Bills) - Three New Issues Available for Trading
 ---
 

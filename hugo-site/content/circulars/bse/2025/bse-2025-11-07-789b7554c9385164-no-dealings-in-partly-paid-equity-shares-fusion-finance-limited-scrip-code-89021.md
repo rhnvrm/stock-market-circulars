@@ -26,12 +26,11 @@ source: bse
 stocks:
 - FUSIONFI
 tags:
-- no-dealings
-- partly-paid-shares
 - call-money
+- no-dealings
+- partly-paid
 - record-date
-- fusion-finance
-- trading-suspension
+- suspension
 title: No Dealings in Partly Paid Equity Shares - Fusion Finance Limited
 ---
 

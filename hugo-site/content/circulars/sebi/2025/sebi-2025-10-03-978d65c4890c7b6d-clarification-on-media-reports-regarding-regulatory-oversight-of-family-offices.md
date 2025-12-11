@@ -27,9 +27,9 @@ source: sebi
 stocks: []
 tags:
 - family-offices
-- regulatory-clarification
 - media-reports
 - press-release
+- regulatory-clarification
 title: Clarification on Media Reports regarding Regulatory Oversight of Family Offices
 ---
 

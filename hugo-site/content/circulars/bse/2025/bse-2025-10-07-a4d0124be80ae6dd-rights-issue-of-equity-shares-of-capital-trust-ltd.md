@@ -26,14 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- CAPITALTRUST
+- CAPTRUST
 tags:
-- rights-issue
-- corporate-action
-- equity-shares
 - capital-trust
-- ex-rights
+- corporate-action
+- equity
 - record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Capital Trust Ltd - 1:1 Ratio at Rs 14 per Share
 ---
 

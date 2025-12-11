@@ -26,12 +26,11 @@ source: nse
 stocks:
 - MSCIADD
 tags:
+- dsp-mutual-fund
 - etf
 - listing
-- dsp-mutual-fund
-- msci-india
-- new-listing
 - market-makers
+- msci-india
 title: Listing of DSP MSCI India ETF Units on NSE
 ---
 

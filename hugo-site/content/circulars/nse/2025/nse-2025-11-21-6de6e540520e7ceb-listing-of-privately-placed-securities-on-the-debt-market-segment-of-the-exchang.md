@@ -32,19 +32,17 @@ stocks:
 - NUVOCO
 - GODREJAGRO
 tags:
-- debt-market
+- aditya-birla-capital
+- aditya-birla-money
 - commercial-paper
+- debt-securities
+- hdfc-securities
+- hsbc-investdirect
+- icici-securities
+- jio-credit
 - listing
+- nuvoco-vistas
 - private-placement
-- HDFC-Securities
-- ICICI-Securities
-- Aditya-Birla-Money
-- Godrej-Industries
-- Aditya-Birla-Capital
-- Nuvoco-Vistas
-- Godrej-Agrovet
-- Jio-Credit
-- HSBC-Investdirect
 title: Listing of privately placed securities on the debt market segment of the Exchange
 ---
 

@@ -80,12 +80,11 @@ stocks:
 - DOMS
 - INDIASHLTR
 tags:
-- slbs
-- position-limits
-- securities-lending
-- borrowing-scheme
+- collateral
 - etf
 - market-limits
+- position-limits
+- slbs
 title: Market Wide Position Limits for Stocks Traded Under SLBS – December 2025
 ---
 

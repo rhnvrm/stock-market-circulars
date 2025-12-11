@@ -30,7 +30,7 @@ stocks:
 - CUBICAL
 - GORANI
 - GUJAPOLLO
-- HAMPSBIO
+- HAMPS
 - JAINCO
 - JAYKAILASH
 - JETFREIGHT
@@ -53,13 +53,13 @@ stocks:
 - SRMENERGY
 - TAYLORMADE
 - TRADEWELL
-- TRITONCORP
-- YASHCHEMEX
+- TRITON
+- YASHCHEM
 tags:
-- price-band
-- trading-parameters
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Revision of Price Bands for 30 Securities Effective December 8, 2025
 ---
 

@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fund-of-fund
-- bse-star-mf
 - edelweiss
-- subscription
+- fund-of-funds
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: EDELWEISS MULTI ASSET OMNI FUND OF FUND Reopening for Ongoing Transactions
   on BSE StAR MF Platform

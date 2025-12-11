@@ -24,10 +24,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- bse-star-mf
 - franklin-templeton
 - hybrid-funds
+- mutual-fund
 - reopening
 title: Franklin India Multi Asset Allocation Fund Reopening for Ongoing Transactions
 ---

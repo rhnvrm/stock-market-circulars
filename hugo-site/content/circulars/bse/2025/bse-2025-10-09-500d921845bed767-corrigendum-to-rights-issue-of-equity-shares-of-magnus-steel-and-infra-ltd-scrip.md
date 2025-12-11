@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MAGNSTL
 tags:
-- rights-issue
+- corporate-action
 - corrigendum
-- equity-shares
-- corporate-actions
+- equity
 - magnus-steel
+- rights-issue
 title: Corrigendum to Rights Issue of Equity Shares of Magnus Steel and Infra Ltd
 ---
 

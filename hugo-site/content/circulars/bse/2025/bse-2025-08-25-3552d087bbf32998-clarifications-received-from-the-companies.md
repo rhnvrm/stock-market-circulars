@@ -28,12 +28,10 @@ stocks:
 - RSIL
 - ELITECON
 tags:
-- volume-movement
-- surveillance
-- clarifications
+- clarification
 - disclosure
-- RSIL
-- ELITECON
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding volume movement
 ---
 

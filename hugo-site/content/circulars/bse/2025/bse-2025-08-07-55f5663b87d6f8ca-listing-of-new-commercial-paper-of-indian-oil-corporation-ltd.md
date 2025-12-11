@@ -26,10 +26,9 @@ stocks:
 - IOCL
 tags:
 - commercial-paper
-- debt-listing
-- iocl
+- debt-securities
+- demat
 - private-placement
-- dematerialized-trading
 title: Listing of new Commercial Paper of Indian Oil Corporation Ltd
 ---
 

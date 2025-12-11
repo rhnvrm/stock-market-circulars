@@ -26,11 +26,9 @@ source: bse
 stocks:
 - INTEGRATED
 tags:
-- forfeiture
-- share-forfeiture
-- integrated-proteins
-- corrigendum
 - compliance
+- corrigendum
+- forfeiture
 title: Corrigendum to Forfeiture Notice of Integrated Proteins Ltd
 ---
 

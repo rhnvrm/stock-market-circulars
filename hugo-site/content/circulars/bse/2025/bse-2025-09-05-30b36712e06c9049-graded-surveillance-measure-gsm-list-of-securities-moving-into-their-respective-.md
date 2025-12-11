@@ -29,11 +29,10 @@ stocks:
 - GOLECHHA
 - PHOTON
 tags:
-- gsm
+- market-operations
+- risk-management
 - surveillance
 - trading
-- risk-management
-- market-regulation
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

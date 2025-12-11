@@ -28,16 +28,16 @@ severity: high
 source: bse
 stocks: []
 tags:
+- commercial-paper
+- debt-securities
+- lodr
 - master-circular
+- municipal-debt-securities
 - non-convertible-securities
+- regulatory-consolidation
+- regulatory-framework
 - securitised-debt-instruments
 - security-receipts
-- municipal-debt-securities
-- commercial-paper
-- sebi-regulations
-- debt-market
-- listing-regulations
-- regulatory-consolidation
 title: Master Circular for Issue and Listing of Non-Convertible Securities, Securitised
   Debt Instruments, Security Receipts, Municipal Debt Securities and Commercial Paper
 ---

@@ -27,10 +27,9 @@ source: nse
 stocks:
 - BEML
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- BEML
+- face-value-change
+- split
 title: Face Value Split - BEML Limited (BEML)
 ---
 

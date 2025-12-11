@@ -26,9 +26,9 @@ stocks:
 - KFL
 tags:
 - debt-securities
+- kanakadurga-finance
 - listing
 - private-placement
-- kanakadurga-finance
 title: Listing of new debt securities of Kanakadurga Finance Limited
 ---
 

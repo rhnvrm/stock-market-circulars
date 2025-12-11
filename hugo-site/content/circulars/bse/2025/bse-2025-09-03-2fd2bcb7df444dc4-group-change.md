@@ -24,11 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RBDENIMS
+- RNBDENIMS
 tags:
-- group-change
-- corporate-actions
+- corporate-action
 - equity
+- group-change
 - trading
 title: Group Change for R&B Denims Ltd from Group X to Group B
 ---

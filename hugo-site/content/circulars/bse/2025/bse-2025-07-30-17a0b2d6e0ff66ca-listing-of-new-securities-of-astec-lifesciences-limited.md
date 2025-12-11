@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ASTEC
 tags:
+- astec-lifesciences
+- equity
 - listing
 - rights-issue
-- equity-shares
-- astec-lifesciences
 title: Listing of new Securities of Astec Lifesciences Limited
 ---
 

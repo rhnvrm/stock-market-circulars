@@ -27,11 +27,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-regulations
-- investment-advisers
-- regulatory-amendment
 - compliance
+- investment-adviser
 - qualification-requirements
+- regulatory-amendment
+- regulatory-framework
 - terminology-changes
 title: SEBI Second Amendment to Investment Advisers Regulations 2013
 ---

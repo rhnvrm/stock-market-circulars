@@ -30,10 +30,9 @@ stocks:
 - SHALPAINTS
 tags:
 - encumbrance
-- surveillance
-- promoter-pledging
-- sast-regulation
 - risk-management
+- sast
+- surveillance
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

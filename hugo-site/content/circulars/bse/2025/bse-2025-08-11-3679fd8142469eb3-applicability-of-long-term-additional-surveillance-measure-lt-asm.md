@@ -28,11 +28,11 @@ stocks:
 - ARYANSHARE
 - GAYATRIBIO
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
-- market-operations
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Long Term Additional Surveillance Measure (LT-ASM) Framework Updates - August
   2025
 ---

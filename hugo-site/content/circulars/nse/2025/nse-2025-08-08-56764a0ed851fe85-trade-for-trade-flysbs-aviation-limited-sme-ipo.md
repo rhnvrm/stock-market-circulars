@@ -26,11 +26,10 @@ source: nse
 stocks:
 - FLYSBS
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
-- trading-segment
-- flysbs
+- sme
+- trade-for-trade
+- trading
 title: Trade for Trade - FlySBS Aviation Limited (SME IPO)
 ---
 

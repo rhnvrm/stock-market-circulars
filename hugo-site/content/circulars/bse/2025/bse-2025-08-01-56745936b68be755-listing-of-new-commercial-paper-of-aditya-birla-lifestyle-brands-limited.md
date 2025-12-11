@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ABLB
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - aditya-birla
+- commercial-paper
+- debt-securities
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of Aditya Birla Lifestyle Brands Limited
 ---
 

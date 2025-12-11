@@ -26,12 +26,11 @@ source: nse
 stocks:
 - IOC
 tags:
-- futures
-- options
 - adjustment
 - corporate-action
 - derivatives
-- IOC
+- futures-options
+- options
 title: Adjustment of Futures and Options Contracts in the Security INDIAN OIL CORPORATION
   LIMITED (IOC)
 ---

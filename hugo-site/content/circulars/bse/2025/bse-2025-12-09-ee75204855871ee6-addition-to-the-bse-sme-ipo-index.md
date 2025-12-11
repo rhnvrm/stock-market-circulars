@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544630'
+- HELLOJI
 tags:
-- index
-- sme
+- helloji-holidays
+- index-fund
 - ipo
 - listing
-- helloji-holidays
+- sme
 title: Addition to the BSE SME IPO INDEX
 ---
 

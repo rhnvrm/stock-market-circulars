@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- VRWOODART
+- VRWODAR
 tags:
-- takeover
-- settlement
-- acquisition
-- offer-to-buy
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for V. R.
   WOODART LIMITED
 ---

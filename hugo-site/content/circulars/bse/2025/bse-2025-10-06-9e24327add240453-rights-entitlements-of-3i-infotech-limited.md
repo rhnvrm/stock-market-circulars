@@ -26,12 +26,11 @@ source: bse
 stocks:
 - 3IINFO
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
 - equity
+- renunciation
+- rights-issue
+- t1-settlement
 - trading
-- t+1-settlement
 title: Rights Entitlements of 3I INFOTECH LIMITED
 ---
 

@@ -24,27 +24,26 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544390'
-- '543275'
-- '535755'
-- '532843'
-- '500093'
-- '500271'
-- '500257'
-- '532754'
-- '500420'
-- '543396'
-- '500480'
-- '532827'
-- '500850'
-- '532779'
-- '543220'
+- ENRIN
+- ANURAS
+- ABFRL
+- FORTIS
+- CGPOWER
+- MFSL
+- LUPIN
+- GMRAIRPORT
+- TORNTPHARM
+- PAYTM
+- CUMMINSIND
+- PAGEIND
+- INDHOTEL
+- TORNTPOWER
+- MAXHEALTH
 tags:
-- index-reconstitution
 - bse-indices
-- portfolio-rebalancing
-- index-changes
+- index-change
 - market-structure
+- portfolio-rebalancing
 title: Reconstitution of BSE Indices - Multiple Index Changes Effective September
   22, 2025
 ---

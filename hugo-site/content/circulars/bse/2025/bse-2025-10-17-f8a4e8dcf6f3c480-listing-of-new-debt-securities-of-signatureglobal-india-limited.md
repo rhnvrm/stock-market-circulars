@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SIGNATUREGLOBAL
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- signatureglobal
-- non-convertible-debentures
-- corporate-bonds
 title: Listing of New Debt Securities of SIGNATUREGLOBAL (INDIA) LIMITED
 ---
 

@@ -27,11 +27,10 @@ stocks:
 - PACL
 tags:
 - attachment-release
+- enforcement
+- himlaksh-tradelinks
 - immovable-property
 - prohibitory-order
-- enforcement
-- pacl
-- himlaksh-tradelinks
 title: Release of attachment on immovable property attached vide Prohibitory Order
   No. 335 of 2022 dated November 23, 2022 of Himlaksh Tradelinks Pvt Ltd., Mr. Karan
   Singh Shekhawat and Ms. Meena Shekhavat in the matter of PACL Ltd.

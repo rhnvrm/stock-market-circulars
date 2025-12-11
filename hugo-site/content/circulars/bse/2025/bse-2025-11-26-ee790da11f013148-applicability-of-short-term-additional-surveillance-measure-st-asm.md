@@ -35,17 +35,16 @@ stocks:
 - JHANDEWALAS
 - MAESTROS
 - OLATECH
-- PHAARMASIA
+- PHRMASI
 - PIONEER
 - TITAANIUM
 - VASUNDHARA
 - VIVID
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-integrity
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ESSEX
 tags:
-- listing
-- equity-shares
-- sme
-- new-listing
+- equity
 - essex-marine
+- listing
+- sme
 title: Listing of Equity Shares of ESSEX MARINE LIMITED
 ---
 

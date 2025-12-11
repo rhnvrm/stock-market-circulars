@@ -28,13 +28,12 @@ stocks:
 - HDFCAMC
 tags:
 - derivatives
+- fpi
+- mutual-fund
 - position-limits
-- mwpl
 - risk-management
 - settlement
 - stock-derivatives
-- fpi
-- mutual-funds
 title: Revised MWPL Position Limits for HDFC Asset Management Company Limited
 ---
 

@@ -28,12 +28,12 @@ source: sebi
 stocks:
 - FOURSEASONS
 tags:
-- recovery-proceedings
 - collective-investment-schemes
-- investor-refund
-- enforcement-action
-- prohibitory-order
+- enforcement
 - four-season-farms
+- investor-refund
+- prohibitory-order
+- recovery
 title: Order No. 004 of 2025 - Recovery Proceedings Against Four Season Farms Limited
 ---
 

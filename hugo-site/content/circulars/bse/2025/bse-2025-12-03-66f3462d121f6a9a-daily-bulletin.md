@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- record-date
-- interest-payment
-- debt-securities
-- commercial-paper
-- redemption
 - book-closure
+- commercial-paper
+- debt-securities
+- interest-payment
+- record-date
+- redemption
 title: Daily Bulletin 168/2025-2026 - Book Closure and Record Dates
 ---
 

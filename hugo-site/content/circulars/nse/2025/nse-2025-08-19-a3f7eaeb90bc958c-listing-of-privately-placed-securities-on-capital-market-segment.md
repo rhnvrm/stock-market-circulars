@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- listing
+- bond
 - debt-securities
+- listing
+- ncd
 - privately-placed
-- bonds
-- debentures
 title: Listing of privately placed securities on capital market segment
 ---
 

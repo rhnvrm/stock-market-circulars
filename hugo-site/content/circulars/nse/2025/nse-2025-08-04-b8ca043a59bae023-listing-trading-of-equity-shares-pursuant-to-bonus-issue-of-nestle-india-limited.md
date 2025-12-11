@@ -26,10 +26,9 @@ source: nse
 stocks:
 - NESTLEIND
 tags:
-- bonus-issue
+- bonus
+- equity
 - listing
-- equity-shares
-- nestle-india
 - trading
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Nestle India
   Limited

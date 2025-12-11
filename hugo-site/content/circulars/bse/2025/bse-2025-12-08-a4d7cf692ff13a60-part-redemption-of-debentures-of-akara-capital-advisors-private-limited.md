@@ -27,13 +27,13 @@ source: bse
 stocks:
 - ACAPL
 tags:
-- debt
-- debentures
-- redemption
-- interest-payment
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of AKARA CAPITAL ADVISORS PRIVATE LIMITED
 ---
 

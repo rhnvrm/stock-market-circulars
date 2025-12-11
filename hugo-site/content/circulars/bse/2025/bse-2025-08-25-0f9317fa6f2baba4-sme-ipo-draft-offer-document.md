@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SHAYONA
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
 - shayona-engineering
+- sme
 title: SME IPO Draft Offer Document - Shayona Engineering Limited
 ---
 

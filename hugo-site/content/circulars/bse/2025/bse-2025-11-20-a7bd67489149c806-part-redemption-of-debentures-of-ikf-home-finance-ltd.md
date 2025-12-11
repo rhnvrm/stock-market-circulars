@@ -26,12 +26,12 @@ source: bse
 stocks:
 - IKFHFL
 tags:
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
 - ikf-home-finance
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of IKF Home Finance Ltd
 ---
 

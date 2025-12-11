@@ -30,7 +30,7 @@ stocks:
 - AMBUJA
 - ASIAN
 - BHARTI
-- BOROSIL
+- BOROLTD
 - CAPRIHANS
 - CHOLAMANDALA
 - COROMANDEL
@@ -64,7 +64,7 @@ stocks:
 - SOUTHINDIA
 - SUNPHARMA
 - TATAELXSI
-- TATAMOTORS
+- TMCV
 - THOMASCOOK
 - TIMEX
 - TRENT
@@ -74,10 +74,10 @@ stocks:
 - ZUARI
 - ZYDUS
 tags:
-- demat
 - auction
-- settlement
+- demat
 - securities
+- settlement
 title: Demat Auction Settlement No. 690
 ---
 

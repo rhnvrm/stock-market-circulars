@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '531234'
+- SCOOBEEDAY
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- scoobee-day-garments
+- rights-issue
 title: Listing of Securities - SCOOBEE DAY GARMENTS (INDIA) LIMITED
 ---
 

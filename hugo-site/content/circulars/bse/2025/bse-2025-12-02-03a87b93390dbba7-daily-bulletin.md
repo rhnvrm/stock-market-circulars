@@ -31,13 +31,13 @@ stocks:
 - ARKA
 tags:
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
-- interest-payment
 - commercial-paper
-- corporate-actions
+- corporate-action
 - debt-securities
+- dividend
+- interest-payment
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

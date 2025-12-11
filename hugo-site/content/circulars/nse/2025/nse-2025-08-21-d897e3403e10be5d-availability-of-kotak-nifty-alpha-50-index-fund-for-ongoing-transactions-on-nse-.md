@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- kotak-mutual-fund
 - index-fund
+- kotak-mutual-fund
+- mutual-fund
 - nifty-alpha-50
+- reopening
 - sip
 - stp
 - swp
-- reopening
 title: Kotak Nifty Alpha 50 Index Fund Available for Ongoing Transactions on NSE MF
   Invest Platform
 ---

@@ -30,18 +30,17 @@ stocks:
 - SHAHISHIP
 - POLYCON
 - MADHURIND
-- RAPCORP
+- RAP
 - ADISHAKTI
 - FOUNDFUEL
 - AAYUSHWEL
 - POPEESCAR
 - PROGREX
 tags:
-- gsm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-regulation
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

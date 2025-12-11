@@ -30,14 +30,13 @@ stocks:
 - CHOLAFIN
 - SUNDARMFIN
 tags:
-- listing
-- debt-securities
-- privately-placed
+- bond
 - capital-market
-- bonds
-- debentures
-- axis-bank
 - cholamandalam
+- debt-securities
+- listing
+- ncd
+- privately-placed
 - sundaram-finance
 title: Listing of Privately Placed Securities on Capital Market Segment - Three Debt
   Securities

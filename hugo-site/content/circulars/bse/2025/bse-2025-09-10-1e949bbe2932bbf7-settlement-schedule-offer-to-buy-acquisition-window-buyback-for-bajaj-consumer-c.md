@@ -27,10 +27,9 @@ stocks:
 - BAJAJCONS
 tags:
 - buyback
-- settlement
-- acquisition-window
 - early-pay-in
-- otb-platform
+- otb
+- settlement
 title: Settlement Schedule for BAJAJ CONSUMER CARE LIMITED Buyback - September 2025
 ---
 

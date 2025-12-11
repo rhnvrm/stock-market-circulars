@@ -27,11 +27,11 @@ source: nse
 stocks:
 - TCHFL
 tags:
-- listing
+- capital-market-segment
 - debt-securities
+- listing
 - private-placement
 - tata-capital-housing-finance
-- capital-market-segment
 title: Listing of Tata Capital Housing Finance Limited 7.35% 2035 Senior Debt Securities
 ---
 

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - FORTIS
 tags:
+- corporate-action
 - debt-securities
 - fortis-healthcare
-- corporate-action
-- debt-market
 title: Update Regarding Debt Securities of Fortis Healthcare Ltd
 ---
 

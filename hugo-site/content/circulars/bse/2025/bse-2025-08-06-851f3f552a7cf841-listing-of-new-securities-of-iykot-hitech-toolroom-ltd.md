@@ -25,10 +25,10 @@ source: bse
 stocks:
 - IYKOT
 tags:
-- new-securities
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- new-securities
+- rights-issue
 - trading-permission
 title: Listing of New Securities of Iykot Hitech Toolroom Ltd
 ---

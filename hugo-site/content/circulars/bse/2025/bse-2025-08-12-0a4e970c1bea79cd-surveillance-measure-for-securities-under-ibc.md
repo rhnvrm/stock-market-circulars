@@ -27,12 +27,9 @@ source: bse
 stocks:
 - JPASSOCIAT
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
 - jaiprakash-associates
+- surveillance
 title: Surveillance Measure for Securities under IBC - August 2025 Update
 ---
 

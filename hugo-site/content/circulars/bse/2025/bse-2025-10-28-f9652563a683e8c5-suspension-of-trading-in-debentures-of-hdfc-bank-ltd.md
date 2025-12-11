@@ -28,12 +28,10 @@ source: bse
 stocks:
 - HDFCBANK
 tags:
-- debentures
-- trading-suspension
-- redemption
 - interest-payment
-- non-convertible-debentures
-- HDFCBANK
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of HDFC BANK LTD.
 ---
 

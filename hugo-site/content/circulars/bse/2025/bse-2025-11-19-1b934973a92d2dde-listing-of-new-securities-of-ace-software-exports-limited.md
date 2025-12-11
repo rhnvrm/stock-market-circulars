@@ -28,11 +28,11 @@ source: bse
 stocks:
 - ACESOFT
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
-- partly-paid-shares
+- equity
+- listing
+- partly-paid
+- rights-issue
 title: Listing of 500 New Equity Shares of Ace Software Exports Limited
 ---
 

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - STARHF
 tags:
-- rights-entitlements
-- rights-issue
+- demat
 - equity
 - renunciation
-- dematerialized
-- t+1-settlement
+- rights-issue
+- t1-settlement
 - trade-for-trade
 title: Rights Entitlements Trading for STAR HOUSING FINANCE LIMITED
 ---

@@ -26,15 +26,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-proceedings
 - account-attachment
-- defaulter
-- illiquid-stock-options
-- bse
-- wellindia-securities
-- stock-brain-net
 - brain-strong-consulting
+- bse
+- defaulter
+- enforcement
+- illiquid-stock-options
+- recovery
+- stock-brain-net
+- wellindia-securities
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Wellindia
   Securities Limited (Brain Strong Consulting Limited)
 ---

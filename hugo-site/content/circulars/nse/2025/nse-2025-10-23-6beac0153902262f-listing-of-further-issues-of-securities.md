@@ -37,11 +37,11 @@ stocks:
 - SHRIRAMFIN
 - STARHEALTH
 tags:
-- listing
-- further-issues
-- esop
-- equity-shares
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - Nine Companies
 ---
 

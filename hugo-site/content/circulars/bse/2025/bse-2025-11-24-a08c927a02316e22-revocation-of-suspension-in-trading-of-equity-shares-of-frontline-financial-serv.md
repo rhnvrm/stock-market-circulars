@@ -27,12 +27,12 @@ source: bse
 stocks:
 - FRONTLINE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
-- financial-services
-- compliance
 - company-profile
+- compliance
+- equity
+- financial-services
+- release
+- suspension
 title: Revocation of Suspension in Trading of Frontline Financial Services Ltd
 ---
 

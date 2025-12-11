@@ -28,12 +28,12 @@ source: bse
 stocks:
 - COMRADE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-funding
 - lock-in
+- preferential-issue
+- promoter-funding
 title: Listing of New Equity Shares of Comrade Appliances Limited
 ---
 

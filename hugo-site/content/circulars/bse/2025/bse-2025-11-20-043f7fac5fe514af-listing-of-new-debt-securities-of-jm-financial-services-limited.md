@@ -27,11 +27,11 @@ stocks:
 - JMFINANCIL
 tags:
 - debt-securities
-- listing
-- private-placement
-- jm-financial
-- debentures
 - icra-rating
+- jm-financial
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of JM Financial Services Limited
 ---
 

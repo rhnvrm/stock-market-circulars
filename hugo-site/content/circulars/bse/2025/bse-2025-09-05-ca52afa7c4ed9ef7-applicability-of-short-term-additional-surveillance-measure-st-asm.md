@@ -38,7 +38,7 @@ stocks:
 - SHREERAM
 - SPEL
 - AEONX
-- BHARATSEATS
+- BHARATSE
 - BINNYMILLS
 - BKVIND
 - BLT
@@ -49,14 +49,11 @@ stocks:
 - CRYOGSOGS
 - DENTAWATER
 - EASTBUILD
-- ESSEXMARINE
+- ESSEX
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- short-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

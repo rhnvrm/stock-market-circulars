@@ -27,12 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
 - attachment
 - enforcement
 - generic-engineering
 - kuber-udyog
-- recovery-certificate
+- recovery
 title: Notice of Attachment dated 27.10.2025 issued under RC No. 8921 of 2025 drawn
   against Kuber Udyog Limited in the matter of Generic Engineering Construction and
   Project Limited

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - SEGMENTAL
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
-- segmental-infrastructure-development
+- sme
 title: SME IPO - Draft Offer Document - Segmental Infrastructure Development Limited
 ---
 

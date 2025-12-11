@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- liquid-fund
 - mutual-fund
-- settlement
-- trading-schedule
-- subscription
-- redemption
-- liquid-funds
 - nfo
+- redemption
+- settlement
+- subscription
+- trading-schedule
 title: Trading and Settlement Programme for Mutual Fund Segment September 2025
 ---
 

@@ -35,11 +35,10 @@ stocks:
 - LEXORAA
 - RAJPACK
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

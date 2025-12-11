@@ -31,10 +31,7 @@ tags:
 - commercial-paper
 - debt-securities
 - redemption
-- trading-suspension
-- CFHL
-- SBICAPSL
-- TCL
+- suspension
 title: Suspension of Trading in Commercial Paper - Can Fin Homes, SBICAP Securities,
   Titan Company
 ---

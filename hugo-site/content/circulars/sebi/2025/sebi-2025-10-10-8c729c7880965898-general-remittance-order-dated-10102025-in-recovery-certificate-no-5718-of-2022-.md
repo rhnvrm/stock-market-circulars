@@ -30,11 +30,9 @@ source: sebi
 stocks:
 - METALMANIND
 tags:
-- recovery-proceedings
 - enforcement
 - investor-grievances
-- recovery-certificate
-- metalman-industries
+- recovery
 title: General Remittance Order dated 10.10.2025 in Recovery Certificate No. 5718
   of 2022 - M/s. Metalman Industries Limited (Non-redressal of Investor Grievances)
 ---

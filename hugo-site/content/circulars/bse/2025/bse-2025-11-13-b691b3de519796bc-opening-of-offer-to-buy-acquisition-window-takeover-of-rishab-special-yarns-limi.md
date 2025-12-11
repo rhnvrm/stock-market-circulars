@@ -27,12 +27,10 @@ source: bse
 stocks:
 - RISHABSPL
 tags:
-- takeover
-- open-offer
-- acquisition
-- sebi-sast
 - change-in-control
 - rishab-special-yarns
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of RISHAB SPECIAL YARNS
   LIMITED
 ---

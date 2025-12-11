@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DCBBANK
 tags:
+- equity
 - listing
-- preferential-allotment
-- promoter-shareholding
 - lock-in
-- equity-shares
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of DCB Bank Limited
 ---
 

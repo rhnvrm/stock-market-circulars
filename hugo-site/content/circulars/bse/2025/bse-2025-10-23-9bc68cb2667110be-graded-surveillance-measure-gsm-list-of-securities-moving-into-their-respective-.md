@@ -46,11 +46,10 @@ stocks:
 - ACEENGI
 - OMKARPHARM
 tags:
-- gsm
+- market-operations
+- security-monitoring
 - surveillance
 - trading-restrictions
-- market-regulation
-- security-monitoring
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into GSM Stages
 ---
 

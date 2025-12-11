@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- hdfc
-- scheme-changes
-- fund-of-funds
-- sebi-framework
 - benchmark-changes
+- fund-of-funds
+- hdfc
+- mutual-fund
+- regulatory-framework
+- scheme-changes
 title: HDFC Mutual Fund Scheme Changes - Framework Alignment
 ---
 

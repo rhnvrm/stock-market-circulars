@@ -28,11 +28,11 @@ source: nse
 stocks:
 - ROCKPP
 tags:
+- emerge-platform
+- equity
 - listing
+- partly-paid
 - rights-issue
-- partly-paid-shares
-- sme-emerge
-- equity-shares
 - rockingdeals
 title: Listing of Partly Paid-up Equity Shares allotted on Rights Basis of Rockingdeals
   Circular Economy Limited

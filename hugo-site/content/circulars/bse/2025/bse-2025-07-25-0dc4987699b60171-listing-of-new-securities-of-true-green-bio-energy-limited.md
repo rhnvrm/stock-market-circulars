@@ -26,12 +26,12 @@ source: bse
 stocks:
 - TRUGREEN
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- true-green-bio-energy
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
+- true-green-bio-energy
 title: Listing of New Securities of TRUE GREEN BIO ENERGY LIMITED - 30.36 Lakh Equity
   Shares
 ---

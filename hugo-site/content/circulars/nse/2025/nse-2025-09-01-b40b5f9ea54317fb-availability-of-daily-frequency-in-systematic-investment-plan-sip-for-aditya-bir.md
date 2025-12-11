@@ -26,10 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- scheme-name-change
 - aditya-birla
 - fund-of-funds
+- mutual-fund
+- name-change
 - recategorization
 title: Change in Scheme Names of Aditya Birla Mutual Fund on NSE MF Invest Platform
 ---

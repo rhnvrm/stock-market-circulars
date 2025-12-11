@@ -26,11 +26,11 @@ source: nse
 stocks:
 - AMANTA
 tags:
-- trade-for-trade
-- rolling-segment
 - ipo
 - listing
+- rolling-segment
 - segment-transfer
+- trade-for-trade
 title: Trade for Trade - Amanta Healthcare Limited
 ---
 

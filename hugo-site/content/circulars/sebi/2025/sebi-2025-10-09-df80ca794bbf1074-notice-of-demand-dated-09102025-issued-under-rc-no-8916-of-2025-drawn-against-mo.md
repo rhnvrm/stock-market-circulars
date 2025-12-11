@@ -30,12 +30,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
+- demand-notice
 - enforcement
 - generic-engineering-construction-and-projects-limited
 - individual-liability
-- debt-recovery
+- recovery
 title: Notice of Demand dated 09.10.2025 issued under RC No. 8916 of 2025 drawn against
   Moglesh Chanappa Koni in the matter of Generic Engineering Construction and Projects
   Limited

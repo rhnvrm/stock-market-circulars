@@ -28,14 +28,12 @@ source: nse
 stocks:
 - SBIN
 tags:
-- suspension
+- call-option
+- debt-securities
 - ncd
-- non-convertible-debenture
 - privately-placed
 - redemption
-- call-option
-- debt-market
-- sbin
+- suspension
 title: Suspension of Trading in Non-Convertible Debenture (Privately Placed) - State
   Bank of India
 ---

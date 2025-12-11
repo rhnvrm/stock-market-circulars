@@ -27,11 +27,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
-- enforcement
-- family-care-hospitals
-- recovery-certificate
 - completion
+- enforcement
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8851 of 2025 against Rajnish
   Kumar Pandey in the matter of Family Care Hospitals Limited
 ---

@@ -26,8 +26,8 @@ source: nse
 stocks:
 - TORNTINV
 tags:
-- listing
 - debt-securities
+- listing
 - private-placement
 - torrent-investments
 title: Listing of privately placed securities on capital market segment

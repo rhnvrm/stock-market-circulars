@@ -26,7 +26,7 @@ stocks:
 - HDFCSEC
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - hdfc-securities
 - private-placement
 - short-term-debt

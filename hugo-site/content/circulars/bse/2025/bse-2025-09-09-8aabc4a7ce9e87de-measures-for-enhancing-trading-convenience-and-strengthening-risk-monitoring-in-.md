@@ -26,13 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- clearing-corporation
+- compliance
 - derivatives
 - position-limits
-- mwpl
 - risk-management
 - trading-ban
-- compliance
-- clearing-corporation
 title: New MWPL Methodology and Enhanced Risk Monitoring for Equity Derivatives
 ---
 

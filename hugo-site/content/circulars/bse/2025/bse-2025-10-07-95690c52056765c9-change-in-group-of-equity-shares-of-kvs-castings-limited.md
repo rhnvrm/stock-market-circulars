@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- KVSCASTINGS
+- KVSCASTING
 tags:
 - group-change
-- trading-segment
-- sme-ipo
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of KVS Castings Limited
 ---
 

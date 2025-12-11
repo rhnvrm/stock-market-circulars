@@ -30,16 +30,10 @@ stocks:
 - TANKUP
 - AGSTRA
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- margin-requirements
-- trade-for-trade
+- margin
 - price-band
-- NORBTEAEXP
-- PATTECH
-- TANKUP
-- AGSTRA
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

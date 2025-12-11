@@ -31,7 +31,7 @@ stocks:
 - PRAJAYENG
 - SHREEVATSAA
 - UNIFIEDDAT
-- HAMPSBIO
+- HAMPS
 - JAINCO
 - KALPACOMM
 - NORBENEXP
@@ -39,11 +39,9 @@ stocks:
 - SEATV
 - SHREEPACER
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-integrity
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   30, 2025
 ---

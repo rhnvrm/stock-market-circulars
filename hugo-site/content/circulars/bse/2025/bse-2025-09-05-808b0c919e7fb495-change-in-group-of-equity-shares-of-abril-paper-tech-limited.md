@@ -27,10 +27,10 @@ stocks:
 - ABRIL
 tags:
 - group-change
-- trading-segment
-- sme
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of ABRIL PAPER TECH LIMITED
 ---
 

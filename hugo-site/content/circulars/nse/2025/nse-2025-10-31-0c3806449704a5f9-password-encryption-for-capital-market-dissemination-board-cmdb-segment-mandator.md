@@ -26,13 +26,13 @@ severity: high
 source: nse
 stocks: []
 tags:
+- authentication
+- capital-market-dissemination-board
+- cmdb
+- cybersecurity
+- mandatory-compliance
 - password-reset
 - security
-- cmdb
-- capital-market-dissemination-board
-- cyber-resilience
-- authentication
-- mandatory-compliance
 title: Password Encryption for Capital Market Dissemination Board (CMDB) Segment -
   Mandatory Password Reset
 ---

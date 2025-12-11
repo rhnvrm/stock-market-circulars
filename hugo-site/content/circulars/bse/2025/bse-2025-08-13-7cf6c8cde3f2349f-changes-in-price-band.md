@@ -37,11 +37,11 @@ stocks:
 - VEERKRUPA
 - YATRA
 tags:
-- price-band
-- trading
 - equity
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: BSE Revises Price Bands for 12 Securities Effective August 14, 2025
 ---
 

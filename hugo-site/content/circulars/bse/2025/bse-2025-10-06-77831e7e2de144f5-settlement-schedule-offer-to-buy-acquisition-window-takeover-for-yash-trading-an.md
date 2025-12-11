@@ -27,11 +27,10 @@ source: bse
 stocks:
 - YASH TRADING AND FINANCE LIMITED
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
-- offer-to-buy
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for YASH TRADING
   AND FINANCE LIMITED
 ---

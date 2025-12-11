@@ -35,11 +35,11 @@ stocks:
 - BAJAJGLO
 - BAJAJSTL
 tags:
-- registrar-transfer-agents
-- rta-visits
-- corporate-services
 - adroit-corporate
 - august-2025
+- corporate-services
+- rta
+- rta-visits
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for August 2025
 ---
 

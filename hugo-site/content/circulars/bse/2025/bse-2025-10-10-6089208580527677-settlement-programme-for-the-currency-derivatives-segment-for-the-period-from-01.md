@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- currency-derivatives
-- settlement-schedule
-- settlement-programme
-- november-2025
+- derivatives
 - expiry-dates
+- november-2025
+- settlement
+- settlement-programme
 - trading-calendar
 title: Settlement Programme for Currency Derivatives Segment - November 2025
 ---

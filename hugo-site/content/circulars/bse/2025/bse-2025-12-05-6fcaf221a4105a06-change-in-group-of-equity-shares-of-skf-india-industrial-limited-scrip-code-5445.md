@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SKFINDIA
 tags:
+- asm-stage
+- equity
 - group-change
-- equity-shares
-- b-group
-- skf-india-industrial
-- trading-segment
+- trading
 title: Change in Group of Equity Shares of SKF India (Industrial) Limited (Scrip Code
   - 544572)
 ---

@@ -27,11 +27,10 @@ stocks:
 - CAPRIGLOBAL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- capri-global
-- yes-bank
 - crisil-rating
+- debt-securities
+- private-placement
+- yes-bank
 title: Listing of new Commercial Paper of Capri Global Capital Limited
 ---
 

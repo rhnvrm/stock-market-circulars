@@ -30,11 +30,10 @@ stocks:
 - INDIGOPNT
 - NATIONALUM
 tags:
-- volume-clarification
+- disclosure
+- market-operations
 - price-movement
 - surveillance
-- disclosure
-- market-driven
 title: Clarifications received from the companies
 ---
 

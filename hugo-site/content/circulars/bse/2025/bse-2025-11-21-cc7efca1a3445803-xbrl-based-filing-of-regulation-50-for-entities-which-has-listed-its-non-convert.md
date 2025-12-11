@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- xbrl
-- regulation-50
-- non-convertible-securities
-- debt
-- listing-compliance
-- disclosure-requirements
-- lodr
+- compliance
+- debt-securities
+- disclosure
 - filing-requirements
+- lodr
+- non-convertible-securities
+- regulation-50
+- xbrl
 title: XBRL Based Filing of Regulation 50 for Entities with Listed Non-Convertible
   Securities
 ---

@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - EMMBI
 tags:
-- settlement-order
 - corporate-governance
 - independent-director
-- lodr-regulations
-- promoter-classification
+- lodr
 - penalty
+- promoter-classification
+- settlement-order
 title: Settlement Order in the matter of Emmbi Industries Limited
 ---
 

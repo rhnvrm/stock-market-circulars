@@ -26,11 +26,9 @@ stocks:
 - NWIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - nuvama-wealth
 - private-placement
-- debt-segment
-- NWIL
 title: Listing of Commercial Paper by Nuvama Wealth and Investment Limited
 ---
 

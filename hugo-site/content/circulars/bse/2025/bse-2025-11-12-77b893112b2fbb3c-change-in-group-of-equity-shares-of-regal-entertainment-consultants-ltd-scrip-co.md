@@ -26,11 +26,11 @@ source: bse
 stocks:
 - REGAL
 tags:
-- group-change
-- x-group
-- regal-entertainment
-- trading-segment
+- asm-stage
 - equity
+- group-change
+- regal-entertainment
+- trading
 title: Change in Group of Equity Shares of Regal Entertainment & Consultants Ltd.
 ---
 

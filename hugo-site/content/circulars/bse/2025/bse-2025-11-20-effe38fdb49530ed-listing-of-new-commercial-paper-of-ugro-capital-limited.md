@@ -29,10 +29,10 @@ stocks:
 - UGROCAP
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- ugro-capital
 - short-term-debt
+- ugro-capital
 title: Listing of new Commercial Paper of UGRO CAPITAL LIMITED
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - BAJAJHFL
 tags:
+- bajaj-housing-finance
+- crisil-aaa
 - debt-securities
 - listing
-- bajaj-housing-finance
+- new-securities
 - private-placement
-- new-issue
-- crisil-aaa
 title: Listing of new debt securities of Bajaj Housing Finance Limited
 ---
 

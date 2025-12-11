@@ -26,10 +26,10 @@ source: bse
 stocks:
 - GEPIL
 tags:
-- scrip-id-change
-- ge-power-india
 - bolt-plus-system
-- trading-system
+- ge-power-india
+- market-infrastructure
+- scrip-id-change
 title: Change in Scrip ID of GE Power India Limited from GEPIL to GVPIL
 ---
 

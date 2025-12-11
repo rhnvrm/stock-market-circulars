@@ -25,12 +25,10 @@ source: bse
 stocks:
 - KLMAXIVA
 tags:
-- debentures
-- ncd
-- listing
+- bond
 - debt-securities
-- klm-axiva
-- secured-bonds
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of KLM Axiva Finvest
   Ltd
 ---

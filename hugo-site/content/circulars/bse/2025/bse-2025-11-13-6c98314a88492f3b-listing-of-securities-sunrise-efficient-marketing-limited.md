@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543515'
+- SEML
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - Sunrise Efficient Marketing Limited
 ---
 

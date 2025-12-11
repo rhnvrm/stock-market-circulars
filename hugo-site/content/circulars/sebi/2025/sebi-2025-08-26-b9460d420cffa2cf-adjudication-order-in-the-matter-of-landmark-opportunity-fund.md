@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- alternative-investment-fund
+- adjudication
 - aif
-- concentration-limits
+- alternative-investment-fund
 - code-of-conduct
+- concentration-limits
 - landmark-opportunity-fund
-- regulatory-violation
+- non-compliance
 title: Adjudication Order in the matter of Landmark Opportunity Fund
 ---
 

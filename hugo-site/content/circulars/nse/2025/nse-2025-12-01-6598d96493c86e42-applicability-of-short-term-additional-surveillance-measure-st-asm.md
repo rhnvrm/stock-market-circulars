@@ -31,11 +31,10 @@ stocks:
 - TUNWAL
 - VLSFINANCE
 tags:
-- surveillance
-- margin-requirements
-- ST-ASM
-- additional-surveillance-measure
+- asm-stage
+- margin
 - risk-management
+- surveillance
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM) - December
   2025

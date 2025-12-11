@@ -28,14 +28,11 @@ stocks:
 - CCL
 - GUJPIP
 tags:
-- surveillance
-- volume-movement
 - clarification
 - disclosure
-- market-driven
-- ASTRAL
-- CCL
-- GUJPIP
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

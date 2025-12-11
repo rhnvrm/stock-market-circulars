@@ -28,7 +28,7 @@ source: bse
 stocks:
 - APISIND
 - ARTIFICIALE
-- ARUNISABODE
+- ARUNIS
 - AUTORIDERS
 - BHUDEVI
 - BITS
@@ -36,7 +36,7 @@ stocks:
 - CHANDRIMA
 - CHECKPOINT
 - CORPMERCHANT
-- COVANCESOFTSOL
+- COVANCE
 - COVIDH
 - DUGARHOUSING
 - EASTINDIADRUMS
@@ -47,7 +47,7 @@ stocks:
 - GTTDATA
 - HEMHOLDINGS
 - HINDUSTANAPP
-- IMECSERVICES
+- IMEC
 - INDIANLINKCHAIN
 - INTEGRATEDIND
 - ISTREET
@@ -62,14 +62,14 @@ stocks:
 - SRICHAKRA
 - STELLANTSEC
 - SWADESHIIND
-- TAPARIATOOLS
+- TAPARIA
 - TIRTHPLAST
 - VEGAJEWEL
 tags:
-- surveillance
-- price-band
-- trading-restrictions
 - add-on-framework
+- price-band
+- surveillance
+- trading-restrictions
 title: Add-on Price Band Framework - Updated List of 39 Securities
 ---
 

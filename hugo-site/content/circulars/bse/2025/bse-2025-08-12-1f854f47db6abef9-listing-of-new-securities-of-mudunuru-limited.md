@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MUDUNURU
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- mudunuru-limited
+- conversion
+- equity
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Mudunuru Limited
 ---
 

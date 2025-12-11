@@ -26,13 +26,12 @@ source: bse
 stocks:
 - BLUESTONE
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
-- bluestone
 - jewellery
 - lifestyle
-- equity-shares
 title: BlueStone Jewellery IPO - Anchor Investor Allocation Finalized
 ---
 

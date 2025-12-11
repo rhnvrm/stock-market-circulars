@@ -31,16 +31,9 @@ stocks:
 - JPPOWER
 - PFOCUS
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trading-restrictions
-- ESFL
-- JAINAM
-- ZIMLAB
-- BCG
-- JPPOWER
-- PFOCUS
 title: Short-Term Additional Surveillance Measure (ST-ASM) Implementation
 ---
 

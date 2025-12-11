@@ -27,13 +27,13 @@ source: bse
 stocks:
 - TRUHOME
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- debt-market
+- ncd
+- redemption
 - truhome-finance
-- corporate-actions
-- reduced-face-value
 title: Part Redemption of Debentures of TRUHOME FINANCE LIMITED
 ---
 

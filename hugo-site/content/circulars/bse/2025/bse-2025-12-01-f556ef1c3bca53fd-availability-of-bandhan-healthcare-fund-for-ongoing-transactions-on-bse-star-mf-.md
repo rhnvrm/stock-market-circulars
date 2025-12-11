@@ -25,16 +25,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - bandhan-healthcare-fund
-- scheme-reopening
-- subscription
+- equity
+- mutual-fund
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
 title: Availability of BANDHAN HEALTHCARE FUND for ongoing transactions on BSE StAR
   MF Platform
 ---

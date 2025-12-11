@@ -25,12 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - enforcement
-- sharepro-services
 - mh-mills-industries
 - pan-aaacm9900g
-- recovery-certificate
+- recovery
+- sharepro-services
 title: Notice of Demand under Recovery Certificate No. 8837 of 2025 against MH Mills
   & Industries Ltd
 ---

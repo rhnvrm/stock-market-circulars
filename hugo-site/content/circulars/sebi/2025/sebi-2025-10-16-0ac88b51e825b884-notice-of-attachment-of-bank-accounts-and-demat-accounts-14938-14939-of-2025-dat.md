@@ -28,13 +28,13 @@ source: sebi
 stocks:
 - BASIL
 tags:
+- attachment
+- bank-accounts
+- basil-international
+- defaulter
+- demat
 - enforcement
 - recovery
-- attachment
-- defaulter
-- bank-accounts
-- demat-accounts
-- basil-international
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Susanto Chatterjee
   in matter of Basil International Limited
 ---

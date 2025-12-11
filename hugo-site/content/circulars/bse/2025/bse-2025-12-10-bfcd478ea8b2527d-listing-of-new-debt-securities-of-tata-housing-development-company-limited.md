@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TATAHOUSING
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- tata-housing
-- debentures
-- corporate-bonds
 title: Listing of New Debt Securities of Tata Housing Development Company Limited
 ---
 

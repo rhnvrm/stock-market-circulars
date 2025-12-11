@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- illiquid-stock-options
-- market-manipulation
-- reversal-trades
+- adjudication
 - artificial-volume
 - bse
-- pfutp-regulations
-- enforcement-action
+- enforcement
+- illiquid-stock-options
+- market-operations
+- regulatory-framework
+- reversal-trades
 title: Adjudication Order in respect of Mangalkamna Dealer Pvt. Ltd. in the matter
   of dealings in Illiquid Stock Options on BSE
 ---

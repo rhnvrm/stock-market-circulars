@@ -26,11 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- arbitrage-fund
+- jioblackrock
 - mutual-fund
 - nfo
-- new-fund-offer
-- jioblackrock
-- arbitrage-fund
 - nsemfinvest
 title: Launch of JioBlackRock Arbitrage Fund NFO on NSE MF Invest Platform
 ---

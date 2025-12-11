@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- silver-contracts
+- derivatives
 - initial-margin
-- commodity-derivatives
-- risk-management
 - margin-revision
+- risk-management
+- silver-contracts
 title: Revision in Initial Margin for Silver Contracts
 ---
 

@@ -26,13 +26,13 @@ source: sebi
 stocks:
 - HUBTOWN
 tags:
-- rti-appeal
-- appellate-authority
-- hubtown-ltd
+- appeal
+- enforcement
 - fraudulent-acts
+- hubtown-ltd
 - investigation-confidentiality
 - market-intelligence
-- enforcement-actions
+- rti
 title: RTI Appeal No. 6449 of 2025 - Ramesh Ramchandani vs CPIO SEBI regarding Hubtown
   Ltd
 ---

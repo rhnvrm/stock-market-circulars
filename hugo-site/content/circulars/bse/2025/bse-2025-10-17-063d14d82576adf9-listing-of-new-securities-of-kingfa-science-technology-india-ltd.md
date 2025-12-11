@@ -27,11 +27,11 @@ source: bse
 stocks:
 - KINGFA
 tags:
+- equity
 - listing
-- preferential-issue
-- equity-shares
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Kingfa Science & Technology (India) Ltd
 ---
 

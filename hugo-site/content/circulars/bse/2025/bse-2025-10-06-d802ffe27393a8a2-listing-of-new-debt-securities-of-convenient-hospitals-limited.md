@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- convenient-hospitals
-- non-convertible-debentures
 title: Listing of New Debt Securities of Convenient Hospitals Limited
 ---
 

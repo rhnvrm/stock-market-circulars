@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ASIANTILES
 tags:
-- new-listing
-- equity-shares
+- equity
+- listing
 - scheme-of-arrangement
-- corporate-restructuring
 title: Listing of new securities of Asian Granito India Limited
 ---
 

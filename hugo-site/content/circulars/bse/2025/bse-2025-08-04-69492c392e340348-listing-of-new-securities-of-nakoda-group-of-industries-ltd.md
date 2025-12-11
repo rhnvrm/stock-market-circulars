@@ -27,11 +27,11 @@ source: bse
 stocks:
 - NAKODA
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- listing
 - nakoda-group
+- rights-issue
 title: Listing of New Securities of Nakoda Group of Industries Ltd - Conversion of
   Partly Paid Shares
 ---

@@ -25,13 +25,13 @@ source: sebi
 stocks:
 - HDFCSEC
 tags:
-- rti-appeal
-- appellate-authority
-- hdfc-securities
+- appeal
 - delivery-instruction-slip
-- enforcement-action
-- time-barred-appeal
+- enforcement
+- hdfc-securities
 - procedural-dismissal
+- rti
+- time-barred-appeal
 title: RTI Appeal No. 6448 of 2025 - Geeta Khattar vs SEBI CPIO - Appeal Dismissed
   as Time-Barred
 ---

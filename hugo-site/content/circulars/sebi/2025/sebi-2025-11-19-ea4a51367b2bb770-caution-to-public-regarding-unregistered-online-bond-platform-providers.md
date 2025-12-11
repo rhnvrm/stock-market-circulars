@@ -25,14 +25,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- online-bond-platforms
-- OBPP
-- unregistered-entities
-- fintech
-- regulatory-warning
-- compliance
 - bond-trading
+- compliance
+- fintech
+- investor-protection
+- obpp
+- online-bond-platforms
+- regulatory-warning
+- unregistered-entities
 title: Caution to Public regarding unregistered Online Bond Platform Providers
 ---
 

@@ -27,9 +27,9 @@ stocks:
 - TAKYON
 tags:
 - group-change
-- trading-segment
 - sme
 - takyon-networks
+- trading
 title: Change in Group of Equity Shares of TAKYON NETWORKS LIMITED
 ---
 

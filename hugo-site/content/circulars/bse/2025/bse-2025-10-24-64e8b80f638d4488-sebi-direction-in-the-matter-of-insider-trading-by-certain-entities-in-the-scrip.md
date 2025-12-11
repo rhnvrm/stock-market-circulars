@@ -28,13 +28,13 @@ source: bse
 stocks:
 - INDUSINDBK
 tags:
-- insider-trading
-- sebi-direction
-- indusind-bank
-- securities-appellate-tribunal
-- enforcement-action
+- enforcement
 - impounding
+- indusind-bank
+- investigation
 - regulatory-proceedings
+- sebi-direction
+- securities-appellate-tribunal
 title: SEBI Direction in Insider Trading Matter - Arun Khurana vs IndusInd Bank -
   Securities Appellate Tribunal Order
 ---

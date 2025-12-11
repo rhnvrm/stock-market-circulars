@@ -25,9 +25,9 @@ source: nse
 stocks: []
 tags:
 - mutual-fund
-- scheme-name-change
+- name-change
 - quantum-mutual-fund
-- nse-mf-invest
+- trading-platform
 title: Change in Quantum Mutual Fund scheme names on NSE MF Invest platform
 ---
 

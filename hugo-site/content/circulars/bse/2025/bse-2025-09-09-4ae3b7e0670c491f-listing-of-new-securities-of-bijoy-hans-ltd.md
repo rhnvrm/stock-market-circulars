@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BIJOYH
 tags:
+- equity
 - listing
-- preferential-allotment
-- promoter-shares
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Bijoy Hans Ltd - 45 Lakh Preferential Shares
 ---
 

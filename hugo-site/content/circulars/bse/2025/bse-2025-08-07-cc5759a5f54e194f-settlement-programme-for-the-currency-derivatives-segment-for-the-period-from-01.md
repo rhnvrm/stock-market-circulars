@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- currency-derivatives
+- derivatives
+- september-2025
 - settlement
 - trading-schedule
-- september-2025
 title: Settlement Programme for Currency Derivatives Segment September 2025
 ---
 

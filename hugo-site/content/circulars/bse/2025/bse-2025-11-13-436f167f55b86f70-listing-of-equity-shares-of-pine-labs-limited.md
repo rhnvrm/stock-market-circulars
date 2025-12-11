@@ -27,12 +27,11 @@ source: bse
 stocks:
 - PINELABS
 tags:
+- equity
+- further-issue
 - listing
-- shareholding-pattern
-- pine-labs
-- equity-shares
-- post-issue
 - regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Pine Labs Limited
 ---
 

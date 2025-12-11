@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- asset-allocation
+- liquid-fund
 - mutual-fund
 - nfo
-- smart-switch
 - sbi
-- overnight-fund
-- asset-allocation
+- smart-switch
 - trading
 title: Activation of SMART Switch Feature under SBI DYNAMIC ASSET ALLOCATION ACTIVE
   FOF NFO on BSE StAR MF platform

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- mandate-management
-- star-mf
-- npci
 - dormant-mandates
 - enach
+- mandate-management
+- mutual-fund
+- npci
+- star-mf
 - systematic-investment
 title: Levy of Annual Maintenance Charges for Dormant Mandates - Update
 ---

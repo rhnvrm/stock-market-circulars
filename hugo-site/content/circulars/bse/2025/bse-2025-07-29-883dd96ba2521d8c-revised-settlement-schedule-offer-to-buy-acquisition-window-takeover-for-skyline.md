@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SKYLINE
 tags:
-- takeover
+- otb
+- revised-schedule
 - settlement
 - skyline-india
-- acquisition-window
-- revised-schedule
+- takeover
 title: Revised Settlement Schedule for Skyline India Limited Takeover Offer
 ---
 

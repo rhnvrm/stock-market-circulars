@@ -43,10 +43,10 @@ stocks:
 - TRANSRECT
 - VAXFAB
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Revised Price Bands for 18 Securities Effective November 11, 2025
 ---
 

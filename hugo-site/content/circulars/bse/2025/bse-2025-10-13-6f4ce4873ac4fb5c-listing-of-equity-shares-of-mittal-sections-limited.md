@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MITTALSEC
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- mittal-sections
 title: Listing of Equity Shares of Mittal Sections Limited - IPO
 ---
 

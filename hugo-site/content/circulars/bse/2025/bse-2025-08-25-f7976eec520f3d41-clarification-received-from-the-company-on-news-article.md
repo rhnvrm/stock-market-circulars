@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MDL
 tags:
-- news-clarification
-- submarine-project
 - defense
-- project-p75w
 - media-response
+- news-clarification
+- project-p75w
+- submarine-project
 title: Mazagon Dock Shipbuilders Clarifies News Article on Submarine Project Negotiations
 ---
 

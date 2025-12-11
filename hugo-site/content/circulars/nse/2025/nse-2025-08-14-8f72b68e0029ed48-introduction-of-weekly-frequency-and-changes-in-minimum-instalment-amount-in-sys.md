@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- sip
-- systematic-investment-plan
-- samco-mutual-fund
-- weekly-frequency
 - minimum-installment
+- mutual-fund
+- samco-mutual-fund
+- sip
+- weekly-frequency
 title: Introduction of Weekly frequency and changes in minimum instalment amount in
   Systematic Investment Plan (SIP) for Samco Mutual Fund on NSE MF Invest Platform
 ---

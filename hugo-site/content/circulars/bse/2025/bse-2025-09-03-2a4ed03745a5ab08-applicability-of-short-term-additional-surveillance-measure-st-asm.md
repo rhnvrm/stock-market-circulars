@@ -24,21 +24,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BHARATSEATS
+- BHARATSE
 - BINNYMILLS
-- BLTLOGISTICS
-- CRYOGENICOGS
+- BLT
+- CRYOGENIC
 - GUJARATCREDIT
 - HARSHILAGRO
 - PARKERAGRO
 - PRIMEFRESH
-- SAHARAMARITIME
+- SMARITIME
 - PACHELIIND
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

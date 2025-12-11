@@ -27,12 +27,10 @@ source: bse
 stocks:
 - ADVANCEAGRO
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- b-group
-- t-group
-- advance-agrolife
+- trade-for-trade
 title: Change in Group of Equity Shares of Advance Agrolife Limited
 ---
 

@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
-- scheme-reopening
-- jioblackrock
 - flexi-cap-fund
-- subscription
+- jioblackrock
+- mutual-fund
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
 title: Availability of JIOBLACKROCK FLEXI CAP FUND for ongoing transactions on BSE
   StAR MF Platform

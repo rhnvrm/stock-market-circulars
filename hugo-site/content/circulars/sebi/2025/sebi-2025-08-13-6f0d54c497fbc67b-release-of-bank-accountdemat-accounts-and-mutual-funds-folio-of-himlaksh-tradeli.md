@@ -25,13 +25,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - attachment-release
-- pacl
-- enforcement
 - bank-accounts
-- demat-accounts
-- mutual-funds
+- demat
+- enforcement
+- mutual-fund
+- pacl
+- recovery
 title: Release of bank account/demat accounts and mutual Funds folio of Himlaksh Tradelinks
   Pvt Ltd., Mr. Karan Singh Shekhawat and Ms. Meena Shekhavat in the matter of PACL
   Ltd.

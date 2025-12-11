@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- internal-audit
-- trading-members
 - compliance-deadline
 - regulatory-reporting
-- BEFS
-- audit-report
+- system-audit
+- trading-member
+- trading-platform
 title: Reminder for Submission of Internal Audit Report for Half Year Ended September
   30, 2025
 ---

@@ -28,13 +28,10 @@ source: sebi
 stocks:
 - BFLASSET
 tags:
-- recovery-certificate
-- prohibitory-order
-- enforcement
 - compliance
-- recovery-proceedings
-- bfl-asset-finvest
-- debt-recovery
+- enforcement
+- prohibitory-order
+- recovery
 title: Prohibitory Order for Recovery Certificate No. 6461 of 2023 - BFL Asset Finvest
   Ltd Matter
 ---

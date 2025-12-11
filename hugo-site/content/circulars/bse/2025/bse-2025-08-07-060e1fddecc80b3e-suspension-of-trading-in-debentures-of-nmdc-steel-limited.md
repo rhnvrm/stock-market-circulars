@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- NMDCSTEEL
+- NSLNISP
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-segment
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of NMDC STEEL LIMITED
 ---
 

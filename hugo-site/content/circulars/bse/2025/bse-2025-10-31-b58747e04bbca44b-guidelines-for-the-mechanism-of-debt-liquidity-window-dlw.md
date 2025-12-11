@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
+- clearing
 - debt-securities
 - liquidity-window
-- trading-mechanism
-- operational-guidelines
-- sebi-circular
 - market-infrastructure
-- clearing-settlement
+- operational-guidelines
+- sebi
+- trading-operations
 title: Guidelines for the Mechanism of Debt Liquidity Window (DLW)
 ---
 

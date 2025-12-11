@@ -26,10 +26,10 @@ source: bse
 stocks:
 - AEQUS
 tags:
-- ipo
-- anchor-investors
-- listing
 - aequs-limited
+- anchor-investor
+- ipo
+- listing
 - public-issue
 title: Public Issue of AEQUS LIMITED - Allocation to Anchor Investors
 ---

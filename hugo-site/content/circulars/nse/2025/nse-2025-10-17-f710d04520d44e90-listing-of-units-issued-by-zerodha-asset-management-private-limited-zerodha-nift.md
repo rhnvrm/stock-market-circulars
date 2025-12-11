@@ -26,13 +26,12 @@ source: nse
 stocks:
 - NIFTYCASE
 tags:
+- capital-market
 - etf
 - listing
-- zerodha
+- mutual-fund
 - nifty-50
-- mutual-funds
-- new-listing
-- capital-market
+- zerodha
 title: Listing of Zerodha Nifty 50 ETF Units on NSE
 ---
 

@@ -27,10 +27,9 @@ stocks:
 - SHAREKHAN
 tags:
 - commercial-paper
-- trading-suspension
-- sharekhan
-- debt-market
+- debt-securities
 - maturity
+- suspension
 title: Suspension of Trading in Commercial Paper of Sharekhan Limited
 ---
 

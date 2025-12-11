@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analyst
-- enforcement-action
-- pfutp-regulations
+- enforcement
 - guaranteed-returns
-- disclosure-violations
+- information-disclosure
 - intermediaries-regulations
-- inspection
-- compliance-failure
+- investigation
+- non-compliance
+- regulatory-framework
+- research-analyst
 title: Order in respect of Punit Kumar, Proprietor of Shrimoney - Research Analyst
 ---
 

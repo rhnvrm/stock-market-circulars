@@ -26,11 +26,11 @@ source: bse
 stocks:
 - TITANIN
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
-- titan-intech
 - new-securities
+- rights-issue
+- titan-intech
 title: Listing of new Securities of Titan Intech Limited
 ---
 

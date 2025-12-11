@@ -28,10 +28,10 @@ stocks:
 - LT
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - larsen-toubro
-- new-listing
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Larsen & Toubro Limited
 ---
 

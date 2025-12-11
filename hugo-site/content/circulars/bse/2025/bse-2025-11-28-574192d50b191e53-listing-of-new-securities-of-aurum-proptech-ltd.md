@@ -27,11 +27,11 @@ source: bse
 stocks:
 - AURUMPROP
 tags:
-- new-listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- listing
 - partly-paid-to-fully-paid
+- rights-issue
 title: Listing of New Securities of Aurum PropTech Ltd
 ---
 

@@ -29,11 +29,10 @@ stocks:
 - SPACEIT
 tags:
 - corporate-action
-- stock-split
-- sub-division
-- equity-shares
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-division of Equity Shares of Space Incubatrics Technologies Ltd (Scrip
   Code: 541890)'
 ---

@@ -26,25 +26,23 @@ source: bse
 stocks:
 - CRIMSONMETAL
 - GEMSPINNERS
-- NEILINDUSTRIES
+- NEIL
 - INDIALEASE
 - NORBENTETEA
 - SWAGTAM
 - TIMESGUARANTY
 - APLAB
 - ATLASCYCLES
-- BEMCOHYDRAULICS
-- BERYLDRUGS
+- BEMHY
+- BERLDRG
 - BHASKARAGRO
 - CEENIKEXPORTS
 - CEREBRAINTEGRATED
 - CHOKSILABS
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Between Stages Effective
   August 11, 2025
 ---

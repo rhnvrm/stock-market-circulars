@@ -40,11 +40,11 @@ stocks:
 - GIL
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
+- corporate-action
+- debt-securities
 - record-date
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 13 Companies
 ---
 

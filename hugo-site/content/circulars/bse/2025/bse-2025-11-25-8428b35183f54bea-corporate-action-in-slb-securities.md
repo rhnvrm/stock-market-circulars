@@ -29,13 +29,12 @@ stocks:
 - ENGINEERSIND
 - BECTORFOOD
 tags:
+- book-closure
 - corporate-action
-- stock-split
 - dividend
-- slb-securities
-- ex-date
 - record-date
-- shut-period
+- slb
+- split
 title: Corporate Action in SLB Securities - Stock Splits and Dividend
 ---
 

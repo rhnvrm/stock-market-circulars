@@ -28,12 +28,12 @@ source: bse
 stocks:
 - SHREEHARICHEMS
 tags:
-- listing
-- equity-shares
-- preferential-allotment
 - ccd-conversion
-- promoter-funding
+- equity
+- listing
 - lock-in
+- preferential-issue
+- promoter-funding
 title: Listing of New Securities of Shree Hari Chemicals Export Ltd - Preferential
   Allotment
 ---

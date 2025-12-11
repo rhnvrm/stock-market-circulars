@@ -28,12 +28,11 @@ source: bse
 stocks:
 - NEPHROCARE
 tags:
-- ipo
-- anchor-investors
-- nephrocare-health-services
+- allotment
+- anchor-investor
+- equity
 - healthcare
-- allocation
-- equity-shares
+- ipo
 - public-issue
 title: Public Issue of Nephrocare Health Services Limited - Allocation to Anchor Investors
 ---

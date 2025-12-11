@@ -28,15 +28,14 @@ source: bse
 stocks:
 - BILLIONBRAINS
 tags:
-- ipo
-- anchor-investors
-- equity-allocation
-- billionbrains-garage-ventures
-- new-listing
-- kotak-mahindra
-- jp-morgan
-- citigroup
+- anchor-investor
 - axis-capital
+- citigroup
+- equity-allocation
+- ipo
+- jp-morgan
+- kotak-mahindra
+- listing
 - motilal-oswal
 title: Public Issue of BILLIONBRAINS GARAGE VENTURES LIMITED - Allocation to Anchor
   Investors

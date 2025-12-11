@@ -29,10 +29,9 @@ stocks:
 - KALPATARUPOWER
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kalpataru-projects
-- debt-segment
+- private-placement
 title: Listing of New Commercial Paper of Kalpataru Projects International Limited
 ---
 

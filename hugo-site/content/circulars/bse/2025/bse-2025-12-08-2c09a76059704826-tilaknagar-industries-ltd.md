@@ -28,11 +28,10 @@ source: bse
 stocks:
 - TILAKNAGAR
 tags:
-- preferential-allotment
-- equity-listing
-- new-securities
+- equity
 - lock-in
-- tilaknagar-industries
+- new-securities
+- preferential-issue
 title: Listing of 1.44 Crore Preferential Equity Shares of Tilaknagar Industries Ltd
 ---
 

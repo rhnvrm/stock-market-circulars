@@ -33,11 +33,10 @@ stocks:
 - SATIATE
 - TACENT
 tags:
-- gsm
+- compliance
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- compliance
 title: GSM Framework Updates - 8 Securities Moving to Different Surveillance Stages
 ---
 

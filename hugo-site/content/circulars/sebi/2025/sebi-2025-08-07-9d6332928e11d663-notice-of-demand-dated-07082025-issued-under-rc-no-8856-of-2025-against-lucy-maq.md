@@ -26,13 +26,12 @@ rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2025/notic
 severity: high
 source: sebi
 stocks:
-- Family Care Hospitals Limited
+- FAMILY CARE HOSPITALS LIMITED
 tags:
 - demand-notice
 - enforcement
 - penalty
-- family-care-hospitals
-- regulatory-action
+- regulatory
 title: Notice of Demand against Lucy Maqbul Massey in Family Care Hospitals Limited
   matter
 ---

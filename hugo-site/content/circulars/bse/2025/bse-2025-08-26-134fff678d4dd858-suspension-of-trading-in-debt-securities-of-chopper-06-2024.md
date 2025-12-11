@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CHOPPER
 tags:
-- trading-suspension
 - debt-securities
 - maturity
-- debentures
-- chopper
+- ncd
+- suspension
 title: Suspension of Trading in Debt Securities of CHOPPER 06 2024
 ---
 

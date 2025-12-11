@@ -27,10 +27,10 @@ stocks:
 - ELECTCAST
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat-trading
 - electrosteel-castings
 - private-placement
-- demat-trading
 title: Listing of new Commercial Paper of Electrosteel Castings Limited
 ---
 

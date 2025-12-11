@@ -25,11 +25,11 @@ source: bse
 stocks:
 - 360OWL
 tags:
-- commercial-paper
-- debt-listing
 - 360-one-wam
-- private-placement
+- commercial-paper
+- debt-securities
 - demat-trading
+- private-placement
 title: Listing of new Commercial Paper of 360 One Wam Limited
 ---
 

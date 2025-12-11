@@ -27,9 +27,8 @@ stocks:
 - SAH
 - AERONEU
 tags:
-- company-name-change
-- symbol-change
 - listing
+- name-change
 title: Change in name and symbol of Sah Polymers Limited
 ---
 

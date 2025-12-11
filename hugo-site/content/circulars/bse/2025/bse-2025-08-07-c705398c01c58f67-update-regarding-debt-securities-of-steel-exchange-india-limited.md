@@ -24,11 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- STEEL-EXCHANGE-INDIA
+- STEELXIND
 tags:
 - debt-securities
+- listing
 - steel-exchange-india
-- listing-update
 title: Update Regarding Debt Securities of Steel Exchange India Limited
 ---
 

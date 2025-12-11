@@ -70,10 +70,10 @@ stocks:
 - VEGA
 - VUENOW
 tags:
+- add-on-framework
+- market-operations
 - price-band
 - surveillance
-- add-on-framework
-- market-regulation
 - trading-restrictions
 title: Add-on Price Band Framework - Updated List of 45 Securities
 ---

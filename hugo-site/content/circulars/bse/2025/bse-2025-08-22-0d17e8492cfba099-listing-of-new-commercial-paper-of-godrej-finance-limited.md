@@ -23,13 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GFL
+- GFLLIMITED
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - godrej-finance
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Godrej Finance Limited
 ---
 

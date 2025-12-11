@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JSWCMNT
 tags:
-- public-issue
-- anchor-investors
+- anchor-investor
+- ipo
 - jsw-cement
 - listing
-- ipo
+- public-issue
 title: Public Issue of JSW Cement Limited - Allocation to Anchor Investors
 ---
 

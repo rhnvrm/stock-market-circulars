@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SUNSKY
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
 - lock-in
-- new-listing
 title: Listing of Equity Shares of Sunsky Logistics Limited - IPO
 ---
 

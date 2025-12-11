@@ -27,15 +27,13 @@ stocks:
 - ASHUTOSHPAPER
 - AVIPRODUCTS
 - INTERGLOBEFL
-- NDLVENTURES
+- NDLVENTURE
 - POLYMAC
 - RSSOFTWARE
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Between Stages
 ---
 

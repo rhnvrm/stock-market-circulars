@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
 - segmental-infrastructure-development
+- sme
 title: SME IPO - Draft Offer Document of Segmental Infrastructure Development Limited
 ---
 

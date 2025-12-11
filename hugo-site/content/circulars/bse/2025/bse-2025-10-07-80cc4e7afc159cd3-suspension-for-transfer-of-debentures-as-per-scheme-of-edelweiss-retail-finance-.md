@@ -30,15 +30,12 @@ stocks:
 - EDELWEISS
 tags:
 - corporate-action
-- debentures
-- ncd
-- merger
-- amalgamation
-- nclt
-- debt-market
-- transfer-suspension
-- edelweiss-retail-finance
+- debt-securities
 - ecl-finance
+- ncd
+- nclt
+- scheme-of-arrangement
+- transfer-suspension
 title: Suspension for Transfer of Debentures as per Scheme of Edelweiss Retail Finance
   Limited
 ---

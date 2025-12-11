@@ -28,10 +28,9 @@ stocks:
 - SMLISUZU
 - SMLMAH
 tags:
-- name-change
-- symbol-change
 - corporate-action
 - listing
+- name-change
 title: Change in name and symbol of SML Isuzu Limited to SML Mahindra Limited
 ---
 

@@ -25,16 +25,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- star-mf-platform
 - august-2025
 - axis
-- franklin
-- kotak
-- edelweiss
 - dsp
+- edelweiss
+- franklin
+- holiday
 - invesco
+- kotak
+- mutual-fund
+- trading-platform
 title: Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform
 ---
 

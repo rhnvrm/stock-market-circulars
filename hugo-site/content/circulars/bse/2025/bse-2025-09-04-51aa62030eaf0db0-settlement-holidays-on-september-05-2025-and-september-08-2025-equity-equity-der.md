@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- settlement
-- holidays
-- equity
-- derivatives
-- currency
 - commodity
+- currency
+- derivatives
+- equity
+- holidays
+- settlement
 - trading-calendar
 title: Settlement Holidays on September 05 and September 08, 2025 for Multiple Segments
 ---

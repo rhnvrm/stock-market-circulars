@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ZODIAC
 tags:
-- rights-issue
-- rights-entitlements
-- trading
+- demat
 - renunciation
-- dematerialized
-- t+1-settlement
+- rights-issue
+- t1-settlement
+- trading
 title: Rights Entitlements of ZODIAC VENTURES LIMITED - Trading Commences July 31,
   2025
 ---

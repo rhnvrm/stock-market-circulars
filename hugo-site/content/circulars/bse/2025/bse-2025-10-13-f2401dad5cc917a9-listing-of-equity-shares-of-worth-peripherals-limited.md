@@ -27,11 +27,9 @@ source: bse
 stocks:
 - WORTHPERI
 tags:
+- equity
 - listing
-- equity-shares
 - shareholding-pattern
-- new-listing
-- promoter-holding
 title: Listing of Equity Shares of Worth Peripherals Limited
 ---
 

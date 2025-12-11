@@ -26,12 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- inspection
-- compliance
-- ease-of-business
 - broker-regulation
-- depositories
 - clearing-corporations
+- compliance
+- depository
+- ease-of-business
+- investigation
 - supervision
 title: Joint Annual Inspection Policy for Market Intermediaries - Information Sharing
   Mechanism

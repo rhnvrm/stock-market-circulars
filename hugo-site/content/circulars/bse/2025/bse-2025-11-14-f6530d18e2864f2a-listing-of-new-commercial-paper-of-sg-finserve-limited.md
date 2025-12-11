@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- SGFINSERVE
+- SGFIN
 tags:
 - commercial-paper
-- debt-listing
-- sg-finserve
+- debt-securities
 - private-placement
+- sg-finserve
 - short-term-debt
 title: Listing of new Commercial Paper of SG FINSERVE LIMITED
 ---

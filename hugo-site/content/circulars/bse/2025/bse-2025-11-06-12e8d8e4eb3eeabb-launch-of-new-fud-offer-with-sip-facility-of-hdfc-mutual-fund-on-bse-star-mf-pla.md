@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - hdfc-mutual-fund
 - index-fund
+- mutual-fund
+- nfo
 - sip
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of HDFC MUTUAL FUND on BSE StAR
   MF Platform
 ---

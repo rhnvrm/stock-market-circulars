@@ -26,10 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- electronic-fdr
-- collateral
-- currency-derivatives
 - bank-empanelment
+- collateral
+- derivatives
+- electronic-fdr
 - mufg-bank
 title: MUFG Bank Ltd Added for Electronic Fixed Deposit Receipts (FDRs)
 ---

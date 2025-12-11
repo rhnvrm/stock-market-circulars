@@ -27,14 +27,12 @@ source: bse
 stocks:
 - ICLFINCOR
 tags:
-- ncd
-- listing
-- debt-securities
-- icl-fincorp
-- debentures
-- monthly-interest
-- cumulative
 - annual-interest
+- cumulative
+- debt-securities
+- listing
+- monthly-interest
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of ICL FINCORP LIMITED
 ---
 

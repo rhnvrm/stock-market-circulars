@@ -27,11 +27,10 @@ source: bse
 stocks:
 - KHANEXT
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measures
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- market-integrity
 title: Enhanced Surveillance Measure (ESM) - Addition of Khandelwal Extractions Ltd
   and Consolidated List
 ---

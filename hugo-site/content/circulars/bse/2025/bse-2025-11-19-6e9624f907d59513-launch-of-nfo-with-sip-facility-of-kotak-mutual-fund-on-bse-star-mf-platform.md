@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- index-fund
+- kotak-mutual-fund
 - mutual-fund
 - nfo
-- sip
-- kotak-mutual-fund
-- index-fund
 - nifty500-momentum-50
-- bse-star-mf
+- sip
 title: Launch of NFO with SIP facility of KOTAK MUTUAL FUND on BSE StAR MF Platform
 ---
 

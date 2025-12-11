@@ -27,12 +27,12 @@ stocks:
 - MANGALORE
 - IDFCFIRSTB
 tags:
-- debt-market
+- debt-securities
+- ncd
 - non-convertible-securities
-- suspension
-- redemption
 - privately-placed
-- debentures
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Securities (Privately Placed)
 ---
 

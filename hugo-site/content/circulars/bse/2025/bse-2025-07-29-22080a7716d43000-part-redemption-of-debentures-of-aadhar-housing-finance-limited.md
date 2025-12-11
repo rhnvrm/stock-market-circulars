@@ -26,13 +26,13 @@ source: bse
 stocks:
 - AHFL
 tags:
-- corporate-actions
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of AADHAR HOUSING FINANCE LIMITED
 ---
 

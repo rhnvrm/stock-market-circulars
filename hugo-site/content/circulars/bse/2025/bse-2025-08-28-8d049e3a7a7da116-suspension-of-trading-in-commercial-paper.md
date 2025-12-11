@@ -28,11 +28,11 @@ stocks:
 - BALRAMPUR
 - HDFCSEC
 tags:
-- trading-suspension
 - commercial-paper
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

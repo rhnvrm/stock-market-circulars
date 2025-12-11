@@ -25,7 +25,7 @@ severity: medium
 source: bse
 stocks:
 - 20MICRONS
-- ADANITOTALGAS
+- ATGL
 - ALGOQUANT
 - BAJAJAUTOL
 - CIPLA
@@ -34,8 +34,8 @@ stocks:
 - ICICIBANK
 - TATASTEEL
 tags:
-- demat
 - auction
+- demat
 - settlement
 - trading
 title: Demat Auction Settlement No. 699

@@ -44,11 +44,10 @@ stocks:
 - LOTUS
 - RUPAREL
 tags:
-- surveillance
-- asm
-- long-term
-- trading
 - compliance
+- long-term
+- surveillance
+- trading
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

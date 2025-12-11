@@ -27,15 +27,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- appeal
+- compliance
+- enforcement
+- investigation
+- member-committee
 - penalty
 - review
-- appeal
-- waiver
-- member-committee
 - review-panel
-- enforcement
-- compliance
-- inspection
+- waiver
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Exchange and Member Committee
 ---

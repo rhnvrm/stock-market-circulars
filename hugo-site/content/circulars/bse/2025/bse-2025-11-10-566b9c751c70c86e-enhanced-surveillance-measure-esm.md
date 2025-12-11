@@ -33,12 +33,10 @@ stocks:
 - TITANINT
 - VAXFAB
 tags:
-- surveillance
-- esm
-- enhanced-surveillance-measure
-- market-safety
-- trading-restrictions
+- market-operations
 - security-monitoring
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Changes to Securities List Effective
   November 11, 2025
 ---

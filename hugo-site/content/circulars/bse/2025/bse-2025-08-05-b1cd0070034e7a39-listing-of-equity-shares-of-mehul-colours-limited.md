@@ -25,10 +25,9 @@ source: bse
 stocks:
 - MEHUL
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
 title: Listing of Equity Shares of MEHUL COLOURS LIMITED
 ---
 

@@ -38,12 +38,10 @@ stocks:
 - FISCHER
 - GALLANTT
 tags:
-- surveillance
-- asm
-- st-asm
-- margin-requirements
+- asm-stage
+- margin
 - risk-management
-- additional-surveillance-measure
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

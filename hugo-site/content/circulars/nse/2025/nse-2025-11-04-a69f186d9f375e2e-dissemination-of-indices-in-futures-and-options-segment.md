@@ -36,13 +36,13 @@ stocks:
 - APLAPOLLO
 - IEX
 tags:
-- index-launch
 - derivatives
-- futures-and-options
-- quality-index
 - flexicap
-- nifty500
+- futures-options
+- index-launch
 - market-data
+- nifty500
+- quality-index
 title: Dissemination of Nifty500 Flexicap Quality 30 Index in Futures and Options
   Segment
 ---

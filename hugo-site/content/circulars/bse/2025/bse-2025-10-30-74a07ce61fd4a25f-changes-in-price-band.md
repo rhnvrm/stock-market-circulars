@@ -42,10 +42,10 @@ stocks:
 - TELECANOR
 - UNIFIEDDATA
 tags:
+- market-operations
 - price-band
 - surveillance
-- trading-parameters
-- market-operations
+- trading-operations
 title: Changes in Price Band for 16 Securities
 ---
 

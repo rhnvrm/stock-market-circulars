@@ -28,12 +28,10 @@ source: bse
 stocks:
 - FORTISMLR
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
+- equity
 - fortis-malar-hospitals
 - otb
-- equity
+- takeover
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for FORTIS MALAR HOSPITALS LTD
   - Live Activities Schedule

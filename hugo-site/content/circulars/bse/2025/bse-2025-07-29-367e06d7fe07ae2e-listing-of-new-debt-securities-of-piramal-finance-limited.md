@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
+- ncd
 - piramal-finance
-- debentures
+- private-placement
 title: Listing of new debt securities of Piramal Finance Limited
 ---
 

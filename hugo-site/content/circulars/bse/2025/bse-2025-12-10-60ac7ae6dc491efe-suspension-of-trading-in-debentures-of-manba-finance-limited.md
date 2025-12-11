@@ -25,15 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- MANBAFINANCE
+- MANBA
 tags:
-- debentures
+- debt-securities
+- interest-payment
+- manba-finance
+- ncd
+- redemption
 - suspension
 - trading-halt
-- redemption
-- interest-payment
-- debt-securities
-- manba-finance
 title: Suspension of Trading in Debentures of MANBA FINANCE LIMITED
 ---
 

@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sebi-order
-- investment-adviser
-- regulatory-compliance
+- compliance
 - enquiry-order
+- investment-adviser
+- sebi-order
 - smart-financial
 title: SEBI Enquiry Order - Manoj Jethanand Varyani (Smart Financial) - No Adverse
   Action Recommended

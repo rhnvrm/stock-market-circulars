@@ -29,21 +29,20 @@ stocks:
 - HAPPSTMNDS
 - CUBEHIGHWAY
 - JASCHIND
-- KECINTL
+- KEC
 - MAZAGON
 - MINDSPACE
 - CANFINHOME
 - NHAI
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- interim-dividend
-- ncd-redemption
-- interest-payment
 - commercial-paper
+- daily-bulletin
+- dividend
+- interest-payment
 - invit
+- ncd
+- record-date
 - reit
 title: Daily Bulletin 143/2025-2026 - Book Closure, Record Dates and Dividend Announcements
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - EBGNG
 tags:
-- listing
-- equity-shares
-- new-company
+- company-related
+- equity
 - gng-electronics
+- listing
 title: Listing of Equity Shares of GNG Electronics Limited
 ---
 

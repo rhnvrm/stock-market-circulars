@@ -32,11 +32,9 @@ stocks:
 - LT
 - WIPRO
 tags:
+- equity
 - esop
-- esos
 - listing
-- employee-stock-options
-- equity-shares
 title: Listing of Further Securities Issued Under ESOP/ESOS by 7 Companies
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SSFL
 tags:
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
-- non-convertible-debentures
+- redemption
 title: Part Redemption of Debentures of Spandana Sphoorty Financial Limited
 ---
 

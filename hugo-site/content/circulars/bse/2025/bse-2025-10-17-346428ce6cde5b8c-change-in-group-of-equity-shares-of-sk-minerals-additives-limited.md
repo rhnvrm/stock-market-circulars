@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544584'
+- SKM
 tags:
-- segment-change
-- trade-for-trade
+- asm-stage
 - rolling-segment
-- mt-group
-- m-group
+- segment-transfer
 - sme
+- trade-for-trade
 - trading
 title: Change in Group of Equity Shares of SK MINERALS & ADDITIVES LIMITED
 ---

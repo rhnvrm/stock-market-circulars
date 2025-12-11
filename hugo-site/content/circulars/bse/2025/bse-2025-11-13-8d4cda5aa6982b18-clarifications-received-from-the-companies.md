@@ -26,14 +26,11 @@ severity: low
 source: bse
 stocks:
 - TEJASNET
-- '540595'
 tags:
 - clarification
-- volume-spurt
+- disclosure
 - price-movement
 - regulation-30
-- disclosure
-- tejas-networks
 title: Tejas Networks Limited - Clarification on Spurt in Volume
 ---
 

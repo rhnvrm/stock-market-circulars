@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CAMS
 tags:
+- computer-age-management-services
 - derivatives
 - position-limits
-- mwpl
 - risk-management
-- computer-age-management-services
 title: Revised MWPL Position Limits for Computer Age Management Services Limited
 ---
 

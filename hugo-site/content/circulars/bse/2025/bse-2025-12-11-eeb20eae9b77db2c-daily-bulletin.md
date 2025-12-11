@@ -26,13 +26,13 @@ source: bse
 stocks: []
 tags:
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
 - dividend
 - interest-payment
-- redemption
 - ncd
-- commercial-paper
-- corporate-actions
+- record-date
+- redemption
 title: Daily Bulletin 174/2025-2026 - Book Closure and Record Dates
 ---
 

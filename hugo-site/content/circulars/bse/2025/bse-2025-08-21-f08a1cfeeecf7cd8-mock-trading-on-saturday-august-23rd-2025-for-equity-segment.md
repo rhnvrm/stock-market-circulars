@@ -25,11 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- equity
+- market-infrastructure
 - mock-trading
-- equity-segment
-- trading-systems
-- testing
-- bolt-tws
+- trading-platform
 title: Mock Trading Session Scheduled for Equity Segment - August 23, 2025
 ---
 

@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - infina-finance
-- new-listing
+- listing
+- private-placement
 title: Listing of New Commercial Paper of Infina Finance Private Limited
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ICICIAMC
 tags:
-- ipo
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - icici-prudential-amc
-- public-issue
+- ipo
 - listing
+- public-issue
 title: Public Issue of ICICI Prudential Asset Management Company Limited - Allocation
   to Anchor Investors
 ---

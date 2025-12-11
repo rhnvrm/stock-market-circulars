@@ -44,7 +44,6 @@ stocks:
 - JKPAPER
 - KFINTECH
 - LICI
-- LICI
 - PRESTIGE
 - REDINGTON
 - RELIANCE
@@ -55,10 +54,10 @@ stocks:
 - VODA
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction
-- securities-trading
+- demat
+- securities
+- settlement
 title: Demat Auction - Settlement No. 751
 ---
 

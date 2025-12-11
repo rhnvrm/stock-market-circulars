@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-change
 - axis-mutual-fund
-- fof
+- fund-of-funds
+- mutual-fund
 - nasdaq-100
-- sebi-framework
+- regulatory-framework
+- scheme-change
 title: Change in Scheme Name of Axis Nasdaq 100 Fund of Fund to Axis US Specific Equity
   Passive FOF
 ---

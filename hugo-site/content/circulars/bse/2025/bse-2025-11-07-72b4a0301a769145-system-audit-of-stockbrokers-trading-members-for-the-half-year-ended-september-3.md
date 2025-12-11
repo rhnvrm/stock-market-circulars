@@ -28,15 +28,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- system-audit
-- stockbrokers
-- trading-members
-- audit-report
+- auditor-empanelment
 - compliance
 - cymmetri
-- BEFS
-- auditor-empanelment
 - physical-inspection
+- stock-broker
+- system-audit
+- trading-member
+- trading-platform
 title: System Audit of Stockbrokers / Trading Members for the Half Year Ended September
   30, 2025
 ---

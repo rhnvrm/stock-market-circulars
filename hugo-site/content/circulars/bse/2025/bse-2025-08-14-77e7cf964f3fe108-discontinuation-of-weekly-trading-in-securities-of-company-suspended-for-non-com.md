@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SWORD-EDGE
 tags:
-- trading-suspension
+- asm-stage
+- lodr
 - non-compliance
-- sebi-lodr
+- suspension
 - trade-for-trade
-- z-group
 title: Discontinuation of Weekly Trading for Sword-Edge Commercials Ltd Due to Non-Compliance
 ---
 

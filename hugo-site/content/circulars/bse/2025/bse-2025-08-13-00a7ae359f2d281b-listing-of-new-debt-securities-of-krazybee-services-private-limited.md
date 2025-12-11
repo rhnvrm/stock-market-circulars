@@ -26,9 +26,9 @@ stocks:
 - KSPL
 tags:
 - debt-securities
+- krazybee-services
 - listing
 - private-placement
-- krazybee-services
 title: Listing of new debt securities of Krazybee Services Private Limited
 ---
 

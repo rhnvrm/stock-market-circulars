@@ -28,9 +28,7 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- mwpl
 - risk-management
-- cams
 - stock-derivatives
 title: Revised MWPL Position Limits for Computer Age Management Services Limited
 ---

@@ -27,11 +27,9 @@ source: bse
 stocks:
 - EASTSILK
 tags:
-- surveillance
-- ibc
-- insolvency
-- additional-surveillance-measure
 - eastern-silk-industries
+- insolvency
+- surveillance
 title: Surveillance Measure for Securities Under IBC - August 2025 Update
 ---
 

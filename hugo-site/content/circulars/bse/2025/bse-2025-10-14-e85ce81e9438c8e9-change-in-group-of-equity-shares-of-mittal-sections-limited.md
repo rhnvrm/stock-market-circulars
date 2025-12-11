@@ -27,11 +27,10 @@ stocks:
 - MITTALSEC
 tags:
 - group-change
+- market-segment
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
-- mittal-sections
-- market-segment
 title: Change in Group of Equity Shares of MITTAL SECTIONS LIMITED
 ---
 

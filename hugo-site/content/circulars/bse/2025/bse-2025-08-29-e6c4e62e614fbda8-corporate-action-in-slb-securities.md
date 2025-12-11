@@ -37,12 +37,12 @@ stocks:
 - ZYDUS
 - GSPL
 tags:
-- corporate-actions
+- bonus
+- collateral
+- corporate-action
+- dividend
 - slb
-- dividends
-- bonus-issue
-- stock-split
-- securities-lending
+- split
 title: Corporate Action in SLB Securities - September 2025
 ---
 

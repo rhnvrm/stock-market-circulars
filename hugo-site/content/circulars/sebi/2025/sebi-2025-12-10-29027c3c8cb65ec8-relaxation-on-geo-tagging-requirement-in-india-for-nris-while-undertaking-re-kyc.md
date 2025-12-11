@@ -27,14 +27,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
+- compliance
+- digital-onboarding
+- geo-tagging
+- intermediary
 - kyc
 - nri
 - re-kyc
-- digital-onboarding
-- geo-tagging
-- compliance
-- client-onboarding
-- intermediaries
 title: Relaxation on Geo-Tagging Requirement in India for NRIs During Re-KYC
 ---
 

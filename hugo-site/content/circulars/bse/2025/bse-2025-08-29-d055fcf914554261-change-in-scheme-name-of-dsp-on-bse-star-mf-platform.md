@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-name-change
-- fund-of-fund
-- dsp-mutual-fund
 - benchmark-change
-- sebi-framework
+- dsp-mutual-fund
+- fund-of-funds
+- mutual-fund
+- name-change
+- regulatory-framework
 title: Change in Scheme Name of DSP Mutual Fund Schemes on BSE StAR MF Platform
 ---
 

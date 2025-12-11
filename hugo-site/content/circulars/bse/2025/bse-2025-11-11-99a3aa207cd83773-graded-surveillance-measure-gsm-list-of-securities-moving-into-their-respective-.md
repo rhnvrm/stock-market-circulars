@@ -73,12 +73,10 @@ stocks:
 - BLUECHIP
 - UNIVAFOODS
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
-- market-monitoring
-- trading-restrictions
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: 'GSM Framework: 47 Securities Moving to Higher Surveillance Stages'
 ---
 

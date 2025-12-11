@@ -28,12 +28,12 @@ stocks:
 - GENENG
 tags:
 - attachment
-- recovery
-- enforcement
-- defaulter
 - bank-accounts
-- demat-accounts
+- defaulter
+- demat
+- enforcement
 - generic-engineering-construction
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Arun Ramachandra
   Gole in Generic Engineering Construction Matter
 ---

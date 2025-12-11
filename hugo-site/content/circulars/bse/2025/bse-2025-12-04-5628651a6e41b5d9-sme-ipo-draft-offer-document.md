@@ -27,10 +27,10 @@ source: bse
 stocks:
 - VAHH
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
+- sme
 - vahh-chemicals
 title: SME IPO - Draft Offer Document for VAHH CHEMICALS LIMITED
 ---

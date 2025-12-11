@@ -32,11 +32,11 @@ stocks:
 - RICHUNIVERSE
 - SURYOFOODS
 tags:
-- trade-to-trade
-- surveillance
 - price-band
-- segment-shift
 - rolling-segment
+- segment-shift
+- surveillance
+- trade-to-trade
 title: Trade-To-Trade Scrips – Inclusions in T, XT, MT or TS Group
 ---
 

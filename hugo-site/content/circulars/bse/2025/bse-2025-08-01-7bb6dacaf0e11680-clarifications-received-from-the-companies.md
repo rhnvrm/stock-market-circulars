@@ -27,12 +27,12 @@ stocks:
 - ZUARIAGRO
 - ELEGANTFL
 tags:
-- clarifications
-- price-movement
-- trading-volume
-- surveillance
+- clarification
 - compliance
+- price-movement
 - regulation-30
+- surveillance
+- trading-volume
 title: Clarifications received from companies regarding trading volume and price movements
 ---
 

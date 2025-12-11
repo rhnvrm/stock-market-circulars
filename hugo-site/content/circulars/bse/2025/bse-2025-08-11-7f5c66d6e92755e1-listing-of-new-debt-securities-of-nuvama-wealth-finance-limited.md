@@ -27,8 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - nuvama-wealth-finance
+- private-placement
 - trading
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---

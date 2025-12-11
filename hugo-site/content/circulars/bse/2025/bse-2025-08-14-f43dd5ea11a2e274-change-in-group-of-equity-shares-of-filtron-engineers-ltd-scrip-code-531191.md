@@ -26,9 +26,9 @@ source: bse
 stocks:
 - FILTRON
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- equity-shares
 - trading-classification
 title: 'Change in group of Equity shares of Filtron Engineers Ltd. (Scrip Code: 531191)'
 ---

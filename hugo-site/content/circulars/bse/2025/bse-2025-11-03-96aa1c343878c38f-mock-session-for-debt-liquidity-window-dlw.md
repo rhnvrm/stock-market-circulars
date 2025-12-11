@@ -27,12 +27,10 @@ source: bse
 stocks:
 - DLWTEST1
 tags:
-- mock-session
 - debt-liquidity-window
+- debt-securities
 - dlw
-- testing
-- system-testing
-- debt-market
+- mock-trading
 title: Mock Session for Debt Liquidity Window (DLW)
 ---
 

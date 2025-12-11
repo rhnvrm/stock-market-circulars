@@ -27,12 +27,11 @@ source: bse
 stocks:
 - RJCORP
 tags:
+- crisil-aaa
 - debt-securities
 - listing
+- ncd
 - private-placement
-- rj-corp
-- debentures
-- crisil-aaa
 title: Listing of New Debt Securities of RJ Corp Limited
 ---
 

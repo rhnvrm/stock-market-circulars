@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- investment-advisory
-- unregistered-activity
-- recovery-certificate
-- compliance-order
 - completion-order
+- compliance-order
+- enforcement
+- investment-adviser
+- recovery
+- unregistered-activity
 title: SEBI Compliance Completion Order - Recovery Certificate No. 8813 of 2025 Against
   Priyank Dineshbhai Shah for Unregistered Investment Advisory
 ---

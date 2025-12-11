@@ -27,10 +27,10 @@ stocks:
 - GARMENTCM
 tags:
 - call-money
-- partly-paid-shares
 - equity
-- ibbs
+- partly-paid
 - payment-notice
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of Garment Mantra Lifestyle
   Limited
 ---

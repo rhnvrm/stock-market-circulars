@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology
-- information-technology
 - bse-focused-it
-- weightage-capping
 - derivatives
+- index-fund
+- information-technology
+- methodology
+- weightage-capping
 title: Change in BSE Focused IT Methodology
 ---
 

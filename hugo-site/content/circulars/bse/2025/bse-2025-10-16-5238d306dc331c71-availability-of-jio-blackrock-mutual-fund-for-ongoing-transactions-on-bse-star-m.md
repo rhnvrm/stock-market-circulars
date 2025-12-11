@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- jio-blackrock
 - flexi-cap-fund
+- jio-blackrock
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
-- bse-star-mf
+- swp
 title: JIO BLACKROCK MUTUAL FUND Reopening for Ongoing Transactions on BSE StAR MF
   Platform
 ---

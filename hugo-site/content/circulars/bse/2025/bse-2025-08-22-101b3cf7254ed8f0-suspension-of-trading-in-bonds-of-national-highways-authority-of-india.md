@@ -25,13 +25,12 @@ source: bse
 stocks:
 - NHAI
 tags:
-- trading-suspension
-- bonds
-- nhai
+- bond
+- debt-securities
+- interest-payment
 - record-date
 - redemption
-- interest-payment
-- debt-securities
+- suspension
 title: Suspension of Trading in Bonds of National Highways Authority of India
 ---
 

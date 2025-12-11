@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BLUEJET
 tags:
-- offer-for-sale
-- oversubscription
+- blue-jet-healthcare
 - healthcare
 - ipo
-- blue-jet-healthcare
+- ofs
+- oversubscription
 title: Opening of Offer for Sale of Blue Jet Healthcare Limited - Oversubscription
   Notice
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADVMULTI
 tags:
-- trade-to-trade
 - dematerialisation
-- market-lot
 - group-change
-- trading-suspension
+- market-lot
+- suspension
+- trade-to-trade
 title: Trading and Settlement of Trades in Dematerialised Securities of Advance Multitech
   Limited
 ---

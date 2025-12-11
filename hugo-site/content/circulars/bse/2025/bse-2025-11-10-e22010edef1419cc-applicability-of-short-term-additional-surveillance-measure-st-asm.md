@@ -42,13 +42,10 @@ stocks:
 - ONEGLOBAL
 - CHENNPETRO
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - sme
-- esm-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

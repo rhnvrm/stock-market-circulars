@@ -27,11 +27,10 @@ source: bse
 stocks:
 - BALKRISIND
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - balkrishna-industries
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Balkrishna Industries Limited
 ---
 

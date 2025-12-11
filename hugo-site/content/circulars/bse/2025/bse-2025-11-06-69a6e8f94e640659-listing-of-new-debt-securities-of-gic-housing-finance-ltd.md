@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GICHSGFIN
 tags:
+- bond
 - debt-securities
-- private-placement
-- listing
 - gic-housing-finance
-- bonds
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of GIC Housing Finance Ltd.
 ---
 

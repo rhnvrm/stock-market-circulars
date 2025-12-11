@@ -26,10 +26,8 @@ source: bse
 stocks:
 - INDIQUBE
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- indiqube
 title: Listing of Equity Shares of INDIQUBE SPACES LIMITED
 ---
 

@@ -32,11 +32,10 @@ stocks:
 - UMAEXPORTS
 - UNIVERSAL
 tags:
-- enhanced-surveillance
-- esm-framework
-- market-surveillance
-- trading-measures
+- asm-stage
 - sme-stocks
+- surveillance
+- trading-operations
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
 ---
 

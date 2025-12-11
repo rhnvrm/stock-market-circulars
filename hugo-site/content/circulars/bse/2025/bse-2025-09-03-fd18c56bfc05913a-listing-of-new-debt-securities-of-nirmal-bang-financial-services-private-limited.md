@@ -25,10 +25,10 @@ source: bse
 stocks:
 - NBFSPL
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of NIRMAL BANG FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

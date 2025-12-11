@@ -28,10 +28,9 @@ stocks:
 - UNISONMET
 tags:
 - corporate-action
-- isin-change
-- share-subdivision
-- equity-shares
-- unison-metals
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for UNISON METALS LTD Following Share Sub-Division
 ---
 

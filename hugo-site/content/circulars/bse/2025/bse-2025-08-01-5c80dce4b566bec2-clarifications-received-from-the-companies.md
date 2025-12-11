@@ -28,10 +28,10 @@ stocks:
 - SUNPHARMA
 tags:
 - clarification
+- disclosure
 - media-response
 - pharma
 - us-pricing
-- disclosure
 title: Clarifications received from companies regarding Trump pharma price letters
   news
 ---

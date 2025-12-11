@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PANABYTE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of PANABYTE TECHNOLOGIES LIMITED
 ---
 

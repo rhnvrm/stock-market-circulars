@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ATHENAGLO
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- promoter-shareholding
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of 650,000 Equity Shares of Athena Global Technologies Limited
 ---
 

@@ -28,13 +28,13 @@ source: bse
 stocks:
 - AXISBANK
 tags:
-- mutual-fund
-- silver-etf
-- subscription-suspension
 - axis-mutual-fund
-- fund-of-fund
-- market-distortion
+- fund-of-funds
 - investor-protection
+- market-distortion
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Subscription in Axis Silver Fund of Fund
 ---
 

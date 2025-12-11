@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
+- multi-asset
 - mutual-fund
 - pgim-india
-- multi-asset-allocation
-- nse-mf-invest
-- subscriptions
-- redemptions
+- redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
 title: Availability of PGIM India Multi Asset Allocation Fund for Ongoing Transactions
   on NSE MF Invest Platform
 ---

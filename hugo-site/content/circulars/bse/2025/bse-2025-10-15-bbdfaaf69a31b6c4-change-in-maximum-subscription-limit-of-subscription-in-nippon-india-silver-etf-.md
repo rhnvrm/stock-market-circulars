@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription-limit
-- silver
-- fund-of-fund
+- fund-of-funds
+- mutual-fund
 - nippon-india
-- investment-restriction
+- overseas-investment
+- silver
+- subscription-limit
 title: Change in Maximum Subscription Limit of Nippon India Silver ETF Fund of Fund
 ---
 

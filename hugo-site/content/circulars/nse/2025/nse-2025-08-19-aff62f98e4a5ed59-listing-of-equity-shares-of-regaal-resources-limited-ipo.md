@@ -26,10 +26,9 @@ source: nse
 stocks:
 - REGAAL
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 - regaal-resources
 title: Listing of Equity Shares of Regaal Resources Limited (IPO)
 ---

@@ -27,11 +27,11 @@ source: nse
 stocks:
 - SKFINDIA
 tags:
-- trade-for-trade
-- trading-segment
-- scheme-of-arrangement
-- call-auction
+- call-money
 - pre-open-session
+- scheme-of-arrangement
+- trade-for-trade
+- trading
 title: Trade for Trade - SKF India Limited (SKFINDIA)
 ---
 

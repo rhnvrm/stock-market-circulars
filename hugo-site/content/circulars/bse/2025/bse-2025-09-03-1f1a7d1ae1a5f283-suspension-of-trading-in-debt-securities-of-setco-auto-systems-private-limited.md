@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SASPL
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Debt Securities of Setco Auto Systems Private Limited
 ---
 

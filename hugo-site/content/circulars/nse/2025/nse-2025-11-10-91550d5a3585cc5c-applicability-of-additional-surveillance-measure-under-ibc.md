@@ -28,13 +28,11 @@ source: nse
 stocks:
 - ALPSINDUS
 tags:
-- surveillance
-- ASM
-- IBC
-- insolvency-and-bankruptcy-code
-- alps-industries
-- exclusion
+- addition
 - compliance
+- insolvency
+- insolvency-and-bankruptcy-code
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

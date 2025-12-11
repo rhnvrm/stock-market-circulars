@@ -26,11 +26,11 @@ source: bse
 stocks:
 - APTUS
 tags:
+- aptus-value-housing-finance
+- bond
 - debt-securities
 - listing
-- aptus-value-housing-finance
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of Aptus Value Housing Finance India Limited
 ---
 

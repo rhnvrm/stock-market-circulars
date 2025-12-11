@@ -25,12 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- collateral
+- disaster-recovery
 - mock-trading
 - slbm
-- securities-lending-borrowing
-- disaster-recovery
-- testing
-- neat
+- trading-platform
 title: Mock Trading Session - August 09, 2025 - SLBM Segment
 ---
 

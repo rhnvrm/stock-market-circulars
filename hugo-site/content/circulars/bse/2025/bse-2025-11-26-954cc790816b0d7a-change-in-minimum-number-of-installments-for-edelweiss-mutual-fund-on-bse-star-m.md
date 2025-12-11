@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- invesco
-- nomenclature-change
 - direct-plan
+- invesco
+- mutual-fund
+- name-change
 - regular-plan
-- bse-star-mf
 - scheme-modification
 title: Invesco Mutual Fund Changes Plan Nomenclature - Regular Plan and Direct Plan
   Designations Effective November 21, 2025

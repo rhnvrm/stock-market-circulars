@@ -27,10 +27,10 @@ stocks:
 - TATASILVETF
 tags:
 - etf
-- fund-of-fund
-- subscriptions
+- fund-of-funds
+- mutual-fund
+- subscription
 - tata-silver-etf
-- mutual-funds
 title: Resumption of Subscriptions in Tata Silver ETF Fund of Fund
 ---
 

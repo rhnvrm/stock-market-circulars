@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - onelife-capital-advisors
-- regulatory-action
+- recovery
+- regulatory
 title: Recovery Certificate dated 01.08.2025 issued under RC No. 8845/2025 drawn against
   Onelife Capital Advisors Limited
 ---

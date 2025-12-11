@@ -26,7 +26,7 @@ stocks:
 - HDFCSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - hdfc-securities
 - private-placement
 title: Listing of new Commercial Paper of HDFC Securities Limited

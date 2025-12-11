@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - KALPA
 tags:
-- recovery-proceedings
-- enforcement-action
-- kalpa-commercial
 - compliance
-- regulatory-action
+- enforcement
+- kalpa-commercial
+- recovery
+- regulatory
 title: Completion of Recovery Proceedings under RC No. 4795 of 2022 against Siva Balan
   Jaipal in the matter of Kalpa Commercial Limited
 ---

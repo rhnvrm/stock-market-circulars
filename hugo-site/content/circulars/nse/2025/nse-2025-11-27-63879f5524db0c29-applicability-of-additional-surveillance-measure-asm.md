@@ -27,12 +27,9 @@ severity: low
 source: nse
 stocks: []
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- market-surveillance
-- margin-requirements
 title: Applicability of Additional Surveillance Measure (ASM) - No Securities Listed
 ---
 

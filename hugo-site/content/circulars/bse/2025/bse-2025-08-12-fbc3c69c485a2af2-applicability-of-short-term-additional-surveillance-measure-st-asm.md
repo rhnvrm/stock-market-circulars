@@ -35,11 +35,9 @@ stocks:
 - SUNSHIELD
 - VUENOW
 tags:
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- st-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

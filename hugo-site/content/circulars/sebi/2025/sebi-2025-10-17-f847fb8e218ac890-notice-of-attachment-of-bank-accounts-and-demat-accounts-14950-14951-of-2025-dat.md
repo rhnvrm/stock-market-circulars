@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- attachment-notice
-- defaulter
+- attachment
 - bank-accounts
-- demat-accounts
-- superior-finlease
+- defaulter
+- demat
 - enforcement
+- recovery
+- superior-finlease
 title: 'Notice of Attachment of Bank Accounts and Demat Accounts Against SHRAWAN (PAN:
   KVSPS2783B) in Superior Finlease Ltd Recovery Matter'
 ---

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
-- redemption
-- debt-market
 - corporate-action
-- samunnati-finance
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
+- samunnati-finance
 title: Part Redemption of Debentures of Samunnati Finance Private Limited
 ---
 

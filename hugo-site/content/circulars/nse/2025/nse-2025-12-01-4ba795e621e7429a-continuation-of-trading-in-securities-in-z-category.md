@@ -46,14 +46,14 @@ stocks:
 - SRPL
 - SKIL
 tags:
-- z-category
-- trade-for-trade
 - annual-report
-- regulation-34
-- listing-compliance
+- compliance
+- lodr
 - non-compliance
-- lodr-regulations
-- settlement-restrictions
+- regulation-34
+- trade-for-trade
+- trading-restrictions
+- z-category
 title: Continuation of Trading in Securities in Z Category - 19 Companies Remain Non-Compliant
 ---
 

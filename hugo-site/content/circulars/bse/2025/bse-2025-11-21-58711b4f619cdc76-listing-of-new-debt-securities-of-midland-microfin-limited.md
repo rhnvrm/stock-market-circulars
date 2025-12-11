@@ -28,9 +28,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- private-placement
 - midland-microfin
-- non-convertible-debentures
+- ncd
+- private-placement
 - quarterly-interest
 title: Listing of New Debt Securities of Midland Microfin Limited
 ---

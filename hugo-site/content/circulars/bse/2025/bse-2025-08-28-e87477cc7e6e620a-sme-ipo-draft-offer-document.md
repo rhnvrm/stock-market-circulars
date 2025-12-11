@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MAX MARKETING LIMITED
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- max-marketing-limited
+- sme
 title: SME IPO - Draft Offer Document of MAX MARKETING LIMITED Available for Public
   Comments
 ---

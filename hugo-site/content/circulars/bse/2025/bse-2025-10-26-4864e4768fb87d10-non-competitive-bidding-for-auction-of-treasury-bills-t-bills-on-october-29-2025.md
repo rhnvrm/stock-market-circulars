@@ -27,13 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- t-bills
+- debt-securities
+- gsec
 - non-competitive-bidding
-- government-securities
 - rbi-auction
-- debt-market
-- ncb-gsec
+- treasury-bills
 title: Non-Competitive Bidding for Auction of Treasury Bills (T-Bills) on October
   29, 2025
 ---

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - CAPTRUST
 tags:
+- capital-trust
+- equity
 - listing
 - rights-issue
-- equity-shares
-- capital-trust
-- captrust
 title: Listing of Further Issues of Capital Trust Limited
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - CICPL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - cnh-industrial
+- commercial-paper
+- debt-securities
 - hdfc-bank
+- private-placement
 title: Listing of new Commercial Paper of CNH Industrial Capital (India) Private Limited
 ---
 

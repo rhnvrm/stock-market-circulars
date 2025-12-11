@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOEL
 tags:
-- public-issue
+- allotment
 - anchor-investor
-- allocation
 - ipo
 - listing
+- public-issue
 title: Public Issue of GOEL CONSTRUCTION COMPANY LIMITED - Allocation to Anchor Investors
 ---
 

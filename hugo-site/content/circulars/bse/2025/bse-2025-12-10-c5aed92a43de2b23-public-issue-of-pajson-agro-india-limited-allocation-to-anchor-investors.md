@@ -27,13 +27,13 @@ source: bse
 stocks:
 - PAJSON
 tags:
-- public-issue
-- anchor-investors
-- allocation
-- ipo
-- equity-shares
+- allotment
+- anchor-investor
 - book-building
+- equity
+- ipo
 - pajson-agro
+- public-issue
 title: Public Issue of PAJSON AGRO INDIA LIMITED - Allocation to Anchor Investors
 ---
 

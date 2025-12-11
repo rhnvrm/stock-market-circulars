@@ -43,11 +43,11 @@ stocks:
 - BOBCARD
 tags:
 - commercial-paper
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
+- suspension
 - trading-halt
-- corporate-actions
 title: Suspension of Trading in Commercial Paper - Multiple Securities
 ---
 

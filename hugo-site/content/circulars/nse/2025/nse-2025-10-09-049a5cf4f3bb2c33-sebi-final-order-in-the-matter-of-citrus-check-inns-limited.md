@@ -28,14 +28,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
-- collective-investment-scheme
-- ponzi-scheme
-- debarment
-- market-access-restriction
-- investor-protection
-- enforcement-action
 - citrus-check-inns
+- collective-investment-scheme
+- debarment
+- enforcement
+- investor-protection
+- market-access-restriction
+- ponzi-scheme
+- sebi-order
 title: SEBI Final Order in the matter of Citrus Check Inns Limited
 ---
 

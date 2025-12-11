@@ -27,12 +27,10 @@ stocks:
 - NESTLEIND
 tags:
 - derivatives
-- position-limits
-- mwpl
-- nestle-india
-- risk-management
 - fpi
-- mutual-funds
+- mutual-fund
+- position-limits
+- risk-management
 title: Revised MWPL Position Limits for Nestle India Ltd.
 ---
 

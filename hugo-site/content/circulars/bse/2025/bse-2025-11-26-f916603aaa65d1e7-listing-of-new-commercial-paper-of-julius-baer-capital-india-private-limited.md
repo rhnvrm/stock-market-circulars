@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - julius-baer
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper - Julius Baer Capital (India) Private Limited
 ---

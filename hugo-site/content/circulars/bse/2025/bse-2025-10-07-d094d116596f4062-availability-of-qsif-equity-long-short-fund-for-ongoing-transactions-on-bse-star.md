@@ -27,16 +27,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
+- equity
 - long-short-fund
-- bse-star-mf
-- subscription
+- mutual-fund
+- qsif
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- qsif
 title: QSIF EQUITY LONG-SHORT FUND Reopened for Ongoing Transactions on BSE StAR MF
   Platform
 ---

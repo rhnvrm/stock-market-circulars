@@ -28,12 +28,12 @@ source: bse
 stocks:
 - BAJFINANCE
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - bajaj-finance
+- commercial-paper
+- debt-securities
 - icici-bank
-- trading-members
+- private-placement
+- trading-member
 title: Listing of new Commercial Paper of Bajaj Finance Limited
 ---
 

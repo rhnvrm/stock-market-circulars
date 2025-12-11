@@ -31,10 +31,10 @@ stocks:
 - VIKRAMSOLR
 - SHAREINDIA
 tags:
-- surveillance
 - encumbrance
-- sebi-sast
 - regulation-28-3
+- sast
+- surveillance
 - trading-restrictions
 title: Applicability of Surveillance Measure in respect of companies with high 'Encumbrance'
   as per Reg. 28(3) of SEBI (SAST) Regulation 2011

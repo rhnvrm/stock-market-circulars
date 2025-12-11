@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ABCAPITAL
 tags:
-- debt-securities
-- debentures
-- isin-change
-- call-money
 - aditya-birla-capital
-- paid-up-value
+- call-money
+- debt-securities
+- face-value-change
+- isin
+- ncd
 title: Update Regarding Debt Securities of Aditya Birla Capital Limited
 ---
 

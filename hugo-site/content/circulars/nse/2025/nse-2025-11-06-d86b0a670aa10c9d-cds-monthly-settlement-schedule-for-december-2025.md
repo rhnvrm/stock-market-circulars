@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- currency-derivatives
-- settlement-schedule
-- mark-to-market
 - cds
-- monthly-settlement
-- interest-rate-contracts
 - currency-futures
 - currency-options
+- derivatives
+- interest-rate-contracts
+- mark-to-market
 - mibor
+- monthly-settlement
+- settlement
 - t-bill-futures
 title: CDS Monthly Settlement Schedule for December 2025
 ---

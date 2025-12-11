@@ -26,15 +26,13 @@ source: nse
 stocks:
 - CAMS
 tags:
-- position-limits
-- mwpl
+- derivatives
 - fii-limits
 - fpi-limits
+- futures-options
 - mutual-fund-limits
+- position-limits
 - trading-member-limits
-- cams
-- derivatives
-- futures-and-options
 title: Revised MWPL, TM, FII/FPI & MF Limits for Computer Age Management Services
   Limited
 ---

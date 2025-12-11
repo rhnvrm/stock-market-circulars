@@ -28,14 +28,12 @@ source: nse
 stocks:
 - HINDUNILVR
 tags:
-- futures-and-options
-- corporate-action
-- demerger
-- scheme-of-arrangement
 - contract-adjustment
-- HINDUNILVR
-- strike-price
+- corporate-action
+- futures-options
 - lot-size
+- scheme-of-arrangement
+- strike-price
 title: 'Scheme of Arrangement: Adjustment of Futures and Options contracts of Hindustan
   Unilever Limited (HINDUNILVR)'
 ---

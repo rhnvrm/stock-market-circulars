@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540737'
+- SGRL
 tags:
-- new-listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- listing
 - partly-paid-to-fully-paid
+- rights-issue
 title: Listing of New Securities of Shree Ganesh Remedies Ltd
 ---
 

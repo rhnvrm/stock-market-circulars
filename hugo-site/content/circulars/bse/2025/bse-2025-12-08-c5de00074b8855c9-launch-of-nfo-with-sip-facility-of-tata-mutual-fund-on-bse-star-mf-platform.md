@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- consumption-index
+- equity
+- index-fund
+- multicap
 - mutual-fund
 - nfo
 - sip
 - tata-mutual-fund
-- index-fund
-- bse-star-mf
-- equity
-- multicap
-- consumption-index
 title: Launch of NFO with SIP facility of TATA MUTUAL FUND on BSE StAR MF Platform
 ---
 

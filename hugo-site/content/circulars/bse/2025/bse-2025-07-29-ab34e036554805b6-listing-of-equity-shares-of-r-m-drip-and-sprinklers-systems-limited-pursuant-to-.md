@@ -27,12 +27,12 @@ source: bse
 stocks:
 - RMDRIP
 tags:
-- listing
 - direct-listing
-- mainboard
 - emerge-platform
+- equity
+- listing
+- mainboard
 - shareholding-pattern
-- equity-shares
 title: Listing of equity shares of R M Drip and Sprinklers Systems Limited pursuant
   to Direct Listing from Emerge Platform of NSE to BSE Mainboard Platform
 ---

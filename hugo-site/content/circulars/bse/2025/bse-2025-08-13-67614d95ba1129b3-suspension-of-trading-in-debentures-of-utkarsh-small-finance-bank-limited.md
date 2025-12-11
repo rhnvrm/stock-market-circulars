@@ -26,13 +26,13 @@ source: bse
 stocks:
 - USFB
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- utkarsh-small-finance-bank
-- redemption
 - interest-payment
+- ncd
+- redemption
+- suspension
+- utkarsh-small-finance-bank
 title: Suspension of Trading in Debentures of UTKARSH SMALL FINANCE BANK LIMITED
 ---
 

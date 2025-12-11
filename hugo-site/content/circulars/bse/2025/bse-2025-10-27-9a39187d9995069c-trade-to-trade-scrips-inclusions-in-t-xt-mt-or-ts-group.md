@@ -29,7 +29,7 @@ stocks:
 - DEVINE
 - FMNL
 - GUJLEASE
-- LEAD
+- LEADFUTURES
 - LYONSCM
 - NIVAKA
 - NURECA
@@ -43,12 +43,12 @@ stocks:
 - VIKALP
 - SAILANI
 tags:
-- trade-for-trade
-- surveillance-measure
+- asm-stage
+- market-operations
 - price-band
 - rolling-segment
+- trade-for-trade
 - trading-restrictions
-- market-operations
 title: Trade-To-Trade Scrips – Inclusions in T, XT, MT or TS Group
 ---
 

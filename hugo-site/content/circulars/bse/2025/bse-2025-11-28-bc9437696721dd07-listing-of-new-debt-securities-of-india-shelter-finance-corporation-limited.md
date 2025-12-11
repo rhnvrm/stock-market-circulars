@@ -28,11 +28,11 @@ stocks:
 - INDSHELT
 tags:
 - debt-securities
-- listing
-- private-placement
-- india-shelter-finance
-- non-convertible-debentures
 - icra-rated
+- india-shelter-finance
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of India Shelter Finance Corporation Limited
 ---
 

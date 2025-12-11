@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KESAR
 tags:
-- subdivision
-- equity-shares
-- record-date
 - corporate-action
-- isin-change
+- equity
+- isin
+- record-date
+- split
 title: 'Sub-Division of Equity Shares of KESAR ENTERPRISES LTD (Scrip Code: 507180)'
 ---
 

@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- research-analysts
-- disabilities-act
 - compliance
+- digital-accessibility
 - mandatory-submission
+- research-analyst
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance Confirmation
   Required from Research Analysts
 ---

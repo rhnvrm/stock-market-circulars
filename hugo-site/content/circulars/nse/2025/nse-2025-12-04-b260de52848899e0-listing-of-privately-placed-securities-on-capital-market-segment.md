@@ -28,13 +28,11 @@ stocks:
 - CHOLAFIN
 - TATAPROJECTS
 tags:
-- listing
-- debt-securities
-- private-placement
-- bonds
+- bond
 - capital-market
-- CHOLAFIN
-- TATAPROJECTS
+- debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities - Cholamandalam Investment and TATA
   PROJECTS
 ---

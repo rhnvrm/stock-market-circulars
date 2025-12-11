@@ -28,14 +28,14 @@ source: bse
 stocks:
 - APCRDA
 tags:
-- bonds
-- debt
-- part-redemption
+- andhra-pradesh
+- bond
+- corporate-action
+- crda
+- debt-securities
 - interest-payment
 - record-date
-- corporate-action
-- andhra-pradesh
-- crda
+- redemption
 title: Part Redemption of Bonds of ANDHRA PRADESH CAPITAL REGION DEVELOPMENT AUTHORITY
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - PRAGYA
 tags:
-- enforcement
 - attachment
 - bank-accounts
+- enforcement
 - pragya-dairies
-- regulatory-action
+- regulatory
 title: Notice of Attachment of Bank Accounts - Pragya Dairies and Agro Limited and
   Associates
 ---

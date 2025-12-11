@@ -26,12 +26,9 @@ source: bse
 stocks:
 - SETUBANDHAN
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
 - stage-transition
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Stage Updates
 ---
 

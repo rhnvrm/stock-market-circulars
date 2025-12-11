@@ -35,7 +35,7 @@ stocks:
 - OMNIPOTENT
 - SABTV
 - ASHRAMONL
-- BERYLDRUGS
+- BERLDRG
 - BHARATROHAN
 - BNAGROCHEM
 - BRAWNBIO
@@ -51,7 +51,7 @@ stocks:
 - HUMMINGBIRD
 - JETSOLAR
 - JINDALEASE
-- KABRADRUGS
+- KABRADG
 - KIRANSYN
 - KRUPALU
 - MEGANIRMAN
@@ -62,11 +62,10 @@ stocks:
 - SHANTIGUIND
 - SHISHIND
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

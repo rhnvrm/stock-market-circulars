@@ -26,14 +26,12 @@ source: bse
 stocks:
 - BANKBARODA
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- interest-payment
 - call-option
+- debt-securities
+- interest-payment
+- ncd
 - record-date
-- debt-market
-- BANKBARODA
+- suspension
 title: Suspension of Trading in Debentures of Bank of Baroda
 ---
 

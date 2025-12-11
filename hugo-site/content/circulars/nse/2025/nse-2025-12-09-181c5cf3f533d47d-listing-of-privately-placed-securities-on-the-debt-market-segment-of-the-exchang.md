@@ -36,20 +36,14 @@ stocks:
 - PNBHOUSING
 - ABCAPITAL
 tags:
-- debt-market
-- listing
-- commercial-paper
-- non-convertible-debentures
-- privately-placed-securities
-- alembic-pharmaceuticals
-- godrej-properties
-- godrej-industries
-- motilal-oswal
-- tata-steel
-- kotak-securities
-- blue-star
-- pnb-housing-finance
 - aditya-birla-capital
+- commercial-paper
+- debt-securities
+- kotak-securities
+- listing
+- motilal-oswal
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - December 9,
   2025
 ---

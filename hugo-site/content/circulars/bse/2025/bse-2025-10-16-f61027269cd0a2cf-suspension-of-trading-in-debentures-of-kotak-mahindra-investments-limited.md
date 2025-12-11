@@ -26,12 +26,11 @@ source: bse
 stocks:
 - KOTAKINVEST
 tags:
-- debentures
-- suspension
-- redemption
-- non-convertible-debentures
+- debt-securities
 - kotak-mahindra
-- debt-market
+- ncd
+- redemption
+- suspension
 - trading-halt
 title: Suspension of Trading in Debentures of Kotak Mahindra Investments Limited
 ---

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- POONAWALLA FINCORP
+- POONAWALLA
 tags:
-- trading-suspension
-- debentures
-- record-date
-- interest-payment
-- redemption
 - debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of POONAWALLA FINCORP LIMITED
 ---
 

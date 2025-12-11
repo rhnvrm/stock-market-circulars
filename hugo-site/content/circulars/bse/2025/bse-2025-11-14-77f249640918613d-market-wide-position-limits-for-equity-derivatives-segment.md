@@ -27,12 +27,10 @@ stocks:
 - ADANIENT
 tags:
 - derivatives
-- position-limits
-- mwpl
-- risk-management
-- adani-enterprises
 - fpi
-- mutual-funds
+- mutual-fund
+- position-limits
+- risk-management
 title: Market Wide Position Limits for Equity Derivatives Segment - Adani Enterprises
   Ltd
 ---

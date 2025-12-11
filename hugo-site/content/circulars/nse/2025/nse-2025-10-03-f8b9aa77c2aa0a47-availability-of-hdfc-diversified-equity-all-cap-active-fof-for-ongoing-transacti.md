@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- hdfc-mutual-fund
-- fund-of-funds
 - equity-scheme
-- nse-mf-invest
+- fund-of-funds
+- hdfc-mutual-fund
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
+- trading-platform
 title: Availability of HDFC Diversified Equity All Cap Active FOF for ongoing transactions
   on NSE MF Invest Platform
 ---

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- AVIPOLYMERS
-- CONCORDDRUGS
+- AVI
+- CONCORD
 - FISCHERVL
 - GRETEXCORP
 - MADHUVEER
 - SKMINERALS
-- SUPERTECHEV
+- SEVL
 - PACEECOM
 - ADORMP
 - ANNAINFRA
@@ -51,11 +51,11 @@ stocks:
 - THANGAMAY
 - TWAMEV
 tags:
-- surveillance
-- st-asm
-- market-monitoring
-- trading-restrictions
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

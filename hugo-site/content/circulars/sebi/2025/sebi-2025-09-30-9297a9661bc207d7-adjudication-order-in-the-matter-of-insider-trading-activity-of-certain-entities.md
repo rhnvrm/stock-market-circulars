@@ -28,12 +28,12 @@ source: sebi
 stocks:
 - SWANENERGY
 tags:
-- insider-trading
-- adjudication-order
-- pit-regulations
-- designated-person
+- adjudication
 - contra-trades
+- designated-person
+- investigation
 - penalty
+- pit-regulations
 title: Adjudication Order in the matter of insider trading activity of certain entities
   in the scrip of Ms. Swan Energy Limited
 ---

@@ -36,15 +36,10 @@ stocks:
 - ROCKINGDCE
 - SAMAY
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- ASM
-- ST-ASM
 - trading-restrictions
-- ADVANCE
-- EPACKPEB
-- JAINREC
-- RITEZONE
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

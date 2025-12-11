@@ -30,14 +30,14 @@ stocks:
 - RETRO
 - VASUDHAGAMA
 tags:
-- trading-suspension
-- sebi-regulations
-- depositories
-- regulation-76
+- asm-stage
+- depository
 - non-compliance
 - promoter-shareholding-freeze
+- regulation-76
+- regulatory-framework
+- suspension
 - trade-for-trade
-- z-group
 title: Suspension of Trading for Non-Compliance with SEBI Depositories Regulations
 ---
 

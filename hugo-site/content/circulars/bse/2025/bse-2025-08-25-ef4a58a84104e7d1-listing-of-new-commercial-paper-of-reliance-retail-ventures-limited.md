@@ -26,10 +26,10 @@ stocks:
 - RRVL
 tags:
 - commercial-paper
-- debt-listing
-- reliance-retail
-- private-placement
+- debt-securities
 - icici-bank
+- private-placement
+- reliance-retail
 title: Listing of new Commercial Paper of Reliance Retail Ventures Limited
 ---
 

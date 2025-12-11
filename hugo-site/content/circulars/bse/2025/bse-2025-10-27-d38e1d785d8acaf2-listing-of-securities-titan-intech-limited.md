@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TITANIN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - TITAN INTECH LIMITED - 4.5 Million Equity Shares
 ---
 

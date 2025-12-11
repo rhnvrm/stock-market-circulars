@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MAGNITE
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED
 ---
 

@@ -24,7 +24,7 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML69989.pdf
 severity: low
 source: nse
 stocks:
-- GODREJAGROVET
+- GODREJAGRO
 - ICICISEC
 - CHOLAFIN
 - GODREJIND
@@ -33,8 +33,8 @@ stocks:
 - LTFH
 - KOTAKSEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
 - securities

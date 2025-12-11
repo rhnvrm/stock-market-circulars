@@ -26,11 +26,11 @@ source: nse
 stocks:
 - OMFREIGHT
 tags:
-- trade-for-trade
 - ipo
-- segment-transfer
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade - Om Freight Forwarders Limited (IPO)
 ---
 

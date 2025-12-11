@@ -25,11 +25,10 @@ source: bse
 stocks:
 - INDIAINFRA
 tags:
+- aaa-rated
 - debt-securities
 - listing
 - private-placement
-- india-infradebt-limited
-- aaa-rated
 title: Listing of new debt securities of India Infradebt Limited
 ---
 

@@ -34,10 +34,9 @@ stocks:
 - ICICIPRULI
 - PGEL
 tags:
-- listing
-- esop
-- esos
 - equity
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 9 Companies
 ---

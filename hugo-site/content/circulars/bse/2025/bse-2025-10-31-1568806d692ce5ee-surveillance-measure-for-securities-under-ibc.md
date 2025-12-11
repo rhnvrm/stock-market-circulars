@@ -34,13 +34,8 @@ stocks:
 - TIAAN
 - VIKAS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
-- additional-surveillance-measure
-- corporate-insolvency
+- surveillance
 title: Surveillance Measure for Securities Under IBC
 ---
 

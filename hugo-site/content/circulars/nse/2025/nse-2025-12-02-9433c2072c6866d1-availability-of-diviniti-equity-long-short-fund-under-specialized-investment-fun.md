@@ -27,18 +27,17 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- equity
-- specialized-investment-fund
-- sif
-- iti-mutual-fund
 - diviniti-equity-long-short-fund
-- nse-mf-invest
-- subscriptions
-- redemptions
+- equity
+- iti-mutual-fund
+- mutual-fund
+- redemption
+- sif
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
 title: Availability of Diviniti Equity Long Short Fund under Specialized Investment
   Fund (SIF) for ongoing transactions on NSE MF Invest Platform
 ---

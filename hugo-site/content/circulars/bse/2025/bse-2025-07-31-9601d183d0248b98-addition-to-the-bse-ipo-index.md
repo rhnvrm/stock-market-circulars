@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544457'
+- BRIGHOTEL
 tags:
-- index
+- brigade-hotel-ventures
+- index-fund
 - ipo
 - listing
-- brigade-hotel-ventures
 title: Addition to the BSE IPO INDEX - Brigade Hotel Ventures Limited
 ---
 

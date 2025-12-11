@@ -26,10 +26,8 @@ source: bse
 stocks:
 - STAR
 tags:
+- equity
 - shareholding-pattern
-- equity-listing
-- promoter-holding
-- public-shareholding
 - star-imaging
 title: Listing of Equity Shares of Star Imaging and Path Lab Limited
 ---

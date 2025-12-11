@@ -23,7 +23,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MAXINDIA
+- MAXIND
 - AAVAS
 - BRIGADE
 - EQUITAS
@@ -37,11 +37,9 @@ stocks:
 - WIPRO
 - ZENSARTECH
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS by 13 Companies
 ---
 

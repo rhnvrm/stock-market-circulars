@@ -28,11 +28,9 @@ stocks:
 - EIDBL
 - VASIL
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- additional-surveillance-measure
-- stage-classification
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Stage Updates
 ---
 

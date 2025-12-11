@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ECLF
 tags:
-- debt-securities
-- ncds
 - cash-flows
+- debt-securities
 - ecl-finance
-- interest-payments
+- interest-payment
+- ncd
 - redemption-schedule
 title: Update Regarding Debt Securities of ECL Finance Limited - Cash Flow Schedules
 ---

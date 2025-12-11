@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DEFRAIL
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
 - defrail-technologies
-- icdr-regulations
+- draft-document
+- icdr
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of DEFRAIL TECHNOLOGIES LIMITED
 ---
 

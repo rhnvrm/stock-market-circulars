@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SURAJ
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
+- renunciation
+- rights-issue
 - trading
-- dematerialized
 title: Rights Entitlements of SURAJ INDUSTRIES LIMITED
 ---
 

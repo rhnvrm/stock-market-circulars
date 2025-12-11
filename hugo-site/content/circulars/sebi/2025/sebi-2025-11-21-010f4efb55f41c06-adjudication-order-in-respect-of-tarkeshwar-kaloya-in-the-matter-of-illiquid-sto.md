@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- pfutp-regulations
 - bse
 - illiquid-securities
-- reversal-trades
+- market-operations
 - penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order Against Tarkeshwar Kaloya for Trading in Illiquid Stock
   Options
 ---

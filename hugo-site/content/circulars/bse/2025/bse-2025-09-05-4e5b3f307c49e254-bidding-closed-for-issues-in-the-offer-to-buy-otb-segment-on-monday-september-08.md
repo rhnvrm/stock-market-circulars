@@ -32,17 +32,15 @@ stocks:
 - RAMLEA
 - SNSPROP
 tags:
-- otb
-- offer-to-buy
-- takeover
-- acquisition-window
-- sebi-holiday
-- trading-suspension
 - addi-industries
 - esaar-india
+- otb
 - premier-capital-services
 - ramchandra-leasing-finance
+- sebi-holiday
 - sns-properties-and-leasing
+- suspension
+- takeover
 title: Bidding Closed for Issues in the Offer to Buy (OTB) Segment on Monday, September
   08, 2025
 ---

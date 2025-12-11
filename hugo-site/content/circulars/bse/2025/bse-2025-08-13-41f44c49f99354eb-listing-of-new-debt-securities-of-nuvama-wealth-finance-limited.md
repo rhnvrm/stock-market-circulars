@@ -25,11 +25,10 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- debt-listing
-- private-placement
-- nuvama-wealth
 - debt-securities
-- new-listing
+- listing
+- nuvama-wealth
+- private-placement
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

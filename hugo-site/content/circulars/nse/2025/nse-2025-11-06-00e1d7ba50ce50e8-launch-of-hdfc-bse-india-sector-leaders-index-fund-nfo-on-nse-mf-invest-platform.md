@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
+- bse-india-sector-leaders-index
+- equity
 - hdfc-mutual-fund
 - index-fund
-- equity
-- nse-mf-invest
-- new-fund-offer
-- bse-india-sector-leaders-index
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of HDFC BSE India Sector Leaders Index Fund NFO on NSE MF Invest Platform
 ---
 

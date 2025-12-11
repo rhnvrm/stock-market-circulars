@@ -27,11 +27,11 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of new Securities of POONAWALLA FINCORP LIMITED
 ---
 

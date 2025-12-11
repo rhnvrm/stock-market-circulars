@@ -26,12 +26,12 @@ source: nse
 stocks:
 - MOIPO
 tags:
+- capital-market
 - etf
+- ipo-etf
 - listing
 - motilal-oswal
 - mutual-fund
-- ipo-etf
-- capital-market
 title: Listing of Motilal Oswal BSE Select IPO ETF Units
 ---
 

@@ -28,12 +28,12 @@ stocks:
 - CENTRALBK
 tags:
 - book-closure
-- record-date
-- dividend
-- corporate-actions
-- redemption
-- interest-payment
 - bulletin
+- corporate-action
+- dividend
+- interest-payment
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SHREEPACK
 tags:
-- open-offer
+- draft-document
+- sast
+- shareholding-pattern
 - takeover
-- acquisition
-- SEBI-SAST
-- letter-of-offer
-- public-shareholders
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Shree Pacetronix
   Limited
 ---

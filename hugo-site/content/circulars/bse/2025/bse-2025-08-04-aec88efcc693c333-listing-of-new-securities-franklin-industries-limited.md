@@ -26,10 +26,9 @@ source: bse
 stocks:
 - FRANKLIN
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- franklin-industries
 title: Listing of New Securities - Franklin Industries Limited Rights Issue
 ---
 

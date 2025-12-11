@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-notice
-- enforcement
-- illiquid-options
 - bse
 - daksh-share-brokers
+- enforcement
+- illiquid-options
+- recovery
 title: Notice of Demand - DAKSH SHARE BROKERS PRIVATE LIMITED - Recovery Certificate
   8880/2025
 ---

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - IRFC
 tags:
+- debt-securities
+- maturity
 - ncd
 - suspension
-- maturity
-- debt-securities
-- irfc
 title: Suspension of Trading in Non-Convertible Debentures - Indian Railway Finance
   Corporation Limited
 ---

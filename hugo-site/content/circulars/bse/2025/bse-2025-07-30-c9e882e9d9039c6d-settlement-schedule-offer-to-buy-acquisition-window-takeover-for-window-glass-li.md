@@ -26,12 +26,11 @@ source: bse
 stocks:
 - WINDOWGLAS
 tags:
-- takeover
-- offer-to-buy
-- settlement
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for WINDOW
   GLASS LIMITED
 ---

@@ -26,11 +26,8 @@ source: bse
 stocks:
 - PREMIER
 tags:
-- takeover
-- open-offer
-- acquisition
-- PREMIER
 - shareholding-change
+- takeover
 title: Open Offer for Acquisition of 26% Stake in Premier Capital Services Limited
 ---
 

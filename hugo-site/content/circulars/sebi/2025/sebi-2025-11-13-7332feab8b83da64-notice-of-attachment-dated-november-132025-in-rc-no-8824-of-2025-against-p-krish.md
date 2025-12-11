@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- attachment-order
+- investment-adviser
+- regulatory
 - unregistered-advisory
-- investment-advisory
-- regulatory-action
 - ym-forecast
 title: Notice of Attachment dated November 13, 2025 against P. Krishnakumar and Jagadeesan
   for Unregistered Investment Advisory Services

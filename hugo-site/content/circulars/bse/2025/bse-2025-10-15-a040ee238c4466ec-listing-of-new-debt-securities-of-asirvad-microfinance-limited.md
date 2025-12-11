@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ASIRVAD
 tags:
+- asirvad-microfinance
 - debt-securities
 - listing
-- asirvad-microfinance
+- ncd
 - private-placement
-- non-convertible-debentures
 title: Listing of new debt securities of Asirvad Microfinance Limited
 ---
 

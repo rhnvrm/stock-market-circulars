@@ -26,11 +26,10 @@ source: bse
 stocks:
 - JTEKT
 tags:
-- rights-entitlements
+- demat
+- renunciation
 - rights-issue
 - trading
-- renunciation
-- dematerialized
 title: Rights Entitlements Trading for JTEKT INDIA LIMITED
 ---
 

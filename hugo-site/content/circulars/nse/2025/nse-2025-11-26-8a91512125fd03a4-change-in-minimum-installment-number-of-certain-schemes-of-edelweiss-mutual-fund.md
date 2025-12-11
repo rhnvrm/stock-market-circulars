@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - edelweiss-mutual-fund
-- sip
-- stp
-- systematic-investment-plan
-- systematic-transfer-plan
-- nse-invest-platform
 - investment-plans
+- mutual-fund
+- nse-invest-platform
+- sip
+- smart-switch
+- stp
 title: Change in Minimum Installment Number for Edelweiss Mutual Fund SIP/STP Daily
   Frequency
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MITTALSTL
 tags:
+- equity
 - listing
-- equity-shares
-- sme-segment
-- new-listing
 - mittal-sections
+- sme
 title: Listing of Equity Shares of Mittal Sections Limited
 ---
 

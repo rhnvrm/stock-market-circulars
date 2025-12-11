@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- interval-fund
-- nippon-india
-- bse-star-mf
 - debt-scheme
-- transaction-period
+- interval-fund
+- mutual-fund
+- nippon-india
 - payment-mode
+- transaction-period
 title: Activation of NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES II on BSE StAR
   MF Platform
 ---

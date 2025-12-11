@@ -28,12 +28,12 @@ source: nse
 stocks: []
 tags:
 - connectivity
-- pop-migration
+- market-infrastructure
+- migration-deadline
 - network-infrastructure
-- trading-infrastructure
+- pop-migration
 - sify
 - telecom-network
-- migration-deadline
 title: Connectivity - POP Network Changes - Reminder for Migration Deadlines
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - FRIEZA
 tags:
-- debt
+- corporate-action
+- debt-securities
 - ptc
 - redemption
-- corporate-actions
-- frieza
 title: Part Redemption of PTCs of FRIEZA 06 2025
 ---
 

@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- surveillance
-- gsm
-- stage-1
-- market-monitoring
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
 title: List of Securities moving to Stage I of Graded Surveillance Measure (GSM)
 ---
 

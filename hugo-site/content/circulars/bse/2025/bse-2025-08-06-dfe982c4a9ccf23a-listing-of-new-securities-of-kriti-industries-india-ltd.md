@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KRITI
 tags:
+- conversion
 - listing
 - new-securities
-- preferential-allotment
-- promoter-shares
-- warrant-conversion
+- preferential-issue
+- promoter
 title: Listing of New Securities of Kriti Industries (India) Ltd.
 ---
 

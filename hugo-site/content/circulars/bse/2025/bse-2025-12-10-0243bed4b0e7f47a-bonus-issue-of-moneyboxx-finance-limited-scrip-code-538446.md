@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '538446'
+- MONEYBOXX
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
-- moneyboxx-finance
+- equity
 title: Bonus Issue of Moneyboxx Finance Limited - 1:1 Ratio
 ---
 

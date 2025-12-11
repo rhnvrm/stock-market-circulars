@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- baroda-bnp-paribas
+- fund-of-funds
+- gold
 - mutual-fund
 - nfo
 - sip
-- gold-etf
-- baroda-bnp-paribas
-- fund-of-fund
 title: Launch of NFO with SIP facility of BARODA BNP PARIBAS MUTUAL FUND on BSE StAR
   MF Platform
 ---

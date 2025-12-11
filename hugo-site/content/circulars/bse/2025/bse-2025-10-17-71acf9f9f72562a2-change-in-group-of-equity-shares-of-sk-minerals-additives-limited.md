@@ -27,13 +27,11 @@ source: bse
 stocks:
 - SKMINERALS
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
 - sme
-- SKMINERALS
+- trade-for-trade
 title: Change in Group of Equity Shares of SK MINERALS & ADDITIVES LIMITED
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - QUASARIND
 tags:
-- trading-suspension
 - company-compliance
-- site-visit
-- show-cause-notice
-- registered-office
 - equity
+- registered-office
+- show-cause-notice
+- site-visit
+- suspension
 title: Prohibition/ suspension of trading in securities of Quasar India Ltd
 ---
 

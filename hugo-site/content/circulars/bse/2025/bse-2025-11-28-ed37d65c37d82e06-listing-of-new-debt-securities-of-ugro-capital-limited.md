@@ -27,10 +27,10 @@ stocks:
 - UGROCAP
 tags:
 - debt-securities
+- demat-trading
 - listing
 - private-placement
 - ugro-capital
-- demat-trading
 title: Listing of New Debt Securities of UGRO Capital Limited
 ---
 

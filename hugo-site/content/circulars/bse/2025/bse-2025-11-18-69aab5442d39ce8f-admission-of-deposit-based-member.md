@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- trading-members
 - cash-segment
-- equity-derivatives
+- derivatives
+- membership
 - new-admission
+- trading-member
 title: Admission of Two New Deposit Based Trading Members
 ---
 

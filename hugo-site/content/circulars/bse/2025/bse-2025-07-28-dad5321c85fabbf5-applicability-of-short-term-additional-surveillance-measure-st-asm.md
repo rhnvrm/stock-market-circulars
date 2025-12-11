@@ -26,14 +26,12 @@ source: bse
 stocks:
 - ANGELFIBER
 - CRYOOGS
-- PANTHINFINITY
+- PANTH
 - SHARDACROP
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

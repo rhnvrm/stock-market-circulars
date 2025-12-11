@@ -25,12 +25,11 @@ source: nse
 stocks:
 - SAMMAAN
 tags:
-- debentures
-- listing
-- sammaan-capital
 - debt-securities
+- listing
 - ncd
 - public-issue
+- sammaan-capital
 title: Listing of Public Issue of Secured Non-Convertible Debentures of Sammaan Capital
   Limited
 ---

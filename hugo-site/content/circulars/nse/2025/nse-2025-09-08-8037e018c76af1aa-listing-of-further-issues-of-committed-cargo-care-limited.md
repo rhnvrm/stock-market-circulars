@@ -26,12 +26,11 @@ source: nse
 stocks:
 - COMMITTED
 tags:
+- emerge-platform
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- sme-emerge
-- committed-cargo-care
 - lock-in
+- preferential-issue
 title: Listing of further issues of Committed Cargo Care Limited
 ---
 

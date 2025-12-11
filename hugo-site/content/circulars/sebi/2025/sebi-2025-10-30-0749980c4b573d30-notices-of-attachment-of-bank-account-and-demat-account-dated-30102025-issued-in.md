@@ -27,13 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- recovery-proceedings
-- attachment-notice
+- recovery
 - unregistered-investment-advisor
 - zenithvia-research-services
-- bank-account-attachment
-- demat-account-attachment
 title: Notices of Attachment of Bank Account and Demat Account in Recovery Certificate
   No. 7750 of 2024 - Zenithvia Research Services
 ---

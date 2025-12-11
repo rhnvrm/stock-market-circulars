@@ -25,11 +25,10 @@ source: nse
 stocks:
 - MEDISTEP
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
-- medistep
+- sme
+- trade-for-trade
 title: Trade for Trade - Medistep Healthcare Limited (SME IPO)
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - JTEKT
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
+- rights-issue
 title: Listing of new Securities of JTEKT India Limited
 ---
 

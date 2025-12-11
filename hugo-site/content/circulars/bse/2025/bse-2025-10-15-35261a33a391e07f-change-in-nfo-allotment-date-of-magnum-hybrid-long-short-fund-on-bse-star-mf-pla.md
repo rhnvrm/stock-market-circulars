@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- allotment-date
+- magnum-hybrid-long-short-fund
 - mutual-fund
 - nfo
-- allotment-date
-- specialized-investment-fund
 - sbi-mutual-fund
-- magnum-hybrid-long-short-fund
-- bse-star-mf
+- sif
 title: Change in NFO Allotment Date of MAGNUM HYBRID LONG SHORT FUND on BSE StAR MF
   Platform
 ---

@@ -27,10 +27,10 @@ stocks:
 - ECLF
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
 - ecl-finance
 - maturity
+- suspension
 title: Suspension of Trading in Commercial Papers of ECL Finance Limited
 ---
 

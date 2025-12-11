@@ -31,10 +31,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- hedge-finance
 - ncd
 - private-placement
-- debt-segment
 title: Listing of New Debt Securities of Hedge Finance Limited
 ---
 

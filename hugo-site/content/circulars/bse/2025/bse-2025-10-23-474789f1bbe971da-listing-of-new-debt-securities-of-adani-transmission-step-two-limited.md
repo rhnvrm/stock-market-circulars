@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ATSTL
 tags:
+- adani-transmission
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- adani-transmission
-- debentures
-- corporate-bonds
 title: Listing of New Debt Securities of Adani Transmission Step-Two Limited
 ---
 

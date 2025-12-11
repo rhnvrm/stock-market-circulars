@@ -24,11 +24,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- terminal-registration
-- location-compliance
-- trading-charges
 - bolt-system
 - iml-system
+- location-compliance
+- registration
+- trading-charges
 title: Charges for not uploading IML/BOLT TWS/BOLT PLUS Location information for August
   2025
 ---

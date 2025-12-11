@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fund-of-fund
-- subscription-suspension
-- silver
+- fund-of-funds
 - groww-mutual-fund
-- market-conditions
-- nse-mf-invest
+- market-operations
+- mutual-fund
+- silver
+- suspension
+- trading-platform
 title: Temporary Suspension for Subscriptions in Groww Silver ETF Fund of Fund on
   NSE MF Invest Platform
 ---

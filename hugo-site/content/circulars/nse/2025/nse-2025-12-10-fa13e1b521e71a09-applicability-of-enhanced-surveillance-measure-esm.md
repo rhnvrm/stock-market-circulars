@@ -28,13 +28,10 @@ source: nse
 stocks:
 - KESORAMIND
 tags:
-- surveillance
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
-- kesoram-industries
+- margin
 - risk-management
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM) - December 2025
 ---
 

@@ -23,12 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '500201'
+- INDIAGLYCO
 tags:
-- corporate-actions
-- isin-change
-- share-subdivision
-- india-glycols
+- corporate-action
+- face-value-change
+- isin
 title: New ISIN Number for India Glycols Ltd - Share Sub-Division from Rs.10 to Rs.5
 ---
 

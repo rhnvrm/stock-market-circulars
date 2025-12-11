@@ -82,11 +82,10 @@ stocks:
 - SJCORP
 - SOMA
 tags:
-- surveillance
-- gsm
-- stage-revision
+- asm-stage
 - market-operations
 - regulatory
+- surveillance
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---
 

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
+- bond
 - debt-securities
 - listing
-- shriram-finance
+- ncd
 - private-placement
-- bonds
-- debentures
 title: Listing of New Debt Securities of Shriram Finance Limited
 ---
 

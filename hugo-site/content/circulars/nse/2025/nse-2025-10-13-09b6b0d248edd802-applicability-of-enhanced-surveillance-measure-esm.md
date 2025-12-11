@@ -31,12 +31,10 @@ stocks:
 - TAKE
 - DPEL
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- surveillance
-- margin-requirements
+- margin
 - price-band
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

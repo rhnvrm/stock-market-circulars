@@ -40,14 +40,14 @@ stocks:
 - CRESSANDA
 - GARNET
 - GARUDA
-- GFL
+- GFLLIMITED
 - GHCL
 - GOACARBON
 - GREAT
 - HATSUN
 - HDFC
 - HITKIT
-- IDFCFIRSTBANK
+- IDFCFIRSTB
 - IIFL
 - INDEF
 - INDIATOUR
@@ -98,7 +98,7 @@ stocks:
 - WINSOME
 - XCHANGING
 tags:
-- demat-auction
+- demat
 - settlement
 - trading
 title: Demat Auction Settlement No. 682

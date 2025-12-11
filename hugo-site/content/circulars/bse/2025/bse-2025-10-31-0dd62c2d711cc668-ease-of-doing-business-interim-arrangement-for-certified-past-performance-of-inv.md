@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
-- past-performance
-- parrva
 - certification
 - compliance
 - ease-of-doing-business
 - iaasb
+- investment-adviser
+- parrva
+- past-performance
 - raasb
+- research-analyst
 title: Ease of doing business – Interim arrangement for certified past performance
   of Investment Advisers and Research Analysts prior to operationalisation of PaRRVA
 ---

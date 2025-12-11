@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- defaulter
-- recovery-proceedings
+- attachment
 - bank-accounts
-- demat-accounts
-- goldline-international-finvest
+- defaulter
+- demat
 - eco-friendly-food-processing-park
+- goldline-international-finvest
 - ipo-default
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against M/s. Goldline
   International Finvest Ltd (Defaulter) in IPO of Eco Friendly Food Processing Park
   Limited

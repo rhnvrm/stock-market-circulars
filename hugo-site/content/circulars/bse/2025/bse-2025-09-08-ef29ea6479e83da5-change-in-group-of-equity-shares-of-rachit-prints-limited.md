@@ -27,9 +27,9 @@ stocks:
 - RACHIT
 tags:
 - group-change
-- trading-segment
-- sme
 - rachit-prints
+- sme
+- trading
 title: Change in Group of Equity Shares of RACHIT PRINTS LIMITED
 ---
 

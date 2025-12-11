@@ -36,18 +36,17 @@ stocks:
 - INFY
 - KAJARIACER
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- interest-payment
-- redemption
-- corporate-actions
-- debt-securities
 - commercial-paper
-- non-convertible-debentures
+- corporate-action
+- daily-bulletin
+- debt-securities
+- dividend
 - equity
-- interim-dividend
+- interest-payment
+- ncd
+- record-date
+- redemption
 - right-issue
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---

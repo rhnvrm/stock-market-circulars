@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MODINATUR
 tags:
-- group-change
 - equity
-- modi-naturals
-- group-x
 - group-b
+- group-change
+- group-x
 - trading
 title: Group Change - Modi Naturals Ltd Moving from Group X to Group B
 ---

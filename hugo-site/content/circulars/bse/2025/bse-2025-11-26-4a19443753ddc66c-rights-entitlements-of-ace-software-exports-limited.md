@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ACES
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
-- trading
-- settlement
 - ace-software-exports
+- equity
+- renunciation
+- rights-issue
+- settlement
+- trading
 title: Rights Entitlements Trading for ACE SOFTWARE EXPORTS LIMITED
 ---
 

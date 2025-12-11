@@ -28,12 +28,12 @@ source: nse
 stocks:
 - KTL
 tags:
-- trading-suspension
-- share-capital-reconciliation
-- regulation-76
-- trade-for-trade
-- depository-regulations
 - compliance
+- depository-regulations
+- regulation-76
+- share-capital-reconciliation
+- suspension
+- trade-for-trade
 title: Discontinuation of Weekly Trading in Kalahridhaan Trendz Limited
 ---
 

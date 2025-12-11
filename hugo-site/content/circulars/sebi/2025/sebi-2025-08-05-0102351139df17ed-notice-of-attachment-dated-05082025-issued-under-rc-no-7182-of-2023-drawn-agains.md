@@ -28,10 +28,9 @@ stocks:
 - SUN EARTH CERAMICS
 tags:
 - attachment
-- investor-grievances
 - enforcement
+- investor-grievances
 - recovery
-- sun-earth-ceramics
 title: Notice of Attachment dated 05.08.2025 issued under RC No. 7182 of 2023 drawn
   against Sun Earth Ceramics Limited in the matter of failure to redress investor
   grievances

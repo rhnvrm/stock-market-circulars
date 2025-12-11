@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
-- show-cause-notice
 - delegation-of-powers
 - integrated-surveillance-department
 - officer-authorization
+- rti
+- show-cause-notice
 title: Appeal No. 6582 of 2025 filed by Devangi Dipak Panchal
 ---
 

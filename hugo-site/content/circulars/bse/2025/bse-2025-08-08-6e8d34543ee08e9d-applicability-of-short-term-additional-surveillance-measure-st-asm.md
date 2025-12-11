@@ -36,11 +36,11 @@ stocks:
 - NEIL
 - PONDY
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-regulation
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

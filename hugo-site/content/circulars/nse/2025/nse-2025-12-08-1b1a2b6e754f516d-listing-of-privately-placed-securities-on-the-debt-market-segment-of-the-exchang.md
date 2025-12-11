@@ -36,20 +36,10 @@ stocks:
 - HSL
 - ISEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
-- ABML
-- BSL
-- ABCL
-- ISL
-- SHFL
-- GIL
-- SIDBI
-- LTFL
-- HSL
-- ISEC
+- privately-placed
 title: Listing of Privately Placed Debt Securities - Commercial Paper Issuances
 ---
 

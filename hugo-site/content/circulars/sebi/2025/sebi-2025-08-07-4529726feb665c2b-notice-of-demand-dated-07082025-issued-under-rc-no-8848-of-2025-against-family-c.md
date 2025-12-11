@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- notice-of-demand
-- recovery-proceedings
-- family-care-hospitals
-- regulatory-enforcement
 - compliance
+- demand-notice
+- recovery
+- regulatory-enforcement
 title: Notice of Demand dated 07.08.2025 issued under RC no. 8848 of 2025 against
   Family Care Hospitals Limited
 ---

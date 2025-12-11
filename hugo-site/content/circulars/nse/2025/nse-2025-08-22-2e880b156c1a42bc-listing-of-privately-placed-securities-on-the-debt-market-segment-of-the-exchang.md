@@ -34,9 +34,9 @@ stocks:
 - HINDZINC
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
+- further-issue
 - listing
-- fresh-issue
 title: Listing of Commercial Papers from Multiple Companies on NSE Debt Market
 ---
 

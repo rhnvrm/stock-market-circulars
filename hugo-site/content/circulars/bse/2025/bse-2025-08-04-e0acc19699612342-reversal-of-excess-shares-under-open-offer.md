@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- open-offer
-- excess-shares
-- reversal
 - csv-format
-- technical-specification
+- excess-shares
 - file-format
+- reversal
+- takeover
+- technical-specification
 title: Reversal of Excess Shares Under Open Offer - CSV File Format Specification
 ---
 

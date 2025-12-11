@@ -29,11 +29,9 @@ stocks:
 - IIFL
 tags:
 - derivatives
-- futures-and-options
-- stock-delisting
 - eligibility-criteria
-- equity-derivatives
-- IIFL
+- futures-options
+- stock-delisting
 title: Exclusion of Futures and Options contracts of IIFL Finance Ltd from Equity
   Derivatives Segment
 ---

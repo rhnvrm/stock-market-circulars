@@ -26,10 +26,9 @@ source: bse
 stocks:
 - SAFECURE
 tags:
-- equity-listing
+- equity
+- listing
 - sme
-- new-listing
-- safecure-services
 title: Listing of Equity Shares of Safecure Services Limited
 ---
 

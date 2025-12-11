@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UTKARSH
 tags:
-- suspension
-- debentures
-- trading-halt
 - interest-payment
+- ncd
 - redemption
+- suspension
+- trading-halt
 - utkarsh-small-finance-bank
 title: Suspension of Trading in Debentures of UTKARSH SMALL FINANCE BANK LIMITED
 ---

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ACCURACY
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
-- accuracy-shipping
+- listing
 title: Listing of Equity Shares of Accuracy Shipping Limited
 ---
 

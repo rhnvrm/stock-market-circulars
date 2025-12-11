@@ -40,10 +40,10 @@ stocks:
 - SRM
 - ZAVERI
 tags:
+- equity
 - price-band
-- trading-parameters
 - surveillance
-- equity-segment
+- trading-operations
 title: Changes in Price Band for 15 Securities Effective August 22, 2025
 ---
 

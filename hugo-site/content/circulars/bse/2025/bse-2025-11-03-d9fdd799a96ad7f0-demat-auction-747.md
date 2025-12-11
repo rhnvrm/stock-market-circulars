@@ -29,7 +29,7 @@ stocks:
 - ADANIENSOL
 - ADVIKCA
 - ANUH
-- APTECH
+- APTECHT
 - ARCHIES
 - ASAHISONG
 - AUROPHARMA
@@ -72,9 +72,9 @@ stocks:
 - MOTILALOFS
 - MUFIN
 - NEWGEN
-- PGFOILS
+- PGFOILQ
 - PIIND
-- PAUSHAK
+- PAUSHAKLTD
 - PRAGBOS
 - RCOM
 - RBLBANK
@@ -98,10 +98,10 @@ stocks:
 - YESBANK
 - ZEEL
 tags:
-- demat-auction
-- settlement
-- market-operations
 - auction
+- demat
+- market-operations
+- settlement
 title: Demat Auction - Settlement No. 747
 ---
 

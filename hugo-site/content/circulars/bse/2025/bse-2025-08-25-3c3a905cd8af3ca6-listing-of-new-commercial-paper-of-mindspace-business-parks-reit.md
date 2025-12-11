@@ -26,10 +26,10 @@ stocks:
 - MBPREIT
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icici-bank
 - mindspace-reit
 - private-placement
-- icici-bank
 title: Listing of new Commercial Paper of Mindspace Business Parks REIT
 ---
 

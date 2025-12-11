@@ -28,12 +28,12 @@ source: bse
 stocks:
 - HARIGOVI
 tags:
-- demat-settlement
-- trade-to-trade
-- group-change
-- market-lot-change
-- depositories
+- depository
 - equity
+- group-change
+- market-lot
+- settlement
+- trade-to-trade
 title: Trading and Settlement of Trades in Dematerialised Securities of Hari Govind
   International Ltd
 ---

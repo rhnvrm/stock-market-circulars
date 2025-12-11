@@ -27,10 +27,10 @@ stocks:
 - VIVRITI
 tags:
 - bond-redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
+- face-value-change
 - vivriti-capital
-- reduced-face-value
 title: Part Redemption of Bonds of VIVRITI CAPITAL LIMITED
 ---
 

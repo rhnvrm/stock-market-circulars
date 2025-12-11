@@ -31,14 +31,12 @@ stocks:
 - HDFCAMC
 - HIMADRI
 - ICICIBANK
-- NIIT
+- NIITLTD
 - SRGFIN
 tags:
-- listing
-- esop
-- esos
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 9 Companies
 ---

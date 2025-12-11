@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
+- draft-document
+- icdr
 - novus-loyalty
-- icdr-regulations
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of NOVUS LOYALTY LIMITED
 ---
 

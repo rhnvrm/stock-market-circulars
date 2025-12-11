@@ -27,24 +27,23 @@ severity: medium
 source: bse
 stocks:
 - BILLWIN
-- CAPITALTRUST
+- CAPTRUST
 - DHARANI
 - JETKING
-- JINDALPHOTO
-- LEAD
+- JINDALPHOT
+- LEADFUTURES
 - ZINEMA
 - KANUNGO
 - NAGREEKA
 - RACL
 - SAMMAAN
-- SKYLINEMILLARS
+- SKYLMILAR
 - TAKE
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

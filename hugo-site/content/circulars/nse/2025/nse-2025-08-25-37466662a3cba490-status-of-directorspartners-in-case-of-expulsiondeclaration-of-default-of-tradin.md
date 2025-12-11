@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-member
-- expulsion
+- appeal
+- compliance
 - default
 - directors
-- compliance
-- sat-order
+- expulsion
+- trading-member
 title: Status of Directors/Partners in case of Expulsion/declaration of Default of
   Trading Member
 ---

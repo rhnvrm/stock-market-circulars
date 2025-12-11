@@ -27,12 +27,9 @@ source: bse
 stocks:
 - RCIENT
 tags:
-- surveillance
+- asm-stage
 - insolvency
-- ibc
-- additional-surveillance-measure
-- asm
-- stage-classification
+- surveillance
 title: Surveillance Measure for Securities under IBC
 ---
 

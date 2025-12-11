@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VEL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - face-value-reduction
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of VARROC ENGINEERING LIMITED
 ---
 

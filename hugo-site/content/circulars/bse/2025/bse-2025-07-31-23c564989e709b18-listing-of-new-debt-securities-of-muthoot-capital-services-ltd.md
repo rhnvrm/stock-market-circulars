@@ -28,8 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - muthoot-capital
+- private-placement
 - trading
 title: Listing of new debt securities of Muthoot Capital Services Ltd.
 ---

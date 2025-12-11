@@ -32,11 +32,10 @@ stocks:
 - ESHA
 - TIMES
 tags:
-- surveillance
-- asm
 - long-term
-- trading-restrictions
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

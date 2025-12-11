@@ -28,11 +28,10 @@ stocks:
 - PIRAMALFI
 tags:
 - debt-securities
-- listing
-- private-placement
-- piramal-finance
-- debentures
 - icra-rated
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Piramal Finance Limited
 ---
 

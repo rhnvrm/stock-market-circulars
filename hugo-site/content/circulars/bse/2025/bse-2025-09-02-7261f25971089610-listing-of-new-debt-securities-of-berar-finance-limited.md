@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- berar-finance
+- bond-listing
 - debt-securities
 - private-placement
-- bond-listing
-- berar-finance
 title: Listing of new debt securities of Berar Finance Limited
 ---
 

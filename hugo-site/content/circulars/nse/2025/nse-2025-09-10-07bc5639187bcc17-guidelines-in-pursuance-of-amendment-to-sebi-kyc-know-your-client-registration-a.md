@@ -25,12 +25,11 @@ severity: high
 source: nse
 stocks: []
 tags:
-- kyc
-- compliance
-- trading-restrictions
-- kra
 - client-validation
-- sebi-regulations
+- compliance
+- kyc
+- regulatory-framework
+- trading-restrictions
 title: Guidelines on SEBI KYC Regulations Amendment - Non-Validated Client Trading
   Restrictions
 ---

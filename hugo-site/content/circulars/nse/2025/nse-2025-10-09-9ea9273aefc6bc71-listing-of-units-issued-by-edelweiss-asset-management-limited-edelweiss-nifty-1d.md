@@ -26,12 +26,11 @@ source: nse
 stocks:
 - ELIQUID
 tags:
+- edelweiss
 - etf
+- liquid-fund
 - listing
 - mutual-fund
-- liquid-fund
-- edelweiss
-- new-listing
 title: Listing of Edelweiss Nifty 1D Rate Liquid ETF Units on NSE
 ---
 

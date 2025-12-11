@@ -26,16 +26,16 @@ severity: high
 source: nse
 stocks: []
 tags:
-- penalties
-- trading-members
-- compliance
-- member-inspection
 - client-funds
-- net-worth
-- securities-misuse
+- compliance
 - disciplinary-action
 - ease-of-doing-business
+- member-inspection
+- net-worth
+- penalty
+- securities-misuse
 - standardization
+- trading-member
 title: Rationalization and Standardization of Penalties for Trading Member Non-Compliances
 ---
 

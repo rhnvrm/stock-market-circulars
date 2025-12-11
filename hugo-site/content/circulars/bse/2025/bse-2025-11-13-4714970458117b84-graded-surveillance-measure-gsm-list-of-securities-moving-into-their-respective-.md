@@ -29,13 +29,11 @@ stocks:
 - MSRIND
 - SCINCOM
 - MADHIND
-- RAPCORP
+- RAP
 - FOUNDRY
 tags:
-- gsm
+- market-operations
 - surveillance
-- graded-surveillance-measure
-- market-regulation
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---

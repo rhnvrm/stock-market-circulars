@@ -26,13 +26,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- internal-audit
-- trading-members
 - compliance
-- inspection
-- audit-report
+- investigation
+- sebi
+- system-audit
+- trading-member
 - upfront-margins
-- sebi-compliance
 title: Internal Audit of Trading Members - Half Year Ended September 30, 2025
 ---
 

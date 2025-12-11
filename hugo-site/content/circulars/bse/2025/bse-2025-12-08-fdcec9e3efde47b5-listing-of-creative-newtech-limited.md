@@ -26,13 +26,11 @@ source: bse
 stocks:
 - CREATIVE
 tags:
-- financial-results
 - board-meeting
-- quarterly-results
-- unaudited-results
+- financial-results
 - regulation-30
 - regulation-33
-- CREATIVE
+- unaudited-results
 title: Listing of CREATIVE NEWTECH LIMITED
 ---
 

@@ -30,10 +30,10 @@ stocks:
 - GAMECHNG
 tags:
 - group-change
-- sme
-- rolling-segment
-- trade-for-trade
 - market-segment
+- rolling-segment
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- municipal-bonds
-- debentures
-- green-bonds
 - debt-securities
-- surat-municipal-corporation
+- green-bonds
 - listing
+- municipal-bonds
+- ncd
 - non-convertible
+- surat-municipal-corporation
 title: Listing of Secured Redeemable Non-Convertible Debentures of Surat Municipal
   Corporation
 ---

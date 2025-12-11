@@ -28,11 +28,11 @@ stocks:
 - RBLBANK
 tags:
 - clarification
+- disclosure
 - news-article
 - partnership
-- zerodha
-- disclosure
 - regulation-30
+- zerodha
 title: RBL Bank Clarification on News Article Regarding Zerodha Partnership
 ---
 

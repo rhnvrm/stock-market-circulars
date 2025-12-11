@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- scheme-of-arrangement
-- amalgamation
-- reconstruction
 - listing
-- sebi-lodr
+- lodr
 - nclt
+- reconstruction
 - rule-19
+- scheme-of-arrangement
 - securities-contracts
 title: Joint Standard Operating Procedure for Scheme of Arrangements under SEBI Regulations
   37 and 59A

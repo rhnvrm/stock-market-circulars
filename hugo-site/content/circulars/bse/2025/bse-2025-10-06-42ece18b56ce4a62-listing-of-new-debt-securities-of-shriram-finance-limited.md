@@ -31,7 +31,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- shriram-finance
 - reset-rate
 title: Listing of new debt securities of Shriram Finance Limited
 ---

@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544614'
+- CAPILLARY
 tags:
-- index
-- bse-ipo-index
 - addition
-- capillary-technologies
-- listing
+- bse-index
 - equity
+- index-fund
+- listing
 title: Addition to the BSE IPO INDEX
 ---
 

@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - birla-group-holdings
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of Commercial Paper of Birla Group Holdings Private Limited
 ---
 

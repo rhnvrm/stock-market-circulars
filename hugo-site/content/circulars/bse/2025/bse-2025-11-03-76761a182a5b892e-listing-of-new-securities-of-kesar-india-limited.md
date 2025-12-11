@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- KESARINDIA
+- KESAR
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- non-promoters
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of KESAR INDIA LIMITED
 ---
 

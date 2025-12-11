@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ADITYAINFOTECH
+- CPPLUS
 - FOSECO
 - IZMO
 - KANDRAIL
@@ -33,7 +33,7 @@ stocks:
 - NTCIND
 - PACHELI
 - PROSPECTCONSUMER
-- ROYALSENSE
+- ROYAL
 - ARYAMAN
 - ASIANHOTELS
 - CLEDUCATE
@@ -44,10 +44,10 @@ stocks:
 - SUPERIRON
 - TILAKNAGAR
 tags:
-- st-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

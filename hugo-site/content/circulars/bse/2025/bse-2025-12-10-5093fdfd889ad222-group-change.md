@@ -24,11 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '519003'
+- MODINATUR
 tags:
-- group-change
-- modi-naturals
 - equity
+- group-change
 - trading
 title: Group Change - Modi Naturals Ltd
 ---

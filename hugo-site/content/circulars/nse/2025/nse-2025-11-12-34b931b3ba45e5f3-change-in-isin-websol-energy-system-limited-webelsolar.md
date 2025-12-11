@@ -26,11 +26,10 @@ source: nse
 stocks:
 - WEBELSOLAR
 tags:
-- isin-change
-- stock-split
-- sub-division
-- face-value-change
 - corporate-action
+- face-value-change
+- isin
+- split
 title: Change in ISIN - Websol Energy System Limited (WEBELSOLAR)
 ---
 

@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
+- hybrid-fund
 - mutual-fund
 - nfo
-- tata-mutual-fund
 - sif
-- hybrid-fund
-- nse-mf-invest
-- specialized-investment-fund
-- equity
+- tata-mutual-fund
+- trading-platform
 title: Launch of Titanium Hybrid Long-Short Fund NFO under Specialized Investment
   Fund (SIF) on NSE MF Invest Platform
 ---

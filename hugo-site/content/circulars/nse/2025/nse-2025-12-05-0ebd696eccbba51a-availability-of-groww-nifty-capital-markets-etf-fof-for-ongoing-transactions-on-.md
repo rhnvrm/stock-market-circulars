@@ -26,17 +26,17 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- equity
 - etf
 - fund-of-funds
 - groww-mutual-fund
-- nse-mf-invest
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- equity
+- trading-platform
 title: Availability of Groww Nifty Capital Markets ETF FOF for ongoing transactions
   on NSE MF Invest Platform
 ---

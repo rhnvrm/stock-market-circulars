@@ -26,12 +26,11 @@ source: nse
 stocks:
 - STEELCAS
 tags:
-- early-pay-in
-- face-value-split
-- steelcast
 - corporate-action
-- settlement
 - depository
+- early-pay-in
+- face-value-change
+- settlement
 title: Early Pay-in of Securities for Steelcast Ltd (STEELCAS) - Face Value Split
 ---
 

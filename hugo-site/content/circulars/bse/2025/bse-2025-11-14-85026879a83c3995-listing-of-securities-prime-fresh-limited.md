@@ -28,12 +28,12 @@ source: bse
 stocks:
 - PRIMEFRES
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of Securities - PRIME FRESH LIMITED - Preferential Allotment
 ---
 

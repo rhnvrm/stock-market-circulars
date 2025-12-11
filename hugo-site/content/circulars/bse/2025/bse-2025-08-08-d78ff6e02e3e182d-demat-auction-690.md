@@ -30,7 +30,7 @@ stocks:
 - AMBUJA
 - ASIAN
 - BHARTI
-- BOROSIL
+- BOROLTD
 - CENTURY
 - COFFEE
 - COROMANDEL
@@ -66,10 +66,10 @@ stocks:
 - ZUARI
 - ZYDUS
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction - 690
 ---
 

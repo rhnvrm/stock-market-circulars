@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl
+- appeal
+- information-disclosure
 - investor-claims
 - justice-lodha-committee
-- appeal-dismissed
-- information-disclosure
+- rti
 title: Appeal No. 6553 of 2025 filed by Jagesh Kumar - RTI Appeal Dismissed
 ---
 

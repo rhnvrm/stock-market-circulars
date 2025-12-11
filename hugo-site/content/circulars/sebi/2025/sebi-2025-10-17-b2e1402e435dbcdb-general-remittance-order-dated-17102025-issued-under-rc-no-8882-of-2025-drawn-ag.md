@@ -27,14 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- iso
 - bse
-- huf
+- demand-notice
+- enforcement
 - gopalkrishna-ratanchand-shah
-- remittance-order
-- recovery-proceedings
+- huf
+- iso
+- recovery
 title: General Remittance Order under RC No. 8882 of 2025 - Gopalkrishna Ratanchand
   Shah HUF - ISO at BSE
 ---

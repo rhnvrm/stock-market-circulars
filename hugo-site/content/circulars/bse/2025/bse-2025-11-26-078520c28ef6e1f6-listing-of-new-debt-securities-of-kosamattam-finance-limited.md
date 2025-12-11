@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
-- listing
 - kosamattam-finance
+- listing
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of Kosamattam Finance Limited
 ---
 

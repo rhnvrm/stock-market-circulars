@@ -26,12 +26,12 @@ source: bse
 stocks:
 - RINFRA
 tags:
-- reliance-infrastructure
-- preferential-allotment
-- equity-shares
-- promoter-issue
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
+- reliance-infrastructure
 title: Listing of New Securities of Reliance Infrastructure Ltd - Preferential Allotment
 ---
 

@@ -41,11 +41,9 @@ stocks:
 - FISCHERME
 - GALLANTT
 tags:
+- asm-stage
 - surveillance
-- st-asm
 - trading-restrictions
-- market-surveillance
-- additional-surveillance-measure
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

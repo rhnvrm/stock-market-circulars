@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
 - compliance
-- sms-techsoft
-- recovery-proceedings
 - defaulter
+- enforcement
+- recovery
 title: SEBI Compliance Completion Order - Recovery Certificate No. 4518 of 2022 against
   Kaliyaben Himanshu Shah
 ---

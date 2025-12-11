@@ -27,13 +27,11 @@ source: nse
 stocks:
 - COALINDIA
 tags:
-- futures-and-options
+- clearing
 - contract-adjustment
-- dividend
-- coalindia
 - derivatives
-- clearing-settlement
-- coal-india
+- dividend
+- futures-options
 title: Adjustment of Futures and Options contracts in the security COAL INDIA LIMITED
   (COALINDIA)
 ---

@@ -54,11 +54,10 @@ stocks:
 - NBCC
 - KPR
 tags:
-- index-reconstitution
 - bse-indices
+- index-change
 - stock-addition
 - stock-deletion
-- index-changes
 title: Reconstitution of BSE Indices - Multiple Index Changes Effective September
   22, 2025
 ---

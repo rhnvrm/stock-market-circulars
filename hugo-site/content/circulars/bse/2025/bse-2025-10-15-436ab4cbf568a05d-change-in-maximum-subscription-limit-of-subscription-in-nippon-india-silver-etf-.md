@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
-- silver-etf
-- fund-of-fund
+- fund-of-funds
 - investor-protection
+- market-operations
+- mutual-fund
 - nippon-india
-- market-conditions
+- silver
+- subscription-limit
 title: Nippon India Silver ETF Fund of Fund Limits Fresh Subscriptions to Rs. 1 Lakh
   Per PAN Per Day
 ---

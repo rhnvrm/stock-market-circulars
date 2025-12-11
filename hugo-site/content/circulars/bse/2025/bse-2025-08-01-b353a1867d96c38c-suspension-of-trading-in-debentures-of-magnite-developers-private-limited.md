@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MDPL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-segment
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED
 ---
 

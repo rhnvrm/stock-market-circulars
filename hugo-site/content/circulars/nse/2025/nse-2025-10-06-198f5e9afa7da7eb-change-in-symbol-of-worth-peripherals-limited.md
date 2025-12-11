@@ -27,9 +27,8 @@ stocks:
 - WORTH
 - WORTHPERI
 tags:
-- symbol-change
 - listing
-- worth-peripherals
+- name-change
 - trading-symbol
 title: Change in symbol of Worth Peripherals Limited
 ---

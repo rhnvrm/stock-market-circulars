@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- compliance
-- waiver-applications
-- fines
-- regulations
-- company-secretary
 - board-composition
+- company-secretary
+- compliance
+- fines
 - investor-complaints
+- regulations
+- waiver-applications
 title: Processing of Waiver Applications by Exchanges for Commonly Listed Entities
 ---
 

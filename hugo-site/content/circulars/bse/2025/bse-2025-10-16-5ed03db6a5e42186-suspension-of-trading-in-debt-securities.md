@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SML
 tags:
-- debt-securities
-- trading-suspension
+- corporate-action
 - debenture-maturity
-- corporate-actions
-- SML
+- debt-securities
+- suspension
 title: Suspension of Trading in Debt Securities of SML (Maturity on October 20, 2025)
 ---
 

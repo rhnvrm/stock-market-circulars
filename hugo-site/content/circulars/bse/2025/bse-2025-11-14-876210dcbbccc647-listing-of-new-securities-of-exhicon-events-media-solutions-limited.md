@@ -27,12 +27,12 @@ source: bse
 stocks:
 - EXHICON
 tags:
-- listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- lock-in
+- conversion
+- equity
 - exhicon-events
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Exhicon Events Media Solutions Limited
 ---
 

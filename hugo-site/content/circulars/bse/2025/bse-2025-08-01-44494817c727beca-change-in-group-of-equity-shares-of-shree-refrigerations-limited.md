@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SHREE REFRIGERATIONS
+- SHREEREF
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
-- sme
 - segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SHREE REFRIGERATIONS LIMITED
 ---
 

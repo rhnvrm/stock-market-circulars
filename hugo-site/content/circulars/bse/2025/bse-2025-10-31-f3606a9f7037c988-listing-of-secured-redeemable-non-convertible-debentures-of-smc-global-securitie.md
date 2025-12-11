@@ -27,12 +27,10 @@ source: bse
 stocks:
 - SMCGLOBAL
 tags:
+- debt-securities
+- fixed-income
 - listing
 - ncd
-- debentures
-- debt-securities
-- smc-global-securities
-- fixed-income
 title: Listing of Secured Redeemable Non-Convertible Debentures of SMC Global Securities
   Limited
 ---

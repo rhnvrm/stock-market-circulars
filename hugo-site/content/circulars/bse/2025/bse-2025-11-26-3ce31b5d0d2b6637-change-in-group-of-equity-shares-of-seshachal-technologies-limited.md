@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '531794'
+- SESHACHAL
 tags:
+- asm-stage
 - group-change
-- x-group
-- trading-restriction
-- seshachal-technologies
+- trading-restrictions
 title: Change in Group of Equity Shares of Seshachal Technologies Limited
 ---
 

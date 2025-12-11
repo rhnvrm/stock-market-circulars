@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- n-mass
-- custodians
 - auction-trade
-- trade-confirmation
-- clearing
 - capital-market
+- clearing
+- custodians
+- n-mass
+- trade-confirmation
 title: Facility on N-MASS for Custodians for Auction Trade Confirmation
 ---
 

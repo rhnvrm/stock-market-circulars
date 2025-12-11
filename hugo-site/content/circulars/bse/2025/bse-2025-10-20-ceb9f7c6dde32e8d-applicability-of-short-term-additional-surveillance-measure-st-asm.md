@@ -31,7 +31,7 @@ stocks:
 - CROISSANCE
 - EARKART
 - HYBRIDFINL
-- JAYUSHIN
+- JAYUSH
 - KEYNOTEFI
 - TARAPURTRF
 - ABMKNOWLEDG
@@ -46,16 +46,15 @@ stocks:
 - CARGOTRANS
 - DYNIND
 - ENVAIRELEC
-- ESSEXMARINE
+- ESSEX
 - GARNETCONS
 - GETALONG
 - GLOBALVECT
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- ST-ASM
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

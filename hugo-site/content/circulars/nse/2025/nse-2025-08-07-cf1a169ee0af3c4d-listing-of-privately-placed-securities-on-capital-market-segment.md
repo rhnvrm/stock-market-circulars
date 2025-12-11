@@ -26,11 +26,10 @@ source: nse
 stocks:
 - HEROFINCORP
 tags:
+- bond
+- debt-securities
 - listing
 - private-placement
-- bonds
-- hero-fincorp
-- debt-securities
 title: Listing of Hero FinCorp Limited Privately Placed Securities on Capital Market
   Segment
 ---

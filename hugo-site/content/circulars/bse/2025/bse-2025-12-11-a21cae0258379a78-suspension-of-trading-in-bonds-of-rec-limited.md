@@ -26,12 +26,12 @@ source: bse
 stocks:
 - RECLTD
 tags:
-- bonds
-- suspension
-- redemption
-- debt-market
-- corporate-actions
+- bond
+- corporate-action
+- debt-securities
 - rec-limited
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of REC LIMITED
 ---
 

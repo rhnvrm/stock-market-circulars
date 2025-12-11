@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544627'
+- PURPLEWAVE
 tags:
 - group-change
-- segment-transfer
-- sme-ipo
 - rolling-segment
+- segment-transfer
+- sme
 - trade-for-trade
-- purple-wave-infocom
 title: Change in Group of Equity Shares of PURPLE WAVE INFOCOM LIMITED
 ---
 

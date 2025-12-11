@@ -25,11 +25,11 @@ source: bse
 stocks:
 - EFCL
 tags:
+- crisil-rated
 - debt-securities
+- edel-finance
 - listing
 - private-placement
-- edel-finance
-- crisil-rated
 title: Listing of new debt securities of Edel Finance Company Limited
 ---
 

@@ -26,13 +26,13 @@ source: bse
 stocks:
 - RSEJFPL
 tags:
-- debentures
-- part-redemption
-- debt
-- corporate-actions
-- interest-payment
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of RENEW SOLAR ENERGY (JHARKHAND FIVE) PRIVATE
   LIMITED
 ---

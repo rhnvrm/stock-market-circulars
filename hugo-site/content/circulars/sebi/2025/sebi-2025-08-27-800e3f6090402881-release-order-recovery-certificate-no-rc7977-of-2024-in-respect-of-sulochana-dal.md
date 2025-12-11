@@ -24,12 +24,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
-- release-order
-- sulochana-dalmia
 - pan-aaxpd9770f
+- recovery
+- release
+- sulochana-dalmia
 title: Release Order - Recovery Certificate No. RC7977 of 2024 in respect of Sulochana
   Dalmia
 ---

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - LAXMIFINANCE
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - laxmi-india-finance
+- listing
 title: Listing of Equity Shares of Laxmi India Finance Limited
 ---
 

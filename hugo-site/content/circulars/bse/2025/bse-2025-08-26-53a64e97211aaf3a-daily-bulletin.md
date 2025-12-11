@@ -31,13 +31,13 @@ stocks:
 - GSPL
 - JRFOODLTD
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
 - commercial-paper
+- daily-bulletin
 - debenture-redemption
+- dividend
 - interest-payment
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates, and Dividend Information
 ---
 

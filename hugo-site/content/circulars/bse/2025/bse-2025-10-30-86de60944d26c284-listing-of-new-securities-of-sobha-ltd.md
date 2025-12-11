@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SOBHA
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
-- sobha
+- equity
+- listing
+- rights-issue
 title: Listing of new Securities of Sobha Ltd
 ---
 

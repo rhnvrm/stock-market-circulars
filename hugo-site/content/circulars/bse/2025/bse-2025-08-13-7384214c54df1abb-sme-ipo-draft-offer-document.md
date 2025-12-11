@@ -26,11 +26,11 @@ source: bse
 stocks:
 - LIOTECH
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
-- icdr-regulations
+- draft-document
+- icdr
 - liotech-industries
+- public-comments
+- sme
 title: SME IPO Draft Offer Document - LIOTECH INDUSTRIES LIMITED Public Comment Period
 ---
 

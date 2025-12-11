@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SPANDANA
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - corporate-action
 - debt-securities
+- interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of Spandana Sphoorty Financial Limited
 ---
 

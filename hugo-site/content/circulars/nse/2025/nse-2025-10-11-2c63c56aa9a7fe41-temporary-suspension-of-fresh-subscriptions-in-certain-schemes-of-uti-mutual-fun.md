@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- uti-mutual-fund
-- silver-etf
-- subscription-suspension
-- nsemf-invest
 - commodity-fund
+- mutual-fund
+- nsemf-invest
+- silver
 - sip
 - stp
+- suspension
+- uti-mutual-fund
 title: Temporary Suspension of Fresh Subscriptions in UTI Silver ETF Fund of Fund
 ---
 

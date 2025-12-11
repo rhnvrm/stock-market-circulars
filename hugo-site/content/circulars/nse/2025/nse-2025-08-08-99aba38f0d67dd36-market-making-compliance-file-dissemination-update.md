@@ -24,11 +24,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- market-making
 - compliance
 - file-dissemination
-- trading-members
+- market-making
 - surveillance
+- trading-member
 title: Market making compliance file dissemination - Update
 ---
 

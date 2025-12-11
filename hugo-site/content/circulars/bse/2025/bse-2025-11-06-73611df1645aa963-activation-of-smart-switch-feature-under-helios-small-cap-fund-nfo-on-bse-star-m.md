@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- smart-switch
 - helios-mutual-fund
+- liquid-fund
+- mutual-fund
+- nfo
 - small-cap-fund
-- overnight-fund
-- bse-star-mf
+- smart-switch
 title: Activation of SMART Switch Feature under HELIOS SMALL CAP FUND – NFO on BSE
   StAR MF Platform
 ---

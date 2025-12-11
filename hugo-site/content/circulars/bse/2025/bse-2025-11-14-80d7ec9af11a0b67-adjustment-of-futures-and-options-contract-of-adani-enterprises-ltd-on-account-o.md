@@ -28,12 +28,12 @@ source: bse
 stocks:
 - ADEL
 tags:
-- derivatives
-- futures-and-options
-- corporate-actions
-- rights-issue
-- contract-adjustment
 - adani-enterprises
+- contract-adjustment
+- corporate-action
+- derivatives
+- futures-options
+- rights-issue
 title: Adjustment of Futures and Options Contract of Adani Enterprises Ltd on Account
   of Rights Issue - Update
 ---

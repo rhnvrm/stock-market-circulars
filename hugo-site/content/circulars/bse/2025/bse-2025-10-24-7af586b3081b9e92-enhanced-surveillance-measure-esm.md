@@ -75,11 +75,9 @@ stocks:
 - HIRA
 - INDIABUL
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-regulation
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective October
   27, 2025
 ---

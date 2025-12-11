@@ -25,14 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- fund-of-funds
+- gold-silver-fof
+- kotak-mutual-fund
 - mutual-fund
 - nfo
-- new-fund-offer
-- kotak-mutual-fund
-- gold-silver-fof
-- fund-of-funds
 - passive-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Kotak Gold Silver Passive FOF NFO on NSE MF Invest Platform
 ---
 

@@ -26,13 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- neat-version
-- encryption
-- neat-adapter
-- trading-session
+- derivatives
 - disaster-recovery
+- encryption
+- mock-trading
+- trading-platform
+- trading-session
 title: Mock Trading Session on Saturday, October 11, 2025 - No New Version Release
 ---
 

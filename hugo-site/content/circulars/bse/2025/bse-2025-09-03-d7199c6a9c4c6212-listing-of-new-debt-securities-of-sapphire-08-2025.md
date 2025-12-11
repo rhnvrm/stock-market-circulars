@@ -25,12 +25,11 @@ source: bse
 stocks:
 - SAPPHIRE
 tags:
+- bond-listing
 - debt-securities
 - listing
 - private-placement
-- sapphire
 - ptc
-- bond-listing
 title: Listing of New Debt Securities of SAPPHIRE 08 2025
 ---
 

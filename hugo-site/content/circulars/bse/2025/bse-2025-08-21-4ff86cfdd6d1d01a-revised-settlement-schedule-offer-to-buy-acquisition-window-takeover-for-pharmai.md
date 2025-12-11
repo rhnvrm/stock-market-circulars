@@ -26,12 +26,10 @@ source: bse
 stocks:
 - PHARMAIDS
 tags:
+- early-pay-in
+- obligation-download
 - settlement
 - takeover
-- acquisition
-- pharmaids
-- obligation-download
-- early-pay-in
 title: Revised Settlement Schedule for PHARMAIDS PHARMACEUTICALS LIMITED Takeover
   Offer
 ---

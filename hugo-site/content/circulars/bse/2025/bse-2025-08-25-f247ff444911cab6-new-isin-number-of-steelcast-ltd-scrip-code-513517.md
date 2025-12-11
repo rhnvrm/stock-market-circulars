@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- STEELCAST
+- STEELCAS
 tags:
-- corporate-actions
-- share-subdivision
-- isin-change
-- steelcast
-- equity-shares
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for STEELCAST LTD Following Share Sub-division
 ---
 

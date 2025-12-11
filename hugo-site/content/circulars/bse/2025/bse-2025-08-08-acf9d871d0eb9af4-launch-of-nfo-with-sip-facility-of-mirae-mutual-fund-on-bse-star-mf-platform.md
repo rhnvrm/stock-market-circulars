@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- gold
+- mirae-asset
 - mutual-fund
 - nfo
-- sip
-- gold
-- silver
 - passive-fund
-- mirae-asset
+- silver
+- sip
 title: Launch of MIRAE ASSET GOLD SILVER PASSIVE FOF NFO on BSE StAR MF Platform
 ---
 

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - IKFFINANCE
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt-market
-- ikf-finance
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of IKF Finance Limited
 ---
 

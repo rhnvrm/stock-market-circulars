@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PRACHAY
 tags:
-- debentures
-- trading-resumption
+- debt-securities
+- ncd
+- prachay-capital
 - put-option
 - redemption
-- debt-segment
-- prachay-capital
+- trading-resumption
 title: Resumption of Trading in Debentures of PRACHAY CAPITAL LTD (Scrip Code 976843)
 ---
 

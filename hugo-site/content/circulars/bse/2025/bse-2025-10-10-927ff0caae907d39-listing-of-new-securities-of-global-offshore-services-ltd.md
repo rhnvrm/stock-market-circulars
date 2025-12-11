@@ -27,11 +27,11 @@ source: bse
 stocks:
 - GOSL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- new-securities
+- conversion
+- equity
 - global-offshore-services
+- new-securities
+- preferential-issue
 title: Listing of 35,000 New Equity Shares of Global Offshore Services Ltd
 ---
 

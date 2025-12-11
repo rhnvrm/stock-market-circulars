@@ -25,11 +25,10 @@ source: bse
 stocks:
 - JSWCEMENT
 tags:
-- public-issue
-- anchor-investors
-- allocation
-- jsw-cement
+- allotment
+- anchor-investor
 - ipo
+- public-issue
 title: Public Issue of JSW Cement Limited - Allocation to Anchor Investors
 ---
 

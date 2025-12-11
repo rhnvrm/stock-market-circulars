@@ -28,11 +28,9 @@ source: bse
 stocks:
 - CSIL
 tags:
+- book-building
 - delisting
-- voluntary-delisting
-- reverse-book-building
-- acquisition-window
-- offer-to-buy
+- otb
 title: Opening of Offer to Buy – Acquisition Window (Delisting) of CHANDI STEEL INDUSTRIES
   LIMITED
 ---

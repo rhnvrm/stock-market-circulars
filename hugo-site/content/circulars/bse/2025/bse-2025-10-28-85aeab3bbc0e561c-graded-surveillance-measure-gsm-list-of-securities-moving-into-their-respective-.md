@@ -31,11 +31,10 @@ stocks:
 - NEELKANTH
 - RCIIND
 tags:
-- gsm
-- surveillance
-- stage-movement
-- market-integrity
+- asm-stage
 - investor-protection
+- market-operations
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages (October
   28, 2025)
 ---

@@ -27,10 +27,10 @@ stocks:
 - SEYA
 tags:
 - demand-notice
-- recovery-certificate
 - enforcement
+- recovery
+- regulatory
 - seya-industries
-- regulatory-action
 title: Notice of Demand dated 13.08.2025 issued under RC No. 8860 of 2025 drawn against
   Mr. Ashok Ghanshyamdas Rajani in the matter of Seya Industries Limited
 ---

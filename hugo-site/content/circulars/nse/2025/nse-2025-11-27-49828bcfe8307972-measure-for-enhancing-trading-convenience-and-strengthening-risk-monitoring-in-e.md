@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- equity-derivatives
 - ban-period
+- derivatives
 - penalty
+- position-limits
 - position-monitoring
 - risk-management
-- mwpl
-- trading-members
+- trading-member
 title: Discontinuation of Interim Penalty Procedure for Ban Period Position Increases
   in Equity Derivatives
 ---

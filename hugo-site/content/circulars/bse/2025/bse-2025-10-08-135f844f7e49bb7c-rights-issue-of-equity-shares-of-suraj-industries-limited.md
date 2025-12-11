@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SURAJINDL
 tags:
-- rights-issue
-- equity-shares
-- corporate-action
-- record-date
-- ex-rights
 - capital-raising
+- corporate-action
+- equity
+- record-date
+- renunciation
+- rights-issue
 title: 'Rights Issue of Equity Shares - Suraj Industries Limited (Record Date: October
   13, 2025)'
 ---

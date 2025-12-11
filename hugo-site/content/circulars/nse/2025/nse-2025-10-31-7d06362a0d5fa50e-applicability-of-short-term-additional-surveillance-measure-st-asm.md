@@ -35,11 +35,10 @@ stocks:
 - RICHA
 - TATVA
 tags:
-- surveillance
-- asm
-- st-asm
+- asm-stage
+- market-operations
 - short-term-surveillance
-- market-monitoring
+- surveillance
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

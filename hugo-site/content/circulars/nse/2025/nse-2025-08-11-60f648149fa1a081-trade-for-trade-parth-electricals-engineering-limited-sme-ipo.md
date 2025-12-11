@@ -26,10 +26,10 @@ source: nse
 stocks:
 - PARTH
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Parth Electricals & Engineering Limited (SME IPO)
 ---
 

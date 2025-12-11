@@ -27,10 +27,10 @@ source: bse
 stocks:
 - BBTCL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - bse-debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of Commercial Paper of Bombay Burmah Trading Corporation Limited
 ---
 

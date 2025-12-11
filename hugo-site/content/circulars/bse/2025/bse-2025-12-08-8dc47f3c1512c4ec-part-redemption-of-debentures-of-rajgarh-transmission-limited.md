@@ -27,13 +27,13 @@ source: bse
 stocks:
 - RAJGARH
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - debt-securities
-- corporate-actions
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of RAJGARH TRANSMISSION LIMITED
 ---
 

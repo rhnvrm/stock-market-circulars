@@ -25,15 +25,15 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bandhan
+- equity
 - mutual-fund
-- trading
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- bandhan
-- equity-fund
+- trading
 title: Availability of BANDHAN MULTI-FACTOR FUND for ongoing transactions on BSE StAR
   MF Platform
 ---

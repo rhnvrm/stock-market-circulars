@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TBBT
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- tbbt
 - bombay-burmah
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of New Commercial Paper of The Bombay Burmah Trading Corporation Ltd.
 ---

@@ -27,11 +27,10 @@ stocks:
 - TBOTEK
 - BAJFINANCE
 tags:
-- volume-movement
 - clarification
-- disclosure
-- price-sensitive-information
 - compliance
+- disclosure
+- price-movement
 title: Clarifications received from the companies
 ---
 

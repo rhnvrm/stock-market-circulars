@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- penalty-appeals
-- member-committee
-- governance
-- regulatory-actions
-- market-infrastructure
 - compliance
+- corporate-governance
+- market-infrastructure
+- member-committee
+- penalty-appeals
+- regulatory
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Member Committee
 ---

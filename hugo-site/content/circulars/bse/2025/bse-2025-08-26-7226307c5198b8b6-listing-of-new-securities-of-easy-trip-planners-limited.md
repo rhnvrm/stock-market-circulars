@@ -26,11 +26,11 @@ source: bse
 stocks:
 - EASEMYTRIP
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
 - easy-trip-planners
-- lock-in-period
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of new Securities of Easy Trip Planners Limited - 92.77 Million Equity
   Shares
 ---

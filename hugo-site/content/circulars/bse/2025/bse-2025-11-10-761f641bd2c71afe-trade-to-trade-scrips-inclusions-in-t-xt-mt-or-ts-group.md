@@ -50,15 +50,15 @@ stocks:
 - BOTHRA
 - FONE4
 - GHUSHINE
-- MACHOTELS
+- MACH
 - REETECH
 tags:
-- trade-for-trade
-- surveillance
+- market-operations
 - price-band
 - rolling-segment
 - sme
-- market-operations
+- surveillance
+- trade-for-trade
 title: Trade-To-Trade Scrips – Inclusions in "T", "XT", "MT" or "TS" Group
 ---
 

@@ -28,10 +28,10 @@ source: bse
 stocks:
 - STEELXIND
 tags:
-- debt-securities
-- non-convertible-debentures
-- material-changes
 - debenture-trustee
+- debt-securities
+- material-changes
+- ncd
 - security-documents
 - steel-exchange-india
 title: Update Regarding debt securities of Steel Exchange India Limited

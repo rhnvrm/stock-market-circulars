@@ -27,8 +27,8 @@ source: bse
 stocks:
 - AEONX
 - ASTRON
-- BKVINDUSTRIES
-- JAICORP
+- BKV
+- JAICORPLTD
 - LATIMMETAL
 - LAKHOTIA
 - MUNOTH
@@ -45,11 +45,11 @@ stocks:
 - SAHARA
 - TRANSCHEM
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- risk-management
+- asm-stage
 - market-operations
+- risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

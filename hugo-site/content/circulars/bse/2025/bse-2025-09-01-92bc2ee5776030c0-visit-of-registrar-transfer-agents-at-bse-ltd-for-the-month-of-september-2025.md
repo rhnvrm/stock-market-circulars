@@ -24,22 +24,20 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '532057'
-- '522150'
-- '526628'
-- '501630'
-- '517096'
-- '524218'
-- '530245'
-- '524434'
-- '512261'
-- '507944'
+- ABHICAP
+- AJWAFUN
+- ANANDPROJ
+- APLAB
+- RESONANCE
+- ARYAMAN
+- ASINPET
+- BAJGLOB
+- BAJAJST
 tags:
-- registrar-transfer-agents
-- rta
 - adroit-corporate
-- visit-schedule
+- rta
 - september-2025
+- visit-schedule
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for September 2025
 ---
 

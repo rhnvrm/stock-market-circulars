@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MURAE
 tags:
-- bonus-issue
-- record-date
-- share-allotment
-- trading-commencement
+- allotment
+- bonus
 - depository-credit
+- record-date
+- trading-operations
 title: Bonus Issue of MURAE ORGANISOR LIMITED - Record Date August 7, 2025
 ---
 

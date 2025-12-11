@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TATACONSUMER
 tags:
+- abeyance
+- equity
 - listing
-- equity-shares
 - scheme
-- abeyance-shares
-- TATACONSUMER
 title: Listing of 883 New Equity Shares of Tata Consumer Products Limited
 ---
 

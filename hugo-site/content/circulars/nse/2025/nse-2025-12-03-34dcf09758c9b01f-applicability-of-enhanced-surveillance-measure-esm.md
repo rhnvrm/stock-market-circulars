@@ -29,13 +29,11 @@ stocks:
 - GLOBAL
 - TVSELECT
 tags:
-- enhanced-surveillance
-- esm
-- trade-for-trade
-- margin-requirements
-- surveillance-measures
+- asm-stage
 - global-education
-- tvs-electronics
+- margin
+- surveillance
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) - Addition of Global Education Limited
   and TVS Electronics Limited
 ---

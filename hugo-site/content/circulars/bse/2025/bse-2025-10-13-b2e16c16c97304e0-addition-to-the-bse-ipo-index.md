@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544574'
+- TATACAP
 tags:
-- index
-- bse-ipo-index
-- index-addition
-- new-listing
+- bse-index
+- index-change
+- index-fund
+- listing
 - tata-capital
 title: Addition to the BSE IPO INDEX
 ---

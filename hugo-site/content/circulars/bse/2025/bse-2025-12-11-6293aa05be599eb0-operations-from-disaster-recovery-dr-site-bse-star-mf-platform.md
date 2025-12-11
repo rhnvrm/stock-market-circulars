@@ -26,11 +26,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - disaster-recovery
-- system-maintenance
+- mutual-fund
 - platform-operations
-- bse-star-mf
+- system-update
 title: Operations from Disaster Recovery (DR) Site – BSE StAR MF Platform
 ---
 

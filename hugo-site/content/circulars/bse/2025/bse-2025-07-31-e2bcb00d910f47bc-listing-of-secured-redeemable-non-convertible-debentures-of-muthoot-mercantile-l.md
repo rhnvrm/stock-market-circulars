@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MUTHOOTMF
 tags:
-- listing
-- debentures
-- ncd
 - debt-securities
+- listing
 - muthoot-mercantile
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Muthoot Mercantile
   Limited
 ---

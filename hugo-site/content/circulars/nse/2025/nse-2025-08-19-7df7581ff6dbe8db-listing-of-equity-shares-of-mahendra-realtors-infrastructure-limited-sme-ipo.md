@@ -26,12 +26,11 @@ source: nse
 stocks:
 - MRIL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
-- equity-shares
-- tfts
+- equity
+- listing
+- sme
+- trading-platform
 title: Listing of Equity Shares of Mahendra Realtors & Infrastructure Limited (SME
   IPO)
 ---

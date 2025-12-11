@@ -26,12 +26,12 @@ source: nse
 stocks:
 - SIGMA
 tags:
-- early-pay-in
 - corporate-action
-- face-value-split
-- settlement
-- margin-exemption
 - depository
+- early-pay-in
+- face-value-change
+- margin-exemption
+- settlement
 title: Early Pay-in of Securities for Sigma Solve Limited (SIGMA)
 ---
 

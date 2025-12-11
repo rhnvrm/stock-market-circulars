@@ -28,14 +28,14 @@ severity: high
 source: bse
 stocks: []
 tags:
+- client-funds
+- enforcement
+- intermediary
+- net-worth-shortfall
+- non-compliance
+- regulatory
 - sebi-order
 - stock-broker
-- regulatory-action
-- compliance-violation
-- net-worth-shortfall
-- client-funds
-- intermediaries
-- enforcement
 title: Order under Section 12(3) of SEBI Act, 1992 - Gogia Capital Services Limited
 ---
 

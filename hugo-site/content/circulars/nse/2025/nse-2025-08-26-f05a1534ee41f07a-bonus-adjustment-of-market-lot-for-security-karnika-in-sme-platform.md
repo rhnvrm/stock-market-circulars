@@ -26,10 +26,10 @@ source: nse
 stocks:
 - KARNIKA
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme-platform
+- bonus
 - corporate-action
+- market-lot
+- sme
 - trading
 title: 'BONUS: Adjustment of Market Lot for KARNIKA in SME Platform'
 ---

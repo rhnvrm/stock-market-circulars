@@ -34,9 +34,8 @@ stocks:
 - IYKOT
 - ADHATA
 tags:
-- gsm
-- surveillance
 - enhanced-monitoring
+- surveillance
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---

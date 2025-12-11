@@ -26,11 +26,10 @@ source: nse
 stocks:
 - VEDL
 tags:
+- contract-adjustment
+- corporate-action
 - dividend
 - futures-options
-- corporate-action
-- contract-adjustment
-- VEDL
 title: Dividend Adjustment of Futures and Options Contracts in VEDL
 ---
 

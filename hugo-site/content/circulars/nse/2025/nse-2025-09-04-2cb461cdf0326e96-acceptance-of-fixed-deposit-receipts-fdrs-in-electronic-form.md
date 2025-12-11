@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- collateral
-- fdr
-- electronic-form
 - bank-empanelment
 - clearing
+- collateral
+- electronic-form
+- fdr
 - futures-options
 title: MUFG Bank Added to Electronic FDR Provider List
 ---

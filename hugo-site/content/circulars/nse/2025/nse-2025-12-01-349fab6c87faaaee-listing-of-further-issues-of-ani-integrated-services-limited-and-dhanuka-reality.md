@@ -30,14 +30,12 @@ stocks:
 - AISL
 - DRL
 tags:
-- listing
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- warrant-conversion
-- sme-emerge
-- equity-shares
-- AISL
-- DRL
+- listing
+- preferential-issue
 title: Listing of Further Issues of ANI Integrated Services Limited and Dhanuka Realty
   Limited
 ---

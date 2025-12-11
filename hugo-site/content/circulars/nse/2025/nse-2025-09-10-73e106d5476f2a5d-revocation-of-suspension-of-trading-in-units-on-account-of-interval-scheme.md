@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- interval-scheme
-- trading-suspension
-- revocation
 - aditya-birla-sun-life
+- interval-scheme
+- mutual-fund
+- release
+- suspension
 title: Revocation of suspension of trading in units - on account of Interval Scheme
 ---
 

@@ -28,14 +28,12 @@ source: nse
 stocks:
 - YAARI
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-iii
-- trade-for-trade
-- surveillance
 - additional-surveillance-deposit
 - asd
 - price-band
+- stage-iii
+- surveillance
+- trade-for-trade
 - trading-restrictions
 title: List of Securities Moving to Stage III of Graded Surveillance Measure (GSM)
 ---

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - JJPVSOLAR
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
-- jj-pv-solar
+- sme
 title: SME IPO - Draft Offer Document for JJ PV SOLAR LIMITED
 ---
 

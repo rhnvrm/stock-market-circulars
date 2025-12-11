@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CTPL
 tags:
+- caratlane
 - commercial-paper
 - debt-securities
-- caratlane
-- listing
 - icra-a1-plus
+- listing
 title: Listing of new Commercial Paper of CaratLane Trading Private Limited
 ---
 

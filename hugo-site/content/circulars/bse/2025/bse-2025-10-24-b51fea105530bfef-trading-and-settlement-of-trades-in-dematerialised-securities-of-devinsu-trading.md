@@ -28,11 +28,11 @@ source: bse
 stocks:
 - DEVINSU
 tags:
-- demat-settlement
-- trade-to-trade
+- corporate-action
 - group-change
-- market-lot-change
-- corporate-actions
+- market-lot
+- settlement
+- trade-to-trade
 title: Trading and Settlement of Trades in Dematerialised Securities of Devinsu Trading
   Ltd
 ---

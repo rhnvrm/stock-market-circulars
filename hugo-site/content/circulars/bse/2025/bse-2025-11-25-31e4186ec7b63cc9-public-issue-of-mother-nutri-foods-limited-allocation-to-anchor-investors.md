@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MOTHERNUTRI
 tags:
-- ipo
-- anchor-investors
+- anchor-investor
 - equity-allocation
+- ipo
 - public-issue
-- mother-nutri-foods
 title: Public Issue of Mother Nutri Foods Limited - Allocation to Anchor Investors
 ---
 

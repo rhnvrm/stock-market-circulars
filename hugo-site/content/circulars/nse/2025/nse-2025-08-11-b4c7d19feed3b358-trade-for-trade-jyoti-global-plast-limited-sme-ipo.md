@@ -25,10 +25,10 @@ source: nse
 stocks:
 - JYOTIGLOBL
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Jyoti Global Plast Limited (SME IPO)
 ---
 

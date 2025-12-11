@@ -28,14 +28,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- fatf
-- compliance
 - aml
 - anti-money-laundering
-- trading-members
-- inspection
-- regulatory-reporting
+- compliance
 - enit-compliance
+- fatf
+- investigation
+- regulatory-reporting
+- trading-member
 title: FATF Public Statement on Jurisdictions - Compliance Submission Requirement
 ---
 

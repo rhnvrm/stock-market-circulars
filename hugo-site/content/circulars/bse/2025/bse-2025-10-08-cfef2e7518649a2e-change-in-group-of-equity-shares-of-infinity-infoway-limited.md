@@ -28,11 +28,10 @@ stocks:
 - INFINITYINF
 tags:
 - group-change
+- rolling-segment
 - segment-transfer
-- sme-ipo
+- sme
 - trade-for-trade
-- rolling-settlement
-- infinity-infoway
 title: Change in Group of Equity Shares of Infinity Infoway Limited
 ---
 

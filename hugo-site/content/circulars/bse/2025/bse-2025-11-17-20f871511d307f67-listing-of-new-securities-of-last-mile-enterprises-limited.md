@@ -27,12 +27,11 @@ source: bse
 stocks:
 - LASTMILE
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- warrant-conversion
-- equity-shares
 - lock-in
-- LASTMILE
+- preferential-issue
 title: Listing of New Securities of Last Mile Enterprises Limited - 26.39 Lakh Equity
   Shares
 ---

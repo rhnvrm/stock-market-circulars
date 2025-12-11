@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BANKMAHARASHTRA
 tags:
-- listing
-- equity-shares
-- esps
-- employee-share-purchase-scheme
 - bank-of-maharashtra
+- employee-share-purchase-scheme
+- equity
+- esps
+- listing
 - lock-in
 title: Listing of New Securities of Bank of Maharashtra under ESPS 2018
 ---

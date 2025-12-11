@@ -27,12 +27,10 @@ source: sebi
 stocks:
 - NURECA
 tags:
+- buyback
 - exemption-order
-- buy-back
-- merger
 - scheme-of-arrangement
 - wholly-owned-subsidiary
-- nureca
 title: Exemption Order in the matter of Nureca Limited - Buy-back Regulations
 ---
 

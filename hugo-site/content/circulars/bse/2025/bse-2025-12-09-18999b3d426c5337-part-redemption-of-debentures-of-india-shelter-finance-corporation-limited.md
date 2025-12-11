@@ -27,12 +27,11 @@ source: bse
 stocks:
 - INDIA SHELTER FINANCE CORPORATION LIMITED
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
 - debt-securities
-- india-shelter-finance
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of India Shelter Finance Corporation Limited
 ---
 

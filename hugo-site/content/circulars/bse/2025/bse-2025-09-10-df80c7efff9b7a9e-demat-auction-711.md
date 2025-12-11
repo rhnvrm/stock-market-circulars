@@ -38,7 +38,7 @@ stocks:
 - ASHOKLEV
 - ASIANENERGY
 - ASMTECH
-- BAJAJAUTO
+- BAJAJ-AUTO
 - BAJAJFIN
 - BAJAJFINS
 - BAJAJHOUS
@@ -46,7 +46,7 @@ stocks:
 - BHARATHVY
 - BLUESTONE
 - BROOKS
-- CELLOWORLD
+- CELLO
 - CENTURYEXT
 - COSPOWER
 - CUPID
@@ -76,7 +76,7 @@ stocks:
 - INDIATOUR
 - INDUSTRIAL
 - INFOBEANS
-- INFOSYS
+- INFY
 - INTELLECT
 - IRCON
 - ITD
@@ -121,7 +121,7 @@ stocks:
 - SAKUMA
 - SALASAR
 - SANGHVI
-- SEAMEC
+- SEAMECLTD
 - SHAH
 - SHAKTI
 - SHALBY
@@ -150,10 +150,10 @@ stocks:
 - 'YES'
 - ZYDUS
 tags:
-- demat-auction
+- demat
+- market-operations
 - settlement
 - trading
-- market-operations
 title: BSE Demat Auction Settlement No. 711 - Securities List for Auction
 ---
 

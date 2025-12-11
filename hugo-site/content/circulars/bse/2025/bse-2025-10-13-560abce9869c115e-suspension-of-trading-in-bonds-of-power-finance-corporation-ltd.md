@@ -27,12 +27,11 @@ source: bse
 stocks:
 - POWERFIN
 tags:
-- bonds
-- redemption
-- trading-suspension
+- bond
 - debt-securities
-- power-finance-corporation
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Power Finance Corporation Limited
 ---
 

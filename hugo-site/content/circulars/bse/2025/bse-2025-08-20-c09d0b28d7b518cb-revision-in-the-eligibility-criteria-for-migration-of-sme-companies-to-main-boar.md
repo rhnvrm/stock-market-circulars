@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sme
-- migration
-- main-board
-- listing
-- eligibility-criteria
-- market-capitalisation
 - compliance
+- eligibility-criteria
+- listing
+- main-board
+- market-capitalisation
+- migration
+- sme
 title: Revision in the Eligibility Criteria for Migration of SME Companies to Main
   Board
 ---

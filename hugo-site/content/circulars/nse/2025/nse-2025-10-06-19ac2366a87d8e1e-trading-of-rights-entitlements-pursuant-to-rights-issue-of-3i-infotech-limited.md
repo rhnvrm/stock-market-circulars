@@ -27,11 +27,10 @@ source: nse
 stocks:
 - 3IINFO
 tags:
-- rights-issue
-- rights-entitlements
-- trade-to-trade
-- compulsory-demat
 - capital-market
+- demat
+- rights-issue
+- trade-to-trade
 title: Trading of Rights Entitlements pursuant to Rights Issue of 3i Infotech Limited
 ---
 

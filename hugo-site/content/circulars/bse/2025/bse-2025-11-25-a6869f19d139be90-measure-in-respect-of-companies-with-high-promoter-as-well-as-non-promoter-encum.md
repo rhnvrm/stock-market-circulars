@@ -27,11 +27,10 @@ source: bse
 stocks:
 - BEDMUTHA
 tags:
-- surveillance
 - encumbrance
-- promoter-holdings
-- sebi-sast
-- additional-surveillance-measure
+- sast
+- shareholding-pattern
+- surveillance
 title: High Encumbrance Surveillance Measure - Addition of Bedmutha Industries
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NITYANAND
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- nityanand-udyog
-- icdr-regulations
 - schedule-vi
+- sme
 title: SME IPO - Draft Offer Document for Nityanand Udyog Limited Available for Public
   Comments
 ---

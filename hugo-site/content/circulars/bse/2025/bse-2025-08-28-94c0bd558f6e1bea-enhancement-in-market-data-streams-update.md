@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - market-data
-- trading-systems
-- technology-upgrade
-- nfcast
+- market-infrastructure
 - multicast
+- nfcast
+- system-update
 title: Enhancement in Market Data Streams – Update
 ---
 

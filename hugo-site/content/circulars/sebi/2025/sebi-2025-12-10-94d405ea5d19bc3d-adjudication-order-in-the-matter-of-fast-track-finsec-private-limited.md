@@ -34,22 +34,17 @@ stocks:
 - SPECULAR
 - ORACLE
 tags:
-- adjudication-order
-- merchant-banker
-- ipo-violations
-- takeover-violations
-- open-offer
-- compliance-breach
-- sast-regulations
-- icdr-regulations
-- capsm-regulations
-- periodic-reporting
-- trekkingtoes-com-limited
-- kd-leisures-limited
+- adjudication
 - akm-lace-embrotex-limited
-- spaceage-products-limited
-- specular-marketing-finance-limited
+- capsm-regulations
+- compliance-breach
+- icdr
+- ipo-violations
+- merchant-banker
 - oracle-credit-limited
+- periodic-reporting
+- regulatory-framework
+- takeover
 title: Adjudication Order in the matter of Fast Track Finsec Private Limited
 ---
 

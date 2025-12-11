@@ -28,12 +28,10 @@ source: bse
 stocks:
 - OMANSH
 tags:
-- takeover
-- open-offer
-- acquisition
-- sast-regulations
-- omansh-enterprises
 - control-acquisition
+- omansh-enterprises
+- regulatory-framework
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Omansh Enterprises
   Limited
 ---

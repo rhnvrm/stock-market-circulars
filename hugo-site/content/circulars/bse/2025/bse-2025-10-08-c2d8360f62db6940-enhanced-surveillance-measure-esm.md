@@ -40,11 +40,10 @@ stocks:
 - UHZAVERI
 - UNIVERSAL
 tags:
-- surveillance
-- ESM
-- trading-restrictions
 - market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Changes to Securities Under Surveillance
   Framework
 ---

@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- fraud-prevention
-- social-media
-- online-scams
-- intermediary-verification
-- IOSCO
-- UPI-validation
-- trading-apps
 - advertiser-verification
+- fraud-prevention
+- intermediary-verification
+- investor-protection
+- iosco
+- online-scams
+- social-media
+- trading-apps
+- upi-validation
 title: SEBI Intensifies Efforts to Combat Online Investment Scams, Calls for Greater
   Collaboration from Social Media Platforms
 ---

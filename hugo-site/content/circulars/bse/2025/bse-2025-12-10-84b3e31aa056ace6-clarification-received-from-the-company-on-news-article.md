@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- PRIMEFOCUS
+- PFOCUS
 tags:
 - clarification
-- preferential-issue
-- strategic-acquisition
-- media-article
-- regulation-30
 - disclosure
+- media-article
+- preferential-issue
+- regulation-30
+- strategic-acquisition
 title: Clarification on News Article Regarding Prime Focus Limited's ₹5,552 Crore
   Strategic Acquisition
 ---

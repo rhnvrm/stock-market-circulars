@@ -28,12 +28,12 @@ source: bse
 stocks:
 - LTFH
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
 - debt-securities
-- corporate-actions
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of L&T Finance Limited
 ---
 

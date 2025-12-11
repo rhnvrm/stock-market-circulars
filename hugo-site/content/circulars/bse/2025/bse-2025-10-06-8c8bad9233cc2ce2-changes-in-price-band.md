@@ -41,8 +41,8 @@ stocks:
 - V2RETAIL
 tags:
 - price-band
-- trading-parameters
-- market-surveillance
+- surveillance
+- trading-operations
 - volatility-control
 title: Price Band Revisions for 14 Securities Effective October 7, 2025
 ---

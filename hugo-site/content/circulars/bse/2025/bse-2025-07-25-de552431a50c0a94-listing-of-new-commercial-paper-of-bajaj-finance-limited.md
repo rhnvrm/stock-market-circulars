@@ -25,11 +25,10 @@ source: bse
 stocks:
 - BAJFINANCE
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - bajaj-finance
-- BAJFINANCE
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: BSE Lists New Commercial Paper of Bajaj Finance Limited Worth Rs. 825 Crores
 ---

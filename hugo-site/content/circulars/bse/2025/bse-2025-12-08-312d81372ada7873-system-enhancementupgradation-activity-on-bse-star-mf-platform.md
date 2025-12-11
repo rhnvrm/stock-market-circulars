@@ -27,10 +27,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- system-maintenance
-- trading-platform
-- bse-star-mf
 - platform-downtime
+- system-update
+- trading-platform
 title: System Enhancement/Upgradation Activity on BSE StAR MF Platform
 ---
 

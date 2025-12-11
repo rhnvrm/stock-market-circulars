@@ -27,11 +27,10 @@ source: bse
 stocks:
 - HWBPL
 tags:
-- suspension
-- debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
-- non-convertible-debentures
+- suspension
 - trading-halt
 title: Suspension of Trading in Debentures of HIREN WAHEN BUILDTECH PRIVATE LIMITED
 ---

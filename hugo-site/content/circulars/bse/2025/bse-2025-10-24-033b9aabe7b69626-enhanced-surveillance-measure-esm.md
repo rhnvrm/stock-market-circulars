@@ -43,7 +43,7 @@ stocks:
 - ESHAMEDIA
 - INDUCTOST
 - MIVENMAC
-- MRCAGROTECH
+- MRCAGRO
 - NAVKARURB
 - NECTARLIFE
 - PREMIEREE
@@ -75,11 +75,9 @@ stocks:
 - HIRAAUTOM
 - INDIABULLE
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- subscription-suspension
+- fund-of-funds
+- market-operations
+- mutual-fund
 - silver
+- suspension
 - uti-mutual-fund
-- fund-of-fund
-- market-conditions
 title: Temporary Suspension of Subscription in UTI Silver ETF Fund of Fund
 ---
 

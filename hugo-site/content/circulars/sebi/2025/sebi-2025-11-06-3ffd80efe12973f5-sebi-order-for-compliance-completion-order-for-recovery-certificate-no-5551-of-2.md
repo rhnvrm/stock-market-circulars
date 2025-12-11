@@ -28,11 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
 - compliance-completion
-- enforcement-action
-- sms-techsoft
+- enforcement
 - individual-noticee
+- recovery
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 5551
   of 2022 against Mr. Karan Kirtibhai Jadhav in the matter of SMS Techsoft (India)
   Limited

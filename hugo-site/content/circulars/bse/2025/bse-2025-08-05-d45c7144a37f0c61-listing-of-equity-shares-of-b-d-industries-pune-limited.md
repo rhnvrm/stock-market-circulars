@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BDINDUSTRIES
 tags:
-- listing
-- equity-shares
-- shareholding-pattern
-- post-issue
 - disclosure
+- equity
+- further-issue
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of B. D. Industries (Pune) Limited
 ---
 

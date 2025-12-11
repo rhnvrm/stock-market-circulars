@@ -28,10 +28,10 @@ source: bse
 stocks:
 - UTKARSHBNK
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
+- rights-issue
 - small-finance-bank
 title: Listing of New Securities of UTKARSH SMALL FINANCE BANK LIMITED
 ---

@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
-- stock-split
-- record-date
 - corporate-action
-- equity-shares
-- subdivision
+- equity
+- record-date
+- split
 title: Revision of Record Date for Stock Split of TITAN INTECH LTD
 ---
 

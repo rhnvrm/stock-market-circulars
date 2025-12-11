@@ -27,12 +27,10 @@ source: bse
 stocks:
 - CAMS
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
-- CAMS
+- equity
+- isin
+- split
 title: New ISIN Number for Computer Age Management Services Ltd - Scrip Code 543232
 ---
 

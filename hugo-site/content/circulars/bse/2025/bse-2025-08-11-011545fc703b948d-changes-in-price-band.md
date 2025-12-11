@@ -24,22 +24,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '535620'
-- '543312'
-- '514360'
-- '531778'
-- '500279'
-- '544453'
-- '539016'
-- '751023'
-- '503837'
-- '513498'
-- '526827'
+- BINNYMILLS
+- FOCUS
+- KRRAIL
+- KACHCHH
+- MIRCELECTR
+- MSECL
+- NEIL
+- SHRAJSYNQ
+- SOUTHMG
+- SPICEISLIN
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 11 Securities Effective August 12, 2025
 ---
 

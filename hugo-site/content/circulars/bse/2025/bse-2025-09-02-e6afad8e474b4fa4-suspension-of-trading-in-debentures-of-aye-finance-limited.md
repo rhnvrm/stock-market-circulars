@@ -27,12 +27,11 @@ source: bse
 stocks:
 - AFL
 tags:
-- debentures
-- redemption
+- corporate-action
 - interest-payment
-- trading-suspension
-- corporate-actions
-- AFL
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AYE Finance Limited
 ---
 

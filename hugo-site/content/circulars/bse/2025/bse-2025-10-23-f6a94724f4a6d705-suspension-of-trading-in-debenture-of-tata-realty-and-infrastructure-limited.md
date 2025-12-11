@@ -27,13 +27,12 @@ source: bse
 stocks:
 - TRIL
 tags:
-- debentures
-- non-convertible-debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debenture of TATA REALTY AND INFRASTRUCTURE LIMITED
 ---
 

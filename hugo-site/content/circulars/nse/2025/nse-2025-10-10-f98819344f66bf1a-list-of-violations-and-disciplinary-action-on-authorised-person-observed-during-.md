@@ -28,12 +28,12 @@ source: nse
 stocks: []
 tags:
 - authorised-persons
-- disciplinary-action
-- inspection
 - compliance
-- trading-members
-- supervision
+- disciplinary-action
 - enforcement
+- investigation
+- supervision
+- trading-member
 title: List of Violations and Disciplinary Action on Authorised Persons Observed During
   Inspection
 ---

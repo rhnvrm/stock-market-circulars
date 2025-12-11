@@ -25,10 +25,9 @@ source: bse
 stocks:
 - SWASTIKA
 tags:
-- index-addition
-- sme-ipo
+- index-change
 - listing
-- swastika-castal
+- sme
 title: Addition to the BSE SME IPO INDEX - Swastika Castal Limited
 ---
 

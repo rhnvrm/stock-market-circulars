@@ -24,12 +24,11 @@ source: nse
 stocks:
 - IIFL
 tags:
-- listing
-- bonds
-- debt-securities
-- private-placement
-- IIFL
+- bond
 - capital-market
+- debt-securities
+- listing
+- private-placement
 title: NSE Lists IIFL Samasta Finance Limited's 9.50% Bonds for Trading
 ---
 

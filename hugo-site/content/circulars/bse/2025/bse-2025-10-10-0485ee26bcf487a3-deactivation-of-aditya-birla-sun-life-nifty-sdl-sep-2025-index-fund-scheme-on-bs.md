@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- aditya-birla-sun-life-amc
 - mutual-fund
 - scheme-deactivation
-- bse-star-mf
 - scheme-maturity
 - sip-cancellation
-- aditya-birla-sun-life-amc
 title: Deactivation of ADITYA BIRLA SUN LIFE NIFTY SDL SEP 2025 INDEX FUND scheme
   on BSE StAR MF Platform
 ---

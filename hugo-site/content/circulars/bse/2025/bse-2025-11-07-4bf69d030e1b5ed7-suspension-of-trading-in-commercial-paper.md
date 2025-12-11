@@ -32,20 +32,20 @@ stocks:
 - STLTECH
 - JIOCREDIT
 - KOTAKINVEST
-- BAJAJFINSERV
+- BAJAJFINSV
 - STANDARDCH
 - BAJFINANCE
-- ICICIhomefc
+- ICICIHOMEFC
 - ADITYABIRLAHF
 - MANAPPURAM
 - 360ONEPRIME
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- debt-segment
-- corporate-actions
+- corporate-action
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Companies
 ---
 

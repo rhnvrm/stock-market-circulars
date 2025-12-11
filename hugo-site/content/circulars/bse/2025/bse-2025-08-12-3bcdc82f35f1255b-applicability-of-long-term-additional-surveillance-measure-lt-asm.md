@@ -28,16 +28,14 @@ stocks:
 - INDIANINFOTECH
 - KGDENIM
 - SIROHIA
-- BRIGHTREALESTATE
+- BRRL
 - AVIPRODUCTS
-- MIRCELECTRONICS
+- MIRCELECTR
 tags:
-- surveillance
-- ASM
-- long-term-ASM
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - securities-monitoring
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

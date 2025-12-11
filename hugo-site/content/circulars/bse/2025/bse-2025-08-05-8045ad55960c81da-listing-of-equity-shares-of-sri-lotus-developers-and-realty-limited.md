@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SRILOTUS
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
-- real-estate
 - developers
+- equity
+- ipo
+- listing
+- lock-in
+- real-estate
 title: Listing of Equity Shares of Sri Lotus Developers and Realty Limited - Lock-in
   Details
 ---

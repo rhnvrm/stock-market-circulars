@@ -39,11 +39,10 @@ stocks:
 - PIONEER
 - QUADRANT
 tags:
-- surveillance
-- additional-surveillance-measure
-- st-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

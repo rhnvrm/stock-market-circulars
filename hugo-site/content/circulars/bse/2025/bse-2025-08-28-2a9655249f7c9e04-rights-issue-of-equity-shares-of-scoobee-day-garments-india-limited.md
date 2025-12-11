@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SCOOBEE
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
+- corporate-action
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - SCOOBEE DAY GARMENTS (INDIA) LIMITED
 ---
 

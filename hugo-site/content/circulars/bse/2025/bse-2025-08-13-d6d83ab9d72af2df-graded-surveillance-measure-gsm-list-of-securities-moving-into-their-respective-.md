@@ -39,10 +39,9 @@ stocks:
 - COROMANDEL
 - RCI
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-monitoring
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

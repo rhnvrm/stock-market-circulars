@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
-- mutual-funds
+- compliance
 - deposit-requirements
-- regulatory-compliance
-- SEBI
-- liquid-funds
+- investment-adviser
+- liquid-fund
+- mutual-fund
 - overnight-funds
+- research-analyst
+- sebi
 title: Use of Liquid and Overnight Mutual Funds for Deposit Requirements by Investment
   Advisers and Research Analysts
 ---

@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- ncd
 - debt-securities
-- issue-size
 - end-use
+- issue-size
 - lucina-land-development
+- ncd
 title: Update Regarding Debt Securities of Lucina Land Development Limited
 ---
 

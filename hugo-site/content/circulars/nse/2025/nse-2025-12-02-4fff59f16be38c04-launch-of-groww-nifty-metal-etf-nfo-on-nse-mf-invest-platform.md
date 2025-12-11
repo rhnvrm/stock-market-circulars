@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
+- etf
+- groww-mutual-fund
 - mutual-fund
 - nfo
-- etf
-- equity
 - nifty-metal
-- groww-mutual-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Groww Nifty Metal ETF NFO on NSE MF Invest Platform
 ---
 

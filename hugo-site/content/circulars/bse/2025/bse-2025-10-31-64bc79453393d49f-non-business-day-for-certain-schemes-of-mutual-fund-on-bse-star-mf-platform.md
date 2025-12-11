@@ -27,18 +27,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- bse-star-mf
-- international-funds
-- fund-of-funds
-- holiday-schedule
 - axis-mf
-- franklin-mf
-- kotak-mf
 - edelweiss-mf
-- nippon-mf
+- franklin-mf
+- fund-of-funds
+- holiday
 - icici-prudential-mf
+- international-funds
+- kotak-mf
+- mutual-fund
+- nippon-mf
 title: Non-Business Day for Certain Schemes of Mutual Fund on BSE StAR MF Platform
   - November 2025
 ---

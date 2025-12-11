@@ -26,9 +26,9 @@ stocks:
 - USGICL
 tags:
 - debt-securities
+- insurance
 - listing
 - private-placement
-- insurance
 - universal-sompo
 title: Listing of new debt securities of Universal Sompo General Insurance Company
   Limited

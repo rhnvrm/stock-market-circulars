@@ -25,10 +25,9 @@ source: bse
 stocks:
 - TRIDENTLIFE
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- trident-lifeline
+- conversion
+- equity
+- preferential-issue
 title: Listing of New Securities of Trident Lifeline Limited
 ---
 

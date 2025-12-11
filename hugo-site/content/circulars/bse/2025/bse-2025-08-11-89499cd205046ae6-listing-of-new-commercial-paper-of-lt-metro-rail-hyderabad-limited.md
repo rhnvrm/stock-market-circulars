@@ -26,10 +26,9 @@ stocks:
 - LTMR
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- ltmr
+- debt-securities
 - infrastructure
+- private-placement
 title: Listing of new Commercial Paper of L&T Metro Rail (Hyderabad) Limited
 ---
 

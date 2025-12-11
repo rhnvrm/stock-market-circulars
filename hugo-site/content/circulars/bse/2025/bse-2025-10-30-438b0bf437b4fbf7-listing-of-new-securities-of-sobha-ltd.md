@@ -28,10 +28,10 @@ source: bse
 stocks:
 - SOBHA
 tags:
-- equity-shares
-- new-listing
+- equity
+- listing
+- partly-paid
 - rights-issue
-- partly-paid-conversion
 - sobha-ltd
 title: Listing of New Securities of Sobha Ltd - 7,320 Equity Shares
 ---

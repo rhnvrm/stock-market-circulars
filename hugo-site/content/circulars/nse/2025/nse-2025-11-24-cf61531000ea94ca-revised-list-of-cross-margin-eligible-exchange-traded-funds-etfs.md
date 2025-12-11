@@ -51,11 +51,10 @@ stocks:
 - SETFNN50
 tags:
 - cross-margin
-- etf
-- exchange-traded-funds
 - derivatives
-- futures-and-options
-- margin-requirements
+- etf
+- futures-options
+- margin
 - risk-management
 title: Revised list of Cross Margin Eligible Exchange Traded Funds (ETFs)
 ---

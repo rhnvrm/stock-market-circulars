@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity-long-short
 - mutual-fund
 - qsif
 - quant-mutual-fund
-- equity-long-short
-- subscriptions
-- redemptions
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- nse-mf-invest
+- trading-platform
 title: Availability of QSIF Equity Long-Short Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

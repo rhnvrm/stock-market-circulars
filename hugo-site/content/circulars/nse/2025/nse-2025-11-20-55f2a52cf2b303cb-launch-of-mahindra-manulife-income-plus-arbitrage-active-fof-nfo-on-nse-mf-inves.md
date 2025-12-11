@@ -26,14 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- arbitrage-fund
+- debt-securities
+- fund-of-funds
+- mahindra-manulife
 - mutual-fund
 - nfo
-- new-fund-offer
-- mahindra-manulife
-- arbitrage-fund
-- debt-fund
-- fof
-- fund-of-funds
 title: Launch of Mahindra Manulife Income Plus Arbitrage Active FOF NFO on NSE MF
   Invest Platform
 ---

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - FORTIS
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - early-pay-in
 - fortis-malar-hospitals
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for FORTIS
   MALAR HOSPITALS LIMITED
 ---

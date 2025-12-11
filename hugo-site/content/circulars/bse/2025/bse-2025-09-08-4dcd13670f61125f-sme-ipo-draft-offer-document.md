@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ACCESSPOINT
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- access-point-india
+- sme
 title: SME IPO Draft Offer Document - Access Point India Limited
 ---
 

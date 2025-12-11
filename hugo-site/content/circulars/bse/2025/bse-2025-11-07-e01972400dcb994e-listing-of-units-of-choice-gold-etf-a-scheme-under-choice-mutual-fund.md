@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- etf-listing
-- mutual-fund
-- gold-etf
 - choice-mutual-fund
-- new-listing
+- etf
+- gold
+- listing
+- mutual-fund
 title: Listing of Units Of Choice Gold ETF a scheme under Choice Mutual Fund
 ---
 

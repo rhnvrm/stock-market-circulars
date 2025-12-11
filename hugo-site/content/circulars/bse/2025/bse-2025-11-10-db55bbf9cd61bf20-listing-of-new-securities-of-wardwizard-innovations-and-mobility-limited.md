@@ -27,11 +27,10 @@ source: bse
 stocks:
 - WARDWIZARD
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- wardwizard
+- rights-issue
 title: Listing of New Securities of WARDWIZARD INNOVATIONS AND MOBILITY LIMITED
 ---
 

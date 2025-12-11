@@ -28,13 +28,12 @@ source: bse
 stocks:
 - JBCHEMPHARMA
 tags:
-- takeover
-- settlement
-- acquisition-window
-- jbchempharma
+- early-pay-in
+- otb
 - revised-schedule
 - rms
-- early-pay-in
+- settlement
+- takeover
 title: Revised Settlement Schedule for J.B. Chemicals & Pharmaceuticals Takeover Offer
 ---
 

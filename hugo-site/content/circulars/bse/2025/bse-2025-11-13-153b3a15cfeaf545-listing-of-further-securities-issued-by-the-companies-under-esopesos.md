@@ -35,11 +35,9 @@ stocks:
 - ICICIPRULI
 - PGEL
 tags:
-- listing
-- esop
-- esos
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - November 14, 2025
 ---
 

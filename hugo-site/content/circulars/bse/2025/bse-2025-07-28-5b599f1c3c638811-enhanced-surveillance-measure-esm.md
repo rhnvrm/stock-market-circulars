@@ -31,11 +31,10 @@ stocks:
 - SOFTRAK
 - YARN
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
+- asm-stage
 - risk-management
-- surveillance-measures
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

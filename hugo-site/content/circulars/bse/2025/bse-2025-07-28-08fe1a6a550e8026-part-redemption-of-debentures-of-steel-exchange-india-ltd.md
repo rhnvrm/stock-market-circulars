@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SEIL
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Steel Exchange India Ltd
 ---
 

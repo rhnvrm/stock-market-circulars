@@ -28,14 +28,14 @@ source: bse
 stocks:
 - KDFL
 tags:
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- record-date
-- reduced-face-value
-- corporate-actions
 - kanakadurga-finance
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Kanakadurga Finance Limited
 ---
 

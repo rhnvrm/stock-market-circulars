@@ -27,12 +27,9 @@ source: bse
 stocks:
 - GRANDFOU
 tags:
+- draft-document
+- sast
 - takeover
-- open-offer
-- acquisition
-- grand-foundry-limited
-- sebi-sast
-- letter-of-offer
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Grand Foundry Limited
 ---
 

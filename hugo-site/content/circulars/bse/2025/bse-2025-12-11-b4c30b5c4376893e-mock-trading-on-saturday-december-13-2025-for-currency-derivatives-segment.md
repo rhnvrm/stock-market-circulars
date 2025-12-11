@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- disaster-recovery
-- bolt-plus
-- trading-system
 - connectivity
-- testing
+- derivatives
+- disaster-recovery
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, December 13, 2025 for Currency Derivatives Segment
 ---
 

@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '500472'
+- SKFINDIA
 tags:
-- group-change
-- skf-india
-- t-group
 - a-group
+- asm-stage
+- equity
+- group-change
 - trading
-- equity-shares
 title: Change in Group of Equity Shares of SKF INDIA LTD.
 ---
 

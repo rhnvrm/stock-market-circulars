@@ -26,11 +26,11 @@ source: bse
 stocks:
 - TRUHOME
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - truhome-finance
-- corporate-bonds
 title: Listing of new debt securities of Truhome Finance Limited
 ---
 

@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- margin-trading
-- compliance-certificate
-- reporting
 - audit
-- trading-members
-- mtf
+- compliance-certificate
 - enit-portal
+- margin
+- mtf
+- reporting
+- trading-member
 title: Submission of Margin Trading Compliance Certificate for Half Year Ended September
   30, 2025
 ---

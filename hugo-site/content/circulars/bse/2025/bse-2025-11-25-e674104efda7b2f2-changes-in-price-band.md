@@ -38,17 +38,16 @@ stocks:
 - REGALENT
 - SABEVENTS
 - SVARNIM
-- TATAMOTORS
-- TCM
+- TMCV
+- TCMLMTD
 - VUENOW
 tags:
-- price-band
-- trading
-- market-operations
-- surveillance
-- allcargo-logistics
-- tata-motors
 - astec-lifesciences
+- market-operations
+- price-band
+- surveillance
+- tata-motors
+- trading
 title: Revision of Price Bands for 15 Securities Effective November 26, 2025
 ---
 

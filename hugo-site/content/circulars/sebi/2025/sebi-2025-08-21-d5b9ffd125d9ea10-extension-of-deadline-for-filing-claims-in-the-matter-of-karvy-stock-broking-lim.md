@@ -26,9 +26,9 @@ source: sebi
 stocks:
 - KARVY
 tags:
-- investor-protection
 - claims
-- deadline-extension
+- extension
+- investor-protection
 - karvy-stock-broking
 - nse-defaulter
 title: Extension of Deadline for Filing Claims in Karvy Stock Broking Limited Matter

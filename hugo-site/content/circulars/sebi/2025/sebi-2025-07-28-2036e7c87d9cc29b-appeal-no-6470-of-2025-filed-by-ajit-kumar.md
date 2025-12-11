@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- information-disclosure
+- appeal
 - complaint-records
 - employment-verification
+- information-disclosure
+- rti
 title: Appeal No. 6470 of 2025 filed by Ajit Kumar - RTI Application Rejected
 ---
 

@@ -28,7 +28,7 @@ stocks:
 - BAJAJ-AUTO
 - ICICI
 - ABCL
-- CEAT
+- CEATLTD
 - GODREJ
 - NUVOCO
 - PNBHFL
@@ -36,8 +36,8 @@ stocks:
 - AXIS
 - HSBC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
 title: Listing of privately placed securities on the debt market segment

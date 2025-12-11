@@ -27,10 +27,10 @@ stocks:
 - NEXUS
 tags:
 - commercial-paper
-- trading-suspension
-- debt-market
-- nexus-select-trust
+- debt-securities
 - maturity
+- nexus-select-trust
+- suspension
 title: Suspension of Trading in Commercial Paper of Nexus Select Trust
 ---
 

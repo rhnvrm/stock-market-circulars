@@ -26,10 +26,10 @@ source: nse
 stocks:
 - INM
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - capital-market
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Interiors & More
   Limited
 ---

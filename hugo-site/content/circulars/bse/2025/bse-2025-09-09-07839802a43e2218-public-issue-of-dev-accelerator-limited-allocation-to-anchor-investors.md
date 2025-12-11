@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DEVACCEL
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
 - public-issue
-- equity-shares
 title: Dev Accelerator Limited IPO - Anchor Investor Allocation of ₹63.15 Crores
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SIMPLEXINF
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- SIMPLEXINF
-- equity-shares
+- preferential-issue
 title: Listing of New Securities - Simplex Infrastructures Limited
 ---
 

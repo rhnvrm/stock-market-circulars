@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- mirae-asset
 - crisil-a1-plus
+- debt-securities
+- mirae-asset
+- private-placement
 title: Listing of New Commercial Paper of Mirae Asset Financial Services (India) Private
   Limited
 ---

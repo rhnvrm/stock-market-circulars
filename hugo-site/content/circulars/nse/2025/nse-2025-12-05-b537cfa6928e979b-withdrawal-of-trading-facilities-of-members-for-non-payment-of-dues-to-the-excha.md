@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- trading-members
-- payment-dues
-- trading-facilities
-- withdrawal
 - compliance
-- overdue-amounts
 - finance-accounts
+- overdue-amounts
+- payment-dues
 - recovery-mechanism
+- trading-facilities
+- trading-member
+- withdrawal
 title: Withdrawal of Trading Facilities for Non-Payment of Exchange Dues - Revised
   Guidelines
 ---

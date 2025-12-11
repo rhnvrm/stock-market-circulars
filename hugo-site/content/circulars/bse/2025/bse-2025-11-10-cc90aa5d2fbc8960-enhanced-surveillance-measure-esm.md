@@ -49,22 +49,20 @@ stocks:
 - ANANDRAY
 - ANDCEM
 - ANIRITV
-- ANKAINDIA
+- ANKIN
 - ANLONHC
-- APISINDIA
+- APIS
 - APLAB
 - APTUSPHR
-- ARFININDIA
+- ARFIN-BE
 - ARISINT
 - ARMANHDG
 - ARTINTEL
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- market-regulation
-- trading-restrictions
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective November
   11, 2025
 ---

@@ -25,16 +25,15 @@ published_date: '2025-10-24T11:02:07+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={ADC9CBAB-8A6E-4564-B7E9-E79C07ECC48C}&noticeno=20251024-12&dt=10/24/2025&icount=12&totcount=23&flag=0
 severity: high
 source: bse
-stocks:
-- '512332'
+stocks: []
 tags:
-- delisting-rescinded
-- status-change
-- tribunal-order
-- suspended-status
 - birla-capital
-- regulatory-compliance
+- compliance
+- delisting-rescinded
+- nclt
 - sebi-delisting-regulations
+- status-change
+- suspended-status
 title: Birla Capital & Financial Services Ltd - Status Change from Delisted to Suspended
 ---
 

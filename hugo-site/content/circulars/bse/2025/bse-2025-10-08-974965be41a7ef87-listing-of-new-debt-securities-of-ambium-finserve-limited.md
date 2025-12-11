@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- ambium-finserve
-- debentures
 title: Listing of new debt securities of Ambium Finserve Limited
 ---
 

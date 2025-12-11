@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASAHI
 tags:
-- delisting
-- suspension
-- compliance
 - asahi-infrastructure
-- sebi-regulations
+- compliance
+- delisting
+- regulatory-framework
+- suspension
 title: Compulsory Delisting of Asahi Infrastructure & Projects Ltd
 ---
 

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- KECINTL
+- KEC
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- kec-international
 - private-placement
 - short-term-debt
-- kec-international
 title: Listing of New Commercial Paper of KEC International Limited
 ---
 

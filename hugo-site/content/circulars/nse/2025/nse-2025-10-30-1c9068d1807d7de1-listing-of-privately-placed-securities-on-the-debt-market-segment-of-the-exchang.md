@@ -29,14 +29,14 @@ stocks:
 - ABCL
 - ISEC
 - SIDBI
-- CEAT
+- CEATLTD
 - IIFL
 - CIAFCL
 - HFSL
 - MOFS
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
 - listing
 - private-placement
 - short-term-debt

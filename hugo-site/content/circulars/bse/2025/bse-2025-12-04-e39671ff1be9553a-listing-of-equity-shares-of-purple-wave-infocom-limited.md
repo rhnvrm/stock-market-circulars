@@ -26,11 +26,9 @@ source: bse
 stocks:
 - PURPLEWAVE
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- purple-wave-infocom
 title: Listing of Equity Shares of Purple Wave Infocom Limited
 ---
 

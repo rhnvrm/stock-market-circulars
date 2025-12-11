@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '531572'
+- RANJITSE
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- ranjit-securities
-- equity-shares
 - trading
 title: 'Change in group of Equity shares of Ranjit Securities Ltd. (Scrip Code: 531572)'
 ---

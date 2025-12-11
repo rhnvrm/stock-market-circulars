@@ -34,11 +34,11 @@ stocks:
 - KEYSTONE
 - TRIVENI
 tags:
-- listing
-- esop
-- equity-shares
-- further-issues
 - allotment
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - Eight Companies ESOP Allotments
 ---
 

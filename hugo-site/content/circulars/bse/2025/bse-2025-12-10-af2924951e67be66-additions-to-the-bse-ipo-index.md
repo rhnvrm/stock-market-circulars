@@ -29,13 +29,10 @@ stocks:
 - VIDYAWIRES
 - AEQUS
 tags:
-- index
-- bse-ipo-index
-- new-listing
-- meesho
-- vidya-wires
-- aequs
-- index-addition
+- bse-index
+- index-change
+- index-fund
+- listing
 title: Additions to the BSE IPO Index
 ---
 

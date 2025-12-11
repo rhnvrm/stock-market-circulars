@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- investment-adviser
-- sebi-order
+- bestway-smart-financial
 - compliance
 - conflict-of-interest
+- investment-adviser
+- sebi-order
 - smart-financial
-- bestway-smart-financial
 title: SEBI Order - Manoj Jethanand Varyani Investment Adviser Registration Disposed
   Without Adverse Action
 ---

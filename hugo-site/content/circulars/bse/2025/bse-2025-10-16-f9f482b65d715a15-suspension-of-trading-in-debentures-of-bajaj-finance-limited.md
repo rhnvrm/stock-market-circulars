@@ -28,12 +28,12 @@ source: bse
 stocks:
 - BAJAJFIN
 tags:
-- trading-suspension
-- debentures
-- redemption
-- interest-payment
 - debt-securities
+- interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of BAJAJ FINANCE LIMITED
 ---
 

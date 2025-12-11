@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GNG
 tags:
-- listing
-- equity-shares
-- lock-in
-- anchor-investors
+- anchor-investor
+- equity
 - ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of GNG Electronics Limited - Lock-in Details
 ---
 

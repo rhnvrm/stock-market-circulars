@@ -26,11 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- altiva-hybrid-long-short-fund
+- edelweiss-asset-management
 - listing
 - mutual-fund
-- edelweiss-asset-management
-- altiva-hybrid-long-short-fund
-- new-listing
 - units
 title: Listing of units issued by Edelweiss Asset Management Limited (Altiva Hybrid
   Long-Short Fund)

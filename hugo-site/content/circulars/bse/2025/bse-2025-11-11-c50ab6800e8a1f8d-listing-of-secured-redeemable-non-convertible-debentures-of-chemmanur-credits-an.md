@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- chemmanur-credits
+- debt-securities
+- fixed-income
 - listing
 - ncd
-- debt-securities
-- chemmanur-credits
-- debentures
-- fixed-income
 title: Listing of Secured Redeemable Non-Convertible Debentures of Chemmanur Credits
   and Investments Limited
 ---

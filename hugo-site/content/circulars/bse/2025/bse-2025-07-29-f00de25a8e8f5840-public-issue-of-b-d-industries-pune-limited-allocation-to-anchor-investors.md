@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BDINDUSTRIES
 tags:
-- public-issue
-- anchor-investors
-- ipo
-- equity-allocation
+- anchor-investor
 - book-building
+- equity-allocation
+- ipo
+- public-issue
 title: B. D. Industries (Pune) Limited - Anchor Investor Allocation for Public Issue
 ---
 

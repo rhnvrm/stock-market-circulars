@@ -24,11 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544452'
+- SWASTIKAAL
 tags:
-- index-addition
-- sme-ipo
+- index-change
 - listing
+- sme
 - swastika-castal
 title: Addition to the BSE SME IPO INDEX - Swastika Castal Limited
 ---

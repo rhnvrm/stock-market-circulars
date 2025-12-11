@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VIVRITI
 tags:
-- part-redemption
-- debentures
-- reduced-face-value
-- corporate-actions
+- corporate-action
 - debt-securities
+- face-value-change
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of VIVRITI CAPITAL LIMITED - Reduced Face Value
   Effective August 8, 2025
 ---

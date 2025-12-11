@@ -26,9 +26,8 @@ source: bse
 stocks:
 - REGAAL
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - regaal-resources
 title: Listing of Equity Shares of REGAAL RESOURCES LIMITED
 ---

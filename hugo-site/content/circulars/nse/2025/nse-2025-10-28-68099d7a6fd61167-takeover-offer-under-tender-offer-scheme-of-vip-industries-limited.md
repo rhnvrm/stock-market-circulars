@@ -28,13 +28,12 @@ source: nse
 stocks:
 - VIPIND
 tags:
-- takeover-offer
+- capital-market
+- multiples-private-equity
+- takeover
 - tender-offer
 - vip-industries
 - web-based-bidding
-- acquisition
-- capital-market
-- multiples-private-equity
 title: Takeover Offer Under Tender Offer Scheme of VIP Industries Limited
 ---
 

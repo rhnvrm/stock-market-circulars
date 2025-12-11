@@ -26,10 +26,9 @@ source: bse
 stocks:
 - MAHLIFE
 tags:
+- equity
 - listing
-- equity-shares
 - rights-issue
-- MAHLIFE
 title: Listing of New Securities of Mahindra Lifespace Developers Ltd
 ---
 

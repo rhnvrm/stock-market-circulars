@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- fund-of-funds
+- idcw
 - invesco
-- subscription-resumption
+- mutual-fund
 - overseas-investment
-- fund-of-fund
 - sip
 - stp
-- idcw
+- subscription-limit
 title: Resumption of Subscription in fresh subscriptions of Invesco Mutual Fund
 ---
 

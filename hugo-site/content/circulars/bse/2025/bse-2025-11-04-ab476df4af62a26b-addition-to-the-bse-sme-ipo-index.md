@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544594'
+- TRADEUNO
 tags:
-- index
-- sme
-- ipo
-- listing
 - addition
 - game-changers-texfab
+- index-fund
+- ipo
+- listing
+- sme
 title: Addition to the BSE SME IPO INDEX
 ---
 

@@ -44,11 +44,8 @@ stocks:
 - SVJE
 - VANTAGE
 tags:
+- asm-stage
 - surveillance
-- asm
-- lt-asm
-- additional-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

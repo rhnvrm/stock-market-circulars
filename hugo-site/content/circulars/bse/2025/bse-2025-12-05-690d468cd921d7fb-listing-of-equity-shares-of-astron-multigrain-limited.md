@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ASTRONMULT
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- ASTRONMULT
 title: Listing of Equity Shares of ASTRON MULTIGRAIN LIMITED
 ---
 

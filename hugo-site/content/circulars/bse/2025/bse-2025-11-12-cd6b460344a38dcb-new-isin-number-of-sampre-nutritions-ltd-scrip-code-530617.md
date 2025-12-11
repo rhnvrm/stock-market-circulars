@@ -28,10 +28,10 @@ source: bse
 stocks:
 - SAMPRE
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 - sampre-nutritions
 title: New ISIN Number for SAMPRE NUTRITIONS LTD Following Share Sub-Division
 ---

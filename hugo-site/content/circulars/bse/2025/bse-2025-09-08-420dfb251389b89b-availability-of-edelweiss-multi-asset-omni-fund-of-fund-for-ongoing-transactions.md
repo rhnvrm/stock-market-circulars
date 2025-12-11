@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fund-reopening
-- bse-star-mf
 - edelweiss
-- fund-of-fund
+- fund-of-funds
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp

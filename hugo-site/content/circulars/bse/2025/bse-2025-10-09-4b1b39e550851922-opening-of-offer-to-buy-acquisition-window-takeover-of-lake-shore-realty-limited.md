@@ -27,13 +27,11 @@ source: bse
 stocks:
 - LSRL
 tags:
-- takeover
-- open-offer
-- acquisition
-- lake-shore-realty
-- public-shareholders
-- sebi-sast
 - change-in-control
+- lake-shore-realty
+- sast
+- shareholding-pattern
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Lake Shore Realty
   Limited
 ---

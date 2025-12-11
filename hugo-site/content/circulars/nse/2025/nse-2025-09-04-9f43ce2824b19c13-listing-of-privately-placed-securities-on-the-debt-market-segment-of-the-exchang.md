@@ -37,10 +37,10 @@ stocks:
 - SIDBI
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
+- further-issue
 - listing
 - private-placement
-- fresh-issue
 title: Listing of Privately Placed Commercial Papers on Debt Market Segment
 ---
 

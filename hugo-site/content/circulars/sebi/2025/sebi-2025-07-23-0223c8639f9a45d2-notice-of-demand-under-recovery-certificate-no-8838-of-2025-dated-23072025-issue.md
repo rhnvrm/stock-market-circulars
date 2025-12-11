@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- investment-advisory
-- unregistered-services
-- enforcement-action
 - demand-notice
+- enforcement
+- investment-adviser
+- recovery
+- unregistered-services
 title: Notice of Demand under Recovery Certificate No. 8838 of 2025 against L REXWIN
   and others for Unregistered Investment Advisory Services
 ---

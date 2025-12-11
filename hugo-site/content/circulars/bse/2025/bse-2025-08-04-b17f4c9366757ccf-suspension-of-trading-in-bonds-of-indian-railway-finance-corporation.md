@@ -27,11 +27,10 @@ stocks:
 - IRFC
 tags:
 - bond-trading
-- suspension
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
-- IRFC
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Indian Railway Finance Corporation
 ---
 

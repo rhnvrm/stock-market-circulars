@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- reit
-- real-estate-investment-trusts
-- regulations
 - amendment
-- registration
-- governance
+- corporate-governance
 - investment-framework
+- real-estate-investment-trusts
+- registration
+- regulations
+- reit
 title: Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations,
   2014 - Amendment dated September 3, 2025
 ---

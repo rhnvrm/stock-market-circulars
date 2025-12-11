@@ -28,9 +28,8 @@ stocks:
 - PENTAGOLD
 - SSINFRA
 tags:
+- daily-bulletin
 - delisting
-- dissemination-board
-- compulsory-delisting
 - trading-resumption
 title: Securities of compulsory delisted companies made available on Dissemination
   Board (DB) of NSE

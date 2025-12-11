@@ -41,10 +41,10 @@ stocks:
 - RL
 tags:
 - commercial-paper
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-segment
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 15 Companies
 ---
 

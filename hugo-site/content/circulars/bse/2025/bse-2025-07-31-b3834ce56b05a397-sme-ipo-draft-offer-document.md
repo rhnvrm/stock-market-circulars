@@ -25,11 +25,10 @@ source: bse
 stocks:
 - SHARP AGRICOM LIMITED
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- sharp-agricom
+- sme
 title: SME IPO - Draft Offer Document for Sharp Agricom Limited
 ---
 

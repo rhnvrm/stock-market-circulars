@@ -24,14 +24,14 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT70934.pdf
 severity: medium
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 - TMPV
 tags:
-- symbol-change
-- securities-lending-borrowing
+- collateral
+- name-change
+- slbs
 - tata-motors
 - trading-symbol
-- slbs
 title: Change in Symbol of Tata Motors Limited
 ---
 

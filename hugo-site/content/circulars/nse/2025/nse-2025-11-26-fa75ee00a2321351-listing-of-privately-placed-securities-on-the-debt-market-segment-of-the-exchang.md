@@ -36,12 +36,11 @@ stocks:
 - HDFCSEC
 - ABCAPITAL
 tags:
-- debt-market
 - commercial-paper
-- listing
-- private-placement
 - debt-securities
+- listing
 - perpetual-bonds
+- private-placement
 title: Listing of Privately Placed Debt Securities - November 26, 2025
 ---
 

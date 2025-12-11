@@ -26,12 +26,12 @@ source: bse
 stocks:
 - APSBCL
 tags:
-- bonds
-- redemption
-- debt-securities
+- bond
 - corporate-action
-- interest-payment
+- debt-securities
 - face-value-reduction
+- interest-payment
+- redemption
 title: Part Redemption of Bonds of Andhra Pradesh State Beverages Corporation Limited
 ---
 

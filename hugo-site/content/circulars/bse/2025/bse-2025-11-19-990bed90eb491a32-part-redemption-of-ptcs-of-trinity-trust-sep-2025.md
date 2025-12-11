@@ -26,12 +26,12 @@ source: bse
 stocks:
 - TTS25
 tags:
-- debt
-- corporate-actions
-- ptc
-- partial-redemption
-- trinity-trust
+- corporate-action
+- debt-securities
 - face-value-change
+- ptc
+- redemption
+- trinity-trust
 title: Part Redemption of PTCs of TRINITY TRUST SEP 2025
 ---
 

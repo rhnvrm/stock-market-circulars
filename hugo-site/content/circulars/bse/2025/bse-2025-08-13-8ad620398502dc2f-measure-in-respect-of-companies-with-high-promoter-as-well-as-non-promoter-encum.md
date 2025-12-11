@@ -29,13 +29,12 @@ stocks:
 - INDOTECHTR
 - STEELEXCH
 - THYROCARE
-- TULSYANNEC
+- TULSYAN
 tags:
-- surveillance
-- encumbrance
-- promoter-pledging
-- sebi-sast
 - compliance
+- encumbrance
+- sast
+- surveillance
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

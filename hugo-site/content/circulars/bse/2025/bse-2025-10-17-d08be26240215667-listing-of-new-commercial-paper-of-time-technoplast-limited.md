@@ -28,10 +28,8 @@ stocks:
 - TIMETECHNO
 tags:
 - commercial-paper
-- debt-listing
-- time-technoplast
+- debt-securities
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Time Technoplast Limited
 ---
 

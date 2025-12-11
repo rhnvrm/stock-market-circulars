@@ -49,11 +49,10 @@ stocks:
 - GODREJCP
 - HIKAL
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
 - record-date
-- ex-date
 title: Corporate Action Schedule - Dividend and Bonus Issue Announcements
 ---
 

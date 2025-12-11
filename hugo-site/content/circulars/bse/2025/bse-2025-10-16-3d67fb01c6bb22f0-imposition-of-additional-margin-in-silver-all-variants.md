@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - additional-margin
-- silver
-- commodity-derivatives
+- derivatives
+- futures-options
+- margin
 - risk-management
-- futures
-- margin-requirements
+- silver
 title: Imposition of Additional Margin in Silver (all variants)
 ---
 

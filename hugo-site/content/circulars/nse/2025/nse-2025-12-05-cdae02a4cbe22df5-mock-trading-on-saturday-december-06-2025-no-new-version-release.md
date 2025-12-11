@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- slbm
-- securities-lending-borrowing
-- algorithmic-trading
-- retail-investor-safety
-- testing
+- algo-trading
+- collateral
 - disaster-recovery
+- mock-trading
+- retail-investor-safety
+- slbm
 title: Mock Trading Session on Saturday, December 06, 2025 - No New Version Release
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - GTTDATA
 tags:
-- new-securities
-- equity-shares
-- rights-issue
 - conversion
+- equity
 - listing
+- new-securities
+- rights-issue
 title: Listing of new securities of GTT Data Solutions Ltd
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BORORENEW
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- new-securities
+- conversion
+- equity
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Borosil Renewables Limited
 ---
 

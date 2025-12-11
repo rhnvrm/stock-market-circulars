@@ -29,12 +29,12 @@ source: bse
 stocks:
 - RELGEN
 tags:
-- name-change
 - corporate-action
-- mca-certification
-- insurance-company
-- reliance-general-insurance
 - indusind-general-insurance
+- insurance-company
+- mca-certification
+- name-change
+- reliance-general-insurance
 title: Change in Name of the Company - Reliance General Insurance Company Limited
   to IndusInd General Insurance Company Limited
 ---

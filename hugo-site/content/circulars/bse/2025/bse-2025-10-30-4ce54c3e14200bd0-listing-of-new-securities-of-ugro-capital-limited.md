@@ -27,12 +27,11 @@ source: bse
 stocks:
 - UGROCAP
 tags:
-- listing
-- equity-shares
 - convertible-debentures
-- preferential-allotment
-- non-promoter
-- UGROCAP
+- equity
+- listing
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of UGRO CAPITAL LIMITED - 56,818 Equity Shares from
   CCD Conversion
 ---

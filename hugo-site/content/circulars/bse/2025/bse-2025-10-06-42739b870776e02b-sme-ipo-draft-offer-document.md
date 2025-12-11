@@ -26,10 +26,10 @@ source: bse
 stocks:
 - DEFRAIL
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
 - defrail-technologies
+- draft-document
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document - Defrail Technologies Limited
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SOMAPAPER
 tags:
+- equity
 - listing
-- equity-shares
-- new-securities
 - lock-in
-- soma-papers
+- new-securities
 title: Listing of New Securities of Soma Papers & Industries Ltd.
 ---
 

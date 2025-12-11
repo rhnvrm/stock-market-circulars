@@ -38,9 +38,9 @@ stocks:
 - VINEETLAB
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Changes in Price Band for 12 Securities
 ---
 

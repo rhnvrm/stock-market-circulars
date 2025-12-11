@@ -26,7 +26,7 @@ source: bse
 stocks:
 - SHAREKHAN
 - PILANI
-- L&T
+- LT
 - NETWORK18
 - GODREJ
 - RELIANCE
@@ -48,10 +48,10 @@ stocks:
 - TATA
 tags:
 - commercial-paper
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

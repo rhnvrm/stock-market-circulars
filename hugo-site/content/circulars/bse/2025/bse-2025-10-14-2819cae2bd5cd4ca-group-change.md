@@ -26,9 +26,8 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
-- group-change
-- moneyboxx-finance
 - equity
+- group-change
 - trading
 title: Group Change for Moneyboxx Finance Limited
 ---

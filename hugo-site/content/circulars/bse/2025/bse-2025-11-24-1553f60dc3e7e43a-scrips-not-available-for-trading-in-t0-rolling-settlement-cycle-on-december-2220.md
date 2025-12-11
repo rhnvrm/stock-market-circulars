@@ -35,10 +35,10 @@ stocks:
 - PNB
 - UNIONBANK
 tags:
-- t+0-settlement
+- equity
+- settlement-calendar
+- t0-settlement
 - trading-restrictions
-- settlement-cycle
-- equity-segment
 title: Scrips Not Available for T+0 Trading on December 22 and 26, 2025
 ---
 

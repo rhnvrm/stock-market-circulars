@@ -26,11 +26,10 @@ source: nse
 stocks:
 - HINDPETRO
 tags:
-- futures
-- options
-- dividend-adjustment
-- hindpetro
 - clearing
+- contract-adjustment
+- futures-options
+- options
 - settlement
 title: Adjustment of Futures and Options contracts in HINDUSTAN PETROLEUM CORPORATION
   LIMITED (HINDPETRO)

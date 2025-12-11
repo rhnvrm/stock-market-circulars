@@ -28,10 +28,9 @@ source: bse
 stocks:
 - BARBEQUE
 tags:
-- name-change
+- certificate
 - corporate-action
-- certificate-of-incorporation
-- barbeque-nation
+- name-change
 - united-foodbrands
 title: Change in Name of Barbeque-Nation Hospitality Limited to United Foodbrands
   Limited

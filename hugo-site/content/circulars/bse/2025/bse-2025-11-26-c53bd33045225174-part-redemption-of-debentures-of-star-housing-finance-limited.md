@@ -27,13 +27,12 @@ source: bse
 stocks:
 - STARHOUSING
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
-- debt-segment
-- star-housing-finance
+- redemption
 title: Part Redemption of Debentures of STAR HOUSING FINANCE LIMITED
 ---
 

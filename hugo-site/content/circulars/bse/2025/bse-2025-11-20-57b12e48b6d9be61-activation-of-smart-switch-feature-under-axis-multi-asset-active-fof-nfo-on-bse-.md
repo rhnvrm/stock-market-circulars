@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- axis-mutual-fund
+- axis-overnight-fund
+- fund-of-funds
+- mutual-fund
 - nfo
 - smart-switch
-- axis-mutual-fund
-- star-mf-platform
-- fund-of-funds
-- axis-overnight-fund
+- trading-platform
 title: Activation of SMART Switch Feature under AXIS MULTI-ASSET ACTIVE FOF – NFO
   on BSE StAR MF platform
 ---

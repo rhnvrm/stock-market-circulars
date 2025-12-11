@@ -28,12 +28,12 @@ source: bse
 stocks:
 - ASHNI
 tags:
-- rights-issue
-- issue-extension
-- renunciation
-- corporate-action
-- capital-raising
 - ashnisha-industries
+- capital-raising
+- corporate-action
+- extension
+- renunciation
+- rights-issue
 title: ASHNISHA INDUSTRIES LIMITED - Extension of Rights Issue Closing Date and On-Market
   Renunciation Date
 ---

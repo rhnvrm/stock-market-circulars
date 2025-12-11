@@ -28,14 +28,14 @@ source: bse
 stocks:
 - MANGIND
 tags:
-- rights-issue
-- issue-extension
 - board-meeting
+- equity
+- extension
 - financial-results
-- mangalam-industrial-finance
-- equity-shares
 - fundraising
+- mangalam-industrial-finance
 - q2-results
+- rights-issue
 title: Mangalam Industrial Finance Limited - Rights Issue Extended to November 19,
   2025
 ---

@@ -28,14 +28,13 @@ source: bse
 stocks:
 - LODHADEVM
 tags:
-- trading-suspension
-- debentures
-- ncd
-- early-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
+- interest-payment
 - lodha-developers
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Lodha Developers Limited
 ---
 

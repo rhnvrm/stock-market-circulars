@@ -27,10 +27,10 @@ stocks:
 - GICHFL
 tags:
 - debt-securities
-- listing
-- private-placement
-- non-convertible-debentures
 - gic-housing-finance
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of GIC Housing Finance Ltd.
 ---
 

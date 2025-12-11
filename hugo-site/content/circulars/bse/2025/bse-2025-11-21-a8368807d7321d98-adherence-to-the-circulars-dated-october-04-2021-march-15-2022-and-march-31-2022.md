@@ -27,14 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
+- amfi
+- clearing-members
 - mutual-fund
 - pool-accounts
-- sebi-compliance
-- bse-star-mf
+- sebi
 - settlement-process
-- amfi
-- stock-brokers
-- clearing-members
+- stock-broker
 title: Adherence to SEBI Circulars on Discontinuation of Pool Accounts for Mutual
   Fund Transactions
 ---

@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- illiquid-stock-options
-- fraudulent-trading
-- market-manipulation
-- pfutp-regulations
-- bse
-- reversal-trades
+- adjudication
 - artificial-volume
+- bse
+- illiquid-stock-options
+- investigation
+- market-operations
+- regulatory-framework
+- reversal-trades
 title: Adjudication Order in respect of Kusum Devi Agarwal in the matter of dealings
   in Illiquid Stock Options on BSE
 ---

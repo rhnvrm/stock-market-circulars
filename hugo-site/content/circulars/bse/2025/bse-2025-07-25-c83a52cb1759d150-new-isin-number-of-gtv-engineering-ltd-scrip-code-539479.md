@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GTV
 tags:
-- corporate-actions
-- share-subdivision
-- isin-change
-- equity-shares
-- GTV
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for GTV Engineering Ltd Following Share Sub-Division
 ---
 

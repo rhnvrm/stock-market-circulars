@@ -26,13 +26,13 @@ source: bse
 stocks:
 - MIDWEST
 tags:
-- listing
-- ipo
-- lock-in
-- equity-shares
-- midwest-limited
-- anchor-investors
 - aif
+- anchor-investor
+- equity
+- ipo
+- listing
+- lock-in
+- midwest-limited
 title: Listing of Equity Shares of Midwest Limited
 ---
 

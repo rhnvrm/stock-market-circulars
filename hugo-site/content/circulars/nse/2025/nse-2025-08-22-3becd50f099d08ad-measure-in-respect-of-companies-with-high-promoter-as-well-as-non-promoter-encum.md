@@ -27,11 +27,11 @@ source: nse
 stocks:
 - TFCILTD
 tags:
+- derivatives
+- encumbrance
+- margin
+- sast
 - surveillance
-- margin-requirements
-- promoter-encumbrance
-- SEBI-SAST
-- equity-derivatives
 title: High Promoter and Non-Promoter Encumbrance Surveillance Measure - Additional
   Securities Listed
 ---

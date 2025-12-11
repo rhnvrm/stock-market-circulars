@@ -38,11 +38,9 @@ stocks:
 - RRPDEFENS
 - RRPSEMICO
 tags:
-- surveillance
+- market-operations
 - price-movement
-- additional-surveillance-measure
-- ASM
-- market-integrity
+- surveillance
 title: Introduction of Additional Measure for Securities Witnessing Unusual Price
   Movement
 ---

@@ -40,11 +40,11 @@ stocks:
 - SILVERLINE
 - XTGLOBAL
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-safety
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

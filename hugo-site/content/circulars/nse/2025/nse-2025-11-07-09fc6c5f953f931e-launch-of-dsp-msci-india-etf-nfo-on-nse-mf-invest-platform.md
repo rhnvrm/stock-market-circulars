@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- etf
 - dsp-mutual-fund
 - equity
+- etf
 - msci-india
-- nse-mf-invest
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of DSP MSCI India ETF NFO on NSE MF Invest Platform
 ---
 

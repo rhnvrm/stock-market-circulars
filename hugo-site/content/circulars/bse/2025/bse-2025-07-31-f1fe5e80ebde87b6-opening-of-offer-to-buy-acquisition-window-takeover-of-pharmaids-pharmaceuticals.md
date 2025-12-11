@@ -26,11 +26,8 @@ source: bse
 stocks:
 - PHARMAIDS
 tags:
+- sast
 - takeover
-- open-offer
-- acquisition
-- pharmaids-pharmaceuticals
-- sebi-sast
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of PHARMAIDS PHARMACEUTICALS
   LIMITED
 ---

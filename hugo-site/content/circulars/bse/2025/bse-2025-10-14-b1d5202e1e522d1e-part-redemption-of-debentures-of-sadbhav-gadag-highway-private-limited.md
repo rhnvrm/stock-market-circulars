@@ -28,12 +28,12 @@ source: bse
 stocks:
 - SGHPL
 tags:
-- debentures
-- part-redemption
-- record-date
-- face-value-reduction
-- debt-securities
 - corporate-action
+- debt-securities
+- face-value-reduction
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of SADBHAV GADAG HIGHWAY PRIVATE LIMITED
 ---
 

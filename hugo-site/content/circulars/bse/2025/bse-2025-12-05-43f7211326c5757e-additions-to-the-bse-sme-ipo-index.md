@@ -30,11 +30,11 @@ stocks:
 - EXATO
 - PURPLEWAVE
 tags:
-- index
-- sme-ipo
-- index-addition
-- bse-sme-ipo-index
-- new-listing
+- bse-index
+- index-change
+- index-fund
+- listing
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

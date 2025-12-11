@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WINDOW
 tags:
+- otb
 - takeover
-- acquisition
-- offer-to-buy
-- window-glass
 - trading-schedule
+- window-glass
 title: Offer to Buy – Acquisition Window (Takeover) for Window Glass Limited - Live
   Activities Schedule
 ---

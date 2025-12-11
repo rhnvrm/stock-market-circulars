@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- daily-frequency
+- hsbc-mutual-fund
+- investment-platform
 - mutual-fund
 - sip
-- systematic-investment-plan
-- hsbc-mutual-fund
-- nse-mf-invest
-- investment-platform
-- daily-frequency
+- trading-platform
 title: Availability of Daily frequency in Systematic Investment Plan (SIP) under HSBC
   Mutual Fund on NSE MF Invest Platform
 ---

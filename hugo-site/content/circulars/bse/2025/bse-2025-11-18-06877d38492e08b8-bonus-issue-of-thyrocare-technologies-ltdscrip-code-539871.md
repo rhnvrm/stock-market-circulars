@@ -27,12 +27,11 @@ source: bse
 stocks:
 - THYROCARE
 tags:
-- bonus-issue
-- corporate-action
-- equity-shares
 - allotment
-- thyrocare
-- trading-commencement
+- bonus
+- corporate-action
+- equity
+- trading-operations
 title: Bonus Issue of Thyrocare Technologies Limited - Deemed Date of Allotment and
   Trading Details
 ---

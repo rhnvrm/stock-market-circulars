@@ -29,7 +29,7 @@ stocks:
 - ANANDPROJ
 - INDIANIV
 - MARATHON
-- HINDrectf
+- HINDRECTF
 - PERMAGNET
 - FLOMIC
 - MAHARASHTRA
@@ -43,14 +43,14 @@ stocks:
 - MILGREY
 - BOMBAYTALK
 - YASHMAN
-- SCANSTEELS
+- SCANSTL
 - NILKANTH
 - BANGANGA
 - DHANSAFAL
 - KAJAL
 - SECUREKLOUD
-- BAJAJGLOBAL
-- TASHIINDIA
+- BAJGLOB
+- TASHIND
 - CHAMBAL
 - MANSOON
 - STARTECK
@@ -76,14 +76,13 @@ stocks:
 - RESONANCE
 - UNIMERS
 - ASIANPETRO
-- BERYLDRUGS
+- BERLDRG
 tags:
-- rta
-- registrar-transfer-agents
-- investor-services
 - adroit-corporate
-- grievance-redressal
 - december-2025
+- grievance-redressal
+- investor-services
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for December 2025
 ---
 

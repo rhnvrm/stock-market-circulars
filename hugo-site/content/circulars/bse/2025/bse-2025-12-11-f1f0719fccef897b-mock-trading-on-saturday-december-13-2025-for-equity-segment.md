@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-segment
 - disaster-recovery
-- bolt-plus
-- trading-systems
-- business-continuity
+- equity
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, December 13, 2025, for Equity Segment
 ---
 

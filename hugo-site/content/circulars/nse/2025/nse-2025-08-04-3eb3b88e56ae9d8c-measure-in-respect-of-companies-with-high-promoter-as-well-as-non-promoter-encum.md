@@ -30,11 +30,11 @@ stocks:
 - STEELXIND
 - THYROCARE
 tags:
-- surveillance
-- encumbrance
-- sast-regulation
-- promoter-holdings
 - compliance
+- encumbrance
+- sast
+- shareholding-pattern
+- surveillance
 title: Surveillance Measure for Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SERA
 tags:
-- new-securities
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-issue
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of SERA INVESTMENTS & FINANCE INDIA LIMITED
 ---
 

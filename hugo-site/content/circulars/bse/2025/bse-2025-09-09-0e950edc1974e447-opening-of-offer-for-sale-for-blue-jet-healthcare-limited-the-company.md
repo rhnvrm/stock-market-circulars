@@ -26,10 +26,9 @@ source: bse
 stocks:
 - BJHL
 tags:
-- offer-for-sale
-- ofs
 - blue-jet-healthcare
-- equity-shares
+- equity
+- ofs
 - secondary-market
 title: Opening of Offer for Sale for Blue Jet Healthcare Limited
 ---

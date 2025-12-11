@@ -27,10 +27,9 @@ stocks:
 - DALBHARAT
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
 - dalmia-cement
-- debt-market
+- debt-securities
+- private-placement
 title: Listing of Commercial Paper of Dalmia Cement (Bharat) Limited
 ---
 

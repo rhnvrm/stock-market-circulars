@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - franklin-templeton
 - hybrid-funds
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
 title: Franklin India Multi Asset Allocation Fund Reopens for Ongoing Transactions
   on BSE StAR MF Platform
 ---

@@ -28,13 +28,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- portfolio-manager
-- net-worth-violation
 - compliance
-- enforcement-action
+- enforcement
+- intermediary
+- net-worth-violation
 - nism-certification
-- intermediary-regulations
-- regulatory-violation
+- non-compliance
+- portfolio-manager
 title: Order in the matter of DGS Capital Management Pvt. Ltd.
 ---
 

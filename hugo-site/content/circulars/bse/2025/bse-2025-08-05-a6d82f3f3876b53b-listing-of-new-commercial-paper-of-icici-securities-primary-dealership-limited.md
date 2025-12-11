@@ -26,10 +26,9 @@ stocks:
 - ICICI
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-securities
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of ICICI Securities Primary Dealership Limited
 ---
 

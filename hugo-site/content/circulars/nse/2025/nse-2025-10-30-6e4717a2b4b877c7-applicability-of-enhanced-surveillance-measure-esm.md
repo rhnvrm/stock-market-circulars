@@ -29,14 +29,10 @@ stocks:
 - TIRUPATI
 - TANKUP
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
-- ESSARSHPNG
-- TIRUPATI
-- TANKUP
 title: Applicability of Enhanced Surveillance Measure (ESM) - November 2025 Update
 ---
 

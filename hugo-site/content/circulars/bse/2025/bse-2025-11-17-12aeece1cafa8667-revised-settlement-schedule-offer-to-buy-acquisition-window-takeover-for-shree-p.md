@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHREE PACETRONIX LIMITED
 tags:
-- settlement
-- takeover
-- acquisition-window
-- offer-to-buy
+- otb
 - revised-schedule
 - rms
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   SHREE PACETRONIX LIMITED
 ---

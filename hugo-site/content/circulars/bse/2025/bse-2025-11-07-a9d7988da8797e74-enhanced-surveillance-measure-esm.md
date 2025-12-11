@@ -32,14 +32,14 @@ stocks:
 - RRFINANCE
 - AUTOPINS
 - BRIGHTREAL
-- FYNXCAPITAL
+- FYNX
 - ICONIK
 - JETMALL
 - NUTRICIRCLE
 - SAMPRE
 - SOUTHASIAN
 - VAISHNO
-- VIJIFINANCE
+- VIJIFIN
 - AMALGAMEL
 - ELEGANT
 - GGAUTO
@@ -51,15 +51,13 @@ stocks:
 - NECTAR
 - ORTIN
 - RAINBOW
-- RAPCORP
+- RAP
 - SAINIK
 - SANBLUE
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
+- asm-stage
+- surveillance
 - trading-restrictions
-- market-surveillance
 title: Enhanced Surveillance Measure (ESM) - Addition and Movement of Securities
 ---
 

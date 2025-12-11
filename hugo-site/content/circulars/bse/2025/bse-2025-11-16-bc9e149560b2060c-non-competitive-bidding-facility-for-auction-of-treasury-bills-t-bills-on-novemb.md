@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
+- debt-securities
+- gsec
 - non-competitive-bidding
 - rbi-auction
-- government-securities
-- debt-segment
-- ncb-gsec
+- treasury-bills
 title: Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on
   November 19, 2025
 ---

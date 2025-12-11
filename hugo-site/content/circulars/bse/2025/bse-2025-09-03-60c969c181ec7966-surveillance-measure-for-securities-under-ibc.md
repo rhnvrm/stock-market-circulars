@@ -24,16 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ABANOFFSHORE
+- ABAN-BE
 - QUADRANT
 - ARSS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
+- surveillance
 title: Surveillance Measure for Securities Under IBC - September 2025 Update
 ---
 

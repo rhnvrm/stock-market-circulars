@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- adjudication
+- compliance-order
+- penalty
+- record-maintenance
 - research-analyst
 - sebi-order
-- compliance-violations
-- adjudication
-- penalties
-- record-maintenance
 title: SEBI Adjudication Order Against Research Analyst Amit Guruh Sachdeva
 ---
 

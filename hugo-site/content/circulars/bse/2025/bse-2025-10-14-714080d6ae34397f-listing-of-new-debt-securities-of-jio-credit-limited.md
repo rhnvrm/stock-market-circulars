@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- jio-credit
 title: Listing of New Debt Securities of Jio Credit Limited
 ---
 

@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icici-home-finance
 - private-placement
-- ICICI-HOME-FINANCE
 - short-term-debt
 title: Listing of New Commercial Paper of ICICI HOME FINANCE COMPANY LIMITED
 ---

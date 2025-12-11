@@ -28,10 +28,8 @@ source: bse
 stocks:
 - TIAAN
 tags:
-- surveillance
 - insolvency
-- ibc
-- asm
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---

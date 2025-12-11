@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- demat-transactions
-- hdfc-mutual-fund
-- bse-star-mf
 - childrens-fund
-- equity-schemes
+- demat-transactions
+- equity-scheme
+- hdfc-mutual-fund
+- mutual-fund
 title: Acceptance of Demat Mode Transactions under HDFC Children's Fund on BSE StAR
   MF Platform
 ---

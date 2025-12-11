@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ADITYABIRLACAPITAL
+- ABCAPITAL
 tags:
-- trading-suspension
-- debentures
-- redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ADITYA BIRLA CAPITAL LTD
 ---
 

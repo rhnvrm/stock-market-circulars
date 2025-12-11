@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- debt-securities
 - ebp
 - electronic-book-provider
-- debt-securities
-- private-placement
-- sebi-compliance
 - platform-guidelines
+- private-placement
+- sebi
 title: NSE Revises Electronic Book Provider (EBP) Platform Operating Guidelines
 ---
 

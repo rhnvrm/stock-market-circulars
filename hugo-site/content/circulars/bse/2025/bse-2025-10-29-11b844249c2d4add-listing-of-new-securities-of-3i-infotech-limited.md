@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- 3IINFOTECH
+- 3IINFOLTD
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- '532628'
+- rights-issue
 title: Listing of New Securities of 3i Infotech Limited - Rights Issue
 ---
 

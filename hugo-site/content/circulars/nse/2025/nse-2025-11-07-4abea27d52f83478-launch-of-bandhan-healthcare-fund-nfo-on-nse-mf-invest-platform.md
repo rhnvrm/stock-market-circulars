@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bandhan-mutual-fund
+- equity-scheme
+- healthcare-fund
 - mutual-fund
 - nfo
-- bandhan-mutual-fund
-- healthcare-fund
-- equity-scheme
-- nse-mf-invest
+- trading-platform
 title: Launch of Bandhan Healthcare Fund NFO on NSE MF Invest Platform
 ---
 

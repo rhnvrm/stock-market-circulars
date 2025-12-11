@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- new-debt-segment
 - nds
-- trading-schedule
-- settlement
+- new-debt-segment
 - rms
+- settlement
+- trading-schedule
 title: Trading and Settlement Programme for New Debt Segment (NDS) - September 2025
 ---
 

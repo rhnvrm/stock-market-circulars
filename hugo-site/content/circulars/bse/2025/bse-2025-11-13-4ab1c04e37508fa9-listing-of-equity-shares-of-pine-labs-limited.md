@@ -27,11 +27,9 @@ source: bse
 stocks:
 - PINELABS
 tags:
-- listing
-- equity-shares
-- new-listing
-- pine-labs
 - company-announcement
+- equity
+- listing
 title: Listing of Equity Shares of Pine Labs Limited
 ---
 

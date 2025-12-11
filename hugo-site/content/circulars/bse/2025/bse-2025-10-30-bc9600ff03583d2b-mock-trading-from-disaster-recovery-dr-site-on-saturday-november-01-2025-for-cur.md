@@ -26,13 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- cdx
+- derivatives
 - disaster-recovery
 - mock-trading
-- currency-derivatives
-- cdx
-- bolt-plus
-- business-continuity
-- testing
+- trading-platform
 title: Mock Trading from Disaster Recovery (DR) Site on Saturday, November 01, 2025
   for Currency Derivative Segment
 ---

@@ -28,14 +28,13 @@ source: bse
 stocks:
 - MANIIND
 tags:
-- sebi
-- sat-order
-- penalty
-- debarment
-- market-access
 - appeal
+- debarment
+- enforcement
 - man-industries
-- enforcement-action
+- market-access
+- penalty
+- sebi
 title: SEBI Direction in Respect of SAT Order Dated 10.10.2025 in the Matter of MAN
   Industries (India) Limited
 ---

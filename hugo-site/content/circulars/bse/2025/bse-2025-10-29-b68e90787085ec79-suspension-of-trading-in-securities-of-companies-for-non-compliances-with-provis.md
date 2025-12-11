@@ -27,12 +27,12 @@ source: bse
 stocks:
 - VASUENT
 tags:
-- trading-suspension
-- sebi-lodr
-- regulation-27-2
-- non-compliance
 - corporate-governance
+- lodr
+- non-compliance
 - promoter-shareholding-freeze
+- regulation-27-2
+- suspension
 - trade-for-trade
 title: Suspension of Trading in Vasudhagama Enterprises Ltd for Non-Compliance with
   SEBI LODR

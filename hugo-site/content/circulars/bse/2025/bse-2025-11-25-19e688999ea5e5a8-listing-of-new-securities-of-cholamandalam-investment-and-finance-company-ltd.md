@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CHOLAFIN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - qip
-- warrants-conversion
-- cholafin
 title: Listing of New Securities of Cholamandalam Investment and Finance Company Ltd
 ---
 

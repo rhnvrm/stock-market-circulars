@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- money-laundering
-- terrorist-financing
-- proliferation-financing
-- compliance
-- risk-management
 - aml
+- compliance
+- money-laundering
+- proliferation-financing
+- risk-management
+- terrorist-financing
 title: Notification of PF, TF and Money Laundering Risks to Private Sector Entities
 ---
 

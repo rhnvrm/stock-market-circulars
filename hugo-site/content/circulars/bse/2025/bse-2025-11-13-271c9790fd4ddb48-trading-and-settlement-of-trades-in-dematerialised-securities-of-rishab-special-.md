@@ -28,10 +28,10 @@ stocks:
 - RISHABSY
 tags:
 - dematerialisation
-- market-lot-change
+- group-change
+- market-lot
 - settlement
 - trading-modalities
-- group-change
 title: Trading and Settlement of Trades in Dematerialised Securities of Rishab Special
   Yarns Limited
 ---

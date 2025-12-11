@@ -27,13 +27,12 @@ source: nse
 stocks:
 - INDUSINDBK
 tags:
-- insider-trading
+- appeal
+- compliance
+- indusind-bank
+- investigation
 - sebi-order
 - trading-restrictions
-- indusind-bank
-- compliance
-- investigation
-- sat-order
 title: SEBI Directions in the Matter of Insider Trading by Certain Entities in the
   Scrip of IndusInd Bank Limited
 ---

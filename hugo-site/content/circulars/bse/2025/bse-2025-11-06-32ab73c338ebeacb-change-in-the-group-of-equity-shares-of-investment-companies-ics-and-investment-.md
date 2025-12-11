@@ -30,12 +30,12 @@ stocks:
 - HARYANACF
 - EASYFIN
 tags:
+- call-money
 - group-change
 - investment-companies
 - investment-holding-companies
-- trade-for-trade
-- call-auction
 - surveillance
+- trade-for-trade
 title: Change in the group of Equity shares of Investment Companies (ICs) and Investment
   Holding Companies (IHCs)
 ---

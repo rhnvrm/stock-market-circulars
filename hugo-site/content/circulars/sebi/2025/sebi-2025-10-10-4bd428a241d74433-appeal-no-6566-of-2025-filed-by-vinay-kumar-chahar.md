@@ -26,10 +26,9 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
-- right-to-information
-- investor-awareness
 - appeal
+- investor-awareness
+- rti
 - smart-trainers
 - transparency
 title: Appeal No. 6566 of 2025 filed by Vinay Kumar Chahar

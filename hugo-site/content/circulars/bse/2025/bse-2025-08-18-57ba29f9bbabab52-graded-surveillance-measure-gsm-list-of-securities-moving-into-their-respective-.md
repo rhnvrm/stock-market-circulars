@@ -30,14 +30,11 @@ stocks:
 - RKDAGRI
 - INVIGORATEDBUSINESS
 - MADHURINDUSTRIES
-- TSPIRITUALWORLD
+- TSPIRITUAL
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
+- insolvency
 - security-movement
-- esm
-- ibc
+- surveillance
 title: GSM Framework Updates - Securities Moving to Different Surveillance Stages
 ---
 

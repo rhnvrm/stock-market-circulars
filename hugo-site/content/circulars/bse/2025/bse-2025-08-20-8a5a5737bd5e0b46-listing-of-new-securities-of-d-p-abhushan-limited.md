@@ -25,11 +25,11 @@ source: bse
 stocks:
 - DPABHUSHAN
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of D P ABHUSHAN LIMITED
 ---
 

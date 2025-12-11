@@ -27,12 +27,12 @@ source: bse
 stocks:
 - LGTBC
 tags:
-- trading-segment
+- equity
 - group-change
-- equity-shares
-- sme
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of LGT Business Connextions Limited
 ---
 

@@ -33,11 +33,11 @@ stocks:
 - AKSHAR
 - AMAL
 - ARAVALI
-- CHL
+- CHLLTD
 - CHROMESIL
 - ENVAIR
 - HINDAPP
-- IPRINGS
+- IPRINGLTD
 - JAGJANTEX
 - KZLEASE
 - NAMSEC
@@ -49,10 +49,9 @@ stocks:
 - SMLISUZU
 - SUNBRAKE
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-integrity
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

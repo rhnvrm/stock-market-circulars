@@ -31,12 +31,9 @@ stocks:
 - ETL
 - IDEALTECHO
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- pgel
-- prostarm
-- safeentp
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

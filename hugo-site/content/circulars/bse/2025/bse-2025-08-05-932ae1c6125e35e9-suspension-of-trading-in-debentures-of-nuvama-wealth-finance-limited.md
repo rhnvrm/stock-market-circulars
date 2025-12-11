@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NWFL
 tags:
-- trading-suspension
-- debentures
-- redemption
+- corporate-action
+- ncd
 - nuvama-wealth-finance
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of NUVAMA WEALTH FINANCE LIMITED
 ---
 

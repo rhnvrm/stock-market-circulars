@@ -28,9 +28,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - shri-ram-finance
-- non-convertible-debentures
 title: Listing of New Debt Securities of Shri Ram Finance Corporation Private Limited
 ---
 

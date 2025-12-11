@@ -33,11 +33,10 @@ stocks:
 - ZUARIAGRO
 - OTCO
 tags:
-- lt-asm
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

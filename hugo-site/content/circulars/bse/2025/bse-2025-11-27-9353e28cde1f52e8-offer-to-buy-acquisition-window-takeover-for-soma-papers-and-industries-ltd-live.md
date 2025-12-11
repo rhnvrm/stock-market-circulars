@@ -28,13 +28,10 @@ source: bse
 stocks:
 - SOMAPPR
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
-- otb
 - equity
+- otb
+- takeover
 - trading-schedule
-- SOMAPPR
 title: Offer to Buy – Acquisition Window (Takeover) for SOMA PAPERS AND INDUSTRIES
   LTD – Live Activities Schedule
 ---

@@ -26,11 +26,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- investment-adviser
-- sebi-order
-- compliance-violations
 - adjudication
-- penalties
+- compliance-order
+- investment-adviser
+- penalty
+- sebi-order
 title: SEBI Adjudication Order Against Capital Stroke Investment Services for Investment
   Advisory Violations
 ---

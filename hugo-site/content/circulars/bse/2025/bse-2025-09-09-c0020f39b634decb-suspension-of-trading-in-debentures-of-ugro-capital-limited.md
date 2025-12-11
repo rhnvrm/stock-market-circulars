@@ -26,12 +26,12 @@ source: bse
 stocks:
 - UGRO
 tags:
-- debentures
-- trading-suspension
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
 - record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of UGRO Capital Limited
 ---
 

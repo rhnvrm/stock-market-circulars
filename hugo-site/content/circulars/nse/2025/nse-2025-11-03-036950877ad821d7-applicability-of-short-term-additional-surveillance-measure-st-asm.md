@@ -30,13 +30,9 @@ stocks:
 - PASUPTAC
 - RNPL
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- additional-surveillance-measure
-- st-asm
-- CHENNPETRO
-- PASUPTAC
-- RNPL
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - WEBSOL
 tags:
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
-- websol-energy
+- equity
+- isin
 - record-date
-- isin-change
+- split
+- websol-energy
 title: 'Sub-Division of Equity Shares of WEBSOL ENERGY SYSTEM LTD (Scrip Code: 517498)'
 ---
 

@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sbi
-- index-fund
-- bse-star-mf
 - equity
-- nifty100
+- index-fund
 - low-volatility
+- mutual-fund
+- nifty100
 - reopening
+- sbi
 title: SBI NIFTY100 Low Volatility 30 Index Fund Reopens for Trading on BSE StAR MF
   Platform
 ---

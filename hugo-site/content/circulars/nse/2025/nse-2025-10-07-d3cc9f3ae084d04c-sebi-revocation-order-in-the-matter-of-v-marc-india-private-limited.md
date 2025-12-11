@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sebi-order
-- revocation
-- ipo-irregularities
-- market-access
 - enforcement
 - investigation
+- ipo-irregularities
+- market-access
+- release
+- sebi-order
 title: SEBI Revocation Order in the matter of V Marc India Private Limited
 ---
 

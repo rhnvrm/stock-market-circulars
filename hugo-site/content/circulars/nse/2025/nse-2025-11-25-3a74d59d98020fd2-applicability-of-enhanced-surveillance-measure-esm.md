@@ -30,12 +30,9 @@ stocks:
 - VCL
 - SABEVENTS
 tags:
+- margin
 - surveillance
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
 - trade-for-trade
-- market-surveillance
 - trading-restrictions
 title: Applicability of Enhanced Surveillance Measure (ESM) - November 2025
 ---

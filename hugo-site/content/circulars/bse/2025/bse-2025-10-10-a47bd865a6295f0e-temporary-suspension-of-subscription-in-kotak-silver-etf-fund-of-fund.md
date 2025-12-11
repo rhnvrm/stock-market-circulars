@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- silver
-- subscription-suspension
-- kotak
 - investor-protection
-- market-conditions
+- kotak
+- market-operations
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Subscription in Kotak Silver ETF Fund of Fund
 ---
 

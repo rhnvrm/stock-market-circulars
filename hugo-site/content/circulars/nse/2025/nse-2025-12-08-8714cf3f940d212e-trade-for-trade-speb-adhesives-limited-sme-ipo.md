@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SPEB
 tags:
-- trade-for-trade
-- segment-change
-- sme-ipo
 - rolling-segment
-- speb
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Speb Adhesives Limited (SME IPO)
 ---
 

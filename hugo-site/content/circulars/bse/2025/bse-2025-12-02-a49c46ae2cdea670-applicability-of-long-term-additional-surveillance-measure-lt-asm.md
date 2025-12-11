@@ -38,11 +38,10 @@ stocks:
 - CAPROLACTAM
 - MPKSTEELS
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
+- asm-stage
 - market-operations
-- additional-surveillance-measure
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

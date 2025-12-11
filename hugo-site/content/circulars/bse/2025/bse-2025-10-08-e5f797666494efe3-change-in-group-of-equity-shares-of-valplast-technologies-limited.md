@@ -27,13 +27,11 @@ source: bse
 stocks:
 - VALPLAST
 tags:
+- asm-stage
 - group-change
-- sme
-- trading-segment
-- valplast-technologies
-- mt-group
-- m-group
 - rolling-segment
+- sme
+- trading
 title: Change in Group of Equity Shares of VALPLAST TECHNOLOGIES LIMITED
 ---
 

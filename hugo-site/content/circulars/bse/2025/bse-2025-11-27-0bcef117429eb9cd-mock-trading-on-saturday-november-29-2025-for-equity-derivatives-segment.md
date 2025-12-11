@@ -31,13 +31,12 @@ stocks:
 - HDFCBANK
 - ICICIBANK
 tags:
-- mock-trading
-- equity-derivatives
-- testing
-- sensex
-- bankex
-- stock-futures
+- bse-index
+- derivatives
 - index-futures
+- mock-trading
+- sensex
+- stock-futures
 title: Mock Trading on Saturday November 29, 2025 for Equity Derivatives Segment
 ---
 

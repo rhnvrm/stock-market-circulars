@@ -24,16 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PHAARMASIA
+- PHRMASI
 - TIAAN
 - STARCOM
 - LCC
 tags:
-- gsm
-- graded-surveillance-measure
+- market-operations
 - surveillance
-- market-monitoring
-- esm
 - trading-restrictions
 title: GSM Framework Updates - Four Securities Move to Different Surveillance Stages
 ---

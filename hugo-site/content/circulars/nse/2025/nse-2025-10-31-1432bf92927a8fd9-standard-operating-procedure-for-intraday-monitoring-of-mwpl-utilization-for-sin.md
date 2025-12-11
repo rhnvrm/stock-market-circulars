@@ -27,15 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- surveillance
+- compliance
 - derivatives
-- position-limits
-- mwpl
-- futures
+- futures-options
 - options
+- position-limits
 - risk-monitoring
-- trading-compliance
-- sebi-circular
+- sebi
+- surveillance
 title: Standard Operating Procedure for Intraday monitoring of MWPL utilization for
   Single Stocks on Future Equivalent (FutEq) basis
 ---

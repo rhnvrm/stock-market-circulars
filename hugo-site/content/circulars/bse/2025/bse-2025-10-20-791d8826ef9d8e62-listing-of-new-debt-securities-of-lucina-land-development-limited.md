@@ -30,9 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - ncd
-- lucina-land-development
+- private-placement
 title: Listing of New Debt Securities of Lucina Land Development Limited
 ---
 

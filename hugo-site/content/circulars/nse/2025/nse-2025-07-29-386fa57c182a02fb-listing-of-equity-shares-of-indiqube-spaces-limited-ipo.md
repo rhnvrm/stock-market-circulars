@@ -26,11 +26,9 @@ source: nse
 stocks:
 - INDIQUBE
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- indiqube
+- listing
 title: Listing of Equity Shares of Indiqube Spaces Limited (IPO)
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ESSEX
 tags:
-- shareholding-pattern
-- listing
-- reg-31
-- post-issue
 - disclosure
+- further-issue
+- listing
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Essex Marine Limited - Share Holding Pattern
 ---
 

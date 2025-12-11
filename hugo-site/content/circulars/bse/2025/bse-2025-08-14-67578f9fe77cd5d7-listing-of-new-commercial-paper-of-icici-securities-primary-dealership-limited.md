@@ -26,7 +26,7 @@ stocks:
 - ISPD
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-securities
 - private-placement
 title: Listing of new Commercial Paper of ICICI Securities Primary Dealership Limited

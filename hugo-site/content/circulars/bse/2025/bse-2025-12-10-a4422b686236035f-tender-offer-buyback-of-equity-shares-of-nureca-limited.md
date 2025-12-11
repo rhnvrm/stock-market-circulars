@@ -28,11 +28,10 @@ stocks:
 - NURECA
 tags:
 - buyback
-- tender-offer
-- record-date
 - corporate-action
-- equity-shares
-- NURECA
+- equity
+- record-date
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of NURECA LIMITED
 ---
 

@@ -24,19 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544583'
-- '544582'
-- '544584'
-- '544585'
+- CANHLIFE
+- SHLOKKA
+- SKM
+- SIHORA
 tags:
-- index
-- ipo
-- sme
-- listing
 - canara-hsbc
+- index-fund
+- ipo
+- listing
 - shlokka-dyes
-- sk-minerals
 - sihora-industries
+- sk-minerals
+- sme
 title: Additions to the BSE Indices
 ---
 

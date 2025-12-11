@@ -25,11 +25,11 @@ source: bse
 stocks:
 - NEOGEN
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
-- private-placement
 - neogen-chemicals
-- bse-debt-segment
+- private-placement
 title: Listing of new debt securities of Neogen Chemicals Limited
 ---
 

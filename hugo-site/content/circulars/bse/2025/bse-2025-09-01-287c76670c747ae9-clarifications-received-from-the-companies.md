@@ -29,10 +29,9 @@ stocks:
 - JINDAL
 tags:
 - clarification
-- price-movement
-- volume-movement
 - disclosure
 - market-dynamics
+- price-movement
 title: Clarifications received from the companies
 ---
 

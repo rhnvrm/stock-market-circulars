@@ -80,12 +80,11 @@ stocks:
 - SATIATE
 - ADLINE
 tags:
-- gsm
-- surveillance
-- stage-revision
-- downgrade
+- asm-stage
 - compliance
+- downgrade
 - monitoring
+- surveillance
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---
 

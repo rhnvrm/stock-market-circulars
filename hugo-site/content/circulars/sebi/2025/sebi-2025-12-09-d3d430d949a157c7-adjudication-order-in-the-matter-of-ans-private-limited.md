@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- regulatory-violations
-- compliance-breach
+- adjudication
 - authorized-person
-- enforcement-action
-- penalties
+- compliance-breach
+- enforcement
+- non-compliance
+- penalty
+- stock-broker
 title: Adjudication Order in the matter of ANS Private Limited
 ---
 

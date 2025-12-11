@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SAMMAAN
 tags:
-- suspension
-- debentures
 - maturity
+- ncd
 - sammaan-capital
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - Sammaan Capital Limited
 ---
 

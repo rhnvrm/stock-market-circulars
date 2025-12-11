@@ -25,10 +25,10 @@ source: nse
 stocks:
 - PARTYCRUS
 tags:
-- listing
+- emerge-platform
+- equity
 - esop
-- sme-emerge
-- equity-shares
+- listing
 - party-cruisers
 title: Listing of Further Issues of Party Cruisers Limited - ESOP Securities
 ---

@@ -26,10 +26,9 @@ stocks:
 - ONGCPAL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - ongc-petro-additions
 - private-placement
-- debt-segment
 - short-term-instrument
 title: BSE Lists New Commercial Paper of ONGC Petro Additions Limited Worth Rs. 400
   Crores

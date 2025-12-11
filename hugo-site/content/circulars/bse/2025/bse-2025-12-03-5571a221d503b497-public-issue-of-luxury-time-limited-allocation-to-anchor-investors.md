@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- LUXURYTIME
+- LUXURY
 tags:
-- public-issue
-- ipo
-- anchor-investors
-- equity-allocation
+- anchor-investor
 - book-building
+- equity-allocation
+- ipo
+- public-issue
 title: Public Issue of Luxury Time Limited - Allocation to Anchor Investors
 ---
 

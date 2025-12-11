@@ -27,10 +27,8 @@ source: bse
 stocks:
 - EMMVEE
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- emmvee
 - photovoltaic
 - renewable-energy
 title: Listing of Equity Shares of Emmvee Photovoltaic Power Limited

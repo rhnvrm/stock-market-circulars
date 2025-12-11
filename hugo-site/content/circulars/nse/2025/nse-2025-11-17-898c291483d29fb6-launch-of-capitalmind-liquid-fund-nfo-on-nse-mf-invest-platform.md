@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- capitalmind
+- liquid-fund
 - mutual-fund
 - nfo
-- liquid-fund
-- capitalmind
-- nse-mf-invest
-- new-fund-offer
+- trading-platform
 title: Launch of Capitalmind Liquid Fund NFO on NSE MF Invest Platform
 ---
 

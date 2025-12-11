@@ -24,10 +24,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- company-name-change
 - debt-securities
 - listing
-- regulatory-update
+- name-change
+- regulatory
 title: Change in Name of Debt Listed Company
 ---
 

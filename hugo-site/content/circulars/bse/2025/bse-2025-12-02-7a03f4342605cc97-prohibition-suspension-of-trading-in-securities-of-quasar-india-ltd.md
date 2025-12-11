@@ -28,11 +28,11 @@ source: bse
 stocks:
 - QUASAR
 tags:
-- trading-suspension
+- enforcement
 - non-compliance
-- show-cause-notice
 - registered-office
-- enforcement-action
+- show-cause-notice
+- suspension
 title: Prohibition/Suspension of Trading in Securities of Quasar India Ltd
 ---
 

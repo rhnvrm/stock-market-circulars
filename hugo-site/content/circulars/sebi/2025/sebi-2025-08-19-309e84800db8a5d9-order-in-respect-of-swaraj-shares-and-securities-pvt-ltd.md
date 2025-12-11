@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- merchant-banker
 - compliance
 - due-diligence
+- enforcement
+- intermediary
+- investigation
 - investor-grievances
-- inspection
-- enforcement-action
-- intermediaries
+- merchant-banker
 title: Order in respect of Swaraj Shares and Securities Pvt. Ltd.
 ---
 

@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - groww-mutual-fund
 - money-market-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
-- nse-mf-invest
+- trading-platform
 title: Availability of Groww Money Market Fund for ongoing transactions on NSE MF
   Invest Platform
 ---

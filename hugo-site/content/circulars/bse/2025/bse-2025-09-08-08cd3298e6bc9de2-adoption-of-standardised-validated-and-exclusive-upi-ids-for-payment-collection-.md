@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- upi
-- payment-collection
-- intermediaries
+- intermediary
 - investor-protection
 - npci
+- payment-collection
 - structured-addresses
+- upi
 title: Adoption of Standardised, Validated and Exclusive UPI IDs for Payment Collection
   by SEBI Registered Intermediaries from Investors
 ---

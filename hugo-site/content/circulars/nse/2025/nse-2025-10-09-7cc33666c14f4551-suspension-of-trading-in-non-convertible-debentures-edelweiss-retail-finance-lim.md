@@ -23,16 +23,13 @@ published_date: '2025-10-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML70737.pdf
 severity: medium
 source: nse
-stocks:
-- 888ERFL28
-- 925ERFL28
+stocks: []
 tags:
-- suspension
-- non-convertible-debentures
-- ncds
-- amalgamation
-- edelweiss-retail-finance
 - debt-securities
+- edelweiss-retail-finance
+- ncd
+- scheme-of-arrangement
+- suspension
 - trading-halt
 title: Suspension of Trading in Non-Convertible Debentures - Edelweiss Retail Finance
   Limited

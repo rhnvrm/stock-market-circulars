@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- etf
-- nfo
-- mutual-fund
 - dsp-mutual-fund
-- smallcap
+- etf
+- mutual-fund
+- nfo
 - nifty-smallcap-250
-- nse-mf-invest
+- smallcap
+- trading-platform
 title: Launch of DSP Nifty Smallcap 250 ETF NFO on NSE MF Invest Platform
 ---
 

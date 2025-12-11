@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TICL
 tags:
-- offer-for-sale
+- institutional-investor
 - ofs
+- retail-investor
 - trading-schedule
-- retail-investors
-- institutional-investors
 title: Opening of Offer for Sale for TWAMEV CONSTRUCTION AND INFRASTRUCTURE LIMITED
   - Live Activities Schedule
 ---

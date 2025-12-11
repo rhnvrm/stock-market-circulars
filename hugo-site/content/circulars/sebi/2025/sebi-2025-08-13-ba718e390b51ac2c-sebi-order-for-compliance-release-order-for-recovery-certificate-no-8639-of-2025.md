@@ -26,9 +26,9 @@ source: sebi
 stocks: []
 tags:
 - compliance
-- recovery-certificate
-- investment-advisory
 - enforcement
+- investment-adviser
+- recovery
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8639
   of 2025 against Parul Sahu in the matter of Pinnacle Market Investment Advisory
   Pvt. Ltd.

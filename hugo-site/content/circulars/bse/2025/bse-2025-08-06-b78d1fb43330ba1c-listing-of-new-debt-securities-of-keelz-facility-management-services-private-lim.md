@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KFMSPL
 tags:
+- bond
 - debt-securities
+- keelz-facility-management
 - listing
 - private-placement
-- keelz-facility-management
-- corporate-bonds
 title: Listing of New Debt Securities of KEELZ FACILITY MANAGEMENT SERVICES PRIVATE
   LIMITED
 ---

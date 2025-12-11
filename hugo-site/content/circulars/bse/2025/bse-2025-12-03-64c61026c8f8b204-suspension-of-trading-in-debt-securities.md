@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- corporate-actions
-- debentures
+- ncd
+- suspension
 title: Suspension of Trading in Debt Securities - Earlysalary Services Private Limited
 ---
 

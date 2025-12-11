@@ -29,10 +29,9 @@ stocks:
 - INTEGRITY
 - MCLOUD
 tags:
+- asm-stage
+- margin
 - surveillance
-- ST-ASM
-- margin-requirements
-- market-surveillance
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

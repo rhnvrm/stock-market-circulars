@@ -25,14 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
 - etf
-- nfo
-- new-fund-offer
 - mirae-asset
 - mutual-fund
-- smallcap
+- nfo
 - nifty-smallcap-250
-- equity
+- smallcap
 title: Launch of Mirae Asset Nifty SmallCap 250 ETF NFO on NSE MF Invest Platform
 ---
 

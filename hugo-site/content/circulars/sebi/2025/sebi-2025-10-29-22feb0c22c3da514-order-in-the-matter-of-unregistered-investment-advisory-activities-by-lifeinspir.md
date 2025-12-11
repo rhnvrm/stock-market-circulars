@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisory
-- unregistered-activities
-- enforcement-action
-- lifeinspire-knowledge-solutions
-- violations
 - bankniftyoption
-- telegram-channels
+- enforcement
 - false-representation
+- investment-adviser
 - investment-advisers-regulations
+- lifeinspire-knowledge-solutions
+- telegram-channels
+- unregistered-activities
+- violations
 title: Order in the matter of unregistered investment advisory activities by Lifeinspire
   Knowledge Solutions Private Limited
 ---

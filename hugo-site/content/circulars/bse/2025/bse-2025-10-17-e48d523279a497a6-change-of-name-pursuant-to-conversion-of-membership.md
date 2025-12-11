@@ -27,10 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
 - conversion
-- name-change
 - corporate-entity
+- membership
+- name-change
 - trading-member
 title: Change of Name pursuant to Conversion of membership
 ---

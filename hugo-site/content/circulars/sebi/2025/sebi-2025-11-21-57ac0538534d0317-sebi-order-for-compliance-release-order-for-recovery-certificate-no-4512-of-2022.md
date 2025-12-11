@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
 - compliance
-- SMS-Techsoft
+- enforcement
 - individual-proceeding
-- release-order
+- recovery
+- release
 title: 'SEBI Release Order for Recovery Certificate No. 4512 of 2022 - Minaben Prafulbhai
   Shah (PAN: COYPS9153J) - SMS Techsoft (India) Ltd.'
 ---

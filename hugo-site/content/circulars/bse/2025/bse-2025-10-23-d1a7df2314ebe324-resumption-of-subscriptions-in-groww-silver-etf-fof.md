@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- fof
-- subscription
-- silver-etf
-- groww-mutual-fund
 - bullion
+- etf
+- fund-of-funds
+- groww-mutual-fund
+- mutual-fund
+- silver
+- subscription
 title: Resumption of Subscriptions in Groww Silver ETF FOF
 ---
 

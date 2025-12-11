@@ -29,12 +29,12 @@ stocks:
 - PRAMARA
 - TCL
 tags:
+- conversion
+- emerge-platform
+- further-issue
 - listing
-- further-issues
-- sme-emerge
-- preferential-allotment
-- warrants-conversion
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of Securities - KHFM, PRAMARA, TCL
 ---
 

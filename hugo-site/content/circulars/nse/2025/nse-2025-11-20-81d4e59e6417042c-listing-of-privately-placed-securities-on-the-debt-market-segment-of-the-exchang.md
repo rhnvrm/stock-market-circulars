@@ -36,11 +36,11 @@ stocks:
 - GODREJPROP
 - AXISSEC
 tags:
-- debt-market
 - commercial-paper
-- listing
-- privately-placed-securities
 - cp-issuance
+- debt-securities
+- listing
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - November 20,
   2025
 ---

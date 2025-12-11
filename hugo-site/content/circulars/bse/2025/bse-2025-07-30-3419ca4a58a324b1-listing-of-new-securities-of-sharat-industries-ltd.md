@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SHARAT
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- listing
+- rights-issue
 - sharat-industries
 title: Listing of New Securities of Sharat Industries Ltd
 ---

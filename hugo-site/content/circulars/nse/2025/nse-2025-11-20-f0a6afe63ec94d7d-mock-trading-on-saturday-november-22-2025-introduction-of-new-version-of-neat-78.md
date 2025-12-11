@@ -25,14 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
+- derivatives
+- futures-options
 - mock-trading
-- neat-plus
-- software-upgrade
 - pre-open-session
-- futures-and-options
-- equity-derivatives
+- system-update
 - trading-platform
-- system-testing
 title: Mock Trading on Saturday, November 22, 2025 - Introduction of NEAT+ 7.8.6 &
   Discontinuation of NEAT+ 7.8.5
 ---

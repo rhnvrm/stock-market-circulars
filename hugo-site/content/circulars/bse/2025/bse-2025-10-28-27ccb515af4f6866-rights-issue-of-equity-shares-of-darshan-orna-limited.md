@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DARSHANORNA
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- darshan-orna
+- rights-issue
 title: Rights Issue of Equity Shares of Darshan Orna Limited - Record Date Fixed
 ---
 

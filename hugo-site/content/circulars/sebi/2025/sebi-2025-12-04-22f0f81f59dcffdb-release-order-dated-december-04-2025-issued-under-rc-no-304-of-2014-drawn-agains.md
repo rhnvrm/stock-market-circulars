@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- recovery-order
-- release-order
 - enforcement
-- kolar-biotech
 - mastermind-mercantile
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 304/2014 - Mastermind Mercantile
   Co-Op Private Limited (Kolar Biotech Matter)
 ---

@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-schedule
-- september-2025
+- derivatives
 - nse-clearing
+- september-2025
+- settlement
 title: Commodity Derivatives Settlement Schedule for September 2025
 ---
 

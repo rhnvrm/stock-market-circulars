@@ -26,12 +26,10 @@ source: bse
 stocks:
 - KSE
 tags:
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- KSE
+- split
 title: 'Sub-Division of Equity Shares of KSE Ltd (Scrip Code: 519421)'
 ---
 

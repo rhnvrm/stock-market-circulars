@@ -26,9 +26,9 @@ source: bse
 stocks:
 - VEERAM
 tags:
-- name-change
+- certificate
 - corporate-action
-- incorporation-certificate
+- name-change
 - veeram-securities
 - viram-suvarn
 title: 'Change in Name: VEERAM SECURITIES LIMITED to VIRAM SUVARN LIMITED'

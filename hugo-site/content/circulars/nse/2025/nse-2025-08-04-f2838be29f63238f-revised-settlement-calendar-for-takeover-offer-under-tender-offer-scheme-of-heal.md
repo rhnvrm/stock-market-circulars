@@ -26,11 +26,11 @@ source: nse
 stocks:
 - HCGL
 tags:
-- takeover
-- tender-offer
-- settlement-calendar
 - healthcare-global
 - revised-schedule
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for HealthCare Global Enterprises Limited Takeover
   Offer
 ---

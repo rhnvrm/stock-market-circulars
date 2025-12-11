@@ -25,11 +25,11 @@ source: bse
 stocks:
 - GICHFL
 tags:
+- bse-debt-segment
 - commercial-paper
-- debt-listing
+- debt-securities
 - gic-housing-finance
 - private-placement
-- bse-debt-segment
 title: Listing of New Commercial Paper of GIC Housing Finance Ltd
 ---
 

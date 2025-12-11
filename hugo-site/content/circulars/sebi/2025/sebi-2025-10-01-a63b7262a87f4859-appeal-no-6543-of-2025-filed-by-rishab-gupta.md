@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- investment-advisers
-- unauthorized-services
-- time-barred
 - complaints
-- sebi-regulations
+- investment-adviser
+- regulatory-framework
+- rti
+- time-barred
+- unauthorized-services
 title: Appeal No. 6543 of 2025 filed by Rishab Gupta
 ---
 

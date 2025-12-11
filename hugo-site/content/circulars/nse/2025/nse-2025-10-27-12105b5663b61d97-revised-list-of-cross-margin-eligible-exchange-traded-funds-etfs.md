@@ -27,14 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- bank-nifty
 - cross-margin
 - etf
 - futures-options
-- margin-requirements
-- nse-clearing
-- exchange-traded-funds
+- margin
 - nifty
-- bank-nifty
+- nse-clearing
 - sectoral-etf
 title: Revised list of Cross Margin Eligible Exchange Traded Funds (ETFs)
 ---

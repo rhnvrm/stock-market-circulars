@@ -28,13 +28,13 @@ source: bse
 stocks:
 - BELSTAR
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- face-value-reduction
-- debt-segment
 - corporate-action
+- debt-securities
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of BELSTAR MICROFINANCE LIMITED
 ---
 

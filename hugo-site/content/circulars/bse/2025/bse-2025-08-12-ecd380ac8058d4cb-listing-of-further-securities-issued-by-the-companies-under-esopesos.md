@@ -27,18 +27,16 @@ stocks:
 - FEDBANK
 - FIVESTAR
 - GODIGIT
-- HINDrect
+- HINDRECT
 - MONARCH
-- NIIT
+- NIITLTD
 - SUDARSHAN
 - SUZLON
 - WIPRO
 - YESBANK
 tags:
 - esop
-- esos
-- securities-listing
-- employee-stock-options
+- listing
 - trading
 title: Listing of Further Securities Issued Under ESOP/ESOS - 11 Companies
 ---

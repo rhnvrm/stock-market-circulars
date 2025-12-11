@@ -28,12 +28,12 @@ stocks:
 - QSIFHDG
 - QSIFHRG
 tags:
+- capital-market
 - listing
 - mutual-fund
-- quant-mutual-fund
 - qsif-hybrid-long-short-fund
+- quant-mutual-fund
 - units
-- capital-market
 title: Listing of units issued by Quant Money Managers Limited (qsif Hybrid Long-Short
   Fund)
 ---

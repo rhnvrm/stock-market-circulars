@@ -27,9 +27,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- ptc
 - loanx-verbena
 - private-placement
+- ptc
 title: Listing of LoanX Verbena Jul 2025 Debt Securities on BSE
 ---
 

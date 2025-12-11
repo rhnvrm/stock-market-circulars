@@ -26,11 +26,11 @@ source: bse
 stocks:
 - STARIMAGING
 tags:
-- trading-segment-change
-- group-transfer
-- sme
+- group-change
 - rolling-segment
+- sme
 - trade-for-trade
+- trading-segment-change
 title: Change in Group of Equity Shares of STAR IMAGING AND PATH LAB LIMITED
 ---
 

@@ -29,13 +29,10 @@ stocks:
 - MFSINTER
 - SARDAEN
 tags:
-- surveillance
-- asm
-- trading-framework
 - franklin-industries
-- incon-engineers
-- mfs-intercorp
 - sarda-energy
+- surveillance
+- trading-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

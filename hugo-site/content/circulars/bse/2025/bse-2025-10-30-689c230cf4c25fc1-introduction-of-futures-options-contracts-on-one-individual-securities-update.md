@@ -27,12 +27,11 @@ source: bse
 stocks:
 - HEIL
 tags:
-- derivatives
-- futures-and-options
-- new-contracts
-- equity-derivatives
-- hitachi-energy
 - contract-specifications
+- derivatives
+- futures-options
+- hitachi-energy
+- new-contracts
 title: Introduction of Futures & Options Contracts on Hitachi Energy India Ltd
 ---
 

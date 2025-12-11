@@ -29,11 +29,10 @@ stocks:
 - NETWORK18
 tags:
 - commercial-paper
+- debt-securities
+- demat
 - listing
-- debt-segment
 - private-placement
-- network-18
-- dematerialised-trading
 title: Listing of new Commercial Paper of Network 18 Media & Investments Limited
 ---
 

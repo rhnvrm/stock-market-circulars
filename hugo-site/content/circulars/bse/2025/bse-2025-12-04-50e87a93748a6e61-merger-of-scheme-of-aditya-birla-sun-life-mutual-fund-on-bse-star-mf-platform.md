@@ -26,11 +26,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-merger
 - aditya-birla-sun-life
 - debt-index-fund
-- bse-star-mf
+- mutual-fund
+- scheme-merger
 title: Merger of Aditya Birla Sun Life Mutual Fund Schemes on BSE StAR MF Platform
 ---
 

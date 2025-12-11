@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-operations
 - derivatives
 - mps
-- throttle-limit
 - system-update
+- throttle-limit
+- trading-operations
 title: Trading Member Level Throttle Limit Extension - MPS Assignment Cut-off Extended
   to 6:30 PM
 ---

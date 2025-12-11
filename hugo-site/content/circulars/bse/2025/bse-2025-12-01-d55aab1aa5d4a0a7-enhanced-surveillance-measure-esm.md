@@ -32,11 +32,9 @@ stocks:
 - SIZEMAST
 - TYPHOON
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-regulation
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective December
   2, 2025
 ---

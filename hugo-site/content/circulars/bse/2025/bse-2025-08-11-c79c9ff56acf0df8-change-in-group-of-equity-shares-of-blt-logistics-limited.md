@@ -25,12 +25,11 @@ source: bse
 stocks:
 - BLTLOG
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- mt-group
-- m-group
 - rolling-segment
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of BLT LOGISTICS LIMITED
 ---
 

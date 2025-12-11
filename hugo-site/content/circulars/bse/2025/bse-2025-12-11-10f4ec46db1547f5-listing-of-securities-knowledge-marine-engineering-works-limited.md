@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543273'
+- KMEW
 tags:
-- listing
-- equity-shares
-- preferential-issue
+- equity
 - knowledge-marine
+- listing
 - lock-in
-- '543273'
+- preferential-issue
 title: Listing of 1,421,054 Equity Shares of Knowledge Marine & Engineering Works
   Limited
 ---

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - HINDCONST
 tags:
-- rights-issue
-- corporate-action
-- equity-shares
-- record-date
-- ex-rights
 - capital-raising
+- corporate-action
+- equity
+- record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - Hindustan Construction Co. Ltd.
 ---
 

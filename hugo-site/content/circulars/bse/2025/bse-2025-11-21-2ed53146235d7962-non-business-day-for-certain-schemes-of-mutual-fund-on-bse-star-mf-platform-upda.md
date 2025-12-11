@@ -25,11 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- bse-star-mf
-- icici-prudential
 - holiday
+- icici-prudential
+- mutual-fund
 title: Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform
   - UPDATE
 ---

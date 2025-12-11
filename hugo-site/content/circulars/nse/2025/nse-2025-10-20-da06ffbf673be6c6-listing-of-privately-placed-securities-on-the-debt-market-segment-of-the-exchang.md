@@ -31,13 +31,12 @@ stocks:
 - TATAP
 - JMFS
 - GODREJPROP
-- ALEMBICPHARMA
+- APLLTD
 tags:
-- debt-market
 - commercial-paper
-- private-placement
-- listing
 - debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment - October 20,
   2025
 ---

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543619'
+- CNCRD
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
-- new-securities
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Concord Control Systems Limited
 ---
 

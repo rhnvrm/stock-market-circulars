@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - GENERICENG
 tags:
-- recovery-proceedings
-- enforcement
-- recovery-certificate
-- generic-engineering-construction
 - certificate-of-recovery
+- enforcement
+- recovery
 - saurabh-ashok-shinde
 title: General Remittance Order dated 01.12.2025 issued under RC No. 8915 of 2025
   drawn against Saurabh Ashok Shinde in the matter of Generic Engineering Construction

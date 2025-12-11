@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- frequency-change
 - mutual-fund
 - sip
 - stp
-- frequency-change
+- sundaram-mutual-fund
 - systematic-investment
 - systematic-transfer
-- sundaram-mutual-fund
 title: Change in AMC STP frequency details of SUNDARAM Mutual Fund on BSE StAR MF
   Platform
 ---

@@ -27,11 +27,10 @@ stocks:
 - BBTCL
 - TARAPUR
 tags:
-- surveillance
-- price-movement
-- volume-movement
 - clarification
 - disclosure
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

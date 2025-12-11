@@ -39,11 +39,10 @@ stocks:
 - TDPOWERSYS
 - UNISONMET
 tags:
-- surveillance
-- ST-ASM
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

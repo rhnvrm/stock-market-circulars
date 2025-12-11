@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SUGS
 tags:
+- asm-stage
 - group-change
-- trading-segment
 - sme
 - sugs-lloyd
-- mt-group
-- m-group
+- trading
 title: SUGS LLOYD LIMITED - Transfer from Trade for Trade to Rolling Segment
 ---
 

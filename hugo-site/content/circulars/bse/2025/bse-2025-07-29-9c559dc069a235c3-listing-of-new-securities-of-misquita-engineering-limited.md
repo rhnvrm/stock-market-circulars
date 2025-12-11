@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '542801'
+- MISQUITA
 tags:
-- new-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Misquita Engineering Limited
 ---
 

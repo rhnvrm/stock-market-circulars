@@ -29,12 +29,12 @@ stocks:
 - PRESSURESYS
 - SUUMAYA
 tags:
-- trading-suspension
-- sebi-lodr
-- regulation-33
-- quarterly-results
+- financial-results
+- lodr
 - non-compliance
 - promoter-freezing
+- regulation-33
+- suspension
 title: Suspension of Trading for Three Companies Due to Non-Compliance with SEBI Disclosure
   Requirements
 ---

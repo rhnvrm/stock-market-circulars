@@ -27,12 +27,9 @@ stocks:
 - KAIROSOFT
 - MOSCHIP
 tags:
-- surveillance-measure
-- st-asm
+- asm-stage
+- market-operations
 - trading-restrictions
-- market-regulation
-- KAIROSOFT
-- MOSCHIP
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

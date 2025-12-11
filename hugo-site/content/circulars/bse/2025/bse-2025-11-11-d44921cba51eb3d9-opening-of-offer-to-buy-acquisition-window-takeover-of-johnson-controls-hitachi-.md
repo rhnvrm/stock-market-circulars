@@ -29,15 +29,13 @@ source: bse
 stocks:
 - JCHAC
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
-- robert-bosch
-- johnson-controls-hitachi
 - air-conditioning
-- public-shareholders
-- cash-offer
+- cash-segment
+- johnson-controls-hitachi
+- robert-bosch
+- sast
+- shareholding-pattern
+- takeover
 title: Open Offer by Robert Bosch GmbH to Acquire 25.75% Stake in Johnson Controls-Hitachi
   Air Conditioning India Limited
 ---

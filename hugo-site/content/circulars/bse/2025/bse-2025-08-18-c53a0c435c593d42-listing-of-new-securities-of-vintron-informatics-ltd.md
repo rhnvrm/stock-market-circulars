@@ -27,10 +27,10 @@ source: bse
 stocks:
 - VINTRON
 tags:
-- new-listing
-- equity-shares
+- conversion
+- equity
+- listing
 - preferential-issue
-- warrant-conversion
 - vintron-informatics
 title: Listing of New Securities of Vintron Informatics Ltd.
 ---

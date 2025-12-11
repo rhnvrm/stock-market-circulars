@@ -28,13 +28,11 @@ source: nse
 stocks:
 - DIGJAMLMTD
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-ii
-- trade-for-trade
 - additional-surveillance-deposit
+- asm-stage
 - price-band
 - surveillance
+- trade-for-trade
 title: List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)
 ---
 

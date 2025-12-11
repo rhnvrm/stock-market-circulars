@@ -26,9 +26,9 @@ source: bse
 stocks:
 - NOVELIX
 tags:
+- equity
 - listing
-- equity-shares
-- lock-in-period
+- lock-in
 - novelix-pharmaceuticals
 title: Listing of New Securities of NOVELIX PHARMACEUTICALS LIMITED
 ---

@@ -24,14 +24,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML70875.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 - TMPV
 tags:
-- name-change
-- symbol-change
 - corporate-action
-- TATAMOTORS
-- TMPV
+- name-change
+- tatamotors
 title: Change in Name and Symbol of Tata Motors Limited
 ---
 

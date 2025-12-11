@@ -26,12 +26,12 @@ source: bse
 stocks:
 - LODHA
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
 - lodha-developers
-- debt-segment
-- corporate-actions
+- ncd
+- redemption
 title: Part Redemption (Revised) of Debenture of LODHA DEVELOPERS LIMITED
 ---
 

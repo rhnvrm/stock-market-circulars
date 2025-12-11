@@ -30,11 +30,10 @@ stocks:
 - RAMLEA
 - SNSPROP
 tags:
-- offer-to-buy
-- takeover
-- trading-suspension
+- otb
 - sebi-holiday
-- acquisition-window
+- suspension
+- takeover
 title: Bidding Closed for OTB Issues on Monday September 08, 2025 Due to SEBI Holiday
 ---
 

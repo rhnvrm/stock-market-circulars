@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - compliance
-- investment-advisers
-- disabilities-act
+- digital-accessibility
+- investment-adviser
 - regulatory-filing
-- sebi-circular
+- sebi
 title: 'BSE Circular: Rights of Persons with Disabilities Act 2016 - Mandatory Compliance
   Confirmation Required from Investment Advisers'
 ---

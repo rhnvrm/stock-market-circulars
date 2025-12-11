@@ -26,10 +26,10 @@ stocks:
 - PCKRPPL
 tags:
 - debt-securities
-- private-placement
 - listing
 - new-securities
 - pradhaan-city
+- private-placement
 title: Listing of new debt securities of Pradhaan City K R Puram Private Limited
 ---
 

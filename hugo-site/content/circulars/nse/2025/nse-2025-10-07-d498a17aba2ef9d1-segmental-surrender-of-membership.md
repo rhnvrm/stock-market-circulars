@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- membership
-- segmental-surrender
-- currency-derivatives
 - balaji-equities
 - compliance
+- derivatives
+- membership
+- segmental-surrender
 title: Segmental Surrender of Membership - Balaji Equities Ltd.
 ---
 

@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- specialized-investment-funds
-- minimum-investment-threshold
-- compliance
-- mutual-funds
 - automatic-redemption
-- sebi-circular
+- compliance
+- minimum-investment-threshold
+- mutual-fund
+- sebi
+- sif
 title: Monitoring of Minimum Investment Threshold under Specialized Investment Funds
   (SIF)
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VIKRAMKAMAT
 tags:
+- conversion
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- warrant-conversion
-- lock-in
 title: Listing of New Securities of Vikram Kamat's Hospitality Limited
 ---
 

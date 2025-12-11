@@ -26,11 +26,11 @@ source: nse
 stocks:
 - LGHL
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- capital-market
+- equity
 - listing
 - trading
-- capital-market
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Laxmi Goldorna
   House Limited
 ---

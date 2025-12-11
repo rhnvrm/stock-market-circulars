@@ -25,8 +25,8 @@ source: bse
 stocks:
 - REGAAL
 tags:
-- index-addition
-- bse-ipo-index
+- bse-index
+- index-change
 - listing
 - regaal-resources
 title: Addition to the BSE IPO INDEX - REGAAL RESOURCES LIMITED

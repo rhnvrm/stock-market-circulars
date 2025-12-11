@@ -26,7 +26,7 @@ source: bse
 stocks:
 - BEMCO
 - BLTLOG
-- ESSEXMARINE
+- ESSEX
 - IIDSL
 - IDML
 - KESAR
@@ -35,9 +35,9 @@ stocks:
 - VENMAX
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Price Band Revisions for Nine Securities Effective August 26, 2025
 ---
 

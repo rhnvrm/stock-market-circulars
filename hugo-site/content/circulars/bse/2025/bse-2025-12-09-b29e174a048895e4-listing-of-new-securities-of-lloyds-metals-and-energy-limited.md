@@ -28,11 +28,10 @@ source: bse
 stocks:
 - LLOYDSME
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- lloyds-metals
+- preferential-issue
 title: Listing of New Securities of Lloyds Metals and Energy Limited
 ---
 

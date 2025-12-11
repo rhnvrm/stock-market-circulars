@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- platform-operations
 - bandhan-mutual-fund
-- icici-prudential-mutual-fund
-- fof
 - fund-of-funds
+- holiday
+- icici-prudential-mutual-fund
+- mutual-fund
+- platform-operations
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for November 2025
 ---

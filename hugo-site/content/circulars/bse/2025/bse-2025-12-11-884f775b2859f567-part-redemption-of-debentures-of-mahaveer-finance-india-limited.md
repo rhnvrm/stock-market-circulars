@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MAHAVEER FINANCE
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - corporate-action
 - debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of MAHAVEER FINANCE INDIA LIMITED
 ---
 

@@ -27,12 +27,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- merchant-banker
-- kreo-capital
-- regulatory-violations
+- adjudication
 - compliance
-- enforcement-action
+- enforcement
+- kreo-capital
+- merchant-banker
+- non-compliance
 - penalty
 title: Adjudication Order in the matter of Kreo Capital Private Limited
 ---

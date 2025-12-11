@@ -37,9 +37,9 @@ stocks:
 - SPICE
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Changes in Price Band - 11 Companies Effective August 12, 2025
 ---
 

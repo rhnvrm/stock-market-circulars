@@ -27,11 +27,10 @@ source: bse
 stocks:
 - BPRPL
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- bonds
-- BPRPL
 title: Listing of New Debt Securities of Bilaspur Pathrapali Road Private Limited
 ---
 

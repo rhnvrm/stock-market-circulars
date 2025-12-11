@@ -34,12 +34,10 @@ stocks:
 - POLYCAB
 - RBA
 tags:
+- equity
 - esop
-- esos
 - listing
 - new-securities
-- equity
-- employee-stock-options
 title: Listing of ESOP/ESOS Securities for 9 Companies Effective July 29, 2025
 ---
 

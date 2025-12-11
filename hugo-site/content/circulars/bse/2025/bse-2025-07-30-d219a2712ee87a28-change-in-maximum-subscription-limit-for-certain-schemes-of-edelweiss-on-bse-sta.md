@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
-- overseas-investment
 - edelweiss
 - greater-china-fund
 - investment-limit
+- mutual-fund
+- overseas-investment
+- subscription-limit
 title: Change in Maximum Subscription Limit for Edelweiss Greater China Equity Off-Shore
   Fund
 ---

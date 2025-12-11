@@ -25,11 +25,11 @@ source: bse
 stocks:
 - NJCPL
 tags:
+- bond
 - debt-securities
 - listing
 - nj-capital
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of NJ Capital Private Limited
 ---
 

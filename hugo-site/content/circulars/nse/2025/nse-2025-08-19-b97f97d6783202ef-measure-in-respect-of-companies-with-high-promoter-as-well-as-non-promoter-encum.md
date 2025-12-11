@@ -31,11 +31,11 @@ stocks:
 - STEELXIND
 - THYROCARE
 tags:
-- surveillance
-- margin-requirements
-- promoter-encumbrance
-- equity-derivatives
+- derivatives
+- encumbrance
+- margin
 - regulatory-measure
+- surveillance
 title: Surveillance Measure for Companies with High Promoter and Non-Promoter Encumbrance
   - August 2025 Update
 ---

@@ -28,12 +28,12 @@ stocks:
 - NABF
 - TACA
 tags:
-- listing
-- debt-securities
-- private-placement
-- bonds
-- debentures
+- bond
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities on Capital Market Segment - Four Debt
   Securities
 ---

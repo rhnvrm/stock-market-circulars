@@ -28,10 +28,10 @@ stocks:
 - FEDFINA
 tags:
 - commercial-paper
-- debt-segment
+- debt-securities
+- fedbank-financial-services
 - listing
 - private-placement
-- fedbank-financial-services
 title: Listing of new Commercial Paper of Fedbank Financial Services Limited
 ---
 

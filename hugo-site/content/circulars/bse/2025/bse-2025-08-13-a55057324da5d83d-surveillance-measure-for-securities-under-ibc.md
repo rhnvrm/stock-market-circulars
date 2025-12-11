@@ -26,12 +26,9 @@ source: bse
 stocks:
 - LAKSHMI
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- trading-measures
-- asm
+- surveillance
+- trading-operations
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

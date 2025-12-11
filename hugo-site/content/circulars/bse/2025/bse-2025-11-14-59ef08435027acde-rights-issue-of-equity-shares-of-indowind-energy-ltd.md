@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INDOWIND
 tags:
-- rights-issue
-- equity-shares
-- corporate-action
-- ex-rights
 - capital-raising
+- corporate-action
+- equity
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Indowind Energy Ltd
 ---
 

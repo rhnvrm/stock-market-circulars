@@ -25,11 +25,11 @@ source: bse
 stocks:
 - DLFC
 tags:
+- bond
 - debt-securities
+- dlf-cyber-city
 - listing
 - private-placement
-- dlf-cyber-city
-- corporate-bonds
 title: Listing of new debt securities of DLF Cyber City Developers Limited
 ---
 

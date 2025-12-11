@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SHIVAMSHREE
 tags:
-- preferential-allotment
-- equity-shares
-- new-listing
-- lock-in-period
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Shivamshree Businesses Limited - Preferential
   Allotment
 ---

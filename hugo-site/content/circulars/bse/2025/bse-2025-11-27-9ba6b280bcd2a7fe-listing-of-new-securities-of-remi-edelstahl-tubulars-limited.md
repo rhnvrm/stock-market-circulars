@@ -27,11 +27,11 @@ source: bse
 stocks:
 - REMITEST
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
+- equity
 - lock-in
-- promoter-issue
+- new-securities
+- preferential-issue
+- promoter
 title: Listing of New Securities of Remi Edelstahl Tubulars Limited
 ---
 

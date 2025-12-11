@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- remittance-advice
-- recovery-certificate
-- trading-violations
-- mentha-oil
-- mcx
-- defaulter
 - commodity-futures
+- defaulter
+- demand-notice
+- mcx
+- mentha-oil
+- recovery
+- trading-operations
 title: Remittance Advice against Shamugpriya International Pvt. Ltd. - Trading Violations
   in Mentha Oil Futures
 ---

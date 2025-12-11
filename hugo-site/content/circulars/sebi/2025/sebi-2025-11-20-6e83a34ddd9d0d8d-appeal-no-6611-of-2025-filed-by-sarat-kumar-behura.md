@@ -27,14 +27,14 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - aif
-- investor-complaint
-- disclosure-norms
 - alternative-investment-fund
-- investigation
-- scores
+- disclosure-norms
 - due-diligence
+- investigation
+- investor-complaint
+- rti
+- scores
 title: Appeal No. 6611 of 2025 filed by Sarat Kumar Behura - RTI Appeal Decision
 ---
 

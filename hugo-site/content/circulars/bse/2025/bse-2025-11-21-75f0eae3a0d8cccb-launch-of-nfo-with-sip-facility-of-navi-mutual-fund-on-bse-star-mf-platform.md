@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- nfo
-- mutual-fund
-- sip
-- navi-mutual-fund
-- index-fund
-- nifty-midsmallcap-400
-- bse-star-mf
 - equity
+- index-fund
+- mutual-fund
+- navi-mutual-fund
+- nfo
+- nifty-midsmallcap-400
+- sip
 title: Launch of NFO with SIP facility of NAVI MUTUAL FUND on BSE StAR MF Platform
 ---
 

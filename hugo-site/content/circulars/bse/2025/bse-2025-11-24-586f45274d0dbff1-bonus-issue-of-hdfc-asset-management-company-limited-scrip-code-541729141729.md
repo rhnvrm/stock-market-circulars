@@ -26,12 +26,11 @@ source: bse
 stocks:
 - HDFCAMC
 tags:
-- bonus-issue
-- corporate-action
-- record-date
-- hdfc-amc
-- equity-shares
 - allotment
+- bonus
+- corporate-action
+- equity
+- record-date
 title: 'Bonus Issue of HDFC Asset Management Company Limited (Scrip Code: 541729/141729)'
 ---
 

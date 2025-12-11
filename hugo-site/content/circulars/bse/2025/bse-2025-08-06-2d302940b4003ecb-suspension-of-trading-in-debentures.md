@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BAJFINANCE
 tags:
-- debentures
-- trading-suspension
-- maturity
-- debt-market
 - bajaj-finance
+- debt-securities
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in BFL Debentures Due to Maturity
 ---
 

@@ -27,16 +27,14 @@ stocks:
 - AAATECH
 - CHANDRIMER
 - GSBFIN
-- SIGMASOLVE
+- SIGMA-BE
 - HIKLASTRAD
 - OMANSHENT
 - VALIANTCOM
 tags:
-- esm
-- enhanced-surveillance
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Updates Effective October 08, 2025
 ---
 

@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- board-resolution
+- compliance
+- corporate-members
 - designated-directors
 - documentation
-- corporate-members
-- compliance
-- membership
-- board-resolution
 - kyc-requirements
+- membership
 title: Revised Formats for Submission of Applications for Change in Designated Directors
 ---
 

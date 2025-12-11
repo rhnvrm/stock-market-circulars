@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
 - compliance-order
-- SMS-Techsoft
+- enforcement
 - individual-liability
+- recovery
 title: SEBI Completion Order for Recovery Certificate No. 4496 of 2022 against Pruthvi
   Himanshu Shah
 ---

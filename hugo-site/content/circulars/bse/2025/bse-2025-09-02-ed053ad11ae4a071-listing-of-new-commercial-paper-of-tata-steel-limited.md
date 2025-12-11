@@ -27,10 +27,9 @@ stocks:
 - TSL
 tags:
 - commercial-paper
-- debt-listing
-- tata-steel
-- TSL
+- debt-securities
 - private-placement
+- tata-steel
 title: Listing of new Commercial Paper of TATA STEEL LIMITED
 ---
 

@@ -25,13 +25,12 @@ source: sebi
 stocks:
 - IREDA
 tags:
-- rti-act
-- ipo
+- appeal
 - employee-benefits
-- share-allocation
-- ireda
-- appellate-authority
 - information-disclosure
+- ipo
+- rti
+- share-allocation
 title: Appeal No. 6509 of 2025 filed by Vikas Jain - RTI Act Appeal regarding IPO
   employee share allocation rules
 ---

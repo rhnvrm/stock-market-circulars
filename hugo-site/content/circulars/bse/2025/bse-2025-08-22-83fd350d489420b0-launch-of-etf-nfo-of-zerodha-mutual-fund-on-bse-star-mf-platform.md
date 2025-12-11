@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
+- mutual-fund
 - nfo
-- zerodha
 - nifty-smallcap-100
-- bse-star-mf
+- zerodha
 title: Launch of ETF NFO of ZERODHA Mutual Fund on BSE StAR MF Platform
 ---
 

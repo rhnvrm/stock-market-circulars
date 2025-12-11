@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TRISHAKTI
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- non-promoter
 - lock-in
-- trishakti-industries
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Trishakti Industries Limited
 ---
 

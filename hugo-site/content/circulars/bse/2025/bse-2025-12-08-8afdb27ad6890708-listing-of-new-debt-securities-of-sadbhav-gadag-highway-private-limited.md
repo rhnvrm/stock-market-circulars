@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
 - sadbhav-gadag-highway
-- bse-debt-segment
 title: Listing of New Debt Securities of Sadbhav Gadag Highway Private Limited
 ---
 

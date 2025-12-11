@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ADISHAKTI
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-allotment
-- lock-in-period
+- conversion
+- equity
+- lock-in
+- preferential-issue
 title: Listing of New Equity Shares - Adishakti Loha and Ispat Limited
 ---
 

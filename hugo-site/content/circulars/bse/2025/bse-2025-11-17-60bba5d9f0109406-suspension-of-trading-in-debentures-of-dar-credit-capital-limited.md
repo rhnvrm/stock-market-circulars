@@ -28,12 +28,11 @@ source: bse
 stocks:
 - DCCL
 tags:
-- suspension
-- debentures
+- corporate-action
+- debt-securities
 - ncd
-- early-redemption
-- corporate-actions
-- debt-segment
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DAR CREDIT & CAPITAL LIMITED
 ---
 

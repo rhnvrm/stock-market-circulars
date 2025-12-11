@@ -25,13 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- margin-obligations
-- pledge
-- re-pledge
-- depository-system
-- timeline-extension
-- sebi-circular
 - clearing-members
+- depository
+- encumbrance
+- extension
+- margin-obligations
+- sebi
 title: Extension of Timeline for SEBI Margin Pledge/Re-Pledge Implementation to October
   10, 2025
 ---

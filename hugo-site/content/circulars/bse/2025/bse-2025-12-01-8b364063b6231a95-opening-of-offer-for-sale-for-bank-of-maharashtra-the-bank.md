@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MAHABANK
 tags:
-- offer-for-sale
-- ofs
 - bank-of-maharashtra
 - equity
-- public-offer
+- ipo
+- ofs
 - settlement-calendar
 title: Opening of Offer for Sale for Bank of Maharashtra
 ---

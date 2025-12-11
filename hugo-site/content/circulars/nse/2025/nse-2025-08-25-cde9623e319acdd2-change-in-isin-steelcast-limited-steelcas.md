@@ -26,10 +26,9 @@ source: nse
 stocks:
 - STEELCAS
 tags:
-- isin-change
-- share-subdivision
-- steelcast
-- equity-shares
+- equity
+- face-value-change
+- isin
 title: Change in ISIN - Steelcast Limited (STEELCAS)
 ---
 

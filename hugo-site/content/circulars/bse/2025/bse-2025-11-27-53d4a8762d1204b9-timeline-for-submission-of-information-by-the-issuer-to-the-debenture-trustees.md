@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
 - debenture-trustees
 - debt-securities
-- compliance
+- periodical-monitoring
+- regulatory-framework
 - reporting-requirements
 - security-cover
-- periodical-monitoring
-- sebi-regulations
 title: Timeline for Submission of Information by Issuer to Debenture Trustees
 ---
 

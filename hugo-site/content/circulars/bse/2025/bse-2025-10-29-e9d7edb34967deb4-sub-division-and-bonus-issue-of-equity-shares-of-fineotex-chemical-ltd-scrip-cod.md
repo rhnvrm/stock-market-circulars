@@ -28,11 +28,10 @@ source: bse
 stocks:
 - FINEOTEX
 tags:
-- bonus-issue
-- sub-division
+- bonus
 - corporate-action
-- fineotex-chemical
-- equity-shares
+- equity
+- split
 title: Sub-Division and Bonus Issue of Equity Shares of Fineotex Chemical Limited
 ---
 

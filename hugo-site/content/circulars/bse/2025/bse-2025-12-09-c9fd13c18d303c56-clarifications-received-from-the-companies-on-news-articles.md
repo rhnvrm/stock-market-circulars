@@ -32,14 +32,13 @@ stocks:
 - KAYNES
 tags:
 - clarification
-- news-article
-- regulatory-disclosure
-- media-reports
-- piramal-finance
-- interglobe-aviation
-- kaynes-technology
 - dgca
 - gold-loan
+- interglobe-aviation
+- kaynes-technology
+- media-reports
+- news-article
+- regulatory-disclosure
 title: Clarifications Received from Companies on News Articles
 ---
 

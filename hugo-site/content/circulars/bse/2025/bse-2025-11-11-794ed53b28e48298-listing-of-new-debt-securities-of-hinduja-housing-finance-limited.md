@@ -28,11 +28,10 @@ stocks:
 - HHFL
 tags:
 - debt-securities
-- listing
 - hinduja-housing-finance
+- listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- HHFL
 title: Listing of New Debt Securities of Hinduja Housing Finance Limited
 ---
 

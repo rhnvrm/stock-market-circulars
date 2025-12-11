@@ -26,10 +26,10 @@ stocks:
 - HLFL
 tags:
 - debt-securities
-- listing
-- private-placement
 - hinduja-leyland-finance
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Hinduja Leyland Finance Limited
 ---
 

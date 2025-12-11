@@ -26,13 +26,12 @@ source: bse
 stocks:
 - LEPL
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- record-date
-- debt-market
-- face-value-reduction
 - corporate-action
+- debt-securities
+- face-value-reduction
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of LUMBINI EDUCATION PVT LTD
 ---
 

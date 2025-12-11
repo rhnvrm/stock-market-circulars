@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
-- choice-mutual-fund
-- nri
-- minor
-- etf
-- nfo
 - choice-gold-etf
+- choice-mutual-fund
+- etf
+- minor
+- mutual-fund
+- nfo
+- nri
 title: Introduction of CHOICE MUTUAL FUND on BSE StAR MF Platform
 ---
 

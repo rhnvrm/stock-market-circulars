@@ -31,12 +31,9 @@ stocks:
 - FLFL
 - FSC
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- asm
-- stage-1
+- surveillance
 title: Additional Surveillance Measure (ASM) under Insolvency and Bankruptcy Code
   (IBC) - August 2025 Update
 ---

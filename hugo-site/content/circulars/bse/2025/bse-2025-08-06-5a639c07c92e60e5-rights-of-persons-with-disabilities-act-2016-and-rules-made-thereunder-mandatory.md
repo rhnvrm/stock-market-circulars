@@ -25,14 +25,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- accessibility
 - compliance
+- depository
+- digital-accessibility
 - digital-platforms
 - disabilities
-- regulatory-requirements
-- intermediaries
+- intermediary
+- regulatory
 - stock-exchanges
-- depositories
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Digital Platform
   Compliance for All Regulated Entities
 ---

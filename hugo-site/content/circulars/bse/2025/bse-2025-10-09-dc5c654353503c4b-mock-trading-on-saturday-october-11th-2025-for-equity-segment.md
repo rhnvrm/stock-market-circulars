@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-segment
-- system-testing
-- trading-operations
-- bolt-tws
 - block-deals
-- call-auction
+- call-money
+- equity
+- mock-trading
 - pre-open
-- periodic-call-auction
+- trading-operations
+- trading-platform
+- trading-session
 title: Mock Trading Session Scheduled for Saturday October 11th 2025 - Equity Segment
 ---
 

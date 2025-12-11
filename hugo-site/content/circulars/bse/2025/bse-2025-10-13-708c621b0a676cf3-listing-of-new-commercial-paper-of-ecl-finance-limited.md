@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- ' ECLF'
+- ECLF
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - ecl-finance
-- new-listing
+- listing
+- private-placement
 title: Listing of New Commercial Paper of ECL Finance Limited
 ---
 

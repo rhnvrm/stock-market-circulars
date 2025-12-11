@@ -25,11 +25,11 @@ source: bse
 stocks:
 - NWFL
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - nuvama-wealth-finance
-- bonds
+- private-placement
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

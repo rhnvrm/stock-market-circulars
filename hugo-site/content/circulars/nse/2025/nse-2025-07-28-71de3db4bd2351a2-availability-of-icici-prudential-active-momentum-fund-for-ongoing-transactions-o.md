@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- equity
 - icici-prudential
-- equity-funds
+- mutual-fund
+- reopening
 - systematic-investment
-- fund-reopening
 title: ICICI Prudential Active Momentum Fund Available for Ongoing Transactions on
   NSE MF Invest Platform
 ---

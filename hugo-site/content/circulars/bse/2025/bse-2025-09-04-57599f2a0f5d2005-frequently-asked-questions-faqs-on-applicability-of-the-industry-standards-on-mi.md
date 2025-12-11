@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
+- disclosure
+- lodr
 - related-party-transactions
 - rpt-industry-standards
-- audit-committee
-- disclosure-requirements
-- lodr-regulations
-- compliance
+- system-audit
 title: FAQs on RPT Industry Standards for Related Party Transaction Disclosure Requirements
 ---
 

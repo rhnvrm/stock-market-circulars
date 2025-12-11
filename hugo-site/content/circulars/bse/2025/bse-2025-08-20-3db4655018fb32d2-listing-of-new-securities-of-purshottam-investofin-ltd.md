@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PURSHOTT
 tags:
-- listing
-- equity-shares
-- amalgamation
-- scheme-of-arrangement
 - cross-holding
+- equity
+- listing
+- scheme-of-arrangement
 title: Listing of new securities of Purshottam Investofin Ltd
 ---
 

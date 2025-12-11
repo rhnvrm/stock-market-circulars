@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - cancellation
-- illiquid-stock-options
 - enforcement
+- illiquid-stock-options
 - individual-entity
+- recovery
 title: 'Cancellation of Recovery Certificate No. RC7977 of 2024 in respect of Sulochana
   Dalmia (PAN: AAXPD9770F) in the matter of Illiquid Stock Options'
 ---

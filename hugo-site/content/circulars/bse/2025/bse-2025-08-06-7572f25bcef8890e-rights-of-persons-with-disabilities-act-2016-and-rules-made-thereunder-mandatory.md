@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- accessibility
 - compliance
+- digital-accessibility
 - digital-platforms
 - disabilities
 - regulatory
-- sebi-circular
+- sebi
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance for Digital
   Platforms
 ---

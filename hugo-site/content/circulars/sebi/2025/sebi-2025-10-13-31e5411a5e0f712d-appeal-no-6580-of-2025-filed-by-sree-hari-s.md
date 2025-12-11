@@ -26,13 +26,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- recruitment
-- grade-a
+- appeal
 - assistant-manager
-- appellate-authority
-- sebi-vacancies
+- grade-a
 - internal-functioning
+- recruitment
+- rti
+- sebi-vacancies
 - section-8-1-a-exemption
 title: Appeal No. 6580 of 2025 filed by Sree hari S - RTI Application Regarding SEBI
   Grade A Recruitment

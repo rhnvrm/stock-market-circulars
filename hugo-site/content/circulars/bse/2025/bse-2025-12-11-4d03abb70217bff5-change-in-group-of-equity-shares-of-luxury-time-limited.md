@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544635'
+- LUXURY
 tags:
 - group-change
-- trading-segment
-- sme-ipo
-- trade-for-trade
-- rolling-settlement
 - luxury-time-limited
+- rolling-segment
+- sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of LUXURY TIME LIMITED
 ---
 

@@ -27,11 +27,11 @@ source: nse
 stocks:
 - MANGCHEFER
 tags:
-- slb
-- securities-lending-borrowing
-- exclusion
-- trading-suspension
+- addition
+- collateral
 - nse-clearing
+- slb
+- suspension
 title: Exclusion of Security - Mangalore Chemicals & Fertilizers Limited (MANGCHEFER)
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - VCL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
 - interest-payment
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of VIVRITI CAPITAL LIMITED
 ---
 

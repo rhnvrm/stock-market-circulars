@@ -26,20 +26,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- FLEXFOODS
+- FLEXFO
 - IFBAGRO
 - JJFINANCE
 - KATIPATANG
 - MEGASTARFO
 - MPAGROINDS
 - TIERRAAGRO
-- TCM
+- TCMLMTD
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

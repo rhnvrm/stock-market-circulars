@@ -27,15 +27,15 @@ source: bse
 stocks: []
 tags:
 - annual-inspection
+- clearing-corporations
+- compliance
+- depository
+- ease-of-business
+- information-sharing
 - joint-inspection
 - market-intermediaries
-- compliance
-- ease-of-business
-- stock-brokers
-- depositories
-- clearing-corporations
-- information-sharing
 - risk-based-supervision
+- stock-broker
 title: SEBI Introduces Joint Annual Inspection Policy for Market Intermediaries -
   Information Sharing Mechanism
 ---

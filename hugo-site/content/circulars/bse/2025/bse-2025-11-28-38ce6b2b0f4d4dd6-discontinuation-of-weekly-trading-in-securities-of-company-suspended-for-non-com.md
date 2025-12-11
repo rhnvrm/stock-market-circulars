@@ -27,13 +27,13 @@ source: bse
 stocks:
 - SEVENHILLS
 tags:
-- trade-for-trade
-- suspension
-- z-group
-- sebi-depositories-regulations
-- weekly-trading
+- asm-stage
 - non-compliance
+- sebi-depositories-regulations
 - seven-hill-industries
+- suspension
+- trade-for-trade
+- trading-session
 title: Discontinuation of Weekly Trading in Securities of Seven Hill Industries Ltd
 ---
 

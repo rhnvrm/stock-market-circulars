@@ -29,10 +29,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- ncd
 - mahindra-rural-housing-finance
-- new-listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Mahindra Rural Housing Finance Limited
 ---
 

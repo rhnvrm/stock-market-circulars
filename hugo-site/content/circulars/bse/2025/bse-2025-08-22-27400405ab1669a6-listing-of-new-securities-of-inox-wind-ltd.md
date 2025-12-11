@@ -26,11 +26,10 @@ source: bse
 stocks:
 - INOXWIND
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- inox-wind
+- rights-issue
 title: Listing of New Securities of Inox Wind Ltd - Rights Issue
 ---
 

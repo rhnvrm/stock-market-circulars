@@ -42,11 +42,11 @@ stocks:
 - BATLIBOI
 - BHARATBHUS
 tags:
-- surveillance
-- ST-ASM
-- trading-restrictions
-- market-regulation
+- asm-stage
+- market-operations
 - price-volatility
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

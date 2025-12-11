@@ -72,12 +72,10 @@ stocks:
 - TRUSTEDG
 - VEERKRUP
 tags:
-- enhanced-surveillance-measure
-- esm
-- market-surveillance
-- trading-restrictions
-- risk-management
 - investor-protection
+- risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - November 2025 Updates
 ---
 

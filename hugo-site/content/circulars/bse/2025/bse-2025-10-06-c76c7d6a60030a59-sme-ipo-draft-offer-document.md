@@ -27,11 +27,11 @@ source: bse
 stocks:
 - PANHR
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
-- icdr-regulations
+- draft-document
+- icdr
 - pan-hr-solution
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of PAN HR SOLUTION LIMITED
 ---
 

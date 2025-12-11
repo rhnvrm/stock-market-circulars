@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- corporate-action
 - membership
-- corporate-conversion
 - name-change
+- sebi-order
 - trading-member
-- sebi-approval
 title: Change of Name pursuant to Conversion of Membership - Pawankumar Parmeshwarlal
   Choudhary to Pawan Parmeshwar Capital Pvt. Ltd.
 ---

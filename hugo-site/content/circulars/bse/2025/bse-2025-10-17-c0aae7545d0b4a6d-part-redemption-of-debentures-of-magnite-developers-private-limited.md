@@ -27,13 +27,13 @@ source: bse
 stocks:
 - MDPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- debt-segment
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED
 ---
 

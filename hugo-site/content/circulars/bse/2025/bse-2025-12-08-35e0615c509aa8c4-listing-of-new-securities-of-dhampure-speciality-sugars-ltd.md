@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DHAMPURSUG
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Dhampure Speciality Sugars Ltd.
 ---
 

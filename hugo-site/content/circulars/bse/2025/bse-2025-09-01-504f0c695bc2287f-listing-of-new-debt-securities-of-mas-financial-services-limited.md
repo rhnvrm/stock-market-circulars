@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - mas-financial
-- debentures
+- ncd
+- private-placement
 title: Listing of new debt securities of MAS Financial Services Limited
 ---
 

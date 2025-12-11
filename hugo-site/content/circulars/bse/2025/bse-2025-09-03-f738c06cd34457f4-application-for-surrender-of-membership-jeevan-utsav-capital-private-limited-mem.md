@@ -25,9 +25,9 @@ source: bse
 stocks: []
 tags:
 - membership
+- regulatory-process
 - surrender
 - trading-member
-- regulatory-process
 title: Application for Surrender of Membership - Jeevan Utsav Capital Private Limited
   (Member no. 6770)
 ---

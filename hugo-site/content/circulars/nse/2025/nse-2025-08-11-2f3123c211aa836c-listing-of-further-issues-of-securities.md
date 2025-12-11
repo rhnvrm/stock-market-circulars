@@ -31,10 +31,10 @@ stocks:
 - JAGSNPHARM
 - NIITMTS
 tags:
-- listing
-- equity-shares
+- equity
 - esop
-- preferential-allotment
+- listing
+- preferential-issue
 - securities
 title: Listing of Further Issues of Securities - 12 Companies
 ---

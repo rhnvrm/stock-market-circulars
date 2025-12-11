@@ -27,8 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - namdev-finvest
+- private-placement
 title: Listing of new debt securities of NAMDEV FINVEST PRIVATE LIMITED
 ---
 

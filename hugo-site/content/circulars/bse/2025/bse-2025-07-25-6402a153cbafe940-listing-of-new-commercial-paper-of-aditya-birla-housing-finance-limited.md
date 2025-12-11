@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ABHFL
 tags:
+- aditya-birla-housing-finance
 - commercial-paper
-- debt-segment
+- debt-securities
 - listing
 - private-placement
-- aditya-birla-housing-finance
 - short-term-debt
 title: BSE Lists New Commercial Paper of Aditya Birla Housing Finance Limited
 ---

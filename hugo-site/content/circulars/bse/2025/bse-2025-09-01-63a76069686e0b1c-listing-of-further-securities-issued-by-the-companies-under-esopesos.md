@@ -31,10 +31,8 @@ stocks:
 - METROBRAND
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of ESOP/ESOS Securities - Six Companies Admitted for Trading
 ---
 

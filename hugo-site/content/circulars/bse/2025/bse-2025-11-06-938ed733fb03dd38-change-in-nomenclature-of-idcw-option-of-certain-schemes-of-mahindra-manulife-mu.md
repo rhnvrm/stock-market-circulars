@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- idcw
-- nomenclature-change
-- mahindra-manulife
 - dividend-option
+- idcw
+- mahindra-manulife
+- mutual-fund
+- name-change
 - scheme-modification
 title: Change in Nomenclature of IDCW Option for Mahindra Manulife Mutual Fund Schemes
 ---

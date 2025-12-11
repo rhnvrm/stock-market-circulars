@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - ARVINDREM
 tags:
-- recovery-certificate
 - enforcement
-- release-order
-- arvind-remedies
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 7693 of 2024 Against Shem Raja Sudhakar
 ---
 

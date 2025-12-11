@@ -26,10 +26,10 @@ source: bse
 stocks:
 - BIJOYHAN
 tags:
-- new-listing
-- preferential-allotment
-- promoter-shares
-- lock-in-period
+- listing
+- lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Bijoy Hans Ltd - 45 Lakh Preferential Shares
 ---
 

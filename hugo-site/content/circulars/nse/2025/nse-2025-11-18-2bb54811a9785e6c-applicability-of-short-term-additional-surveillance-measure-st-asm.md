@@ -30,13 +30,9 @@ stocks:
 - VCL
 - MEGAFLEX
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
-- gvpil
-- vcl
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

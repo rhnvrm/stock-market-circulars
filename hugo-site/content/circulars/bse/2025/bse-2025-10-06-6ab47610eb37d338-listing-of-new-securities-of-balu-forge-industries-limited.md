@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BALUFORGE
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- '531112'
+- preferential-issue
 title: Listing of New Securities of BALU FORGE INDUSTRIES LIMITED
 ---
 

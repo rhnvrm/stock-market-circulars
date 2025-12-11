@@ -27,10 +27,8 @@ stocks:
 - PCBLCHEM
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- pcbl-chemical
-- debt-segment
 title: Listing of new Commercial Paper of PCBL Chemical Limited
 ---
 

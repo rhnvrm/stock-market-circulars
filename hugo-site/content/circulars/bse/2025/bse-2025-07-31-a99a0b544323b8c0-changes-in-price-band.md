@@ -28,18 +28,18 @@ stocks:
 - AARTI
 - ACC
 - BALKRISHNIND
-- BIRLASOFT
+- BSOFT
 - CHAMBLFERT
-- HINDUSTANCOPPER
+- HINDCOPPER
 - MGL
 - MAHINDRAFIN
 - PIRAMALENT
 - TATACOMM
 tags:
+- equity
 - price-band
-- trading-parameters
-- market-surveillance
-- equity-trading
+- surveillance
+- trading-operations
 title: Price Band Revisions for 18 Listed Companies Effective August 1, 2025
 ---
 

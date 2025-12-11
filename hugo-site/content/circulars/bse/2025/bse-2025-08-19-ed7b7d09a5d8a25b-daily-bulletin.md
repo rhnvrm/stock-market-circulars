@@ -30,14 +30,14 @@ stocks:
 - BSNL
 - BIRLACORPN
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- daily-bulletin
 - dividend
 - interest-payment
-- redemption
-- commercial-paper
 - ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure and Record Dates
 ---
 

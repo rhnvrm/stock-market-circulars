@@ -25,15 +25,13 @@ severity: medium
 source: bse
 stocks:
 - EMERALD
-- SHETRON
+- SHETR
 - ARIHANT
 - KREON
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- trading-framework
-- market-surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

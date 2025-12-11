@@ -26,12 +26,11 @@ source: nse
 stocks:
 - LICHSGFIN
 tags:
-- suspension
-- non-convertible-debenture
-- ncd
-- debt-market
-- redemption
+- debt-securities
 - lic-housing-finance
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in LIC Housing Finance Limited Non-Convertible Debenture
 ---
 

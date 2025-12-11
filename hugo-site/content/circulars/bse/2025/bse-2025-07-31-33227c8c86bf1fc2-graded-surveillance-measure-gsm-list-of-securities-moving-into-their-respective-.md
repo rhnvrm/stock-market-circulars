@@ -25,11 +25,9 @@ source: bse
 stocks:
 - ADILISPAT
 tags:
-- gsm
-- surveillance
 - adishakti-loha
-- stage-ii
-- market-surveillance
+- asm-stage
+- surveillance
 title: GSM Framework Update - Adishakti Loha And Ispat Limited Moved to Stage II
 ---
 

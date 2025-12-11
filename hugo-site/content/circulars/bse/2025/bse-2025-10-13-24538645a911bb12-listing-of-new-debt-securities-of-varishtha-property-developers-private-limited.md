@@ -29,8 +29,8 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- zero-coupon
 - varishtha-property-developers
+- zero-coupon
 title: Listing of New Debt Securities of Varishtha Property Developers Private Limited
 ---
 

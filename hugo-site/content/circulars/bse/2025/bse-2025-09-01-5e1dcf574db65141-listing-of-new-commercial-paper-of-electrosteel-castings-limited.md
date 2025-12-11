@@ -26,9 +26,9 @@ stocks:
 - ELECTCAST
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - electrosteel-castings
+- private-placement
 title: Listing of new Commercial Paper of Electrosteel Castings Limited
 ---
 

@@ -26,9 +26,9 @@ source: bse
 stocks:
 - TITANIN
 tags:
-- corporate-actions
-- isin-change
-- share-subdivision
+- corporate-action
+- face-value-change
+- isin
 - titan-intech
 title: New ISIN Number for TITAN INTECH LTD Following Share Sub-Division
 ---

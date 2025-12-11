@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NAVIFINSERV
 tags:
-- trading-suspension
-- debentures
-- redemption
-- record-date
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of NAVI FINSERV LIMITED
 ---
 

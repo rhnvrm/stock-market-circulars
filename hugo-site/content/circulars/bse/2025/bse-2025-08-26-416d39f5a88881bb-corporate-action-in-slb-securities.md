@@ -47,11 +47,11 @@ stocks:
 - VADILALIND
 - SUPRAJIT
 tags:
-- dividend
-- slb
+- book-closure
 - corporate-action
+- dividend
 - record-date
-- shut-period
+- slb
 title: Corporate Action in SLB Securities - Dividend Record Dates for 22 Companies
 ---
 

@@ -29,11 +29,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- attachment-notice
-- investment-advisory
+- attachment
+- enforcement
+- investment-adviser
+- recovery
 - unregistered-activities
-- enforcement-action
 - ym-forecast
 title: Notice of Attachment in Recovery Certificate No. 8801 of 2025 Against Jagadeesan
   S for Unregistered Investment Advisory Activities

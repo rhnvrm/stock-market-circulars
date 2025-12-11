@@ -43,11 +43,11 @@ stocks:
 - RAJGAS
 - CYBTECH
 tags:
-- st-asm
+- asm-stage
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-monitoring
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

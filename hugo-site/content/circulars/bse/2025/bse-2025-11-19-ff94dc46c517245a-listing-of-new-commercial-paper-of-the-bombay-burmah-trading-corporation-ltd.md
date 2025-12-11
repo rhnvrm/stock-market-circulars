@@ -27,11 +27,11 @@ stocks:
 - BBTC
 tags:
 - commercial-paper
-- debt-listing
+- crisil-rating
+- debt-securities
+- kotak-mahindra-bank
 - private-placement
 - the-bombay-burmah-trading-corporation
-- kotak-mahindra-bank
-- crisil-rating
 title: Listing of new Commercial Paper of The Bombay Burmah Trading Corporation Ltd.
 ---
 

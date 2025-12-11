@@ -28,10 +28,10 @@ source: nse
 stocks:
 - SHFL
 tags:
-- listing
+- bond
 - debt-securities
+- listing
 - private-placement
-- corporate-bonds
 - sundaram-home-finance
 title: Listing of Privately Placed Securities - Sundaram Home Finance Limited 6.98%
   2028

@@ -28,13 +28,13 @@ stocks:
 - DALMIACEMB
 - JSWSTEEL
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- daily-bulletin
 - dividend
 - interest-payment
-- ncd-redemption
-- commercial-paper
+- ncd
+- record-date
 title: Daily Bulletin - Book-Closure, Record Date and Dividend Announcements
 ---
 

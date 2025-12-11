@@ -26,10 +26,9 @@ stocks:
 - FFSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - fedbank-financial
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Fedbank Financial Services Limited
 ---
 

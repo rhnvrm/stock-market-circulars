@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SRFCPL
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - shri-ram-finance
-- corporate-bonds
 title: Listing of new debt securities of Shri Ram Finance Corporation Private Limited
 ---
 

@@ -28,12 +28,9 @@ source: bse
 stocks:
 - DECANBRG
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
-- decanbrg
 - equity
+- otb
+- takeover
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for DECCAN BEARINGS LIMITED -
   Live Activities Schedule

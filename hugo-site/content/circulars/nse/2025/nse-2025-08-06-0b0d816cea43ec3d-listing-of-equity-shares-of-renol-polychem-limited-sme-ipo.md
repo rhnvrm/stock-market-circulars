@@ -25,11 +25,10 @@ source: nse
 stocks:
 - RNPL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
-- RNPL
+- equity
+- listing
+- sme
 title: Listing of Equity Shares of Renol Polychem Limited (SME IPO)
 ---
 

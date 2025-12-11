@@ -25,19 +25,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- ARVIND FASHIONS
+- ARVINDFASN
 - ICICIBANK
 - ICICIPRULI
 - INTENSE
 - IRIS
 - SHRIRAMPROP
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - Six Companies
 ---
 

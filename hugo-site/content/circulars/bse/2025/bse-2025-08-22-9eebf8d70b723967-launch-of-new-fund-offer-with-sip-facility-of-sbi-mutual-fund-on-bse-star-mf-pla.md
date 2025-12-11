@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- dynamic-asset-allocation
+- fund-offer
 - mutual-fund
 - nfo
-- sip
 - sbi
-- fund-offer
-- dynamic-asset-allocation
+- sip
 title: Launch of SBI Dynamic Asset Allocation Active FOF on BSE StAR MF Platform
 ---
 

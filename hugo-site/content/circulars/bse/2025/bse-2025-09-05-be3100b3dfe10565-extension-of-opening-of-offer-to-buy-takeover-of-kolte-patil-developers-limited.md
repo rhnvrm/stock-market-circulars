@@ -28,11 +28,9 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
-- open-offer
-- takeover
-- acquisition-window
+- otb
 - schedule-revision
-- kolte-patil
+- takeover
 title: Extension of Opening of Offer to Buy (Takeover) of KOLTE-PATIL DEVELOPERS LIMITED
 ---
 

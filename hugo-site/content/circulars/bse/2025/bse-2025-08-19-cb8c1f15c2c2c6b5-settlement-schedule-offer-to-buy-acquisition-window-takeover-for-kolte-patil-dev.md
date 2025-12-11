@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KOLTPAT
 tags:
-- takeover
-- settlement
-- acquisition-window
+- demat
 - early-pay-in
-- demat-delivery
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - Kolte-Patil Developers Limited
 ---
 

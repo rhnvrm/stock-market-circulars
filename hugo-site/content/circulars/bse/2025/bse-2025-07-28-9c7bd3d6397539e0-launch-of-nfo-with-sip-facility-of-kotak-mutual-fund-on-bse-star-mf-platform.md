@@ -25,12 +25,10 @@ source: bse
 stocks:
 - KOTAK
 tags:
+- equity
 - mutual-fund
 - nfo
 - sip
-- kotak
-- equity-fund
-- new-fund-offer
 title: Launch of NFO with SIP facility of KOTAK MUTUAL FUND on BSE StAR MF Platform
 ---
 

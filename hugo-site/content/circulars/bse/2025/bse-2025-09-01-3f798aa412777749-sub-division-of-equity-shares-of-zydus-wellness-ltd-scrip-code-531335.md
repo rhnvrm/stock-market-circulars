@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ZYDUSWELL
 tags:
-- corporate-actions
-- sub-division
-- equity-shares
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-division of Equity Shares of ZYDUS WELLNESS LTD (Scrip Code: 531335)'
 ---
 

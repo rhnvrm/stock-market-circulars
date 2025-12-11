@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- vanishing-companies
+- enforcement
 - information-disclosure
-- enforcement-actions
-- intermediaries
+- intermediary
+- rti
+- vanishing-companies
 title: Appeal No. 6581 of 2025 filed by Naveen Bhatnagar
 ---
 

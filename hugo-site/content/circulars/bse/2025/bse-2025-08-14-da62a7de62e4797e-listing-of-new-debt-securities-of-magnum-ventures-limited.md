@@ -25,10 +25,10 @@ source: bse
 stocks:
 - MAGNUM
 tags:
-- debt-listing
-- private-placement
-- magnum-ventures
 - bond-trading
+- debt-securities
+- magnum-ventures
+- private-placement
 title: Listing of new debt securities of MAGNUM VENTURES LIMITED
 ---
 

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - CHIRAHARIT
 tags:
+- equity
 - listing
 - sme
-- new-listing
-- equity-shares
-- chiraharit
 title: Listing of Equity Shares of Chiraharit Limited
 ---
 

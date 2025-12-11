@@ -26,11 +26,10 @@ source: nse
 stocks:
 - FCL
 tags:
-- isin-change
-- sub-division
 - corporate-action
-- equity-shares
-- FCL
+- equity
+- isin
+- split
 title: Change in ISIN - Fineotex Chemical Limited (FCL)
 ---
 

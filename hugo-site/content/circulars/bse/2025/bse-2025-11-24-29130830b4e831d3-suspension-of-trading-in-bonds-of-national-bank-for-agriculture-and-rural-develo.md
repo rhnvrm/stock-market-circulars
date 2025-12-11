@@ -26,13 +26,12 @@ source: bse
 stocks:
 - NABARD
 tags:
-- bonds
-- suspension
-- redemption
+- bond
+- debt-securities
 - interest-payment
-- debt-market
-- nabard
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT
 ---
 

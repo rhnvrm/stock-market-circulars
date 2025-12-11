@@ -24,12 +24,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- registration
-- renewal-fees
+- cancellation
 - compliance
 - enforcement
-- cancellation
+- investment-adviser
+- registration
+- renewal-fees
 title: SEBI Cancels Registration of 13 Investment Advisers for Non-Payment of Renewal
   Fees
 ---

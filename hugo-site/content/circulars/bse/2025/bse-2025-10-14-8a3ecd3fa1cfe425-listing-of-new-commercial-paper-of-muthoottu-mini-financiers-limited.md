@@ -28,10 +28,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - muthoottu-mini-financiers
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Muthoottu Mini Financiers Limited
 ---
 

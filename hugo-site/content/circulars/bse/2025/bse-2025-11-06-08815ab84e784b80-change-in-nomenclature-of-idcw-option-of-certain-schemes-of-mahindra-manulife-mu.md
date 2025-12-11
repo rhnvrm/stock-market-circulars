@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- idcw
-- nomenclature-change
-- mahindra-manulife
-- hybrid-fund
-- equity-savings-fund
 - dividend-policy
+- equity-savings-fund
+- hybrid-fund
+- idcw
+- mahindra-manulife
+- mutual-fund
+- name-change
 title: Change in nomenclature of IDCW option of certain Schemes of Mahindra Manulife
   Mutual Fund
 ---

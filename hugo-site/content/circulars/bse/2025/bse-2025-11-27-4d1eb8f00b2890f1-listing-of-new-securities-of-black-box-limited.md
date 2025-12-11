@@ -25,15 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- BLACKBOX
+- BBOX
 tags:
+- black-box-limited
+- conversion
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- warrant-conversion
-- equity-shares
-- lock-in
-- black-box-limited
 title: Listing of New Securities of Black Box Limited
 ---
 

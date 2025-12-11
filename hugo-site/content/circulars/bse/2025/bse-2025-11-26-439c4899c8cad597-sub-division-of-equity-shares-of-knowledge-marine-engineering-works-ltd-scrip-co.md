@@ -26,13 +26,11 @@ severity: medium
 source: bse
 stocks:
 - KNOWLEDG
+- KMEW
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
-- knowledge-marine
-- '543273'
+- equity
+- split
 title: 'Sub-Division of Equity Shares of Knowledge Marine & Engineering Works Ltd
   (Scrip Code: 543273)'
 ---

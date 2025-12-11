@@ -30,9 +30,9 @@ stocks:
 tags:
 - demat-trading
 - group-migration
-- market-lot-change
-- settlement-modalities
+- market-lot
 - normal-rolling-segment
+- settlement-modalities
 title: Trading and Settlement of Trades in Dematerialised Securities of RISHAB SPECIAL
   YARNS LIMITED
 ---

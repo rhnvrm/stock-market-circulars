@@ -26,10 +26,9 @@ stocks:
 - KOSAMATTAM
 tags:
 - debt-securities
-- private-placement
-- kosamattam-finance
 - listing
-- debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Kosamattam Finance Limited
 ---
 

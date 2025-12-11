@@ -25,12 +25,12 @@ source: bse
 stocks:
 - INCRED
 tags:
+- bse-debt-segment
 - debt-securities
+- demat
+- incred-financial
 - listing
 - private-placement
-- incred-financial
-- bse-debt-segment
-- dematerialised-trading
 title: 'BSE: Listing of New Debt Securities of InCred Financial Services Limited'
 ---
 

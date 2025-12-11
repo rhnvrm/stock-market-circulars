@@ -25,11 +25,10 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- logiciel-solutions
-- icdr-regulations
+- sme
 title: SME IPO Draft Offer Document - Logiciel Solutions Limited
 ---
 

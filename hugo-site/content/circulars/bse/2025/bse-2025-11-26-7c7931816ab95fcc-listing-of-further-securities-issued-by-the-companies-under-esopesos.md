@@ -41,11 +41,9 @@ stocks:
 - UJJIVANSFB
 - WIPRO
 tags:
-- listing
+- equity
 - esop
-- esos
-- equity-shares
-- employee-stock-options
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 16 Companies
 ---

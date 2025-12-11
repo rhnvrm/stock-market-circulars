@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
 - membership
 - surrender
-- currency-derivatives
 - trading-member
-- compliance
 title: Segmental Surrender of Membership - Pace Stock Broking Services Private Limited
 ---
 

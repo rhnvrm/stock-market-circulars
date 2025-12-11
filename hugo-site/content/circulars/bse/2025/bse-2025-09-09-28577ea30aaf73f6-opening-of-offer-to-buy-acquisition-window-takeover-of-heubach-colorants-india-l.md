@@ -26,12 +26,10 @@ source: bse
 stocks:
 - HEUBACH
 tags:
-- takeover
-- open-offer
-- acquisition
-- cash-offer
+- cash-segment
 - heubach-colorants
 - sudarshan-europe
+- takeover
 title: Opening of Offer to Buy - Acquisition Window (Takeover) of Heubach Colorants
   India Limited
 ---

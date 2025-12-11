@@ -27,11 +27,10 @@ source: bse
 stocks:
 - DELPH
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
+- demat
 - equity
-- demat-only
+- renunciation
+- rights-issue
 - trade-for-trade
 title: Rights Entitlements of DELPHI WORLD MONEY LIMITED
 ---

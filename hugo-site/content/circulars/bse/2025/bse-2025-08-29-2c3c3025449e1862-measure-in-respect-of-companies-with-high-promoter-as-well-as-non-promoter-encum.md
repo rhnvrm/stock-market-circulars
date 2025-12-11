@@ -33,11 +33,11 @@ stocks:
 - TFCILTD
 - TULSYNNEC
 tags:
-- surveillance
+- compliance
 - encumbrance
 - promoter
 - sast
-- regulatory-compliance
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance as per SEBI SAST Regulation
 ---

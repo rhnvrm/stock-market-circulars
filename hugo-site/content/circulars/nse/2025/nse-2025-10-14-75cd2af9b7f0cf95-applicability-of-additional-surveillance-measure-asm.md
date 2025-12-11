@@ -28,11 +28,9 @@ source: nse
 stocks:
 - DTL
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- long-term-asm
-- additional-surveillance-measure
-- market-integrity
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - Long-Term Framework
   Updates

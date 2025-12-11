@@ -25,13 +25,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-order
-- release-order
-- illiquid-stocks
-- options-trading
 - bse
-- enforcement
 - compliance
+- enforcement
+- illiquid-stocks
+- options
+- recovery
+- release
 title: SEBI Release Order - Recovery Certificate No. 8747 of 2025 Against Bhavika
   Parimal Shah
 ---

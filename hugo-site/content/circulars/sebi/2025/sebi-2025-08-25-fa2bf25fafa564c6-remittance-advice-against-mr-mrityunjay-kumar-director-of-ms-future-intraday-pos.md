@@ -26,10 +26,10 @@ source: sebi
 stocks: []
 tags:
 - defaulter
-- recovery-certificate
-- investment-advisory
+- demand-notice
+- investment-adviser
+- recovery
 - unregistered-services
-- remittance-advice
 title: Remittance Advice - Mr. Mrityunjay Kumar, Director of Future Intraday Positional
   Long Term Capital OPC Private Limited
 ---

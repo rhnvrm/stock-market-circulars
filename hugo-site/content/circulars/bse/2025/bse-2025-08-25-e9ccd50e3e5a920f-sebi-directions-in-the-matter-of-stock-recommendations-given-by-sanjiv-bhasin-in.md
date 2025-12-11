@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-directions
-- stock-recommendations
 - account-freezing
 - compliance
-- unlawful-gains
 - media-recommendations
+- sebi-order
+- stock-recommendations
+- unlawful-gains
 title: SEBI Directions on Stock Recommendations by Sanjiv Bhasin - De-freezing of
   Rajiv Kapoor's Trading Account
 ---

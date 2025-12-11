@@ -28,12 +28,11 @@ source: bse
 stocks:
 - DUGARHOUS
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - new-securities
-- dugar-housing
+- preferential-issue
 title: Listing of New Securities of Dugar Housing Developments Limited
 ---
 

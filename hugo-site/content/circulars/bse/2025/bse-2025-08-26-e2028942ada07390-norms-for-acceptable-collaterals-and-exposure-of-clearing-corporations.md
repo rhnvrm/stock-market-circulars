@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- collateral
-- clearing-corporation
 - banks
+- clearing-corporation
+- collateral
+- iccl
 - risk-management
 - settlement
-- iccl
 title: Revised List of Eligible Banks for Collateral and Clearing Corporation Exposure
 ---
 

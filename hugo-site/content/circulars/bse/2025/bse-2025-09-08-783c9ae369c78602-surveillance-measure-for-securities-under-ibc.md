@@ -26,10 +26,8 @@ source: bse
 stocks:
 - SWANDEFENCE
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities under IBC - September 2025 Update
 ---

@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
-- options-trading
 - bse
 - compliance
+- enforcement
 - illiquid-stocks
+- options
+- recovery
 - violation
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 8777
   of 2025 against Paritosh Saha HUF

@@ -26,10 +26,10 @@ source: nse
 stocks:
 - DEVIT
 tags:
-- face-value-split
 - corporate-action
+- equity
+- face-value-change
 - listing
-- equity-shares
 title: Face Value Split - Dev Information Technology Limited (DEVIT)
 ---
 

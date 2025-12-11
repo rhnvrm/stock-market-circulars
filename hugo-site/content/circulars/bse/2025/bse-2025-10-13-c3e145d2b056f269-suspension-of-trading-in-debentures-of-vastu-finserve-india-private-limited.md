@@ -28,13 +28,12 @@ source: bse
 stocks:
 - VFTPL
 tags:
-- debentures
-- trading-suspension
-- redemption
+- debt-securities
 - interest-payment
-- debt-market
-- non-convertible-debentures
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of VASTU FINSERVE INDIA PRIVATE LIMITED
 ---
 

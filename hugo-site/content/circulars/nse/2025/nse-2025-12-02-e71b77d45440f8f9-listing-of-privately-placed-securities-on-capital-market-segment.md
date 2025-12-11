@@ -28,12 +28,12 @@ stocks:
 - IRFC
 - TFSIL
 tags:
-- listing
-- debt-securities
-- private-placement
+- bond
 - capital-market
-- bonds
-- debentures
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities - IRFC and Toyota Financial Services
 ---
 

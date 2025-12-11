@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- telecom
+- access-providers
 - commercial-communications
 - content-templates
 - regulatory-direction
 - spam-prevention
-- access-providers
+- telecom
+- trai
 title: TRAI Direction on Measures to Curb Misuse of Headers and Content Templates
   under Telecom Commercial Communications Customer Preference Regulations, 2018
 ---

@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-education
-- unpaid-dividends
-- kyc-updates
 - iepfa-claims
+- investor-education
 - investor-protection
+- kyc-updates
 - market-infrastructure
+- unpaid-dividends
 title: SEBI-IEPFA Niveshak Shivir in Hyderabad on August 30, 2025
 ---
 

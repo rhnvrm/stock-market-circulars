@@ -26,11 +26,11 @@ source: bse
 stocks:
 - TRITONVAL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Triton Valves Ltd - 80,000 Equity Shares
 ---
 

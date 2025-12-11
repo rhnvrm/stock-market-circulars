@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544477'
+- HILINFRA
 tags:
-- index
+- highway-infrastructure
+- index-fund
 - ipo
 - listing
-- highway-infrastructure
 title: Highway Infrastructure Limited Added to BSE IPO Index
 ---
 

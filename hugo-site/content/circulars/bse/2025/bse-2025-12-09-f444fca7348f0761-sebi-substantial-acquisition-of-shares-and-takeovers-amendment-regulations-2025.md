@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- all-listed-companies
+- compliance
+- regulatory-amendment
+- sast
 - sebi
 - takeover-regulations
-- substantial-acquisition
-- regulatory-amendment
-- compliance
-- all-listed-companies
 title: SEBI (Substantial Acquisition of Shares and Takeovers) (Amendment) Regulations,
   2025
 ---

@@ -75,10 +75,10 @@ stocks:
 - HEMO
 - HINDUBIO
 tags:
-- periodic-call-auction
 - illiquid-scrips
-- trading-mechanism
 - market-operations
+- trading-operations
+- trading-session
 title: Periodic Call Auction for Illiquid Scrips - 49 Securities Listed
 ---
 

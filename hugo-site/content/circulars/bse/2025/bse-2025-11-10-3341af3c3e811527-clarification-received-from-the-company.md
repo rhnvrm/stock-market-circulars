@@ -28,12 +28,11 @@ source: bse
 stocks:
 - AARTIIND
 tags:
-- surveillance
-- volume-clarification
-- market-driven
-- regulation-30
 - disclosure
-- aarti-industries
+- market-operations
+- price-movement
+- regulation-30
+- surveillance
 title: Aarti Industries Limited - Clarification on Increased Trading Volume
 ---
 

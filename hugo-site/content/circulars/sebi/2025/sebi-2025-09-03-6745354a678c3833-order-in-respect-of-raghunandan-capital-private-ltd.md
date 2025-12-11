@@ -24,11 +24,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement-action
+- enforcement
+- intermediary
+- investigation
+- non-compliance
 - stock-broker
-- compliance-violation
-- intermediary-regulations
-- inspection
 title: Order in respect of Raghunandan Capital Private Ltd
 ---
 

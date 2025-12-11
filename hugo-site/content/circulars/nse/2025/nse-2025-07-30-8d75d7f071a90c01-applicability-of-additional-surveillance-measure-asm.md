@@ -28,11 +28,10 @@ stocks:
 - SHARDACROP
 - TIMESGTY
 tags:
-- asm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-operations
 title: NSE Additional Surveillance Measure (ASM) Framework Updates - July 31, 2025
 ---
 

@@ -35,10 +35,10 @@ stocks:
 - TECHORG
 - VENMAX
 tags:
+- equity
 - price-band
-- trading
 - surveillance
-- equity-segment
+- trading
 title: Price Band Revisions for Nine Securities Effective August 26, 2025
 ---
 

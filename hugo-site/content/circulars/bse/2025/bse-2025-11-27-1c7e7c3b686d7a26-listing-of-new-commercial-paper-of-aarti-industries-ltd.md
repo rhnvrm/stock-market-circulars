@@ -27,10 +27,9 @@ stocks:
 - AARTIIND
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- listing
 - private-placement
-- aarti-industries
-- new-listing
 title: Listing of new Commercial Paper of Aarti Industries Ltd
 ---
 

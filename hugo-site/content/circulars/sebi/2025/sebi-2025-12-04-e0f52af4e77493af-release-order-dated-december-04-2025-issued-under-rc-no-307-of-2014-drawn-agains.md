@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
 - enforcement
 - kalbadevi-finance
 - kolar-biotech
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 307 of 2014 Against M/s Kalbadevi
   Finance Limited - Kolar Biotech Limited Matter
 ---

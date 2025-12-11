@@ -26,11 +26,11 @@ source: sebi
 stocks: []
 tags:
 - certificate
+- illiquid-securities
+- individual-entity
+- non-compliance
 - regulatory-order
 - stock-options
-- illiquid-securities
-- compliance-violation
-- individual-entity
 title: SEBI Certificate No. RC8783 of 2025 - Order Against Sahadev Paik HUF for Illiquid
   Stock Options Violations
 ---

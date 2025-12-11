@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
+- holiday
 - invesco
-- bse-star-mf
+- mutual-fund
 - platform-closure
 title: Non-Business Day for INVESCO Mutual Fund Schemes on BSE StAR MF Platform -
   August 2025

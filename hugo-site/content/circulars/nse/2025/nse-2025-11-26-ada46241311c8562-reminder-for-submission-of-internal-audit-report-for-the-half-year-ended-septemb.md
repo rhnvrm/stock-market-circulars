@@ -27,12 +27,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- internal-audit
-- compliance
 - clearing-members
-- audit-report
-- regulatory-requirements
+- compliance
 - deadline-reminder
+- regulatory
+- system-audit
 title: Reminder for Submission of Internal Audit Report for Half Year Ended September
   30, 2025
 ---

@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- kotak-mutual-fund
 - fund-of-funds
 - gold
+- kotak-mutual-fund
+- mutual-fund
+- redemption
 - silver
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
 title: Availability of Kotak Gold Silver Passive FOF for Ongoing Transactions on NSE
   MF Invest Platform
 ---

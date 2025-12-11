@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- trading-suspension
-- debt-segment
+- corporate-action
+- debt-securities
 - maturity
-- corporate-actions
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544502'
+- AMANTA
 tags:
-- group-change
-- trade-for-trade
-- rolling-segment
 - amanta-healthcare
-- trading-segment
+- group-change
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Amanta Healthcare Limited
 ---
 

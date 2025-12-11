@@ -26,11 +26,10 @@ stocks:
 - NWFL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- nuvama-wealth
-- debt-segment
+- debt-securities
 - icici-bank
+- nuvama-wealth
+- private-placement
 title: Listing of Commercial Paper of Nuvama Wealth Finance Limited
 ---
 

@@ -30,8 +30,8 @@ stocks:
 tags:
 - annual-listing-fees
 - compliance
-- equity-segment
 - defaulting-companies
+- equity
 - listing-fees
 - rnit-ai-solutions
 title: Action Against Defaulting Companies for Non-Payment of Annual Listing Fees

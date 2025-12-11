@@ -27,7 +27,7 @@ stocks:
 - ICICIHOFC
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-home-finance
 - private-placement
 - short-term-debt

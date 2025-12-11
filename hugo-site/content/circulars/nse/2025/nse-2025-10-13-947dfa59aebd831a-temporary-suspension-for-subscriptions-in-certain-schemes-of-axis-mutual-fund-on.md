@@ -28,13 +28,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription-suspension
 - axis-mutual-fund
-- silver-etf
-- fund-of-fund
+- fund-of-funds
 - market-operations
+- mutual-fund
 - pricing-distortion
+- silver
+- suspension
 title: Temporary Suspension for subscriptions in certain schemes of Axis Mutual Fund
   on NSE MF Invest Platform
 ---

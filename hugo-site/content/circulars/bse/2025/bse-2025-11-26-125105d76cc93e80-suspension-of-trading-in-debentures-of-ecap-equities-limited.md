@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- debentures
-- redemption
-- debt-market
+- corporate-action
+- debt-securities
+- ncd
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ECAP EQUITIES LIMITED
 ---
 

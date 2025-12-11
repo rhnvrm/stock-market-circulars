@@ -25,11 +25,11 @@ severity: high
 source: nse
 stocks: []
 tags:
+- cyber-security
+- debt-securities
+- ndm-segment
 - password-reset
 - security
-- ndm-segment
-- debt-market
-- cyber-security
 - system-security
 title: Password Encryption for New Debt Market (NDM) Segment - Mandatory Password
   Reset

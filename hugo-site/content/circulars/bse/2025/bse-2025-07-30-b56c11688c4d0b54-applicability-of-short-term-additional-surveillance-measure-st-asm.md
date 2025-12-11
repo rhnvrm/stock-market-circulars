@@ -37,11 +37,10 @@ stocks:
 - SHARDA
 - SUBHASH
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
-- st-asm
 title: Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

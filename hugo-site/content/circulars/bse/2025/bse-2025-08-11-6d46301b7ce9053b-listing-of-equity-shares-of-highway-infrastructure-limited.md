@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HIGHWAY
 tags:
+- equity
+- further-issue
+- highway-infrastructure
 - listing
 - shareholding-pattern
-- highway-infrastructure
-- equity-shares
-- post-issue
 title: Listing of Equity Shares of Highway Infrastructure Limited
 ---
 

@@ -27,11 +27,10 @@ stocks:
 - DAVIN
 - KIOCL
 tags:
-- price-movement
-- volume-movement
-- surveillance
-- clarifications
+- clarification
 - compliance
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding price and volume movement
 ---
 

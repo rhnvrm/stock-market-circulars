@@ -25,15 +25,14 @@ severity: medium
 source: nse
 stocks:
 - A2ZINFRA
-- IEL
+- INDXTRA
 - AGSTRA
 - ASLIND
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measures
 title: Applicability of Enhanced Surveillance Measure (ESM) - September 2025 Updates
 ---
 

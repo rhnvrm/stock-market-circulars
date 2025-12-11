@@ -28,14 +28,12 @@ source: bse
 stocks:
 - AKZOINDIA
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
-- public-announcement
-- equity-shares
-- jsw-paints
 - akzo-nobel
+- equity
+- jsw-paints
+- public-issue
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Akzo Nobel India
   Limited by JSW Paints Limited
 ---

@@ -28,8 +28,8 @@ stocks:
 - GOLDIAM
 - MAHLOG
 tags:
+- equity
 - listing
-- equity-shares
 - qip
 - rights-issue
 - trading

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544635'
-- '544636'
+- LUXURY
+- WOSAL
 tags:
-- index
-- sme
+- addition
+- index-fund
 - ipo
-- additions
 - listing
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

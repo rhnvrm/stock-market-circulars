@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VAICC
 tags:
-- trading-suspension
-- revocation
-- equity-shares
 - cement-industry
+- equity
 - operational-status
+- release
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Vaishno Cement Company
   Ltd
 ---

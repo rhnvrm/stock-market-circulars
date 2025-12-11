@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- currency-derivatives
+- derivatives
 - interest-rate-derivatives
-- trading-member
+- membership
 - surrender
+- trading-member
 title: Surrender of Trading Membership - Pace Stock Broking Services Pvt. Ltd.
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- trading-members
-- new-admission
-- debt-segment
-- equity-derivatives
 - cash-segment
+- debt-securities
+- derivatives
+- membership
+- new-admission
+- trading-member
 title: Admission of Three New Trading Members to BSE
 ---
 

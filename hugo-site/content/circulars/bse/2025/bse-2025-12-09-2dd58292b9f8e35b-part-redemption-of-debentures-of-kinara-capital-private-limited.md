@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- debt-market
-- kinara-capital
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
+- kinara-capital
+- ncd
+- redemption
 title: Part Redemption of Debentures of KINARA CAPITAL PRIVATE LIMITED
 ---
 

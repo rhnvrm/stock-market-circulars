@@ -29,13 +29,10 @@ stocks:
 - DENEERS
 - HOLMARC
 tags:
-- surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
+- asm-stage
+- margin
 - risk-management
-- DENEERS
-- HOLMARC
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

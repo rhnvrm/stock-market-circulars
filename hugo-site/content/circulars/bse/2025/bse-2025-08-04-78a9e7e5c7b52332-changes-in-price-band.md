@@ -34,10 +34,10 @@ stocks:
 - PRECISION
 - TRUSTEDGE
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 9 Securities Effective August 5, 2025
 ---
 

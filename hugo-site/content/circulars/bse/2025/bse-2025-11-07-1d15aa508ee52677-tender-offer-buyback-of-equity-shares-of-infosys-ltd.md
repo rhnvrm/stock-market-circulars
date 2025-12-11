@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks:
 - INFY
-- '500209'
 tags:
 - buyback
-- tender-offer
 - corporate-action
-- record-date
+- equity
 - infosys
-- equity-shares
+- record-date
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of INFOSYS LTD
 ---
 

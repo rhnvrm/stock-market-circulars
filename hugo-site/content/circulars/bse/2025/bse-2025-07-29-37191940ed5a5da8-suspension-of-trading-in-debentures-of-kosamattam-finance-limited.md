@@ -25,11 +25,11 @@ source: bse
 stocks:
 - KFL
 tags:
-- trading-suspension
-- debentures
-- redemption
+- debt-securities
 - kosamattam-finance
-- debt-market
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KOSAMATTAM FINANCE LIMITED
 ---
 

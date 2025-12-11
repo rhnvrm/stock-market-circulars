@@ -26,11 +26,9 @@ source: bse
 stocks:
 - EUROASIA
 tags:
-- takeover
-- acquisition
+- equity
 - otb
-- offer-to-buy
-- equity-shares
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for EURO ASIA EXPORTS LTD - Live
   Activities Schedule
 ---

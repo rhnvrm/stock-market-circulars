@@ -26,14 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544552'
+- RDGAIL
 tags:
 - group-change
-- segment-transfer
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - rukmani-devi-garg-agro-impex
+- segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of Rukmani Devi Garg Agro Impex Limited
 ---
 

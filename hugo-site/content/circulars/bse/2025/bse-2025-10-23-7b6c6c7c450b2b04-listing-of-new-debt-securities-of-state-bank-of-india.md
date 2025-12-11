@@ -28,12 +28,12 @@ source: bse
 stocks:
 - SBIN
 tags:
+- bond
 - debt-securities
 - listing
-- state-bank-of-india
-- bonds
 - private-placement
-- SBI
+- sbi
+- state-bank-of-india
 title: Listing of New Debt Securities of State Bank of India (6.93% p.a., Maturity
   2035)
 ---

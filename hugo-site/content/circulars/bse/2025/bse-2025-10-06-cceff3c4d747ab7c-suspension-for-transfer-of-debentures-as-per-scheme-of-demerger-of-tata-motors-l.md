@@ -26,16 +26,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- debentures
 - corporate-action
-- demerger
-- record-date
-- ncd-transfer
-- debt-market
-- tata-motors
+- debt-securities
+- ncd
 - nclt-scheme
+- record-date
+- scheme-of-arrangement
+- tata-motors
 title: Suspension for Transfer of Debentures as per Scheme of Demerger of Tata Motors
   Ltd
 ---

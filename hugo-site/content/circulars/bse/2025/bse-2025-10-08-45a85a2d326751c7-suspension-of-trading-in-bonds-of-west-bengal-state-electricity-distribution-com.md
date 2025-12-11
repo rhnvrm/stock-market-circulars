@@ -27,13 +27,12 @@ source: bse
 stocks:
 - WBSEDC
 tags:
-- trading-suspension
-- bonds
+- bond
 - debt-securities
-- redemption
 - interest-payment
 - record-date
-- WBSEDC
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of West Bengal State Electricity Distribution
   Company Ltd
 ---

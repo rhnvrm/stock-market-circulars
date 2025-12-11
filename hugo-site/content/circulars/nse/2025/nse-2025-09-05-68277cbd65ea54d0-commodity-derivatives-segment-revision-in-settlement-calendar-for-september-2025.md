@@ -25,15 +25,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-calendar
-- delivery-schedule
-- precious-metals
-- base-metals
-- gold
-- silver
-- copper
 - aluminium
+- base-metals
+- copper
+- delivery-schedule
+- derivatives
+- gold
+- precious-metals
+- settlement-calendar
+- silver
 title: Commodity Derivatives Segment - Revision in Settlement Calendar for September
   2025
 ---

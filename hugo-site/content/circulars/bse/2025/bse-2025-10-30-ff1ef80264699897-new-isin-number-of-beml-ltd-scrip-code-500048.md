@@ -27,11 +27,10 @@ source: bse
 stocks:
 - BEML
 tags:
-- isin-change
-- sub-division
 - corporate-action
-- equity-shares
-- beml
+- equity
+- isin
+- split
 title: New ISIN Number for BEML Ltd Following Sub-Division of Equity Shares
 ---
 

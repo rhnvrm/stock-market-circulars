@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
-- mirae-asset
-- nifty-energy
 - equity
+- etf
+- mirae-asset
+- mutual-fund
+- nfo
+- nifty-energy
 title: Launch of Mirae Asset Nifty Energy ETF NFO on NSE MF Invest Platform
 ---
 

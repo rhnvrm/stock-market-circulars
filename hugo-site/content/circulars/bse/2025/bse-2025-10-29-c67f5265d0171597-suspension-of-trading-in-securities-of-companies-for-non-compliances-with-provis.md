@@ -28,13 +28,13 @@ source: bse
 stocks:
 - VASUDHAGAMA
 tags:
-- trading-suspension
-- non-compliance
-- SEBI-LODR
-- regulation-27-2
 - financial-reporting
-- promoter-freeze
+- lodr
+- non-compliance
 - penal-action
+- promoter-freeze
+- regulation-27-2
+- suspension
 title: Suspension of Trading in Securities for Non-Compliance with SEBI LODR Regulations
 ---
 

@@ -27,13 +27,10 @@ source: nse
 stocks:
 - NOIDATOLL
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-i
-- trade-to-trade
-- margin-requirements
+- asm-stage
+- margin
 - surveillance
-- noidatoll
+- trade-to-trade
 title: List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)
 ---
 

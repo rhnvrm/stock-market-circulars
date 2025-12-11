@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- debt-segment
-- municipal-bonds
-- new-listing
-- surat-municipal-corporation
+- debt-securities
 - fixed-income
+- listing
+- municipal-bonds
+- surat-municipal-corporation
 title: List of Securities Further Admitted to Dealings on Debt Segment - Surat Municipal
   Corporation
 ---

@@ -34,16 +34,13 @@ stocks:
 - IRIS
 - SHRIRAMPPS
 tags:
-- esop
-- esos
-- listing
-- equity-shares
-- employee-stock-options
-- icici-bank
 - arvind-fashions
+- equity
+- esop
 - icici-prudential-life
 - intense-technologies
 - iris-business-services
+- listing
 - shriram-properties
 title: Listing of Further Securities Issued Under ESOP/ESOS by Six Companies
 ---

@@ -27,11 +27,10 @@ source: nse
 stocks:
 - MONEYBOXX
 tags:
-- bonus-issue
-- listing
-- equity-shares
-- moneyboxx-finance
+- bonus
 - capital-market
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Moneyboxx Finance
   Limited
 ---

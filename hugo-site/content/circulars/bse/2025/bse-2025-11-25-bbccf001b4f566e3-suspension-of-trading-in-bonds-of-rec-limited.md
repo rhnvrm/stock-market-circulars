@@ -25,15 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- REC
+- RECLTD
 tags:
-- bonds
-- debt
-- suspension
-- redemption
-- trading-halt
+- bond
 - corporate-action
-- REC
+- debt-securities
+- rec
+- redemption
+- suspension
+- trading-halt
 title: Suspension of Trading in Bonds of REC Limited
 ---
 

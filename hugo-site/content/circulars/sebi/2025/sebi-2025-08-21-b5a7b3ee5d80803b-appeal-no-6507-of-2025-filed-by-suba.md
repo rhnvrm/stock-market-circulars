@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- margin-shortfall
-- equity-derivatives
-- transparency
+- derivatives
 - information-access
+- margin-shortfall
+- rti
+- transparency
 title: RTI Appeal No. 6507 of 2025 - SEBI Margin Shortfall Information Request
 ---
 

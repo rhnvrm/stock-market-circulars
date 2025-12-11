@@ -29,12 +29,8 @@ stocks:
 - RADHAGOBIND
 - EASTINDRUM
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy-code
-- additional-surveillance-measure
-- corporate-insolvency
+- surveillance
 title: Surveillance Measure for Securities Under IBC - November 2025 Update
 ---
 

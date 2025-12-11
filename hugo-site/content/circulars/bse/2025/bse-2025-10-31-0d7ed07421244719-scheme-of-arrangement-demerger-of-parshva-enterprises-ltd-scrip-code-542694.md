@@ -29,16 +29,14 @@ stocks:
 - PARSHVAENT
 - SIMANDHAR
 tags:
-- demerger
-- scheme-of-arrangement
+- asm-stage
+- call-money
 - corporate-action
-- nclt-approval
-- record-date
-- jewellery-business
 - group-change
-- t-group
-- call-auction
-- special-pre-open-session
+- jewellery-business
+- nclt
+- record-date
+- scheme-of-arrangement
 title: Scheme of Arrangement (Demerger) of PARSHVA ENTERPRISES LTD (Scrip Code 542694)
 ---
 

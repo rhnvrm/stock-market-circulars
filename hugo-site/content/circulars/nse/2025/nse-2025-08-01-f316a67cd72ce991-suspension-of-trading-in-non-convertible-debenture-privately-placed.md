@@ -24,12 +24,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML69453.pdf
 severity: medium
 source: nse
 stocks:
-- TATACAPITAL
+- TATACAP
 tags:
-- trading-suspension
-- non-convertible-debenture
-- debt-market
+- debt-securities
+- ncd
 - redemption
+- suspension
 - tata-capital
 title: Suspension of trading in Non-Convertible Debenture of Tata Capital Limited
 ---

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- frequency-change
+- mutual-fund
+- processing-schedule
 - sip
 - stp
 - sundaram-mutual-fund
-- frequency-change
-- processing-schedule
 title: Sundaram Mutual Fund Changes Weekly SIP/STP Processing from Wednesday-only
   to All Working Days
 ---

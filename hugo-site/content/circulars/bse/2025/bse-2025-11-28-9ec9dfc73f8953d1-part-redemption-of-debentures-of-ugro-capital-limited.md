@@ -28,13 +28,12 @@ source: bse
 stocks:
 - UGROLTD
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- face-value-reduction
-- non-convertible-debentures
 - debt-securities
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of UGRO CAPITAL LIMITED
 ---
 

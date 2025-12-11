@@ -42,11 +42,11 @@ stocks:
 - WIPRO
 - ADANIGREEN
 tags:
-- listing
-- esop
-- equity-shares
-- further-issue
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 19 Companies
 ---
 

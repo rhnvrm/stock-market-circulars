@@ -28,13 +28,13 @@ source: bse
 stocks:
 - ACAPL
 tags:
-- trading-suspension
-- debentures
-- debt-market
 - corporate-action
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AKARA CAPITAL ADVISORS PRIVATE LIMITED
 ---
 

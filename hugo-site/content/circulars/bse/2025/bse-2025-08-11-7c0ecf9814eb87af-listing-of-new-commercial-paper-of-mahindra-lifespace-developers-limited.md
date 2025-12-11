@@ -25,10 +25,10 @@ source: bse
 stocks:
 - MLDL
 tags:
-- debt-listing
 - commercial-paper
-- private-placement
+- debt-securities
 - mahindra-lifespace
+- private-placement
 title: Listing of new Commercial Paper of Mahindra Lifespace Developers Limited
 ---
 

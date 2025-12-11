@@ -35,11 +35,9 @@ stocks:
 - APOLLO
 - ASTRON
 tags:
-- asm
+- asm-stage
 - surveillance
 - trade-for-trade
-- long-term-asm
-- market-surveillance
 - trading-restrictions
 title: Additional Surveillance Measure (ASM) Framework Updates - October 2025
 ---

@@ -26,13 +26,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- growpital
 - collective-investment-scheme
-- investor-protection
-- enforcement-action
+- enforcement
 - fund-recovery
+- growpital
+- investor-protection
 - regulatory-oversight
+- rti
 title: Appeal No. 6599 of 2025 filed by Keshav Lahoti
 ---
 

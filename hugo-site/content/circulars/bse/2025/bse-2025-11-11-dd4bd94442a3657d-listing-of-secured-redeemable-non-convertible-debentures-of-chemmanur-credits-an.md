@@ -28,10 +28,8 @@ stocks:
 - CHEMMANUR
 tags:
 - debt-securities
-- ncd
 - listing
-- debentures
-- chemmanur-credits
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Chemmanur Credits
   and Investments Limited
 ---

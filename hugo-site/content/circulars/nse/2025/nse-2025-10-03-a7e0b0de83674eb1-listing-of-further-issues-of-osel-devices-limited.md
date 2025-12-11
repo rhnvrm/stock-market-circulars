@@ -26,12 +26,12 @@ source: nse
 stocks:
 - OSELDEVICE
 tags:
-- listing
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-shares
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of Osel Devices Limited
 ---
 

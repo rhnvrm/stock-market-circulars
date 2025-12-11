@@ -38,11 +38,11 @@ stocks:
 - UYFIN
 - WELINV
 tags:
-- price-band
-- trading-parameters
 - equity
+- market-operations
+- price-band
 - surveillance
-- market-regulation
+- trading-operations
 title: Price Band Revisions for 13 Securities Effective November 18, 2025
 ---
 

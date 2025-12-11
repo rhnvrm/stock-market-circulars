@@ -26,8 +26,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- private-placement
 - mumbai-urja-marg
+- private-placement
 title: Listing of new debt securities of Mumbai Urja Marg Limited
 ---
 

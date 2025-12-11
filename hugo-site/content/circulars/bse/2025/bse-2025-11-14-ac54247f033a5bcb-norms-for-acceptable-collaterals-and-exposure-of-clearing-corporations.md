@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
-- rms
-- collateral
-- clearing-corporation
-- iccl
 - bank-eligibility
+- clearing-corporation
+- collateral
 - exposure-norms
-- sebi-circular
+- iccl
+- rms
+- sebi
+- settlement
 title: Norms for Acceptable Collaterals and Exposure of Clearing Corporations - Revised
   Bank List
 ---

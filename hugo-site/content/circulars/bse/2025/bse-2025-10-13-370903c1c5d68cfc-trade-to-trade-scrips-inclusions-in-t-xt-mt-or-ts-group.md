@@ -44,13 +44,10 @@ stocks:
 - ZENITH
 - ZINEMA
 tags:
-- trade-for-trade
-- surveillance-measure
+- asm-stage
 - price-band
-- t-group
-- xt-group
-- mt-group
 - sme
+- trade-for-trade
 title: Trade-To-Trade Scrips – Inclusions in T, XT, MT or TS Group
 ---
 

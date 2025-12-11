@@ -26,11 +26,11 @@ source: nse
 stocks:
 - AAFS30
 tags:
-- listing
-- private-placement
 - capital-market
-- market-linked-securities
 - debt-securities
+- listing
+- market-linked-securities
+- private-placement
 title: Listing of privately placed securities on capital market segment - Alpha Alternatives
   Financial Services
 ---

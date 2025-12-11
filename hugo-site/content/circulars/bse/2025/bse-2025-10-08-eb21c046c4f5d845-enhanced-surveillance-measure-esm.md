@@ -42,11 +42,9 @@ stocks:
 - UHZAVERI
 - UNIVOFF
 tags:
+- market-operations
 - surveillance
-- esm
-- enhanced-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Across Stages
 ---
 

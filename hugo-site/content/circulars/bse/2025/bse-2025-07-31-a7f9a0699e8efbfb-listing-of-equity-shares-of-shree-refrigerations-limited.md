@@ -25,10 +25,10 @@ source: bse
 stocks:
 - SHREEREF
 tags:
+- company-related
+- equity
 - listing
-- equity-shares
 - sme
-- new-company
 title: Listing of Equity Shares of SHREE REFRIGERATIONS LIMITED
 ---
 

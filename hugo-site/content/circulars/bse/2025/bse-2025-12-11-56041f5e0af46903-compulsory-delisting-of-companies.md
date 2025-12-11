@@ -38,12 +38,11 @@ stocks:
 - VAXHFCL
 tags:
 - delisting
-- compulsory-delisting
-- suspended-companies
-- promoter-restrictions
+- equity
 - exit-offer
 - market-access-ban
-- equity
+- promoter
+- suspended-companies
 title: Compulsory Delisting of 10 Companies Effective December 15, 2025
 ---
 

@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - bandhan
-- equity-fund
+- equity
+- mutual-fund
 - reopening
 title: BANDHAN MULTI-FACTOR FUND Reopening for Ongoing Transactions on BSE StAR MF
   Platform

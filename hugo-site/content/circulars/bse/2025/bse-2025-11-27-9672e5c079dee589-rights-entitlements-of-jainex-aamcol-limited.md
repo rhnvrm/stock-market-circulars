@@ -27,12 +27,11 @@ source: bse
 stocks:
 - JAINEX
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- jainex-aamcol
-- equity
 - demat-trading
+- equity
+- jainex-aamcol
+- renunciation
+- rights-issue
 - t1-settlement
 title: Rights Entitlements of JAINEX AAMCOL LIMITED - Trading Commences December 1,
   2025

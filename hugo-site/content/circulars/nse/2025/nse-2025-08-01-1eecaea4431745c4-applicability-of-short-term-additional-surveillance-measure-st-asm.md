@@ -34,11 +34,10 @@ stocks:
 - ROSSTECH
 - VERITAAS
 tags:
-- surveillance
-- asm
+- market-operations
 - short-term
+- surveillance
 - trading-restrictions
-- market-integrity
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

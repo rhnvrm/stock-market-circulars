@@ -31,7 +31,7 @@ stocks:
 - ARTSON
 - ADLINECHEM
 - WELTERMAN
-- TIRTHPLASTIC
+- TIRTPLS
 - ACEEDUTREND
 - CHARMS
 - VIKALP
@@ -45,11 +45,10 @@ stocks:
 - RCI
 - CAPFIN
 tags:
-- gsm
-- surveillance
-- stage-movement
+- asm-stage
 - monitoring
 - securities
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

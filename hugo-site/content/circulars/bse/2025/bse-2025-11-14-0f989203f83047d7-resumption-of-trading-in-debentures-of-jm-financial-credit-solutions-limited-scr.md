@@ -26,12 +26,12 @@ source: bse
 stocks:
 - JMFCSL
 tags:
-- debentures
-- trading-resumption
-- partial-redemption
 - buyback
-- debt-market
+- debt-securities
 - jm-financial-credit-solutions
+- ncd
+- redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of JM Financial Credit Solutions Limited
 ---
 

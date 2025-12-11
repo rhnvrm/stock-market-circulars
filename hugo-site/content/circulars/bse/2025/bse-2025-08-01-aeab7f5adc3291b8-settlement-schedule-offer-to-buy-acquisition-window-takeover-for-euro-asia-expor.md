@@ -26,11 +26,10 @@ source: bse
 stocks:
 - EUROASIA
 tags:
-- takeover
-- acquisition
-- settlement-schedule
-- early-pay-in
 - demat-shares
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for EURO ASIA EXPORTS LIMITED Takeover Offer to Buy
 ---
 

@@ -26,15 +26,15 @@ severity: low
 source: bse
 stocks:
 - ASTRON
-- RAVELCARE
+- RAVEL
 tags:
-- index
-- sme
-- ipo
 - addition
-- equity
 - astron-multigrain
+- equity
+- index-fund
+- ipo
 - ravelcare
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

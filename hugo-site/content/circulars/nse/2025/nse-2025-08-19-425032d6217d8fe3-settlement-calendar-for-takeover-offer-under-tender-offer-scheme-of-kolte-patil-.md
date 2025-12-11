@@ -26,12 +26,12 @@ source: nse
 stocks:
 - KPIL
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- kolte-patil-developers
-- early-pay-in
 - demat-shares
+- early-pay-in
+- kolte-patil-developers
+- settlement-calendar
+- takeover
+- tender-offer
 title: Settlement Calendar for Takeover Offer under Tender Offer Scheme of Kolte-Patil
   Developers Limited
 ---

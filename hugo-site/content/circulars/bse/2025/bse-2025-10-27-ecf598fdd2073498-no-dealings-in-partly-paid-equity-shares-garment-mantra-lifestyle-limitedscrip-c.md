@@ -28,12 +28,12 @@ source: bse
 stocks:
 - GARMENTMANTRA
 tags:
-- trading-suspension
-- partly-paid-shares
-- rights-issue
-- record-date
-- corporate-action
 - call-money
+- corporate-action
+- partly-paid
+- record-date
+- rights-issue
+- suspension
 title: No Dealings in Partly Paid Equity Shares - Garment Mantra Lifestyle Limited
   (Scrip Code 890215)
 ---

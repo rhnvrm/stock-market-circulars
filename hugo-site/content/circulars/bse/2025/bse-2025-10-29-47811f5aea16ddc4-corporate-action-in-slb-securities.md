@@ -39,12 +39,12 @@ stocks:
 - ASIANPAINT
 - CAMS
 tags:
-- slb
-- corporate-actions
+- bonus
+- book-closure
+- corporate-action
 - dividend
-- bonus-issue
 - foreclosure
-- shut-period
+- slb
 title: Corporate Action in SLB Securities - November 2025
 ---
 

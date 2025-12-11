@@ -33,10 +33,10 @@ stocks:
 - DEEPAKNTR
 - RECLTD
 - BHEL
-- TTKPRESTIGE
+- TTKPRESTIG
 - PARASDEFENCE
 - INDIAGLYCO
-- JKBANK
+- J&KBANK
 - MASFIN
 - MANGCHEFER
 - CHAMBLFERT
@@ -45,12 +45,11 @@ stocks:
 - HINDPETRO
 - LTFOODS
 tags:
-- corporate-actions
+- bonus
+- corporate-action
 - dividend
-- bonus-issue
-- stock-split
 - record-date
-- ex-date
+- split
 title: Corporate Actions Schedule - Multiple Companies Including Dividends, Bonus
   Issues and Stock Split
 ---

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TIMES
 tags:
-- rights-entitlements
-- rights-issue
+- demat
 - renunciation
-- demat-only
-- t+1-settlement
+- rights-issue
+- t1-settlement
 - trade-for-trade
 title: Rights Entitlements of TIMES GREEN ENERGY (INDIA) LIMITED
 ---

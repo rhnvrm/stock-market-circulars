@@ -25,10 +25,10 @@ source: bse
 stocks:
 - FFSL
 tags:
-- debt-listing
-- corporate-bonds
-- private-placement
+- bond
+- debt-securities
 - finkurve-financial
+- private-placement
 title: Listing of new debt securities of Finkurve Financial Services Limited
 ---
 

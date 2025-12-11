@@ -41,11 +41,11 @@ stocks:
 - TAC
 - TAPIFRUIT
 tags:
-- trade-for-trade
-- surveillance
+- market-operations
 - price-band
 - settlement
-- market-safety
+- surveillance
+- trade-for-trade
 title: Trade for Trade Segment Changes - Securities Movement Effective September 09,
   2025
 ---

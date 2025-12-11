@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GANESHHOUSING
+- GANESHHOU
 tags:
-- name-change
 - certificate-incorporation
 - corporate-affairs
-- company-restructuring
+- name-change
+- scheme-of-arrangement
 title: Ganesh Housing Corporation Limited Changes Name to Ganesh Housing Limited
 ---
 

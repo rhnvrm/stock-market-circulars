@@ -26,12 +26,12 @@ source: bse
 stocks:
 - BRIGADE
 tags:
+- alternative-investment-fund
+- brigade-hotel-ventures
+- equity
+- ipo
 - listing
 - lock-in
-- equity-shares
-- ipo
-- brigade-hotel-ventures
-- alternative-investment-fund
 title: Listing of Equity Shares of Brigade Hotel Ventures Limited - Lock-in Details
 ---
 

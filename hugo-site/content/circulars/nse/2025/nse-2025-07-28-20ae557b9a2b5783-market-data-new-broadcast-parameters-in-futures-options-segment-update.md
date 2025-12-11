@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- market-data
-- futures
-- options
+- bhavcopy
 - broadcast-parameters
+- futures-options
+- market-data
+- options
 - technology
 - transcodes
-- bhavcopy
 title: Market Data - New broadcast parameters in Futures & Options Segment - Update
 ---
 

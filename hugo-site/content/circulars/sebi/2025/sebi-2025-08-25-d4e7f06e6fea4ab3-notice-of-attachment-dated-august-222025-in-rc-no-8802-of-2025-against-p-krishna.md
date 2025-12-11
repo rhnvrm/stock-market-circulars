@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
+- attachment
 - enforcement
-- investment-advisory
-- unregistered-services
-- compliance-violation
+- investment-adviser
+- non-compliance
 - recovery
+- unregistered-services
 title: 'Notice of Attachment dated August 22, 2025 in RC no 8802 of 2025 against P.
   Krishnakumar (PAN: ASDPK8613Q) in the matter of Unregistered investment advisory
   services/activities of YM Forecast managed by P Krishnakumar and Jagdeesan S'

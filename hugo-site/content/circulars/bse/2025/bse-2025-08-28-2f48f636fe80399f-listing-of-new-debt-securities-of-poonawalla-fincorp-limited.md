@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PFL
 tags:
+- bond
 - debt-securities
 - listing
 - poonawalla-fincorp
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of Poonawalla Fincorp Limited
 ---
 

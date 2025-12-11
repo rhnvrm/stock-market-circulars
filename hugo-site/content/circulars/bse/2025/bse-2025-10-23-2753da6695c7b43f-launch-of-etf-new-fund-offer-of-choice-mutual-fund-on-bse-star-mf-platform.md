@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- gold-etf
 - choice-mutual-fund
-- bse-star-mf
+- etf
+- gold
+- mutual-fund
+- nfo
 title: Launch of ETF New Fund Offer of CHOICE Mutual Fund on BSE StAR MF Platform
 ---
 

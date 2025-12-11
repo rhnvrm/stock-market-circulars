@@ -26,9 +26,9 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
-- commercial-paper
-- debt-listing
 - bajaj-financial-securities
+- commercial-paper
+- debt-securities
 - private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Bajaj Financial Securities Limited

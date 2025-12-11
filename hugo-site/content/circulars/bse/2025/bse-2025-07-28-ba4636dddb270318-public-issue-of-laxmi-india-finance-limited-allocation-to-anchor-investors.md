@@ -26,11 +26,11 @@ source: bse
 stocks:
 - LAXMIFINANCE
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- public-issue
 - laxmi-india-finance
-- allocation
+- public-issue
 title: Public Issue of LAXMI INDIA FINANCE LIMITED - Allocation to Anchor Investors
 ---
 

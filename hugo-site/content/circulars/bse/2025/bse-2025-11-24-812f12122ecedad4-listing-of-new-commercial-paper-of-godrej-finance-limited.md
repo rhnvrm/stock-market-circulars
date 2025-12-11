@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - godrej-finance
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Godrej Finance Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MSFL
 tags:
-- debentures
-- suspension
-- redemption
 - corporate-action
-- debt-segment
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MARWADI SHARES AND FINANCE LIMITED
 ---
 

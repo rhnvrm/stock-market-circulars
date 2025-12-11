@@ -28,12 +28,9 @@ source: bse
 stocks:
 - DECCANBEAR
 tags:
+- draft-document
+- equity
 - takeover
-- open-offer
-- acquisition
-- deccan-bearings
-- letter-of-offer
-- equity-shares
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Deccan Bearings
   Limited
 ---

@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- etf
-- symbol-change
 - dsp-asset-managers
+- etf
+- gold
+- listing
+- name-change
+- nifty-50-etf
 - nifty-bank-etf
 - nifty-it-etf
-- gold-etf
-- nifty-50-etf
-- listing
 title: Change in symbols of Exchange Traded Fund (ETF) Schemes of DSP Asset Managers
   Private Limited
 ---

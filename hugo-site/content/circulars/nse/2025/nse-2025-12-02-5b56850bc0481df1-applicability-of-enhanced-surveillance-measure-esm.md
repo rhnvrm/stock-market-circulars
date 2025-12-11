@@ -28,14 +28,11 @@ stocks:
 - TREJHARA
 - LATTEYS
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirement
-- trade-for-trade
-- surveillance
 - coastal-corporation
-- trejhara-solutions
 - latteys-industries
+- margin
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM) - December 2025
 ---
 

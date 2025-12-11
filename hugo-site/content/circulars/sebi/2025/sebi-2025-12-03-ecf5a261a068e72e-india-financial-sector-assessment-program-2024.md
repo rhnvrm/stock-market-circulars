@@ -28,20 +28,20 @@ severity: low
 source: sebi
 stocks: []
 tags:
+- banking-supervision
+- climate-risk
+- corporate-debt-market
+- digital-public-infrastructure
+- financial-inclusion
 - financial-sector-assessment
 - fsap
-- world-bank
 - imf
+- insurance-sector
+- mutual-fund
+- nbfcs
 - regulatory-framework
 - securities-markets
-- banking-supervision
-- nbfcs
-- insurance-sector
-- digital-public-infrastructure
-- climate-risk
-- financial-inclusion
-- mutual-funds
-- corporate-debt-market
+- world-bank
 title: 'India: Financial Sector Assessment Program, 2024'
 ---
 

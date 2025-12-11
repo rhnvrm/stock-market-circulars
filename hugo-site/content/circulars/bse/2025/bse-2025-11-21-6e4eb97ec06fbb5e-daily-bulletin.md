@@ -30,17 +30,17 @@ stocks:
 - CAMS
 - ENGINERSIN
 tags:
-- daily-bulletin
+- bonus
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
+- ncd
+- record-date
 - redemption
-- bonus-issue
-- stock-split
-- corporate-actions
-- debentures
-- commercial-paper
+- split
 title: Daily Bulletin 160/2025-2026 - Book Closure, Record Dates and Corporate Actions
 ---
 

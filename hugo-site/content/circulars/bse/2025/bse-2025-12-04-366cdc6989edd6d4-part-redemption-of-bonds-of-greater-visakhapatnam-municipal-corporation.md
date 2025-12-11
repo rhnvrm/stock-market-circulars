@@ -28,12 +28,12 @@ source: bse
 stocks:
 - GVMC
 tags:
-- bonds
+- bond
 - debt-securities
-- redemption
+- face-value-reduction
 - interest-payment
 - municipal-bonds
-- face-value-reduction
+- redemption
 title: Part Redemption of Bonds of Greater Visakhapatnam Municipal Corporation
 ---
 

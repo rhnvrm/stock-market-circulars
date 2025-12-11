@@ -28,14 +28,14 @@ source: nse
 stocks: []
 tags:
 - auction
-- settlement
-- internal-shortage
-- cc-shortage
-- close-out
 - auction-penalty
+- cc-shortage
 - clearing
-- delivery-obligation
+- close-out
+- early-pay-in
 - faq
+- internal-shortage
+- settlement
 title: Auction for Internal Shortage - Frequently Asked Questions
 ---
 

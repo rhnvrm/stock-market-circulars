@@ -41,11 +41,11 @@ stocks:
 - SODHANIC
 - TRAVELSRE
 tags:
-- price-band
-- trading-restrictions
-- surveillance
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-restrictions
 title: Changes in Price Band for 15 Equity Scrips
 ---
 

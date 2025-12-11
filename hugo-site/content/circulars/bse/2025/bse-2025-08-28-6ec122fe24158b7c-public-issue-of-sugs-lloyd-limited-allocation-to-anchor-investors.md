@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SUGSLLOYD
 tags:
-- public-issue
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
 - listing
-- sugs-lloyd
+- public-issue
 title: SUGS LLOYD LIMITED - Public Issue Allocation to Anchor Investors
 ---
 

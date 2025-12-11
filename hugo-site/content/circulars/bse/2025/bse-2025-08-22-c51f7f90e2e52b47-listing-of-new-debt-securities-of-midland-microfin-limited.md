@@ -27,8 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - midland-microfin
+- private-placement
 title: Listing of new debt securities of Midland Microfin Limited
 ---
 

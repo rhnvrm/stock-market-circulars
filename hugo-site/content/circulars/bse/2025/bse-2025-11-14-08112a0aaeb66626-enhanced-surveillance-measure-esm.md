@@ -71,11 +71,10 @@ stocks:
 - TRUSTEDG
 - VEERKRUP
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) - Movement of Securities Across Stages
 ---
 

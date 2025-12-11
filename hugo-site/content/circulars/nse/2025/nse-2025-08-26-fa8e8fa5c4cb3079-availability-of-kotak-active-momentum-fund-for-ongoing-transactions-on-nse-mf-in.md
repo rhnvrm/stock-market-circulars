@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - kotak-mutual-fund
-- nse-mf-invest
-- fund-reopening
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- equity-fund
+- trading-platform
 title: Availability of Kotak Active Momentum Fund for ongoing transactions on NSE
   MF Invest Platform
 ---

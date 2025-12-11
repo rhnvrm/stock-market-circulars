@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
+- appeal
+- disclosure
+- lodr
 - rti
 - whistle-blower-policy
-- appellate-authority
-- listing-regulations
-- disclosure-requirements
 title: Appeal No. 6492 of 2025 - RTI Application on Whistle Blower Policy Implementation
   Date
 ---

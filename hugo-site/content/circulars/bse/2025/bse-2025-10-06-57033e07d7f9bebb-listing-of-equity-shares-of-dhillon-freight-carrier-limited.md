@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DHILLON
 tags:
-- sme-ipo
-- listing
-- equity-shares
-- lock-in
 - dhillon-freight
+- equity
+- listing
+- lock-in
+- sme
 title: Listing of Equity Shares of Dhillon Freight Carrier Limited
 ---
 

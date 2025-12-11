@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NIBE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
+- lock-in
 - preferential-issue
 - promoter
-- lock-in
 title: Listing of Securities NIBE LIMITED - 204,705 Equity Shares from Warrant Conversion
 ---
 

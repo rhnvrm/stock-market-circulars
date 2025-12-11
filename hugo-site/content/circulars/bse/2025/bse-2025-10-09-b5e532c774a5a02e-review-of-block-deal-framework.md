@@ -28,13 +28,13 @@ source: bse
 stocks: []
 tags:
 - block-deals
-- trading-windows
-- sebi-circular
 - market-operations
-- t+0-settlement
-- t+1-settlement
+- price-band
+- sebi
+- t0-settlement
+- t1-settlement
+- trading-windows
 - vwap
-- price-bands
 title: Review of Block Deal Framework
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- debentures
-- private-placement
 - grand-hills-developments
-- reset-rate
 - ind-bbb-plus
+- listing
+- ncd
+- private-placement
+- reset-rate
 title: Listing of New Debt Securities of Grand Hills Developments Private Limited
 ---
 

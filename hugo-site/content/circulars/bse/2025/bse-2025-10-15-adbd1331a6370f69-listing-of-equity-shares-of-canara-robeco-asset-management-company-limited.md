@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CANARAROBECO
 tags:
-- listing
-- equity-shares
-- ipo
-- lock-in
+- anchor-investor
 - asset-management
-- anchor-investors
+- equity
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Canara Robeco Asset Management Company Limited
 ---
 

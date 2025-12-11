@@ -26,10 +26,10 @@ source: bse
 stocks:
 - DECCAN
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of new securities of Deccan Bearings Ltd
 ---
 

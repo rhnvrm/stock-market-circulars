@@ -48,11 +48,11 @@ stocks:
 - JTLINFRA
 - HITECH
 tags:
-- slb
+- book-closure
 - corporate-action
 - dividend
-- book-closure
-- ex-date
+- record-date
+- slb
 title: Corporate Actions in SLB Securities - Dividend Announcements
 ---
 

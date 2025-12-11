@@ -27,11 +27,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- sip
-- daily-sip
-- taurus-mutual-fund
-- bse-star-mf
 - platform-enhancement
+- sip
+- taurus-mutual-fund
 title: Introduction of Daily SIP for TAURUS MUTUAL FUND on BSE StAR MF Platform
 ---
 

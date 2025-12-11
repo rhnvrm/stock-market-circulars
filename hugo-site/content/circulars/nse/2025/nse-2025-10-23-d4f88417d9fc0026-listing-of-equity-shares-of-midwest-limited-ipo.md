@@ -26,11 +26,9 @@ source: nse
 stocks:
 - MIDWESTLTD
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- MIDWESTLTD
+- listing
 title: Listing of Equity Shares of Midwest Limited (IPO)
 ---
 

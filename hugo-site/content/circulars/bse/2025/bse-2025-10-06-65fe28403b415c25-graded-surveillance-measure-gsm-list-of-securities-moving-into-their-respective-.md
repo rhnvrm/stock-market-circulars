@@ -29,11 +29,8 @@ stocks:
 - RAJKAMSYNTH
 - BIJOYHANS
 tags:
-- gsm
+- asm-stage
 - surveillance
-- graded-surveillance-measure
-- market-surveillance
-- stage-migration
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- interval-fund
-- nippon-india
-- nse-mf-invest
 - debt-scheme
-- subscription
+- interval-fund
+- mutual-fund
+- nippon-india
 - redemption
+- subscription
+- trading-platform
 title: Availability of Nippon India Quarterly Interval Fund - Series II on NSE MF
   Invest Platform
 ---

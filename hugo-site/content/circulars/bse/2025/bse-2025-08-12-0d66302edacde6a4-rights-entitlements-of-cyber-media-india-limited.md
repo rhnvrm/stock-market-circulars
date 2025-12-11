@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CYBER
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - cyber-media
 - renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for CYBER MEDIA (INDIA) LIMITED
 ---
 

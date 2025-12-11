@@ -26,11 +26,10 @@ source: nse
 stocks:
 - KATALYST
 tags:
-- sebi-order
-- market-restraint
-- katalyst-software
-- enforcement-action
 - compliance
+- enforcement
+- market-restraint
+- sebi-order
 title: SEBI Restrains Rahul Dilip Shah from Securities Market for 6 Months in Katalyst
   Software Services Matter
 ---

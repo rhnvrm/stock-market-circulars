@@ -98,10 +98,10 @@ stocks:
 - JMDVENT
 - KALPACOM
 tags:
-- price-bands
 - circuit-filters
-- trading-limits
+- price-band
 - surveillance
+- trading-operations
 - volatility-control
 title: Revision of Price Bands - Circuit Filter Changes for Multiple Securities
 ---

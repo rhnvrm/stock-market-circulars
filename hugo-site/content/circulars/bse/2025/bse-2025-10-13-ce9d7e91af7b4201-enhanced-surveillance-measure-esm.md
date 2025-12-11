@@ -34,11 +34,10 @@ stocks:
 - ROTOGRAPH
 - VASBHAG
 tags:
-- surveillance
-- esm
-- trading-restrictions
-- market-regulation
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Stage Changes for Multiple Securities
 ---
 

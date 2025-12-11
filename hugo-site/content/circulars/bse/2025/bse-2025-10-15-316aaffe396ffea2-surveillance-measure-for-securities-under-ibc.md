@@ -28,13 +28,9 @@ source: bse
 stocks:
 - TASTYDAIR
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy-code
-- additional-surveillance-measure
 - stage-0
-- tasty-dairy-specialities
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Tasty Dairy Specialities Added
   to Stage 0
 ---

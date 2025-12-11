@@ -28,11 +28,10 @@ stocks:
 - IRBINVIT
 tags:
 - debt-securities
+- invit
 - listing
-- irb-invit-fund
+- ncd
 - private-placement
-- non-convertible-debentures
-- infrastructure-investment-trust
 title: Listing of New Debt Securities of IRB InvIT Fund
 ---
 

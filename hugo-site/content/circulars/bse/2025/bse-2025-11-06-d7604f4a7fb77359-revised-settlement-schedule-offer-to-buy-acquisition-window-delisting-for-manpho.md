@@ -28,13 +28,11 @@ stocks:
 - MANPHOOL
 tags:
 - delisting
-- settlement-schedule
-- acquisition-window
-- offer-to-buy
-- manphool-exports
-- revised-calendar
 - demat-shares
 - early-pay-in
+- otb
+- revised-calendar
+- settlement
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for
   MANPHOOL EXPORTS LIMITED
 ---

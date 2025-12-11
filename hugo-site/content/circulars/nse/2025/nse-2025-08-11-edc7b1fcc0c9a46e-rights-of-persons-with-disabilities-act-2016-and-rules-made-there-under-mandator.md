@@ -26,13 +26,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- digital-accessibility
-- disability-rights
 - compliance
-- sebi-regulated-entities
-- intermediaries
+- digital-accessibility
+- intermediary
 - market-infrastructure
-- audit-requirements
+- sebi-regulated-entities
+- system-audit
 title: Rights of Persons with Disabilities Act 2016 - Mandatory Digital Accessibility
   Compliance for All SEBI Regulated Entities
 ---

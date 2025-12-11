@@ -30,7 +30,7 @@ stocks:
 - ATHER
 - BANKMAHARASHTRA
 - CENTRALBANK
-- DILIPBUILDCON
+- DBL
 - DSPML
 - ELECTROSTEEL
 - ETERNAL
@@ -40,7 +40,7 @@ stocks:
 - GHCL
 - GLOBALSURFA
 - IDEAFORGE
-- INDIAPESTICIDES
+- IPL
 - INDIANB
 - JAIPRAKASH
 - JAYBHARAT
@@ -95,7 +95,7 @@ stocks:
 - UDAYJEWEL
 - VINTAGE
 - VINTRON
-- VINYOFLEX
+- VINYOFL
 - VISHALRETAIL
 - VIVOBIO
 - VUENOW
@@ -103,10 +103,10 @@ stocks:
 - WENDT
 - WOCKPHARMA
 tags:
-- demat-auction
+- demat
+- securities-auction
 - settlement
 - trading
-- securities-auction
 title: Demat Auction Settlement No. 691 - List of Securities for Auction
 ---
 

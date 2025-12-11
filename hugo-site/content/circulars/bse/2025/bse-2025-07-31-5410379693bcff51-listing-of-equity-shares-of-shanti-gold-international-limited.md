@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SHANTI
 tags:
+- equity
+- ipo
 - listing
-- equity-shares
 - lock-in
 - shanti-gold
-- ipo
 title: Listing of Equity Shares of Shanti Gold International Limited - Lock-in Details
 ---
 

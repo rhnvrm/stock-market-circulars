@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- compliance-order
-- illiquid-stock-options
 - bse
-- enforcement-action
-- market-manipulation
-- penalty-recovery
+- compliance-order
+- enforcement
+- illiquid-stock-options
+- market-operations
+- penalty
+- recovery
 title: SEBI Compliance Order - Recovery Certificate No. 7976/2024 against Raisuddin
   Enterprise for Illiquid Stock Options Trading at BSE
 ---

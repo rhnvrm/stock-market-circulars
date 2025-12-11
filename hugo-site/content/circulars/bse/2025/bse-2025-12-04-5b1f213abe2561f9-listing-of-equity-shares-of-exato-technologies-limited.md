@@ -27,12 +27,10 @@ source: bse
 stocks:
 - EXATO
 tags:
+- equity
+- exato-technologies
 - listing
 - shareholding-pattern
-- equity-shares
-- promoter-holding
-- public-holding
-- exato-technologies
 title: Listing of Equity Shares of EXATO TECHNOLOGIES LIMITED
 ---
 

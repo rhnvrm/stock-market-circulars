@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- debt-securities
+- multi-asset
 - mutual-fund
 - nfo
-- new-fund-offer
-- wealth-company-mf
-- multi-asset-allocation
-- debt-fund
 - nmf-segment
+- wealth-company-mf
 title: Launch of The Wealth Company Multi Asset Allocation Fund NFO on NSE MF Invest
   Platform
 ---

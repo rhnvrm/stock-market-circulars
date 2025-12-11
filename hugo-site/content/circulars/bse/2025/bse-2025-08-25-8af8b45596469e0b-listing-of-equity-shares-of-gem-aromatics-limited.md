@@ -25,11 +25,8 @@ source: bse
 stocks:
 - GEMAROMA
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- gem-aromatics
-- GEMAROMA
 title: Listing of Equity Shares of Gem Aromatics Limited
 ---
 

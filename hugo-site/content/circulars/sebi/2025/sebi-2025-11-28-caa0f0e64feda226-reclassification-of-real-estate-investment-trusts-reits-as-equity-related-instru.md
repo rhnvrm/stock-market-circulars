@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- reits
-- mutual-funds
-- sifs
+- asset-management
 - equity-instruments
 - investment-classification
-- asset-management
+- mutual-fund
 - reclassification
+- reit
+- sifs
 title: Reclassification of Real Estate Investment Trusts (REITs) as equity related
   instruments for facilitating enhanced participation by Mutual Funds and Specialized
   Investment Funds (SIFs)

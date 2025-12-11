@@ -33,11 +33,10 @@ stocks:
 - OSWAL
 - STARCOM
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
 - risk-management
+- surveillance
 - trading-restrictions
-- surveillance-measures
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 10, 2025
 ---
 

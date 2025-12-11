@@ -28,11 +28,11 @@ stocks:
 tags:
 - enforcement
 - final-order
-- fund-siphoning
 - financial-misrepresentation
+- fund-siphoning
 - housing-finance
-- related-party-transactions
 - promoter-violations
+- related-party-transactions
 title: Order in the matter of Dewan Housing Finance Corporation Ltd.
 ---
 

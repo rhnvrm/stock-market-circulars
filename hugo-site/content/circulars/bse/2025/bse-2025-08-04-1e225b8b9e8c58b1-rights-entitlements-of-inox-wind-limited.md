@@ -26,11 +26,9 @@ source: bse
 stocks:
 - INOXWIND
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- inox-wind
 - renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for INOX WIND LIMITED - August 2025
 ---
 

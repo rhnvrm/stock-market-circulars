@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- research-analyst
-- qualification-requirements
-- penalty
-- compliance-violation
+- adjudication
 - certification
+- non-compliance
+- penalty
+- qualification-requirements
+- research-analyst
 title: Adjudication Order Against Options King Research Analyst for Qualification
   Violations
 ---

@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- two-factor-authentication
-- ibbs-platform
-- security
-- login-process
 - google-authentication
+- intermediary
+- login-process
 - otp
-- trading-members
-- intermediaries
+- security
+- trading-member
+- trading-platform
+- two-factor-authentication
 title: Two-Factor Authentication Security Update for IBBS Platform - Security Questions
   Option Discontinued
 ---

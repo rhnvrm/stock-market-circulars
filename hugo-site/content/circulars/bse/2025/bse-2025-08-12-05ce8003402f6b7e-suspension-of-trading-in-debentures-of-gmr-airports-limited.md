@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GMRINFRA
 tags:
-- trading-suspension
-- debentures
-- early-redemption
 - debt-securities
 - gmr-airports
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of GMR Airports Limited
 ---
 

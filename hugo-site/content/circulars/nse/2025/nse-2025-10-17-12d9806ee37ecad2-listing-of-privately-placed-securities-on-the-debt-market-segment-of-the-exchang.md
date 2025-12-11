@@ -36,10 +36,10 @@ stocks:
 - TATASTEEL
 - HINDALCO
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - October 17,
   2025
 ---

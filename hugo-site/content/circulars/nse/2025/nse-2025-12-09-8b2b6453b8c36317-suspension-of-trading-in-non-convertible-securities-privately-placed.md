@@ -27,13 +27,13 @@ source: nse
 stocks:
 - INDIANB
 tags:
-- trading-suspension
+- call-option
 - debt-securities
+- indian-bank
 - non-convertible-securities
 - private-placement
 - redemption
-- call-option
-- indian-bank
+- suspension
 title: Suspension of Trading in Non-Convertible Securities - Indian Bank
 ---
 

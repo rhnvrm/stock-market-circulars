@@ -27,13 +27,12 @@ source: nse
 stocks:
 - SALSTEEL
 tags:
-- takeover
-- tender-offer
-- equity
-- sal-steel
-- sree-metaliks
 - bidding-platform
 - corporate-action
+- equity
+- sree-metaliks
+- takeover
+- tender-offer
 title: Takeover offer under Tender offer scheme of SAL Steel Limited
 ---
 

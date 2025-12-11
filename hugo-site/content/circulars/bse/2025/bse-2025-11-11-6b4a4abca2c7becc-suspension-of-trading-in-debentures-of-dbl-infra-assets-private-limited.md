@@ -27,12 +27,11 @@ source: bse
 stocks:
 - DBLIPL
 tags:
-- trading-suspension
-- debentures
+- corporate-action
+- debt-securities
 - ncd
-- early-redemption
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DBL INFRA ASSETS PRIVATE LIMITED
 ---
 

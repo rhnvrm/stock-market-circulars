@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- research-analysts
-- regulatory-clarifications
 - compliance
-- nism-certification
-- institutional-investors
 - faqs
+- institutional-investor
+- nism-certification
+- regulatory
+- research-analyst
 title: SEBI Issues FAQs on Regulatory Provisions for Research Analysts
 ---
 

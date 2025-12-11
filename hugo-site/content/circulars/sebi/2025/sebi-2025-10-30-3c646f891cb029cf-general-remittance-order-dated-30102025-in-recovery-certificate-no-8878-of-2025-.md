@@ -29,12 +29,12 @@ source: sebi
 stocks: []
 tags:
 - enforcement
-- recovery-proceedings
-- unregistered-advisory
-- portfolio-management
+- investment-adviser
 - maxx-innovation
-- investment-advisory
-- regulatory-action
+- portfolio-management
+- recovery
+- regulatory
+- unregistered-advisory
 title: General Remittance Order Against Vipin Sharma for Unregistered Investment Advisory
   and Portfolio Management Services
 ---

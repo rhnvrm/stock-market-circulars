@@ -33,7 +33,7 @@ stocks:
 - AOL
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
 - listing
 - private-placement
 title: Listing of Privately Placed Debt Securities - Commercial Papers

@@ -25,12 +25,12 @@ source: bse
 stocks:
 - LIQUID1
 tags:
+- asm-stage
 - etf
-- mutual-fund
-- trading
 - kotak
 - liquid-fund
-- b-group
+- mutual-fund
+- trading
 title: Trading of Units of Kotak Nifty 1D Rate Liquid ETF
 ---
 

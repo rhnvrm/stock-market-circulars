@@ -29,11 +29,9 @@ stocks:
 - YAARI
 - IBULLSLTD
 tags:
-- name-change
-- symbol-change
 - corporate-action
-- yaari
 - indiabulls
+- name-change
 title: Change in name and symbol of Yaari Digital Integrated Services Limited to Indiabulls
   Limited
 ---

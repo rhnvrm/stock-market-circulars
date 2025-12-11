@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADDI
 tags:
-- takeover
-- settlement
-- acquisition-window
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for ADDI INDUSTRIES LIMITED Takeover Offer to Buy
 ---
 

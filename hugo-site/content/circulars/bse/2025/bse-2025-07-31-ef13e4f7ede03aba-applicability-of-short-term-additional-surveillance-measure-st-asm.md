@@ -48,11 +48,10 @@ stocks:
 - IEX
 - INTER
 tags:
-- surveillance
-- asm
-- trading
 - market-operations
 - regulatory
+- surveillance
+- trading
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

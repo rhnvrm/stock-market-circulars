@@ -28,12 +28,12 @@ source: bse
 stocks:
 - SABTV
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
 - sri-adhikari-brothers
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SRI ADHIKARI
   BROTHERS TELEVISION NETWORK LIMITED
 ---

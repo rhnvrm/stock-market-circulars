@@ -28,11 +28,11 @@ source: bse
 stocks:
 - NACLIND
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
-- ex-rights
+- corporate-action
+- equity
 - record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of NACL Industries Limited - 5 Shares for Every
   31 Held
 ---

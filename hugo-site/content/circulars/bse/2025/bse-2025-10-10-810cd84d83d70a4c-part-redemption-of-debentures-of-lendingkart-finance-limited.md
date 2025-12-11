@@ -28,13 +28,12 @@ source: bse
 stocks:
 - LENDINGKART
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- face-value-reduction
 - debt-securities
-- lendingkart-finance
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of LENDINGKART FINANCE LIMITED
 ---
 

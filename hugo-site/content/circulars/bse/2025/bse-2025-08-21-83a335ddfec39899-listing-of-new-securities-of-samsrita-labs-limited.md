@@ -25,10 +25,9 @@ source: bse
 stocks:
 - SAMSRITA
 tags:
-- equity-listing
-- preferential-issue
+- equity
 - lock-in
-- samsrita-labs
+- preferential-issue
 title: Listing of New Securities of SAMSRITA LABS LIMITED
 ---
 

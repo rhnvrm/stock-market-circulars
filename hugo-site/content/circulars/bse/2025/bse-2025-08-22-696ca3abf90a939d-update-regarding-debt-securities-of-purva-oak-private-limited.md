@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PURVAOAK
 tags:
+- bond
 - debt-securities
 - ncd
-- trading-update
-- purva-oak
-- secured-bonds
+- trading
 title: Update Regarding Debt Securities of Purva Oak Private Limited - Revised Terms
 ---
 

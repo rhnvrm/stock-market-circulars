@@ -28,12 +28,10 @@ source: nse
 stocks:
 - STUDDS
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
-- capital-market
-- STUDDS
 title: Listing of Equity Shares of Studds Accessories Limited (IPO)
 ---
 

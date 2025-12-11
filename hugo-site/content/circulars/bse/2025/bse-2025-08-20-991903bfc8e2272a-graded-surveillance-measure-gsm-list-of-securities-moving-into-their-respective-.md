@@ -30,11 +30,10 @@ stocks:
 - MEHTA
 - WELTERMAN
 tags:
-- graded-surveillance
-- gsm
-- trading-restrictions
-- surveillance-measures
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

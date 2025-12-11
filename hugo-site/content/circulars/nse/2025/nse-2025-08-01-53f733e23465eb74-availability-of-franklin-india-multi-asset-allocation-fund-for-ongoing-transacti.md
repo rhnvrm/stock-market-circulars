@@ -24,13 +24,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - franklin-templeton
 - multi-asset
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
 title: Availability of Franklin India Multi Asset Allocation Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- resignation
 - membership
-- sebi-approval
+- resignation
+- sebi-order
+- trading-member
 title: Resignation of Trading Member – Jeevan Utsav Capital Private Limited (Member
   no. 6770)
 ---

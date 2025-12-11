@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RANJITSEC
 tags:
-- trading-suspension
-- revocation
-- equity-shares
-- ranjit-securities
+- equity
 - market-operations
+- release
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Ranjit Securities Ltd.
 ---
 

@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- nri
-- derivatives
-- position-limits
 - clearing-members
-- operational-efficiency
-- ease-of-investment
 - cp-code
+- derivatives
+- ease-of-investment
+- nri
+- operational-efficiency
+- position-limits
 title: Operational Efficiency in Monitoring of Non-Resident Indians (NRI) Position
   Limits in Exchange Traded Derivatives Contracts - Ease of Doing Investment
 ---

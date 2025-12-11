@@ -57,12 +57,12 @@ stocks:
 - CRYOGENIC
 - SHREEREF
 tags:
-- sme
-- market-lot-size
-- trading
 - lot-size-revision
+- market-lot-size
 - sebi-guidelines
 - secondary-market
+- sme
+- trading
 title: Change in Market Lot Size of SME Companies on SME Exchange/Platform
 ---
 

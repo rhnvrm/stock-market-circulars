@@ -27,11 +27,10 @@ stocks:
 - SHRIRAMFIN
 tags:
 - debt-securities
+- demat
 - listing
 - ncd
-- shriram-finance
 - private-placement
-- dematerialised-trading
 title: Listing of New Debt Securities of Shriram Finance Limited
 ---
 

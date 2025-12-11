@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- scores
+- administrative
+- appeal
 - complaint-redressal
-- procedural
 - information-disclosure
+- rti
+- scores
 title: Appeal No. 6577 of 2025 filed by Arun Kumar Sarkar - RTI Appeal Remitted for
   De Novo Consideration
 ---

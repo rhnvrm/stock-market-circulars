@@ -26,12 +26,11 @@ source: bse
 stocks:
 - DALBHARAT
 tags:
-- group-change
-- equity-shares
-- t-group
-- b-group
+- asm-stage
+- corporate-action
 - dalmia-bharat
-- corporate-actions
+- equity
+- group-change
 title: Change in Group of Equity Shares of DALMIA BHARAT SUGAR AND INDUSTRIES LTD.
 ---
 

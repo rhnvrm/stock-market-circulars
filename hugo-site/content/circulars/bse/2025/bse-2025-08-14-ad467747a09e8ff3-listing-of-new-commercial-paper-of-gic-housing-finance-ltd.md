@@ -27,9 +27,9 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
 - gic-housing-finance
 - listing
+- private-placement
 title: Listing of new Commercial Paper of GIC Housing Finance Ltd.
 ---
 

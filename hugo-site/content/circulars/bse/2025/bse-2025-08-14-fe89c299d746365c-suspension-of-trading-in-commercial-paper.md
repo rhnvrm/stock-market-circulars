@@ -25,7 +25,7 @@ severity: medium
 source: bse
 stocks:
 - ICICISL
-- GFL
+- GFLLIMITED
 - SBISL
 - HDFCSL
 - 360OPL
@@ -43,10 +43,10 @@ stocks:
 - ASL
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
-- redemption
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

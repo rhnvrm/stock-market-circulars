@@ -29,11 +29,11 @@ stocks:
 - INDIANIPPON
 - PRECWIRE
 tags:
-- volume-clarification
-- market-surveillance
 - disclosure
-- trading-volume
+- price-movement
 - regulation-30
+- surveillance
+- trading-volume
 title: Clarifications received from the companies
 ---
 

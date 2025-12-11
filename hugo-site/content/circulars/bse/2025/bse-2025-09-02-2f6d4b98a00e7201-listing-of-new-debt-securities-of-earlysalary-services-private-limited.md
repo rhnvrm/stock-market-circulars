@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
-- private-placement
 - earlysalary
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of Earlysalary Services Private Limited
 ---
 

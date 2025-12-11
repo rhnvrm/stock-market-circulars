@@ -29,13 +29,11 @@ source: nse
 stocks:
 - IRBINVIT
 tags:
-- listing
-- invit
-- qip
-- qualified-institutional-placement
-- infrastructure-investment-trust
 - capital-market
 - further-issue
+- invit
+- listing
+- qip
 title: Listing of Further Issue of IRB InvIT Fund - 541.4 Million Units via QIP
 ---
 

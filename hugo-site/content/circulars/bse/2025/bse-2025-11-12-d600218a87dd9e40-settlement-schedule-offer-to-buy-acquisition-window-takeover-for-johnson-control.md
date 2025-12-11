@@ -28,12 +28,11 @@ source: bse
 stocks:
 - JCHAC
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
-- settlement-schedule
 - early-pay-in
 - johnson-controls-hitachi
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for JOHNSON
   CONTROLS-HITACHI AIR CONDITIONING INDIA LIMITED
 ---

@@ -32,15 +32,12 @@ stocks:
 - HARIG
 - EUROTEX
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
-- stage-movement
 - apt-packaging
-- nirmitee-robotics
-- sgn-telecoms
-- harig-crankshafts
+- asm-stage
 - eurotex-industries
+- harig-crankshafts
+- sgn-telecoms
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

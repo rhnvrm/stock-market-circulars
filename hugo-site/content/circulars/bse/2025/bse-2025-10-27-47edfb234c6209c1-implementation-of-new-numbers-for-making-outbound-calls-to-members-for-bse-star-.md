@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- consumer-protection
+- contact-numbers
 - mutual-fund
+- operational-change
 - star-mf
+- tcccpr-2018
 - telecom-regulations
 - trai
-- operational-change
-- contact-numbers
-- tcccpr-2018
-- consumer-protection
 title: Implementation of New 1600 Series Numbers for BSE StAR Mutual Fund Outbound
   Calls
 ---

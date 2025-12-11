@@ -26,14 +26,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- trai
-- regulatory-compliance
-- telecommunications
 - 1600-series
-- voice-calls
-- sebi-regulated-entities
 - clearing-members
 - commercial-communications
+- compliance
+- sebi-regulated-entities
+- telecommunications
+- trai
+- voice-calls
 title: Adherence to TRAI Direction dated November 19, 2025 - Mandatory Phase-wise
   Adoption of 1600-Series Numbers
 ---

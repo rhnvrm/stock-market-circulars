@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- platform-operations
-- icici-prudential
-- nippon
 - august-2025
+- holiday
+- icici-prudential
+- mutual-fund
+- nippon
+- platform-operations
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for August 2025
 ---

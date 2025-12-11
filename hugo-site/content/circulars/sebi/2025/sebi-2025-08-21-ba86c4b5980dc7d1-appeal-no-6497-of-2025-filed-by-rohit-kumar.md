@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
 - appeal
 - bse
+- dismissed
+- rti
 - technical-glitch
 - transparency
-- dismissed
 title: Appeal No. 6497 of 2025 filed by Rohit Kumar - RTI Appeal regarding BSE Technical
   Glitch on July 12, 2024
 ---

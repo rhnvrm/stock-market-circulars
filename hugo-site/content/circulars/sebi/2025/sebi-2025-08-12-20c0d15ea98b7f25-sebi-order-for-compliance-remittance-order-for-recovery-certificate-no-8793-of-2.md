@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- compliance-order
-- illiquid-stocks
-- options-trading
 - bse
+- compliance-order
 - enforcement
+- illiquid-stocks
+- options
+- recovery
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 8793
   of 2025 against Mudrikaben Pareshkumar Shah
 ---

@@ -30,11 +30,9 @@ stocks:
 - NAVIGANT
 - SHARMA
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Added and
   Stage Changes
 ---

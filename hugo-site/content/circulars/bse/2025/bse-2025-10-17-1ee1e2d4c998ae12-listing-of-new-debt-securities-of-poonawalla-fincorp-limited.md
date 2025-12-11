@@ -27,11 +27,10 @@ stocks:
 - POONAWALLA
 tags:
 - debt-securities
-- listing
-- poonawalla-fincorp
-- private-placement
-- debentures
 - fixed-income
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Poonawalla Fincorp Limited
 ---
 

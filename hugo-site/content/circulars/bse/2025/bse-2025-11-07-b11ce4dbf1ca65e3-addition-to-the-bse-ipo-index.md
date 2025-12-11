@@ -26,12 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544599'
+- STUDDS
 tags:
-- index
+- index-change
+- index-fund
 - ipo-index
-- index-addition
-- new-listing
+- listing
 title: Addition to the BSE IPO INDEX
 ---
 

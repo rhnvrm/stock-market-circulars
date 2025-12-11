@@ -36,10 +36,10 @@ stocks:
 - PFL
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-segment
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

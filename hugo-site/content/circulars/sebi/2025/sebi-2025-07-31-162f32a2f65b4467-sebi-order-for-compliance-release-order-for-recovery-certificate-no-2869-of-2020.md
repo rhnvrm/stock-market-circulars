@@ -26,10 +26,10 @@ source: sebi
 stocks:
 - KUSHALTL
 tags:
-- recovery-certificate
-- release-order
 - compliance
 - enforcement
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 2869
   of 2020 against Ilesh Madhusudan Patel in the matter of Kushal Tradelink Ltd.
 ---

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - TIMESGUARANTY
 tags:
-- name-change
-- certificate-of-incorporation
-- company-registration
+- certificate
+- company-related
 - mca
+- name-change
 title: Change in Name of the Company - Times Guaranty Ltd to Team India Guaranty Limited
 ---
 

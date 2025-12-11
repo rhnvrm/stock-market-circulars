@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-awareness
-- trading-fraud
-- social-media
 - all-india-radio
+- investor-awareness
 - investor-protection
+- social-media
+- trading-fraud
 title: SEBI Launches Investor Awareness Campaign on All India Radio Against Social
   Media Trading Frauds
 ---

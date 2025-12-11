@@ -26,11 +26,11 @@ source: bse
 stocks:
 - WSINDIA
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- non-promoter
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of W.S. Industries (India) Ltd.
 ---
 

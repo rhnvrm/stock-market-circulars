@@ -41,13 +41,8 @@ stocks:
 - ANKITMETAL
 - ANSALAPI
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- market-surveillance
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

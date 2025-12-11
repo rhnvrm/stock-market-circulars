@@ -24,14 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- RAVELCARE
+- RAVEL
 tags:
+- equity
 - listing
-- shareholding-pattern
-- equity-shares
-- promoter-holding
-- public-holding
 - ravelcare
+- shareholding-pattern
 title: Listing of Equity Shares of RAVELCARE LIMITED
 ---
 

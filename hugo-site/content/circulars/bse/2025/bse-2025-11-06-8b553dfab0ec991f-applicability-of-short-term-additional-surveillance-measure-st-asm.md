@@ -38,11 +38,10 @@ stocks:
 - FABTECH
 - SARUPIND
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

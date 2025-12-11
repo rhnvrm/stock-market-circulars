@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- market-data
-- futures-options
-- technical-update
-- nnf
 - broadcast-parameters
+- futures-options
+- market-data
+- nnf
+- technical-update
 title: Market Data - Extension of Discontinuation of Existing Broadcast Parameters
   in F&O Segment
 ---

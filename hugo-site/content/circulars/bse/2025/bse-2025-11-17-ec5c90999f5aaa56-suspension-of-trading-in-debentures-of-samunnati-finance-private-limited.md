@@ -26,14 +26,13 @@ source: bse
 stocks:
 - SFPL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
 - debt-securities
+- interest-payment
+- ncd
 - record-date
 - redemption
-- interest-payment
 - samunnati-finance
+- suspension
 title: Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

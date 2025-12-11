@@ -29,10 +29,10 @@ stocks:
 - ASTRON
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of ASTRON MULTIGRAIN LIMITED
 ---
 

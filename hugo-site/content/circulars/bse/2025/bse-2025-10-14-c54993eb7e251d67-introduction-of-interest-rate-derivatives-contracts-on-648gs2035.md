@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- interest-rate-derivatives
-- futures
-- options
-- government-securities
-- 648GS2035
+- 648gs2035
 - bond-derivatives
+- futures-options
+- gsec
+- interest-rate-derivatives
 - new-product-launch
+- options
 title: Introduction of Interest Rate Derivatives Contracts on 648GS2035
 ---
 

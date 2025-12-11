@@ -27,11 +27,10 @@ source: nse
 stocks:
 - IEML
 tags:
+- emerge-platform
+- equity
 - listing
-- sme-emerge
-- equity-shares
 - rights-issue
-- new-listing
 title: Listing of Equity Shares of Indian Emulsifiers Limited
 ---
 

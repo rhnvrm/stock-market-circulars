@@ -26,13 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543982'
+- QUESTFLOW
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- quest-flow-controls
+- preferential-issue
 title: Listing of new Securities of Quest Flow Controls Limited
 ---
 

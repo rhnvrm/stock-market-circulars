@@ -29,11 +29,11 @@ stocks:
 - BSLIQPIRDP
 - BSLIQPIIDP
 tags:
-- trading-suspension
-- mutual-funds
-- interval-schemes
 - aditya-birla
 - asset-management
+- interval-schemes
+- mutual-fund
+- suspension
 title: Suspension of Trading in Aditya Birla Mutual Fund Interval Schemes
 ---
 

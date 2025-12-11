@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
 - angel-one-mf
-- nse-mf-invest
-- subscriptions
-- redemptions
+- equity
+- index-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
+- trading-platform
 title: Availability of Angel One Nifty Total Market Momentum Quality 50 Index Fund
   for Ongoing Transactions on NSE MF Invest Platform
 ---

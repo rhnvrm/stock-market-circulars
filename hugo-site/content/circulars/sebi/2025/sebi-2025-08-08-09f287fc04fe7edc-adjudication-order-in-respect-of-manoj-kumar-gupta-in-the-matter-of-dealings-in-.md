@@ -26,11 +26,11 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- stock-options
-- market-manipulation
-- reversal-trades
-- BSE
+- bse
 - enforcement
+- market-operations
+- reversal-trades
+- stock-options
 title: Adjudication Order Against Manoj Kumar Gupta for Illiquid Stock Options Manipulation
   at BSE
 ---

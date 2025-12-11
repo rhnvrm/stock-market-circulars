@@ -41,7 +41,7 @@ stocks:
 - ATISHAY
 - BAMPSL
 - BATLIBOI
-- BESTAGROLIFE
+- BESTAGRO
 - BIGBLOC
 - CAPTRUSTLTD
 - CLASSIC
@@ -51,12 +51,10 @@ stocks:
 - JDCABLES
 - DHILLONFC
 tags:
+- asm-stage
+- sme
 - surveillance
-- ASM
-- ST-ASM
 - trading-restrictions
-- market-surveillance
-- SME
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

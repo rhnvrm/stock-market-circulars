@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
 - fund-of-funds
+- mutual-fund
+- name-change
 - nippon-india
-- sebi-framework
+- regulatory-framework
 title: Change in Scheme name of NIPPON on BSE StAR MF Platform
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VMARC
 tags:
-- revocation-order
-- ipo-irregularities
-- sebi-order
 - investigation
+- ipo-irregularities
 - market-restrictions
+- revocation-order
+- sebi-order
 title: Revocation Order in the matter of V Marc India Limited - Rekha Kurani
 ---
 

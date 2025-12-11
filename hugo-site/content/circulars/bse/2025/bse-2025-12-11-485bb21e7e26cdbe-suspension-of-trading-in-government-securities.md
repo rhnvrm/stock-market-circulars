@@ -26,13 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- t-bills
-- treasury-bills
-- trading-suspension
-- debt-market
+- debt-securities
+- gsec
 - maturity
 - redemption
+- suspension
+- treasury-bills
 title: Suspension of Trading in Government Securities - T-bill Maturing December 16,
   2025
 ---

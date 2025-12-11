@@ -26,11 +26,11 @@ source: nse
 stocks:
 - MUNISH
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-change
-- rolling-segment
 - munish-forge
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Munish Forge Limited (SME IPO)
 ---
 

@@ -27,11 +27,9 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
+- asm-stage
 - group-change
-- moneyboxx-finance
-- x-group
-- b-group
-- trading-members
+- trading-member
 title: 'Group Change: Moneyboxx Finance Limited Moving from X Group to B Group'
 ---
 

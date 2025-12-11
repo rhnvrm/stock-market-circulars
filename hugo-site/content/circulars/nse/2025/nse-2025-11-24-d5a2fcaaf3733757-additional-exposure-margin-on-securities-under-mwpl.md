@@ -31,12 +31,12 @@ stocks:
 - SAIL
 - SAMMAANCAP
 tags:
-- margin-requirements
-- risk-management
 - derivatives
-- mwpl
+- futures-options
+- margin
+- position-limits
+- risk-management
 - surveillance
-- futures-and-options
 title: Additional Exposure Margin on Securities under MWPL
 ---
 

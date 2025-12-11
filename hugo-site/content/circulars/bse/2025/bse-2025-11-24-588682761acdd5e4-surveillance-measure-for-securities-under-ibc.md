@@ -28,11 +28,8 @@ source: bse
 stocks:
 - BILVYPR
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under IBC - Bil Vyapar Ltd Added to Stage
   0

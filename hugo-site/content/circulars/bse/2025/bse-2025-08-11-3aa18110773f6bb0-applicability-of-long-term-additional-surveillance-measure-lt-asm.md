@@ -45,11 +45,10 @@ stocks:
 - ARAVALI
 - ARCHIDPLY
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
-- long-term-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

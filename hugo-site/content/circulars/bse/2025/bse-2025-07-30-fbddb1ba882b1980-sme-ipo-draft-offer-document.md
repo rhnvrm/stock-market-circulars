@@ -26,10 +26,10 @@ source: bse
 stocks:
 - KANISHK
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
+- draft-document
 - kanishk-aluminium
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document for Kanishk Aluminium India Limited
 ---
 

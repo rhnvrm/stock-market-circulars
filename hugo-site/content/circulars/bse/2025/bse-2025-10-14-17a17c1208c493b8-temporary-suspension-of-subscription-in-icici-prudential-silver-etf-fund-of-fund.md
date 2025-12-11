@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- silver
-- subscription-suspension
-- fund-of-fund
+- fund-of-funds
 - icici-prudential
-- supply-shortage
 - investor-protection
+- mutual-fund
+- silver
+- supply-shortage
+- suspension
 title: Temporary Suspension of subscription in ICICI Prudential Silver ETF Fund of
   Fund
 ---

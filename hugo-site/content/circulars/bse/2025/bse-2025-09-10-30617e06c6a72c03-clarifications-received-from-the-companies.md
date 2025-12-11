@@ -27,11 +27,10 @@ stocks:
 - SHEELAFM
 - SILVERLINE
 tags:
-- clarifications
-- volume-movement
+- clarification
+- disclosure
+- market-operations
 - price-movement
-- market-conditions
-- disclosure-compliance
 title: Clarifications received from companies regarding volume/price movements
 ---
 

@@ -39,11 +39,10 @@ stocks:
 - KASHYAP
 - WOODSVIL
 tags:
-- gsm
+- compliance
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- compliance
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

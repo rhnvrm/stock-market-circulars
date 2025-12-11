@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MANGAL
 tags:
+- equity
+- ipo
 - listing
 - shareholding-pattern
-- ipo
-- equity-shares
-- promoter-holding
 title: Listing of Equity Shares of Mangal Electrical Industries Limited
 ---
 

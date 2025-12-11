@@ -26,10 +26,9 @@ stocks:
 - MUTHOOTFIN
 tags:
 - commercial-paper
-- debt-listing
-- muthoot-fincorp
-- private-placement
 - crisil-a1-plus
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Muthoot Fincorp Limited
 ---
 

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - EUROASIA
 tags:
-- takeover
+- otb
 - settlement
-- acquisition
-- euro-asia-exports
-- offer-to-buy
+- takeover
 title: Settlement Schedule for Offer to Buy - Acquisition Window (Takeover) for Euro
   Asia Exports Limited
 ---

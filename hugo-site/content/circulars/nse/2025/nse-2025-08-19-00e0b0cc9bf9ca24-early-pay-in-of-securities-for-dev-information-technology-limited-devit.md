@@ -26,9 +26,9 @@ source: nse
 stocks:
 - DEVIT
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
+- early-pay-in
+- face-value-change
 - margin-exemption
 - settlement
 title: Early Pay-in of Securities for Dev Information Technology Limited (DEVIT) -

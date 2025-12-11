@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
-- remittance-order
-- proprietorship
-- dues-recovery
 - compliance
+- demand-notice
+- dues-recovery
+- enforcement
+- proprietorship
+- recovery
 title: 'General Remittance Order against Gainer Street (Proprietor: Mr. Anoop Singh
   Tomar) - RC No. 7083 of 2023'
 ---

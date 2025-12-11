@@ -30,7 +30,6 @@ tags:
 - listing
 - private-placement
 - sadbhav-gadag-highway
-- new-listing
 title: Listing of New Debt Securities of Sadbhav Gadag Highway Private Limited
 ---
 

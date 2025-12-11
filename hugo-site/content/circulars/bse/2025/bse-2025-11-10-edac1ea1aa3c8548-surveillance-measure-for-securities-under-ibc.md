@@ -27,12 +27,9 @@ source: bse
 stocks:
 - ALPS
 tags:
-- surveillance
-- ibc
+- compliance
 - insolvency
-- asm
-- additional-surveillance-measure
-- regulatory-compliance
+- surveillance
 title: Surveillance Measure for Securities under IBC - November 11, 2025
 ---
 

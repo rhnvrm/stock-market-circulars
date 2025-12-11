@@ -25,11 +25,10 @@ source: bse
 stocks:
 - EARLYSALARY
 tags:
+- bond
 - debt-securities
-- private-placement
 - listing
-- earlysalary
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of EARLYSALARY SERVICES PRIVATE LIMITED
 ---
 

@@ -25,15 +25,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- nse-mf-invest
 - axis-mutual-fund
 - dsp-mutual-fund
 - franklin-mutual-fund
+- holiday
 - invesco-mutual-fund
 - kotak-mutual-fund
-- trading-suspension
+- mutual-fund
+- suspension
+- trading-platform
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for August 2025
 ---

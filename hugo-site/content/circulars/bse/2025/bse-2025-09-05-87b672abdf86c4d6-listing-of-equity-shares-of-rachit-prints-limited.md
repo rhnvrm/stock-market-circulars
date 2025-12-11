@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RACHIT
 tags:
+- equity
 - listing
-- equity-shares
-- sme
-- new-listing
 - rachit-prints
+- sme
 title: Listing of Equity Shares of Rachit Prints Limited
 ---
 

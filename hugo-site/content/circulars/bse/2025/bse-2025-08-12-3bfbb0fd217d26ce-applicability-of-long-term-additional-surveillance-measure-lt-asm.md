@@ -31,9 +31,8 @@ stocks:
 - AVIPRODUCTS
 - MIRC
 tags:
-- surveillance
-- asm
 - long-term
+- surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

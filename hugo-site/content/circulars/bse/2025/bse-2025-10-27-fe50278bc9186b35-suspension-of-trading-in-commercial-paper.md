@@ -36,25 +36,25 @@ stocks:
 - KALPATARUPOWER
 - MAHLIFE
 tags:
+- bcml
 - commercial-paper
+- corporate-action
+- debt-securities
+- iocl
+- ispdl
+- kmpl
+- kpil
+- lcmpl
+- mafsipl
+- mldl
+- n18mil
+- nfl
+- opl
+- owl
 - redemption
-- trading-suspension
-- debt-market
-- corporate-actions
-- BCML
-- LCMPL
-- KMPL
-- N18MIL
-- ISPDL
-- MAFSIPL
-- NFL
-- OPL
-- SIL
-- OWL
-- IOCL
-- RL
-- KPIL
-- MLDL
+- rl
+- sil
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Companies
 ---
 

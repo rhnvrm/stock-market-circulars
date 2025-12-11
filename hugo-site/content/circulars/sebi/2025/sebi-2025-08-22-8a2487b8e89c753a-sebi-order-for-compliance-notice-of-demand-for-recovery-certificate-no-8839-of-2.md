@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- portfolio-management
-- investment-advisory
 - compliance
 - enforcement
+- investment-adviser
+- portfolio-management
+- recovery
 - unregistered-services
 title: SEBI Order for Compliance - Notice of Demand for Recovery Certificate No. 8839
   of 2025

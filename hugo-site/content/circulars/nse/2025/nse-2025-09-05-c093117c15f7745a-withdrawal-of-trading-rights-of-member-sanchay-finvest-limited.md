@@ -25,9 +25,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-suspension
 - member-compliance
-- regulatory-action
+- regulatory
+- suspension
 - trading-rights
 title: Withdrawal of Trading Rights of Member- Sanchay Finvest Limited
 ---

@@ -28,15 +28,14 @@ source: bse
 stocks:
 - DRONEACHARYA
 tags:
-- enforcement-action
-- sebi-order
-- fraud
-- ipo-misutilization
+- enforcement
 - financial-misrepresentation
-- disclosure-violations
-- droneacharya
+- fraud
+- information-disclosure
+- ipo-misutilization
+- lodr
 - related-party-transactions
-- listing-obligations
+- sebi-order
 title: Order in respect of Droneacharya Aerial Innovations Limited
 ---
 

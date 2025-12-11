@@ -26,11 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
-- scores
 - chronic-complainant
 - information-denial
+- rti
+- scores
 - section-8-1-a
 title: Appeal No. 6588 of 2025 filed by Saikiran Parmeshwar Bhatnase
 ---

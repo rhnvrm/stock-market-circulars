@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ASTRON
 tags:
-- shareholding-pattern
-- listing
 - astron-multigrain
-- promoter-holding
-- public-holding
-- reg-31
+- listing
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Astron Multigrain Limited
 ---
 

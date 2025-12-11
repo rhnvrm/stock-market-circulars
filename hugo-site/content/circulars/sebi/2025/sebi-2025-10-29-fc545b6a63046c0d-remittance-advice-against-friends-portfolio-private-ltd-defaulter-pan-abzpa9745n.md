@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- remittance-advice
-- recovery-certificate
 - defaulter
+- demand-notice
 - enforcement
-- media-video-ltd
 - friends-portfolio-private-ltd
+- media-video-ltd
+- recovery
 title: Remittance Advice against Friends Portfolio Private Ltd. in Media Video Ltd.
   Recovery Case
 ---

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - GOELCONS
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- goelcons
 title: Listing of Equity Shares of Goel Construction Company Limited
 ---
 

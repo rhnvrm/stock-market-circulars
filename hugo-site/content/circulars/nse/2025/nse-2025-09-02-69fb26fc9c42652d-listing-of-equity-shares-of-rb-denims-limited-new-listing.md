@@ -26,11 +26,10 @@ source: nse
 stocks:
 - RNBDENIMS
 tags:
-- new-listing
-- equity-shares
-- RNBDENIMS
 - capital-market
 - demat-trading
+- equity
+- listing
 title: Listing of Equity Shares of R&B Denims Limited (New Listing)
 ---
 

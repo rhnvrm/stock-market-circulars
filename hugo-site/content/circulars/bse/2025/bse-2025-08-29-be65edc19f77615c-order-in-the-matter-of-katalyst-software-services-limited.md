@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KATALYST
 tags:
-- enforcement-action
-- share-pledge
-- scheme-of-arrangement
-- debentures
 - corporate-governance
+- enforcement
 - fraud-allegations
+- ncd
+- scheme-of-arrangement
+- share-pledge
 title: SEBI Order in the matter of Katalyst Software Services Limited
 ---
 

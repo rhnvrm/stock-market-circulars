@@ -28,9 +28,9 @@ source: bse
 stocks:
 - INTEGPR
 tags:
-- forfeiture
 - corrigendum
-- equity-shares
+- equity
+- forfeiture
 - integrated-proteins
 - share-certificates
 title: Corrigendum to Forfeiture Notice of Integrated Proteins Ltd

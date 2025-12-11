@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CAPITALINFRA
 tags:
-- new-listing
-- preferential-allotment
-- units
+- listing
 - lock-in
-- capital-infra-trust
+- preferential-issue
+- units
 title: Listing of New Securities of Capital Infra Trust
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SEALMATIC
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- equity
+- listing
 - record-date
 - sme
-- listing
 title: Bonus Issue of Sealmatic India Ltd - Record Date 21st November 2025
 ---
 

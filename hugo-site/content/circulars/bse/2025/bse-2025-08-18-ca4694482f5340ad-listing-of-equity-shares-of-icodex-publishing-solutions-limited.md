@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ICODEX
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- trading-members
+- trading-member
 title: Listing of Equity Shares of ICODEX PUBLISHING SOLUTIONS LIMITED
 ---
 

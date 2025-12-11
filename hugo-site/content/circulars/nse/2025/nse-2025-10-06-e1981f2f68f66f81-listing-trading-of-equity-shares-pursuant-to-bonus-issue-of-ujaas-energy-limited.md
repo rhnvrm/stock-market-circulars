@@ -26,11 +26,10 @@ source: nse
 stocks:
 - UEL
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - corporate-action
-- UEL
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Ujaas Energy
   Limited
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SMSLIFE
 tags:
-- name-change
+- certificate
 - corporate-action
-- sms-lifesciences
 - haleos-labs
-- certificate-of-incorporation
+- name-change
+- sms-lifesciences
 title: Change in Name of SMS Lifesciences India Limited to Haleos Labs Limited
 ---
 

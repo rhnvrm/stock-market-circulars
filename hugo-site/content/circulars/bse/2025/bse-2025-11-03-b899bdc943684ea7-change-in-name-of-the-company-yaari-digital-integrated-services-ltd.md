@@ -25,9 +25,9 @@ source: bse
 stocks:
 - YAARI
 tags:
+- company-announcement
 - corporate-action
 - name-change
-- company-announcement
 title: Change in Name of the Company - Yaari Digital Integrated Services Ltd
 ---
 

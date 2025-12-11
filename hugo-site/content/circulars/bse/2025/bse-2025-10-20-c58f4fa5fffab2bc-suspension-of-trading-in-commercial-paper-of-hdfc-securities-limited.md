@@ -27,11 +27,11 @@ stocks:
 - HDFCSL
 tags:
 - commercial-paper
-- suspension
-- debt-market
+- corporate-action
+- debt-securities
 - hdfc-securities
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper of HDFC Securities Limited
 ---
 

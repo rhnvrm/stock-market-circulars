@@ -28,10 +28,10 @@ stocks:
 - HDBFSL
 tags:
 - debt-securities
-- non-convertible-debentures
-- listing
-- private-placement
 - hdb-financial-services
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of HDB Financial Services Limited
 ---
 

@@ -26,12 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '543253'
+- BECTORFOOD
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 - mrs-bectors
 title: New ISIN Number for MRS. Bectors Food Specialities Ltd - Sub-Division of Equity
   Shares

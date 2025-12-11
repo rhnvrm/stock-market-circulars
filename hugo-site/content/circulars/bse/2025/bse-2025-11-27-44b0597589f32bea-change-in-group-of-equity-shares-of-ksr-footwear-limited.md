@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544615'
+- KSR
 tags:
+- asm-stage
+- equity
 - group-change
-- equity-shares
-- b-group
-- trading-segment
+- trading
 title: Change in Group of Equity Shares of KSR Footwear Limited
 ---
 

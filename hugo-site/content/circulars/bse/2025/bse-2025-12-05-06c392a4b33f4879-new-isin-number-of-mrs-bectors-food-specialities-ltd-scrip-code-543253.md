@@ -28,11 +28,10 @@ source: bse
 stocks:
 - MRSBECTOR
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
-- mrs-bectors
+- equity
+- face-value-change
+- isin
 title: 'New ISIN Number of MRS. BECTORS FOOD SPECIALITIES LTD (Scrip Code: 543253)'
 ---
 

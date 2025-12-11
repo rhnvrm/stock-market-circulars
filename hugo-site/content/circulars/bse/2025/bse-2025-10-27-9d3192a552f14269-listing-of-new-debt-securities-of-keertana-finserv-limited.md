@@ -29,10 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- keertana-finserv
+- ncd
 - private-placement
-- debentures
-- new-listing
 title: Listing of New Debt Securities of Keertana Finserv Limited
 ---
 

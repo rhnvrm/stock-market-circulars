@@ -25,12 +25,11 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/COM69390.pdf
 severity: medium
 source: nse
 stocks:
-- ELECMBL
+- ELECTRICITYFUTURES
 tags:
-- electricity-futures
 - ddr-methodology
+- derivatives
 - settlement-procedure
-- commodity-derivatives
 - weekend-expiry
 title: Final Settlement (DDR) Procedure for Monthly Electricity Futures in case of
   Last Calendar Day of the Expiry Month Falling on a Sunday

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TRADEWING
 tags:
-- x-group
+- asm-stage
 - group-change
-- trade-wings
-- trading-restrictions
 - scrip-509953
+- trading-restrictions
 title: Trade Wings Ltd. Equity Shares to Move to 'X' Group from October 15, 2025
 ---
 

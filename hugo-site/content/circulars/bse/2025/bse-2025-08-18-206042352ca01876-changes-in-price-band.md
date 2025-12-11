@@ -39,10 +39,10 @@ stocks:
 - UMIYA
 - UNIVERSAL
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 14 Scrips Effective August 19, 2025
 ---
 

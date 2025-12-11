@@ -26,10 +26,10 @@ source: bse
 stocks:
 - MARBLE
 tags:
-- equity-listing
-- preferential-issue
-- new-securities
+- equity
 - marble-city-india
+- new-securities
+- preferential-issue
 title: Listing of Securities MARBLE CITY INDIA LIMITED - 877,800 Equity Shares
 ---
 

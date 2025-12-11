@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GALLARDSTEEL
+- GALLARD
 tags:
+- gallard-steel
 - group-change
 - segment-transfer
-- sme-ipo
-- trading-segment
-- gallard-steel
+- sme
+- trading
 title: Change in Group of Equity Shares of GALLARD STEEL LIMITED
 ---
 

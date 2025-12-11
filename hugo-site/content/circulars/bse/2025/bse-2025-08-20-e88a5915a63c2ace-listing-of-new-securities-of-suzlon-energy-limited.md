@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SUZLON
 tags:
-- suzlon-energy
+- conversion
+- equity
 - new-securities
-- equity-shares
 - rights-issue
-- share-conversion
+- suzlon-energy
 title: Listing of New Securities of Suzlon Energy Limited
 ---
 

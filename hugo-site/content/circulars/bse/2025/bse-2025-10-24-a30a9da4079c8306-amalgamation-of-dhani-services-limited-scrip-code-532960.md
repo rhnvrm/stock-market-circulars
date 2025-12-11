@@ -28,14 +28,11 @@ source: bse
 stocks:
 - DHANISERVIC
 tags:
-- amalgamation
-- merger
-- scheme-of-arrangement
+- allotment
 - nclt
-- trading-suspension
 - record-date
-- share-allotment
-- corporate-restructuring
+- scheme-of-arrangement
+- suspension
 title: 'Amalgamation of Dhani Services Limited (Scrip Code: 532960) with Yaari Digital
   Integrated Services Limited'
 ---

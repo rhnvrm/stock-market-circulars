@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- bse-index
+- constituent-selection
+- index-change
 - indices
 - methodology
-- bse-500
 - shariah
-- constituent-selection
-- rebalancing
 title: Change in Methodology to the BSE Indices - BSE 500 and BSE 500 Shariah Updates
 ---
 

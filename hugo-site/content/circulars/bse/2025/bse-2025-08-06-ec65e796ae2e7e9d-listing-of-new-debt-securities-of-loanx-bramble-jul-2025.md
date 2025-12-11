@@ -27,8 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - loanx-bramble
+- private-placement
 - ptc
 title: Listing of new debt securities of LoanX Bramble Jul 2025
 ---

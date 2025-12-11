@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MIDWEST
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
-- public-issue
 - midwest-limited
+- public-issue
 title: Public Issue of Midwest Limited - Allocation to Anchor Investors
 ---
 

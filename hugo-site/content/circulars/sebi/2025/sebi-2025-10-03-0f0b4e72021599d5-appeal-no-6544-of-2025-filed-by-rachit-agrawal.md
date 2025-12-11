@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - MONSANTO
 tags:
-- rti-appeal
-- right-to-information
-- listing-agreement
+- appeal
 - bse
-- appellate-authority
 - information-disclosure
+- listing-agreement
+- rti
 title: Appeal No. 6544 of 2025 filed by Rachit Agrawal
 ---
 

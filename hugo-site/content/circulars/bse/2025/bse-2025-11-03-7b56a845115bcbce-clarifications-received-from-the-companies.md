@@ -29,12 +29,12 @@ stocks:
 - LODHA
 - MEGASTAR
 tags:
-- volume-movement
-- price-clarification
-- surveillance
 - disclosure
+- market-operations
+- price-clarification
+- price-movement
 - regulation-30
-- market-driven
+- surveillance
 title: Clarifications received from the companies
 ---
 

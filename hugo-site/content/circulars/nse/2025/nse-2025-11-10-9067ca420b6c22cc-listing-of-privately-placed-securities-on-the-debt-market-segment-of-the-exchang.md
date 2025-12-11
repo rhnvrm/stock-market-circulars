@@ -37,20 +37,19 @@ stocks:
 - GODREJIND
 - GODREJCP
 tags:
-- listing
+- abml
+- acel
+- aifl
+- bsl
 - commercial-paper
-- debt-market
+- debt-securities
+- gcpl
+- gil
+- hsl
+- jpl
+- ksl
+- listing
 - private-placement
-- AIFL
-- ABML
-- IIFL
-- KSL
-- ACEL
-- BSL
-- HSL
-- JPL
-- GIL
-- GCPL
 title: Listing of Privately Placed Debt Securities - Commercial Papers of Multiple
   Companies
 ---

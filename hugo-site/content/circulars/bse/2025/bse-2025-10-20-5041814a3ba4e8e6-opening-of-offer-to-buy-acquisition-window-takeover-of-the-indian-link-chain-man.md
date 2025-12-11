@@ -28,14 +28,11 @@ source: bse
 stocks:
 - ILCML
 tags:
-- open-offer
-- takeover
-- acquisition
 - change-in-control
-- SAST
-- ILCML
-- public-shareholders
 - mandatory-offer
+- sast
+- shareholding-pattern
+- takeover
 title: Open Offer by Mr. Rajendra Kamalakant Chodankar for Acquisition of 26% Equity
   in The Indian Link Chain Manufacturers Limited
 ---

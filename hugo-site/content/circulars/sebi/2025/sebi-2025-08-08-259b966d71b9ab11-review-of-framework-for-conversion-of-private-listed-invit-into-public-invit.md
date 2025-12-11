@@ -26,13 +26,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- invit
-- infrastructure-investment-trusts
-- private-to-public-conversion
-- sponsor-requirements
 - follow-on-offer
+- infrastructure-investment-trusts
+- invit
 - lock-in
 - minimum-unitholding
+- private-to-public-conversion
+- sponsor-requirements
 title: Review of Framework for conversion of Private Listed InvIT into Public InvIT
 ---
 

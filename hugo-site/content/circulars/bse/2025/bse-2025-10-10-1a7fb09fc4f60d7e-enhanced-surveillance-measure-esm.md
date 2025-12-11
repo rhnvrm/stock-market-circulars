@@ -43,7 +43,7 @@ stocks:
 - INDOKEM
 - KALPACOM
 - KESAR
-- KUBERUDYOG
+- KUBERJI
 - LANDMARC
 - NIDHIGRAN
 - OMNIAXS
@@ -61,25 +61,24 @@ stocks:
 - WELSPUN
 - YASH
 - ACTIVECLO
-- AKIINDIA
+- AKI
 - ALFAICA
 - APTPACK
 - ATENPAPER
 - BHAGAWATI
-- BNRUDYOG
+- BNRUDY
 - BRAHMAPUT
 - CUBEXTUBE
 - DEVLABTECH
 - DIGICONT
-- DIGJAM
+- DIGJAMLMTD
 - DREAMFOLK
 - ENBEETRAD
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
-- trading
+- asm-stage
 - compliance
+- surveillance
+- trading
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and Stage Changes
 ---
 

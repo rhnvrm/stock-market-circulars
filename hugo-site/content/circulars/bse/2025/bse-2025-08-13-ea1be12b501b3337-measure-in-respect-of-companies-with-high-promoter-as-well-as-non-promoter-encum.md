@@ -32,12 +32,11 @@ stocks:
 - THYROCARE
 - TULSYAN
 tags:
-- surveillance
 - encumbrance
 - sast
 - sebi-regulation
-- trading-measures
-- promoter-encumbrance
+- surveillance
+- trading-operations
 title: Measure for Companies with High Promoter and Non-Promoter Encumbrance under
   SEBI SAST Regulation
 ---

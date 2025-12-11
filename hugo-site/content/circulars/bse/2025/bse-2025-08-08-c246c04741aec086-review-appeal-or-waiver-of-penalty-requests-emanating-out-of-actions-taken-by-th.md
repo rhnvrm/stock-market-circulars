@@ -24,11 +24,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- penalty
 - appeal
+- corporate-governance
 - member-committee
-- regulatory-action
-- governance
+- penalty
+- regulatory
 - sebi
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Member Committee

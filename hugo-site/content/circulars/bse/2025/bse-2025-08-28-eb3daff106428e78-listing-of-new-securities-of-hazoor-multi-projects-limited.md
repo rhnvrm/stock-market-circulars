@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HAZOOR
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-issue
-- lock-in
+- conversion
+- equity
 - hazoor-multi-projects
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Hazoor Multi Projects Limited
 ---
 

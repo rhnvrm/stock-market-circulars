@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- fund-of-funds
-- scheme-name-change
-- icici-prudential
+- arbitrage-fund
 - debt-oriented
-- arbitrage
-- sebi-framework
+- fund-of-funds
+- icici-prudential
+- mutual-fund
+- name-change
+- regulatory-framework
 title: Change in Scheme Name of ICICI Prudential Income plus Arbitrage Active FOF
 ---
 

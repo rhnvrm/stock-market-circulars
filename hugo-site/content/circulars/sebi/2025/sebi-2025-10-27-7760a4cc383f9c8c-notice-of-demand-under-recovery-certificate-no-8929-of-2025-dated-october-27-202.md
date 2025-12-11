@@ -27,12 +27,10 @@ source: sebi
 stocks:
 - SETUBANDH
 tags:
-- recovery-certificate
 - demand-notice
 - enforcement
 - prakash-constrowell
-- setubandhan-infrastructure
-- recovery-proceedings
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8929 of 2025 against Prafulla
   Subhash Chandra Bhat
 ---

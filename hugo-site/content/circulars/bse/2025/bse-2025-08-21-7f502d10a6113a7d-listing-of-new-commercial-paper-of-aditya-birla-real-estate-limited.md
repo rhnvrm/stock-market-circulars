@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ABREL
 tags:
-- commercial-paper
-- private-placement
-- debt-listing
 - aditya-birla-real-estate
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of Commercial Paper by Aditya Birla Real Estate Limited
 ---
 

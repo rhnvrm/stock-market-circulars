@@ -42,7 +42,7 @@ stocks:
 - DELTACORP
 - ARVIND
 - LLOYDS
-- KPENERGY
+- KPEL
 - SUNTV
 - KVB
 - KPIGREEN
@@ -52,13 +52,12 @@ stocks:
 - LINDE
 - GODFREY
 tags:
-- slb
-- securities-lending-borrowing
-- dividend
+- book-closure
+- collateral
 - corporate-action
+- dividend
 - record-date
-- ex-date
-- shut-period
+- slb
 title: Corporate Action in SLB Securities - Dividend Record Dates and Trading Shut
   Periods
 ---

@@ -29,9 +29,6 @@ stocks:
 tags:
 - corporate-action
 - name-change
-- symbol-change
-- TIMESGTY
-- TEAMGTY
 title: Change in name and symbol of Times Guaranty Limited
 ---
 

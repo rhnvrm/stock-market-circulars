@@ -26,16 +26,14 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- RTI
-- right-to-information
-- retail-traders
-- derivatives
-- F&O
-- trading-losses
-- API-trading
 - algo-trading
-- static-IP
-- appellate-authority
+- appeal
+- derivatives
+- f&o
+- retail-traders
+- rti
+- static-ip
+- trading-losses
 title: Appeal No. 6587 of 2025 filed by Sudhanshu
 ---
 

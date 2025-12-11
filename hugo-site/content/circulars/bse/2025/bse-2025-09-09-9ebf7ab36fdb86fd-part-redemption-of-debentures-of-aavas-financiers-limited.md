@@ -27,12 +27,12 @@ source: bse
 stocks:
 - AAVAS
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt-segment
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of AAVAS FINANCIERS LIMITED - Reduced Face Value
   Effective September 11, 2025
 ---

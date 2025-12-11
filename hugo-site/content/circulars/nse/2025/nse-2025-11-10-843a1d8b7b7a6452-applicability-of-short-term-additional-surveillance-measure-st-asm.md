@@ -29,11 +29,10 @@ stocks:
 - REFRACTORY
 - RPEL
 tags:
-- surveillance
-- margin-requirements
-- additional-surveillance-measure
-- st-asm
+- asm-stage
+- margin
 - risk-management
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

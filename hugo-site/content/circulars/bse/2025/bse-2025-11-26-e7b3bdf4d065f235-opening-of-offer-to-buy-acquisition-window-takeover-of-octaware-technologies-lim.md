@@ -27,13 +27,10 @@ source: bse
 stocks:
 - OCTAWARE
 tags:
+- equity
+- sast
 - takeover
-- open-offer
-- acquisition
-- octaware
 - walking-tree-technologies
-- SEBI-SAST
-- equity-shares
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Octaware Technologies
   Limited
 ---

@@ -27,16 +27,16 @@ stocks:
 - A1
 - ALPHALOGIC
 - GOGIA
-- PATRONEXIM
+- PATRON
 - SPINAROO
-- VTM
+- VTMLTD
 - WARDWIZARD
 - AMBOAGRI
 tags:
-- long-term-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

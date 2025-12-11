@@ -25,14 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- depository
+- encumbrance
+- extension
 - margin-obligations
-- pledge
-- re-pledge
-- depository-system
-- timeline-extension
-- sebi-circular
-- cdsl
-- nsdl
+- sebi
 title: Extension of Timeline for SEBI Margin Pledge/Re-pledge Implementation to October
   10, 2025
 ---

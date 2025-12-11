@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- sip
 - aditya-birla
-- bse-star-mf
-- index-funds
+- index-fund
+- mutual-fund
+- sip
 title: Introduction of Daily SIP for Aditya Birla Mutual Fund Schemes on BSE StAR
   MF Platform
 ---

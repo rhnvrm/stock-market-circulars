@@ -29,8 +29,8 @@ tags:
 - debt-securities
 - listing
 - ncd
-- private-placement
 - nirmal-bang
+- private-placement
 title: Listing of New Debt Securities of Nirmal Bang Securities Private Limited
 ---
 

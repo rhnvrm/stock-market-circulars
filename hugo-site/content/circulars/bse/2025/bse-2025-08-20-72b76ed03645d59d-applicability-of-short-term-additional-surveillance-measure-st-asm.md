@@ -32,10 +32,10 @@ stocks:
 - SIGNPOST
 - SPINAROO
 tags:
-- st-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -26,12 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- t-bills
-- treasury-bills
-- debt-market
+- debt-securities
 - maturity
 - redemption
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 91TB281125
 ---
 

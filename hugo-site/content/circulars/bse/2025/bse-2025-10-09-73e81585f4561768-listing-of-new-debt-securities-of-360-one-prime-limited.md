@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 360OPL
 tags:
+- 360-one-prime
 - debt-securities
 - listing
+- ncd
 - private-placement
-- 360-one-prime
-- non-convertible-debentures
 title: Listing of New Debt Securities of 360 ONE Prime Limited
 ---
 

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - BFSL
 tags:
-- commercial-paper
-- debt-segment
-- private-placement
-- listing
 - bajaj-financial-securities
-- BFSL
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Bajaj Financial Securities Limited
 ---
 

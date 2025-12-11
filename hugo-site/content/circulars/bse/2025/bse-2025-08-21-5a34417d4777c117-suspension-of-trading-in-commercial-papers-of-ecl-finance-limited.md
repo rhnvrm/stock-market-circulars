@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ECLFINANCE
 tags:
-- suspension
 - commercial-paper
-- debt
-- ecl-finance
+- debt-securities
 - maturity
+- suspension
 title: Suspension of Trading in Commercial Papers of ECL Finance Limited
 ---
 

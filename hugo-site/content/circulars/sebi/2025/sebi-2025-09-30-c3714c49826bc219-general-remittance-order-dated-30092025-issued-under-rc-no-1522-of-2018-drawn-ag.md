@@ -25,11 +25,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- demand-notice
 - enforcement
-- recovery
-- remittance-order
-- recovery-certificate
 - oasis-media-matrix
+- recovery
 title: General Remittance Order dated 30.09.2025 issued under RC No. 1522 of 2018
   against Vijay H Shah in Oasis Media Matrix Limited matter
 ---

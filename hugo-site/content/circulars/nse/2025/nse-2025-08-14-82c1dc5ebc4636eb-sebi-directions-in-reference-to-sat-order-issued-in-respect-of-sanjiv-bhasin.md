@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sebi-directions
-- sat-order
 - account-unfreezing
-- trading-restrictions
+- appeal
 - compliance
 - investigation
+- sebi-order
+- trading-restrictions
 title: SEBI directions in reference to SAT order issued in respect of Sanjiv Bhasin
 ---
 

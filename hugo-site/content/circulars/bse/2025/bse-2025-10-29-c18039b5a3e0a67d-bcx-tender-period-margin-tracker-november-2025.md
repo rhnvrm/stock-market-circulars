@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margins
-- tender-period
-- gold
-- silver
-- futures
 - bcx
+- derivatives
+- futures-options
+- gold
+- margins
+- silver
+- tender-offer
 title: BCX – Tender Period Margin Tracker – November 2025
 ---
 

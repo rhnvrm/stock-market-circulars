@@ -26,10 +26,9 @@ stocks:
 - DIAL
 tags:
 - debt-securities
+- delhi-international-airport
 - listing
 - private-placement
-- delhi-international-airport
-- dial
 title: Listing of New Debt Securities of Delhi International Airport Limited
 ---
 

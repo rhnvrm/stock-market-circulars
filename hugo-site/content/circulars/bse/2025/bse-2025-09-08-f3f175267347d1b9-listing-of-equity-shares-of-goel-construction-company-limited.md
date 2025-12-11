@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOELCON
 tags:
-- equity-shares
+- construction
+- demat
+- equity
 - listing
 - lock-in
-- demat
-- construction
 title: Listing of Equity Shares of GOEL CONSTRUCTION COMPANY LIMITED
 ---
 

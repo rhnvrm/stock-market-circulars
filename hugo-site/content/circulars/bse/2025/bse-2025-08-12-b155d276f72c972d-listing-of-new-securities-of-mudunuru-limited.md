@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MUDUNURU
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - lock-in
-- mudunuru-limited
+- preferential-issue
 title: Listing of New Securities of Mudunuru Limited - 4 Lakh Equity Shares
 ---
 

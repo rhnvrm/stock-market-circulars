@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
-- offshore-fund
-- edelweiss
 - china-equity
+- edelweiss
+- mutual-fund
+- offshore-fund
 - overseas-investment
+- subscription-limit
 title: Edelweiss Greater China Equity Off-Shore Fund Subscription Limit Increased
   to INR 25 Lakh per PAN
 ---

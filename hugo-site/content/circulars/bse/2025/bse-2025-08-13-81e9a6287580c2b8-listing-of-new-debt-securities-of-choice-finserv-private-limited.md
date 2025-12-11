@@ -26,9 +26,8 @@ stocks:
 - CHOICE FINSERV
 tags:
 - debt-securities
-- private-placement
 - listing
-- choice-finserv
+- private-placement
 title: Listing of new debt securities of CHOICE FINSERV PRIVATE LIMITED
 ---
 

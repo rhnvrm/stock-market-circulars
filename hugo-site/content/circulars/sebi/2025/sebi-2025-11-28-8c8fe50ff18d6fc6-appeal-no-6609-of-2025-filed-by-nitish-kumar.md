@@ -27,12 +27,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
+- appeal
 - complaint-handling
-- nse
-- scores-portal
 - information-disclosure
+- nse
+- rti
+- scores-portal
 title: Appeal No. 6609 of 2025 filed by Nitish Kumar - RTI Application Partial Rejection
 ---
 

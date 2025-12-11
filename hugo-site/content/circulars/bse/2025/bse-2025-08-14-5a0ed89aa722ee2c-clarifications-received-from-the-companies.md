@@ -28,12 +28,11 @@ stocks:
 - APOLLOHOSP
 - NYKAA
 tags:
-- clarifications
-- price-movement
-- volume-movement
-- surveillance
+- clarification
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

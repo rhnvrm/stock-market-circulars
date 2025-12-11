@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ALLCARGO
 tags:
-- group-change
-- equity-shares
-- allcargo-logistics
-- trading-permitted
 - a-group
-- t-group
+- asm-stage
+- equity
+- group-change
+- trading-permitted
 title: Change in Group of Equity Shares of ALLCARGO LOGISTICS LTD
 ---
 

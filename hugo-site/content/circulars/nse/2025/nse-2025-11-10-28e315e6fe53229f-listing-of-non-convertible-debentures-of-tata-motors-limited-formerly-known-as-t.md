@@ -28,12 +28,12 @@ source: nse
 stocks:
 - TMCV
 tags:
-- listing
-- non-convertible-debentures
-- tata-motors
-- scheme-of-arrangement
-- debt-securities
 - capital-market
+- debt-securities
+- listing
+- ncd
+- scheme-of-arrangement
+- tata-motors
 title: Listing of Non-Convertible Debentures of Tata Motors Limited (Formerly TML
   Commercial Vehicles Limited) on Capital Market Segment
 ---

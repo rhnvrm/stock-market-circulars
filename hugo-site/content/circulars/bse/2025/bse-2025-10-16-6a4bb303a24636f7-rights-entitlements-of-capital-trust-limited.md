@@ -27,12 +27,11 @@ source: bse
 stocks:
 - CAPTRU
 tags:
-- rights-issue
-- rights-entitlements
 - capital-trust
-- renunciation
-- trading
 - equity
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Capital Trust Limited
 ---
 

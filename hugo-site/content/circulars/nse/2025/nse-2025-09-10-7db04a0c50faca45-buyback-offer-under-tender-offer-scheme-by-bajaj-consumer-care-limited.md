@@ -27,10 +27,9 @@ stocks:
 - BAJAJCON
 tags:
 - buyback
+- equity
 - tender-offer
 - web-based-bidding
-- bajaj-consumer-care
-- equity-shares
 title: Buyback Offer under Tender Offer scheme by Bajaj Consumer Care Limited
 ---
 

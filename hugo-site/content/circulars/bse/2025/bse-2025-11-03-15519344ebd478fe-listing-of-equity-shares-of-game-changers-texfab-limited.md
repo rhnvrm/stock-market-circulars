@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TRADEUNO
 tags:
-- listing
-- equity-shares
-- sme
-- new-listing
+- equity
 - game-changers-texfab
+- listing
+- sme
 title: Listing of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

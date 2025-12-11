@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- member-admission
-- trading-member
-- equity-derivatives
 - cash-segment
+- derivatives
+- member-admission
 - membership
+- trading-member
 title: Admission of Member - Veriqus Partners Private Limited
 ---
 

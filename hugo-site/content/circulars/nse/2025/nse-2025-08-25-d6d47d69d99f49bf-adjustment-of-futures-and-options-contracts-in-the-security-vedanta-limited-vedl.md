@@ -26,11 +26,11 @@ source: nse
 stocks:
 - VEDL
 tags:
-- futures
-- options
-- dividend-adjustment
-- contract-modification
 - clearing
+- contract-adjustment
+- contract-modification
+- futures-options
+- options
 - settlement
 title: Adjustment of Futures and Options contracts in VEDANTA LIMITED (VEDL)
 ---

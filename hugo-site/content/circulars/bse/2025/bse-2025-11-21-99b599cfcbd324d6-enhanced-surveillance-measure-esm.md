@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- AVIPOLYMERS
+- AVI
 - SECUREKLOUD
 - UTLIND
 - AAREYDRG
@@ -57,7 +57,7 @@ stocks:
 - AUTOPINS
 - AVIPRODUCT
 - CLINITECH
-- CLNENERGY
+- CLN
 - DAVINSONS
 - DHANASHREE
 - DRLALCHAND
@@ -70,13 +70,11 @@ stocks:
 - SOBHAGYAME
 - SONIMEDI
 - SOUTHASIAN
-- VIJIFINANCE
+- VIJIFIN
 tags:
-- esm
-- enhanced-surveillance
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Movement of Securities Across Stages
 ---
 

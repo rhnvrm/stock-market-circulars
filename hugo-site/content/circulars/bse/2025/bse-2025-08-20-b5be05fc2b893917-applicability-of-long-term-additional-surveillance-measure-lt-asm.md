@@ -30,11 +30,9 @@ stocks:
 - STALLION
 - ACHYUT
 tags:
-- surveillance
-- ASM
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

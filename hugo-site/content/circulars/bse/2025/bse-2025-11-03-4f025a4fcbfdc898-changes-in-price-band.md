@@ -36,17 +36,17 @@ stocks:
 - SHLOKKA
 - SIHORAIND
 - SKMINERALS
-- TCM
+- TCMLMTD
 - TELECANOR
 - TRADEWELL
 - UHZAVERI
 - YAANENT
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-operations
 title: Changes in Price Band for 16 Securities Effective November 4, 2025
 ---
 

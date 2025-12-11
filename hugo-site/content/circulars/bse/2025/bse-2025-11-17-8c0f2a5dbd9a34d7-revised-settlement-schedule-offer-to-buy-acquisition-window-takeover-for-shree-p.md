@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SHREE PACETRONIX
+- SHREEPAC
 tags:
-- takeover
-- settlement
-- acquisition-window
-- shree-pacetronix
+- demat
+- otb
 - revised-schedule
-- demat-delivery
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   SHREE PACETRONIX LIMITED
 ---

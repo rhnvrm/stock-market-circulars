@@ -28,10 +28,10 @@ stocks:
 - SUNDRMCLAY
 - ABCAPITAL
 tags:
-- trading-suspension
-- non-convertible-debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - LIC Housing Finance,
   Sundaram Clayton, and Aditya Birla Capital
 ---

@@ -28,11 +28,9 @@ source: bse
 stocks:
 - INLINCH
 tags:
-- takeover
-- open-offer
-- acquisition
-- sebi-sast
 - change-in-control
+- sast
+- takeover
 title: Opening of Offer to Buy (Takeover) - The Indian Link Chain Manufacturers Limited
   by Rajendra Kamalakant Chodankar
 ---

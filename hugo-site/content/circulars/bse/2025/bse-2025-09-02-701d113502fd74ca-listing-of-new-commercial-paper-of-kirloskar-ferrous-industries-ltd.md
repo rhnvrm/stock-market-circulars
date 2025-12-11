@@ -27,7 +27,7 @@ stocks:
 - KIRLOSFERO
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kirloskar-ferrous
 - private-placement
 title: Listing of Commercial Paper of Kirloskar Ferrous Industries Ltd

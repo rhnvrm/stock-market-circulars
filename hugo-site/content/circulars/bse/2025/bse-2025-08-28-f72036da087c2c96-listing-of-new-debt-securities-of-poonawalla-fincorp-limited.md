@@ -25,11 +25,10 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
+- crisil-aaa
 - debt-securities
 - listing
-- poonawalla-fincorp
 - private-placement
-- crisil-aaa
 title: Listing of new debt securities of POONAWALLA FINCORP LIMITED
 ---
 

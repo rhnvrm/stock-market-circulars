@@ -28,12 +28,10 @@ source: nse
 stocks:
 - KORE
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measure
-- KORE
 title: Applicability of Enhanced Surveillance Measure (ESM) - November 2025
 ---
 

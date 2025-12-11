@@ -36,20 +36,20 @@ stocks:
 - PFL
 - RRVL
 tags:
+- 360-one-wam
+- bajaj-financial-securities
 - commercial-paper
-- trading-suspension
-- redemption
-- debt-segment
+- debt-securities
+- ecl-finance
+- hdfc-securities
+- igh-holdings
+- mahindra-lifespace
+- poonawalla-fincorp
 - record-date
-- ECL-Finance
-- Standard-Chartered-Capital
-- IGH-Holdings
-- HDFC-Securities
-- 360-ONE-WAM
-- Mahindra-Lifespace
-- Bajaj-Financial-Securities
-- Poonawalla-Fincorp
-- Reliance-Retail-Ventures
+- redemption
+- reliance-retail-ventures
+- standard-chartered-capital
+- suspension
 title: Suspension of Trading in Commercial Paper - 9 Companies
 ---
 

@@ -24,21 +24,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ECL Finance
-- Standard Chartered Capital
-- IGH Holdings
-- HDFC Securities
-- 360 ONE WAM
-- Mahindra Lifespace Developers
-- Bajaj Financial Securities
-- Poonawalla Fincorp
-- Reliance Retail Ventures
+- ECL FINANCE
+- STANDARD CHARTERED CAPITAL
+- IGH HOLDINGS
+- HDFC SECURITIES
+- 360ONE
+- MAHLIFE
+- BAJAJ FINANCIAL SECURITIES
+- POONAWALLA
+- RELIANCE RETAIL VENTURES
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

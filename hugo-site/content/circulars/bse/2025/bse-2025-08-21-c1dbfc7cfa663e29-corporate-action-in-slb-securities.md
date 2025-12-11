@@ -39,12 +39,12 @@ stocks:
 - GODFREY
 - GUJALKALI
 tags:
+- bonus
+- book-closure
 - corporate-action
 - dividend
-- bonus-issue
-- slb-securities
-- book-closure
-- ex-date
+- record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issues for Multiple
   Companies
 ---

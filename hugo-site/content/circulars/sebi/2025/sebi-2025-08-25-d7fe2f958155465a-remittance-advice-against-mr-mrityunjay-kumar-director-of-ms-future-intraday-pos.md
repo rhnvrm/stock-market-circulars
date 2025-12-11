@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- director-liability
 - enforcement
+- investment-adviser
 - recovery
-- investment-advisory
 - unregistered-services
 - violation
-- director-liability
 title: Remittance Advice - Mr. Mrityunjay Kumar (Director, Future Intraday Positional
   Long Term Capital OPC Pvt Ltd) - Recovery Certificate No. 8770/2025
 ---

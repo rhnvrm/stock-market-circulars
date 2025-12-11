@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-holiday
-- eid-e-milad
-- mumbai-suburban
-- public-holiday
-- negotiable-instruments-act
 - communal-harmony
+- eid-e-milad
+- holiday
+- mumbai-suburban
+- negotiable-instruments-act
+- public-holiday
 title: Change in Trading Holiday - Eid-e-Milad shifted from September 5 to September
   8, 2025 for Mumbai Suburban District
 ---

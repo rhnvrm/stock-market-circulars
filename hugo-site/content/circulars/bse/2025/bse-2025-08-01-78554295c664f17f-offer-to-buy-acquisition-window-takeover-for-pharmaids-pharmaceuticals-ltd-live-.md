@@ -26,12 +26,9 @@ source: bse
 stocks:
 - PHARMAID
 tags:
-- takeover
-- acquisition
+- equity
 - otb
-- offer-to-buy
-- equity-trading
-- pharmaids
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for PHARMAIDS PHARMACEUTICALS
   LTD - Live Activities Schedule
 ---

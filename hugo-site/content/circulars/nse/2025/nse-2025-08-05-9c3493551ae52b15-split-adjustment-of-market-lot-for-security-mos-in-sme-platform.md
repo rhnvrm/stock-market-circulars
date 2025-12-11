@@ -26,10 +26,10 @@ source: nse
 stocks:
 - MOS
 tags:
-- stock-split
-- market-lot-adjustment
-- sme-platform
 - corporate-action
+- market-lot
+- sme
+- split
 - trading
 title: 'SPLIT: Adjustment of Market Lot for MOS UTILITY LIMITED in SME Platform'
 ---

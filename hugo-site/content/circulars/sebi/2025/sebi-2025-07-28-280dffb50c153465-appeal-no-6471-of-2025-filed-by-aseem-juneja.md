@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- research-analyst
 - investment-adviser
 - regulatory-clarification
-- sebi-regulations
+- regulatory-framework
+- research-analyst
+- rti
 title: RTI Appeal Dismissed - Research Analyst Clarification Request Deemed Opinion-Seeking
 ---
 

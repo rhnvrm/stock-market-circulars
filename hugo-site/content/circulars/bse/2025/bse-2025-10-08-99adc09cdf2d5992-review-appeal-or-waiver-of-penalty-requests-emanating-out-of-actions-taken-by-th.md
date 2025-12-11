@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- appeal
+- compliance
+- grievance-redressal
 - member-committee
 - penalty
-- appeal
-- review
-- waiver
-- trading-members
-- compliance
 - regulatory-procedure
-- grievance-redressal
+- review
+- trading-member
+- waiver
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Member Committee (MC)
 ---

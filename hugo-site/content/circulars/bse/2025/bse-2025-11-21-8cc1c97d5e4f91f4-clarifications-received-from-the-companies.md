@@ -31,12 +31,12 @@ stocks:
 - SECURECLOUD
 - VLEGIT
 tags:
-- price-movement
-- surveillance
 - clarification
 - disclosure
+- lodr
+- price-movement
+- surveillance
 - transparency
-- sebi-lodr
 title: Clarifications received from the companies
 ---
 

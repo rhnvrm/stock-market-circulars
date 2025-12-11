@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - SECUR
 tags:
-- recovery-certificate
-- notice-of-demand
-- market-manipulation
+- demand-notice
 - enforcement
-- SecUR-Credentials
-- recovery-proceedings
+- market-operations
+- recovery
+- secur-credentials
 title: Notice of Demand under Recovery Certificate No. 8945 of 2025 Against Pankaj
   Rameshchandra Vyas and Vaishali Pankaj Vyas
 ---

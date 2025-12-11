@@ -25,14 +25,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
-- rms
-- collateral
-- clearing-corporation
 - bank-guarantee
+- clearing-corporation
+- collateral
 - fixed-deposits
 - iccl
-- sebi-circular
+- rms
+- sebi
+- settlement
 title: Revised List of Eligible Banks for Collaterals and Exposure of Clearing Corporations
 ---
 

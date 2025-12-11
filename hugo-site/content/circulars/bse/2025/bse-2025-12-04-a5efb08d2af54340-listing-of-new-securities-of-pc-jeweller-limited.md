@@ -28,12 +28,11 @@ source: bse
 stocks:
 - PCJEWELLER
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- non-promoters
 - lock-in
-- pc-jeweller
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of PC Jeweller Limited - 18.05 Crore Equity Shares
   on Preferential Basis
 ---

@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- tata-amc
-- bse-star-mf
 - index-fund
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
+- tata-amc
 title: Availability of TATA MUTUAL FUND for ongoing transactions on BSE StAR MF Platform
 ---
 

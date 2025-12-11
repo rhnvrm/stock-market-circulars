@@ -27,16 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
-- compliance
-- sebi
 - amcs
-- rtas
-- depositories
-- depository-participants
-- timeline-extension
+- compliance
+- depository
+- extension
+- mutual-fund
+- nomination
 - regulatory-deferment
+- rtas
+- sebi
 title: Deferment of Phase III Implementation for Nomination Facilities in Mutual Funds
 ---
 

@@ -29,12 +29,11 @@ source: bse
 stocks:
 - LLOYDSME
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- lloyds-metals
+- preferential-issue
 title: Listing of 3.1 Million Equity Shares of Lloyds Metals and Energy Limited
 ---
 

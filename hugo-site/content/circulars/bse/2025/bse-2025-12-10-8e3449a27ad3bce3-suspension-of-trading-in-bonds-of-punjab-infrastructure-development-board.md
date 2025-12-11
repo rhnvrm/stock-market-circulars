@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PIDB
 tags:
-- trading-suspension
-- bonds
-- debt-market
-- redemption
+- bond
+- debt-securities
 - interest-payment
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Punjab Infrastructure Development Board
 ---
 

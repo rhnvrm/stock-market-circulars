@@ -25,11 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
 - dismissed
 - information-disclosure
-- appellate-authority
+- rti
 title: Appeal No. 6541 of 2025 filed by Prabir Guha
 ---
 

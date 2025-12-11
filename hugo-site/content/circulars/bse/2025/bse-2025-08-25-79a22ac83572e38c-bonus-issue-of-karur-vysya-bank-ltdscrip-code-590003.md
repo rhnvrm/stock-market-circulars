@@ -26,10 +26,9 @@ source: bse
 stocks:
 - KARURVYSYA
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- karur-vysya-bank
-- equity-shares
+- equity
 title: Bonus Issue of Karur Vysya Bank Ltd - 1:5 Ratio
 ---
 

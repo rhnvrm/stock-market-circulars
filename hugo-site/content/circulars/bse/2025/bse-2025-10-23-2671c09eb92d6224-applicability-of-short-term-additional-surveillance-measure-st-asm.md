@@ -25,8 +25,8 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- CHOKSIASIA
-- GFL
+- CHOKSI
+- GFLLIMITED
 - GKENERGY
 - GOLKUNDAJEW
 - JAYANTINFRA
@@ -44,18 +44,16 @@ stocks:
 - CARGOTRANS
 - DYNAMIC
 - ENVAIRELEC
-- JINDALPHOTO
+- JINDALPHOT
 - KNOWLEDGE
 - LYONSCORP
 - NIRAJCEMENT
 - SHIVTEX
 - TVSELECT
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

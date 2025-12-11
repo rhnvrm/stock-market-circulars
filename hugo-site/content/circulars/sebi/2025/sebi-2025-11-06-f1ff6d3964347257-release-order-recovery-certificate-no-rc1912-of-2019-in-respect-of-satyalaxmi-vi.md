@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
-- recovery-proceedings
-- svaraj-trading-agencies
+- recovery
+- release
 - satyalaxmi-vinimay
-- release-order
+- svaraj-trading-agencies
 title: Release Order - Recovery Certificate No. RC1912 of 2019 in respect of Satyalaxmi
   Vinimay Pvt. Ltd.
 ---

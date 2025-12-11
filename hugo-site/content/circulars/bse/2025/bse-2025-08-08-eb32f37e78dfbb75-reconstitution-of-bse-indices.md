@@ -37,9 +37,8 @@ stocks:
 - KIZI
 - AFCOM
 tags:
-- index-reconstitution
-- bse-ipo-index
-- bse-sme-ipo-index
+- bse-index
+- index-change
 - monthly-rebalancing
 title: BSE Indices Monthly Reconstitution - IPO and SME IPO Indices Changes
 ---

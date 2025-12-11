@@ -28,11 +28,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- equity-derivatives
-- trading-infrastructure
-- eti-messaging
-- news-broadcast
 - contract-activation
+- derivatives
+- eti-messaging
+- market-infrastructure
+- news-broadcast
 - technical-update
 title: Reserved Contracts (Strikes) in Equity Derivatives - Intraday Activation Messaging
 ---

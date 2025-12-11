@@ -25,9 +25,9 @@ source: nse
 stocks:
 - VCCL
 tags:
-- listing
 - debt-securities
-- non-convertible-debentures
+- listing
+- ncd
 - vedika-credit-capital
 title: Listing of Vedika Credit Capital Limited debt securities on NSE
 ---

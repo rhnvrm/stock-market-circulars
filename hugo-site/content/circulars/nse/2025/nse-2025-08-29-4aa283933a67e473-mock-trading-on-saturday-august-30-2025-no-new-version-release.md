@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
 - capital-market
-- trading-session
-- NEAT+
-- software-migration
 - market-operations
+- mock-trading
+- neat+
+- software-migration
+- trading-session
 title: Mock trading on Saturday, August 30, 2025 - No new version release
 ---
 

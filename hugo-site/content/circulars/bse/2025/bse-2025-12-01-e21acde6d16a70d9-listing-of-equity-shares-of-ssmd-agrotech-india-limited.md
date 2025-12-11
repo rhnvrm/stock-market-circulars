@@ -27,11 +27,9 @@ source: bse
 stocks:
 - SSMD
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- SSMD
 title: Listing of Equity Shares of SSMD AGROTECH INDIA LIMITED
 ---
 

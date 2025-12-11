@@ -25,16 +25,16 @@ severity: medium
 source: bse
 stocks:
 - ADITYA BIRLA
-- INFOSYS
-- NESTLE INDIA
+- INFY
+- NESTLEIND
 - NTPC
 - TATA CHEMICA
 - TORRENT PHAR
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: BSE Demat Auction Settlement No. 701 - August 26, 2025
 ---
 

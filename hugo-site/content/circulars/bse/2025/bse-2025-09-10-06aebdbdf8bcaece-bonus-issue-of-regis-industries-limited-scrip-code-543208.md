@@ -27,11 +27,11 @@ source: bse
 stocks:
 - REGIS
 tags:
-- bonus-issue
-- equity-shares
-- trading-schedule
-- depository-system
+- bonus
+- depository
+- equity
 - record-date
+- trading-schedule
 title: 'Bonus issue of REGIS INDUSTRIES LIMITED (Scrip Code: 543208)'
 ---
 

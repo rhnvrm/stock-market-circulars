@@ -26,11 +26,8 @@ source: bse
 stocks:
 - RAMCHANDRA
 tags:
+- sast
 - takeover
-- open-offer
-- acquisition
-- RAMCHANDRA
-- SEBI-SAST
 title: Open Offer for Acquisition of 26% Stake in Ramchandra Leasing and Finance Limited
 ---
 

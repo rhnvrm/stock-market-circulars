@@ -26,11 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- new-listing
-- corporate-bonds
 title: Listing of New Debt Securities of Valencia and Mishal Ventures Private Limited
 ---
 

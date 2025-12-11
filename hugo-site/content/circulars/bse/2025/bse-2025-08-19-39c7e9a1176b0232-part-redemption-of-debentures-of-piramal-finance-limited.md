@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of PIRAMAL FINANCE LIMITED
 ---
 

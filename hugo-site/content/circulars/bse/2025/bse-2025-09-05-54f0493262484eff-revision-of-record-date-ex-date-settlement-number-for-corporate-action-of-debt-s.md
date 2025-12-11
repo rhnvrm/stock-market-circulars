@@ -29,13 +29,12 @@ stocks:
 - SBIN
 - PFC
 tags:
+- corporate-action
 - debt-securities
-- corporate-actions
 - interest-payment
+- record-date
 - redemption
 - settlement-holiday
-- record-date
-- ex-date
 title: Revision of Record Date and Ex-date for Debt Securities Corporate Actions Due
   to Settlement Holiday Change
 ---

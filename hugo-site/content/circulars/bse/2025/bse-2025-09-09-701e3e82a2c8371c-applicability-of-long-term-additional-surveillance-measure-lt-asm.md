@@ -39,10 +39,9 @@ stocks:
 - VINTRON
 - SAL
 tags:
+- market-operations
 - surveillance
-- asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

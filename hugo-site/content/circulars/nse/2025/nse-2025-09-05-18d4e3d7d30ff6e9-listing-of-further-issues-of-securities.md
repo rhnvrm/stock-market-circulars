@@ -30,10 +30,10 @@ stocks:
 - CHOLAFIN
 - DRREDDY
 tags:
-- listing
-- equity-shares
-- esop
 - allotment
+- equity
+- esop
+- listing
 - trading
 title: Listing of further issues of securities - Multiple companies including ESOP
   allotments

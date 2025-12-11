@@ -28,13 +28,12 @@ stocks:
 - EXPLICIT
 - VENMAX
 - INTLDATAMGMT
-- ANSINDUSTRIES
+- ANSINDUS
 tags:
-- gsm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-safety
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

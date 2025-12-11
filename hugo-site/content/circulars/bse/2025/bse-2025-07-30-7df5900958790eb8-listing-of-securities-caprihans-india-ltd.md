@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CAPRIHANS
 tags:
-- equity-shares
+- conversion
+- equity
 - listing
-- warrant-conversion
-- preferential-allotment
-- promoter-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of 400,000 Equity Shares of Caprihans India Ltd from Warrant Conversion
 ---
 

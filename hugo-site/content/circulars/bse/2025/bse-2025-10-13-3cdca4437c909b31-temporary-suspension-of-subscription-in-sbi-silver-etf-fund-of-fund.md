@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SBIETF
 tags:
-- mutual-funds
 - etf
-- subscription-suspension
-- silver-etf
 - fund-operations
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Subscription in SBI Silver ETF Fund of Fund
 ---
 

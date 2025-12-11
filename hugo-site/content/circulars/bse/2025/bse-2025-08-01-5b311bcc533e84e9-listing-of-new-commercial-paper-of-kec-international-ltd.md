@@ -25,11 +25,11 @@ source: bse
 stocks:
 - KEC
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- kec-international
 - axis-bank
+- commercial-paper
+- debt-securities
+- kec-international
+- private-placement
 title: Listing of new Commercial Paper of KEC International Ltd.
 ---
 

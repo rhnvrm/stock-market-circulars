@@ -26,13 +26,13 @@ source: bse
 stocks:
 - ADOR
 tags:
-- takeover
-- settlement
-- acquisition-window
 - ador-multi-products
 - demat-shares
 - early-pay-in
 - iccl
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for ADOR MULTI PRODUCTS LIMITED Takeover Offer
 ---
 

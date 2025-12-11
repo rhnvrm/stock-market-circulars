@@ -33,12 +33,11 @@ stocks:
 - TRUST
 - UHTL
 tags:
-- surveillance
-- additional-surveillance-measure
-- margin-requirement
-- trading-restrictions
+- asm-stage
+- margin
 - risk-management
-- ST-ASM
+- surveillance
+- trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

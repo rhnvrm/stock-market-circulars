@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- settlement
-- futures-and-options
-- trading-schedule
+- futures-options
 - market-operations
+- settlement
+- trading-schedule
 title: Settlement Programme for F&O Segment - December 2025
 ---
 

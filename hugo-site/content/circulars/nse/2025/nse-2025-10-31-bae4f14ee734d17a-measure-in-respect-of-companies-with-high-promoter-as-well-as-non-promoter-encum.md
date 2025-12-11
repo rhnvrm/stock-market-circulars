@@ -29,12 +29,12 @@ stocks:
 - THYROCARE
 - FMNL
 tags:
-- surveillance
-- encumbrance
-- promoter-holdings
-- margin-requirements
-- SAST-regulation
 - delisting-from-measure
+- encumbrance
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - FINPIPE
 tags:
-- rti-appeal
-- right-to-information
-- scores-complaint
-- shareholding-dispute
+- finolex-industries
 - information-denial
 - privacy-exemption
-- finolex-industries
+- rti
+- scores-complaint
+- shareholding-dispute
 title: Appeal No. 6554 of 2025 filed by Rajendra Kumar Agrawal
 ---
 

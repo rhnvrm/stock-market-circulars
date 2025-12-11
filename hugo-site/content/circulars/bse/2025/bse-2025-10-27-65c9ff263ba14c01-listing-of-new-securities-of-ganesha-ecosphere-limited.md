@@ -28,12 +28,12 @@ source: bse
 stocks:
 - GANECOS
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Ganesha Ecosphere Limited - Preferential Allotment
 ---
 

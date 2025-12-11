@@ -28,13 +28,10 @@ stocks:
 - SAVY
 - MANGALAM
 tags:
-- surveillance
-- margin-requirements
-- asm-framework
+- asm-stage
+- margin
 - risk-management
-- st-asm
-- SAVY
-- MANGALAM
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -28,13 +28,12 @@ source: sebi
 stocks:
 - TELECANOR
 tags:
-- takeover-regulations
-- preferential-allotment
-- exemption-order
-- substantial-acquisition
-- promoter-shareholding
 - convertible-warrants
-- TELECANOR
+- exemption-order
+- preferential-issue
+- sast
+- shareholding-pattern
+- takeover-regulations
 title: Order in the matter of Telecanor Global Limited - Exemption from Takeover Regulations
   for Preferential Allotment
 ---

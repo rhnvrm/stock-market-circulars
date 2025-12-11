@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MUMBAI URJA MARG LIMITED
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- debt-securities
 - corporate-action
-- reduced-face-value
+- debt-securities
+- face-value-change
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Mumbai Urja Marg Limited
 ---
 

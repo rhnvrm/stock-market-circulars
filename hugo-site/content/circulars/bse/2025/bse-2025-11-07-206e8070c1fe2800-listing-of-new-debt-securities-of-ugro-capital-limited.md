@@ -29,8 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
 - ugro-capital
 title: Listing of New Debt Securities of Ugro Capital Limited
 ---

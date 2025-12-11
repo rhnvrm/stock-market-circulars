@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- fund-of-funds
+- motilal-oswal
 - mutual-fund
 - scheme-changes
-- fund-of-fund
-- sebi-compliance
-- motilal-oswal
+- sebi
 title: Change in Scheme Name of Motilal Oswal Mutual Fund on BSE StAR MF Platform
 ---
 

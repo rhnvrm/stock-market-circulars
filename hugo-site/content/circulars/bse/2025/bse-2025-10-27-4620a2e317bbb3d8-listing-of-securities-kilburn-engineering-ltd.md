@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '522101'
+- KLBRENG-B
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - Kilburn Engineering Ltd
 ---
 

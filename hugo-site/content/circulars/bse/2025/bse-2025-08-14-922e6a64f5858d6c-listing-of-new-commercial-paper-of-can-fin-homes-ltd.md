@@ -27,10 +27,9 @@ stocks:
 - CANFINHOME
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- can-fin-homes
+- debt-securities
 - listing
+- private-placement
 title: Listing of new Commercial Paper of Can Fin Homes Ltd
 ---
 

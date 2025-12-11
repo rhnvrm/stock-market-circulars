@@ -28,14 +28,14 @@ source: bse
 stocks:
 - RNIT
 tags:
-- trading-suspension
-- revocation
-- nclt-order
-- resolution-plan
-- special-pre-open-session
-- relisting
 - autopal-industries
+- call-money
+- nclt
+- release
+- relisting
+- resolution-plan
 - rnit-ai-solutions
+- suspension
 title: Revocation of Trading Suspension for RNIT AI Solutions Ltd. (Formerly Autopal
   Industries Ltd.)
 ---

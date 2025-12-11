@@ -28,13 +28,13 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- trading-session
-- pre-open
-- futures
+- futures-options
 - index-futures
-- stock-futures
 - market-operations
 - order-matching
+- pre-open
+- stock-futures
+- trading-session
 title: Introduction of Pre-Open Session in Equity Derivatives Segment – Update
 ---
 

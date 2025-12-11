@@ -28,12 +28,12 @@ stocks:
 - LTIM
 - HEXAWARE
 tags:
+- book-closure
+- collateral
 - corporate-action
 - dividend
-- slb
-- securities-lending-borrowing
-- book-closure
 - record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Announcements for LTIMindtree
   and Hexaware Technologies
 ---

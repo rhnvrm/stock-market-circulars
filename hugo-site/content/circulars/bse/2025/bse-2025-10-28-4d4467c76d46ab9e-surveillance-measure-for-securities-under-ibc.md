@@ -28,11 +28,10 @@ stocks:
 - JRFOOD
 - FSCSL
 tags:
-- surveillance
-- ibc
+- addition
 - insolvency
-- exclusion
 - monitoring
+- surveillance
 title: Surveillance Measure for Securities under IBC - Exclusion of JR Foods Ltd and
   Future Supply Chain Solutions Ltd
 ---

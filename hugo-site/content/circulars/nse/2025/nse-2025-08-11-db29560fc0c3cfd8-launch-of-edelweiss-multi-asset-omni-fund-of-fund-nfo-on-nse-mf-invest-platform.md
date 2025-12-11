@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- edelweiss
+- fund-of-funds
 - mutual-fund
 - nfo
-- edelweiss
-- fund-of-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Edelweiss Multi Asset Omni Fund of Fund NFO on NSE MF Invest Platform
 ---
 

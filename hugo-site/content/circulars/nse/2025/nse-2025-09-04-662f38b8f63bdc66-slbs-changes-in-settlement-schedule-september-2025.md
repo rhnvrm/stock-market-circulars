@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- slbs
-- settlement-schedule
+- collateral
 - holidays
-- securities-lending
-- borrowing-scheme
+- settlement
+- slbs
 title: SLBS - Changes in Settlement Schedule - September 2025
 ---
 

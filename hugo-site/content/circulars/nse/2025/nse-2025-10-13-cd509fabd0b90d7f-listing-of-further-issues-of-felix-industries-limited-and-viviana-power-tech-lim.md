@@ -29,12 +29,12 @@ stocks:
 - FELIX
 - VIVIANA
 tags:
-- listing
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- sme-emerge
-- preferential-allotment
-- warrant-conversion
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issues of Felix Industries Limited and Viviana Power Tech
   Limited
 ---

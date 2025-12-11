@@ -26,11 +26,9 @@ source: nse
 stocks:
 - RUBICON
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- RUBICON
+- listing
 title: Listing of Equity Shares of Rubicon Research Limited (IPO)
 ---
 

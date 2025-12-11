@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - NIMBUS
 tags:
-- attachment-notice
+- attachment
+- enforcement
 - investor-grievances
-- recovery-certificate
 - nimbus-industries
-- enforcement-action
+- recovery
 title: Notice(s) of Attachment dated 12.08.2025 issued under RC No. 4523 of 2023 drawn
   against Nimbus Industries Limited
 ---

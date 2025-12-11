@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading
-- technology
-- equity-derivatives
-- trade-drop-copy
-- solace-messaging
-- pilot-program
 - api
+- derivatives
+- pilot-program
+- solace-messaging
+- technology
+- trade-drop-copy
+- trading
 title: Enhanced Trade Drop Copy – Pilot Launch
 ---
 

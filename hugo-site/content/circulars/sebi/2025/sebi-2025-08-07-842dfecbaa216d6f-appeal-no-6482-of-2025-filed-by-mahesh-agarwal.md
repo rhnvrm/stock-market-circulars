@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- medical-facilities
+- employee-benefits
 - information-exemption
 - internal-functioning
-- employee-benefits
+- medical-facilities
+- rti
 title: RTI Appeal No. 6482 of 2025 - Dismissal of Appeal by Mahesh Agarwal Regarding
   Medical Facilities Information
 ---

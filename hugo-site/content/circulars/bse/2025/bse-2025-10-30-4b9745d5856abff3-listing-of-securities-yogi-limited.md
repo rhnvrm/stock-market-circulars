@@ -27,13 +27,12 @@ source: bse
 stocks:
 - YOGI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
 - lock-in
-- YOGI
+- preferential-issue
+- promoter
 title: Listing of Securities YOGI LIMITED
 ---
 

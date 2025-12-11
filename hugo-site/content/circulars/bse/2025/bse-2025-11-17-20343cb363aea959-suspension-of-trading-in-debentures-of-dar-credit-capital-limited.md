@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- suspension
-- debentures
-- ncd
-- early-redemption
-- debt-market
 - corporate-action
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DAR CREDIT & CAPITAL LIMITED
 ---
 

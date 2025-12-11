@@ -26,10 +26,10 @@ source: bse
 stocks:
 - LOKESHMACH
 tags:
-- new-listing
-- preferential-allotment
-- warrant-conversion
-- promoter-shares
+- conversion
+- listing
+- preferential-issue
+- promoter
 title: Listing of New Securities of Lokesh Machines Limited
 ---
 

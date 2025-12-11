@@ -36,12 +36,10 @@ stocks:
 - SATECH
 - VCL
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- st-asm
-- margin-requirements
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

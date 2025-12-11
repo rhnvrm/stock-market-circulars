@@ -27,11 +27,11 @@ source: bse
 stocks:
 - REGAL
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
 - regal-entertainment
 - trading-classification
-- equity-shares
 title: 'Change in Group of Equity Shares of Regal Entertainment & Consultants Ltd.
   (Scrip Code: 531033)'
 ---

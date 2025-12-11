@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- LUXURYTIME
+- LUXURY
 - WESTERNOS
 tags:
-- index
-- sme-ipo
-- listing
 - corporate-action
+- index-fund
+- listing
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

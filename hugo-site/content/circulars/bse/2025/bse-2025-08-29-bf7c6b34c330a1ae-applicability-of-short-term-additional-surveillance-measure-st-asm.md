@@ -31,11 +31,10 @@ stocks:
 - SWOJAS
 - TITAN
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

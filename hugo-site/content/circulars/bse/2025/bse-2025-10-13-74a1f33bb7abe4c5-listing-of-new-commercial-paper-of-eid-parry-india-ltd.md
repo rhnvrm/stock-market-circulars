@@ -27,9 +27,8 @@ stocks:
 - EIDPARRY
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- EIDPARRY
 title: Listing of new Commercial Paper of E.I.D. Parry (India) Ltd.
 ---
 

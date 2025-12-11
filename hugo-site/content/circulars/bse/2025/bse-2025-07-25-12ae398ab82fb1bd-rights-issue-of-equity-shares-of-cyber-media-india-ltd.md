@@ -25,12 +25,11 @@ source: bse
 stocks:
 - CYBERMEDIA
 tags:
-- rights-issue
-- equity-shares
-- corporate-actions
+- corporate-action
+- equity
 - ex-rights-trading
-- CYBERMEDIA
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares - CYBER MEDIA (INDIA) LTD
 ---
 

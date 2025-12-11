@@ -30,8 +30,6 @@ tags:
 - listing
 - private-placement
 - zero-coupon-bonds
-- IRFC
-- new-listing
 title: Listing of New Debt Securities of Indian Railway Finance Corporation
 ---
 

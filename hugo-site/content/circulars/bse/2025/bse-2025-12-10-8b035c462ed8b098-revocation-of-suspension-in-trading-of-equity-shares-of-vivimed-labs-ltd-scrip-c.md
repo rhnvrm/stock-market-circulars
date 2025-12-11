@@ -27,10 +27,9 @@ source: bse
 stocks:
 - VIVIMEDLAB
 tags:
-- trading-suspension
-- suspension-revocation
-- equity-shares
-- vivimed-labs
+- equity
+- release
+- suspension
 - trading-resumption
 title: Revocation of Suspension in Trading of Equity Shares of Vivimed Labs Ltd
 ---

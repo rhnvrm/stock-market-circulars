@@ -25,23 +25,22 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544274'
-- '544276'
-- '544277'
-- '544279'
-- '544280'
-- '544282'
-- '544283'
-- '544285'
-- '544286'
-- '544287'
+- HYUNDAI
+- DBEIL
+- WAAREEENER
+- GODAVARIB
+- AFCONS
+- SAGILITY
+- ACMESOLAR
+- SWIGGY
+- NIVABUPA
+- MANGALCOMP
 tags:
-- index
-- reconstitution
-- bse-ipo-index
-- bse-sme-ipo-index
+- bse-index
 - equity
-- index-changes
+- index-change
+- index-fund
+- reconstitution
 title: Reconstitution of BSE Indices - Monthly Changes to BSE IPO and BSE SME IPO
   Indices
 ---

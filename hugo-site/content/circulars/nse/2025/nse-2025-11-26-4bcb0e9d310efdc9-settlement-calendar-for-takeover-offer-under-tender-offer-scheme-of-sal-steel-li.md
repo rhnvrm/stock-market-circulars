@@ -28,12 +28,11 @@ source: nse
 stocks:
 - SALSTEEL
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- sal-steel
 - capital-market
 - early-pay-in
+- settlement-calendar
+- takeover
+- tender-offer
 title: Settlement Calendar for Takeover Offer under Tender Offer Scheme of SAL Steel
   Limited
 ---

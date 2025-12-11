@@ -25,11 +25,10 @@ source: nse
 stocks:
 - LTFL
 tags:
-- listing
+- bond
 - debt-securities
+- listing
 - private-placement
-- bonds
-- ltfl
 title: Listing of L&T Finance Limited privately placed securities on capital market
   segment
 ---

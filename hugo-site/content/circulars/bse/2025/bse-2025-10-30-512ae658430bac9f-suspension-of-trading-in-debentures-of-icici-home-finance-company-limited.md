@@ -26,13 +26,13 @@ source: bse
 stocks:
 - ICICIHFCL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-market
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

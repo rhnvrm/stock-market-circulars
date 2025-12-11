@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DELPHIFX
 tags:
-- listing
-- rights-issue
-- equity-shares
-- new-securities
 - delphi-world-money
+- equity
+- listing
+- new-securities
+- rights-issue
 title: Listing of New Securities of Delphi World Money Limited
 ---
 

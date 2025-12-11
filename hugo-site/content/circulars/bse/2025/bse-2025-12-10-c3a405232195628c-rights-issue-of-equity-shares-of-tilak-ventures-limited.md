@@ -28,11 +28,10 @@ source: bse
 stocks:
 - TILAKVEN
 tags:
+- corporate-action
+- equity
+- renunciation
 - rights-issue
-- corporate-actions
-- equity-shares
-- ex-rights
-- TILAKVEN
 title: Rights Issue of Equity Shares of Tilak Ventures Limited - 2:1 Ratio
 ---
 

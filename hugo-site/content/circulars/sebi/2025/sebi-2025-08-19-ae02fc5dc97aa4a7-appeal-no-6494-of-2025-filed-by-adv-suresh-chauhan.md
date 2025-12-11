@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
 - appeal
+- dismissed
+- information-request
 - pacl
 - property-attachment
-- information-request
-- dismissed
+- rti
 title: RTI Appeal No. 6494 of 2025 - PACL Matter Information Request Dismissed
 ---
 

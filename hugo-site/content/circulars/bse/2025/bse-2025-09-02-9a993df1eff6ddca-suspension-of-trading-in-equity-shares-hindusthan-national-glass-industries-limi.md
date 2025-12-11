@@ -27,12 +27,10 @@ source: bse
 stocks:
 - HNGLI
 tags:
-- suspension
 - delisting
 - insolvency
-- ibc
 - nclt
-- '515145'
+- suspension
 title: Suspension of Trading in Hindusthan National Glass & Industries Limited Due
   to NCLT-Approved Resolution Plan
 ---

@@ -27,16 +27,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fund-of-fund
-- subscription-resumption
-- silver-etf
-- uti-amc
-- investment-restrictions
+- fund-of-funds
+- mutual-fund
+- overseas-investment
+- silver
 - sip
 - stp
+- subscription-limit
 - swp
+- uti-amc
 title: Resumption of Subscriptions in UTI Silver ETF Fund of Fund
 ---
 

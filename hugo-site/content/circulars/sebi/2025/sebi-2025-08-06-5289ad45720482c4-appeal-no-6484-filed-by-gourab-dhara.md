@@ -25,13 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- mutual-funds
-- ter
-- gst
 - clarification
-- opinion
 - dismissed
+- gst
+- mutual-fund
+- opinion
+- rti
+- ter
 title: RTI Appeal No. 6484 dismissed - Query seeking clarification on mutual fund
   TER and GST
 ---

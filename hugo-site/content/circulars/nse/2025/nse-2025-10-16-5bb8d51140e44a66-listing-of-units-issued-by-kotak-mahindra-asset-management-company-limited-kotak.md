@@ -26,13 +26,11 @@ source: nse
 stocks:
 - MOMENTUM30
 tags:
+- capital-market
 - etf
+- kotak-mahindra
 - listing
 - mutual-fund
-- kotak-mahindra
-- nifty-200-momentum-30
-- capital-market
-- new-listing
 title: Listing of Kotak Nifty 200 Momentum 30 ETF Units
 ---
 

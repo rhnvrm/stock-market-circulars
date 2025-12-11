@@ -27,17 +27,16 @@ stocks:
 - OCTAWARE
 - SGNTELE
 - VANICOM
-- MACHOTELS
+- MACH
 - HARIG
 - SHREEMFG
 - EUROTEX
 - REVATI
 tags:
-- gsm
-- surveillance
-- market-monitoring
-- trading-restrictions
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages (November
   4, 2025)
 ---

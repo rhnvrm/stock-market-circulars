@@ -29,16 +29,16 @@ stocks:
 - PREMIERPWR
 - BLKASHYAP
 - BEDMUTHA
-- BRAHinfra
+- BRAHINFRA
 - FUTURENET
-- INDIANIVESH
+- INDIANVSH
 - SUDAL
 tags:
-- surveillance
+- compliance
 - encumbrance
-- promoter-holding
-- sebi-sast
-- regulatory-compliance
+- sast
+- shareholding-pattern
+- surveillance
 - trading-restrictions
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011

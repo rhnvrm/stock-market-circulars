@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SNSPROPERTIESLEASING
 tags:
-- takeover
-- settlement
-- acquisition
 - demat-shares
 - early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SNS Properties
   and Leasing Limited
 ---

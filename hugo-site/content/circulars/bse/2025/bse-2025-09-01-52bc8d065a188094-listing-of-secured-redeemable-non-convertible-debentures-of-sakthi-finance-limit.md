@@ -25,11 +25,9 @@ source: bse
 stocks:
 - SAKTHIFIN
 tags:
-- debentures
-- listing
 - debt-securities
+- listing
 - ncd
-- sakthi-finance
 title: Listing of Secured Redeemable Non-Convertible Debentures of Sakthi Finance
   Limited
 ---

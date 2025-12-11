@@ -27,15 +27,15 @@ source: sebi
 stocks:
 - SYNOPTICS
 tags:
-- ipo
-- sme-platform
-- market-manipulation
-- enforcement-action
+- enforcement
 - interim-order
-- merchant-banking
+- ipo
 - lead-manager
-- promoters
+- market-operations
+- merchant-banking
 - nse
+- shareholding-pattern
+- sme
 title: Confirmatory Order in the matter of Synoptics Technologies Limited
 ---
 

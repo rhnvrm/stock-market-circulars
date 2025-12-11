@@ -26,10 +26,10 @@ source: bse
 stocks:
 - PURITYFLEX
 tags:
-- bonus-issue
-- equity-shares
-- corporate-action
 - allotment
+- bonus
+- corporate-action
+- equity
 - trading
 title: Bonus Issue of Purity Flex Pack Ltd - Credit and Trading Timeline
 ---

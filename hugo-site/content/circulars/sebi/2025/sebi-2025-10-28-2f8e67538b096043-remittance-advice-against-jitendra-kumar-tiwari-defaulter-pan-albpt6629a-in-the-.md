@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- enforcement
-- defaulter
-- portfolio-management
-- unregistered-activities
 - allied-financial-services
+- defaulter
+- enforcement
+- portfolio-management
+- recovery
+- unregistered-activities
 title: Remittance Advice against Jitendra Kumar Tiwari - Recovery Certificate No.
   8062 of 2024
 ---

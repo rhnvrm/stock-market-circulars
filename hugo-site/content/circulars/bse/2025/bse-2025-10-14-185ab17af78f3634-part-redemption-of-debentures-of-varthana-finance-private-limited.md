@@ -28,12 +28,11 @@ source: bse
 stocks:
 - VARTHANA FINANCE PRIVATE LIMITED
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - debt-securities
-- reduced-face-value
-- varthana-finance
+- face-value-change
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Varthana Finance Private Limited
 ---
 

@@ -29,10 +29,8 @@ stocks:
 - ADITYA BIRLA REAL ESTATE
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- aditya-birla
-- real-estate
 title: Listing of new Commercial Paper of Aditya Birla Real Estate Limited
 ---
 

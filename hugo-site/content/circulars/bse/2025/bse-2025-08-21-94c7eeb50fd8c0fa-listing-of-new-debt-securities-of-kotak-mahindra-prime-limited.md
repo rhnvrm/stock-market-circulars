@@ -26,10 +26,10 @@ stocks:
 - KMPL
 tags:
 - debt-securities
-- listing
 - kotak-mahindra-prime
+- listing
+- ncd
 - private-placement
-- debentures
 title: Listing of new debt securities of Kotak Mahindra Prime Limited
 ---
 

@@ -31,11 +31,10 @@ stocks:
 - HIND
 - REMI
 tags:
-- surveillance
-- asm
 - long-term
-- trading-restrictions
 - market-supervision
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

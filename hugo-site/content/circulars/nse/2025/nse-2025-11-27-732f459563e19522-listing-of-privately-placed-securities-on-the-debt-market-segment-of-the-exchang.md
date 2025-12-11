@@ -33,12 +33,11 @@ stocks:
 - RAMCOCEM
 - ABMINTLTD
 tags:
-- debt-market
 - commercial-paper
-- private-placement
-- listing
-- debentures
 - debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment - November 27,
   2025
 ---

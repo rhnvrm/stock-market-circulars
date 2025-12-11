@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- name-change
-- membership
 - broker
+- membership
+- name-change
+- trading-member
 title: Change in Name of Trading Member - MONEYLICIOUS SECURITIES PVT. LTD. to RAISE
   SECURITIES PRIVATE LIMITED
 ---

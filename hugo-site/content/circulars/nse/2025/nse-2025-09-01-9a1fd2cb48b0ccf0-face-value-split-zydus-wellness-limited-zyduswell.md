@@ -26,10 +26,10 @@ source: nse
 stocks:
 - ZYDUSWELL
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
-- stock-split
+- equity
+- face-value-change
+- split
 title: Face Value Split - Zydus Wellness Limited (ZYDUSWELL)
 ---
 

@@ -35,10 +35,10 @@ stocks:
 - BILVYAPAR
 - BSL
 tags:
-- price-bands
-- surveillance
-- trading-limits
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Changes in price bands from August 07, 2025
 ---
 

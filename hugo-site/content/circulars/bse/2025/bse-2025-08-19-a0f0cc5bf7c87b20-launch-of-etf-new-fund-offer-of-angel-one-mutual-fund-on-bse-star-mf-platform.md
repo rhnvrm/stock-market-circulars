@@ -25,13 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- new-fund-offer
-- nfo
-- gold-etf
 - angel-one
-- bse-star-mf
+- etf
+- gold
+- mutual-fund
+- nfo
 title: Launch of ETF New Fund Offer of ANGEL ONE Mutual Fund on BSE StAR MF Platform
 ---
 

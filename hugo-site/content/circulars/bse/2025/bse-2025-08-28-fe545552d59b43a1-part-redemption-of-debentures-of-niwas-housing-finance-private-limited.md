@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NHFPL
 tags:
-- corporate-actions
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
 - debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of NIWAS HOUSING FINANCE PRIVATE LIMITED
 ---
 

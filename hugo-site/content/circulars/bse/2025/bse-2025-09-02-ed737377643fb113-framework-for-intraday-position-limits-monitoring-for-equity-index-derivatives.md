@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- position-limits
 - index-options
 - intraday-monitoring
-- market-surveillance
+- position-limits
 - sebi-regulation
+- surveillance
 title: Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
 ---
 

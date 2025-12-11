@@ -27,13 +27,12 @@ source: bse
 stocks:
 - ASHNI
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
-- trading
+- renunciation
+- rights-issue
 - settlement
-- dematerialized
+- trading
 title: Rights Entitlements of Ashnisha Industries Limited
 ---
 

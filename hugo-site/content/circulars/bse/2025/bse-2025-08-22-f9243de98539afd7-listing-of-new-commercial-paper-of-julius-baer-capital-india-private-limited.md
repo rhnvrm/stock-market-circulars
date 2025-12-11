@@ -27,9 +27,9 @@ stocks:
 - JBCPL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - julius-baer
+- private-placement
 title: Listing of new Commercial Paper of Julius Baer Capital (India) Private Limited
 ---
 

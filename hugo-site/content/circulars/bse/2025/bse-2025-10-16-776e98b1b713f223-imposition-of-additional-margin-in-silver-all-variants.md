@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- silver
-- margin-requirements
+- derivatives
+- futures-options
+- margin
 - risk-management
-- futures
-- settlement
 - rms
+- settlement
+- silver
 title: Imposition of Additional Margin in Silver (all variants)
 ---
 

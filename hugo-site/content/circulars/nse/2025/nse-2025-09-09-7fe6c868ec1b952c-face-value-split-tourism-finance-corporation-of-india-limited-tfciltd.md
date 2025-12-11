@@ -26,10 +26,9 @@ source: nse
 stocks:
 - TFCILTD
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
-- TFCILTD
+- equity
+- face-value-change
 title: Face Value Split - Tourism Finance Corporation of India Limited (TFCILTD)
 ---
 

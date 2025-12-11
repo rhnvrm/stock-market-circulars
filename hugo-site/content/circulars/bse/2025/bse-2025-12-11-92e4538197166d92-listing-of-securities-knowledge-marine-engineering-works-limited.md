@@ -27,11 +27,10 @@ source: bse
 stocks:
 - KNOWLEDGE
 tags:
+- equity
 - listing
-- equity-shares
+- lock-in
 - preferential-issue
-- knowledge-marine-engineering
-- lock-in-period
 title: Listing of Securities - Knowledge Marine & Engineering Works Limited Preferential
   Issue
 ---

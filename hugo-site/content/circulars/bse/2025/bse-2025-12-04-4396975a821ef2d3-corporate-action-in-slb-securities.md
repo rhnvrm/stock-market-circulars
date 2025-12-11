@@ -27,11 +27,11 @@ stocks:
 - HCC
 - DECCAN
 tags:
+- collateral
 - corporate-action
+- foreclosure
 - rights-issue
 - slb
-- securities-lending-borrowing
-- foreclosure
 title: Corporate Action in SLB Securities - Rights Issues
 ---
 

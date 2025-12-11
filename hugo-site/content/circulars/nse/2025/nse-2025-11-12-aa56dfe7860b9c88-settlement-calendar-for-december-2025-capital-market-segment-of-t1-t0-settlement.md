@@ -28,14 +28,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- settlement-calendar
 - capital-market
-- t+1-settlement
-- t+0-settlement
-- auction-settlement
-- trade-for-trade
-- rolling-settlement
 - clearing
+- rolling-segment
+- settlement
+- settlement-calendar
+- t0-settlement
+- t1-settlement
+- trade-for-trade
 title: Settlement Calendar for December 2025 - Capital Market Segment of T+1 & T+0
   Settlement
 ---

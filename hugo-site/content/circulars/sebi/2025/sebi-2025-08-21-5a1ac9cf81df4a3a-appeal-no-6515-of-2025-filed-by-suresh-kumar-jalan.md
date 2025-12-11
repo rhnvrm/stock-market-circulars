@@ -26,13 +26,13 @@ source: sebi
 stocks:
 - EASTCOAST
 tags:
-- rti-appeal
 - complaint
+- confidential-investigation
 - fraudulent-transaction
 - land-sale
-- public-shareholders
 - market-intelligence
-- confidential-investigation
+- rti
+- shareholding-pattern
 title: Appeal No. 6515 of 2025 filed by Suresh Kumar Jalan
 ---
 

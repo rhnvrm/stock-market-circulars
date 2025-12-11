@@ -36,12 +36,12 @@ stocks:
 - HDFCSEC
 - CHOLAFIN
 tags:
-- debt-market
 - commercial-paper
-- debentures
-- listing
-- private-placement
+- debt-securities
 - fixed-income
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Debt Securities - Commercial Paper and Debentures
 ---
 

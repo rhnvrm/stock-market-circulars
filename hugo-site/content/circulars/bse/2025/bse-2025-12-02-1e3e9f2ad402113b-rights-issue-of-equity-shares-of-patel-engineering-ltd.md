@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PATENG
 tags:
-- rights-issue
-- corporate-action
-- patel-engineering
-- equity-shares
 - capital-raising
-- ex-rights
+- corporate-action
+- equity
+- patel-engineering
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Patel Engineering Ltd - 7:40 Ratio at Rs.27
   per Share
 ---

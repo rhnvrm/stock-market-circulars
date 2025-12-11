@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - KALPA
 tags:
-- recovery-certificate
 - compliance-order
-- enforcement-action
+- enforcement
 - kalpa-commercial
-- release-order
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 4795
   of 2022 against Siva Balan Jaipal in the matter of Kalpa Commercial Limited
 ---

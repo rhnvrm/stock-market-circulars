@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - PSIT
 tags:
-- recovery-certificate
+- compass-distributors
 - compliance
 - enforcement
 - ps-it-infrastructure
-- compass-distributors
+- recovery
 title: Certificate No. RC8795 of 2025 - Recovery Certificate against Compass Distributors
   Pvt Ltd in PS IT Infrastructure matter
 ---

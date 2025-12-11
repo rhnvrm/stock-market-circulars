@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- JAYANT INFRATECH
+- JAYANT
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- non-promoter
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of JAYANT INFRATECH LIMITED
 ---
 

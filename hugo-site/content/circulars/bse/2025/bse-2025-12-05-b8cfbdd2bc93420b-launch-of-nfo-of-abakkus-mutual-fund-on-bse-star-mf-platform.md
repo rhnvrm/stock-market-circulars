@@ -27,11 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- abakkus-mutual-fund
+- liquid-fund
 - mutual-fund
 - nfo
-- liquid-fund
-- abakkus-mutual-fund
-- bse-star-mf
 title: Launch of NFO of ABAKKUS LIQUID FUND on BSE StAR MF Platform
 ---
 

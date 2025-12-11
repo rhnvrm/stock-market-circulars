@@ -28,12 +28,10 @@ source: bse
 stocks:
 - VIPIND
 tags:
-- open-offer
-- takeover
-- acquisition
-- vip-industries
 - multiples-private-equity
-- sebi-sast
+- sast
+- takeover
+- vip-industries
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of V.I.P. Industries
   Limited
 ---

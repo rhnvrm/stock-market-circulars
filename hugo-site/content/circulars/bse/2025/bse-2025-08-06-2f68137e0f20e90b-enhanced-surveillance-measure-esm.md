@@ -29,11 +29,9 @@ stocks:
 - KREON
 - SKYLINE
 tags:
-- esm
-- enhanced-surveillance
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Stage Movements and
   Consolidated List
 ---

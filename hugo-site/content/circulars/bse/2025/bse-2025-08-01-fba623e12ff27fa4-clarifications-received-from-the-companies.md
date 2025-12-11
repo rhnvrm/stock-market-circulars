@@ -29,9 +29,9 @@ stocks:
 tags:
 - media-clarification
 - pharma-sector
-- us-drug-pricing
-- stock-price-movement
 - regulatory-disclosure
+- stock-price-movement
+- us-drug-pricing
 title: BSE Clarifications from Companies - Lupin and Sun Pharma Respond to Trump Drug
   Pricing Letter Reports
 ---

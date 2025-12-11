@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- mutual-fund-distributor
-- investment-advisor
 - amfi
-- proprietorship
 - business-structure
+- investment-adviser
+- mutual-fund-distributor
+- proprietorship
+- rti
 title: RTI Appeal No. 6465 of 2025 - Mutual Fund Distributor and Investment Advisor
   Business Structure Query Dismissed
 ---

@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
+- futures-options
+- gsec
 - interest-rate-derivatives
-- futures
-- options
-- government-securities
 - new-product-launch
-- currency-derivatives
+- options
 title: Introduction of Interest Rate Derivatives Contracts for GOI Securities
 ---
 

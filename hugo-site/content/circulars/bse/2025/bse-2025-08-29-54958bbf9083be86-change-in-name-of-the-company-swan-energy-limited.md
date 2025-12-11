@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SWANENERGY
 tags:
-- name-change
 - corporate-action
-- swan-energy
-- swan-corp
 - mca-certificate
+- name-change
+- swan-corp
 title: Change in Name of Swan Energy Limited to Swan Corp Limited
 ---
 

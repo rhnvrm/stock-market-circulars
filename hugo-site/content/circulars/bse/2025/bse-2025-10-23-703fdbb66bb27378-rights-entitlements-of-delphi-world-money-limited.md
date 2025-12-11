@@ -27,13 +27,12 @@ source: bse
 stocks:
 - DELPH
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
-- trading
-- settlement
 - dematerialization
+- equity
+- renunciation
+- rights-issue
+- settlement
+- trading
 title: Rights Entitlements Trading for Delphi World Money Limited
 ---
 

@@ -26,10 +26,9 @@ stocks:
 - GANESHHOUC
 - GANESHHOU
 tags:
-- name-change
-- symbol-change
-- listing
 - corporate-action
+- listing
+- name-change
 title: Change in name and symbol of Ganesh Housing Corporation Limited
 ---
 

@@ -27,10 +27,8 @@ stocks:
 - KNOWLEDGE
 tags:
 - listing
-- units
 - reit
-- knowledge-realty-trust
-- new-listing
+- units
 title: Listing of Units of Knowledge Realty Trust
 ---
 

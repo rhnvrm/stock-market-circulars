@@ -26,13 +26,10 @@ source: bse
 stocks:
 - LGELECTR
 tags:
-- listing
+- equity
 - ipo
+- listing
 - shareholding-pattern
-- lg-electronics
-- equity-shares
-- promoter-holding
-- public-holding
 title: Listing of Equity Shares of LG Electronics India Limited
 ---
 

@@ -78,14 +78,12 @@ stocks:
 - ASKAUTOLTD
 - ASTERDM
 tags:
-- securities-lending-borrowing
-- slbs
-- position-limits
-- mwpl
+- collateral
 - institutional-client
 - non-institutional-client
 - participant-limits
-- market-wide-limits
+- position-limits
+- slbs
 title: Revised Applicable MWPL, Participant, Institutional Client and Non-Institutional
   Client Limits for Securities and ETF - SLBS
 ---

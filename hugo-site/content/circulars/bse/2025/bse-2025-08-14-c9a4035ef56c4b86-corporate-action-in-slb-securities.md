@@ -58,12 +58,11 @@ stocks:
 - NHPC
 - TIME
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- slb-securities
 - record-date
-- ex-date
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issue Schedule
 ---
 

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - GHUSHINE
 tags:
+- asm-stage
+- equity
 - group-change
-- m-group
-- trading-segment
-- equity-shares
-- ghushine-fintrrade-ocean
+- trading
 title: 'Change in Group of Equity Shares of Ghushine Fintrrade Ocean Ltd. (Scrip Code:
   539864)'
 ---

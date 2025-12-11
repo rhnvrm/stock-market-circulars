@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MCFPL
 tags:
-- trading-suspension
-- debentures
-- redemption
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MIZUHO CAPSAVE FINANCE PRIVATE LIMITED
 ---
 

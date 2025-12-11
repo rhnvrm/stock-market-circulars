@@ -26,11 +26,11 @@ source: nse
 stocks:
 - INM
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme
+- bonus
 - corporate-action
-- trading-parameters
+- market-lot
+- sme
+- trading-operations
 title: 'BONUS: Adjustment of Market Lot for Security INM in SME Platform'
 ---
 

@@ -35,11 +35,10 @@ stocks:
 - ADITYACONS
 - ARUNJYOTI
 tags:
-- esm
-- enhanced-surveillance
-- trading-restrictions
-- market-regulation
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective August
   4, 2025
 ---

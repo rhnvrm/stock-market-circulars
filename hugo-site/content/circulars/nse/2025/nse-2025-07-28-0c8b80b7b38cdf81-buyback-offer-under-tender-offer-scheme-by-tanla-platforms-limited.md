@@ -27,10 +27,10 @@ stocks:
 - TANLA
 tags:
 - buyback
+- capital-market
+- equity
 - tender-offer
 - web-based-bidding
-- capital-market
-- equity-shares
 title: Buyback Offer under Tender Offer scheme by Tanla Platforms Limited
 ---
 

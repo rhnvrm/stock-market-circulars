@@ -25,10 +25,10 @@ source: nse
 stocks:
 - SGFIN
 tags:
-- new-listing
-- equity-shares
-- trading
 - capital-market
+- equity
+- listing
+- trading
 title: Listing of Equity Shares of SG Finserve Limited (New Listing)
 ---
 

@@ -27,11 +27,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appeal
-- appellate-authority
-- repetitive-application
 - administrative
+- appeal
+- repetitive-application
+- rti
 title: Appeal No. 6555, 6557 & 6578 of 2025 filed by Syed Abdul Rahman - RTI Appeals
   Dismissed
 ---

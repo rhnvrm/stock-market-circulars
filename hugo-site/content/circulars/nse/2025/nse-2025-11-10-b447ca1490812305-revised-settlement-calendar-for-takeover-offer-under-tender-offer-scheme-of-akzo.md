@@ -28,12 +28,12 @@ source: nse
 stocks:
 - AKZOINDIA
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
 - akzo-nobel
 - clearing
-- settlement-schedule
+- settlement
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for Takeover Offer under Tender Offer Scheme of
   Akzo Nobel India Limited
 ---

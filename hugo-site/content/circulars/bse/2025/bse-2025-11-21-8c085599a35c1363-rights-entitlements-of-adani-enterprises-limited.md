@@ -28,12 +28,10 @@ source: bse
 stocks:
 - ADANIENT
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- adani-enterprises
+- demat
 - equity
-- demat-only
+- renunciation
+- rights-issue
 - trade-for-trade
 title: Rights Entitlements of Adani Enterprises Limited - Trading Commences November
   25, 2025

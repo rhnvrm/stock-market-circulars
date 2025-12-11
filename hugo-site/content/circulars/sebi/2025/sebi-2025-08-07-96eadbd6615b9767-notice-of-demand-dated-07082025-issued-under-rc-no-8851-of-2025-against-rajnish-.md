@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- notice-of-demand
-- recovery-certificate
-- enforcement-action
-- individual-penalty
+- demand-notice
+- enforcement
 - family-care-hospitals
+- individual-penalty
+- recovery
 title: Notice of Demand against Rajnish Kumar Pandey in Family Care Hospitals Limited
   matter
 ---

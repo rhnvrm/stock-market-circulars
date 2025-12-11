@@ -28,13 +28,11 @@ source: nse
 stocks:
 - PATELENG
 tags:
-- securities-lending-borrowing
-- position-limits
-- mwpl
+- collateral
+- institutional-investor
 - participant-limits
-- institutional-limits
+- position-limits
 - slbs
-- pateleng
 title: Revised MWPL, Participant, Institutional and Non-Institutional Client Limits
   for PATELENG
 ---

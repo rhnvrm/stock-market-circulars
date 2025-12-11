@@ -26,12 +26,11 @@ source: bse
 stocks:
 - EUROPANEL
 tags:
-- listing
 - direct-listing
-- platform-migration
-- nse-emerge
+- listing
 - mainboard
-- euro-panel-products
+- nse-emerge
+- platform-migration
 title: Listing of equity shares of Euro Panel Products Limited pursuant to Direct
   Listing from Emerge Platform of NSE to BSE Mainboard Platform
 ---

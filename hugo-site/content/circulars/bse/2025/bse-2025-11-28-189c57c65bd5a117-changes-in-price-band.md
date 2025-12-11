@@ -56,11 +56,11 @@ stocks:
 - WORTHENT
 - YASHCOT
 tags:
-- price-band
-- surveillance
-- trading-restriction
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-restrictions
 title: Revision of Price Bands for 31 Securities Effective December 1, 2025
 ---
 

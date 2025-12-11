@@ -35,12 +35,10 @@ stocks:
 - MAHIP
 - RAJPACK
 tags:
-- surveillance
-- esm
-- enhanced-surveillance-measure
-- trading-restrictions
-- market-regulation
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Updates
 ---
 

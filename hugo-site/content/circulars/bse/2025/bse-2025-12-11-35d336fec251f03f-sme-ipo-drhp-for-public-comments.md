@@ -27,13 +27,13 @@ source: bse
 stocks:
 - RCRS
 tags:
-- sme
+- draft-document
+- icdr
 - ipo
-- drhp
+- offer-document
 - public-comments
 - rcrs-innovation-limited
-- offer-document
-- icdr-regulations
+- sme
 title: SME IPO DRHP for Public Comments - RCRS Innovation Limited
 ---
 

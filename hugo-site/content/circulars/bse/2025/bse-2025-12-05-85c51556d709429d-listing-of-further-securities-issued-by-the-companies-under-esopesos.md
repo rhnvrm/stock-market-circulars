@@ -37,13 +37,11 @@ stocks:
 - SOUTHBANK
 - STARHEALTH
 tags:
-- esop
-- esos
-- listing
+- allotment
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
-- share-allotment
 title: Listing of Further Securities Issued Under ESOP/ESOS by 11 Companies Effective
   December 8, 2025
 ---

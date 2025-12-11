@@ -26,12 +26,12 @@ source: bse
 stocks:
 - FUJIYAMA
 tags:
-- listing
-- shareholding-pattern
+- equity
 - ipo
-- reg-31
-- sebi-lodr
-- equity-shares
+- listing
+- lodr
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Fujiyama Power Systems Limited
 ---
 

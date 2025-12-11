@@ -28,12 +28,10 @@ stocks:
 - BHARATFORG
 - EPACK
 tags:
-- volume-movement
 - clarification
 - disclosure
+- price-movement
 - surveillance
-- BHARATFORG
-- EPACK
 title: Clarifications received from the companies
 ---
 

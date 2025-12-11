@@ -23,13 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BLTLOGISTICS
+- BLT
 tags:
+- blt-logistics
+- disclosure
+- equity
 - listing
 - shareholding-pattern
-- disclosure
-- equity-shares
-- blt-logistics
 title: Listing of Equity Shares of BLT Logistics Limited
 ---
 

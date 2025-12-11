@@ -33,7 +33,7 @@ stocks:
 - HAZOORMUL
 - INDUCORP
 - KOTHARI
-- MIDWESTGOLD
+- MIDWEST
 - VISHALFAB
 - BEEKAY
 - BHATCOMM
@@ -46,13 +46,10 @@ stocks:
 - TUTIALK
 - VERITAS
 tags:
-- group-change
-- x-group
-- xt-group
-- b-group
-- t-group
-- segment-review
+- asm-stage
 - exclusively-listed
+- group-change
+- segment-review
 - trading
 title: Group Change for Exclusively Listed Companies
 ---

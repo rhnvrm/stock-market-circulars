@@ -26,16 +26,15 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
 - mutual-fund
 - navi-mutual-fund
 - nifty-midsmallcap-400
-- bse-star-mf
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
 title: NAVI NIFTY MIDSMALLCAP 400 INDEX FUND Reopens for Ongoing Transactions on BSE
   StAR MF Platform
 ---

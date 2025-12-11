@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - RTMCL
 tags:
-- adjudication-order
-- fraudulent-practices
+- adjudication
 - artificial-sales
-- book-inflation
 - audit-violations
-- disclosure-violations
-- rtmcl
+- book-inflation
+- information-disclosure
+- investigation
 title: SEBI Adjudication Order Against Rajasthan Tube Manufacturing Company Limited
   for Fraudulent Sales Inflation
 ---

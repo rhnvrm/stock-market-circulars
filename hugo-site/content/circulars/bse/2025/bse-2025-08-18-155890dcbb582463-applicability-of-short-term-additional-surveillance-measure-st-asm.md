@@ -36,11 +36,11 @@ stocks:
 - SAMBHV
 - SARDA
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
+- asm-stage
 - market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Framework Updates -
   August 19, 2025
 ---

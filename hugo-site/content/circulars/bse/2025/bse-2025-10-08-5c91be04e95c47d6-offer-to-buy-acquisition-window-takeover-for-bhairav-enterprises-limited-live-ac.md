@@ -28,13 +28,11 @@ source: bse
 stocks:
 - BHAIRAV
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
 - bhairav-enterprises
-- trading-schedule
-- otb-module
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for Bhairav Enterprises Limited
   - Live Activities Schedule
 ---

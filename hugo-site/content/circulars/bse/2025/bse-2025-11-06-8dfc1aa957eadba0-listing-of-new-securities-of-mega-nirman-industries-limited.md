@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MEGANIR
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
 - mega-nirman-industries
+- preferential-issue
 title: Listing of New Securities of Mega Nirman & Industries Limited - Preferential
   Allotment
 ---

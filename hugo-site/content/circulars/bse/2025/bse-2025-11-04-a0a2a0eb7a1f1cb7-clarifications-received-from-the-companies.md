@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks:
 - HINDWAREAP
-- JAYUSHIN
+- JAYUSH
 - KATIPATANG
 tags:
-- surveillance
-- price-movement
-- volume-increase
 - clarification
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

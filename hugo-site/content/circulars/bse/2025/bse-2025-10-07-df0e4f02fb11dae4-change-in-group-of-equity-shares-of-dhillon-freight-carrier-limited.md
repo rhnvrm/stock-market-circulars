@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544556'
+- DHILLON
 tags:
-- group-change
-- segment-transfer
-- trade-for-trade
-- rolling-segment
-- sme-ipo
 - dhillon-freight-carrier
+- group-change
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of Dhillon Freight Carrier Limited
 ---
 

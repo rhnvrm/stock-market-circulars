@@ -24,19 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- AXIS BANK
+- AXISBANK
 - RELIANCE IND
 - CIPLA LTD
-- ADANI PORTS
+- ADANIPORTS
 - BHARAT HEAVY
-- CANARA BANK
+- CANBK
 - MARICO LTD
 - SUZLON ENERG
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction Settlement No. 693
 ---
 

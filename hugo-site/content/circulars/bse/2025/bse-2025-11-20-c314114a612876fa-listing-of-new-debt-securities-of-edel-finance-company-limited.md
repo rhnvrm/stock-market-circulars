@@ -28,10 +28,10 @@ stocks:
 - EFCL
 tags:
 - debt-securities
-- listing
-- private-placement
 - edel-finance
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Edel Finance Company Limited
 ---
 

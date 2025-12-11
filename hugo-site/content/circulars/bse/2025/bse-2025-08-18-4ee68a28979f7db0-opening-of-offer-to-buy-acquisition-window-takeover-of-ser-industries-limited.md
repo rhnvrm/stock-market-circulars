@@ -24,13 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- SERINDUSTRIES
+- SERIND
 tags:
+- sast
 - takeover
-- open-offer
-- acquisition
-- SEBI-SAST
-- substantial-acquisition
 title: Open Offer by Sunil Kumar Shahi for Acquisition of 26% Stake in SER Industries
   Limited
 ---

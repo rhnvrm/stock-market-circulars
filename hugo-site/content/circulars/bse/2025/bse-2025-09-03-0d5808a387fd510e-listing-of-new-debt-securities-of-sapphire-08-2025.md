@@ -26,10 +26,9 @@ stocks:
 - SAPPHIRE
 tags:
 - debt-securities
-- listing
-- sapphire
-- private-placement
 - demat-trading
+- listing
+- private-placement
 title: Listing of New Debt Securities of SAPPHIRE 08 2025
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MURAE
 tags:
-- surveillance
-- social-media
-- unsolicited-videos
-- market-manipulation
 - compliance
+- market-operations
+- social-media
+- surveillance
+- unsolicited-videos
 title: Surveillance Action Update for Unsolicited Social Media Videos - August 2025
 ---
 

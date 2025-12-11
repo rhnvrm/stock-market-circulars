@@ -28,7 +28,7 @@ stocks:
 - BLUESTONEJEWELL
 - BOTHRAMETAL
 - HYBRIDFINSER
-- JAYUSHIN
+- JAYUSH
 - KEYNOTEFINSER
 - MACHHARIND
 - MURAEORG
@@ -44,14 +44,13 @@ stocks:
 - PARKERAGRO
 - RAJNISHRET
 - RIRPOWER
-- RUSHILDECOR
+- RUSHIL
 - UMIYABUILD
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
 - trading-restrictions
-- market-regulation
-- additional-surveillance-measure
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

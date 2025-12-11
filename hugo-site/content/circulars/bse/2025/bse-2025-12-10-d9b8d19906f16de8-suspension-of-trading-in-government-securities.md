@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- t-bills
-- trading-suspension
-- debt-market
+- debt-securities
+- dr-775/2025-2026
+- gsec
 - maturity
-- DR-775/2025-2026
+- suspension
+- treasury-bills
 title: Suspension of Trading in Government Securities - T-Bill Maturity GS15DEC25C
 ---
 

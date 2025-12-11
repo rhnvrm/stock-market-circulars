@@ -32,14 +32,12 @@ stocks:
 - TUNI
 - VIVANZA
 - BLUEPEARL
-- MIDWESTGOLD
+- MIDWEST
 - HEMO
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

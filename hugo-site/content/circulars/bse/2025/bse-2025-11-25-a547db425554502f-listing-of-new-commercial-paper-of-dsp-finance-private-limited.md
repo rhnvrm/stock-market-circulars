@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-market
-- private-placement
-- new-listing
+- debt-securities
 - dsp-finance
+- listing
+- private-placement
 title: Listing of New Commercial Paper of DSP Finance Private Limited
 ---
 

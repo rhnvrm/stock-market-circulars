@@ -27,13 +27,13 @@ source: bse
 stocks:
 - MCSL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
-- record-date
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption on Debentures of MUTHOOT CAPITAL SERVICES LTD.
 ---
 

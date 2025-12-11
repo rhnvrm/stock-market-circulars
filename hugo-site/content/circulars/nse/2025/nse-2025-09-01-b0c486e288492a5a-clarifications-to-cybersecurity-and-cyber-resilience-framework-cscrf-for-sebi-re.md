@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- cybersecurity
+- client-registration
 - compliance
 - cscrf
-- trading-members
-- client-registration
+- cybersecurity
 - proprietary-trading
+- trading-member
 title: Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF) for
   SEBI Regulated Entities
 ---

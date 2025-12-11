@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- baroda-bnp-paribas
+- equity
 - mutual-fund
 - nfo
-- equity-fund
-- baroda-bnp-paribas
-- nse-mf-invest
+- trading-platform
 title: Launch of Baroda BNP Paribas Business Conglomerates Fund on NSE MF Invest Platform
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - RACHIT
 tags:
-- listing
-- shareholding-pattern
-- ipo
-- equity-shares
 - disclosure
+- equity
+- ipo
+- listing
 - sebi-regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Rachit Prints Limited - Post IPO Shareholding Pattern
 ---
 

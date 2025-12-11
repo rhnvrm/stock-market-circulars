@@ -28,12 +28,12 @@ source: sebi
 stocks:
 - SVARNIM
 tags:
-- recovery-certificate
-- enforcement
-- svarnim-trade-udyog-limited
 - ashish-p-shah
 - demand-notice
-- compliance-failure
+- enforcement
+- non-compliance
+- recovery
+- svarnim-trade-udyog-limited
 title: Notice of Demand under Recovery Certificate No. 8939 of 2025 against Ashish
   P Shah in Svarnim Trade Udyog Limited Matter
 ---

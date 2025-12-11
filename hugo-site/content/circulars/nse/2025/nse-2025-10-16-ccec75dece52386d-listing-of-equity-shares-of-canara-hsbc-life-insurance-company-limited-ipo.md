@@ -26,12 +26,11 @@ source: nse
 stocks:
 - CANHLIFE
 tags:
-- listing
-- ipo
-- equity-shares
 - canara-hsbc-life
-- new-listing
+- equity
 - insurance-sector
+- ipo
+- listing
 title: Listing of Equity Shares of Canara HSBC Life Insurance Company Limited (IPO)
 ---
 

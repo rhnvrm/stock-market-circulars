@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - DARSHANORNA
 tags:
-- recovery-certificate
 - cancellation-order
-- enforcement
 - compliance
-- darshan-orna-limited
+- enforcement
+- recovery
 title: Cancellation Order for Recovery Certificate No. 8912 of 2025 Against Ms. Kruti
   Kevin Kapadia - Darshan Orna Limited Matter
 ---

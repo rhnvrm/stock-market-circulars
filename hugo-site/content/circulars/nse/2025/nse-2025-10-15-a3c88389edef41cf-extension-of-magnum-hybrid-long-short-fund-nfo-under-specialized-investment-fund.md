@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- allotment-date
 - mutual-fund
 - nfo
 - sbi-mutual-fund
-- allotment-date
+- sif
 - sip
 - xsip
-- specialized-investment-fund
 title: Extension of Magnum Hybrid Long Short Fund NFO under Specialized Investment
   Fund (SIF) on NSE MF Invest Platform
 ---

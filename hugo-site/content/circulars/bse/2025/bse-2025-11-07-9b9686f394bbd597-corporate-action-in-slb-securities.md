@@ -40,7 +40,7 @@ stocks:
 - PRICOLLTD
 - NUVAMA
 - INFY
-- KPENERGY
+- KPEL
 - PIPAVAV
 - CHAMBLFERT
 - CHALET
@@ -52,14 +52,14 @@ stocks:
 - PRECWIRE
 - KPIGREEN
 tags:
-- slb
-- securities-lending-borrowing
+- buyback
+- collateral
 - corporate-action
 - dividend
-- buyback
-- spin-off
-- stock-split
 - foreclosure
+- scheme-of-arrangement
+- slb
+- split
 title: Corporate Action in SLB Securities - November 2025
 ---
 

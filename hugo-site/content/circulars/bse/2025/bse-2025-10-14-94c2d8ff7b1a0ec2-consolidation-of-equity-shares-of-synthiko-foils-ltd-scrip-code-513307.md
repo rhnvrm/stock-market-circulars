@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SYNTHIKO
 tags:
-- corporate-actions
-- share-consolidation
-- equity-shares
+- corporate-action
+- equity
 - record-date
-- trading-restriction
-- synthiko-foils
+- share-consolidation
+- trading-restrictions
 title: Consolidation of Equity Shares of Synthiko Foils Ltd (Scrip Code 513307)
 ---
 

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - VHFCL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
-- vastu-housing-finance
-- ncd
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
+- vastu-housing-finance
 title: Part Redemption of Debentures of VASTU HOUSING FINANCE CORPORATION LIMITED
 ---
 

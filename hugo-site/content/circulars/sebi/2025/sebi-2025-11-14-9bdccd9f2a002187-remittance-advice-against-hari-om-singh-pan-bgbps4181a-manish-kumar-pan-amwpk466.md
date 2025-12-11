@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-proceedings
 - defaulters
-- recovery-certificate
 - enforcement
-- continental-seeds-chemicals
+- recovery
 title: Remittance Advice - Recovery Certificate No. 8858 of 2025 against Multiple
   Defaulters in Continental Seeds and Chemicals Limited Matter
 ---

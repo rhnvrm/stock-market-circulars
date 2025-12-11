@@ -28,12 +28,12 @@ source: bse
 stocks:
 - DHANI
 tags:
-- slb
-- exclusion
-- amalgamation
-- dhani-services
-- trading-operations
+- addition
 - contract-removal
+- dhani-services
+- scheme-of-arrangement
+- slb
+- trading-operations
 title: Exclusion of SLB Contracts of Dhani Services Ltd (DHANI) from SLB Segment
 ---
 

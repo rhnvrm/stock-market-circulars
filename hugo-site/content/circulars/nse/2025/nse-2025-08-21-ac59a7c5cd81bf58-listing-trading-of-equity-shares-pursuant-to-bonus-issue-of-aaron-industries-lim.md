@@ -25,11 +25,11 @@ source: nse
 stocks:
 - AARON
 tags:
-- bonus-issue
-- equity-shares
+- aaron-industries
+- bonus
+- equity
 - listing
 - trading
-- aaron-industries
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Aaron Industries
   Limited
 ---

@@ -36,10 +36,8 @@ stocks:
 - RBA
 tags:
 - esop
-- esos
-- securities-listing
-- employee-stock-options
-- new-shares
+- listing
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS by 9 Companies
 ---
 

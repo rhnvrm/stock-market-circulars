@@ -31,11 +31,11 @@ stocks:
 - 5PAISA
 - 63MOONS
 tags:
-- rtcm
-- trade-cancellation
-- surveillance
 - eligible-securities
 - market-operations
+- rtcm
+- surveillance
+- trade-cancellation
 title: Reversal Trade Cancellation Mechanism (RTCM) - September 2025 Eligible Securities
   List
 ---

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - AUTORIDERS
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
-- autoriders-international
+- equity
 - scrip-512277
 title: Bonus Issue of Autoriders International Ltd - 29,00,700 Equity Shares
 ---

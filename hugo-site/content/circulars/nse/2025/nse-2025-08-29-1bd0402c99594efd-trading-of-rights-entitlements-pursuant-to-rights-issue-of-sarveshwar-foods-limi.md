@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SARVES
 tags:
-- rights-issue
-- trading
-- rights-entitlements
-- renunciation
 - demat
+- renunciation
+- rights-issue
 - trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Sarveshwar Foods
   Limited
 ---

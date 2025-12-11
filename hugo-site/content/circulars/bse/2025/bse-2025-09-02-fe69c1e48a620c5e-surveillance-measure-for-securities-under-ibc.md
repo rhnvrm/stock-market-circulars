@@ -26,11 +26,10 @@ source: bse
 stocks:
 - AGSTECH
 tags:
-- surveillance
-- ibc
+- ags-transact
+- corporate-action
 - insolvency
-- corporate-announcement
-- AGS-Transact
+- surveillance
 title: Surveillance Measure for Securities under IBC
 ---
 

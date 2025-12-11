@@ -26,12 +26,11 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
+- bajaj-finance
 - debt-securities
 - listing
-- bajaj-finance
+- ncd
 - private-placement
-- non-convertible-debentures
-- BAJAJFINSV
 title: Listing of New Debt Securities of Bajaj Finance Limited
 ---
 

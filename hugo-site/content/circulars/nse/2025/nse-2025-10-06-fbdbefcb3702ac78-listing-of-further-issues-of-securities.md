@@ -31,12 +31,12 @@ stocks:
 - IIFLCAPS
 - INDSWFTLAB
 tags:
-- listing
-- equity-shares
+- conversion
+- equity
 - esop
-- preferential-allotment
-- warrants-conversion
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of Securities - Seven Companies
 ---
 

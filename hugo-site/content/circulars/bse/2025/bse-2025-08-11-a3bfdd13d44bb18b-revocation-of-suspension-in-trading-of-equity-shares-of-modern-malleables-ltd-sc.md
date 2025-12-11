@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '517336'
+- MODMA
 tags:
-- suspension-revocation
-- trading-resumption
-- equity-shares
+- equity
 - modern-malleables
+- release
+- trading-resumption
 title: Revocation of Suspension in trading of equity shares of Modern Malleables Ltd
 ---
 

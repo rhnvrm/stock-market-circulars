@@ -34,14 +34,14 @@ stocks:
 - GANESHCP
 - IMFA
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
+- record-date
 - redemption
-- corporate-actions
-- commercial-paper
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

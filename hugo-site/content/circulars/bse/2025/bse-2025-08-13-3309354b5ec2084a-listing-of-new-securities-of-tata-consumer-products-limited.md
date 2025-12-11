@@ -25,10 +25,9 @@ source: bse
 stocks:
 - TATACONS
 tags:
-- new-listing
-- equity-shares
+- equity
+- listing
 - trading-approval
-- tata-consumer
 title: Listing of New Securities of Tata Consumer Products Limited
 ---
 

@@ -27,12 +27,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- completed
 - enforcement
 - illiquid-stock-options
+- recovery
 - sanjay-shastri-huf
-- recovery-proceedings
-- completed
 title: Completion of Recovery Certificate No. RC8355 of 2024 - Sanjay Shastri HUF
   (Illiquid Stock Options)
 ---

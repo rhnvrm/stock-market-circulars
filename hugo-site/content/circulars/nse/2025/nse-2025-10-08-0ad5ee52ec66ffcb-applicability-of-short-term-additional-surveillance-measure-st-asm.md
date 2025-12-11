@@ -38,14 +38,9 @@ stocks:
 - TECHD
 - TGL
 tags:
+- asm-stage
+- margin
 - surveillance
-- ASM
-- ST-ASM
-- margin-requirement
-- INDBANK
-- INDRAMEDCO
-- ORBTEXP
-- TARACHAND
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

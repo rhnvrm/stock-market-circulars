@@ -27,12 +27,12 @@ source: nse
 stocks:
 - MANINDS
 tags:
-- investigation
+- appeal
 - debarment
-- sat-order
-- sebi-enforcement
-- penalty
+- investigation
 - man-industries
+- penalty
+- sebi-enforcement
 - securities-market-access
 - stay-order
 title: SAT Order in the matter of Man Industries India Limited

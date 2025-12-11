@@ -28,11 +28,10 @@ stocks:
 - ASHNISHA
 - SHAHI
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-safety
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

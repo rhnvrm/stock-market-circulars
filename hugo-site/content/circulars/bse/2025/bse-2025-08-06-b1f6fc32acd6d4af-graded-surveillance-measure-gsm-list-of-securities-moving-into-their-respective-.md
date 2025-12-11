@@ -29,10 +29,9 @@ stocks:
 - GSL
 - HFL
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-safety
 title: GSM Framework Updates - Four Securities Moving to Higher Surveillance Stages
 ---
 

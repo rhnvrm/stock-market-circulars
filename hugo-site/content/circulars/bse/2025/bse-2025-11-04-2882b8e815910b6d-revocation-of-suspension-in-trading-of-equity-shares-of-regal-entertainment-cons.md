@@ -27,11 +27,10 @@ source: bse
 stocks:
 - REGALENT
 tags:
-- trading-suspension-revocation
-- equity-shares
+- equity
 - nbfc
-- regal-entertainment
 - resumption-of-trading
+- trading-suspension-revocation
 title: Revocation of Suspension in Trading of Equity Shares of Regal Entertainment
   & Consultants Ltd
 ---

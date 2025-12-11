@@ -58,13 +58,13 @@ stocks:
 - NHPC
 - TIMETECHNO
 tags:
-- corporate-actions
-- dividend
-- bonus-issue
-- slb
-- securities-lending-borrowing
+- bonus
 - book-closure
-- ex-date
+- collateral
+- corporate-action
+- dividend
+- record-date
+- slb
 title: Corporate Action Schedule for SLB Securities - Dividend and Bonus Issues
 ---
 

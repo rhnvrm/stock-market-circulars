@@ -29,10 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- moneyboxx-finance
-- debentures
-- new-listing
 title: Listing of New Debt Securities of MONEYBOXX FINANCE LIMITED
 ---
 

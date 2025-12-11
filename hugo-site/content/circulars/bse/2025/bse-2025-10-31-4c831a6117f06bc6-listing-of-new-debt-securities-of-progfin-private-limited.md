@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- further-issue
 - listing
 - private-placement
 - progfin-private-limited
-- new-issuance
 title: Listing of New Debt Securities of Progfin Private Limited
 ---
 

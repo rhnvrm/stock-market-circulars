@@ -26,9 +26,9 @@ source: nse
 stocks: []
 tags:
 - derivatives
-- position-limits
 - index-options
 - intraday-trading
+- position-limits
 - risk-monitoring
 - surveillance
 title: Framework for Intraday Position Limits Monitoring of Equity Index Derivatives

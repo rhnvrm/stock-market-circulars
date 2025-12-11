@@ -26,11 +26,9 @@ source: nse
 stocks:
 - BPCL
 tags:
-- futures-and-options
-- dividend-adjustment
 - contract-adjustment
 - derivatives
-- BPCL
+- futures-options
 title: Adjustment of Futures and Options Contracts in BHARAT PETROLEUM CORPORATION
   LIMITED (BPCL)
 ---

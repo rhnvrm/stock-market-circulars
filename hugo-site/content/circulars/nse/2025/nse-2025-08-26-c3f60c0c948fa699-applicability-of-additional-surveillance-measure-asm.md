@@ -28,11 +28,10 @@ stocks:
 - LANCORHOL
 - ZUARI
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trade-for-trade
+- margin
 - risk-management
+- surveillance
+- trade-for-trade
 title: NSE Implements Additional Surveillance Measure (ASM) for Three Securities
 ---
 

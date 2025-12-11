@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aditya-birla-sun-life
+- liquid-fund
+- minimum-investment
 - mutual-fund
 - scheme-modification
-- minimum-investment
-- overnight-fund
-- aditya-birla-sun-life
 title: Change in Minimum Application Amount of Aditya Birla Sun Life Overnight Fund
   on BSE StAR MF Platform
 ---

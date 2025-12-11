@@ -27,10 +27,9 @@ stocks:
 - KMIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kotak-mahindra
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

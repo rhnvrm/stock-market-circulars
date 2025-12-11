@@ -27,16 +27,15 @@ severity: low
 source: bse
 stocks: []
 tags:
+- index-fund
 - mutual-fund
 - navi-mutual-fund
-- index-fund
 - nifty-midsmallcap-400
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
-- bse-star-mf
+- swp
 title: Availability of NAVI NIFTY MIDSMALLCAP 400 INDEX FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

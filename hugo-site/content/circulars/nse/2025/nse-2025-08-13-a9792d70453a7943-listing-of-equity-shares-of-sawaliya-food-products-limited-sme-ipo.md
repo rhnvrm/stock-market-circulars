@@ -25,11 +25,10 @@ source: nse
 stocks:
 - SAWALIYA
 tags:
-- sme-ipo
+- equity
 - listing
 - shareholding-pattern
-- sawaliya-food-products
-- equity-shares
+- sme
 title: Listing of Equity Shares of Sawaliya Food Products Limited (SME IPO)
 ---
 

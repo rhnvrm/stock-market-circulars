@@ -26,11 +26,10 @@ source: bse
 stocks:
 - JTEKT
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - renunciation
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements Trading for JTEKT INDIA LIMITED
 ---
 

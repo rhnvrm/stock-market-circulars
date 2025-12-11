@@ -27,13 +27,13 @@ source: bse
 stocks:
 - JMFCSL
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
 - jm-financial-credit-solutions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Credit Solutions Limited
 ---
 

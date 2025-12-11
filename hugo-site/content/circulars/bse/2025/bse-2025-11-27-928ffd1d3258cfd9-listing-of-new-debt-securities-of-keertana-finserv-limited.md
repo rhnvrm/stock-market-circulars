@@ -27,11 +27,10 @@ source: bse
 stocks:
 - KEERTANA
 tags:
-- debt-listing
+- debt-securities
+- demat
 - ncd
-- keertana-finserv
 - private-placement
-- dematerialised-trading
 title: Listing of New Debt Securities of Keertana Finserv Limited
 ---
 

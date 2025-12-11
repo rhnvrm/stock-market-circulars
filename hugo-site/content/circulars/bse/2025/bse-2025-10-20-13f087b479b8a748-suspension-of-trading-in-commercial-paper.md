@@ -32,16 +32,10 @@ stocks:
 - 360OPL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
+- corporate-action
 - debt-securities
-- corporate-actions
-- SBICAPSL
-- HSL
-- AEL
-- ASL
-- NFL
-- 360OPL
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

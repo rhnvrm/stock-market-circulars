@@ -28,12 +28,11 @@ source: sebi
 stocks: []
 tags:
 - enforcement
-- recovery-proceedings
-- unregistered-investment-advisor
-- recovery-certificate
 - general-remittance-order
-- thousand-keys
+- recovery
 - tapas-das
+- thousand-keys
+- unregistered-investment-advisor
 title: 'General Remittance Order Against Thousand Keys (Proprietor: Tapas Das) for
   Unregistered Investment Advisory Services'
 ---

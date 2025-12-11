@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-merger
 - aditya-birla-sun-life
-- debt-fund
-- interval-fund
+- debt-securities
 - index-fund
+- interval-fund
+- mutual-fund
+- scheme-merger
 title: Merger of Aditya Birla Sun Life Interval Income Quarterly Series 1 Schemes
 ---
 

@@ -28,12 +28,10 @@ source: bse
 stocks:
 - INDSWFTLAB
 tags:
-- listing
-- amalgamation
-- equity-shares
-- scheme-of-arrangement
+- equity
 - ind-swift-laboratories
-- merger
+- listing
+- scheme-of-arrangement
 title: Listing of new securities of Ind-Swift Laboratories Limited
 ---
 

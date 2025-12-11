@@ -28,12 +28,12 @@ source: bse
 stocks: []
 tags:
 - bank-guarantee
+- capital-market
 - clearing-members
 - collateral
-- iccl
-- capital-requirements
-- liquid-assets
 - compliance
+- iccl
+- liquid-fund
 title: Revised Format of Bank Guarantee (New/Renewal) towards Base Minimum Capital
   and Additional Capital (Liquid Assets)
 ---

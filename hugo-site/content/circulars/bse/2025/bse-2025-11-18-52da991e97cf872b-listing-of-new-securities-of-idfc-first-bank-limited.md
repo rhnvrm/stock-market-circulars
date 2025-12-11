@@ -28,11 +28,11 @@ source: bse
 stocks:
 - IDFCFIRSTB
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- ccps-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of IDFC First Bank Limited
 ---
 

@@ -24,23 +24,23 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BILCARE
-- GTNTEXTILES
+- BI
+- GTNTEX
 - INDIAHOME
 - KAMADGIRI
-- KRISHNAVENTURES
+- KRISHNA
 - LEXORAA
 - RAJESHWARI
 - SCARNOSE
 - SHAHALLOYS
 - SHREEKRISHNA
-- SCANPROJECTS
+- SCANPRO
 - BCCFUBA
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

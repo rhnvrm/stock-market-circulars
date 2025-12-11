@@ -26,10 +26,9 @@ source: nse
 stocks:
 - BECTORFOOD
 tags:
-- ISIN-change
-- share-subdivision
 - corporate-action
-- BECTORFOOD
+- face-value-change
+- isin
 title: Change in ISIN - Mrs. Bectors Food Specialities Limited (BECTORFOOD)
 ---
 

@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nse-mf-invest
 - bajaj-mutual-fund
 - banking-financial-services-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
+- trading-platform
 title: Availability of Bajaj Finserv Banking and Financial Services Fund for Ongoing
   Transactions on NSE MF Invest Platform
 ---

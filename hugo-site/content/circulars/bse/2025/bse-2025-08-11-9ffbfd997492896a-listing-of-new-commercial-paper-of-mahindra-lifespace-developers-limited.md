@@ -26,9 +26,9 @@ stocks:
 - MLDL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - mahindra-lifespace
+- private-placement
 title: Listing of new Commercial Paper of Mahindra Lifespace Developers Limited
 ---
 

@@ -26,11 +26,8 @@ source: bse
 stocks:
 - BILVYPR
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---

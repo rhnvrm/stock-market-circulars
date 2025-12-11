@@ -27,10 +27,10 @@ source: nse
 stocks:
 - ALLCARGO
 tags:
-- trade-for-trade
-- settlement-mechanism
-- call-auction
+- call-money
 - scheme-of-arrangement
+- settlement-mechanism
+- trade-for-trade
 - trading-restrictions
 title: Trade for Trade Settlement - Allcargo Logistics Limited
 ---

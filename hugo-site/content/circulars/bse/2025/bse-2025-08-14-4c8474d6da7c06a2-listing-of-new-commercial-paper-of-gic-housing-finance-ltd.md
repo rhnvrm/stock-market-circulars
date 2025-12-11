@@ -26,9 +26,9 @@ stocks:
 - GICHSGFIN
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - gic-housing-finance
+- private-placement
 title: Listing of new Commercial Paper of GIC Housing Finance Ltd.
 ---
 

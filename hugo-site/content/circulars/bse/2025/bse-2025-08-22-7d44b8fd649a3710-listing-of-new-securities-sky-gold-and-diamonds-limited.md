@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SKYG
 tags:
+- bonus
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- bonus-shares
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities - Sky Gold And Diamonds Limited
 ---
 

@@ -27,10 +27,10 @@ stocks:
 - SDAL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icra-rating
 - private-placement
 - solar-defence-aerospace
-- icra-rating
 title: Listing of new Commercial Paper of Solar Defence and Aerospace Limited
 ---
 

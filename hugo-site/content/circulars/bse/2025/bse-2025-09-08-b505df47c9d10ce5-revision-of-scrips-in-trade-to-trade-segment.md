@@ -44,10 +44,10 @@ stocks:
 - RELHOME
 - ASSOCOA
 tags:
-- trade-to-trade
-- trading-segment
-- surveillance
 - group-revision
+- surveillance
+- trade-to-trade
+- trading
 title: Revision of Scrips in Trade to Trade Segment
 ---
 

@@ -25,13 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- cybersecurity
-- cyber-resilience
-- framework
-- clarifications
-- multiple-regulators
+- clarification
 - compliance
-- CSCRF
+- cscrf
+- cybersecurity
+- framework
+- multiple-regulators
 title: Technical Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF)
   for SEBI Regulated Entities
 ---

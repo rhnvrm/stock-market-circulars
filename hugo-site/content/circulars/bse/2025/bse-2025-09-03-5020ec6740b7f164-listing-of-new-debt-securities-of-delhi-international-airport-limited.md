@@ -25,11 +25,11 @@ source: bse
 stocks:
 - DIAL
 tags:
-- debt-listing
-- private-placement
-- infrastructure
 - airport
-- bonds
+- bond
+- debt-securities
+- infrastructure
+- private-placement
 title: Listing of New Debt Securities of Delhi International Airport Limited
 ---
 

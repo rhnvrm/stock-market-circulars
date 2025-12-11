@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- settlement-calendar
-- debt-segment
-- september-2025
 - clearing
-- t+1-settlement
-- auction-settlement
+- debt-securities
+- september-2025
+- settlement
+- settlement-calendar
+- t1-settlement
 title: Settlement Calendar for September 2025 - Debt Segment
 ---
 

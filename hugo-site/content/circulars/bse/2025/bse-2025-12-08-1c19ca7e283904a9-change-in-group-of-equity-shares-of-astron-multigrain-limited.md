@@ -28,12 +28,12 @@ source: bse
 stocks:
 - ASTRON
 tags:
-- group-change
-- trade-for-trade
-- rolling-segment
-- sme-ipo
-- trading-segment
 - astron-multigrain
+- group-change
+- rolling-segment
+- sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of ASTRON MULTIGRAIN LIMITED
 ---
 

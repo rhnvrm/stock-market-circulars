@@ -26,13 +26,13 @@ source: bse
 stocks:
 - FLEXIADD
 tags:
+- demat
+- dsp-mutual-fund
 - etf
 - listing
+- market-makers
 - mutual-fund
 - nifty500
-- dsp-mutual-fund
-- market-makers
-- demat-only
 title: Listing of Units of DSP Nifty500 Flexicap Quality 30 ETF
 ---
 

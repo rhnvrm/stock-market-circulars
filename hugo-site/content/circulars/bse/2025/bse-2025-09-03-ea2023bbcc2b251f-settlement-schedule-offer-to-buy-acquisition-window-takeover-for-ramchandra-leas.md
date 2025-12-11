@@ -27,11 +27,11 @@ source: bse
 stocks:
 - RAMCHANDRA
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for RAMCHANDRA
   LEASING AND FINANCE LIMITED
 ---

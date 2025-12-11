@@ -38,11 +38,10 @@ stocks:
 - PRIMEFOC
 - PHOSPHATE
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Updates - August 2025
 ---
 

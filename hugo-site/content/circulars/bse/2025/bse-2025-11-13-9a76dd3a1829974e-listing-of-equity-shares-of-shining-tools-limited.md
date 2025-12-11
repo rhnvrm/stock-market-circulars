@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- SHININGTOOLS
+- SHTL
 tags:
-- listing
-- equity-shares
-- lock-in-period
+- equity
 - ipo
-- new-listing
+- listing
+- lock-in
 title: Listing of Equity Shares of Shining Tools Limited
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mock-trading
+- connectivity
 - disaster-recovery
 - equity
-- bolt-plus
-- trading-systems
-- connectivity
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading from Disaster Recovery (DR) site on Saturday, August 09, 2025
   for Equity segment
 ---

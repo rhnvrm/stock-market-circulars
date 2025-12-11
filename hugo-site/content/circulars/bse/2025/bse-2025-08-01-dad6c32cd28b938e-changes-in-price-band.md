@@ -54,7 +54,7 @@ stocks:
 - HYBRID
 - IGCIND
 - INDIANLINK
-- ISF
+- ISFL
 - JHAVERI
 - KNRRAIL
 - KAYPOWER
@@ -94,10 +94,10 @@ stocks:
 - VIVID
 - VRWOOD
 tags:
+- equity
 - price-band
-- trading
 - surveillance
-- equity-segment
+- trading
 title: Changes in Price Band for 68 Securities Effective August 04, 2025
 ---
 

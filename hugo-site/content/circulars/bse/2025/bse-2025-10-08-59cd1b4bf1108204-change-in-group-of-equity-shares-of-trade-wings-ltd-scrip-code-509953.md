@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '509953'
+- TRADWIN
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
 - trading-restrictions
-- equity-shares
-- '509953'
 title: 'Change in Group of Equity Shares of Trade Wings Ltd. (Scrip Code: 509953)'
 ---
 

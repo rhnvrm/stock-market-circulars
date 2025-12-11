@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- broker-credentials
-- id-cards
-- expiry
 - authorized-persons
+- broker-credentials
 - compliance
+- expiry
+- id-cards
 title: BSE Broker ID Cards Expiry Data - July 2025
 ---
 

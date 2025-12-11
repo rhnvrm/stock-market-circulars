@@ -26,14 +26,14 @@ source: nse
 stocks:
 - BAJAJFINSV
 tags:
-- nri-investment
-- usa-residents
-- mutual-funds
 - bajaj-finserv
-- nse-mf-platform
-- non-demat
-- declaration
 - compliance
+- declaration
+- mutual-fund
+- non-demat
+- nri-investment
+- nse-mf-platform
+- usa-residents
 title: Acceptance of transaction for Non-Residents of India based in United States
   of America on NSE MF Invest Platform on Non-Demat mode for Bajaj Mutual Fund
 ---

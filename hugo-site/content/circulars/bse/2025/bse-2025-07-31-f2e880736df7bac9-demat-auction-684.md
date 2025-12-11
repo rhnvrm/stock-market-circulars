@@ -48,7 +48,7 @@ stocks:
 - GILADAFINAN
 - GNGELECTRON
 - GRASIM
-- GUJARATGAS
+- GUJGASLTD
 - HARSHAENGIN
 - HAZOORMULTI
 - HINDRECTIFI
@@ -67,7 +67,7 @@ stocks:
 - MPHASIS
 - NAGPURPOWER
 - NEXUSSELECT
-- OMAXAUTOS
+- OMAXAUTO
 - PARKERAGROC
 - POLYCAB
 - POLYCHEM
@@ -89,10 +89,10 @@ stocks:
 - XPROINDIA
 - ZUARIINDUST
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction Settlement No. 684
 ---
 

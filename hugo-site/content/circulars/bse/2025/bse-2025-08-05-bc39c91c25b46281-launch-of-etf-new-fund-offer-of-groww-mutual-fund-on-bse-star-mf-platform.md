@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- nfo
 - groww
+- mutual-fund
+- nfo
 - nifty-next-50
-- bse-star-mf
 title: Launch of GROWW NIFTY NEXT 50 ETF New Fund Offer on BSE StAR MF Platform
 ---
 

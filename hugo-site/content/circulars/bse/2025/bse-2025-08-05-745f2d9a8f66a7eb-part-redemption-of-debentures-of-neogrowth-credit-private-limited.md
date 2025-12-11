@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NEOGROWTH
 tags:
-- corporate-actions
-- debt
-- debentures
-- part-redemption
-- neogrowth-credit
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 title: Part Redemption of Debentures of NEOGROWTH CREDIT PRIVATE LIMITED
 ---
 

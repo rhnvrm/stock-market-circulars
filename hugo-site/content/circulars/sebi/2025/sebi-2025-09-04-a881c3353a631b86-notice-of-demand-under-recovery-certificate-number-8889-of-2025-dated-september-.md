@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - AKI
 tags:
-- recovery-certificate
-- demand-notice
-- enforcement
-- defaulter
 - aki-india-limited
 - compliance
+- defaulter
+- demand-notice
+- enforcement
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8889 of 2025 against AKI India
   Limited
 ---

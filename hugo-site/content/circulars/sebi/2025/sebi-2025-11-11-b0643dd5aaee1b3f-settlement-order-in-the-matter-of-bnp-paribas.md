@@ -27,14 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- fpi-regulations
-- bnp-paribas
-- regulatory-violation
-- category-ii-fpi
-- uk-fca
 - adjudication
-- compliance-failure
+- bnp-paribas
+- category-ii-fpi
+- fpi-regulations
+- non-compliance
+- settlement-order
+- uk-fca
 title: Settlement Order in the matter of BNP Paribas
 ---
 

@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- CDGPETCHEM
+- CDG
 tags:
-- takeover
-- acquisition
-- settlement-schedule
-- offer-to-buy
 - cdg-petchem
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for CDG PETCHEM
   LIMITED
 ---

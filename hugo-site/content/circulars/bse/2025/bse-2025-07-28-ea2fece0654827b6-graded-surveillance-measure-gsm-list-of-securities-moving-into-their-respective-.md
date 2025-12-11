@@ -29,14 +29,13 @@ stocks:
 - SINNBIDI
 - OSCARGL
 tags:
-- gsm
-- surveillance
-- market-monitoring
-- compliance
 - adline-chem
-- velan-hotels
-- sinnar-bidi
+- compliance
+- market-operations
 - oscar-global
+- sinnar-bidi
+- surveillance
+- velan-hotels
 title: GSM Framework Updates - Four Securities Move to Different Surveillance Stages
 ---
 

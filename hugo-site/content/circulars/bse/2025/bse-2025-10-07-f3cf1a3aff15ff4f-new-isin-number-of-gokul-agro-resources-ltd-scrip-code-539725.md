@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOKUL
 tags:
-- isin-change
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - scrip-539725
+- split
 title: New ISIN Number for Gokul Agro Resources Ltd Following Sub-Division of Equity
   Shares
 ---

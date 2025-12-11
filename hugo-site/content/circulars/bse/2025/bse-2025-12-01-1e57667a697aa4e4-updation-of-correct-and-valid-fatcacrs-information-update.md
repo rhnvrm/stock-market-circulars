@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fatca
 - crs
-- bse-star-mf
 - document-id
-- system-update
+- fatca
 - implementation-postponed
+- mutual-fund
+- system-update
 title: BSE StAR MF Platform - FATCA/CRS Document ID Type Implementation Postponed
   to December 16, 2025
 ---

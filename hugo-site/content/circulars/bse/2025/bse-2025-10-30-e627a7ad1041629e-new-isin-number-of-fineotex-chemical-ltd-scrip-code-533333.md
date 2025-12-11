@@ -27,11 +27,10 @@ source: bse
 stocks:
 - FINEOTEX
 tags:
-- isin-change
-- stock-split
-- equity-shares
-- sub-division
 - corporate-action
+- equity
+- isin
+- split
 title: 'New ISIN Number for Fineotex Chemical Ltd (Scrip Code: 533333)'
 ---
 

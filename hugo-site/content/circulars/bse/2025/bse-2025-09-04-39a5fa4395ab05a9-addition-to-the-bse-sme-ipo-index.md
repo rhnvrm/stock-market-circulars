@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544498'
+- OVAL
 tags:
-- index-addition
-- sme-ipo
+- index-change
 - listing
 - oval-projects
+- sme
 title: Addition to the BSE SME IPO INDEX - Oval Projects Engineering Limited
 ---
 

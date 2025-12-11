@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543310'
+- TIMESGREEN
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- times-green-energy
+- rights-issue
 title: Listing of New Securities of Times Green Energy (India) Limited
 ---
 

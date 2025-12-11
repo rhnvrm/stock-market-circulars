@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HDBFSL
 tags:
-- debt-listing
-- private-placement
-- debentures
+- debt-securities
 - hdb-financial-services
-- new-listing
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of HDB Financial Services Limited
 ---
 

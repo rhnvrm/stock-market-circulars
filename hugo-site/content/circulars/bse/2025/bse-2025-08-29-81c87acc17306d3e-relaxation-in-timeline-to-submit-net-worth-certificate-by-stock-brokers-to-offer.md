@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- margin-trading
-- net-worth-certificate
-- stock-brokers
+- certificate
 - compliance
-- timeline-extension
+- extension
+- margin
 - sebi
+- stock-broker
 title: Relaxation in timeline to submit net worth certificate by Stock Brokers to
   offer margin trading facility
 ---

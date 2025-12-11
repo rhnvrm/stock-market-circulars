@@ -25,12 +25,11 @@ source: nse
 stocks:
 - SELLOWRAP
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
-- tfts
-- sellowrap
+- equity
+- listing
+- sme
+- trading-platform
 title: Listing of Equity Shares of Sellowrap Industries Limited (SME IPO)
 ---
 

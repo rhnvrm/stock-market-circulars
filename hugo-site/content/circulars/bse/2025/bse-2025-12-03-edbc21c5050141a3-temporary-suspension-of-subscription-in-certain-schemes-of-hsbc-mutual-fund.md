@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
+- fund-of-funds
+- hsbc-mutual-fund
 - mutual-fund
-- subscription-suspension
 - overseas-investment
 - sebi-limits
-- hsbc-mutual-fund
-- fund-of-fund
 - sip
 - stp
-- regulatory-compliance
+- suspension
 title: Temporary Suspension of Subscription in Certain Schemes of HSBC Mutual Fund
 ---
 

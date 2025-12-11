@@ -27,7 +27,7 @@ stocks:
 - GRASIM
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - grasim-industries
 - private-placement
 - short-term-debt

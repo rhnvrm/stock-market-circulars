@@ -27,10 +27,10 @@ stocks:
 - FISCHER
 tags:
 - corporate-action
-- isin-change
-- share-subdivision
-- equity-shares
+- equity
+- face-value-change
 - fischer-medical
+- isin
 title: New ISIN Number for FISCHER MEDICAL VENTURES LTD Following Share Sub-Division
 ---
 

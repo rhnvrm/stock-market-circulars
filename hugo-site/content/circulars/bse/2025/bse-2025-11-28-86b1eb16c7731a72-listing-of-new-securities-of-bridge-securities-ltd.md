@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BRIDGESEC
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- lock-in
 - company-related
+- conversion
+- equity
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Bridge Securities Ltd.
 ---
 

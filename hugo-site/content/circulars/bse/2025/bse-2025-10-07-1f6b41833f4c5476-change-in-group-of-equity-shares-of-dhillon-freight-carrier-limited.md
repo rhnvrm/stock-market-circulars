@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DHILLON
 tags:
+- dhillon-freight-carrier
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- dhillon-freight-carrier
 title: Change in Group of Equity Shares of Dhillon Freight Carrier Limited
 ---
 

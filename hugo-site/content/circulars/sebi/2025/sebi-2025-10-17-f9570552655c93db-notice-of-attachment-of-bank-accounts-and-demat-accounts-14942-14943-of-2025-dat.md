@@ -27,14 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - attachment
 - defaulter
+- enforcement
 - ipo
-- recovery-certificate
-- bank-account-attachment
-- demat-account-attachment
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against LMR Green
   Realty Private Limited
 ---

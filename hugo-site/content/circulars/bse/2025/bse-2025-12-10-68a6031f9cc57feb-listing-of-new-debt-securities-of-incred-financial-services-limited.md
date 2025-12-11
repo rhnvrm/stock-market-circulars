@@ -29,11 +29,10 @@ stocks:
 - INCRED
 tags:
 - debt-securities
-- listing
-- private-placement
 - incred-financial
-- debentures
-- non-convertible-debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of InCred Financial Services Limited
 ---
 

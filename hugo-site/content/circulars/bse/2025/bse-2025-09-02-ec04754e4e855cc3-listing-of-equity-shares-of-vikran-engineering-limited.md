@@ -26,10 +26,9 @@ source: bse
 stocks:
 - VIKRAN
 tags:
+- equity
 - listing
-- equity-shares
 - shareholding-pattern
-- VIKRAN
 title: Listing of Equity Shares of Vikran Engineering Limited
 ---
 

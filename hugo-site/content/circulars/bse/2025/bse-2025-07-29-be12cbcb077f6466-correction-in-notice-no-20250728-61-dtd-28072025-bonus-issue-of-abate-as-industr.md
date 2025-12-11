@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ABATE
 tags:
-- correction
-- bonus-issue
-- corporate-actions
 - abate-as-industries
+- bonus
+- corporate-action
+- correction
 title: Correction in Notice No. 20250728-61 - Bonus Issue of Abate AS Industries Ltd.
 ---
 

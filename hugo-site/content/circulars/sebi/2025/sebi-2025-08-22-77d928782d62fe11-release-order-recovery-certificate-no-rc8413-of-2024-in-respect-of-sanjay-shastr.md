@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- release-order
-- illiquid-stock-options
-- enforcement
 - compliance
+- enforcement
+- illiquid-stock-options
+- recovery
+- release
 title: 'Release Order - Recovery Certificate No. RC8413 of 2024 in respect of Sanjay
   Shastri (PAN: ASUPS2845K) in the matter of Illiquid Stock Options'
 ---

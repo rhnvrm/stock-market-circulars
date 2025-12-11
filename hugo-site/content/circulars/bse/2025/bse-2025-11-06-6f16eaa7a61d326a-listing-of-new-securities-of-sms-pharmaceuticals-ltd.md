@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SMSLIFE
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- promoter-shareholding
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of 50 Lakh New Equity Shares of SMS Pharmaceuticals Ltd
 ---
 

@@ -27,11 +27,11 @@ stocks:
 - CURA
 tags:
 - listing
-- new-securities
-- merger
-- resolution-plan
 - nclt
-- preferential-allotment
+- new-securities
+- preferential-issue
+- resolution-plan
+- scheme-of-arrangement
 title: Listing of New Securities of Cura Technologies Limited
 ---
 

@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- specialized-investment-funds
-- minimum-investment-threshold
-- compliance-monitoring
-- mutual-funds
 - amc
-- redemption
+- compliance-monitoring
 - investor-protection
+- minimum-investment-threshold
+- mutual-fund
+- redemption
+- sif
 title: Monitoring of Minimum Investment Threshold under Specialized Investment Funds
   (SIF)
 ---

@@ -28,14 +28,11 @@ source: bse
 stocks:
 - JCHAC
 tags:
-- offer-to-buy
-- takeover
-- acquisition-window
-- otb
 - equity
-- trading-schedule
-- jchac
 - johnson-controls-hitachi
+- otb
+- takeover
+- trading-schedule
 title: Particulars of Offer to Buy for Johnson Controls-Hitachi Air Conditioning India
   Ltd - Live Activities Schedule
 ---

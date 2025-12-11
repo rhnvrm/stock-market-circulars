@@ -55,10 +55,10 @@ stocks:
 - WORTH
 - YASHTRA
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-operations
 - volatility-control
 title: Changes in Price Band for 31 Securities Effective December 1, 2025
 ---

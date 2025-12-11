@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- fatf
-- compliance
 - anti-money-laundering
-- trading-members
+- compliance
 - enit
-- inspection
+- fatf
+- investigation
+- trading-member
 title: FATF Public Statement on Jurisdictions - June 2025 Plenary Compliance Update
 ---
 

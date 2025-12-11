@@ -27,13 +27,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- fee-structure
 - aum-fees
-- distribution-arrangement
-- second-opinion
 - client-disclosure
+- distribution-arrangement
 - ease-of-doing-business
+- fee-structure
+- investment-adviser
+- second-opinion
 title: Investment Advisers Permitted to Charge Fees for Second Opinion on Assets Under
   Pre-existing Distribution Arrangements
 ---

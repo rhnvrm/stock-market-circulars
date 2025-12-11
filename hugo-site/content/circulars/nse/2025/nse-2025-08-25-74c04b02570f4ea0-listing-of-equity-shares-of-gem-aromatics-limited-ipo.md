@@ -26,11 +26,9 @@ source: nse
 stocks:
 - GEMAROMA
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
-- gem-aromatics
 title: Listing of Equity Shares of Gem Aromatics Limited (IPO)
 ---
 

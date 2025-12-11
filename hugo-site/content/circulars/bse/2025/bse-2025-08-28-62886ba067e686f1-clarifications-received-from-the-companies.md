@@ -28,8 +28,8 @@ stocks:
 - YASHCHEM
 tags:
 - clarification
-- price-movement
 - compliance
+- price-movement
 - regulation-30
 title: Clarifications received from the companies
 ---

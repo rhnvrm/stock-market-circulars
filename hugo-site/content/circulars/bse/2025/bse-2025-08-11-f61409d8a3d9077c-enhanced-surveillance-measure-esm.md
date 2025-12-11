@@ -28,16 +28,14 @@ stocks:
 - GANGAPHARMA
 - GAYATRIBIO
 - HTMEDIA
-- JAYBHARATMARUTI
+- JAYBARMARU
 - FOCUSBUSINESS
 - KACCHHMIN
 - SHREERAJSYN
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - EFCL
 tags:
-- debt-securities
-- listing
-- private-placement
-- edel-finance
 - cumulative-interest
-- debentures
+- debt-securities
+- edel-finance
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Edel Finance Company Limited
 ---
 

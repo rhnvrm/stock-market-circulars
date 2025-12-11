@@ -29,13 +29,13 @@ stocks:
 - ECLERX
 tags:
 - book-closure
-- record-date
-- dividend
 - buyback
-- ncd-redemption
 - commercial-paper
+- corporate-action
+- dividend
 - interest-payment
-- corporate-actions
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

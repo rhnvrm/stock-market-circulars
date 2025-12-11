@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ABINFRA
 tags:
-- sub-division
-- stock-split
-- equity-shares
 - corporate-action
-- isin-change
-- '544281'
+- equity
+- isin
+- split
 title: 'Sub-Division of Equity Shares of A B INFRABUILD LTD (Scrip Code: 544281)'
 ---
 

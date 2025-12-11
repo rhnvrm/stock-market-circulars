@@ -31,15 +31,9 @@ stocks:
 - PARIN
 - SIGMA
 tags:
+- segment-transfer
 - surveillance
-- esm
-- enhanced-surveillance
 - trading-restrictions
-- segment-change
-- AAATECH
-- ARIHANTACA
-- PARIN
-- SIGMA
 title: Enhanced Surveillance Measure (ESM) - Addition of 4 Securities to Stage I
 ---
 

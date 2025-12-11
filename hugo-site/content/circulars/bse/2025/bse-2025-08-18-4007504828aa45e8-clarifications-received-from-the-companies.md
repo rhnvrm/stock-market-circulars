@@ -27,10 +27,10 @@ stocks:
 - NEWGEN
 - EVERESTKNT
 tags:
-- volume-movement
 - clarification
-- surveillance
 - disclosure
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

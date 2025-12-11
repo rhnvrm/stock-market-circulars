@@ -32,10 +32,9 @@ stocks:
 - SCINTILLA
 - SHIVANSH
 tags:
-- gsm
-- surveillance
-- market-regulation
+- market-operations
 - risk-management
+- surveillance
 - trading-restrictions
 title: GSM Framework - Five Securities Moving to Higher Surveillance Stages
 ---

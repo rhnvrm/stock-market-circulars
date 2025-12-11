@@ -28,11 +28,10 @@ source: nse
 stocks:
 - CAPILLARY
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
-- capital-market
 title: Listing of Equity Shares of Capillary Technologies India Limited (IPO)
 ---
 

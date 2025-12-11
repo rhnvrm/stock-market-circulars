@@ -36,10 +36,10 @@ stocks:
 - SOUTHERN
 - SPICE
 tags:
-- price-band
-- trading-parameters
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Changes in Price Band for 11 Securities Effective August 12, 2025
 ---
 

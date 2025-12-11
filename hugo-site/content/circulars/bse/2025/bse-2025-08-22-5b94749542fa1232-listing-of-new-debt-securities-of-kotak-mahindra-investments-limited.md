@@ -25,11 +25,10 @@ source: bse
 stocks:
 - KOTAKMAH
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- kotak-mahindra
-- corporate-bonds
 title: Listing of New Debt Securities of Kotak Mahindra Investments Limited
 ---
 

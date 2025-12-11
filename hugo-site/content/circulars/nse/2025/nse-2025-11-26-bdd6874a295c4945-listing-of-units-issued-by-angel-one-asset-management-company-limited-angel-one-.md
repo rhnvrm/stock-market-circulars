@@ -27,12 +27,12 @@ source: nse
 stocks:
 - AONETMMQ50
 tags:
+- angel-one
 - etf
 - listing
-- mutual-fund
-- angel-one
-- nifty-total-market
 - momentum-quality
+- mutual-fund
+- nifty-total-market
 title: Listing of Angel One Nifty Total Market Momentum Quality 50 ETF
 ---
 

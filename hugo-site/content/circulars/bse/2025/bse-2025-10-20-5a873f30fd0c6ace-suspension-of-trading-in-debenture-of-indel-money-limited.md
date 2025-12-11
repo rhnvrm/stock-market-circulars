@@ -27,13 +27,12 @@ source: bse
 stocks:
 - INDELMONEY
 tags:
-- suspension
-- debenture
-- debt-market
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- non-convertible-debenture
+- redemption
+- suspension
 title: Suspension of Trading in Debenture of INDEL MONEY LIMITED
 ---
 

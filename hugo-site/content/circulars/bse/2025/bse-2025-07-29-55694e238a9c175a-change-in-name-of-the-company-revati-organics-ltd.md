@@ -26,11 +26,11 @@ source: bse
 stocks:
 - REVATI
 tags:
-- name-change
 - corporate-action
-- revati-organics
-- revati-media
 - mca-certificate
+- name-change
+- revati-media
+- revati-organics
 title: Change in Name of Revati Organics Limited to Revati Media Limited
 ---
 

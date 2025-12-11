@@ -29,13 +29,13 @@ stocks:
 - BLKASHYAP
 - FMNL
 tags:
-- surveillance
+- derivatives
 - encumbrance
-- margin-requirements
-- sast-regulations
-- promoter-holdings
-- equity-derivatives
+- margin
+- regulatory-framework
 - shalimar-paints
+- shareholding-pattern
+- surveillance
 title: Surveillance Measure for Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

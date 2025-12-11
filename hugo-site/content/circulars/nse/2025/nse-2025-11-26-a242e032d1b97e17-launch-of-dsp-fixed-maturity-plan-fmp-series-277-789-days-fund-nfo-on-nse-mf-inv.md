@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- debt-securities
+- dsp-mutual-fund
+- fixed-income
 - mutual-fund
 - nfo
-- fixed-maturity-plan
-- dsp-mutual-fund
-- debt-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of DSP Fixed Maturity Plan (FMP) - Series 277-789 Days Fund NFO on NSE
   MF Invest Platform
 ---

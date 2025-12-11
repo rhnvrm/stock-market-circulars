@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SWASTIKA
 tags:
-- listing
-- equity-shares
-- lock-in
+- equity
 - ipo
-- swastika-castal
+- listing
+- lock-in
 title: Listing of Equity Shares of Swastika Castal Limited
 ---
 

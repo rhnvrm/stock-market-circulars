@@ -27,8 +27,8 @@ stocks:
 - DALMIABHA
 tags:
 - commercial-paper
-- debt-listing
 - dalmia-cement
+- debt-securities
 - private-placement
 - short-term-debt
 title: Listing of Commercial Paper of Dalmia Cement (Bharat) Limited - Rs. 75 Crores

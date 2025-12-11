@@ -32,9 +32,9 @@ stocks:
 - RAMCHANDRA
 - SNS
 tags:
+- book-building
 - otb
 - takeover
-- bidding
 - trading
 title: Bidding Open for Issues in the Offer to Buy (OTB) Segment on Friday September
   5, 2025

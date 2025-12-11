@@ -26,11 +26,9 @@ source: nse
 stocks:
 - GAYAPROJ
 tags:
-- gsm
+- additional-surveillance-deposit
 - surveillance
 - trade-for-trade
-- additional-surveillance-deposit
-- gayaproj
 title: List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)
 ---
 

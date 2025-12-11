@@ -28,12 +28,11 @@ source: bse
 stocks:
 - MANPHOOL
 tags:
+- book-building
 - delisting
-- voluntary-delisting
-- reverse-book-building
-- acquisition
-- offer-to-buy
-- public-shareholders
+- otb
+- shareholding-pattern
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Delisting) of MANPHOOL EXPORTS
   LIMITED
 ---

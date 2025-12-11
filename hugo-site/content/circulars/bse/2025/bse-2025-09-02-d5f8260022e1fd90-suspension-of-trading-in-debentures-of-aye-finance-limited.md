@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
 - interest-payment
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AYE Finance Limited
 ---
 

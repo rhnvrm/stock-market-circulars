@@ -27,14 +27,13 @@ source: bse
 stocks:
 - INCRED
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- non-convertible-debentures
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of INCRED FINANCIAL SERVICES LIMITED
 ---
 

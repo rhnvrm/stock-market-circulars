@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- nfo
-- mutual-fund
-- gold-etf
-- fund-of-fund
 - baroda-bnp-paribas
-- nse-mf-invest
+- fund-of-funds
+- gold
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Baroda BNP Paribas Gold ETF Fund of Fund NFO on NSE MF Invest Platform
 ---
 

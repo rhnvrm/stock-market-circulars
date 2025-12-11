@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TATACAPITAL
+- TATACAP
 tags:
-- index
-- bse-ipo-index
 - addition
+- bse-index
+- equity
+- index-fund
 - listing
 - tata-capital
-- equity
 title: Addition to the BSE IPO INDEX - Tata Capital Limited
 ---
 

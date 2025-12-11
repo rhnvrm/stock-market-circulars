@@ -27,11 +27,10 @@ stocks:
 - UPL
 tags:
 - call-money
-- partly-paid-shares
-- equity-shares
-- upl
-- ibbs
+- equity
+- partly-paid
 - scsb
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of UPL Limited
 ---
 

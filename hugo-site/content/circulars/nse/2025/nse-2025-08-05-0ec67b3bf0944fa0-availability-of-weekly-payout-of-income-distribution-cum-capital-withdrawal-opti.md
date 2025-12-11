@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - idcw
-- payout
-- liquid-fund
 - invesco
-- platform-update
+- liquid-fund
+- mutual-fund
+- payout
+- system-update
 title: Introduction of Weekly IDCW Payout Option for Invesco India Liquid Fund on
   NSE MF Platform
 ---

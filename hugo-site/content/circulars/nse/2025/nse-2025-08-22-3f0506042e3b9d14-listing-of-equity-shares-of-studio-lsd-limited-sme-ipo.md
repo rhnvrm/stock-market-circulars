@@ -26,11 +26,11 @@ source: nse
 stocks:
 - STUDIOLSD
 tags:
+- equity
 - listing
-- sme-ipo
-- shareholding-pattern
-- equity-shares
 - post-ipo
+- shareholding-pattern
+- sme
 title: Listing of Equity Shares of Studio LSD Limited (SME IPO)
 ---
 

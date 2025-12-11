@@ -38,21 +38,17 @@ stocks:
 - VBL
 - ARIHANT
 tags:
-- listing
-- esop
-- equity-shares
-- further-issues
+- arihant-superstructures
 - carborundum-universal
-- icici-prudential-life
-- itc
-- metro-brands
-- veranda-learning
-- wipro
 - equitas-small-finance-bank
-- poonawalla-fincorp
+- equity
+- esop
+- further-issue
+- icici-prudential-life
+- listing
 - tech-mahindra
 - varun-beverages
-- arihant-superstructures
+- veranda-learning
 title: Listing of Further Issues of Securities - Multiple Companies
 ---
 

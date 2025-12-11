@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- electronica-finance
+- ncd
 - private-placement
-- debentures
 title: Listing of new debt securities of Electronica Finance Limited
 ---
 

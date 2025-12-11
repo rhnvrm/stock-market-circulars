@@ -28,13 +28,11 @@ source: nse
 stocks:
 - IEX
 tags:
-- insider-trading
-- sebi-order
-- trading-restriction
+- debarred-entities
 - interim-order
 - investigation
-- IEX
-- debarred-entities
+- sebi-order
+- trading-restrictions
 title: Ex-Parte Interim Order in the matter of Insider Trading by certain entities
   in the scrip of IEX
 ---

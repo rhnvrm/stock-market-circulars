@@ -28,13 +28,12 @@ source: bse
 stocks:
 - LORDSMARK
 tags:
-- trading-suspension
 - capital-reduction
-- resolution-plan
-- nclt-order
+- nclt
 - promoter-extinguishment
-- corporate-restructuring
-- lords-mark-india
+- resolution-plan
+- scheme-of-arrangement
+- suspension
 title: Resolution Plan- Suspension due to Reduction of Equity Share Capital of LORDS
   MARK INDIA LTD
 ---

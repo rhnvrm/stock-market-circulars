@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- companies-act-violation
+- directors-liability
 - enforcement
 - illegal-fund-mobilization
 - rcps
-- unlisted-company
-- directors-liability
-- companies-act-violation
 - show-cause-notice
+- unlisted-company
 title: Order in the matter of Milani Techno Engineering Limited
 ---
 

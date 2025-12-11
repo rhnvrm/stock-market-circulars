@@ -26,10 +26,10 @@ source: bse
 stocks:
 - LLEASING
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Leading Leasing Finance and Investment Co. Limited
 ---
 

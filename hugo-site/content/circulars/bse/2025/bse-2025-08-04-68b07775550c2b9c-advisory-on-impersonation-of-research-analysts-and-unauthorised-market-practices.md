@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- research-analysts
-- investment-advisors
-- impersonation
-- reporting
 - compliance
+- impersonation
+- investment-adviser
+- reporting
+- research-analyst
 - sebi-supervision
 title: Advisory on Impersonation of Research Analysts and Unauthorised Market Practices
 ---

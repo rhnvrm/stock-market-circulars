@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- private-placement
-- debt-securities
-- bonds
-- new-listing
+- bond
 - capital-market
+- debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities - TIAPL and TFSIL Bonds
 ---
 

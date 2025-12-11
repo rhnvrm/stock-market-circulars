@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TWAMEV
 tags:
-- offer-for-sale
-- ofs
-- undersubscription
-- twamev-construction
 - market-operations
+- ofs
+- twamev-construction
+- undersubscription
 title: 'BSE: Twamev Construction OFS Undersubscription Acceptance'
 ---
 

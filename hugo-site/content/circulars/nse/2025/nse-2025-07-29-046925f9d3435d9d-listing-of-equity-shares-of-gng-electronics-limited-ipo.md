@@ -26,10 +26,10 @@ source: nse
 stocks:
 - EBGNG
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- capital-market
 - trading
 title: Listing of Equity Shares of GNG Electronics Limited (IPO)
 ---

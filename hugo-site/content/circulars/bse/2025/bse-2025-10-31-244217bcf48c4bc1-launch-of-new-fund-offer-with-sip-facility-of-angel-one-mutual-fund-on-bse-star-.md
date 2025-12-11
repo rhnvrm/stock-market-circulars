@@ -27,14 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- angel-one-mutual-fund
+- equity
+- index-fund
 - mutual-fund
 - nfo
-- new-fund-offer
 - sip
-- angel-one-mutual-fund
-- index-fund
-- equity
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of ANGEL ONE MUTUAL FUND on BSE
   StAR MF Platform
 ---

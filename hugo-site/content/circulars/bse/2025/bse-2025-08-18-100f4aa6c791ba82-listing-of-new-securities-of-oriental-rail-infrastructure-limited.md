@@ -25,12 +25,11 @@ source: bse
 stocks:
 - ORIENTALRAIL
 tags:
+- conversion
+- equity
 - listing
 - new-securities
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- oriental-rail
 title: Listing of New Securities of Oriental Rail Infrastructure Limited
 ---
 

@@ -27,13 +27,13 @@ stocks:
 - SILVERBND
 - GOLDBND
 tags:
-- etf
-- listing
-- mutual-funds
-- precious-metals
-- gold
-- silver
 - bandhan-mutual-fund
+- etf
+- gold
+- listing
+- mutual-fund
+- precious-metals
+- silver
 title: Listing of Bandhan Silver ETF and Bandhan Gold ETF Units
 ---
 

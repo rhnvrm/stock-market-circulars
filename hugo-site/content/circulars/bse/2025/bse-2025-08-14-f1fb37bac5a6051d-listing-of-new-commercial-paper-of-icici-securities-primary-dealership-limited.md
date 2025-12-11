@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - icici-securities
 - primary-dealership
+- private-placement
 title: Listing of new Commercial Paper of ICICI Securities Primary Dealership Limited
 ---
 

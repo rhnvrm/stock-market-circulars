@@ -48,7 +48,7 @@ stocks:
 - DRAGARWAL
 - DRREDDY
 - EIHASSOCIAT
-- EUREKAFORBES
+- EUREKAFORB
 - EXCELSOFT
 - EXIDEIND
 - FEDDERS
@@ -58,7 +58,7 @@ stocks:
 - GUJINTL
 - GUJMINE
 - GUJTOOL
-- HALDERVENTURE
+- HALDER
 - HINDUSTHANURBAN
 - HONASA
 - IIFL
@@ -80,7 +80,7 @@ stocks:
 - MANGALAM
 - MEHAI
 - NIPPONIND
-- PACIFICINDUSTRIES
+- PACIFICI
 - PALMJEWELS
 - PROFIN
 - RADICO
@@ -104,10 +104,10 @@ stocks:
 - WAAREE
 - WELCORP
 tags:
-- demat-auction
+- demat
+- early-pay-in
 - settlement
 - share-auction
-- delivery-obligation
 title: Demat Auction Settlement No. 765
 ---
 

@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - HIGHLAND
 tags:
+- attachment
+- defaulter
 - enforcement
 - investor-grievances
-- attachment-order
 - recovery
-- defaulter
-- highland-industries
 title: Notice of Attachment of Bank Accounts and Demat Accounts - Highland Industries
   Limited (Recovery Certificate No. 4616 of 2022)
 ---

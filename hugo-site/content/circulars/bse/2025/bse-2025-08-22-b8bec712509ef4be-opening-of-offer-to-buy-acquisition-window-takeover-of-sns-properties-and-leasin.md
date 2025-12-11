@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SNSPROPL
 tags:
-- takeover
-- open-offer
-- acquisition
+- sast
 - sns-properties
-- sebi-sast
+- takeover
 title: Open Offer by Ms. Shweta Kalra and Ms. Rachna Kalra for SNS Properties and
   Leasing Limited
 ---

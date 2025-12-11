@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- dsp-mutual-fund
+- fixed-income
 - mutual-fund
 - nfo
-- dsp-mutual-fund
-- fixed-maturity-plan
-- scheme-cancellation
 - refunds
+- scheme-cancellation
 title: DSP Mutual Fund NFO scheme called off on BSE StAR MF Platform
 ---
 

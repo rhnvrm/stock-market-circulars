@@ -27,10 +27,9 @@ stocks:
 - TATASTEEL
 tags:
 - commercial-paper
-- debt-listing
-- tata-steel
+- debt-securities
+- demat
 - private-placement
-- dematerialised-trading
 title: Listing of new Commercial Paper of TATA STEEL LIMITED
 ---
 

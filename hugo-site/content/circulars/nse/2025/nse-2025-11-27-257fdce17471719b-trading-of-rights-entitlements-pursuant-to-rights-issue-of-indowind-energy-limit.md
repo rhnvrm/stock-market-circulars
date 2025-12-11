@@ -27,12 +27,11 @@ source: nse
 stocks:
 - INDO-RE2
 tags:
-- rights-issue
-- rights-entitlements
-- trading
+- demat
 - indowind-energy
+- rights-issue
 - trade-to-trade
-- compulsory-demat
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Indowind Energy
   Limited
 ---

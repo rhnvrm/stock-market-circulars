@@ -25,16 +25,16 @@ severity: high
 source: nse
 stocks: []
 tags:
-- derivatives
-- futures-options
-- quantity-freeze
-- index-contracts
-- trading-limits
 - banknifty
-- nifty
+- derivatives
 - finnifty
+- futures-options
+- index-contracts
 - midcpnifty
+- nifty
 - niftynxt50
+- quantity-freeze
+- trading-operations
 title: Quantity Freeze Limits for Indices - Updated Limits Effective September 1,
   2025
 ---

@@ -27,12 +27,10 @@ source: bse
 stocks:
 - SABTNL
 tags:
-- takeover
-- acquisition-window
-- otb
-- offer-to-buy
-- trading-schedule
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for SRI ADHIKARI BROTHERS TELEVISION
   NETWORK LTD – Live Activities Schedule
 ---

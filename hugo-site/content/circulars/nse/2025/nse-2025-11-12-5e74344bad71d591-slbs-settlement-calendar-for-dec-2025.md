@@ -27,12 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- slbs
-- settlement-calendar
-- securities-lending
-- borrowing-scheme
-- market-operations
 - clearing
+- collateral
+- market-operations
+- settlement-calendar
+- slbs
 title: SLBS Settlement Calendar for December 2025
 ---
 

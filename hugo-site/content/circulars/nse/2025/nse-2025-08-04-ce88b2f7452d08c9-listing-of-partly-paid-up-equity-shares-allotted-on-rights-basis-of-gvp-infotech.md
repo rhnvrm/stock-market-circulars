@@ -26,11 +26,11 @@ source: nse
 stocks:
 - GVPTECHPP
 tags:
-- listing
-- rights-issue
-- partly-paid-shares
-- equity-shares
+- equity
 - gvp-infotech
+- listing
+- partly-paid
+- rights-issue
 title: Listing of Partly Paid up Equity Shares allotted on Rights basis of GVP Infotech
   Limited
 ---

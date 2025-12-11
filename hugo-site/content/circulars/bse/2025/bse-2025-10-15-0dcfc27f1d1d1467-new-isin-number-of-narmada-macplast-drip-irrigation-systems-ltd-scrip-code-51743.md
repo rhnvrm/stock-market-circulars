@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '517431'
+- NARMP
 tags:
-- isin-change
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - narmada-macplast
+- split
 title: 'New ISIN Number of NARMADA MACPLAST DRIP IRRIGATION SYSTEMS LTD (Scrip Code:
   517431)'
 ---

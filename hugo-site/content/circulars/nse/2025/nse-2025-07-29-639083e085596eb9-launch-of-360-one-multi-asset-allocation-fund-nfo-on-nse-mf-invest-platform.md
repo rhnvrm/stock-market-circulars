@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- 360-one
+- debt-securities
+- multi-asset
 - mutual-fund
 - nfo
-- 360-one
-- debt-fund
-- multi-asset-allocation
 title: Launch of 360 ONE Multi Asset Allocation Fund NFO on NSE MF Invest Platform
 ---
 

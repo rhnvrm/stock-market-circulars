@@ -30,10 +30,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - mahindra-rural-housing-finance
-- non-convertible-debentures
-- MRHFL
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Mahindra Rural Housing Finance Limited
 ---
 

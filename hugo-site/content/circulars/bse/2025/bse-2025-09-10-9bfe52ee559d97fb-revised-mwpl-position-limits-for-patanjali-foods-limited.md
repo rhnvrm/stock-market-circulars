@@ -25,13 +25,11 @@ source: bse
 stocks:
 - PATANJALI
 tags:
-- position-limits
 - derivatives
-- patanjali-foods
-- mwpl
-- stock-brokers
 - fpi
-- mutual-funds
+- mutual-fund
+- position-limits
+- stock-broker
 title: Revised MWPL Position Limits for Patanjali Foods Limited
 ---
 

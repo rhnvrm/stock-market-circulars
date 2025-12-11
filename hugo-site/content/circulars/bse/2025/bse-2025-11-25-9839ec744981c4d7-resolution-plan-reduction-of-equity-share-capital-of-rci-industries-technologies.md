@@ -31,13 +31,12 @@ stocks:
 - RCI
 tags:
 - capital-reduction
+- nclt
 - resolution-plan
-- nclt-order
-- trading-suspension
-- promoter-shareholding
-- corporate-restructuring
-- GSM
-- RCI
+- scheme-of-arrangement
+- shareholding-pattern
+- surveillance
+- suspension
 title: Resolution Plan- Reduction of Equity Share Capital of RCI Industries & Technologies
   Limited
 ---

@@ -41,12 +41,9 @@ stocks:
 - ANSALAPI
 - ARSHIYA
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
 - regulatory-measure
+- surveillance
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure under IBC
 ---

@@ -28,10 +28,10 @@ stocks:
 - GAMECHNGR
 tags:
 - group-change
-- trading-segment
-- sme-ipo
-- trade-for-trade
 - rolling-segment
+- sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

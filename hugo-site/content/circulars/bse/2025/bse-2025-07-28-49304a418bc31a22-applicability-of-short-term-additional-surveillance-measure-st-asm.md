@@ -46,11 +46,9 @@ stocks:
 - INTGLBFIN
 - JPPOWER
 tags:
-- st-asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

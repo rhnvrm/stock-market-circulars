@@ -27,12 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- allotment
 - esop
-- esos
-- securities-listing
-- employee-stock-options
-- share-allotment
-- lock-in-period
+- listing
+- lock-in
 title: Listing of Further Securities Issued Under ESOP/ESOS - 4,313 Shares Allotted
 ---
 

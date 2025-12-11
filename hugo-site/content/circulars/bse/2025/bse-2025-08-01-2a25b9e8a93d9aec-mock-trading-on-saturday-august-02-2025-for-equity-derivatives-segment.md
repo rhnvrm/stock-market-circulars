@@ -26,11 +26,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- compliance
+- derivatives
 - mock-trading
-- equity-derivatives
-- system-testing
 - trading-operations
-- regulatory-compliance
 title: Mock Trading Session for Equity Derivatives Segment - August 2, 2025
 ---
 

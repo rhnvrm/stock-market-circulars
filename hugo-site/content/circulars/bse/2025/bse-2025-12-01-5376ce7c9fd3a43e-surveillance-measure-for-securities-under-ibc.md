@@ -27,11 +27,8 @@ source: bse
 stocks:
 - TIAAN
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities under IBC - December 2025 Update
 ---

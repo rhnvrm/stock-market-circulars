@@ -28,12 +28,9 @@ source: nse
 stocks:
 - SHUBHLAXMI
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirement
+- margin
 - surveillance
-- shubhlaxmi
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) - Addition of Shubhlaxmi Jewel Art Limited
 ---
 

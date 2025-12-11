@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SUMEETIND
+- SUMEETINDS-BE
 tags:
-- corporate-actions
-- equity-shares
-- sub-division
-- share-split
+- corporate-action
 - dematerialised-securities
+- equity
+- split
 title: 'Sub-Division of Equity Shares of SUMEET INDUSTRIES LTD (Scrip Code: 514211)'
 ---
 

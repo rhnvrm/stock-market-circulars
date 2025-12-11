@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- REC
+- RECLTD
 - DABUR
 - NRBBEARING
 - DHANI
@@ -56,13 +56,12 @@ stocks:
 - CENTRALBK
 - GOCLCORP
 tags:
-- slb
+- collateral
 - corporate-action
 - dividend
-- amalgamation
-- securities-lending
 - record-date
-- ex-date
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - Multiple Dividends and Amalgamations
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MANBAFINANCE
+- MANBA
 tags:
-- corporate-actions
-- debentures
-- redemption
+- corporate-action
 - debt-securities
 - manba-finance
+- ncd
+- redemption
 title: Part Redemption of Debentures of MANBA FINANCE LIMITED
 ---
 

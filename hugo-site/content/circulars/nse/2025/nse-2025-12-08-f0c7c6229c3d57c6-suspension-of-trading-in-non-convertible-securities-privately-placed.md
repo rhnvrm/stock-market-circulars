@@ -27,12 +27,12 @@ stocks:
 - MAITHONPOWER
 - LICHSGFIN
 tags:
-- suspension
+- debt-securities
+- ncd
 - non-convertible-securities
-- debt-market
-- redemption
 - privately-placed
-- debentures
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Securities (Privately Placed)
 ---
 

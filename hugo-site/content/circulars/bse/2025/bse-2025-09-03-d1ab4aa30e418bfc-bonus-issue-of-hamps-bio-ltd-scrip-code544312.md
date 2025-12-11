@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- HAMPSBIO
+- HAMPS
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- market-lot-change
-- equity-shares
+- equity
+- market-lot
 title: Bonus Issue of HAMPS BIO LTD - 1:1 Ratio with Market Lot Change
 ---
 

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ASHIANAHOUSING
+- ASHIANA
 tags:
-- debentures
-- part-redemption
-- debt-market
-- face-value-reduction
-- corporate-actions
 - ashiana-housing
+- corporate-action
+- debt-securities
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Ashiana Housing Ltd
 ---
 

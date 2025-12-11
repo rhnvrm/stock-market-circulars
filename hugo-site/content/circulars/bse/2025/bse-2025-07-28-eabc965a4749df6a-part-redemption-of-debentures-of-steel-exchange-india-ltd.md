@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SEIL
 tags:
-- debentures
-- partial-redemption
-- face-value-reduction
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Steel Exchange India Ltd - Reduced Face Value
   Effective July 29, 2025
 ---

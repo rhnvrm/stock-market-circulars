@@ -25,10 +25,10 @@ source: nse
 stocks:
 - BLUEJET
 tags:
-- offer-for-sale
 - blue-jet-healthcare
-- regulatory-compliance
+- compliance
 - disclosure
+- ofs
 title: Proposed Offer for Sale of Blue Jet Healthcare Limited
 ---
 

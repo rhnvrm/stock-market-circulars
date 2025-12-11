@@ -27,18 +27,17 @@ severity: high
 source: bse
 stocks: []
 tags:
-- system-audit
-- stockbrokers
-- trading-members
-- ctcl
-- ibt
 - algo
-- dma
-- sor
 - compliance
-- audit-requirements
+- ctcl
+- dma
+- ibt
 - order-management
 - risk-management
+- sor
+- stock-broker
+- system-audit
+- trading-member
 title: System Audit of Stockbrokers / Trading Members for the Half Year Ended September
   30, 2025
 ---

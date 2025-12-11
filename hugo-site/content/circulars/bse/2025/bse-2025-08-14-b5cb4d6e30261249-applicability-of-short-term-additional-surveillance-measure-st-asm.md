@@ -39,11 +39,10 @@ stocks:
 - SAHARA
 - ZIMLABS
 tags:
+- compliance
+- market-operations
 - surveillance
-- additional-surveillance-measure
 - trading-restrictions
-- market-monitoring
-- regulatory-compliance
 title: Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

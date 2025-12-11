@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
 - axis-mutual-fund
-- nse-mf-invest
-- fund-of-fund
+- fund-of-funds
+- mutual-fund
+- name-change
 - nasdaq
 - passive-equity
+- trading-platform
 title: Change in scheme name of Axis Mutual Fund on NSE MF Invest platform
 ---
 

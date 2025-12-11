@@ -28,16 +28,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- kyc
-- kra
+- aadhaar
+- account-blocking
 - client-validation
-- trading-restrictions
 - compliance
 - investor-services
-- sebi-regulations
-- aadhaar
+- kyc
 - ovd
-- account-blocking
+- regulatory-framework
+- trading-restrictions
 title: KYC Validation Requirements - Trading Restrictions for Non-Validated Clients
   from November 22, 2025
 ---

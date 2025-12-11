@@ -28,12 +28,12 @@ source: bse
 stocks:
 - EMBDEVL
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
+- preferential-issue
 - promoter
-- non-promoter
+- shareholding-pattern
 title: Listing of New Securities of Embassy Developments Limited
 ---
 

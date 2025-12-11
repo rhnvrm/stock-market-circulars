@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- fund-of-funds
 - icici-prudential
 - idcw-option
+- index-fund
+- mutual-fund
 - sip
 - stp
-- index-funds
-- fund-of-funds
 - subscription-closure
 title: Discontinuation of Fresh Subscription on Systematic Registration Under Certain
   Schemes of ICICI Prudential Mutual Fund

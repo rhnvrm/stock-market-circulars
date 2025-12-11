@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- edelweiss-mutual-fund
 - altiva-hybrid-long-short-fund
-- subscriptions
-- redemptions
+- edelweiss-mutual-fund
+- mutual-fund
+- nmf-invest-platform
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- nmf-invest-platform
 title: Availability of Altiva Hybrid Long-Short Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

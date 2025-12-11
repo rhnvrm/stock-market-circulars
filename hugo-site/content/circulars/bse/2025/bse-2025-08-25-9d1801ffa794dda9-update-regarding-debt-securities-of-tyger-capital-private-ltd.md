@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-securities
-- debentures
 - coupon-rate
-- modification
-- tyger-capital
+- debt-securities
 - interest-rate
+- modification
+- ncd
+- tyger-capital
 title: Update Regarding Debt Securities of Tyger Capital Private Ltd - Coupon Rate
   Step-up Modification
 ---

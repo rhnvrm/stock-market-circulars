@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- fatca
-- crs
-- mutual-fund
-- star-mf
-- document-id
-- rta
 - compliance
+- crs
+- document-id
+- fatca
 - implementation-delay
+- mutual-fund
+- rta
+- star-mf
 title: Updation of correct and valid FATCA/CRS information - Implementation Date Extended
 ---
 

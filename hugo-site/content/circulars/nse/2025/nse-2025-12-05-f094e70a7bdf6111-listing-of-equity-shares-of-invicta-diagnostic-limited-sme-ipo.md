@@ -27,14 +27,13 @@ source: nse
 stocks:
 - INVICTA
 tags:
-- sme-ipo
-- new-listing
 - emerge-platform
-- trade-for-trade
-- surveillance-segment
 - invicta-diagnostic
+- listing
 - market-maker
-- ipo-listing
+- sme
+- surveillance
+- trade-for-trade
 title: Listing of Equity Shares of Invicta Diagnostic Limited (SME IPO)
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SPANDANA
 tags:
-- debt-market
-- debentures
-- trading-resumption
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- corporate-actions
+- trading-resumption
 title: Resumption of Trading in Debentures of SPANDANA SPHOORTY FINANCIAL LIMITED
   (Scrip Code 975811)
 ---

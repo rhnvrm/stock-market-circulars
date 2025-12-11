@@ -30,16 +30,9 @@ stocks:
 - SAPTARISHI
 - GOLDENCARP
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- ASHISHPOLY
-- MTEDUCARE
-- OSCAR
-- NEELKANTH
-- SAPTARISHI
-- GOLDENCARP
 title: BSE GSM List - Securities Moving to Surveillance Stages (July 25, 2025)
 ---
 

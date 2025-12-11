@@ -26,11 +26,10 @@ source: bse
 stocks:
 - LLOYDSE
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
 - lloyds-enterprises
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Lloyds Enterprises Limited
 ---
 

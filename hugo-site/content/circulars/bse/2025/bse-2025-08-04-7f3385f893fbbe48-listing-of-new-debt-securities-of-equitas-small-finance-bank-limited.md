@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ESFB
 tags:
+- bond-issuance
 - debt-securities
+- equitas-small-finance-bank
 - listing
 - private-placement
-- equitas-small-finance-bank
-- bond-issuance
 title: Listing of new debt securities of Equitas Small Finance Bank Limited
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MBLINFRA
 tags:
-- equity-shares
-- preferential-allotment
-- promoter-shares
-- nclt-approval
+- equity
 - insolvency-resolution
-- lock-in-period
+- lock-in
+- nclt
+- preferential-issue
+- promoter
 title: Listing of New Securities of MBL Infrastructure Ltd
 ---
 

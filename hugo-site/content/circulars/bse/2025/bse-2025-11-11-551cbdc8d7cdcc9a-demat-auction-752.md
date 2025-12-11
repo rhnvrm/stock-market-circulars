@@ -36,7 +36,7 @@ stocks:
 - BHARTIAIR
 - BHATIACOM
 - BIOCON
-- CEAT
+- CEATLTD
 - CEMINDIA
 - CHENNPET
 - EPACKPRE
@@ -47,8 +47,8 @@ stocks:
 - GOODLUCK
 - GUJCRAFT
 - HFCL
-- INFOSYS
-- JBMAUTO
+- INFY
+- JBMA
 - JUPITER
 - KALYANKJ
 - KRSNAA
@@ -88,18 +88,18 @@ stocks:
 - UPL
 - VANTAGE
 - VASCON
-- VEDANTA
+- VEDL
 - VEERHEALTH
 - WEBSOL
 - WIPRO
 - YATRA
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction-752
-- trading-operations
+- demat
 - multiple-securities
+- settlement
+- trading-operations
 title: Demat Auction Settlement No. 752
 ---
 

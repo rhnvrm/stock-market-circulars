@@ -26,12 +26,11 @@ source: bse
 stocks:
 - KEERTANA
 tags:
+- bond
 - debt-securities
 - listing
-- keertana-finserv
+- ncd
 - private-placement
-- debentures
-- corporate-bonds
 title: Listing of New Debt Securities of Keertana Finserv Limited
 ---
 

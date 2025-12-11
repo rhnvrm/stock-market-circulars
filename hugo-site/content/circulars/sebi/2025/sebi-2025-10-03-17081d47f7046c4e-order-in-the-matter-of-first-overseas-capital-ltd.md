@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- capital-adequacy
+- enforcement
+- intermediaries-regulations
 - merchant-banker
 - net-worth-violation
-- capital-adequacy
-- suspension
-- enforcement-action
-- intermediaries-regulations
 - regulatory-censure
+- suspension
 title: Order in the matter of First Overseas Capital Ltd. - Suspension for Net Worth
   Violation
 ---

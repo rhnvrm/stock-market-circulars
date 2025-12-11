@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - PGEL
 tags:
-- recovery-certificate
-- enforcement
-- demand-notice
-- pg-electroplast
 - aggarwal-steel
+- demand-notice
+- enforcement
+- pg-electroplast
+- recovery
 title: 'Notice of Demand under Recovery Certificate No. 8964 of 2025 issued to Aggarwal
   Steel Rolling Mills and Metal Industries (PAN: AABFA9058R)'
 ---

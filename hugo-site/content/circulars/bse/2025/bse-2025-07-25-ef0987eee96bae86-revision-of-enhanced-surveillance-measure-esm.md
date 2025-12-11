@@ -25,14 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- enhanced-surveillance-measure
-- esm
-- price-variation
-- margin-requirements
-- trade-for-trade
+- asm-stage
+- margin
 - price-band
-- surveillance-framework
-- periodic-call-auction
+- price-variation
+- surveillance
+- trade-for-trade
+- trading-session
 title: BSE Revises Enhanced Surveillance Measure Framework with Stricter Price Variation
   Criteria
 ---

@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '533676'
+- INDOTHAI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- indo-thai-securities
+- preferential-issue
 title: Listing of New Securities of Indo Thai Securities Limited
 ---
 

@@ -27,11 +27,9 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-proceedings
-- demat-account-attachment
+- attachment
 - enforcement
-- debt-recovery
-- sms-techsoft
+- recovery
 title: SEBI Order for Compliance – Notice of Attachment of Demat Account for Recovery
   Certificate No. 4519 of 2022 against Mitesh Kaniyalal Thakkar
 ---

@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- appeal
 - citigroup
 - daily-trading-plan
-- appeal-dismissed
 - information-not-available
+- rti
 title: Appeal No. 6568 of 2025 filed by Arun Kumar Sarkar - RTI Appeal Dismissed
 ---
 

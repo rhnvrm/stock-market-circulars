@@ -28,12 +28,11 @@ source: nse
 stocks:
 - GICL
 tags:
-- stock-split
-- bonus-issue
-- market-lot-adjustment
-- sme-platform
+- bonus
 - corporate-action
-- GICL
+- market-lot
+- sme
+- split
 title: 'SPLIT and BONUS: Adjustment of Market Lot for Security GICL in SME Platform'
 ---
 

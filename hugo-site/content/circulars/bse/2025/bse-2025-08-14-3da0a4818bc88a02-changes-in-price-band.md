@@ -40,7 +40,7 @@ stocks:
 - DARJE
 - DAVIN
 - DHRUVA
-- DIGJAM
+- DIGJAMLMTD
 - DIKSHA
 - ESCORP
 - EUREKA
@@ -90,14 +90,14 @@ stocks:
 - TAKE
 - TEAMO
 - VARDH
-- VTM
+- VTMLTD
 - YAMINI
 tags:
-- price-band
-- trading
-- surveillance
-- equity-segment
+- equity
 - market-operations
+- price-band
+- surveillance
+- trading
 title: BSE Revises Price Bands for 68 Securities Effective August 18, 2025
 ---
 

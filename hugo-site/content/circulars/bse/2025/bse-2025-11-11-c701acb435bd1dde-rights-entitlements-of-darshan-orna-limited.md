@@ -26,13 +26,12 @@ source: bse
 stocks:
 - DARSHA
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
 - darshan-orna
+- demat
 - equity
-- demat-only
-- t+1-settlement
+- renunciation
+- rights-issue
+- t1-settlement
 title: Rights Entitlements of Darshan Orna Limited - Trading Commences November 13,
   2025
 ---

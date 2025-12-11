@@ -26,14 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- settlement
-- trading-schedule
-- cash-segment
-- t+1-settlement
-- t+0-settlement
-- pay-in-pay-out
 - auction
+- cash-segment
 - equity
+- settlement
+- settlement-calendar
+- t0-settlement
+- t1-settlement
+- trading-schedule
 title: Trading and Settlement Programme for Cash Segment - November 2025 (T+1 & T+0)
 ---
 

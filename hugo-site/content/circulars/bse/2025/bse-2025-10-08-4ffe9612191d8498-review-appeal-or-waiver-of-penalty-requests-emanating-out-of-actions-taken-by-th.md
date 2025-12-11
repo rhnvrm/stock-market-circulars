@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- member-committee
-- penalty
 - appeal
-- review
-- waiver
-- trading-members
 - compliance
 - grievance-redressal
-- regulatory-action
+- member-committee
+- penalty
+- regulatory
+- review
+- trading-member
+- waiver
 title: Review, Appeal or Waiver of Penalty Requests from Member Committee Actions
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - JSLL
 tags:
+- emerge-platform
+- equity
 - listing
-- migration
-- sme-emerge
 - main-board
-- equity-shares
+- migration
 title: Listing of Equity Shares of Jeena Sikho Lifecare Limited on Capital Market
   Segment (Main Board) pursuant to migration from SME Emerge platform
 ---

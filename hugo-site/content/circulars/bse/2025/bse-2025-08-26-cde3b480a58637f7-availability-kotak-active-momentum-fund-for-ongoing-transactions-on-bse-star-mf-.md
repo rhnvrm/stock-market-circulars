@@ -24,11 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
+- equity
 - kotak
-- bse-star-mf
-- fund-reopening
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp

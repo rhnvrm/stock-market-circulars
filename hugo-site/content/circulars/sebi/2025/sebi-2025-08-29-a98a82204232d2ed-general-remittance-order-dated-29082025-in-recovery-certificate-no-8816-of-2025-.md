@@ -24,11 +24,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- unregistered-investment-advisor
+- compliance
 - enforcement
 - penalty
-- compliance
+- recovery
+- unregistered-investment-advisor
 title: General Remittance Order against Krishnamurthy G. for Unregistered Investment
   Advisory Activities
 ---

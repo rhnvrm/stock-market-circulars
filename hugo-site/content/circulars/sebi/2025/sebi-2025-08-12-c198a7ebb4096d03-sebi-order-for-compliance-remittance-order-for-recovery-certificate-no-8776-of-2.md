@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- compliance
-- recovery-certificate
-- illiquid-stocks
-- options-trading
 - bse
-- enforcement-action
+- compliance
+- enforcement
+- illiquid-stocks
+- options
+- recovery
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 8776
   of 2025 against Prabir Saha
 ---

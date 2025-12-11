@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- silver-etf
-- fund-of-fund
-- subscriptions
-- resumption
 - aditya-birla-sun-life
+- etf
+- fund-of-funds
 - market-operations
+- mutual-fund
+- resumption
+- silver
+- subscription
 title: Resumption of subscriptions in Aditya Birla Sun Life Silver ETF Fund of Fund
 ---
 

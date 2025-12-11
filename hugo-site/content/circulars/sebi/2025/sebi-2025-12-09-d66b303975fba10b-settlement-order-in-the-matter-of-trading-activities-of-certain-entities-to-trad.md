@@ -28,13 +28,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- insider-trading
-- front-running
-- pfutp
-- tv-recommendations
 - cnbc-awaaz
-- market-manipulation
+- investigation
+- market-operations
+- pfutp
+- settlement-order
+- tv-recommendations
 - unfair-trade-practices
 title: Settlement Order in the matter of trading activities of certain entities to
   trade ahead of recommendation furnished in TV shows co-hosted by Mr. Hemant Ghai

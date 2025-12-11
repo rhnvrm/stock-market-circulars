@@ -27,17 +27,16 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
+- long-short-fund
 - mutual-fund
 - qsif
-- equity-fund
-- long-short-fund
-- bse-star-mf
-- subscription
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- fund-reopening
 title: Availability of QSIF EQUITY EX-TOP 100 LONG-SHORT FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

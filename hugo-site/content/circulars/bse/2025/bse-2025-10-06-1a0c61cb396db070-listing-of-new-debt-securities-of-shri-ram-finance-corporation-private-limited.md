@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- corporate-debt
 - debt-securities
 - listing
 - private-placement
 - shri-ram-finance
-- corporate-debt
-- new-listing
 title: Listing of New Debt Securities of Shri Ram Finance Corporation Private Limited
 ---
 

@@ -24,13 +24,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- demat-account
 - account-freeze
-- religare-broking
-- appellate-authority
-- information-denial
+- appeal
 - compliance
+- demat
+- information-denial
+- religare-broking
+- rti
 title: 'RTI Appeal No. 6457 of 2025: Frozen Demat Account Information Denied'
 ---
 

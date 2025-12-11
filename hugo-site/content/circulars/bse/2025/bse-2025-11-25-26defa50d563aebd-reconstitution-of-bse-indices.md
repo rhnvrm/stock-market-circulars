@@ -29,11 +29,9 @@ stocks:
 - LGELECTR
 - TATACAP
 tags:
-- index-reconstitution
 - bse-indices
-- index-changes
 - hdb-financial-services
-- lg-electronics-india
+- index-change
 - tata-capital
 title: Reconstitution of BSE Indices
 ---

@@ -28,10 +28,10 @@ stocks:
 - MPKSTEELS
 tags:
 - group-change
+- rolling-segment
 - segment-transfer
 - sme
 - trade-for-trade
-- rolling-segment
 title: Change in Group of Equity Shares of M P K STEELS (I) LIMITED
 ---
 

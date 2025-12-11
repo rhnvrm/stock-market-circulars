@@ -28,10 +28,9 @@ stocks:
 - KIRLFER
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kirloskar-ferrous
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Kirloskar Ferrous Industries Limited
 ---
 

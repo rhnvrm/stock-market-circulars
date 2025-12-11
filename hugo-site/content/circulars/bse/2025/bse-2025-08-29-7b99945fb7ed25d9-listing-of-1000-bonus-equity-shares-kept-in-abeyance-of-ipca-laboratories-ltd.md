@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IPCA
 tags:
-- bonus-shares
-- listing
-- ipca-laboratories
-- equity-shares
 - abeyance
+- bonus
+- equity
+- ipca-laboratories
+- listing
 title: Listing of 1000 Bonus Equity Shares kept in abeyance of Ipca Laboratories Ltd
 ---
 

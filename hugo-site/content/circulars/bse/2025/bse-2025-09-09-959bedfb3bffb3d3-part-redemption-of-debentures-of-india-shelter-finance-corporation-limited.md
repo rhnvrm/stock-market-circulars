@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ISFCL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of India Shelter Finance Corporation Limited
 ---
 

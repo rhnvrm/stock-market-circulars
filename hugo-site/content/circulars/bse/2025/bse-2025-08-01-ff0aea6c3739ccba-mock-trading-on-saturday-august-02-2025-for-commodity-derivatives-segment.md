@@ -26,13 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- commodity-derivatives
-- testing
 - risk-management
 - trading-platform
 - uaat
-- bolt-tws
 title: Mock Trading Session Scheduled for Commodity Derivatives Segment on August
   2, 2025
 ---

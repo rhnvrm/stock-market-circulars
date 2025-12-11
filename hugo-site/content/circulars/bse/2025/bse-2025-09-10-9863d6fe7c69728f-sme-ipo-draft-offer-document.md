@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ANUBHAV
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
 - anubhav-plast
+- draft-document
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document for Anubhav Plast Limited
 ---
 

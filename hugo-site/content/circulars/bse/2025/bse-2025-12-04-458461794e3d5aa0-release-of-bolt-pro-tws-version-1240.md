@@ -27,14 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- bolt-pro
-- tws
-- software-release
-- equity-derivatives
+- derivatives
 - pre-open-session
-- trading-platform
 - reserved-contracts
+- software-release
 - strikes
+- trading-platform
 title: Release of BOLT Pro TWS Version 12.40
 ---
 

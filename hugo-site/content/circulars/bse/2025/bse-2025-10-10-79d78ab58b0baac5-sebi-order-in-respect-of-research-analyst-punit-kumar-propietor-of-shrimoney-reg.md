@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- regulatory-violation
-- pfutp
-- intermediaries
-- enforcement
-- disciplinary-action
 - compliance
+- disciplinary-action
+- enforcement
+- intermediary
+- non-compliance
+- pfutp
+- research-analyst
+- sebi-order
 title: SEBI Order in Respect of Research Analyst - Punit Kumar (Proprietor of Shrimoney)
   - Registration No. INH000008844
 ---

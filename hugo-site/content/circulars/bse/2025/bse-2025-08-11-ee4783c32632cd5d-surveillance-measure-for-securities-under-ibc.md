@@ -41,12 +41,9 @@ stocks:
 - BLOOMDEK
 - BODHTREE
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- stage-changes
-- additional-surveillance-measure
+- surveillance
 title: Surveillance Measure for Securities Under IBC - August 12, 2025
 ---
 

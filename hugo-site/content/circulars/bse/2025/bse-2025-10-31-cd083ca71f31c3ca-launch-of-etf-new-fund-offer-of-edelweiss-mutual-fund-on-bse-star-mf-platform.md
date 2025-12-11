@@ -25,14 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
+- bse-index
 - edelweiss
-- bse-sensex
-- bse-star-mf
 - equity
+- etf
+- mutual-fund
+- nfo
 title: Launch of ETF New Fund Offer of EDELWEISS Mutual Fund on BSE StAR MF Platform
 ---
 

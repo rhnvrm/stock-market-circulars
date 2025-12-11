@@ -33,20 +33,12 @@ stocks:
 - UPL
 - ISEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
+- nabard
 - private-placement
 - securities
-- GODREJIND
-- APLLTD
-- NABARD
-- ABCL
-- GPL
-- ABML
-- IIFL
-- UPL
-- ISEC
 title: Listing of Privately Placed Commercial Papers on NSE Debt Market Segment
 ---
 

@@ -26,12 +26,10 @@ source: bse
 stocks:
 - REPONO
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
-- repono
+- trade-for-trade
 title: Change in Group of Equity Shares of REPONO LIMITED
 ---
 

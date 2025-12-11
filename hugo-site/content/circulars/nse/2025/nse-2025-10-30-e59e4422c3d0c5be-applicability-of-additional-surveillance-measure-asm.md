@@ -28,12 +28,8 @@ source: nse
 stocks:
 - INFOBEAN
 tags:
-- asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- long-term-asm
-- infobean
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

@@ -25,15 +25,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- nomination
-- mutual-funds
-- investor-protection
 - compliance
-- sebi-directive
-- nse-mf-invest
-- kyc
-- opt-out
 - declaration
+- investor-protection
+- kyc
+- mutual-fund
+- nomination
+- opt-out
+- sebi-order
+- trading-platform
 title: Implementation of Revised Nomination Facilities for Opt-Out as per SEBI Circular
   on NSE MF Invest Platform
 ---

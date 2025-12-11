@@ -28,11 +28,11 @@ stocks:
 - SHREDIG
 - SURAJEST
 tags:
-- surveillance
-- volume-spike
 - clarification
 - disclosure
 - regulation-30
+- surveillance
+- volume-spike
 title: Clarifications received from companies on volume increase queries
 ---
 

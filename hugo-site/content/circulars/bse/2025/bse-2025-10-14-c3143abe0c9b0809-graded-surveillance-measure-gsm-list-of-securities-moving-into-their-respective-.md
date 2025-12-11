@@ -25,10 +25,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- DIGJAM
+- DIGJAMLMTD
 - ECOBOARD
 - REVATI
-- SHAKTIPRESS
+- SHAKTIPR
 - ACEENGITEC
 - AAYUSHWELL
 - AARSHYAM
@@ -42,10 +42,8 @@ stocks:
 - OSCARGLOBL
 - GTECHINFO
 tags:
-- graded-surveillance-measure
-- gsm
+- asm-stage
 - surveillance
-- stage-movement
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---

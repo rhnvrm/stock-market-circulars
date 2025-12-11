@@ -47,9 +47,9 @@ stocks:
 - ANANDRAY
 - ANDHRACEM
 - ANIRIVENT
-- ANKAINDIA
+- ANKIN
 - ANLONHLTH
-- APISINDIA
+- APIS
 - APLAB
 - APTUSPHAR
 - ARFIN
@@ -57,12 +57,10 @@ stocks:
 - ARMAN
 - ARTIFICIAL
 tags:
-- esm
-- enhanced-surveillance
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - compliance
-- stage-movement
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement across ESM Stages
 ---
 

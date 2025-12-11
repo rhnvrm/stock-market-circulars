@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - BHAGERIA
 tags:
-- recovery-certificate
-- penalty-recovery
+- adjudication
 - completion-order
 - enforcement
-- adjudication
-- bhageria-industries
 - paath-financial-services
+- penalty
+- recovery
 title: Certificate of Completion dated 06.11.2025 issued under RC No. 6844 of 2023
   drawn against Paath Financial Services Private Limited in the matter of Bhageria
   Industries Limited.

@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- regulatory-violation
-- debarred-person
 - compliance
-- enforcement-action
+- debarred-person
+- enforcement
+- non-compliance
+- research-analyst
+- sebi-order
 title: SEBI Final Order Against Priyanka Yadav - Proprietor of Trade Money Research
 ---
 

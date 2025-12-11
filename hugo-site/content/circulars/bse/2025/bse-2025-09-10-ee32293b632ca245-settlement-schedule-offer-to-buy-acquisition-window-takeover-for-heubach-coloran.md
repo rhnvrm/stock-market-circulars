@@ -26,12 +26,11 @@ source: bse
 stocks:
 - HEUBACH
 tags:
-- takeover
-- acquisition
-- settlement
-- offer-to-buy
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for Heubach
   Colorants India Limited
 ---

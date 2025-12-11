@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GROWWPOWER
 tags:
-- etf-listing
-- mutual-fund
+- asm-stage
+- etf
 - groww
+- mutual-fund
 - power-sector
 - trading
-- b-group
 title: Listing of Units Of Groww BSE Power ETF - Exchange Trading Begins August 7,
   2025
 ---

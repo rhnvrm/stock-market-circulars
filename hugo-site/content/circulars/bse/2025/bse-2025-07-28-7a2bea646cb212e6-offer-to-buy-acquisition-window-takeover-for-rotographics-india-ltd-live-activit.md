@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RGIL
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- trading-schedule
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for ROTOGRAPHICS INDIA LTD - Live
   Activities Schedule
 ---

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NARMADA
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- ISIN-change
+- split
 title: Sub-Division of Equity Shares of Narmada Macplast Drip Irrigation Systems Ltd
 ---
 

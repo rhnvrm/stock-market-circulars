@@ -26,16 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bse-index
+- consumption
+- equity
+- index-fund
+- multicap
 - mutual-fund
 - nfo
-- new-fund-offer
 - tata-mutual-fund
-- index-fund
-- equity
-- multicap
-- consumption
-- bse-index
-- nse-mf-invest
+- trading-platform
 title: Launch of Tata BSE Multicap Consumption 50:30:20 Index Fund NFO on NSE MF Invest
   Platform
 ---

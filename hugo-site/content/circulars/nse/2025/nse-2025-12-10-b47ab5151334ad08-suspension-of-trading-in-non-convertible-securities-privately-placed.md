@@ -30,14 +30,11 @@ stocks:
 - SMFGIHL
 - TMFHLTD
 tags:
-- debt-market
-- suspension
+- debt-securities
 - non-convertible-securities
-- redemption
 - privately-placed
-- POWERGRID
-- SMFGIHL
-- TMFHLTD
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Securities (Privately Placed) - Six
   Securities
 ---

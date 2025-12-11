@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BLUESTONE
 tags:
+- equity
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- bluestone
 title: Listing of Equity Shares of BlueStone Jewellery and Lifestyle Limited - Lock-in
   Details
 ---

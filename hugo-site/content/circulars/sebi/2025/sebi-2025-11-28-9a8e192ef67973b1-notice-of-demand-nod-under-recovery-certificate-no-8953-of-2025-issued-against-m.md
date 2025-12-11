@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - enforcement
-- social-media
-- unregistered-investment-advice
-- stock-recommendations
 - penalty
+- recovery
+- social-media
+- stock-recommendations
+- unregistered-investment-advice
 title: Notice of Demand under Recovery Certificate No. 8953 of 2025 - Stock Recommendations
   via Social Media
 ---

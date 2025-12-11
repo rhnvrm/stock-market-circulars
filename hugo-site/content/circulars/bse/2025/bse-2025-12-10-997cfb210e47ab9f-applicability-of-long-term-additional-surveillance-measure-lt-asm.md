@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544015'
-- '517397'
-- '531794'
-- '543464'
+- MISHDESIGN
+- PANELEC
+- SESHACHAL
+- SPITZE
 tags:
-- surveillance
-- lt-asm
-- additional-surveillance-measure
+- asm-stage
 - market-operations
+- surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

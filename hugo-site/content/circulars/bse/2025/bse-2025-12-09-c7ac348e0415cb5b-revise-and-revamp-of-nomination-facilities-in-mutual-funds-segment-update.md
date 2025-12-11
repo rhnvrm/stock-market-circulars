@@ -25,14 +25,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
-- sebi-mandate
-- investor-compliance
+- amc
 - authentication
+- investor-compliance
+- mutual-fund
+- nomination
 - opt-out
 - rta
-- amc
+- sebi-mandate
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---
 

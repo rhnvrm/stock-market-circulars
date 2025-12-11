@@ -27,11 +27,10 @@ stocks:
 - AFFORDABLE
 - VARDHMAN
 tags:
-- price-movement
-- volume-increase
 - clarification
-- surveillance
 - disclosure
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

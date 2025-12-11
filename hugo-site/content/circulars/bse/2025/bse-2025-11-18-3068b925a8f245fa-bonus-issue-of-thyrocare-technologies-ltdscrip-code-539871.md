@@ -26,11 +26,10 @@ source: bse
 stocks:
 - THYROCARE
 tags:
-- bonus-issue
-- equity-shares
 - allotment
+- bonus
 - corporate-action
-- thyrocare
+- equity
 title: Bonus Issue of Thyrocare Technologies Limited - 2:1 Ratio
 ---
 

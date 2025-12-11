@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt
-- corporate-actions
-- partial-redemption
-- pass-through-certificates
-- ptc
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ptc
+- redemption
 title: Part Redemption of PTCs of SHANKS 01 2025 SERIES A2
 ---
 

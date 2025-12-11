@@ -27,8 +27,7 @@ stocks:
 - TATAPOWER
 tags:
 - commercial-paper
-- debt-listing
-- tata-power
+- debt-securities
 - private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Tata Power Co. Ltd

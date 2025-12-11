@@ -29,11 +29,11 @@ stocks:
 - INFY
 tags:
 - buyback
-- tender-offer
+- capital-reduction
+- equity
 - infosys
 - share-repurchase
-- equity-shares
-- capital-reduction
+- tender-offer
 title: Opening of Offer to Buy – Acquisition Window (Buyback) For INFOSYS LIMITED
 ---
 

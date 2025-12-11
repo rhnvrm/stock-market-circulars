@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MAGNVENT
 tags:
-- debt-securities
-- security-restructuring
-- debentures
-- charge-release
 - asset-security
+- charge-release
+- debt-securities
 - magnum-ventures
+- ncd
+- security-restructuring
 title: Update Regarding Debt Securities of Magnum Ventures Ltd
 ---
 

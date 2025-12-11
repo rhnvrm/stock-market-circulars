@@ -24,11 +24,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- slbm
 - disaster-recovery
-- testing
+- mock-trading
 - neat-software
+- slbm
 title: Mock Trading Session on Saturday, August 02, 2025 - Securities Lending and
   Borrowing Market
 ---

@@ -29,12 +29,10 @@ source: bse
 stocks:
 - ALLCARGO
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- allcargo-terminals
-- equity
 - demat-trading
+- equity
+- renunciation
+- rights-issue
 - t1-settlement
 title: Rights Entitlements Trading for ALLCARGO TERMINALS LIMITED
 ---

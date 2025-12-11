@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme
-- ipo
-- draft-offer-document
-- public-comments
+- draft-document
 - gabion-technologies
+- ipo
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of Gabion Technologies India Limited
 ---
 

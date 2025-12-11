@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - KAVITIND
 tags:
-- recovery-order
 - compliance
 - enforcement
-- trading-violations
-- kavit-industries
-- release-order
+- recovery
+- release
+- trading-operations
 title: SEBI Release Order for Recovery Certificate No. 8716 of 2025 against Vijay
   Pujara - Kavit Industries Limited Trading Activities
 ---

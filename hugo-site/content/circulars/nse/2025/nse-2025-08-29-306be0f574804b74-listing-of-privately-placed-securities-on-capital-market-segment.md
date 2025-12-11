@@ -26,12 +26,12 @@ stocks:
 - TFSIL
 - PATE
 tags:
-- listing
-- debt-securities
-- privately-placed
 - capital-market
-- toyota-financial
+- debt-securities
+- listing
 - patel-engineering
+- privately-placed
+- toyota-financial
 title: Listing of privately placed securities on capital market segment
 ---
 

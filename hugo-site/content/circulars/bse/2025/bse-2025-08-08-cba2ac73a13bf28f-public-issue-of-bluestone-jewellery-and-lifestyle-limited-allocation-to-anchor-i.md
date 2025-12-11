@@ -26,13 +26,12 @@ source: bse
 stocks:
 - BLUESTONE
 tags:
+- allotment
+- anchor-investor
+- further-issue
 - ipo
-- anchor-investors
-- bluestone
 - jewellery
-- allocation
-- fresh-issue
-- offer-for-sale
+- ofs
 title: BlueStone Jewellery IPO Anchor Investor Allocation - ₹693 Crore Raised
 ---
 

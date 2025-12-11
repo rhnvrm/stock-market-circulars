@@ -35,10 +35,10 @@ stocks:
 - AMALEC
 - AMBAR
 tags:
-- price-bands
 - circuit-filters
-- trading-limits
 - market-operations
+- price-band
+- trading-operations
 title: Revision of Price Bands - Circuit Filter Adjustments to 2%
 ---
 

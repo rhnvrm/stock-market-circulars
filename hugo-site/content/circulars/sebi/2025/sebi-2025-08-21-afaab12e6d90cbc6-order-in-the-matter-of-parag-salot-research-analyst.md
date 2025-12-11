@@ -25,14 +25,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analyst
+- assured-returns
+- compliance-order
 - enforcement
 - fraud
+- intermediary
 - mis-selling
-- compliance-violations
-- assured-returns
 - pfutp
-- intermediaries
+- research-analyst
 title: Order in the matter of Parag Salot - Research Analyst
 ---
 

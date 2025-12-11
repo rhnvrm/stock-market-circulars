@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ATHENAGLOBAL
 tags:
+- conversion
 - equity
-- preferential-allotment
-- warrant-conversion
-- promoter-shares
+- listing
 - lock-in
-- new-listing
+- preferential-issue
+- promoter
 title: Listing of Securities - Athena Global Technologies Limited
 ---
 

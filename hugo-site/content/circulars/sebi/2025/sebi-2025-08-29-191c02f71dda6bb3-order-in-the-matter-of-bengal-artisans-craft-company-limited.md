@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - BACCL
 tags:
-- public-issue
-- equity-shares
+- companies-act
 - compliance
 - directors
+- equity
+- public-issue
 - securities-law
-- companies-act
 title: SEBI Order Against Bengal Artisans Craft Company Limited for Public Issue Violations
 ---
 

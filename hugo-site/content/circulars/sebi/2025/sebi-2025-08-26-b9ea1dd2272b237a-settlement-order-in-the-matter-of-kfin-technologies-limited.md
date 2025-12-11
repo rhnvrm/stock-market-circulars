@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - KFINTECH
 tags:
-- settlement-order
-- registrar-transfer-agent
-- due-diligence
-- dematerialization
 - compliance
+- dematerialization
+- due-diligence
+- registrar-transfer-agent
+- settlement-order
 title: Settlement Order in the matter of KFin Technologies Limited
 ---
 

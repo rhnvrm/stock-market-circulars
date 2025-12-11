@@ -33,10 +33,10 @@ stocks:
 - NWIL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
+- corporate-action
 - debt-securities
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

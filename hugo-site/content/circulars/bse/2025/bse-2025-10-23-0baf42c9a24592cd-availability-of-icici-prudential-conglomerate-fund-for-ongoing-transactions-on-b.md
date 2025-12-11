@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- icici-prudential
 - conglomerate-fund
-- subscription
+- icici-prudential
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- bse-star-mf
 title: Availability of ICICI PRUDENTIAL CONGLOMERATE FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

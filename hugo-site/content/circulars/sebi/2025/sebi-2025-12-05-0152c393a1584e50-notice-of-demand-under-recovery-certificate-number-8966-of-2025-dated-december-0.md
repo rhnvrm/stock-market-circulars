@@ -28,13 +28,12 @@ source: sebi
 stocks:
 - SAPPHIRE
 tags:
-- recovery-certificate
-- front-running
-- enforcement
-- penalty
-- market-manipulation
 - defaulter
-- sapphire-intrex
+- enforcement
+- investigation
+- market-operations
+- penalty
+- recovery
 title: 'Recovery Certificate No. 8966/2025: Notice of Demand Against Alka Jain for
   Front Running Violations'
 ---

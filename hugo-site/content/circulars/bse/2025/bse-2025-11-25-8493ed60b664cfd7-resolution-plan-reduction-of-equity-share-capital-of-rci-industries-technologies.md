@@ -26,16 +26,15 @@ published_date: '2025-11-25T07:54:41+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={2DF1774A-979D-411B-AA14-BFC4A4B438CD}&noticeno=20251125-5&dt=11/25/2025&icount=5&totcount=63&flag=0
 severity: high
 source: bse
-stocks:
-- '537254'
+stocks: []
 tags:
 - capital-reduction
-- resolution-plan
 - nclt
-- trading-suspension
 - promoter-extinguishment
-- gsm
-- corporate-restructuring
+- resolution-plan
+- scheme-of-arrangement
+- surveillance
+- suspension
 title: Resolution Plan- Reduction of Equity Share Capital of RCI Industries & Technologies
   Limited
 ---

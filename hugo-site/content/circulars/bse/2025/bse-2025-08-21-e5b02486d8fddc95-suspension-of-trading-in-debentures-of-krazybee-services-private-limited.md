@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KSPL
 tags:
-- trading-suspension
-- debentures
 - debt-securities
+- interest-payment
+- ncd
 - record-date
 - redemption
-- interest-payment
+- suspension
 title: Suspension of Trading in Debentures of KRAZYBEE SERVICES PRIVATE LIMITED
 ---
 

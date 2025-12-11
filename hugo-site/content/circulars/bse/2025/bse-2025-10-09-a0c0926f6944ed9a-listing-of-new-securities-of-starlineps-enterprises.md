@@ -28,11 +28,10 @@ source: bse
 stocks:
 - STARLINEPS
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- starlineps-enterprises
+- rights-issue
 title: Listing of New Securities of STARLINEPS ENTERPRISES - Rights Issue of 10.38
   Crore Equity Shares
 ---

@@ -26,14 +26,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- employee-benefits
 - esop
-- sweat-equity
-- valuation
 - merchant-bankers
 - registered-valuers
-- employee-benefits
-- share-based-compensation
 - regulatory-amendment
+- share-based-compensation
+- sweat-equity
+- valuation
 title: Securities and Exchange Board of India (Share Based Employee Benefits and Sweat
   Equity) (Second Amendment) Regulations, 2025
 ---

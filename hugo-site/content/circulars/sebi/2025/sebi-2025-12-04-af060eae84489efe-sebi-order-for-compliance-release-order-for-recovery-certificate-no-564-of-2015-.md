@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
-- enforcement
 - adsam-comsof-limited
+- enforcement
 - mahesh-adsul
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 564 of 2015 against Mahesh
   Adsul in Adsam Comsof Limited Matter
 ---

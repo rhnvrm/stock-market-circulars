@@ -28,14 +28,13 @@ source: bse
 stocks:
 - ABHF
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Aditya Birla Housing Finance Limited
 ---
 

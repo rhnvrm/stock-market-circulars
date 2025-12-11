@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - compliance
-- disabilities-act
-- trading-members
-- regulatory-requirements
+- digital-accessibility
+- regulatory
+- trading-member
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance Confirmation
   Required
 ---

@@ -25,10 +25,9 @@ stocks:
 - GICHSGFIN
 tags:
 - debt-securities
+- gic-housing-finance
 - listing
 - private-placement
-- gic-housing-finance
-- new-listing
 title: BSE Lists New Debt Securities of GIC Housing Finance Ltd
 ---
 

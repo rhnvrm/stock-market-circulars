@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- investment-limit
-- overseas-investment
 - edelweiss
+- investment-limit
+- mutual-fund
+- overseas-investment
+- sebi
 - subscription-restriction
-- sebi-compliance
 title: Change in Maximum Investment Amount of Certain Schemes of Edelweiss Mutual
   Fund
 ---

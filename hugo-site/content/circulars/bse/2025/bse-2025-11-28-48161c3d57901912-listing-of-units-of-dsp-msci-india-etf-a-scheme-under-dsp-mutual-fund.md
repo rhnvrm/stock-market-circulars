@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- dsp-mutual-fund
 - etf
 - listing
-- mutual-fund
-- dsp-mutual-fund
 - msci-india-index
-- new-listing
+- mutual-fund
 title: Listing of Units of DSP MSCI India ETF on BSE
 ---
 

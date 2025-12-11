@@ -28,14 +28,14 @@ source: sebi
 stocks:
 - SUNGOLD
 tags:
-- takeover-regulations
-- open-offer
-- substantial-acquisition
-- enforcement-action
-- penalties
-- sungold-capital
-- sast-violations
+- enforcement
 - family-entities
+- penalty
+- sast
+- sast-violations
+- sungold-capital
+- takeover
+- takeover-regulations
 title: Order in the matter of Sungold Capital Limited - Takeover Regulation Violations
 ---
 

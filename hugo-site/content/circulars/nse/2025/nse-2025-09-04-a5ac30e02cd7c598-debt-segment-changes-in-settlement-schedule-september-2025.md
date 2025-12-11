@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- debt-segment
-- settlement-schedule
-- trading-holiday
-- negotiable-instruments-act
 - clearing
+- debt-securities
+- holiday
+- negotiable-instruments-act
+- settlement
 title: Debt Segment - Changes in settlement schedule - September 2025
 ---
 

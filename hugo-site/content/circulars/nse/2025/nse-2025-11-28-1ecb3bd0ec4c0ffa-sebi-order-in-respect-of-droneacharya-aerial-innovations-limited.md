@@ -28,15 +28,14 @@ source: nse
 stocks:
 - DRONEACHARYA
 tags:
-- sebi-order
 - debarment
+- enforcement
+- financial-misrepresentation
 - fraud
 - ipo-misuse
-- financial-misrepresentation
-- related-party-transactions
-- droneacharya
-- enforcement-action
 - market-misconduct
+- related-party-transactions
+- sebi-order
 title: SEBI Order in Respect of Droneacharya Aerial Innovations Limited
 ---
 

@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity-scheme
 - franklin-templeton
-- equity-schemes
-- star-mf-platform
-- scheme-reopening
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
+- trading-platform
 title: Availability of FRANKLIN INDIA MULTI-FACTOR FUND for Ongoing Transactions on
   BSE StAR MF Platform
 ---

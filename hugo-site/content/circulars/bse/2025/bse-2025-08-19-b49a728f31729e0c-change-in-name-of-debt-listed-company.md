@@ -25,11 +25,11 @@ source: bse
 stocks:
 - CLEANMAX
 tags:
-- company-conversion
-- private-to-public
-- name-change
 - clean-energy
-- debt-listing
+- company-conversion
+- debt-securities
+- name-change
+- private-to-public
 title: Clean Max Enviro Energy Solutions Private Limited Converted to Public Company
 ---
 

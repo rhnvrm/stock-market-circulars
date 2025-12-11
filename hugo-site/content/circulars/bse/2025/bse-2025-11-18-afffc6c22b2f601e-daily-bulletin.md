@@ -32,14 +32,14 @@ stocks:
 - NTPC
 - REDINGTON
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
 - commercial-paper
+- corporate-action
+- daily-bulletin
+- dividend
 - interest-payment
-- corporate-actions
+- ncd
+- record-date
 title: Daily Bulletin 157/2025-2026 - Book Closure, Record Dates and Corporate Actions
 ---
 

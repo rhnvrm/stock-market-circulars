@@ -27,9 +27,9 @@ source: bse
 stocks:
 - SMCGLOBAL
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- equity-shares
+- equity
 - listing
 - record-date
 title: Bonus Issue of SMC Global Securities Limited - Record Date and Listing Details

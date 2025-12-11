@@ -24,13 +24,12 @@ rss_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2025/order_bharat_seat
 severity: medium
 source: sebi
 stocks:
-- BHARATSEATS
+- BHARATSE
 tags:
-- takeover-regulations
 - exemption-order
 - family-trust
-- substantial-acquisition
-- bharat-seats
+- sast
+- takeover-regulations
 title: SEBI Exemption Order for Rohit Relan Family Trust Acquisition of Bharat Seats
   Limited Shares
 ---

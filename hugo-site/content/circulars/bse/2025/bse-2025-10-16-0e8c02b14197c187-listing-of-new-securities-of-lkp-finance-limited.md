@@ -27,11 +27,11 @@ source: bse
 stocks:
 - LKPFIN
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
+- lkp-finance
 - new-securities
-- LKP-Finance
+- rights-issue
 title: Listing of New Securities of LKP Finance Limited
 ---
 

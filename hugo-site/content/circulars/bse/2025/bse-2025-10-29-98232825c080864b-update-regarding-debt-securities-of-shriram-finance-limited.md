@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- debt-securities
-- debentures
-- isin-change
-- shriram-finance
 - call-money
-- paid-up-value
+- debt-securities
+- face-value-change
+- isin
+- ncd
 - scrip-code-974805
 title: Update Regarding Debt Securities of Shriram Finance Limited - ISIN Change
 ---

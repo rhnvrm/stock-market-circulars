@@ -27,7 +27,7 @@ stocks:
 - AARTIIND
 - ACC
 - BALKRISIND
-- BIRLASOFT
+- BSOFT
 - CHAMBLFERT
 - HINDCOPPER
 - MGL
@@ -35,10 +35,10 @@ stocks:
 - PEL
 - TATACOMM
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 18 Securities Effective August 1, 2025
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GALLARD
 tags:
-- ipo
-- anchor-investors
+- anchor-investor
 - gallard-steel
-- public-issue
+- ipo
 - listing
 - primary-market
+- public-issue
 title: Public Issue of Gallard Steel Limited - Allocation to Anchor Investors
 ---
 

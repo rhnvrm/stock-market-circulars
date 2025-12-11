@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SMRJEWELS
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- smr-jewels
-- icdr-regulations
+- sme
 title: SME IPO Draft Offer Document - SMR JEWELS LIMITED
 ---
 

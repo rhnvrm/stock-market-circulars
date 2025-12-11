@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - K-LIFESTYLE
 tags:
-- release-order
 - enforcement
-- k-lifestyle
 - rajendra-pathak
 - rc-5285-2022
+- release
 title: Release Order against Rajendra Pathak - K-Lifestyle and Industries Limited
 ---
 

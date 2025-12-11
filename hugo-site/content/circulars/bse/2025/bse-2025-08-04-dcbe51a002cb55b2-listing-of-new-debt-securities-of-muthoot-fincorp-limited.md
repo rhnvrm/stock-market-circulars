@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MUTHOOT
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - muthoot-fincorp
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of MUTHOOT FINCORP LIMITED
 ---
 

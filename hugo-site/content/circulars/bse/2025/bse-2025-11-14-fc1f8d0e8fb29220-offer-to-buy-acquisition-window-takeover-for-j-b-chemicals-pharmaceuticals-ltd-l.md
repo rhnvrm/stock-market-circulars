@@ -29,14 +29,11 @@ source: bse
 stocks:
 - JBCHEPHARM
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
-- jbchepharm
-- otb
-- live-activities
-- trading-schedule
 - equity
+- live-activities
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for J B Chemicals & Pharmaceuticals
   Ltd - Live Activities Schedule
 ---

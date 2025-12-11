@@ -28,7 +28,7 @@ stocks:
 - EASTIND
 - HINDGLAS
 - HDIFL
-- INDOSOLAR
+- WAAREEINDO-BE
 - JAIPRAKASH
 - MORARJEE
 - OMKARSPEC
@@ -38,12 +38,10 @@ stocks:
 - UJAAS
 - VASINFRA
 tags:
-- surveillance
-- ibc
-- insolvency
-- bankruptcy
-- stage-changes
+- asm-stage
 - compliance
+- insolvency
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Stage Updates
 ---
 

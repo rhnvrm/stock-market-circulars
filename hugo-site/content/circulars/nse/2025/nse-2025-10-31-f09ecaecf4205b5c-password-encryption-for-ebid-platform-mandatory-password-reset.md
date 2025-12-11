@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- password-security
-- ebid-platform
-- debt-segment
 - cyber-security
-- system-security
+- debt-securities
+- ebid-platform
 - mandatory-compliance
+- password-security
+- system-security
 title: Password Encryption for eBID Platform - Mandatory Password Reset
 ---
 

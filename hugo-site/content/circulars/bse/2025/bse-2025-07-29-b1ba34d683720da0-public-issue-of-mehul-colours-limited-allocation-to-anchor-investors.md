@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MEHULCOLOURS
+- MEHUL
 tags:
+- anchor-investor
 - ipo
-- anchor-investors
-- public-issue
 - listing
+- public-issue
 title: Public Issue of MEHUL COLOURS LIMITED - Allocation to Anchor Investors
 ---
 

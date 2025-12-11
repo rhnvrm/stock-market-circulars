@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fof
-- bse-star-mf
+- fund-of-funds
 - groww
+- mutual-fund
 - power-sector
 - sip
 - stp

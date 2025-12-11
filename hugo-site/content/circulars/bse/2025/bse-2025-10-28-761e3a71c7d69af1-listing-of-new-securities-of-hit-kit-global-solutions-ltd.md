@@ -28,11 +28,10 @@ source: bse
 stocks:
 - HITKITGLO
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- hit-kit-global-solutions
 title: Listing of New Securities of Hit Kit Global Solutions Ltd - 5 Lakh Equity Shares
 ---
 

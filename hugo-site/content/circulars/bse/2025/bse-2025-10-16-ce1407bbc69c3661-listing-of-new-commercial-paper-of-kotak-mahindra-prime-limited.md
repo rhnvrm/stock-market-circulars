@@ -28,11 +28,11 @@ source: bse
 stocks:
 - KOTAKPRIME
 tags:
+- bse-debt-segment
 - commercial-paper
-- debt-listing
+- debt-securities
 - kotak-mahindra-prime
 - private-placement
-- bse-debt-segment
 title: Listing of new Commercial Paper of Kotak Mahindra Prime Limited
 ---
 

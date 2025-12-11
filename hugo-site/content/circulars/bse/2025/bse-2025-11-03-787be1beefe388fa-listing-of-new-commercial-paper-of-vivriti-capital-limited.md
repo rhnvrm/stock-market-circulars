@@ -27,7 +27,7 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - vivriti-capital
 title: Listing of new Commercial Paper of Vivriti Capital Limited

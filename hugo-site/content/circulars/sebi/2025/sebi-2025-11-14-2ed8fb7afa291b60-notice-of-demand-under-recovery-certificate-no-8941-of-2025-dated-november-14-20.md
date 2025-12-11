@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - SVARNIM
 tags:
-- recovery-certificate
-- enforcement
 - demand-notice
-- svarnim-trade-udyog
-- legal-action
 - dues-recovery
+- enforcement
+- legal-action
+- recovery
+- svarnim-trade-udyog
 title: Notice of Demand under Recovery Certificate No. 8941 of 2025 against Priyankbhai
   V Pajapati
 ---

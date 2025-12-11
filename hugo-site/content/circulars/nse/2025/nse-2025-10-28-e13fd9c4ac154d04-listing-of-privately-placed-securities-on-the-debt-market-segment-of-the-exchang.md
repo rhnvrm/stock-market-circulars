@@ -33,18 +33,10 @@ stocks:
 - BILIPL
 - HHFL
 tags:
-- listing
 - commercial-paper
-- debt-market
+- debt-securities
+- listing
 - private-placement
-- EPL
-- GIL
-- GPL
-- HSL
-- NDL
-- BSL
-- BILIPL
-- HHFL
 title: Listing of Privately Placed Commercial Paper Securities on Debt Market Segment
 ---
 

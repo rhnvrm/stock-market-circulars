@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement-action
-- investment-advisory
-- unregistered-services
 - demand-notice
+- enforcement
+- investment-adviser
 - penalty
+- unregistered-services
 title: 'Notice of Demand dated 29.08.2025 issued under RC No. 8881 of 2025 against
   Thousand Keys, Proprietor – Tapas Das [PAN: ANKPD3883D] in the matter of Unregistered
   Investment Advisory Services'

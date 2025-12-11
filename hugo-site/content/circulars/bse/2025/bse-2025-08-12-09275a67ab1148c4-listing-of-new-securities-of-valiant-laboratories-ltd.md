@@ -25,8 +25,8 @@ source: bse
 stocks:
 - VALIANT
 tags:
+- equity
 - listing
-- equity-shares
 - new-securities
 - valiant-laboratories
 title: Listing of New Securities of Valiant Laboratories Ltd.

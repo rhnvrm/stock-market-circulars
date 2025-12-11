@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - TIMBORHOME
 tags:
-- recovery-certificate
-- release-order
 - compliance
-- timbor-home-ltd
 - enforcement
 - payment-compliance
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 2247 of 2019 - Abhijeet Dwarkadas
   Daga (Timbor Home Ltd.)
 ---

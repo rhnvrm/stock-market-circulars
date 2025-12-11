@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ABCAP
 tags:
-- trading-suspension
-- debentures
-- record-date
+- corporate-action
 - interest-payment
+- ncd
+- record-date
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Debentures of ADITYA BIRLA CAPITAL LTD
 ---
 

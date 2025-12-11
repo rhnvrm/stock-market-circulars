@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SHRADHA
 tags:
+- equity
+- further-issue
 - listing
 - rights-issue
-- equity-shares
-- further-issue
 - shradha-infraprojects
 title: Listing of Further Issue of Securities - Shradha Infraprojects Limited
 ---

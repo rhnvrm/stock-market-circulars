@@ -31,16 +31,9 @@ stocks:
 - ASLIND
 - ASPIRE
 tags:
-- enhanced-surveillance
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
 - surveillance
-- manugraph
-- umaexports
-- abmintlltd
-- aslind
-- aspire
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
   Between Stages
 ---

@@ -41,10 +41,8 @@ stocks:
 - L&TFH
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS by 15 Companies
 ---
 

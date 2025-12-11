@@ -28,11 +28,11 @@ stocks:
 - KAIROSOFT
 - MURAE
 tags:
-- surveillance
-- social-media
-- unsolicited-videos
-- market-manipulation
 - investor-protection
+- market-operations
+- social-media
+- surveillance
+- unsolicited-videos
 title: Surveillance Action w.r.t dealing with unsolicited videos and messages circulated
   in social media platforms - Update
 ---

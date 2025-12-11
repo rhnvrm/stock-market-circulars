@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SHAMROIN
 tags:
-- offer-to-buy
-- takeover
-- acquisition-window
-- shamrock-industrial
+- otb
 - otb-schedule
+- shamrock-industrial
+- takeover
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for SHAMROCK INDUSTRIAL COMPANY
   LIMITED - Live Activities Schedule

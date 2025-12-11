@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- ambium-finserve
+- bse-debt-segment
 - debt-securities
 - listing
 - private-placement
-- ambium-finserve
-- bse-debt-segment
 title: Listing of New Debt Securities of Ambium Finserve Limited
 ---
 

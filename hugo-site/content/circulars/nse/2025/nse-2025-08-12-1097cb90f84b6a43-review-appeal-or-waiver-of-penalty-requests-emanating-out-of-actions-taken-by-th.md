@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- appeal-process
+- corporate-governance
 - member-committee
 - penalty-review
-- appeal-process
-- regulatory-actions
-- governance
-- sebi-circular
+- regulatory
+- sebi
 title: Review, Appeal or Waiver of Penalty Requests for Member Committee Actions
 ---
 

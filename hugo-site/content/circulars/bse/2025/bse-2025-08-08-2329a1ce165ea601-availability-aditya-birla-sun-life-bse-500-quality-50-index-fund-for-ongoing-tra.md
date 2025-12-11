@@ -26,11 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
-- bse-star-mf
 - aditya-birla-sun-life
-- equity-fund
+- equity
+- index-fund
+- mutual-fund
 - reopening
 title: ADITYA BIRLA SUN LIFE BSE 500 QUALITY 50 INDEX FUND Reopening for Ongoing Transactions
   on BSE StAR MF Platform

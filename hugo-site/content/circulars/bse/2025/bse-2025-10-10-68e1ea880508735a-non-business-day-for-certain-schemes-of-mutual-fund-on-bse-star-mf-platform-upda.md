@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
 - bandhan-mutual-fund
-- star-mf-platform
-- fund-of-fund
+- fund-of-funds
+- holiday
+- mutual-fund
+- trading-platform
 title: Non-Business Day for Bandhan US Equity Fund of Fund on BSE StAR MF Platform
 ---
 

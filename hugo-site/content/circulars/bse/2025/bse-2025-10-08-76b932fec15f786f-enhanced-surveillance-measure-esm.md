@@ -43,26 +43,21 @@ stocks:
 - UHZAVERI
 - UNIOFFAU
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measures
+- ambitious-plastomac
+- asm-stage
+- dhanvantri-jeevan-rekha
+- hiliks-technologies
+- india-steel-works
+- jayabharat-credit
+- kashyap-tele-medicines
+- market-operations
+- narmada-agrobase
+- sahara-housingfina
+- srm-energy
+- surveillance
 - trading-restrictions
-- market-integrity
-- Dhanvantri-Jeevan-Rekha
-- Hiliks-Technologies
-- Narmada-Agrobase
-- PVV-Infra
-- Sahara-Housingfina
-- Shree-Refrigerations
-- Alan-Scott-Enterprises
-- Ambitious-Plastomac
-- India-Steel-Works
-- Jayabharat-Credit
-- Kashyap-Tele-Medicines
-- SRM-Energy
-- Triliance-Polymers
-- U-H-Zaveri
-- Universal-Office-Automation
+- triliance-polymers
+- universal-office-automation
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   9, 2025
 ---

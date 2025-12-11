@@ -26,20 +26,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544550'
-- '544551'
-- '544555'
-- '544554'
-- '544553'
-- '544552'
+- PACEDIGITK
+- BHAVIK
+- AMEENJI
+- KVSCASTING
+- MPKSTEELS
+- RDGAIL
 tags:
-- index
-- additions
+- addition
+- bse-index
+- index-fund
 - ipo
-- sme-ipo
 - listing
-- bse-ipo-index
-- bse-sme-ipo-index
+- sme
 title: Additions to the BSE Indices - PACE DIGITEK and 5 SME IPOs
 ---
 

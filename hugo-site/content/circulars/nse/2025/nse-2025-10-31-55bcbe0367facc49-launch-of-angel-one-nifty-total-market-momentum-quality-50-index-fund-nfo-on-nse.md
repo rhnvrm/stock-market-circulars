@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- angel-one-mutual-fund
+- equity-scheme
+- index-fund
 - mutual-fund
 - nfo
-- index-fund
-- angel-one-mutual-fund
-- nse-mf-invest
-- equity-scheme
+- trading-platform
 title: Launch of Angel One Nifty Total Market Momentum Quality 50 Index Fund NFO on
   NSE MF Invest Platform
 ---

@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
+- maintenance
 - mock-trading
-- currency-derivatives
-- testing
-- UAT
 - trading-platform
 title: Mock Trading on Saturday, August 02, 2025 for Currency Derivatives segment
 ---

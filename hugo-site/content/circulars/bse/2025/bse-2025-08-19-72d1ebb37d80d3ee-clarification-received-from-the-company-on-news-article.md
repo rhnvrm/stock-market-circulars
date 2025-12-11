@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WAAREEENER
 tags:
-- acquisition
 - clarification
 - enel-green-power
-- waaree-energies
 - news-response
+- takeover
 title: Waaree Energies clarifies news on Enel Green Power deal discussions
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - IPOWERSL
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- lock-in
+- equity
 - i-power-solutions
+- listing
+- lock-in
+- preferential-issue
 title: Listing of new securities of i Power Solutions India Ltd
 ---
 

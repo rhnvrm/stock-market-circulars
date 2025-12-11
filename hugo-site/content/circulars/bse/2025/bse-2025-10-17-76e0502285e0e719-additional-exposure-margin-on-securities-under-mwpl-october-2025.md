@@ -28,11 +28,9 @@ stocks:
 - RBLBANK
 tags:
 - exposure-margin
-- mwpl
-- market-wide-position-limit
+- position-limits
 - risk-management
 - surveillance
-- rbl-bank
 title: Additional Exposure Margin on Securities under MWPL – October 2025
 ---
 

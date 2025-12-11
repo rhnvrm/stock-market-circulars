@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WINDOW GLASS
 tags:
-- takeover
-- settlement
-- acquisition-window
-- window-glass
+- otb
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   WINDOW GLASS LIMITED
 ---

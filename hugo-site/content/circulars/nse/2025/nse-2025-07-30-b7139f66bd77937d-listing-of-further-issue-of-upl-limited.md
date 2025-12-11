@@ -26,11 +26,10 @@ source: nse
 stocks:
 - UPL
 tags:
-- listing
-- equity-shares
-- partly-paid
+- equity
 - further-issue
-- UPL
+- listing
+- partly-paid
 title: Listing of further issue of UPL Limited - Partly Paid Equity Shares
 ---
 

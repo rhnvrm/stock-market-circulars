@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AIRFLOA
 tags:
-- public-issue
-- anchor-investors
-- ipo
-- allocation
 - airfloa-rail-technology
+- allotment
+- anchor-investor
+- ipo
+- public-issue
 title: Public Issue of AIRFLOA RAIL TECHNOLOGY LIMITED - Allocation to Anchor Investors
 ---
 

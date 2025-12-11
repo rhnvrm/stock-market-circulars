@@ -33,7 +33,7 @@ stocks:
 - BIRLACORPN
 - BLSE
 - DIVGILAB
-- HAMPSBIO
+- HAMPS
 - HDFCBANK
 - HFCL
 - HISARMETAL
@@ -42,14 +42,14 @@ stocks:
 - ISGEC
 - KDDL
 tags:
-- daily-bulletin
+- bonus
 - book-closure
-- record-date
-- dividend
-- corporate-actions
-- interest-payment
-- bonus-issue
+- corporate-action
+- daily-bulletin
 - debenture-redemption
+- dividend
+- interest-payment
+- record-date
 title: Daily Bulletin - Book Closure and Record Dates for Corporate Actions
 ---
 

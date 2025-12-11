@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ATGL
 tags:
-- clarification
-- news-article
 - adani-total-gas
 - battery-storage
-- price-movement
+- clarification
 - disclosure
+- news-article
+- price-movement
 title: Adani Total Gas Limited Clarification on Battery Storage News Article
 ---
 

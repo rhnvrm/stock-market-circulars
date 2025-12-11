@@ -53,11 +53,11 @@ stocks:
 - YASHTRFIN
 - ZELIO
 tags:
-- price-band
-- trading-limits
-- surveillance
-- volatility-control
 - market-operations
+- price-band
+- surveillance
+- trading-operations
+- volatility-control
 title: Price Band Revisions for 28 Securities Effective October 24, 2025
 ---
 

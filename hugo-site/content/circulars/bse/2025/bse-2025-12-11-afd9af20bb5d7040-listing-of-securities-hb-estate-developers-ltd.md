@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HBEDL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - hb-estate-developers
+- lock-in
+- preferential-issue
 title: Listing of 750,000 Equity Shares of HB Estate Developers Ltd
 ---
 

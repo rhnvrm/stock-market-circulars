@@ -28,12 +28,8 @@ source: bse
 stocks:
 - SWANDEFN
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy-code
-- additional-surveillance-measure
-- asm
+- surveillance
 title: Surveillance Measure for Securities under IBC - November 12, 2025
 ---
 

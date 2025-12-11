@@ -32,11 +32,9 @@ stocks:
 - MPHASIS
 - UNOMINDA
 tags:
-- listing
-- esop
-- esos
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued by Companies under ESOP/ESOS
 ---

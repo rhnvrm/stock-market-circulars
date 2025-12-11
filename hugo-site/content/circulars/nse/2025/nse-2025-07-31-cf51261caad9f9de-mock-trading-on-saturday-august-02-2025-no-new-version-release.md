@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- commodity-derivatives
-- testing
-- neat
 - pre-trade-risk-controls
+- trading-platform
 title: Mock Trading Session on Saturday, August 02, 2025 - No New Version Release
 ---
 

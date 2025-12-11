@@ -28,11 +28,10 @@ source: bse
 stocks:
 - FEDBANKFIN
 tags:
-- debt-securities
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- fedbank-financial-services
 title: Listing of New Debt Securities of Fedbank Financial Services Limited
 ---
 

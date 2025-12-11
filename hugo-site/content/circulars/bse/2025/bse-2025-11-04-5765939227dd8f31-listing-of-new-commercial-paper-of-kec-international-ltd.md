@@ -27,10 +27,9 @@ stocks:
 - KECINDS
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kec-international
-- debt-segment
+- private-placement
 title: Listing of Commercial Paper of KEC International Ltd
 ---
 

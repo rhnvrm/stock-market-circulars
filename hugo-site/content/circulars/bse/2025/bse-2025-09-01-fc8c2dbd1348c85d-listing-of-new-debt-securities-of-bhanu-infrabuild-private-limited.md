@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bhanu-infrabuild
+- bond
 - debt-securities
 - listing
 - private-placement
-- bhanu-infrabuild
-- corporate-bonds
 title: Listing of new debt securities of Bhanu Infrabuild Private Limited
 ---
 

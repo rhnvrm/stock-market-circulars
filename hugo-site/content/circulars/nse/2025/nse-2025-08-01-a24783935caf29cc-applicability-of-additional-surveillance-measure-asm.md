@@ -31,11 +31,10 @@ stocks:
 - DUGLOBAL
 - MEDICO
 tags:
-- surveillance
-- asm
-- trading
 - market-operations
 - regulatory
+- surveillance
+- trading
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

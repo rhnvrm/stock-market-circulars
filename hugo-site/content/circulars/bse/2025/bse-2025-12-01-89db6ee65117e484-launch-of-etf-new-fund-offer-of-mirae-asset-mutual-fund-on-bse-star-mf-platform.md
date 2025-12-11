@@ -25,14 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- new-fund-offer
-- nfo
-- mirae-asset
-- bse-star-mf
-- equity
 - dividend-leaders
+- equity
+- etf
+- mirae-asset
+- mutual-fund
+- nfo
 title: Launch of MIRAE ASSET BSE 500 DIVIDEND LEADERS 50 ETF - New Fund Offer
 ---
 

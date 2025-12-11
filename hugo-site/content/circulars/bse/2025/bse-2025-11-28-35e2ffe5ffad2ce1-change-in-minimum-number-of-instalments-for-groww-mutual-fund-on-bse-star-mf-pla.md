@@ -28,15 +28,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- facility-changes
+- groww-mutual-fund
+- instalment-revision
 - mutual-fund
-- systematic-transfer-plan
-- systematic-withdrawal-plan
+- smart-switch
 - stp
 - swp
-- groww-mutual-fund
-- bse-star-mf
-- facility-changes
-- instalment-revision
 title: Change in minimum number of Instalments for GROWW MUTUAL FUND on BSE StAR MF
   platform
 ---

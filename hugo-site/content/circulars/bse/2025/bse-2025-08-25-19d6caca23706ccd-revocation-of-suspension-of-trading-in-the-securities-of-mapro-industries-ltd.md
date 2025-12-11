@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MAPRO
 tags:
-- trading-suspension
-- revocation
-- gsm-framework
-- stage-3
-- spos
 - compliance
+- gsm-framework
+- release
+- spos
+- stage-3
+- suspension
 title: Revocation of suspension of trading in the securities of Mapro Industries Ltd.
 ---
 

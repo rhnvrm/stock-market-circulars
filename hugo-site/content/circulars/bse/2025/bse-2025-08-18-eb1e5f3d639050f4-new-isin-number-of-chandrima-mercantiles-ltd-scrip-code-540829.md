@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CHANDRIMA
 tags:
-- share-subdivision
-- isin-change
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for CHANDRIMA MERCANTILES LTD After Share Sub-Division
 ---
 

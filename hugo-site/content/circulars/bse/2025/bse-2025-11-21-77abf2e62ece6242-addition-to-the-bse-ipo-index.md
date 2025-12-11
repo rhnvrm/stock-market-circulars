@@ -27,11 +27,10 @@ source: bse
 stocks:
 - CAPILLARY
 tags:
-- index
-- bse-ipo-index
-- new-listing
-- capillary-technologies
-- index-addition
+- bse-index
+- index-change
+- index-fund
+- listing
 title: Addition to the BSE IPO INDEX
 ---
 

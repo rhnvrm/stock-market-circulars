@@ -29,14 +29,12 @@ stocks:
 - LEMERITE
 - VIAZ
 tags:
+- conversion
+- emerge-platform
+- equity
+- further-issue
 - listing
-- further-issues
-- sme-emerge
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- LEMERITE
-- VIAZ
+- preferential-issue
 title: Listing of Further Issues of Le Merite Exports Limited and Viaz Tyres Limited
 ---
 

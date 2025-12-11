@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SUNRAKSHAKK
 tags:
+- equity
 - listing
 - new-securities
-- equity-shares
 - preferential-issue
-- sunrakshakk-industries
 title: Listing of New Securities of Sunrakshakk Industries India Limited
 ---
 

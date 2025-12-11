@@ -27,14 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- enforcement
 - attachment
 - defaulter
+- enforcement
+- recovery
 - splendid-hotels-resorts
 - superior-finlease
-- bank-account-attachment
-- demat-account-attachment
 title: Notice of Attachment of Bank Accounts and Demat Accounts against SPLENDID HOTELS
   RESORTS PVT. LTD
 ---

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - AXISBANK
 tags:
+- aaa-rating
 - debt-securities
 - listing
-- axis-bank
+- ncd
 - private-placement
-- debentures
-- aaa-rating
 title: Listing of New Debt Securities of AXIS Bank Ltd. - INE238A08518
 ---
 

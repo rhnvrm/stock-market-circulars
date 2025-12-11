@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- enforcement
-- penalty-recovery
-- illiquid-stock-options
 - account-release
-- attachment-proceedings
+- attachment
+- enforcement
+- illiquid-stock-options
+- penalty
+- recovery
 title: Release Order - Recovery Certificate No. RC8791 of 2025 in respect of Mamata
   Bhiwaniwala
 ---

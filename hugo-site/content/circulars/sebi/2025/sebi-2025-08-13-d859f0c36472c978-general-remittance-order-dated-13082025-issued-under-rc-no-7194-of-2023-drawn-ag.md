@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - SARANG
 tags:
-- recovery-proceedings
-- enforcement-action
-- remittance-order
-- sarang-chemicals
 - compliance
+- demand-notice
+- enforcement
+- recovery
+- sarang-chemicals
 title: General Remittance Order against Pradeep Syamsundar Swain - Sarang Chemicals
   Ltd Matter
 ---

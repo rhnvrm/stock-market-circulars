@@ -25,11 +25,10 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- kra
 - compliance
-- trading-restrictions
 - investor-demise
+- kyc
+- trading-restrictions
 title: Guidelines in pursuance of amendment to SEBI KYC Registration Agency Regulations
   2011
 ---

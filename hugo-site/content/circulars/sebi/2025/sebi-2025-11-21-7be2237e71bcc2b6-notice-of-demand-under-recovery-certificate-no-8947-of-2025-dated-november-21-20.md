@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - RAJTUBES
 tags:
-- recovery-certificate
-- notice-of-demand
+- demand-notice
 - enforcement
-- recovery-proceedings
 - rajasthan-tubes-manufacturing
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8947 of 2025 against Saurabh
   Jain
 ---

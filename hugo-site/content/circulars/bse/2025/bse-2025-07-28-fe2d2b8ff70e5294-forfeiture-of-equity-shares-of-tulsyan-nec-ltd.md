@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TULSYANNEC
+- TULSYAN
 tags:
-- forfeiture
-- partly-paid-shares
-- equity-shares
 - call-money
 - dnr-reconciliation
+- equity
+- forfeiture
+- partly-paid
 title: Forfeiture of Equity Shares of Tulsyan NEC Ltd
 ---
 

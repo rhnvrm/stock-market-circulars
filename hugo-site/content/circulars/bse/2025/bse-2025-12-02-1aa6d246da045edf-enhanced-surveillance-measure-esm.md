@@ -37,11 +37,9 @@ stocks:
 - PERMANENT
 - SHIKHAR
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

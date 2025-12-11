@@ -26,11 +26,11 @@ source: nse
 stocks:
 - ABCAPITL
 tags:
-- trading-suspension
-- debentures
+- ncd
 - non-convertible
 - privately-placed
 - redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debenture (Privately Placed) - Aditya
   Birla Capital Limited
 ---

@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-order
-- unregistered-investment-advisor
-- enforcement
 - compliance
+- enforcement
 - penalty
+- recovery
+- unregistered-investment-advisor
 title: SEBI Order - Recovery Certificate No. 8812 of 2025 against Mr. Priyank Dineshbhai
   Shah for Unregistered Investment Advisory
 ---

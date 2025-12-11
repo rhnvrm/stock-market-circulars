@@ -25,15 +25,15 @@ severity: medium
 source: nse
 stocks:
 - IDFCFIRSTB
-- TATACAPITAL
+- TATACAP
 - SBIN
 tags:
+- debt-securities
 - ncd
+- privately-placed
+- redemption
 - suspension
 - trading-halt
-- redemption
-- debt-securities
-- privately-placed
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

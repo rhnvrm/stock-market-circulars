@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- recovery-certificate
-- enforcement
 - cavalier-securities
-- kolar-biotech-limited
 - compliance
-- release-order
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 286 of 2014 against Cavalier
   Securities - Kolar Biotech Limited Matter
 ---

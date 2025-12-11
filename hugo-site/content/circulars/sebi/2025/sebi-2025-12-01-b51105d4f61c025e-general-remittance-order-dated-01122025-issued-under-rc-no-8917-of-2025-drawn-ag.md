@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - GENENG
 tags:
-- recovery-certificate
+- demand-notice
 - enforcement
 - generic-engineering
+- recovery
 - subhash-dongre
-- remittance-order
-- recovery-proceedings
 title: General Remittance Order dated 01.12.2025 issued under RC No. 8917 of 2025
   drawn against Subhash Vithoba Dongre in the matter of Generic Engineering Construction
   and Project Limited

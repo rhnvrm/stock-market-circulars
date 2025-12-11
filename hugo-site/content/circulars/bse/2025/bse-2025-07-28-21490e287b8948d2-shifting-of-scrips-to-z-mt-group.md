@@ -26,12 +26,11 @@ source: bse
 stocks:
 - BENARA
 tags:
-- z-group
-- mt-group
-- quarterly-results
-- regulation-33
-- sebi-lodr
+- asm-stage
+- financial-results
+- lodr
 - non-compliance
+- regulation-33
 - trade-for-trade
 title: Shifting of scrips to "Z"/"MT" group for non-compliance with quarterly results
   filing

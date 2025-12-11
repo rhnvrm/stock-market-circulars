@@ -30,10 +30,9 @@ stocks:
 - ZELIO
 tags:
 - clarification
-- price-movement
-- volume-movement
-- earnings-call
 - disclosure
+- earnings-call
+- price-movement
 - right-issue
 - surveillance
 title: Clarifications received from the companies

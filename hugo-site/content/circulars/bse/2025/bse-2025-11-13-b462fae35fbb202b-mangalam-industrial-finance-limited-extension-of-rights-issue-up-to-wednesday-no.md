@@ -28,14 +28,13 @@ source: bse
 stocks:
 - MANGIND
 tags:
-- rights-issue
+- equity
 - extension
-- equity-shares
 - financial-results
-- Q2-results
-- unaudited-results
+- q2-results
+- rights-issue
 - trading-window
-- MANGIND
+- unaudited-results
 title: Mangalam Industrial Finance Limited - Rights Issue Extended to November 19,
   2025
 ---

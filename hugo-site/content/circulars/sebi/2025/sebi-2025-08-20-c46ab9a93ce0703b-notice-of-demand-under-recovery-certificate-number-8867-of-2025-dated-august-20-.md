@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-proceedings
-- demand-notice
-- defaulter
-- continental-seeds
 - chemicals
+- defaulter
+- demand-notice
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8867 of 2025 - Vivek Kumar
   Varshney [Continental Seeds and Chemicals Limited]
 ---

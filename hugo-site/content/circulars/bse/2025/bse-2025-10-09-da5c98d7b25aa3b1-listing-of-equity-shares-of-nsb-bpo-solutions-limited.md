@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NSBBPO
 tags:
+- equity
 - listing
-- sme
-- equity-shares
-- new-listing
 - nsb-bpo-solutions
+- sme
 title: Listing of Equity Shares of NSB BPO Solutions Limited
 ---
 

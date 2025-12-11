@@ -28,13 +28,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- collateral-management
-- system-migration
-- nmass
 - cim
 - clearing-members
-- currency-derivatives
+- collateral
+- derivatives
+- maintenance
 - operational-change
+- trading-platform
 title: Migration of Services from CIM to NMASS
 ---
 

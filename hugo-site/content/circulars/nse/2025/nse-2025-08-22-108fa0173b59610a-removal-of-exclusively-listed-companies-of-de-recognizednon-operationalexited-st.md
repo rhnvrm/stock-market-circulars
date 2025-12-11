@@ -36,13 +36,13 @@ stocks:
 - VISHALFOOT
 - RAVEGLOBL
 tags:
-- delisting
-- dissemination-board
 - company-status
-- mca
-- strike-off
+- daily-bulletin
+- delisting
 - dissolution
 - dormant
+- mca
+- strike-off
 title: Removal of Exclusively Listed Companies from Dissemination Board
 ---
 

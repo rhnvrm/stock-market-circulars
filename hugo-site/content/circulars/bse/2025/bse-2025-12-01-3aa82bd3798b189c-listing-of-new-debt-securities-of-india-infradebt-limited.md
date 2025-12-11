@@ -28,10 +28,10 @@ stocks:
 - IIL
 tags:
 - debt-securities
-- listing
 - india-infradebt-limited
+- listing
+- ncd
 - private-placement
-- debentures
 title: Listing of New Debt Securities of India Infradebt Limited
 ---
 

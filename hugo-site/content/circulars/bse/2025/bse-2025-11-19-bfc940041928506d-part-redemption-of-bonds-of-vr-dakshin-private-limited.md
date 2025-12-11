@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- corporate-actions
-- debt
 - bond-redemption
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
 - record-date
+- redemption
 title: Part Redemption of Bonds of VR DAKSHIN PRIVATE LIMITED
 ---
 

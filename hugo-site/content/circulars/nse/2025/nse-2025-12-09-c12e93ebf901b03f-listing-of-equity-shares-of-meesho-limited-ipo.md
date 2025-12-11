@@ -27,11 +27,9 @@ source: nse
 stocks:
 - MEESHO
 tags:
-- listing
+- equity
 - ipo
-- new-listing
-- equity-shares
-- meesho
+- listing
 title: Listing of Equity Shares of Meesho Limited (IPO)
 ---
 

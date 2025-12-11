@@ -27,13 +27,10 @@ source: nse
 stocks:
 - TNTELE
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- margin-requirements
+- asm-stage
+- margin
 - price-band
-- tntele
-- stage-1
+- surveillance
 title: TAMILNADU TELECOMMUNICATION LIMITED Moved to Stage I of Graded Surveillance
   Measure (GSM)
 ---

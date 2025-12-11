@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-suspension
-- silver-etf
-- fof
+- fund-of-funds
 - groww
-- market-conditions
+- market-operations
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Subscription in Groww Silver ETF FOF
 ---
 

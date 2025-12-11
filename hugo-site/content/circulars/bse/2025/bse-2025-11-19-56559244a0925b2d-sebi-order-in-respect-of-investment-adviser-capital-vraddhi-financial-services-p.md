@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- investment-adviser
-- regulatory-violations
 - compliance
+- enforcement
+- intermediary
+- investment-adviser
+- non-compliance
 - pfutp
-- intermediaries
-- enforcement-action
+- sebi-order
 title: SEBI Order in respect of Investment Adviser - Capital Vraddhi Financial Services,
   Proprietor- Mr. Raju Jhariya- Registration No. INA000005291
 ---

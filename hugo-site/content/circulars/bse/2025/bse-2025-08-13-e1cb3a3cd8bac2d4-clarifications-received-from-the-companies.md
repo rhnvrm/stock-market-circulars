@@ -28,11 +28,11 @@ stocks:
 - SJVN
 - SONATA
 tags:
-- volume-increase
-- market-surveillance
-- disclosure
-- regulation-30
 - compliance
+- disclosure
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from companies regarding volume movement
 ---
 

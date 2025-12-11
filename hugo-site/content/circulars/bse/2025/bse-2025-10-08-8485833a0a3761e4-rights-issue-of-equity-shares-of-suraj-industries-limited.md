@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SURAJLTD
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
-- suraj-industries
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
+- suraj-industries
 title: Rights Issue of Equity Shares of Suraj Industries Limited
 ---
 

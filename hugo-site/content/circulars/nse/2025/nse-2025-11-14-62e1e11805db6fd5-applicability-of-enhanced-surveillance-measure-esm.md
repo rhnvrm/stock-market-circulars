@@ -31,13 +31,11 @@ stocks:
 - DHTL
 - PANACHE
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
+- margin
 - price-band
 - surveillance
-- periodic-call-auction
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

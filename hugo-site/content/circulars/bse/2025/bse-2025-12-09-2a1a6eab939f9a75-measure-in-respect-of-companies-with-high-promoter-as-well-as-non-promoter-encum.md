@@ -27,10 +27,9 @@ source: bse
 stocks:
 - SHALPAINTS
 tags:
+- asm-stage
 - encumbrance
-- promoter-pledging
-- surveillance-measure
-- SAST-regulation
+- sast
 - shalimar-paints
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance

@@ -28,12 +28,10 @@ source: nse
 stocks:
 - JBCHEPHARM
 tags:
+- capital-market
 - takeover
 - tender-offer
-- acquisition
-- jbchepharm
 - torrent-pharma
-- capital-market
 - web-bidding
 title: Takeover Offer Under Tender Offer Scheme of J.B. Chemicals & Pharmaceuticals
   Limited

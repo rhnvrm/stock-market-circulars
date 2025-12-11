@@ -27,12 +27,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- alternative-investment-funds
 - accredited-investors
+- alternative-investment-funds
+- compliance
+- ease-of-doing-business
 - large-value-funds
 - regulatory-relaxations
-- ease-of-doing-business
-- compliance
 - scheme-migration
 title: Modalities for Migration to AI-Only Schemes and Relaxations to Large Value
   Funds for Accredited Investors

@@ -27,10 +27,9 @@ stocks:
 - POWERFIN
 tags:
 - bond-redemption
-- trading-suspension
-- debt-securities
 - corporate-action
-- power-finance-corporation
+- debt-securities
+- suspension
 title: Suspension of Trading in Bonds of Power Finance Corporation Ltd
 ---
 

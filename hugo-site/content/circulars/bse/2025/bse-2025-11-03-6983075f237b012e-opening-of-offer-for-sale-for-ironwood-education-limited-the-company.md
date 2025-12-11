@@ -27,11 +27,9 @@ source: bse
 stocks:
 - IRONWOOD
 tags:
-- offer-for-sale
-- ofs
-- ironwood-education
 - equity
 - market-operations
+- ofs
 - trading-window
 title: Opening of Offer for Sale for Ironwood Education Limited
 ---

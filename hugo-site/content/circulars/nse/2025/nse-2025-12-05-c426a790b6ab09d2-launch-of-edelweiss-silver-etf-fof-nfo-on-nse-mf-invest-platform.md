@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- nfo
-- etf
-- fund-of-fund
 - edelweiss-mutual-fund
-- silver-etf
-- mf-invest-platform
 - equity
+- etf
+- fund-of-funds
+- mf-invest-platform
+- nfo
+- silver
 title: Launch of Edelweiss Silver ETF FOF NFO on NSE MF Invest Platform
 ---
 

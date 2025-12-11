@@ -26,13 +26,12 @@ source: nse
 stocks:
 - GREENLEAF
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- trade-for-trade
+- equity
+- listing
+- sme
 - surveillance
-- new-listing
-- equity-shares
+- trade-for-trade
 title: Listing of Equity Shares of Greenleaf Envirotech Limited (SME IPO)
 ---
 

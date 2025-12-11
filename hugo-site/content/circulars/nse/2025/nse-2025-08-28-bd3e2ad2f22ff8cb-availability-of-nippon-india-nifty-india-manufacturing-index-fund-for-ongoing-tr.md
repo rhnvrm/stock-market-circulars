@@ -25,15 +25,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
+- equity
 - manufacturing
+- mutual-fund
 - nifty-index
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
 title: Nippon India Nifty India Manufacturing Index Fund Reopens for Ongoing Transactions
   on NSE MF Invest Platform
 ---

@@ -25,13 +25,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- debarment
 - compliance
+- debarment
 - investigation
-- trade-money-research
 - priyanka-yadav
+- research-analyst
+- sebi-order
+- trade-money-research
 title: SEBI Order in the matter of Priyanka Yadav - Proprietor of Trade Money Research
 ---
 

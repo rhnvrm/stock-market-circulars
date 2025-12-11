@@ -29,11 +29,11 @@ stocks:
 - SEPCPPCM
 tags:
 - call-money
-- partly-paid-shares
-- ibbs
-- equity-shares
-- sepc-limited
 - corporate-action
+- equity
+- partly-paid
+- sepc-limited
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of SEPC Limited
 ---
 

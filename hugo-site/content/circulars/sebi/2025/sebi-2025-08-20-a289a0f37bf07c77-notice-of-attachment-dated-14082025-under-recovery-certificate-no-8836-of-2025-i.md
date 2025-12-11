@@ -26,11 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- attachment-notice
+- attachment
+- enforcement
+- recovery
 - unregistered-investment-advisory
-- enforcement-action
-- recovery-certificate
 title: Notice of Attachment under Recovery Certificate No. 8836 of 2025 against Chetan
   Yashwant Shukla
 ---

@@ -28,10 +28,10 @@ stocks:
 - PFC
 tags:
 - bond-redemption
-- trading-suspension
-- debt-market
 - corporate-action
+- debt-securities
 - power-finance-corporation
+- suspension
 title: Suspension of Trading in Bonds of POWER FINANCE CORPORATION LTD
 ---
 

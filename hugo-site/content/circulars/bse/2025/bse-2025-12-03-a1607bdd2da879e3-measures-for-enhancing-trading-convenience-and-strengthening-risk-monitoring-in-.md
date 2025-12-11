@@ -27,14 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- derivatives
-- risk-management
-- margin-requirements
-- pre-open-session
-- equity-derivatives
-- SPAN
-- ELM
 - clearing
+- derivatives
+- elm
+- margin
+- pre-open-session
+- risk-management
+- span
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

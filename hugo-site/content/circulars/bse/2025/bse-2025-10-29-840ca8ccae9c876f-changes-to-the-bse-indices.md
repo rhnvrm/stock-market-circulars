@@ -26,28 +26,22 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '530011'
-- '543530'
-- '500097'
-- '544292'
-- '544403'
-- '539658'
-- '500730'
-- '538668'
+- PARADEEP
+- DALMIASUG
+- ONESOURCE
+- ABLBL
+- TEAMLEASE
+- NOCIL
+- MIIL
 tags:
-- index
-- index-changes
-- amalgamation
-- demerger
-- gsm
-- mangalore-chemicals
-- paradeep-phosphates
-- dalmia-bharat-sugar
-- meghna-infracon
-- onesource-specialty-pharma
 - aditya-birla-lifestyle
-- teamlease-services
-- nocil
+- dalmia-bharat-sugar
+- index-change
+- index-fund
+- mangalore-chemicals
+- meghna-infracon
+- scheme-of-arrangement
+- surveillance
 title: Changes to the BSE Indices
 ---
 

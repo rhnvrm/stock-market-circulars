@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- jay-energy
-- s-energies-limited
 - bhupendra-m-soni
 - demand-notice
+- enforcement
+- jay-energy
+- recovery
+- s-energies-limited
 title: Notice of Demand for Recovery Certificate No. 8936 of 2025 against Bhupendra
   M Soni in the matter of Jay Energy and S. Energies Limited
 ---

@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- system-maintenance
 - crs-portal
 - downtime
-- bse-starmf
+- system-update
+- trading-platform
 title: Downtime for CRS Portal
 ---
 

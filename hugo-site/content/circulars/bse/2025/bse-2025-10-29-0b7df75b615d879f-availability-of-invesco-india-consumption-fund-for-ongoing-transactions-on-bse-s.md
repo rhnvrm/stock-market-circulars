@@ -25,15 +25,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- invesco
 - consumption-fund
-- star-mf
-- sip
-- stp
-- swp
-- subscription
+- invesco
+- mutual-fund
 - redemption
+- sip
+- star-mf
+- stp
+- subscription
+- swp
 title: Availability of INVESCO INDIA CONSUMPTION FUND for ongoing transactions on
   BSE StAR MF Platform
 ---

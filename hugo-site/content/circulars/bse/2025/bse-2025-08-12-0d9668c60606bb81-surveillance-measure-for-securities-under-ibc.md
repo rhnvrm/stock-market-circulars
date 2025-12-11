@@ -26,12 +26,9 @@ source: bse
 stocks:
 - JAIPRAKASH
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- stage-1
+- surveillance
 title: Surveillance Measures for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

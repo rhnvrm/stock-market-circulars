@@ -27,14 +27,14 @@ source: nse
 stocks:
 - SYNOPTICS
 tags:
-- sebi-order
 - confirmatory-order
-- market-restraint
-- ipo-irregularities
-- sme-platform
-- promoter-action
-- merchant-banker
 - investigation
+- ipo-irregularities
+- market-restraint
+- merchant-banker
+- promoter
+- sebi-order
+- sme
 title: Confirmatory Order in the matter of Synoptics Technologies Limited
 ---
 

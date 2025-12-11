@@ -26,15 +26,13 @@ source: sebi
 stocks:
 - GRADIENTE
 tags:
-- rti-appeal
-- right-to-information
-- rta
-- share-registry
-- gradiente-infotainment
+- information-not-available
 - kfintechnologies
 - purva-share-registry
-- information-not-available
+- rta
+- rti
 - scores
+- share-registry
 title: Appeal No. 6600 of 2025 filed by Harbans Singh Sahni
 ---
 

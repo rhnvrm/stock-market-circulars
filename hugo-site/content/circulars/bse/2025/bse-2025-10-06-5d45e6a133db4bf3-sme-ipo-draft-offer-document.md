@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KWICKFORENSIC
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- kwick-forensic-solutions
+- sme
 title: SME IPO - Draft Offer Document of KWICK FORENSIC SOLUTIONS LIMITED
 ---
 

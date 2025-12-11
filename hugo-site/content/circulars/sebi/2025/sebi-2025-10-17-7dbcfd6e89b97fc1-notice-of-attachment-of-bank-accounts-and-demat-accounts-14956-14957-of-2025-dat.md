@@ -28,13 +28,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- recovery-proceedings
-- defaulter
 - ancient-education-pvt-ltd
-- superior-finlease-ltd
+- attachment
+- defaulter
 - enforcement
-- recovery-certificate
+- recovery
+- superior-finlease-ltd
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Ancient Education
   Pvt Ltd (Defaulter) - Superior Finlease Ltd Matter
 ---

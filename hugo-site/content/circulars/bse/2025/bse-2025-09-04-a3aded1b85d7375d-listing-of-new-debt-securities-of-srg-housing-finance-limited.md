@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SRGHFL
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - srg-housing-finance
-- corporate-bonds
 title: Listing of new debt securities of SRG Housing Finance Limited
 ---
 

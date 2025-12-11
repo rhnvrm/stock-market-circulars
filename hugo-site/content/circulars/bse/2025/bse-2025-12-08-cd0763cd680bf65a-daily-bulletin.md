@@ -33,14 +33,14 @@ stocks:
 - CANFINHOME
 - ECLFINANCE
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
 - commercial-paper
-- corporate-actions
+- corporate-action
+- daily-bulletin
+- dividend
 - interest-payment
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

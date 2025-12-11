@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MRHFL
 tags:
+- bond
 - debt-securities
-- private-placement
 - listing
 - mahindra-rural-housing
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of Mahindra Rural Housing Finance Limited
 ---
 

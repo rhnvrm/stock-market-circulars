@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- universe-trust
-- private-placement
 - icra-aaa
+- listing
+- private-placement
+- universe-trust
 title: Listing of new debt securities of UNIVERSE TRUST JUL 2025
 ---
 

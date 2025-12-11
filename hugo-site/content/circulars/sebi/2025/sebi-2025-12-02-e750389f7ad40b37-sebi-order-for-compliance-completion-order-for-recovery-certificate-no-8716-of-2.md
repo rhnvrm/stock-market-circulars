@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - KAVIT
 tags:
-- recovery-certificate
-- enforcement
-- trading-violations
-- kavit-industries
 - completion-order
-- recovery-proceedings
+- enforcement
+- kavit-industries
+- recovery
+- trading-operations
 title: SEBI Completion Order for Recovery Certificate No. 8716 of 2025 - Vijay Pujara
   - Kavit Industries Limited
 ---

@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
 - groww-mutual-fund
-- multi-asset-allocation
-- nse-mf-invest
+- multi-asset
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Groww Multi Asset Allocation Fund on NSE MF Invest Platform
 ---
 

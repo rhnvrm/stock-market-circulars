@@ -77,7 +77,7 @@ stocks:
 - FLORA
 - FUTENT
 - FYNX
-- GAGANGASES
+- GAGAN
 - GHV
 - GRANDMA
 - GRATEX
@@ -88,7 +88,7 @@ stocks:
 - HYPERSOFT
 - ICONIK
 - INDIALEASE
-- INDIABULLS
+- IBULLSLTD
 - INDIANLNK
 - INDOKEM
 - INDUCTO
@@ -96,11 +96,11 @@ stocks:
 - JMDVENTURE
 - KALPA
 tags:
+- asm-stage
 - circuit-filter
+- market-operations
 - price-band
 - trading-restrictions
-- surveillance-measure
-- market-regulation
 title: Revision of Price Bands - Circuit Filter Changes to 2%
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fund-of-funds
-- scheme-recategorization
-- sebi-framework
 - asset-allocation
+- fund-of-funds
+- mutual-fund
 - name-change
+- regulatory-framework
+- scheme-recategorization
 title: Change in Scheme Name of ADITYA BIRLA on BSE StAR MF Platform
 ---
 

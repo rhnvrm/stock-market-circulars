@@ -28,15 +28,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- regulatory-change
-- fee-structure
 - aum-fees
-- second-opinion
 - distribution-arrangement
 - ease-of-doing-business
-- sebi
+- fee-structure
 - iaasb
+- investment-adviser
+- regulatory
+- sebi
+- second-opinion
 title: Ease of Doing Business Measures - Investment Advisers Permitted to Provide
   Second Opinion on Pre-existing Distribution Assets
 ---

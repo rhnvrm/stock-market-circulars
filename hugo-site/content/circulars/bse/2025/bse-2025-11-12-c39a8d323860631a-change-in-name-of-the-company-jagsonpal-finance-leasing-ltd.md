@@ -28,11 +28,11 @@ source: bse
 stocks:
 - JAGSNPH
 tags:
-- name-change
-- corporate-action
+- certificate
 - company-affairs
-- certificate-of-incorporation
+- corporate-action
 - jagsonpal
+- name-change
 title: Change in Name of Jagsonpal Finance & Leasing Limited to Jagsonpal Services
   Limited
 ---

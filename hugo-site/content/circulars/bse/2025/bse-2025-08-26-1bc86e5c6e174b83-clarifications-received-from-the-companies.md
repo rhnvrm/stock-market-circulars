@@ -26,11 +26,11 @@ stocks:
 - GANDHITUBES
 - RATEGAIN
 tags:
-- volume-movement
 - clarification
-- surveillance
-- market-driven
 - disclosure
+- market-operations
+- price-movement
+- surveillance
 title: Volume Movement Clarifications from Gandhi Special Tubes and RateGain Travel
   Technologies
 ---

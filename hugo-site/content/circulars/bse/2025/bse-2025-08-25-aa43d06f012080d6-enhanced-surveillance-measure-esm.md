@@ -31,11 +31,9 @@ stocks:
 - KESAR
 - PRAXIS
 tags:
-- enhanced-surveillance
-- esm
+- listing
+- surveillance
 - trading-restrictions
-- market-surveillance
-- securities-listing
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities List Changes
 ---
 

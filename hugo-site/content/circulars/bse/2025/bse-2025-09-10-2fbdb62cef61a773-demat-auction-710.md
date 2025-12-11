@@ -27,7 +27,7 @@ stocks:
 - ADANIPOWER
 - ALKYLAMINES
 - ASHOKLEY
-- BAJAJAUTO
+- BAJAJ-AUTO
 - BHARATELECTR
 - CENTURYEXTR
 - DEEPAKFERT
@@ -37,14 +37,14 @@ stocks:
 - JSWSTEEL
 - MARUTISUZUK
 - RELIANCE
-- TATAMOTORS
+- TMCV
 - TATAELXSI
 - YESBANK
 tags:
-- demat-auction
+- demat
+- market-operations
 - settlement
 - trading
-- market-operations
 title: Demat Auction Settlement No. 710 - List of Securities for Auction
 ---
 

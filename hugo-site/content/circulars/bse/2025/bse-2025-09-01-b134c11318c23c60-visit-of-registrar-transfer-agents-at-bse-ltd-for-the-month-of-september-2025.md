@@ -73,11 +73,11 @@ stocks:
 - MAPLLE
 - SAMYAK
 tags:
-- registrar-transfer-agents
-- rta-visits
-- corporate-services
-- adroit-corporate
 - administrative
+- adroit-corporate
+- corporate-services
+- rta
+- rta-visits
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for September 2025
 ---
 

@@ -26,12 +26,10 @@ source: nse
 stocks:
 - SMLISUZU
 tags:
-- takeover
-- tender-offer
-- acquisition
 - bidding-platform
 - mahindra
-- sml-isuzu
+- takeover
+- tender-offer
 title: Takeover offer under Tender Offer scheme of SML Isuzu Limited
 ---
 

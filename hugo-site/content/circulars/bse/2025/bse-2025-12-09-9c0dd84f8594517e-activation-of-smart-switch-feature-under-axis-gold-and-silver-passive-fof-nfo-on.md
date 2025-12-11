@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- smart-switch
 - axis-mutual-fund
 - fund-of-funds
-- bse-star-mf
+- mutual-fund
+- nfo
+- smart-switch
 title: Activation of SMART Switch Feature under AXIS GOLD AND SILVER PASSIVE FOF –
   NFO on BSE StAR MF platform
 ---

@@ -37,13 +37,13 @@ stocks:
 - AXISBANK
 - M&M
 tags:
-- nifty-50
-- index-methodology
-- market-indices
-- rebalancing
-- market-capitalization
-- F&O-segment
 - benchmark-index
+- f&o-segment
+- index-change
+- index-methodology
+- market-capitalization
+- market-indices
+- nifty-50
 title: Dissemination of Indices in Capital Market Segment - Nifty 50 Index Information
 ---
 

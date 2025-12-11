@@ -28,12 +28,9 @@ source: bse
 stocks:
 - GRANDFOU
 tags:
+- equity
+- sast
 - takeover
-- open-offer
-- acquisition
-- grand-foundry
-- sebi-sast
-- equity-shares
 - tender-offer
 title: Opening of Offer to Buy (Takeover) - Grand Foundry Limited by Rakesh Kumar
   Bansal and Gaurav Goyal

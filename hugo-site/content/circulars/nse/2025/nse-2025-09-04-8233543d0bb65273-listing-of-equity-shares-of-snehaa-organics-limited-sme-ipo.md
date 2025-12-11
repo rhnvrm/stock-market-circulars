@@ -26,12 +26,12 @@ source: nse
 stocks:
 - SNEHAA
 tags:
-- sme-ipo
-- listing
+- continuous-market
 - emerge-platform
+- listing
+- sme
 - snehaa-organics
 - trade-for-trade
-- continuous-market
 title: Listing of Equity Shares of Snehaa Organics Limited (SME IPO)
 ---
 

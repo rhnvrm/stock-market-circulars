@@ -27,12 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- surveillance
-- enforcement-action
-- trading-suspension
+- counterparty-trades
+- enforcement
 - fraud-investigation
 - payout-withholding
-- counterparty-trades
+- surveillance
+- suspension
 title: Withholding payout for certain trades dated October 08, 2025 and October 09,
   2025
 ---

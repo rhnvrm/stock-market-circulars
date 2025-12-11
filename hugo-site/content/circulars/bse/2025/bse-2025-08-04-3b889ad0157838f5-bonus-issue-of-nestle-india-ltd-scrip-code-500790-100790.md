@@ -26,10 +26,10 @@ source: bse
 stocks:
 - NESTLEIND
 tags:
-- bonus-issue
-- nestle
-- equity-shares
+- bonus
 - corporate-action
+- equity
+- nestle
 title: 'Bonus issue of NESTLE INDIA LTD. (Scrip Code: 500790 / 100790)'
 ---
 

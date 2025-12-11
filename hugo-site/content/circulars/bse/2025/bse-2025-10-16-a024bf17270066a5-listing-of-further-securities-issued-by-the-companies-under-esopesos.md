@@ -28,17 +28,15 @@ source: bse
 stocks:
 - AAVAS
 - ICICLOMBARD
-- NIIT
+- NIITLTD
 - SUPRAJIT
 - SUZLON
 - TEJASNET
 tags:
-- listing
-- esop
-- esos
 - equity
+- esop
+- listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - Six Companies
 ---
 

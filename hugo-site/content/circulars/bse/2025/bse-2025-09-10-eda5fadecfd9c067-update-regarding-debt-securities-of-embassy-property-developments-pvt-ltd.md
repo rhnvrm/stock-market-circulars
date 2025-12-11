@@ -25,10 +25,10 @@ source: bse
 stocks:
 - EMBASSY
 tags:
+- corporate-action
 - debt-securities
 - embassy-property
-- listing-update
-- corporate-action
+- listing
 title: Update Regarding Debt Securities of Embassy Property Developments Pvt Ltd
 ---
 

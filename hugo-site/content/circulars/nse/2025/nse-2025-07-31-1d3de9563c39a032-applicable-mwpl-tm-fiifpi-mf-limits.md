@@ -84,11 +84,11 @@ stocks:
 - DLF
 - DMART
 tags:
-- position-limits
 - derivatives
 - fii-fpi-limits
 - market-limits
-- trading-limits
+- position-limits
+- trading-operations
 title: Market Wide Position Limits, TM, FII/FPI & MF Limits for August 2025
 ---
 

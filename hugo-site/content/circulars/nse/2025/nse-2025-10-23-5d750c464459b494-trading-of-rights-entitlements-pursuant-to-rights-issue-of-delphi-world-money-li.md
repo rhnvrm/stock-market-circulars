@@ -27,12 +27,11 @@ source: nse
 stocks:
 - DELPH
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- trade-to-trade
-- compulsory-demat
+- demat
 - renunciation
+- rights-issue
+- trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of DELPHI WORLD MONEY
   LIMITED
 ---

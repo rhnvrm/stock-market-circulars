@@ -27,16 +27,16 @@ severity: high
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- contract-specifications
-- lead-futures
-- nickel-futures
-- zinc-futures
-- quality-standards
-- compliance
-- ministry-of-mines
-- qco
 - bureau-of-indian-standards
+- compliance
+- contract-specifications
+- derivatives
+- lead-futures
+- ministry-of-mines
+- nickel-futures
+- qco
+- quality-standards
+- zinc-futures
 title: Change in contract specifications of Lead Futures, Lead Mini Futures, Nickel
   Futures, Zinc Futures and Zinc Mini Futures Contracts
 ---

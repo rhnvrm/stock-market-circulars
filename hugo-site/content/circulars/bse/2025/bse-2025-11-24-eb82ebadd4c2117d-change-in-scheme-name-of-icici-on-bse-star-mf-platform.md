@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- fund-of-funds
-- scheme-recategorization
-- icici-prudential
+- arbitrage-fund
 - debt-oriented
-- arbitrage
-- sebi-framework
+- fund-of-funds
+- icici-prudential
+- mutual-fund
+- regulatory-framework
+- scheme-recategorization
 title: Change in Scheme Name of ICICI Prudential Income Plus Arbitrage Active FOF
 ---
 

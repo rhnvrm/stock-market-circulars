@@ -27,11 +27,8 @@ source: bse
 stocks:
 - PHARMAIDS
 tags:
+- equity
 - takeover
-- open-offer
-- acquisition
-- pharmaids-pharmaceuticals
-- equity-shares
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of PHARMAIDS PHARMACEUTICALS
   LIMITED
 ---

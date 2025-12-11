@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UMIYA
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
+- listing
+- lock-in
 - umiya-mobile
-- lock-in-period
 title: Listing of Equity Shares of Umiya Mobile Limited
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- crisil-rated
 - debt-securities
 - listing
-- private-placement
+- ncd
 - nirmal-bang-securities
-- non-convertible-debentures
-- crisil-rated
+- private-placement
 title: Listing of New Debt Securities of Nirmal Bang Securities Private Limited
 ---
 

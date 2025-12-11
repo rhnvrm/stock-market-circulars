@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
-- compliance-order
-- debt-recovery
-- sms-techsoft
 - completion-order
+- compliance-order
+- enforcement
+- recovery
 title: SEBI Completion Order for Recovery Certificate No. 2786 of 2020 - SMS Techsoft
   (India) Ltd and Others
 ---

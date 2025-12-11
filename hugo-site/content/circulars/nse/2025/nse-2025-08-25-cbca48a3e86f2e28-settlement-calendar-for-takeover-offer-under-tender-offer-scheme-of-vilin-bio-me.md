@@ -26,12 +26,11 @@ source: nse
 stocks:
 - VILINBIO
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- vilin-bio-med
 - clearing
 - demat-shares
+- settlement-calendar
+- takeover
+- tender-offer
 title: Settlement Calendar for Takeover offer under Tender Offer scheme of Vilin Bio
   Med Limited
 ---

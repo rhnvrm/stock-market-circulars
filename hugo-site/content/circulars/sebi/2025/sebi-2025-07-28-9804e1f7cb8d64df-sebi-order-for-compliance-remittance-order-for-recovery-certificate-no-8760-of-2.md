@@ -26,10 +26,10 @@ source: sebi
 stocks:
 - PRESSURESENSITIVE
 tags:
-- recovery-certificate
 - compliance-order
-- enforcement
 - defaulter
+- enforcement
+- recovery
 - remittance
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 8760
   of 2025 against Manish Mishra in the matter of Pressure Sensitive (India) Limited

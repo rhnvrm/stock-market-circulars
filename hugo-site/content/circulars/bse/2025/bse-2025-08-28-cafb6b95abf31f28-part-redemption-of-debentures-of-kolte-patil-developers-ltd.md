@@ -23,13 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- KOLTE-PATIL
+- KOLTEPATIL
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- corporate-actions
-- debt
-- kolte-patil
 title: Part Redemption of Debentures of KOLTE-PATIL DEVELOPERS LTD
 ---
 

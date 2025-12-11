@@ -26,14 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '532797'
+- AUTOIND
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-funding
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter-funding
 title: Listing of New Securities of Autoline Industries Ltd - Preferential Allotment
 ---
 

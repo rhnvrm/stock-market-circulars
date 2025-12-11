@@ -25,12 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544572'
+- SKFINDUS
 tags:
-- shareholding-pattern
 - listing
+- lodr
 - regulation-31
-- sebi-lodr
+- shareholding-pattern
 - skf-india-industrial
 title: 'Listing of Equity Shares of SKF India (Industrial) Limited (Scrip Code: 544572)'
 ---

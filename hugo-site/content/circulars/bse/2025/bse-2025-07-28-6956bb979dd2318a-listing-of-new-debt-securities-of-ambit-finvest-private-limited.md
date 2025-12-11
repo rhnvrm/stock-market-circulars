@@ -25,11 +25,10 @@ source: bse
 stocks:
 - AMBITFIN
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- ambit-finvest
-- corporate-bonds
 title: Listing of new debt securities of Ambit Finvest Private Limited
 ---
 

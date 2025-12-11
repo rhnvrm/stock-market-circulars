@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CAPILLARY
 tags:
+- allotment
+- anchor-investor
+- further-issue
 - ipo
-- anchor-investors
-- allocation
-- fresh-issue
-- offer-for-sale
+- ofs
 - technology
 title: Public Issue of Capillary Technologies India Limited - Allocation to Anchor
   Investors

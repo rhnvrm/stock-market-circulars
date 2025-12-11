@@ -26,7 +26,7 @@ source: bse
 stocks:
 - ADITYABIRLA
 - APLAPOLLO
-- BOROSIL
+- BOROLTD
 - CIPLA
 - DELHIVERY
 - FEDERALBNK
@@ -37,11 +37,9 @@ stocks:
 - UTIAMC
 - VMART
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - August 14, 2025
 ---
 

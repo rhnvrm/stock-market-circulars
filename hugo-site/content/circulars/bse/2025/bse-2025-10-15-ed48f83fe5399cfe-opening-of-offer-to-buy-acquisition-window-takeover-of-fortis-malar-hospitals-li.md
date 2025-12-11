@@ -29,13 +29,10 @@ source: bse
 stocks:
 - FORTISMALAR
 tags:
-- takeover
-- open-offer
-- acquisition
-- fortis-malar-hospitals
-- sebi-sast
-- cash-offer
+- cash-segment
 - healthcare-sector
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Fortis Malar Hospitals
   Limited
 ---

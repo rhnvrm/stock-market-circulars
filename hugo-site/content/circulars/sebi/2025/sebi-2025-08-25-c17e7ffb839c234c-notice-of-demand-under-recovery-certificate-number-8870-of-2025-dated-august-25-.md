@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - CONTINENTAL_SEEDS
 tags:
-- recovery-certificate
 - demand-notice
-- continental-seeds
-- jahan-enterprises
-- trading-activities
-- investigation
 - enforcement
+- investigation
+- jahan-enterprises
+- recovery
+- trading-activities
 title: Notice of Demand under Recovery Certificate number 8870 of 2025 - Momin Jahan,
   Jahan Enterprises
 ---

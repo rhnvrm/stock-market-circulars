@@ -28,14 +28,13 @@ source: nse
 stocks:
 - ADANIENT
 tags:
-- position-limits
 - derivatives
-- futures-and-options
-- adani-enterprises
 - fii-fpi-limits
-- mutual-fund-limits
-- trading-member-limits
+- futures-options
 - market-wide-position-limits
+- mutual-fund-limits
+- position-limits
+- trading-member-limits
 title: Revised MWPL, TM, FII/FPI & MF Limits for ADANI ENTERPRISES LIMITED
 ---
 

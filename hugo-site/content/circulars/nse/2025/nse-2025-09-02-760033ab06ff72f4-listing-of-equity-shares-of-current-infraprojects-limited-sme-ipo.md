@@ -25,10 +25,9 @@ source: nse
 stocks:
 - CURRENT
 tags:
-- sme-ipo
-- new-listing
-- equity-shares
-- CURRENT
+- equity
+- listing
+- sme
 title: Listing of Equity Shares of Current Infraprojects Limited (SME IPO)
 ---
 

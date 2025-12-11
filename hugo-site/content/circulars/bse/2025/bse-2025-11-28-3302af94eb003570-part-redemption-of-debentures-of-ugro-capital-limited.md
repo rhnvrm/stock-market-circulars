@@ -27,13 +27,12 @@ source: bse
 stocks:
 - UGROCA
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
-- corporate-actions
-- non-convertible-debentures
+- redemption
 title: Part Redemption of Debentures of UGRO Capital Limited
 ---
 

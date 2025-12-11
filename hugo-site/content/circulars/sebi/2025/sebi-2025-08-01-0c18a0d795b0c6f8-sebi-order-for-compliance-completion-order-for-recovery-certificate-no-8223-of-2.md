@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - ECONO
 tags:
-- recovery-certificate
 - completion-order
-- trading-violations
 - compliance
 - enforcement
+- recovery
+- trading-operations
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 8223
   of 2024 against Arpita Ilesh Patel
 ---

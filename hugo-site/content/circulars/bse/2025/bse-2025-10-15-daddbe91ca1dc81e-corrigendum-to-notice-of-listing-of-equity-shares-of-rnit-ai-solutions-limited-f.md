@@ -27,13 +27,13 @@ source: bse
 stocks:
 - RNIT
 tags:
-- listing
-- corrigendum
-- trade-to-trade
-- xt-group
-- equity-shares
-- rnit-ai-solutions
+- asm-stage
 - autopal-industries
+- corrigendum
+- equity
+- listing
+- rnit-ai-solutions
+- trade-to-trade
 title: Corrigendum to Listing of RNIT AI Solutions Limited - Revised Listing Date
   to October 24, 2025
 ---

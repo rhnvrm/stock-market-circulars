@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- nri
-- derivatives
-- position-limits
 - clearing-members
 - cp-code
+- derivatives
+- nri
 - operational-efficiency
+- position-limits
 title: Operational Efficiency in Monitoring of Non-Resident Indians (NRIs) Position
   Limits in Exchange Traded Derivatives Contracts - Ease of Doing Investment
 ---

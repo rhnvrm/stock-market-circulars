@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- access-control
 - co-location
 - data-center
 - equipment
+- trading-platform
 - visitor-management
-- BEFS
-- access-control
 title: Revised Guidelines for Co-location Facility and Related Services
 ---
 

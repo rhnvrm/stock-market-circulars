@@ -25,11 +25,11 @@ source: bse
 stocks:
 - KMPL
 tags:
+- bond
 - debt-securities
-- listing
 - kotak-mahindra-prime
+- listing
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of Kotak Mahindra Prime Limited
 ---
 

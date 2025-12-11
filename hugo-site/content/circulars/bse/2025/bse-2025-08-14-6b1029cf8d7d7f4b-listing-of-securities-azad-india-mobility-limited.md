@@ -26,10 +26,10 @@ source: bse
 stocks:
 - AZADENG
 tags:
-- equity-listing
-- preferential-allotment
+- equity
 - lock-in
-- new-shares
+- new-securities
+- preferential-issue
 title: Listing of New Equity Shares of AZAD INDIA MOBILITY LIMITED
 ---
 

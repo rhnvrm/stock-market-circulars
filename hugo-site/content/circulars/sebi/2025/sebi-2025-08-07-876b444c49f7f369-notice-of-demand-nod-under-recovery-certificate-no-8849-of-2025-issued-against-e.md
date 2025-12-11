@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - EMEDCOM
 tags:
-- recovery-certificate
 - demand-notice
-- enforcement
 - emed-technologies
-- recovery-proceedings
+- enforcement
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8849 of 2025 against Emed.com
   Technologies Limited
 ---

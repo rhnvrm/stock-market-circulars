@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- etf
+- fund-of-funds
+- groww-mutual-fund
 - mutual-fund
 - nfo
-- etf
-- fund-of-fund
-- groww-mutual-fund
 - nifty-capital-markets
-- new-fund-offer
 title: Launch of Groww Nifty Capital Markets ETF FOF NFO on NSE MF Invest Platform
 ---
 

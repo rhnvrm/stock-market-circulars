@@ -35,11 +35,9 @@ stocks:
 - EUROTEX
 - REVATI
 tags:
-- gsm
+- market-operations
 - surveillance
-- graded-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

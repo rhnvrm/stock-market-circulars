@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- sbi-cards
-- debentures
 title: Listing of new debt securities of SBI Cards and Payment Services Limited
 ---
 

@@ -32,14 +32,12 @@ stocks:
 - DHARANIFIN
 - SHREEKRISPAPER
 - SYSTEMATIX
-- WOMENNETWORKS
+- WOMENNET
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-regulation
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - October 15, 2025 Updates
 ---
 

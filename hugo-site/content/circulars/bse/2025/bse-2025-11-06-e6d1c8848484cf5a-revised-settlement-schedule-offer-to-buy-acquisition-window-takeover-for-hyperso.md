@@ -27,12 +27,11 @@ source: bse
 stocks:
 - HYPERSOFT
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- revised-calendar
 - early-pay-in
-- hypersoft-technologies
+- otb
+- revised-calendar
+- settlement
+- takeover
 title: Revised Settlement Schedule for Hypersoft Technologies Limited Takeover Offer
 ---
 

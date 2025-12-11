@@ -27,10 +27,10 @@ stocks:
 - PFC
 - SBIN
 tags:
-- suspension
-- non-convertible-debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
 - trading
 title: Suspension of trading in Non-Convertible Debentures of L&T Finance, Power Finance
   Corporation, and State Bank of India

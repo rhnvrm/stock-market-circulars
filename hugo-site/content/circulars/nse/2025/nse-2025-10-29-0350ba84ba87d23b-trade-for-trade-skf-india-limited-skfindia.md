@@ -27,11 +27,11 @@ source: nse
 stocks:
 - SKFINDIA
 tags:
-- trade-for-trade
+- market-operations
 - rolling-segment
 - segment-transfer
+- trade-for-trade
 - trading-mode
-- market-operations
 title: Trade for Trade - SKF India Limited (SKFINDIA)
 ---
 

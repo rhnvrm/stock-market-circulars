@@ -27,11 +27,10 @@ stocks:
 - GREAVESCOT
 - HALDER
 tags:
-- price-movement
-- volume-increase
+- bonus
 - clarification
 - disclosure
-- bonus-issue
+- price-movement
 - surveillance
 title: Clarifications received from the companies
 ---

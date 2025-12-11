@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '542918'
+- GIANLIFE
 tags:
-- trading-suspension
 - compliance
-- sebi-regulations
-- depositories
-- gian-life-care
+- depository
+- regulatory-framework
+- suspension
 title: Cancellation of Trading Suspension for Gian Life Care Ltd - SEBI Depositories
   Regulations Compliance
 ---

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- debentures
-- trading-resumption
-- shriram-finance
-- debt-market
+- debt-securities
+- ncd
 - put-option
-- early-redemption
+- redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of Shriram Finance Ltd
 ---
 

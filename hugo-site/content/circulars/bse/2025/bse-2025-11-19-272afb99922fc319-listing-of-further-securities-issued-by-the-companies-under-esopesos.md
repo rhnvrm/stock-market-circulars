@@ -36,11 +36,10 @@ stocks:
 - PRIMESEC
 - WIPRO
 tags:
+- equity
 - esop
-- esos
 - listing
 - new-securities
-- equity
 title: Listing of Further Securities Issued Under ESOP/ESOS - 9 Companies
 ---
 

@@ -27,13 +27,13 @@ source: bse
 stocks:
 - NAMDEV FINVEST
 tags:
-- debentures
-- part-redemption
 - corporate-action
-- debt-segment
-- interest-payment
-- record-date
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of NAMDEV FINVEST PRIVATE LIMITED
 ---
 

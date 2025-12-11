@@ -26,11 +26,10 @@ source: nse
 stocks:
 - NUVAMA
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- nuvama
-- equity-shares
+- equity
+- face-value-change
+- split
 title: Face Value Split - Nuvama Wealth Management Limited (NUVAMA)
 ---
 

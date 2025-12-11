@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - block-deal
-- trading
 - equity
-- price-range
 - order-size
-- t+0-settlement
+- price-range
+- t0-settlement
+- trading
 title: Review of Block Deal Framework – Update
 ---
 

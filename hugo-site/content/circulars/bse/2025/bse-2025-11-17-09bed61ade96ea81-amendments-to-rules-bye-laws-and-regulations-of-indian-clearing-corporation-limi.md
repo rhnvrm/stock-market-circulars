@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- clearing-corporation
-- iccl
-- bye-laws
-- regulatory-amendment
-- clearing-banks
 - business-days
+- bye-laws
+- clearing-banks
+- clearing-corporation
 - clearing-segments
-- commodity-derivatives
+- derivatives
+- iccl
+- regulatory-amendment
 title: Amendments to Rules, Bye-laws and Regulations of Indian Clearing Corporation
   Limited (ICCL)
 ---

@@ -34,13 +34,13 @@ stocks:
 - PRIMA
 - SAILANITOU
 - SELMC
-- VRWOODART
+- VRWODAR
 tags:
-- price-band
-- trading-parameters
-- surveillance
 - equity
-- market-regulation
+- market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 10 Scrips Effective October 21, 2025
 ---
 

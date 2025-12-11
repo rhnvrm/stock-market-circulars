@@ -28,7 +28,7 @@ stocks:
 - KMPL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kotak-mahindra-prime
 - private-placement
 - short-term-debt

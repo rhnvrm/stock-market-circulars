@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- government-securities
-- g-secs
 - auction
-- debt-market
+- debt-securities
+- g-secs
+- gsec
 - non-competitive-bidding
 title: Non-Competitive Bidding for GoI Dated Securities Auction on September 4, 2025
 ---

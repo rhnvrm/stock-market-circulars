@@ -27,12 +27,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
+- demand-notice
 - enforcement
-- recovery-proceedings
 - rajasthan-tubes
-- debt-recovery
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8946 of 2025 against Deepesh
   Jain in Rajasthan Tubes Manufacturing Co. Ltd. matter
 ---

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SODHANI
 tags:
+- asm-stage
 - group-change
-- sme
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
+- sme
 - sodhani-capital
+- trade-for-trade
 title: Change in Group of Equity Shares of SODHANI CAPITAL LIMITED
 ---
 

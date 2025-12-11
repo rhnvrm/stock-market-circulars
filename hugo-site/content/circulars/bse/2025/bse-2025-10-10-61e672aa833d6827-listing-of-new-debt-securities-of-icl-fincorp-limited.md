@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - ncd
-- icl-fincorp
+- private-placement
 title: Listing of new debt securities of ICL Fincorp Limited
 ---
 

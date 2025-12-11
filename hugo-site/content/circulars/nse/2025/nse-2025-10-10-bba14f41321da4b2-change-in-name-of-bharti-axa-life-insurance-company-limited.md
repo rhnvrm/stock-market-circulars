@@ -26,10 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- name-change
+- corporate-action
 - insurance-company
 - listing
-- corporate-action
+- name-change
 title: Change in name of Bharti AXA Life Insurance Company Limited
 ---
 

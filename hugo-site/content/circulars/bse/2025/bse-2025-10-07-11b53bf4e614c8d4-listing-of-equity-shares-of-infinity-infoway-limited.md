@@ -26,11 +26,9 @@ source: bse
 stocks:
 - INFINITY
 tags:
-- shareholding-pattern
+- equity
 - listing
-- equity-shares
-- promoter-holding
-- infinity-infoway
+- shareholding-pattern
 title: Listing of Equity Shares of Infinity Infoway Limited
 ---
 

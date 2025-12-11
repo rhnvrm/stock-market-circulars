@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-name
-- bse-star-mf
+- mutual-fund
 - quantum
-- platform-update
+- scheme-name
+- system-update
 title: Change in Scheme Name of QUANTUM Mutual Fund on BSE StAR MF Platform
 ---
 

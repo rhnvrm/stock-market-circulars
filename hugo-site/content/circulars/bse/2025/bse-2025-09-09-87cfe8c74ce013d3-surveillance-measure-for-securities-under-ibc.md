@@ -28,11 +28,8 @@ stocks:
 - HARIG
 - VIKAS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
+- surveillance
 title: Surveillance Measures for Securities Under Insolvency and Bankruptcy Code
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - YOGI
 tags:
-- equity-listing
+- conversion
+- equity
+- lock-in
 - preferential-issue
-- warrant-conversion
-- lock-in-period
 - yogi-limited
 title: Listing of New Securities of YOGI Limited - 1.096 Crore Equity Shares
 ---

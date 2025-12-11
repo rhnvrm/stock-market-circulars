@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- minimum-amount
 - mutual-fund
 - swp
-- systematic-withdrawal-plan
+- trading-platform
 - union-mutual-fund
-- minimum-amount
-- nse-mf-invest
 title: Change in Minimum Instalment Amount for Union Mutual Fund SWP on NSE MF Invest
   Platform
 ---

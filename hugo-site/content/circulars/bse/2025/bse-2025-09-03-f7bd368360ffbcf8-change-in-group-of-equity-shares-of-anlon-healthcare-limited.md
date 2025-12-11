@@ -27,10 +27,9 @@ stocks:
 - ANLONHEAL
 tags:
 - group-change
-- trading-segment
-- anlon-healthcare
 - rolling-segment
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Anlon Healthcare Limited
 ---
 

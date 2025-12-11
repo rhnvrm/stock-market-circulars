@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SKYLINE
 tags:
-- takeover
+- demat
+- otb
 - settlement
 - skyline-india
-- acquisition-window
-- demat-delivery
+- takeover
 title: Revised Settlement Schedule for SKYLINE INDIA LIMITED Takeover Offer
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - SVARNIM
 tags:
-- recovery-certificate
-- enforcement
-- demand-notice
-- svarnim-trade-udyog
 - defaulter
+- demand-notice
+- enforcement
+- recovery
+- svarnim-trade-udyog
 title: Notice of Demand under Recovery Certificate No. 8942 of 2025 dated November
   14, 2025 issued against Suraj G Prajapati (PAN - ALYPP7089F) in the matter of Svarnim
   Trade Udyog Limited

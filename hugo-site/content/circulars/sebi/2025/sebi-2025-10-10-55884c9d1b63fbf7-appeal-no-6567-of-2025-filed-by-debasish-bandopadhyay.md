@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - EIH
 tags:
-- rti-appeal
-- market-intelligence
-- lodr-regulations
-- information-disclosure
 - confidentiality
 - eih-limited
+- information-disclosure
+- lodr
+- market-intelligence
+- rti
 title: Appeal No. 6567 of 2025 filed by Debasish Bandopadhyay - RTI Application Regarding
   EIH Limited Complaint
 ---

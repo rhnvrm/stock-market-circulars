@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SMSPHARM
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
 - lock-in
-- equity-shares
+- preferential-issue
+- promoter
 title: Listing of new securities of SMS Pharmaceuticals Ltd
 ---
 

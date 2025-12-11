@@ -27,14 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- attachment-order
-- unregistered-investment-adviser
-- enforcement
-- compliance
-- demat-attachment
-- insight-research
 - anil-gurjar
+- attachment
+- compliance
+- enforcement
+- insight-research
+- recovery
+- unregistered-investment-adviser
 title: SEBI Order for Compliance – Notice of Attachment for Demat Account - Recovery
   Certificate No. 8491 of 2025 against INSIGHT RESEARCH Proprietor Anil Gurjar
 ---

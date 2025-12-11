@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
+- holiday
+- revised-schedule
 - settlement
-- currency-derivatives
-- trading-holiday
-- schedule-change
 title: Changes in Currency Derivatives Settlement Schedule - September 2025
 ---
 

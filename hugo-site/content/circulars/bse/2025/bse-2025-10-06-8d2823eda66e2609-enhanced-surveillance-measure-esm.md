@@ -38,11 +38,10 @@ stocks:
 - VAGHANI
 - OMNITEX
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- market-integrity
 - volatility-control
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   7, 2025

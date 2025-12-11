@@ -25,13 +25,13 @@ source: sebi
 stocks:
 - SYBLY
 tags:
-- recovery-certificate
-- demand-notice
 - defaulter
-- gdr-issues
-- sybly-industries
-- investigation
+- demand-notice
 - enforcement
+- gdr-issues
+- investigation
+- recovery
+- sybly-industries
 title: Notice of Demand under Recovery Certificate No. 8871 of 2025 - Mahesh Chand
   Mittal
 ---

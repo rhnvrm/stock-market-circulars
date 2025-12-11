@@ -32,11 +32,11 @@ stocks:
 - STEELXIND
 - THYROCARE
 tags:
-- surveillance
 - encumbrance
-- margin-requirements
-- promoter-holdings
-- sast-regulation
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 title: Surveillance Measure for Companies with High Promoter and Non-Promoter Encumbrance
   - August 2025 Update
 ---

@@ -28,12 +28,12 @@ stocks:
 - INFY
 tags:
 - buyback
-- tender-offer
-- settlement-calendar
 - capital-market
 - demat-shares
 - early-pay-in
+- settlement-calendar
 - stt
+- tender-offer
 title: Settlement Calendar for Buyback Offer under Tender Offer scheme by Infosys
   Limited
 ---

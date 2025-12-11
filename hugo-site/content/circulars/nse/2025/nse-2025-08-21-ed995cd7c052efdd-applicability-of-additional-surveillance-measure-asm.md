@@ -27,12 +27,9 @@ stocks:
 - BGRENERGY
 - GCHOTELS
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trade-for-trade
-- bgr-energy
-- gchotels
 title: Additional Surveillance Measure (ASM) - Securities Moved to Long Term Framework
 ---
 

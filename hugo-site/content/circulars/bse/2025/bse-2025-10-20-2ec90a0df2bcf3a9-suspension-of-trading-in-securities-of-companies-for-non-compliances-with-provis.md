@@ -30,15 +30,12 @@ stocks:
 - RETROGREEN
 - VASUDHAGAM
 tags:
-- trading-suspension
-- regulation-76
-- sebi-depositories-regulations
 - non-compliance
 - promoter-shareholding-freeze
+- regulation-76
+- sebi-depositories-regulations
+- suspension
 - trade-for-trade
-- ramasigns-industries
-- retro-green-revolution
-- vasudhagama-enterprises
 title: Suspension of Trading for Non-Compliance with SEBI Depositories Regulations
 ---
 

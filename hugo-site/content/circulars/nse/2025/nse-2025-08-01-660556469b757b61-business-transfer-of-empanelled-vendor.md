@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- vendor-empanelment
+- 63moons
 - business-transfer
 - non-neat-frontend
-- trading-services
-- 63moons
 - synapsewave
+- trading-services
+- vendor-empanelment
 title: Business transfer of Empanelled Vendor - 63 Moons Technologies to Synapsewave
   Innovations
 ---

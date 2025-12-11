@@ -33,14 +33,14 @@ stocks:
 - ITDC
 - IOC
 tags:
-- daily-bulletin
+- bond
+- bonus
 - book-closure
-- record-date
-- dividend
-- bonus-issue
 - commercial-paper
-- bonds
-- debentures
+- daily-bulletin
+- dividend
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Date and Dividend Information
 ---
 

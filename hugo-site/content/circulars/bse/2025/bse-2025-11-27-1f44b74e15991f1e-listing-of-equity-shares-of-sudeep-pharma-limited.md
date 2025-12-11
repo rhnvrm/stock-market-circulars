@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- SUDEEPPHARMA
+- SUDEEPPHRM
 tags:
-- shareholding-pattern
-- new-listing
-- equity-shares
-- regulation-31
-- sebi-lodr
+- equity
+- listing
+- lodr
 - post-issue-disclosure
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Sudeep Pharma Limited
 ---
 

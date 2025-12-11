@@ -26,11 +26,9 @@ source: bse
 stocks:
 - BRIGHOTEL
 tags:
-- listing
-- equity-shares
-- new-listing
 - brigade-hotel-ventures
-- BRIGHOTEL
+- equity
+- listing
 title: Listing of Equity Shares of Brigade Hotel Ventures Limited
 ---
 

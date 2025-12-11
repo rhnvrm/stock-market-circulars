@@ -25,11 +25,10 @@ source: nse
 stocks:
 - AHCL
 tags:
-- trade-for-trade
-- rolling-segment
 - ipo
+- rolling-segment
 - segment-transfer
-- ahcl
+- trade-for-trade
 title: Trade for Trade - Anlon Healthcare Limited (IPO)
 ---
 

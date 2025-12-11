@@ -27,11 +27,9 @@ stocks:
 - KOSAMATTAM
 tags:
 - debt-securities
-- ncd
-- listing
-- kosamattam-finance
-- debentures
 - fixed-income
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Kosamattam Finance
   Limited
 ---

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - CUPIDBRW
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- offer-to-buy
 - cupid-breweries
-- demat-delivery
+- demat
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for Cupid Breweries and Distilleries Limited Takeover
   Offer
 ---

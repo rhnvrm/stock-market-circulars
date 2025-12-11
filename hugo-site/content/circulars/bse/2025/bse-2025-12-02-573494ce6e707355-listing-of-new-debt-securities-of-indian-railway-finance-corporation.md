@@ -28,11 +28,10 @@ stocks:
 - IRFC
 tags:
 - debt-securities
-- listing
-- irfc
-- zero-coupon-bonds
-- private-placement
 - demat-trading
+- listing
+- private-placement
+- zero-coupon-bonds
 title: Listing of New Debt Securities of Indian Railway Finance Corporation
 ---
 

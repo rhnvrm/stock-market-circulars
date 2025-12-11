@@ -24,19 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544562'
-- '544564'
-- '544561'
-- '544563'
-- '544565'
-- '544567'
-- '544566'
+- ADVANCE
+- OMFREIGHT
+- CHIRAHARIT
+- ZELIO
+- VALPLAST
+- INFINITY
+- SUNSKY
 tags:
-- index
-- ipo
-- sme-ipo
-- listing
 - equity
+- index-fund
+- ipo
+- listing
+- sme
 title: Additions to the BSE Indices
 ---
 

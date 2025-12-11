@@ -32,11 +32,10 @@ stocks:
 - ASTEC
 - KOTAKSEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- debt-securities
 title: Listing of Privately Placed Debt Securities - November 25, 2025
 ---
 

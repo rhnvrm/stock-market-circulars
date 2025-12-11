@@ -26,12 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-directions
-- stock-recommendations
-- media-channels
-- disgorgement
 - appellate-tribunal
-- regulatory-action
+- disgorgement
+- media-channels
+- regulatory
+- sebi-order
+- stock-recommendations
 title: SEBI Directions Against Sanjiv Bhasin for Stock Recommendations in Media Channels
 ---
 

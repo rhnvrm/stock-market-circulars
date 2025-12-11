@@ -30,12 +30,10 @@ stocks:
 - DELPHIFX
 - SABTNL
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirements
 - trade-for-trade
-- long-term-asm
 title: Applicability of Additional Surveillance Measure (ASM) - December 2025
 ---
 

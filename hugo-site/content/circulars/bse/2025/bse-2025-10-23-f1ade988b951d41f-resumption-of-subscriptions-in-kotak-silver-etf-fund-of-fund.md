@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fund-of-fund
+- fund-of-funds
+- kotak-mahindra
+- market-operations
+- mutual-fund
+- resumption
 - silver
 - subscription
-- kotak-mahindra
-- resumption
-- market-operations
 title: Resumption of Subscriptions in Kotak Silver ETF Fund of Fund
 ---
 

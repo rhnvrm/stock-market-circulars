@@ -26,11 +26,10 @@ source: bse
 stocks:
 - FISCHERMED
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
 - face-value-change
+- isin
 title: New ISIN Number for Fischer Medical Ventures Ltd Following Share Sub-Division
 ---
 

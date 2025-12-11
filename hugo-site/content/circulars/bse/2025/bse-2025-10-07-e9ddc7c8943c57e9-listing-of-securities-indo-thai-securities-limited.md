@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INDOTHAI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities Indo Thai Securities Limited
 ---
 

@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks:
 - BAJAJ-AUTO
-- GANESHHOUSING
+- GANESHHOU
 tags:
-- volume-clarification
-- surveillance
 - disclosure
-- market-driven
-- price-sensitive-information
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

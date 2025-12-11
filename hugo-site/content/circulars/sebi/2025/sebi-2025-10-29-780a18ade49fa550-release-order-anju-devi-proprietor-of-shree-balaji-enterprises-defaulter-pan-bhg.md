@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - CONTINENTALSEED
 tags:
-- release-order
 - defaulter
-- recovery-certificate
-- continental-seeds-chemicals
 - enforcement
+- recovery
+- release
 - shree-balaji-enterprises
 title: 'Release Order – Anju Devi, Proprietor of Shree Balaji Enterprises [Defaulter]
   PAN: BHGPD3597M in the matter of Continental Seeds and Chemicals Limited. Certificate

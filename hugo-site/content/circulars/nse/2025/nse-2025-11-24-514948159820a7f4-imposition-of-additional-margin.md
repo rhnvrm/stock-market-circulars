@@ -27,12 +27,12 @@ source: nse
 stocks: []
 tags:
 - additional-margin
+- derivatives
+- gold
+- margin
 - risk-management
-- commodity-derivatives
-- gold-futures
 - silver-futures
-- tender-period
-- margin-requirements
+- tender-offer
 title: Imposition of Additional Margin on Gold and Silver Futures During Tender Period
 ---
 

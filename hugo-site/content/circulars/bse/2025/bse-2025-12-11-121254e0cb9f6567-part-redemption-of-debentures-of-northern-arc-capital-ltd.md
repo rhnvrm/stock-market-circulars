@@ -28,13 +28,12 @@ source: bse
 stocks:
 - NORTHERNARC
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt-market
-- northern-arc-capital
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of Northern Arc Capital Ltd.
 ---
 

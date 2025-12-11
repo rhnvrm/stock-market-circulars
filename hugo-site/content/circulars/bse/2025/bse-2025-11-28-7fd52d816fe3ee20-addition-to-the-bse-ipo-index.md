@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544619'
+- SUDEEPPHRM
 tags:
-- index
-- ipo-index
-- index-addition
-- listing
 - equity
+- index-change
+- index-fund
+- ipo-index
+- listing
 title: Addition to the BSE IPO INDEX
 ---
 

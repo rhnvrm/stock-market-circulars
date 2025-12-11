@@ -27,18 +27,16 @@ stocks:
 - LANDMARC
 - SADBHAV
 - TECHNICHEM
-- BNRUDYOG
+- BNRUDY
 - GARWARE
 - INDERGIRI
 - MAYUR
 - MEGA
 - PPAP
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework - Securities List Updates
 ---
 

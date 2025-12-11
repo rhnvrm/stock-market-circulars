@@ -26,11 +26,11 @@ source: nse
 stocks:
 - TATACAPITALHF
 tags:
-- suspension
+- debt-securities
 - non-convertible-securities
-- debt-market
-- redemption
 - privately-placed
+- redemption
+- suspension
 - tata-capital-housing-finance
 title: Suspension of Trading in Non-Convertible Securities - Tata Capital Housing
   Finance Limited

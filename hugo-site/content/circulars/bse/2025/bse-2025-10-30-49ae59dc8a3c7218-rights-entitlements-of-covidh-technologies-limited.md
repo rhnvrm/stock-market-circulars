@@ -27,13 +27,12 @@ source: bse
 stocks:
 - COVIDH
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
-- trading
 - covidh-technologies
+- equity
+- renunciation
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements of COVIDH TECHNOLOGIES LIMITED
 ---
 

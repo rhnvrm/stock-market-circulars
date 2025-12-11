@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- jio-credit
+- debt-securities
 - icici-bank
+- jio-credit
+- private-placement
 title: Listing of new Commercial Paper of Jio Credit Limited
 ---
 

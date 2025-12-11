@@ -25,16 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- derivatives
-- futures-and-options
-- corporate-action
-- demerger
-- scheme-of-arrangement
 - contract-adjustment
+- corporate-action
+- derivatives
 - early-expiry
-- TATAMOTORS
+- futures-options
+- scheme-of-arrangement
+- tatamotors
 title: Adjustment of Futures and Options Contracts - Tata Motors Demerger
 ---
 

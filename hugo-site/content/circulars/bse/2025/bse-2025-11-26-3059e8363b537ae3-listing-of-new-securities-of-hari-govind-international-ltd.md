@@ -27,12 +27,12 @@ source: bse
 stocks:
 - HARIGOVIND
 tags:
+- equity
 - listing
-- new-securities
-- preferential-allotment
-- equity-shares
-- non-promoter
 - lock-in
+- new-securities
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Hari Govind International Ltd.
 ---
 

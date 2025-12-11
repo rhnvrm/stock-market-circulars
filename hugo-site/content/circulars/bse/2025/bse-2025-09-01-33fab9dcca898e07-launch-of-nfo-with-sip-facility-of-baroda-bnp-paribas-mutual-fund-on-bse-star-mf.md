@@ -24,12 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- baroda-bnp-paribas
+- equity
 - mutual-fund
 - nfo
 - sip
-- baroda-bnp-paribas
-- bse-star-mf
-- equity-fund
 title: Launch of NFO with SIP facility of BARODA BNP PARIBAS MUTUAL FUND on BSE StAR
   MF Platform
 ---

@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- mutual-funds
-- distributors
-- transaction-charges
 - commission
-- regulatory-change
+- distributors
+- mutual-fund
+- regulatory
+- transaction-charges
 title: SEBI Removes Transaction Charges for Mutual Fund Distributors
 ---
 

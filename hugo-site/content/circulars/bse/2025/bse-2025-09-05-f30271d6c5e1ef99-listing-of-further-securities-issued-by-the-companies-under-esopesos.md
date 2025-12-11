@@ -40,15 +40,13 @@ stocks:
 - PRIMESEC
 - RATEGATE
 - SBFC
-- TATAMOTORS
+- TMCV
 - TVSSCS
 - ZAGGLE
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 19 Companies
 ---
 

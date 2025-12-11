@@ -26,10 +26,10 @@ source: bse
 stocks:
 - AGVENTURES
 tags:
-- name-change
-- certificate-of-incorporation
-- company-restructuring
+- certificate
 - compliance
+- name-change
+- scheme-of-arrangement
 title: Change in Name of Oriental Carbon & Chemicals Ltd to AG Ventures Limited
 ---
 

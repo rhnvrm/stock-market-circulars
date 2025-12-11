@@ -26,10 +26,9 @@ source: nse
 stocks:
 - CPEDU
 tags:
-- trade-for-trade
 - rolling-segment
 - segment-transfer
-- CPEDU
+- trade-for-trade
 title: Trade for Trade - Career Point Edutech Limited
 ---
 

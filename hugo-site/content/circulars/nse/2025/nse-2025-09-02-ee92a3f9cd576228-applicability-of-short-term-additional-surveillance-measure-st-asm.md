@@ -36,9 +36,9 @@ stocks:
 - MIEL
 - SABAR
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

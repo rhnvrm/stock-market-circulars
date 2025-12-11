@@ -25,10 +25,9 @@ source: bse
 stocks:
 - HIMALAYA
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- himalaya-food
 title: Listing of New Securities of Himalaya Food International Limited
 ---
 

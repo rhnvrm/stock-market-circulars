@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
-- ptc
-- private-placement
-- rafale
+- debt-securities
 - icra-rating
+- private-placement
+- ptc
+- rafale
 title: Listing of New Debt Securities of RAFALE - 2025
 ---
 

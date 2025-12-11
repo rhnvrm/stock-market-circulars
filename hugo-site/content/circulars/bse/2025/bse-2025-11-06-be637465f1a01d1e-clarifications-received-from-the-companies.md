@@ -30,12 +30,11 @@ stocks:
 - CONTIL
 - POWERINDIA
 tags:
-- price-movement
-- volume-movement
-- surveillance
 - clarification
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

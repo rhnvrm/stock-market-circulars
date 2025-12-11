@@ -27,10 +27,10 @@ stocks:
 - SOUTHBANK
 tags:
 - bond-trading
-- suspension
-- redemption
 - call-option
 - debt-securities
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of South Indian Bank Ltd
 ---
 

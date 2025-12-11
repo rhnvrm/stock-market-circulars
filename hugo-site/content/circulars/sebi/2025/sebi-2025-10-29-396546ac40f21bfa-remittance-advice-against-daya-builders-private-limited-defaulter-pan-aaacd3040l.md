@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- remittance-advice
-- recovery
-- defaulter
-- trading
-- illiquid-stock-options
 - bse
+- defaulter
+- demand-notice
 - enforcement
+- illiquid-stock-options
+- recovery
+- trading
 title: Remittance Advice against DAYA BUILDERS PRIVATE LIMITED - Trading in Illiquid
   Stock Options on BSE
 ---

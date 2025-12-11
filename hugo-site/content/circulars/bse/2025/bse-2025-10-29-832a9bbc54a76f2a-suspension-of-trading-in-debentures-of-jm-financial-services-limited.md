@@ -27,12 +27,11 @@ source: bse
 stocks:
 - JMFSL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
 - interest-payment
 - jm-financial-services
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Services Limited
 ---
 

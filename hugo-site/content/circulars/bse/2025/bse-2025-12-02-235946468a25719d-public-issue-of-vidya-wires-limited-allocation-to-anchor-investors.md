@@ -26,11 +26,10 @@ source: bse
 stocks:
 - VIDYAWIRES
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
 - public-issue
-- vidya-wires
 title: Public Issue of Vidya Wires Limited - Allocation to Anchor Investors
 ---
 

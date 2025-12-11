@@ -26,12 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
-- ncd
-- debentures
-- trading-suspension
-- early-redemption
 - corporate-action
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DBL INFRA ASSETS PRIVATE LIMITED
 ---
 

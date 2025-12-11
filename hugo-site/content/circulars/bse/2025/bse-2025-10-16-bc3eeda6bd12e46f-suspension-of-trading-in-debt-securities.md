@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SML
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
-- debentures
 - maturity
-- corporate-actions
+- ncd
+- suspension
 title: Suspension of Trading in Debt Securities
 ---
 

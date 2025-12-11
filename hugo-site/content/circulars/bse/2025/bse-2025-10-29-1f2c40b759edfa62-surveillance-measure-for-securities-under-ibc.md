@@ -28,12 +28,8 @@ source: bse
 stocks:
 - KOBOBIO
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities under IBC
 ---

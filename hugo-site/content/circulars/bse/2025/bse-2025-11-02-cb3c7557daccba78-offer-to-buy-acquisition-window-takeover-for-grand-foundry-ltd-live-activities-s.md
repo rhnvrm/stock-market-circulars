@@ -28,12 +28,9 @@ source: bse
 stocks:
 - GFSTEELS
 tags:
+- otb
 - takeover
-- acquisition-window
-- offer-to-buy
-- OTB
 - trading-schedule
-- GFSTEELS
 title: Offer to Buy – Acquisition Window (Takeover) for GRAND FOUNDRY LTD - Live Activities
   Schedule
 ---

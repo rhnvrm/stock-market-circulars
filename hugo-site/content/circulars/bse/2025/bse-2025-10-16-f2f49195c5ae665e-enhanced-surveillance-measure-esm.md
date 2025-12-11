@@ -32,11 +32,9 @@ stocks:
 - TITANBIO
 - TRITONCR
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-restrictions
+- market-operations
 - surveillance
-- market-regulation
+- trade-restrictions
 title: Enhanced Surveillance Measure (ESM) - Changes Effective October 17, 2025
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - FFSL
 tags:
-- debt-securities
 - commercial-paper
+- debt-securities
+- fedbank-financial
 - listing
 - private-placement
-- fedbank-financial
 title: Listing of New Debt Securities of Fedbank Financial Services Limited
 ---
 

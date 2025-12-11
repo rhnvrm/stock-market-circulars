@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - paisalo-digital
 - private-placement
-- debentures
 title: Listing of new debt securities of Paisalo Digital Limited
 ---
 

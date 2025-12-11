@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- front-running
-- recovery-certificate
-- fidelity-group
-- enforcement
 - compliance
-- remittance-order
+- demand-notice
+- enforcement
+- fidelity-group
+- investigation
+- recovery
 title: 'SEBI Order for Compliance – Remittance Order for Recovery Certificate No.
   8626 of 2025 against Vaibhav Dhadda in the matter of Front Running: Various Funds
   of Fidelity Group'

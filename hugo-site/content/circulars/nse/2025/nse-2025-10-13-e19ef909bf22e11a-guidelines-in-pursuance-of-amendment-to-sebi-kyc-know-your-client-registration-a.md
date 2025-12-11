@@ -27,14 +27,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- kyc
-- kra
-- compliance
-- trading-restrictions
 - client-validation
-- sebi-regulations
-- ucc
+- compliance
 - investor-services
+- kyc
+- regulatory-framework
+- trading-restrictions
+- ucc
 title: KYC Validation Deadline - Trading Restrictions for Non-Validated Clients from
   October 25, 2025
 ---

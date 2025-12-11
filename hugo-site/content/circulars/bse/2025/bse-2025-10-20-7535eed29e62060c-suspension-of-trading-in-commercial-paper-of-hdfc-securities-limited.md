@@ -29,9 +29,9 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- trading-suspension
-- maturity
 - hdfc-securities
+- maturity
+- suspension
 title: Suspension of Trading in Commercial Paper of HDFC Securities Limited
 ---
 

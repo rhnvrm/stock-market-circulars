@@ -26,11 +26,11 @@ stocks:
 - SBILIQETF
 tags:
 - etf
-- listing
-- sbi-mutual-fund
-- nifty-1d-rate
-- liquid-etf
 - f-group
+- liquid-etf
+- listing
+- nifty-1d-rate
+- sbi-mutual-fund
 title: Listing of Units of SBI NIFTY 1D RATE LIQUID ETF- GROWTH
 ---
 

@@ -27,10 +27,10 @@ stocks:
 - IHFC
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- new-listing
+- debt-securities
 - icici-home-finance
+- listing
+- private-placement
 title: Listing of new Commercial Paper of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

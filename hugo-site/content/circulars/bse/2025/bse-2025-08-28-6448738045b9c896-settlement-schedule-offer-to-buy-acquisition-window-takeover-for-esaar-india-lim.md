@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ESAAR
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat
-- otb-platform
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for ESAAR (INDIA) LIMITED Takeover Offer - September 2025
 ---
 

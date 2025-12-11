@@ -31,15 +31,13 @@ stocks:
 - RESPONSEINF
 - KKALPANAPLA
 - MUDUNURU
-- PVPVENTURES
+- PVP-BE
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
 - sme
+- surveillance
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   29, 2025
 ---

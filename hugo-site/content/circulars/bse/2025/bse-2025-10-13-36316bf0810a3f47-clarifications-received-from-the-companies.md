@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544484'
-- '511710'
+- BLUESTONE
+- CUBIFIN
 tags:
-- price-movement
 - clarification
-- surveillance
-- regulation-30
 - disclosure
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

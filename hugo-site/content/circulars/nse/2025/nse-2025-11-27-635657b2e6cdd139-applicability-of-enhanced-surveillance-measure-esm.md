@@ -31,14 +31,12 @@ stocks:
 - DHARIWAL
 - TECHD
 tags:
-- enhanced-surveillance
-- esm
-- trade-for-trade
-- margin-requirement
-- surveillance-measure
-- market-surveillance
+- asm-stage
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and Updates
 ---
 

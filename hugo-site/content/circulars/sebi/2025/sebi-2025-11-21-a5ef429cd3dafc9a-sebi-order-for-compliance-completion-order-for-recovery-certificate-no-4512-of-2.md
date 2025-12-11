@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-proceedings
-- enforcement
 - completion-order
-- sms-techsoft
-- recovery-certificate
+- enforcement
+- recovery
 title: SEBI Completion Order - Recovery Certificate No. 4512/2022 Against Minaben
   Prafulbhai Shah in SMS Techsoft Matter
 ---

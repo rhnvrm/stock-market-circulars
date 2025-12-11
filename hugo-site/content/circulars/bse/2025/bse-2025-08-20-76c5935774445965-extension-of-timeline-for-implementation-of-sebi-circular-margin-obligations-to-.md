@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- margin-obligations
-- pledge
-- re-pledge
-- depository-system
-- timeline-extension
-- sebi-circular
+- depository
+- encumbrance
+- extension
 - implementation
+- margin-obligations
+- sebi
 title: Extension of timeline for implementation of SEBI Circular on margin obligations
   via pledge/re-pledge in depository system
 ---

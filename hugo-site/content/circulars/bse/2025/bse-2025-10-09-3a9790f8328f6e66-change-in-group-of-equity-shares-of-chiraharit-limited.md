@@ -28,10 +28,10 @@ stocks:
 - CHIRAHARIT
 tags:
 - group-change
+- rolling-segment
+- segment-transfer
 - sme
 - trade-for-trade
-- rolling-settlement
-- segment-transfer
 title: Change in Group of Equity Shares of CHIRAHARIT LIMITED
 ---
 

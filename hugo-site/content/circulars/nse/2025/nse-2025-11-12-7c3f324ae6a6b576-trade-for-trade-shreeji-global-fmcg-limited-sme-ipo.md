@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SHETHJI
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
 - shreeji-global-fmcg
+- sme
+- trade-for-trade
 title: Trade for Trade - Shreeji Global FMCG Limited (SME IPO)
 ---
 

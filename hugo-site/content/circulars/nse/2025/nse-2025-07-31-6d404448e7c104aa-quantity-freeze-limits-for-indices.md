@@ -25,14 +25,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- derivatives
-- futures-options
-- quantity-freeze
-- indices
-- trading-limits
 - banknifty
-- nifty
+- derivatives
 - finnifty
+- futures-options
+- indices
+- nifty
+- quantity-freeze
+- trading-operations
 title: Quantity Freeze Limits for Indices
 ---
 

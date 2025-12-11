@@ -28,13 +28,12 @@ source: bse
 stocks:
 - YOGI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-funding
 - lock-in
-- YOGI
+- preferential-issue
+- promoter-funding
 title: Listing of 2.2 Million Equity Shares of YOGI LIMITED via Warrant Conversion
 ---
 

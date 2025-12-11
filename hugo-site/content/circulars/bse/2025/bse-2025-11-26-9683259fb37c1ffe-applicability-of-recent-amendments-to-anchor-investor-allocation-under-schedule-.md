@@ -27,15 +27,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi
-- icdr
+- allotment
 - anchor-investor
-- ipo
-- mutual-funds
+- icdr
 - insurance
+- ipo
+- mutual-fund
 - pension-funds
-- allocation
 - regulatory-amendment
+- sebi
 title: Applicability of Recent Amendments to Anchor Investor Allocation under Schedule
   XIII of SEBI ICDR Regulations
 ---

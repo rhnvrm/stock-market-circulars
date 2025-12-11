@@ -26,10 +26,10 @@ stocks:
 - PFL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- poonawalla-fincorp
+- debt-securities
 - new-securities
+- poonawalla-fincorp
+- private-placement
 title: Listing of new Commercial Paper of POONAWALLA FINCORP LIMITED
 ---
 

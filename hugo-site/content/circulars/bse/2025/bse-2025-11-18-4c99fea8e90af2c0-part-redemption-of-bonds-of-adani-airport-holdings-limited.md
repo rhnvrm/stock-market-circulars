@@ -28,13 +28,13 @@ source: bse
 stocks:
 - AAHL
 tags:
-- bonds
-- debt
-- redemption
 - adani-airport-holdings
-- corporate-actions
-- interest-payment
+- bond
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- redemption
 title: Part Redemption of Bonds of ADANI AIRPORT HOLDINGS LIMITED
 ---
 

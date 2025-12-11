@@ -26,11 +26,11 @@ source: bse
 stocks:
 - STLCBL
 tags:
+- disclosure
+- equity
+- listing
 - shareholding-pattern
 - stl-networks
-- equity-shares
-- listing
-- disclosure
 title: STL Networks Limited - Shareholding Pattern Disclosure
 ---
 

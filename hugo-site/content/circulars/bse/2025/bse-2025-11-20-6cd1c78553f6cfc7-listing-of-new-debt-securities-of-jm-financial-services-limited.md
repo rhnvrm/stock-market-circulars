@@ -27,11 +27,11 @@ source: bse
 stocks:
 - JMFINSERV
 tags:
+- bond
 - debt-securities
-- listing
 - jm-financial-services
+- listing
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of JM Financial Services Limited
 ---
 

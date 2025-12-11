@@ -42,12 +42,12 @@ stocks:
 - ASTERDM
 - NARAYANA
 tags:
+- bse-index
 - indices
-- reconstitution
-- bse-500
 - midcap
-- smallcap
 - portfolio-rebalancing
+- reconstitution
+- smallcap
 title: Reconstitution of BSE Indices - Multiple Index Changes Effective September
   22, 2025
 ---

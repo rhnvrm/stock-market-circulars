@@ -27,12 +27,12 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- risk-management
-- index-options
 - index-futures
+- index-options
 - limit-price-protection
-- pre-trade-controls
 - market-protection
+- pre-trade-controls
+- risk-management
 title: Pre-Trade Risk Control – Limit Price Protection in Equity Derivatives Segment
 ---
 

@@ -26,12 +26,12 @@ source: nse
 stocks:
 - PAVNAIND
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- settlement
 - depository
+- early-pay-in
+- face-value-change
 - margin-exemption
+- settlement
 title: Early Pay-in of Securities for Pavana Industries Limited (PAVNAIND) - Face
   Value Split
 ---

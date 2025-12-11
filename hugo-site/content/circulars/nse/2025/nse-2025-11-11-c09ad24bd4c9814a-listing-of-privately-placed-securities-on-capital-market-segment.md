@@ -28,12 +28,12 @@ stocks:
 - AEGISVOP
 - ESAFSFB
 tags:
-- listing
-- debt-securities
-- private-placement
+- bond
 - capital-market
-- bonds
-- debentures
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities on Capital Market Segment - November
   12, 2025
 ---

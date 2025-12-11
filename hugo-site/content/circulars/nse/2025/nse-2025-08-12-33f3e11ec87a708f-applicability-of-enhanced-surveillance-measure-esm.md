@@ -31,12 +31,11 @@ stocks:
 - AGSTRA
 - ASLIND
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measures
-- periodic-call-auction
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and New Inclusions
 ---
 

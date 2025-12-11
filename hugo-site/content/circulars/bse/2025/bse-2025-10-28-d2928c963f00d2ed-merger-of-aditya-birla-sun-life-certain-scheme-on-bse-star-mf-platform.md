@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-merger
 - aditya-birla-sun-life
-- debt-fund
-- interval-fund
-- star-mf-platform
-- IDCW
+- debt-securities
 - growth-plan
+- idcw
+- interval-fund
+- mutual-fund
+- scheme-merger
+- trading-platform
 title: Merger of Aditya Birla Sun Life Interval Income Scheme with CRISIL-IBX Financial
   Services Debt Index Fund on BSE StAR MF Platform
 ---

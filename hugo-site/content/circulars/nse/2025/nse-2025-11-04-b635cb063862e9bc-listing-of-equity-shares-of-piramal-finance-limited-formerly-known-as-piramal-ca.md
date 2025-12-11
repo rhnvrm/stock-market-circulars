@@ -28,12 +28,9 @@ source: nse
 stocks:
 - PIRAMALFIN
 tags:
+- equity
 - listing
 - scheme-of-arrangement
-- amalgamation
-- equity-shares
-- corporate-restructuring
-- PIRAMALFIN
 title: Listing of Equity Shares of Piramal Finance Limited pursuant to Scheme of Arrangement
 ---
 

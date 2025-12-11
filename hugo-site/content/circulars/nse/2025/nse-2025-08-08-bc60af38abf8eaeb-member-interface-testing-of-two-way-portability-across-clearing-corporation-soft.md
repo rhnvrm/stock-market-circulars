@@ -26,10 +26,10 @@ source: nse
 stocks: []
 tags:
 - clearing-corporation
-- saas
-- portability
 - member-interface
-- testing
+- mock-trading
+- portability
+- saas
 title: Member Interface Testing of Two-way Portability across Clearing Corporation
   - Software as a Service (SaaS) Model
 ---

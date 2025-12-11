@@ -28,11 +28,11 @@ source: bse
 stocks:
 - NACL
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of NACL Industries Limited
 ---
 

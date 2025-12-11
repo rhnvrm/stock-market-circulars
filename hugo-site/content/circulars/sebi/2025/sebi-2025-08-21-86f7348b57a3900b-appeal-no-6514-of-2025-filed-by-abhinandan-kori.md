@@ -26,13 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
-- recruitment
-- assistant-manager
-- grade-a
 - appeal
+- assistant-manager
 - dismissed
-- appellate-authority
+- grade-a
+- recruitment
+- rti
 title: Appeal No. 6514 of 2025 filed by Abhinandan Kori - RTI Request for SEBI Recruitment
   Information Dismissed
 ---

@@ -31,7 +31,7 @@ stocks:
 - TATACONSUMERS
 - CGPOWER
 - ADITYABIRLAMF
-- BOROSIL
+- BOROLTD
 - ERISLIFE
 - ICICILOMBARD
 - ICICIPRULI
@@ -42,17 +42,10 @@ stocks:
 - PGEL
 - UJJIVANSFB
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
-- icici-bank
-- wipro
-- federal-bank
-- tata-consumer
-- cg-power
 title: Listing of Further Securities Issued Under ESOP/ESOS - 16 Companies
 ---
 

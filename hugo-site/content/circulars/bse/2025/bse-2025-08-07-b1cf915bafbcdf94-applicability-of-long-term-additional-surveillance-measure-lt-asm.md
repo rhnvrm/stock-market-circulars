@@ -30,10 +30,9 @@ stocks:
 - ORTINGLO
 - PACETRON
 tags:
+- asm-stage
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

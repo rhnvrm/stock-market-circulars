@@ -26,10 +26,10 @@ source: bse
 stocks:
 - AAPLUSTRADE
 - AECL
-- APTECH
+- APTECHT
 - AUTORIDERS
-- AVIPOLYMERS
-- AXELPOLYMERS
+- AVI
+- AXELPOLY
 - BILVYAPAR
 - BIZOTIC
 - BRIGHTREAL
@@ -59,7 +59,7 @@ stocks:
 - IMEC
 - INTEGRATED
 - IPC
-- JAIMATAGLASS
+- JAIMATAG
 - JEENASIKHO
 - JUNGLECAMPS
 - KAARYA
@@ -70,12 +70,12 @@ stocks:
 - KUWER
 - LOTUS
 - LYONS
-- MISHDESIGNS
+- MISHDESIGN
 - MIVEN
-- MRCAGROTECH
+- MRCAGRO
 - MSR
 - MYMONEY
-- NAHARPOLYFILMS
+- NAHARPOLY
 - NMS
 - NUTRICIRCLE
 - OMNIPOTENT
@@ -90,13 +90,13 @@ stocks:
 - PIOTEX
 - PREMIER
 - PRITISH
-- PRIYA
+- PRIYALT
 - PROSPECT
 - RAMA
 - RELIABLE
 - RELIC
 - RITESH
-- ROSEMERC
+- ROSEMER
 - SABEVENTS
 - SANGHVI
 - SEALMATIC
@@ -119,15 +119,15 @@ stocks:
 - TWAMEV
 - UNIABEX
 - VEEFIN
-- VTM
+- VTMLTD
 - WAAREE
 - YASHINNO
 - YOGI
 tags:
+- asm-stage
+- equity
 - price-band
 - trading
-- equity-segment
-- surveillance-measure
 title: Changes in Price Band for 99 Securities Effective September 1, 2025
 ---
 

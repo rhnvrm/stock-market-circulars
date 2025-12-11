@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
 - groww
+- index-fund
+- mutual-fund
 - nifty-next-50
-- bse-star-mf
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: GROWW NIFTY NEXT 50 INDEX FUND Reopening for Ongoing Transactions on BSE StAR
   MF Platform

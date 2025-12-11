@@ -28,13 +28,11 @@ source: bse
 stocks:
 - FORTISHC
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- fortis-healthcare
 - early-pay-in
-- offer-to-buy
+- fortis-healthcare
 - otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for FORTIS
   HEALTHCARE LIMITED
 ---

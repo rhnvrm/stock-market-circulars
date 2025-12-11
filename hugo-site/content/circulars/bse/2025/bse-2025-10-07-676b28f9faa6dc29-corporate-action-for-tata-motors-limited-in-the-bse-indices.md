@@ -25,16 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
-- TML Commercial Vehicles Limited
+- TMCV
+- TML COMMERCIAL VEHICLES LIMITED
 tags:
-- demerger
+- call-money
 - corporate-action
-- index-addition
-- special-pre-open-session
+- index-change
 - scheme-of-arrangement
-- TATAMOTORS
-- TML-Commercial-Vehicles
+- tatamotors
 title: Corporate Action for Tata Motors Limited - Demerger and Addition of TML Commercial
   Vehicles Limited to BSE Indices
 ---

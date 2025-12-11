@@ -27,11 +27,10 @@ source: bse
 stocks:
 - PURITYFLEX
 tags:
-- bonus-issue
-- equity-shares
-- corporate-action
 - allotment
-- purity-flexpack
+- bonus
+- corporate-action
+- equity
 title: Bonus Issue of Purity Flex Pack Ltd - 21.47 Lakh Equity Shares
 ---
 

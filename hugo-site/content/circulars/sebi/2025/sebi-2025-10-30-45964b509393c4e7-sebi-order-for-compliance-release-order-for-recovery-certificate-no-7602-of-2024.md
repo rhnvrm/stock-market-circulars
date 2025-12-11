@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - CAPRIGLOBAL
 tags:
-- recovery-order
-- release-order
-- enforcement
 - compliance
+- enforcement
+- recovery
+- release
 - trading-investigation
-- capri-global-capital
 title: Release Order for Recovery Certificate No. 7602 of 2024 against Mr Vipul Bharatbhai
   Pithadia
 ---

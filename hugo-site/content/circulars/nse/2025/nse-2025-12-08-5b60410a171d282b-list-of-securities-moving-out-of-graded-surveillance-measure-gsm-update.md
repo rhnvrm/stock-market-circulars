@@ -34,12 +34,10 @@ stocks:
 - ARENTERP
 - CLOUD
 tags:
-- gsm
-- graded-surveillance-measure
-- surveillance
 - price-band
-- trading-restrictions
 - removal
+- surveillance
+- trading-restrictions
 title: List of Securities Moving Out of Graded Surveillance Measure (GSM) - Update
 ---
 

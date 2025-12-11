@@ -36,18 +36,14 @@ stocks:
 - GODREJCP
 - MUTHOOTFIN
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- godrej-consumer-products
+- icici-securities
+- kotak-securities
 - listing
 - private-placement
 - tata-capital-housing-finance
-- kotak-securities
-- blue-star
-- icici-securities
-- godrej-properties
-- godrej-industries
-- godrej-consumer-products
-- muthoot-finance
 title: Listing of Privately Placed Securities on Debt Market Segment - November 6,
   2025
 ---

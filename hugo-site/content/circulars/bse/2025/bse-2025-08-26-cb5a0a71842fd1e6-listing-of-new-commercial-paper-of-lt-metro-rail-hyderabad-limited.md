@@ -26,7 +26,7 @@ stocks:
 - LTMRHL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - l&t-metro
 - private-placement
 - state-bank-india

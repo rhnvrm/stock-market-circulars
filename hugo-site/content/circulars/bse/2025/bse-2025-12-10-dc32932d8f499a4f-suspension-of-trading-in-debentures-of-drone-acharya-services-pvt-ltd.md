@@ -26,13 +26,12 @@ source: bse
 stocks:
 - DRONEACHARYA
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Drone Acharya Services Pvt Ltd
 ---
 

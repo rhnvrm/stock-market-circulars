@@ -25,10 +25,9 @@ source: nse
 stocks:
 - SATTVAENGG
 tags:
-- sme-ipo
-- equity-listing
 - emerge-platform
-- SATTVAENGG
+- equity
+- sme
 title: Listing of Equity Shares of Sattva Engineering Construction Limited (SME IPO)
 ---
 

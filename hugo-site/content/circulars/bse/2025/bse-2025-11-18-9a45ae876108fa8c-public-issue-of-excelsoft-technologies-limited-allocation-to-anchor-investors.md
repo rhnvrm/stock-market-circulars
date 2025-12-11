@@ -26,12 +26,11 @@ source: bse
 stocks:
 - EXCELSOFT
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
-- excelsoft-technologies
 - public-issue
-- equity-shares
 title: Public Issue of EXCELSOFT TECHNOLOGIES LIMITED - Allocation to Anchor Investors
 ---
 

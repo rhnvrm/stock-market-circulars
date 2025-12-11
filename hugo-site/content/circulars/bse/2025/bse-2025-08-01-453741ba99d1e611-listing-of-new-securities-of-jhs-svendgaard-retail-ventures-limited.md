@@ -26,12 +26,12 @@ source: bse
 stocks:
 - JHSSVEN
 tags:
-- new-securities
-- equity-shares
-- preferential-allotment
-- promoter-shares
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- new-securities
+- preferential-issue
+- promoter
 title: Listing of New Securities of JHS SVENDGAARD RETAIL VENTURES LIMITED
 ---
 

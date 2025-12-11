@@ -41,7 +41,7 @@ stocks:
 - PROCLB
 - QUADRANT
 - RAMGOPAL
-- RAPCORP
+- RAP
 - SABRIMALA
 - SADBHAV
 - SANCODE
@@ -52,10 +52,10 @@ stocks:
 - TRILIANCE
 - VALLABH
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: BSE Revises Price Bands for 27 Securities Effective August 21, 2025
 ---
 

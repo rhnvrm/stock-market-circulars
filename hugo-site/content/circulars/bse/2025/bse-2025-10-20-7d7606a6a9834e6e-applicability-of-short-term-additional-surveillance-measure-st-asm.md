@@ -31,7 +31,7 @@ stocks:
 - CROISSANCE
 - EARKART
 - HYBRIDFIN
-- JAYUSHIN
+- JAYUSH
 - KEYFINSERV
 - TARAPUR
 - ABMKNOWL
@@ -51,11 +51,11 @@ stocks:
 - GETALONG
 - GLOBALVECT
 tags:
-- st-asm
-- surveillance
-- market-regulation
-- trading-restrictions
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

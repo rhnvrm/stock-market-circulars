@@ -27,10 +27,10 @@ source: bse
 stocks:
 - JMFSL
 tags:
-- debt-listing
-- private-placement
-- debentures
+- debt-securities
 - jm-financial
+- ncd
+- private-placement
 title: Listing of New Debt Securities of JM Financial Services Limited
 ---
 

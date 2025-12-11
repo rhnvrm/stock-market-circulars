@@ -27,9 +27,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - pilani-investment
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper of Pilani Investment And Industries Corporation
   Limited

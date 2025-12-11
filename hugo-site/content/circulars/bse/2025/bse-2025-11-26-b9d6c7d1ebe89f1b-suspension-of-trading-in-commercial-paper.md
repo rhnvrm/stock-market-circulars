@@ -36,10 +36,10 @@ stocks:
 - FFSL
 tags:
 - commercial-paper
-- debt
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Paper
 ---

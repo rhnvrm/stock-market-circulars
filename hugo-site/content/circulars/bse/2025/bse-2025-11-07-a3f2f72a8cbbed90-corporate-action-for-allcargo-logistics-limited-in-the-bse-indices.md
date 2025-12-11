@@ -28,12 +28,9 @@ source: bse
 stocks:
 - ALLCARGO
 tags:
-- demerger
+- call-money
 - corporate-action
-- index-addition
-- special-pre-open-session
-- allcargo-logistics
-- allcargo-global
+- index-change
 - scheme-of-arrangement
 title: Corporate Action for Allcargo Logistics Limited in the BSE Indices
 ---

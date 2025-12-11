@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - PRESSURESYS
 tags:
-- recovery-certificate
+- anshu-mishra
 - compliance
 - enforcement
-- anshu-mishra
 - pressure-sensitive-system
-- recovery-order
+- recovery
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8740
   of 2025 against Anshu Mishra in the matter of Pressure Sensitive System (India)
   Limited

@@ -24,16 +24,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- gold-fund
-- fund-of-fund
 - baroda-bnp-paribas
+- etf
+- fund-of-funds
+- gold-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
 title: Availability of Baroda BNP Paribas Gold ETF Fund of Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

@@ -28,7 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- navi-finserv
 title: Listing of new debt securities of Navi Finserv Limited
 ---
 

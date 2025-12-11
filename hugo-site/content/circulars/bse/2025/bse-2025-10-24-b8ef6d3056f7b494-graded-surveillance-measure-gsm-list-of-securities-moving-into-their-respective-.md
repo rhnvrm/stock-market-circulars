@@ -33,11 +33,9 @@ stocks:
 - DARJROPE
 - AVASARA
 tags:
-- gsm
+- regulatory-framework
 - surveillance
 - trading-restrictions
-- market-surveillance
-- regulatory-framework
 title: GSM Framework - 7 Securities Moving to Different Surveillance Stages
 ---
 

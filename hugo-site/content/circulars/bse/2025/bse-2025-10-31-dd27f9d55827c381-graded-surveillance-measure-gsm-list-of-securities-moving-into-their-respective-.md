@@ -31,10 +31,8 @@ stocks:
 - SPACEINCUB
 - YAARIDIGIT
 tags:
-- gsm
 - surveillance
 - trading-restrictions
-- graded-surveillance-measure
 title: Graded Surveillance Measure (GSM) - Securities Moving to Stages I, III, and
   IV
 ---

@@ -25,10 +25,8 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- surveillance
 - margin
-- asm
-- additional-surveillance-measure
+- surveillance
 - trade-for-trade
 title: Applicability of Additional Surveillance Measure (ASM)
 ---

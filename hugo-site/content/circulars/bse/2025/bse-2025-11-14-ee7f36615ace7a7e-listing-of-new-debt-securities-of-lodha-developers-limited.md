@@ -30,7 +30,6 @@ tags:
 - listing
 - lodha-developers
 - private-placement
-- t-bills
 - treasury-bills
 title: Listing of New Debt Securities of Lodha Developers Limited
 ---

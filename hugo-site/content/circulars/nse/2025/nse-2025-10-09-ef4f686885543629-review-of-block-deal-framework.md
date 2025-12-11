@@ -27,14 +27,14 @@ source: nse
 stocks: []
 tags:
 - block-deals
-- trading-framework
-- sebi-circular
 - market-operations
-- trading-windows
-- price-bands
 - order-size
-- t+0-settlement
-- t+1-settlement
+- price-band
+- sebi
+- t0-settlement
+- t1-settlement
+- trading-operations
+- trading-windows
 title: Review of Block Deal Framework - Modified Trading Windows and Price Ranges
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KATALYST
 tags:
-- enforcement
-- sebi-order
+- corporate-governance
 - debenture-default
+- enforcement
 - pledge-invocation
 - scheme-of-arrangement
-- corporate-governance
+- sebi-order
 title: SEBI Order Against Katalyst Software Services Limited and Related Parties
 ---
 

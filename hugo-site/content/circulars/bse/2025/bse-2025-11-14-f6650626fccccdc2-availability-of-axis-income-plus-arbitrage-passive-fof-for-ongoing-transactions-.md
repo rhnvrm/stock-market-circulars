@@ -27,17 +27,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- axis-mf
 - arbitrage-fund
+- axis-mf
+- debt-securities
 - fund-of-funds
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- debt-fund
 title: Availability of AXIS INCOME PLUS ARBITRAGE PASSIVE FOF for Ongoing Transactions
   on BSE StAR MF Platform
 ---

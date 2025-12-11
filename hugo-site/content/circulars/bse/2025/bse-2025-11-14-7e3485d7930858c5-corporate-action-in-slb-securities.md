@@ -51,13 +51,13 @@ stocks:
 - BANCOINDIA
 - SURYAROSNI
 tags:
+- book-closure
+- collateral
 - corporate-action
 - dividend
+- record-date
 - rights-issue
 - slb
-- securities-lending-borrowing
-- shut-period
-- record-date
 title: Corporate Action in SLB Securities - Dividend and Rights Issue Notifications
 ---
 

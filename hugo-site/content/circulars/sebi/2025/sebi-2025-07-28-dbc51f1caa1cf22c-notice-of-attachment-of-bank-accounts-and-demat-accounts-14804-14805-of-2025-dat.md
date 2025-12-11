@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- defaulter
-- illiquid-stock-options
 - bse
+- defaulter
+- enforcement
+- illiquid-stock-options
 - recovery
 - violations
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Mukesh Agarwal

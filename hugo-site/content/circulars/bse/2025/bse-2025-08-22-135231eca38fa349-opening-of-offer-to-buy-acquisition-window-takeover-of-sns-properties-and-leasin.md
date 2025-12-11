@@ -27,11 +27,9 @@ source: bse
 stocks:
 - SNS
 tags:
-- takeover
-- open-offer
-- acquisition
+- sast
 - sns-properties
-- sebi-sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of SNS Properties and
   Leasing Limited
 ---

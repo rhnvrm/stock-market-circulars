@@ -24,12 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
 - appeal
-- rejected
 - pacl
+- rejected
+- rti
 - survey-numbers
-- appellate-authority
 title: Appeal No. 6486 of 2025 filed by Sundaresan R - RTI Application Rejected for
   Vague Queries
 ---

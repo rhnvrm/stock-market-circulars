@@ -26,7 +26,7 @@ stocks:
 - UGRO
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - ugro-capital
 - yes-bank

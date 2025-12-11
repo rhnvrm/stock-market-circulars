@@ -26,11 +26,10 @@ source: bse
 stocks:
 - INDINF
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - renunciation
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements Trading for Indian Infotech and Software Limited
 ---
 

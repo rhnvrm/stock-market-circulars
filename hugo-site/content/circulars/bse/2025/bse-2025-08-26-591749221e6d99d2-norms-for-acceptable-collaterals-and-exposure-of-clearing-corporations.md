@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- banks
 - clearing-corporation
 - collateral
-- banks
 - risk-management
+- sebi
 - settlement
-- sebi-circular
 title: Revised List of Eligible Banks for Clearing Corporation Collaterals
 ---
 

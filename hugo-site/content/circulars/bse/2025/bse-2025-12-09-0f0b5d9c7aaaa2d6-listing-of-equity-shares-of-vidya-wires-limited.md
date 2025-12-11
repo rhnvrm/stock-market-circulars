@@ -28,11 +28,10 @@ source: bse
 stocks:
 - VIDYAWIRES
 tags:
-- listing
-- equity-shares
-- lock-in
+- equity
 - ipo
-- vidya-wires
+- listing
+- lock-in
 title: Listing of Equity Shares of VIDYA WIRES LIMITED
 ---
 

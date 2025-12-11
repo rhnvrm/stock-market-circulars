@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SIBL
 tags:
-- trading-suspension
-- bonds
-- redemption
+- bond
 - call-option
-- corporate-actions
+- corporate-action
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of South Indian Bank Ltd
 ---
 

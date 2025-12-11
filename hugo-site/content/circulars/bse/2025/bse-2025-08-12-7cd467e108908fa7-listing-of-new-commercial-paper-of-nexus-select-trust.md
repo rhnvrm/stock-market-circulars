@@ -28,9 +28,9 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
-- nexus-select-trust
 - listing
+- nexus-select-trust
+- private-placement
 title: Listing of new Commercial Paper of Nexus Select Trust
 ---
 

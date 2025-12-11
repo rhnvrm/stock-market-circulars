@@ -27,16 +27,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - angel-one
 - index-fund
+- mutual-fund
 - nifty-total-market
-- bse-star-mf
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
 title: Availability of ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND
   for ongoing transactions on BSE StAR MF Platform
 ---

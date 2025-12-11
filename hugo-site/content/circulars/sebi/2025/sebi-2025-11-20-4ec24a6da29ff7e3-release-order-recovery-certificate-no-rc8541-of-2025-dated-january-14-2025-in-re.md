@@ -28,10 +28,10 @@ source: sebi
 stocks:
 - EROSMEDIA
 tags:
-- recovery-certificate
-- release-order
 - enforcement
 - eros-international
+- recovery
+- release
 - sumit-bhoot
 title: 'Release Order - Recovery Certificate No. RC8541 of 2025 in respect of Sumit
   Bhoot (PAN: BLPPB9770D) - Eros International Media Limited'

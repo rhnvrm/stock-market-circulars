@@ -27,13 +27,12 @@ source: bse
 stocks:
 - CHANDI
 tags:
+- chandi-steel
 - delisting
-- settlement
-- acquisition-window
-- offer-to-buy
-- early-pay-in
 - demat-shares
-- CHANDI-STEEL
+- early-pay-in
+- otb
+- settlement
 title: Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for CHANDI
   STEEL INDUSTRIES LIMITED
 ---

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - KEERTANA
 tags:
-- debentures
-- redemption
-- debt-market
 - corporate-action
+- debt-securities
 - face-value-reduction
-- keertana-finserv
+- ncd
+- redemption
 title: Part Redemption of Debentures of KEERTANA FINSERV LIMITED
 ---
 

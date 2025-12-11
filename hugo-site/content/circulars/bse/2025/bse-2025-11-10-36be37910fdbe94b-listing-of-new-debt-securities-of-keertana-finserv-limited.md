@@ -28,11 +28,10 @@ stocks:
 - KRFL
 tags:
 - debt-securities
-- listing
 - keertana-finserv
+- listing
 - ncd
 - private-placement
-- debentures
 title: Listing of new debt securities of Keertana Finserv Limited
 ---
 

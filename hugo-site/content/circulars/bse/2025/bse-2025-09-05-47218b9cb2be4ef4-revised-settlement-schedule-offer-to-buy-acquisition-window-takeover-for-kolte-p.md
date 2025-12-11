@@ -27,12 +27,11 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
+- otb
+- revised-schedule
+- rms
 - settlement
 - takeover
-- acquisition-window
-- offer-to-buy
-- RMS
-- revised-schedule
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   KOLTE-PATIL DEVELOPERS LTD
 ---

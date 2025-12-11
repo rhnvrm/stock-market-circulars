@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 360OPL
 tags:
+- 360-one-prime
+- bond
 - debt-securities
 - listing
 - private-placement
-- 360-one-prime
-- corporate-bonds
 title: Listing of New Debt Securities of 360 ONE Prime Limited
 ---
 

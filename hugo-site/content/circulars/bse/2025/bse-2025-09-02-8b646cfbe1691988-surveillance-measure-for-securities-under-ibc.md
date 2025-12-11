@@ -26,10 +26,8 @@ source: bse
 stocks:
 - AGS
 tags:
-- surveillance
-- ibc
 - insolvency
-- AGS
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities under IBC
 ---

@@ -25,13 +25,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- accredited-investors
 - alternative-investment-funds
-- co-investment
 - category-i-aif
 - category-ii-aif
 - civ-scheme
+- co-investment
 - shelf-placement-memorandum
-- accredited-investors
 title: Framework for AIFs to make co-investment within the AIF structure under SEBI
   (Alternative Investment Funds) Regulations, 2012
 ---

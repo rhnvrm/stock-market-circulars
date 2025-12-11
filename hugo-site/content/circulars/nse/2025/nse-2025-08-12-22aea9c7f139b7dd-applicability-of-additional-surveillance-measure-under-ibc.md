@@ -31,12 +31,9 @@ stocks:
 - FSC
 - GENSOL
 tags:
-- surveillance
 - insolvency
-- bankruptcy-code
-- asm
-- ibc
 - monitoring
+- surveillance
 title: Additional Surveillance Measure under IBC - Security Updates
 ---
 

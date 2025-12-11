@@ -27,11 +27,9 @@ stocks:
 - TESTOFS2
 - TESTOFS3
 tags:
-- mock-trading
-- eofs-platform
-- testing
-- trading-platform
 - live-environment
+- mock-trading
+- trading-platform
 title: Mock bidding sessions on eOFS platform in Live environment
 ---
 

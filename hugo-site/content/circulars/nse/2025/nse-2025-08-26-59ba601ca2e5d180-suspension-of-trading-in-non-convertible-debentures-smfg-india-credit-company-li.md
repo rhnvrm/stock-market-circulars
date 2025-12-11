@@ -22,13 +22,12 @@ published_date: '2025-08-26T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML69851.pdf
 severity: low
 source: nse
-stocks:
-- 830SMF25
+stocks: []
 tags:
-- suspension
-- debentures
 - maturity
+- ncd
 - smfg-india-credit
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - SMFG India Credit Company
   Limited
 ---

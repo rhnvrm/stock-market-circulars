@@ -35,11 +35,11 @@ stocks:
 - SUDARSHAN
 - YESBANK
 tags:
-- listing
-- equity-shares
+- equity
 - esop
+- further-issue
+- listing
 - preferential-issue
-- further-issues
 title: Listing of Further Issues of Securities - Eight Companies
 ---
 

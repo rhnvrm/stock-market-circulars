@@ -27,9 +27,8 @@ stocks:
 - AVIPRODUCTS
 - MEHAI
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

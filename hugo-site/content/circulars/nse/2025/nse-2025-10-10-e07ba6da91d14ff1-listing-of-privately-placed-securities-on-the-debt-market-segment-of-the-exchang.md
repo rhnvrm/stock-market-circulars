@@ -31,11 +31,10 @@ stocks:
 - LTFH
 - WELCORP
 tags:
-- listing
-- debt-securities
 - commercial-paper
+- debt-securities
+- listing
 - private-placement
-- debt-market
 title: Listing of Privately Placed Debt Securities - October 10, 2025
 ---
 

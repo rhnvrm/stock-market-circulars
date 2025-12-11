@@ -26,13 +26,13 @@ source: bse
 stocks:
 - TFC
 tags:
-- trading-suspension
-- bonds
+- bond
+- corporate-action
 - debt-securities
-- redemption
 - interest-payment
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Tourism Finance Corporation of India Ltd
 ---
 

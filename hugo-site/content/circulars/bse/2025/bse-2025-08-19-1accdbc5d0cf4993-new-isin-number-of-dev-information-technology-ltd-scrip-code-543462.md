@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DEVIT
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
 - dev-information-technology
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for DEV INFORMATION TECHNOLOGY LTD After Share Sub-Division
 ---
 

@@ -28,10 +28,10 @@ stocks:
 - OLAELEC
 tags:
 - clarification
-- legal-proceedings
-- fir
-- employee-matter
 - corporate-governance
+- employee-matter
+- fir
+- legal-proceedings
 - regulatory-disclosure
 title: Ola Electric Clarification on Employee Suicide FIR - No Material Impact
 ---

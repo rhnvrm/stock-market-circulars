@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- defaulter
 - bse
-- iso
+- defaulter
 - enforcement
+- iso
+- recovery
 title: Completion of Recovery Certificate No. 8360 of 2024 against AMREEN SUKHYANI
   (Defaulter)
 ---

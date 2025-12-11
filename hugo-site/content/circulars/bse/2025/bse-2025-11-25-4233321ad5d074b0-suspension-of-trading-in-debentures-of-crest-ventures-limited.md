@@ -27,13 +27,12 @@ source: bse
 stocks:
 - CRESTVEN
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
-- interest-payment
-- debt-segment
 - corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of CREST VENTURES LIMITED
 ---
 

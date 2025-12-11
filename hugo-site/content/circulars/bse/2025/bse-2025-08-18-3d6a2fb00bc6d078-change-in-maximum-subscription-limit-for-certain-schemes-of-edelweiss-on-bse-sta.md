@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
-- overseas-investment
 - edelweiss
-- sebi-compliance
+- mutual-fund
+- overseas-investment
+- sebi
+- subscription-limit
 title: Change in Maximum Subscription Limit for Edelweiss Mutual Fund Schemes
 ---
 

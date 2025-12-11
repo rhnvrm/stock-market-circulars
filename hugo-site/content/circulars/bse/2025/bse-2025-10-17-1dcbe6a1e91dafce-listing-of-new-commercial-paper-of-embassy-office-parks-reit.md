@@ -27,10 +27,10 @@ stocks:
 - EMBASSY
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - embassy-office-parks-reit
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of Embassy Office Parks REIT
 ---
 

@@ -24,16 +24,13 @@ published_date: '2025-09-02T12:52:24+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={B48276D8-8B52-488F-A8D1-A3E78F0A5387}&noticeno=20250902-38&dt=09/02/2025&icount=38&totcount=59&flag=0
 severity: high
 source: bse
-stocks:
-- '515145'
+stocks: []
 tags:
-- suspension
 - delisting
+- hindusthan-national-glass
 - insolvency
 - nclt
-- ibc
-- '515145'
-- hindusthan-national-glass
+- suspension
 title: Suspension of Trading in Hindusthan National Glass & Industries Limited Following
   NCLT Resolution Plan Approval
 ---

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MRHFL
 tags:
+- crisil-aaa
 - debt-securities
 - listing
 - mahindra-rural-housing
 - private-placement
-- crisil-aaa
 title: Listing of New Debt Securities of Mahindra Rural Housing Finance Limited
 ---
 

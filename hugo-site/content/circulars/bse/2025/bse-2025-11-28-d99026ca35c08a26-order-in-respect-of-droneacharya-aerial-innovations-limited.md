@@ -29,15 +29,14 @@ stocks:
 - DRONEACHARYA
 tags:
 - enforcement
+- financial-misrepresentation
 - fraud
 - ipo-misutilization
-- financial-misrepresentation
+- penalty
+- regulatory
 - related-party-transactions
-- shareholding-disclosure
-- droneacharya
 - sebi-order
-- penalties
-- regulatory-action
+- shareholding-disclosure
 title: SEBI Order Against Droneacharya Aerial Innovations Limited and Related Parties
 ---
 

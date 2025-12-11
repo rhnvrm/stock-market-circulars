@@ -28,11 +28,9 @@ stocks: []
 tags:
 - mutual-fund
 - nfo
-- new-fund-offer
-- sip
 - samco-mutual-fund
+- sip
 - small-cap-fund
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of SAMCO MUTUAL FUND on BSE StAR
   MF Platform
 ---

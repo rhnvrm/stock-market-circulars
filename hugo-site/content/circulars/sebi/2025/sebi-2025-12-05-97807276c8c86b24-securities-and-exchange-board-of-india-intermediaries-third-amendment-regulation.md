@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- intermediaries
-- regulations
-- net-worth
-- compliance
-- business-segregation
 - amendment
+- business-segregation
+- compliance
+- intermediary
+- net-worth
+- regulations
 - regulatory-framework
 title: Securities and Exchange Board of India (Intermediaries) (Third Amendment) Regulations,
   2025

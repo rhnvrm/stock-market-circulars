@@ -27,11 +27,11 @@ stocks:
 - UPLPPCM1
 tags:
 - call-money
-- partly-paid-shares
 - equity
-- UPL
-- IBBS
-- trading-members
+- partly-paid
+- trading-member
+- trading-platform
+- upl
 title: Call Money Notice for Partly Paid-up Equity Share of UPL Limited
 ---
 

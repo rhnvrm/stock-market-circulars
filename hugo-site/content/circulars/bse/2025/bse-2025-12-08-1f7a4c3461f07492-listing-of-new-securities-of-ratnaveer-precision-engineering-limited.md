@@ -26,14 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543978'
+- RATNAVEER
 tags:
+- equity
 - listing
-- equity-shares
-- qip
-- qualified-institutional-placement
 - new-securities
-- ratnaveer-precision-engineering
+- qip
 title: Listing of New Securities - Ratnaveer Precision Engineering Limited QIP
 ---
 

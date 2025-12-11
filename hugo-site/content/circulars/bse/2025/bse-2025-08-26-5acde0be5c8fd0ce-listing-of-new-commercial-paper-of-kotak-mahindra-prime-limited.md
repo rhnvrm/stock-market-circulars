@@ -26,10 +26,10 @@ stocks:
 - KMPL
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
+- debt-securities
 - kotak-mahindra
 - listing
+- private-placement
 title: Listing of new Commercial Paper of Kotak Mahindra Prime Limited
 ---
 

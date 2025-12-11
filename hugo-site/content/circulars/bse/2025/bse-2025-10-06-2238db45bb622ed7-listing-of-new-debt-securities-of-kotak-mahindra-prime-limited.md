@@ -28,10 +28,10 @@ stocks:
 - KOTAKPRIME
 tags:
 - debt-securities
+- further-issue
+- kotak-mahindra
 - listing
 - private-placement
-- kotak-mahindra
-- new-issuance
 title: Listing of new debt securities of Kotak Mahindra Prime Limited
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - STAR IMAGING
 tags:
-- trading-segment
 - group-change
-- sme
-- star-imaging-path-lab
 - scrip-544482
+- sme
+- trading
 title: Change in Group of Equity Shares of STAR IMAGING AND PATH LAB LIMITED
 ---
 

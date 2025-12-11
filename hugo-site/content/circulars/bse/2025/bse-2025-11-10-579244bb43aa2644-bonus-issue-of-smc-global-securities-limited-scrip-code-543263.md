@@ -27,10 +27,10 @@ source: bse
 stocks:
 - SMCGL
 tags:
-- bonus-issue
-- equity-shares
-- corporate-action
 - allotment
+- bonus
+- corporate-action
+- equity
 - listing
 title: Bonus Issue of SMC Global Securities Limited - 10.47 Crore Equity Shares
 ---

@@ -25,14 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- hybrid-fund
 - mutual-fund
-- reopening
-- subscription
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- hybrid-fund
 title: Availability of 360 ONE MULTI ASSET ALLOCATION FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

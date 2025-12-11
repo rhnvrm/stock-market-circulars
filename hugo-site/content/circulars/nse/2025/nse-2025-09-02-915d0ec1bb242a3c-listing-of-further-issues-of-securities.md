@@ -28,13 +28,10 @@ stocks:
 - PRAXIS
 - SIMPLEXINF
 tags:
-- listing
+- conversion
 - further-issue
+- listing
 - rights-issue
-- warrant-conversion
-- MAHLIFE
-- PRAXIS
-- SIMPLEXINF
 title: Listing of Further Issues of Securities - Mahindra Lifespace, Praxis Home Retail,
   and Simplex Infrastructures
 ---

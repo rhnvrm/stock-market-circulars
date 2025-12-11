@@ -26,11 +26,9 @@ source: nse
 stocks:
 - NOIDATOLL
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-ii
-- surveillance
+- asm-stage
 - monitoring
+- surveillance
 title: Noida Toll Bridge Company Limited Moves to Stage II of Graded Surveillance
   Measure (GSM)
 ---

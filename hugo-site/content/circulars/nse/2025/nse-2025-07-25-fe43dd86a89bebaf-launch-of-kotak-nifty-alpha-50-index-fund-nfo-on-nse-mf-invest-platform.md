@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - index-fund
 - kotak-mutual-fund
+- mutual-fund
+- nfo
 - nifty-alpha-50
-- nse-mf-invest
+- trading-platform
 title: Launch of Kotak Nifty Alpha 50 Index Fund NFO on NSE MF Invest Platform
 ---
 

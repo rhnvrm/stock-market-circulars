@@ -27,11 +27,11 @@ source: bse
 stocks:
 - KSE
 tags:
-- isin-change
-- sub-division
 - corporate-action
-- equity-shares
-- face-value-split
+- equity
+- face-value-change
+- isin
+- split
 title: 'New ISIN Number of KSE Ltd (Scrip Code: 519421)'
 ---
 

@@ -26,9 +26,9 @@ stocks:
 - EDELFIN
 tags:
 - debt-securities
-- private-placement
-- listing
 - edel-finance
+- listing
+- private-placement
 title: Listing of new debt securities of Edel Finance Company Limited
 ---
 

@@ -27,11 +27,10 @@ source: nse
 stocks:
 - PIRAMALFIN
 tags:
-- trade-for-trade
-- segment-transfer
 - ipo
 - rolling-segment
-- piramal-finance
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade - Piramal Finance Limited (IPO)
 ---
 

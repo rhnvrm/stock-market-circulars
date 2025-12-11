@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- debt-securities
+- mansukh-securities
 - membership
 - surrender
-- debt-segment
-- compliance
 - trading-member
-- mansukh-securities
 title: Segmental Surrender of Membership - Mansukh Securities & Finance Limited (Debt
   Segment)
 ---

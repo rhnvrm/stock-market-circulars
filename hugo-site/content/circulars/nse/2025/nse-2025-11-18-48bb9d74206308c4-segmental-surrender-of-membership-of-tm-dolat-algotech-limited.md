@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
+- dolat-algotech
 - membership
 - surrender
-- currency-derivatives
-- dolat-algotech
-- compliance
 - trading-member
 title: Segmental Surrender of Membership of TM- Dolat Algotech Limited
 ---

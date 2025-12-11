@@ -25,10 +25,10 @@ source: bse
 stocks:
 - AVANTI
 tags:
+- avanti-finance
 - debt-securities
 - listing
 - private-placement
-- avanti-finance
 title: Listing of New Debt Securities of AVANTI FINANCE PRIVATE LIMITED
 ---
 

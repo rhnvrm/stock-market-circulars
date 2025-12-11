@@ -67,11 +67,11 @@ stocks:
 - SHRIRAMFIN
 tags:
 - collateral
-- margin-requirements
-- approved-securities
-- liquid-assets
-- VAR-haircut
 - deposit-limits
+- empanelment
+- liquid-fund
+- margin
+- volatility-control
 title: Revised List of Approved Securities and Banks for Collateral Deposits
 ---
 

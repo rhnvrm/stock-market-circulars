@@ -25,12 +25,12 @@ source: bse
 stocks:
 - BRIGADE
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
 - brigade-hotel-ventures
 - demat-shares
+- equity
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Brigade Hotel Ventures Limited
 ---
 

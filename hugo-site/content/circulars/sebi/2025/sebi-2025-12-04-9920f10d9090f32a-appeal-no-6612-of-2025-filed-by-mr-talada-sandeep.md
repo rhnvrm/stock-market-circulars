@@ -26,11 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
-- sebi-recruitment
+- appeal
 - examination-results
-- appellate-authority
+- rti
+- sebi-recruitment
 title: Appeal No. 6612 of 2025 filed by Mr. Talada Sandeep
 ---
 

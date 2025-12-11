@@ -24,14 +24,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- equity-savings-fund
 - bajaj-finserv
+- equity-savings-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
 title: Availability of Bajaj Finserv Equity Savings Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

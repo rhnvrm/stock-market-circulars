@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - derivatives
+- expiry-day
 - index-options
 - position-limits
-- market-surveillance
 - risk-management
-- expiry-day
+- surveillance
 title: Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
 ---
 

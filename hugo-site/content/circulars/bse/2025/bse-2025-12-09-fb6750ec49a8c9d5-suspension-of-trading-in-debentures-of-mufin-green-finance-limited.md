@@ -26,13 +26,13 @@ source: bse
 stocks:
 - MGFL
 tags:
-- debentures
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
 - interest-payment
-- redemption
-- corporate-actions
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MUFIN GREEN FINANCE LIMITED
 ---
 

@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
-- debentures
-- redemption
-- interest-payment
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Suryapet Khammam Road Private Limited
 ---
 

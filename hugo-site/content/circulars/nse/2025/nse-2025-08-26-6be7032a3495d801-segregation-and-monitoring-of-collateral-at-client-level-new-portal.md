@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- collateral-segregation
-- client-collateral
-- portal-migration
-- ncl-portal
 - clearing-members
+- client-collateral
+- collateral-segregation
 - compliance-reporting
+- ncl-portal
+- portal-migration
 title: Segregation and Monitoring of Collateral at Client Level - New Portal
 ---
 

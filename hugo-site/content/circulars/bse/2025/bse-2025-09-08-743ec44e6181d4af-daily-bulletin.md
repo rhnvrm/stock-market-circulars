@@ -33,17 +33,17 @@ stocks:
 - BOMDYEING
 - COMSYN
 - CORAL
-- DHABpolywood
+- DHABPOLYWOOD
 - DRAGARWAL
 - EARLYSALARY
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
-- stock-split
-- ncd-redemption
-- corporate-actions
+- ncd
+- record-date
+- split
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

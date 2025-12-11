@@ -29,11 +29,10 @@ stocks:
 tags:
 - attachment
 - bank-accounts
-- demat-accounts
 - defaulter
-- recovery
+- demat
 - ipo
-- channel-nine-entertainment
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts - LMR Green Realty
   Private Limited and Aavisha Credit Capital Pvt. Ltd
 ---

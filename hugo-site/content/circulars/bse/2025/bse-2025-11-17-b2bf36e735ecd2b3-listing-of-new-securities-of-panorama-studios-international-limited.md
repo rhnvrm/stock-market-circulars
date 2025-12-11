@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PANORAMA
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Panorama Studios International Limited
 ---
 

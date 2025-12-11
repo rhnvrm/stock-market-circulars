@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RAVELCARE
+- RAVEL
 tags:
-- ipo
-- anchor-investors
-- equity-allocation
+- anchor-investor
 - capital-raising
-- new-listing
+- equity-allocation
+- ipo
+- listing
 title: Public Issue of RAVELCARE LIMITED - Allocation to Anchor Investors
 ---
 

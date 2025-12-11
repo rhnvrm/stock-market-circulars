@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- standard-chartered-capital
-- private-placement
 - crisil-a1-plus
+- debt-securities
 - icra-a1-plus
+- private-placement
+- standard-chartered-capital
 title: Listing of New Commercial Paper of Standard Chartered Capital Limited
 ---
 

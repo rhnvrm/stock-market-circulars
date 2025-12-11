@@ -27,14 +27,14 @@ source: bse
 stocks:
 - AIEYPT
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
+- invit
+- ncd
+- redemption
 - suspension
 - trading-halt
-- redemption
-- interest-payment
-- corporate-actions
-- debt-market
-- invit
 title: Suspension of Trading in Debentures of ANZEN INDIA ENERGY YIELD PLUS TRUST
 ---
 

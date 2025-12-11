@@ -26,10 +26,8 @@ source: bse
 stocks:
 - STELLANT
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- stellant-securities
-- '526071'
 title: Bonus Issue of Stellant Securities (India) Ltd - Record Date September 12,
   2025
 ---

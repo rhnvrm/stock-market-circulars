@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- baroda-bnp-paribas
 - etf
 - gold-fund
-- bse-star-mf
-- baroda-bnp-paribas
-- fund-reopening
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp

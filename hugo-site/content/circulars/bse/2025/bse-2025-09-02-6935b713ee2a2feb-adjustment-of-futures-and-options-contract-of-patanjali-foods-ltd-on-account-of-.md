@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PTFL
 tags:
-- derivatives
-- corporate-actions
-- bonus-issue
+- bonus
 - contract-adjustment
-- PTFL
+- corporate-action
+- derivatives
 title: Adjustment of Futures and Options contract of Patanjali Foods Ltd on account
   of Bonus issue
 ---

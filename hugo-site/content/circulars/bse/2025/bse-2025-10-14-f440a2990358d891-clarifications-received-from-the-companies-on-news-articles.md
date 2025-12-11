@@ -30,10 +30,10 @@ stocks:
 tags:
 - clarification
 - disclosure
-- news-article
 - expansion
-- acquisition
+- news-article
 - regulation-30
+- takeover
 title: Clarifications received from the companies on news articles
 ---
 

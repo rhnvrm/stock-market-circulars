@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- quant-mutual-fund
+- equity
 - long-short-fund
-- equity-fund
-- nse-mf-invest
+- mutual-fund
+- quant-mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
+- trading-platform
 title: Availability of QSIF Equity Ex-Top 100 Long-Short Fund for Ongoing Transactions
   on NSE MF Invest Platform
 ---

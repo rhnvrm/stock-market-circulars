@@ -29,12 +29,12 @@ stocks:
 - JUBLFOOD
 - MUTHOOTFIN
 tags:
-- surveillance
-- volume-movement
 - clarification
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
-- market-driven
+- surveillance
 title: Clarifications received from companies on significant volume movement
 ---
 

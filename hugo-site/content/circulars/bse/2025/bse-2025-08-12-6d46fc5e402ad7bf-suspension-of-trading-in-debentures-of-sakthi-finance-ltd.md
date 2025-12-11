@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SAKTHIFIN
 tags:
-- debentures
-- trading-suspension
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Sakthi Finance Ltd
 ---
 

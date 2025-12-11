@@ -28,9 +28,8 @@ stocks: []
 tags:
 - merchant-banker
 - registration-suspension
-- open-offer
-- takeover
 - regulatory-clarification
+- takeover
 title: Addendum to the Final Order dated August 19, 2025 in the matter of Swaraj Shares
   and Securities Private Limited
 ---

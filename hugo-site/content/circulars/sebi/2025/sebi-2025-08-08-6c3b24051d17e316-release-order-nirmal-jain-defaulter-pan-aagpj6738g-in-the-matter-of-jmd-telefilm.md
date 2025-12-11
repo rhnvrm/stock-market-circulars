@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - JMDTEL
 tags:
-- release-order
 - defaulter
-- recovery-certificate
-- jmd-telefilms
 - enforcement
+- jmd-telefilms
+- recovery
+- release
 title: 'Release Order – Nirmal Jain [Defaulter] PAN: AAGPJ6738G in the matter of JMD
   Telefilms Industries Ltd. Certificate No. 7737 of 2024'
 ---

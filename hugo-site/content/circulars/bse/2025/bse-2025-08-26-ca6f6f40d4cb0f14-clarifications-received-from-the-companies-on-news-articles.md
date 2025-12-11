@@ -28,9 +28,9 @@ stocks:
 - DIGVIJAYCEM
 tags:
 - clarification
+- disclosure
 - news-articles
 - price-movement
-- disclosure
 - regulation-30
 title: Clarifications received from the companies on news articles
 ---

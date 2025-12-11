@@ -39,12 +39,12 @@ stocks:
 - GODFREY
 - GACL
 tags:
-- corporate-actions
-- dividends
-- bonus-issue
-- scheme-of-arrangement
-- record-dates
+- bonus
+- corporate-action
+- dividend
 - ex-dates
+- record-date
+- scheme-of-arrangement
 title: Corporate Action Schedule for SLB Securities - Multiple Dividend and Bonus
   Issues
 ---

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SMLISUZU
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- sml-isuzu
 - capital-market
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for Takeover offer under Tender Offer scheme of
   SML Isuzu Limited
 ---

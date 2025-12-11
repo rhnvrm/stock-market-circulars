@@ -26,14 +26,13 @@ severity: low
 source: nse
 stocks:
 - SUNDARAM
-- GODREJAGROVET
+- GODREJAGRO
 - ADITYABIRLAC
 tags:
-- debt-securities
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- debt-market
 title: Listing of privately placed securities on debt market segment - August 2025
 ---
 

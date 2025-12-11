@@ -28,13 +28,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- compliance
-- enforcement
-- recovery
 - bank-accounts
-- demat-accounts
-- mutual-funds
-- release-order
+- compliance
+- demat
+- enforcement
+- mutual-fund
+- recovery
+- release
 title: SEBI Order Releasing Bank Accounts, Demat Accounts and Mutual Fund Folios of
   Tango Commosales LLP
 ---

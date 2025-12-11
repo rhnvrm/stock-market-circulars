@@ -28,11 +28,10 @@ stocks:
 - TRANSPACT
 - DECOROUS
 tags:
-- surveillance
-- asm
-- trading-measures
-- market-regulation
 - compliance
+- market-operations
+- surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - BPCL
 tags:
-- derivatives
-- corporate-actions
-- dividend
-- futures
-- options
 - contract-adjustment
-- equity-derivatives
+- corporate-action
+- derivatives
+- dividend
+- futures-options
+- options
 title: Adjustment of Futures and Options contracts in Bharat Petroleum Corporation
   Ltd for Interim Dividend
 ---

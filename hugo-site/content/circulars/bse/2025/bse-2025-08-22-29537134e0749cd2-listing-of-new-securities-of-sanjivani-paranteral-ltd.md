@@ -25,12 +25,12 @@ source: bse
 stocks:
 - SANJIVANI
 tags:
+- equity
 - listing
-- new-securities
-- equity-shares
-- preferential-allotment
-- promoters
 - lock-in
+- new-securities
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Sanjivani Paranteral Ltd.
 ---
 

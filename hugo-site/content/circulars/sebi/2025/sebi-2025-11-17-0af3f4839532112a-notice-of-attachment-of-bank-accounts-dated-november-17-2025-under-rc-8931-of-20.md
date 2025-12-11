@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
+- attachment
 - enforcement
-- recovery-certificate
-- bank-attachment
 - prakash-constrowell
-- setubandhan-infrastructure
-- recovery-proceedings
+- recovery
 title: Notice of Attachment of Bank Accounts dated November 17, 2025 under RC 8931
   of 2025 against Anup Karwa (PAN - BFNPK5368C) in the matter of Prakash Constrowell
   Limited (now Setubandhan Infrastructure Limited)

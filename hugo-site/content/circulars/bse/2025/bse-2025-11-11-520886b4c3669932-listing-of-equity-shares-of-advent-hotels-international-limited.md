@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ADVENTHOTELS
 tags:
-- equity-listing
-- new-listing
+- equity
+- listing
 - lock-in
-- advent-hotels
 title: Listing of Equity Shares of Advent Hotels International Limited
 ---
 

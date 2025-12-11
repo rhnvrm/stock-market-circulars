@@ -26,17 +26,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- kotak-mutual-fund
 - fund-of-funds
 - gold
-- silver
-- subscription
+- kotak-mutual-fund
+- mutual-fund
 - redemption
+- silver
 - sip
 - stp
+- subscription
 - swp
-- bse-star-mf
 title: Availability of KOTAK GOLD SILVER PASSIVE FOF for Ongoing Transactions on BSE
   StAR MF Platform
 ---

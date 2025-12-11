@@ -26,11 +26,9 @@ source: nse
 stocks:
 - SIKKO
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- sikko
+- isin
+- split
 title: Change in ISIN - Sikko Industries Limited (SIKKO)
 ---
 

@@ -36,15 +36,14 @@ stocks:
 - ECLFINANCE
 - EDELWEISS
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
 - corporate-action
-- ncd-redemption
-- interest-payment
+- daily-bulletin
+- dividend
 - equity
-- debentures
+- interest-payment
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

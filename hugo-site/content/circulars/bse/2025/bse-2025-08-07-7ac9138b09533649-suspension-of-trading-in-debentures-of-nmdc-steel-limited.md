@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NMDC
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of NMDC STEEL LIMITED
 ---
 

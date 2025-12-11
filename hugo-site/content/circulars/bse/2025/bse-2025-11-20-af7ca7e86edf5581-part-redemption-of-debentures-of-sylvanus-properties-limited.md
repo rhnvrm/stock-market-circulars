@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SYLVANUS
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
 - face-value-reduction
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of Sylvanus Properties Limited
 ---
 

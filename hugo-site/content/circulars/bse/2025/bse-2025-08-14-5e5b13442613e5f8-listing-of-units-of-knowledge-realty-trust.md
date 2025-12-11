@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KRT
 tags:
-- listing
-- reits
-- knowledge-realty-trust
-- new-listing
 - equity
+- knowledge-realty-trust
+- listing
+- reit
 title: Listing of Units of Knowledge Realty Trust
 ---
 

@@ -26,10 +26,9 @@ source: nse
 stocks:
 - VIKRAMSOLR
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 - vikram-solar
 title: Listing of Equity Shares of Vikram Solar Limited (IPO)
 ---

@@ -26,12 +26,10 @@ source: bse
 stocks:
 - FABTECH
 tags:
-- shareholding-pattern
-- equity-shares
+- equity
 - listing
-- promoter-holding
-- public-holding
-- reg-31
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Fabtech Technologies Limited
 ---
 

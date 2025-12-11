@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- initial-margin
+- derivatives
 - gold
-- silver
-- commodity-derivatives
-- risk-management
-- margin-requirements
-- SOMM
+- initial-margin
+- margin
 - options
+- risk-management
+- silver
+- somm
 title: Revision of Initial Margin in Gold and Silver
 ---
 

@@ -47,12 +47,9 @@ stocks:
 - BANSAL
 - CMICABLES
 tags:
-- asm
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- regulatory-action
+- regulatory
+- surveillance
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure under IBC
 ---

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SPANDANA
 tags:
-- debt-market
-- debentures
-- trading-resumption
-- corporate-actions
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- spandana-sphoorty
+- trading-resumption
 title: Resumption of Trading in Debentures of SPANDANA SPHOORTY FINANCIAL LIMITED
 ---
 

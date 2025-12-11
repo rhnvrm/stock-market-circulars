@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CHOICE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-issue
 - lock-in
+- preferential-issue
 title: Listing of Securities Choice International Ltd - 6 Million Equity Shares from
   Warrant Conversion
 ---

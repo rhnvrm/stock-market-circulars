@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- demat-trading
+- dsp-mutual-fund
 - etf
 - listing
-- mutual-fund
-- dsp-mutual-fund
-- nifty500-flexicap-quality-30
 - market-makers
-- demat-trading
+- mutual-fund
+- nifty500-flexicap-quality-30
 title: Listing of Units of DSP Nifty500 Flexicap Quality 30 ETF a scheme under DSP
   Mutual Fund
 ---

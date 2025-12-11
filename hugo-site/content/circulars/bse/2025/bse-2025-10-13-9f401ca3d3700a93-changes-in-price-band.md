@@ -37,10 +37,10 @@ stocks:
 - SHIVTEX
 - VASHUBHAG
 tags:
+- asm-stage
+- equity
 - price-band
 - trading-restrictions
-- surveillance-measure
-- equity-segment
 title: Changes in Price Band for 11 Securities
 ---
 

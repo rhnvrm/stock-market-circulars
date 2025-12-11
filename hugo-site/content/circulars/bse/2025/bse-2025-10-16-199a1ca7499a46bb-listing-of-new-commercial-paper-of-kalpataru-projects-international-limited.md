@@ -29,7 +29,7 @@ stocks:
 - KALPATARUPOWER
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kalpataru-projects
 - private-placement
 - short-term-debt

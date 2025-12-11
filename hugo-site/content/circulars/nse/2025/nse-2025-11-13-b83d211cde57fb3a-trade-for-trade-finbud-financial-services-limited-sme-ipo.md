@@ -26,11 +26,10 @@ source: nse
 stocks:
 - FINBUD
 tags:
-- trade-for-trade
+- rolling-segment
 - segment-transfer
-- sme-ipo
-- rolling-settlement
-- finbud
+- sme
+- trade-for-trade
 title: Trade for Trade - Finbud Financial Services Limited (SME IPO)
 ---
 

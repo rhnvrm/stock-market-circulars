@@ -26,10 +26,10 @@ source: bse
 stocks:
 - GLOBTIER
 tags:
-- listing
-- equity-shares
-- lock-in
+- equity
 - ipo
+- listing
+- lock-in
 - ofs
 title: Listing of Equity Shares of Globtier Infotech Limited
 ---

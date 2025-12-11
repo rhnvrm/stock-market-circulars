@@ -29,11 +29,11 @@ stocks:
 - SIHORA
 tags:
 - group-change
-- segment-transfer
-- trade-for-trade
 - rolling-segment
-- sme
+- segment-transfer
 - sihora-industries
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SIHORA INDUSTRIES LIMITED
 ---
 

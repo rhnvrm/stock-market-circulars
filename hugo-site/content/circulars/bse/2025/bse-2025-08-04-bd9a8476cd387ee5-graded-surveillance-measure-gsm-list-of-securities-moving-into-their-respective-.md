@@ -27,11 +27,9 @@ stocks:
 - PMTELELINKS
 - ADHATA
 tags:
-- gsm
-- surveillance
-- stage-movement
-- pmtelelinks
 - adhata-global
+- asm-stage
+- surveillance
 title: GSM Stage Movement - P.M.Telelinnks Ltd and Adhata Global Limited Move to Stage
   I
 ---

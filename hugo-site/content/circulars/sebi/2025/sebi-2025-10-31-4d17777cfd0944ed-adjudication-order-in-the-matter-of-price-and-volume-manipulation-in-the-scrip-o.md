@@ -27,13 +27,13 @@ source: sebi
 stocks:
 - QUASAR
 tags:
-- adjudication-order
-- market-manipulation
+- adjudication
+- enforcement
+- market-operations
+- penalty
+- pfutp
 - price-manipulation
 - volume-manipulation
-- PFUTP
-- enforcement-action
-- penalties
 title: Adjudication Order in the matter of price and volume manipulation in the scrip
   of Quasar India Limited
 ---

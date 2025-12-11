@@ -38,10 +38,10 @@ stocks:
 - TREEHOUSE
 - VASHU
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 12 Securities Effective August 20, 2025
 ---
 

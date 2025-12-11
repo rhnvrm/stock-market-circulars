@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544612'
+- TENNIND
 tags:
-- index
-- ipo-index
 - addition
-- listing
 - equity
+- index-fund
+- ipo-index
+- listing
 title: Addition to the BSE IPO INDEX
 ---
 

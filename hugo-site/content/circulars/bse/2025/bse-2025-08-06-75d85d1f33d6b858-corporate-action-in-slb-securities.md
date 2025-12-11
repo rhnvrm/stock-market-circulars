@@ -42,7 +42,7 @@ stocks:
 - DELTACORP
 - ARVINDFASN
 - LLOYDS
-- KPENERGY
+- KPEL
 - SUNTV
 - KARURVYSYA
 - KPIGREEN
@@ -52,12 +52,11 @@ stocks:
 - LINDE
 - GODFRYPHLP
 tags:
-- dividend
+- book-closure
 - corporate-action
-- slb-securities
+- dividend
 - record-date
-- ex-date
-- shut-period
+- slb
 title: Corporate Action in SLB Securities - Dividend Record and Ex-Dates for Multiple
   Companies
 ---

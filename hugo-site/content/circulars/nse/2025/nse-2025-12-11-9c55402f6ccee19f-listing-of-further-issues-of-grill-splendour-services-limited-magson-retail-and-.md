@@ -28,11 +28,11 @@ stocks:
 - MAGSON
 - TRANSTEEL
 tags:
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-listing
-- warrant-conversion
+- preferential-issue
 title: Listing of Further Issues of Grill Splendour Services Limited, Magson Retail
   And Distribution Limited and Transteel Seating Technologies Limited
 ---

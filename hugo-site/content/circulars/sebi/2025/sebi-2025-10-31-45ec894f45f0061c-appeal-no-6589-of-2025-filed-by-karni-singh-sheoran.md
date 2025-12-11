@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl-refund
 - information-disclosure
-- lodha-committee
 - investor-grievance
+- lodha-committee
+- pacl-refund
+- rti
 title: Appeal No. 6589 of 2025 filed by Karni Singh Sheoran
 ---
 

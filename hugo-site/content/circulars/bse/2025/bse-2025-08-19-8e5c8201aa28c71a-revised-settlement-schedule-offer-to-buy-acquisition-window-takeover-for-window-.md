@@ -26,11 +26,9 @@ source: bse
 stocks:
 - WINDOWGLASS
 tags:
-- takeover
-- settlement
-- acquisition
-- window-glass
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule for Window Glass Limited Takeover Offer
 ---
 

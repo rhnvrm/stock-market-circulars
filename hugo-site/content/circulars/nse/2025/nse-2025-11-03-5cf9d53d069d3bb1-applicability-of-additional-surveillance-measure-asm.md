@@ -26,12 +26,9 @@ source: nse
 stocks:
 - DIGIKORE
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirement
-- digikore
-- long-term-asm
 title: Applicability of Additional Surveillance Measure (ASM) - Digikore Studios Limited
   Added to Long-Term ASM Stage I
 ---

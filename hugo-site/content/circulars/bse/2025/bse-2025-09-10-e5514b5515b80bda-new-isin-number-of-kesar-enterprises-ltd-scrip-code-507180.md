@@ -27,10 +27,10 @@ source: bse
 stocks:
 - KESAR
 tags:
-- corporate-actions
-- isin-change
+- corporate-action
 - equity-subdivision
-- trading-update
+- isin
+- trading
 title: New ISIN Number for KESAR ENTERPRISES LTD - Equity Share Sub-Division
 ---
 

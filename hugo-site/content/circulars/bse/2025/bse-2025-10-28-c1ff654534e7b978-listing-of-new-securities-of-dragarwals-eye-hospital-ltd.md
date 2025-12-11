@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DRAGARWAL
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of new securities of Dr.Agarwals Eye Hospital Ltd.
 ---
 

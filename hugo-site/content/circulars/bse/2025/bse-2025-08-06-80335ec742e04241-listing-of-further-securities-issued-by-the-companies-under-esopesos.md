@@ -39,10 +39,8 @@ stocks:
 - HDFCLIFE
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of further securities issued by companies under ESOP/ESOS - August
   7, 2025
 ---

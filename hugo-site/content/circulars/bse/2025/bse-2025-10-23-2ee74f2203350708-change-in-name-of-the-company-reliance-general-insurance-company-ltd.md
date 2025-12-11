@@ -28,12 +28,12 @@ source: bse
 stocks:
 - RELGIC
 tags:
-- name-change
+- certificate
 - corporate-action
-- insurance
-- certificate-of-incorporation
-- reliance-general-insurance
 - indusind-general-insurance
+- insurance
+- name-change
+- reliance-general-insurance
 title: Change in Name of Reliance General Insurance Company Limited to IndusInd General
   Insurance Company Limited
 ---

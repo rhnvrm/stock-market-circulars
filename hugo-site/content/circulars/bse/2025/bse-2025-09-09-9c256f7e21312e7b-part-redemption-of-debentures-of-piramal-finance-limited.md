@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PFL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-market
+- corporate-action
+- debt-securities
+- ncd
 - piramal-finance
 - record-date
+- redemption
 title: Part Redemption of Debentures of Piramal Finance Limited
 ---
 

@@ -30,16 +30,10 @@ stocks:
 - UTIAMC
 - WIPRO
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - securities
-- employee-stock-options
-- SAILIFE
-- TCI
-- UTIAMC
-- WIPRO
 title: Listing of Further Securities Issued Under ESOP/ESOS - Four Companies
 ---
 

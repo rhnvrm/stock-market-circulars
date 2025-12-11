@@ -34,12 +34,11 @@ stocks:
 - MOTILALOFS
 - PFC
 tags:
-- listing
-- debt-market
+- bond
 - commercial-paper
-- bonds
-- private-placement
 - debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment
 ---
 

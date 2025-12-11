@@ -35,10 +35,7 @@ stocks:
 - AARVEEDEN
 tags:
 - surveillance
-- esm
-- enhanced-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

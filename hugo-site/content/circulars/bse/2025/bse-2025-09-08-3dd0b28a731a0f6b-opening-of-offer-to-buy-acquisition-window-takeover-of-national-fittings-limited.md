@@ -24,13 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- NATIONALFITTINGS
+- NATFIT
 tags:
-- takeover
-- open-offer
-- acquisition
 - mandatory-offer
-- sebi-sast
+- sast
+- takeover
 title: Open Offer by Himgiri Castings Private Limited for National Fittings Limited
   - 26% Acquisition at INR 135 per Share
 ---

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
+- fixed-income
 - listing
-- debentures
 - ncd
 - sammaan-capital
 - secured-debt
-- fixed-income
 title: Listing of Secured Redeemable Non-Convertible Debentures of Sammaan Capital
   Limited
 ---

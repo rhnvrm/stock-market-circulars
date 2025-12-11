@@ -29,13 +29,11 @@ stocks:
 - JBCHEPHARM
 - TORNTPHARM
 tags:
-- takeover
-- open-offer
-- acquisition
-- torrent-pharmaceuticals
 - jb-chemicals
-- sebi-sast
 - pharmaceuticals
+- sast
+- takeover
+- torrent-pharmaceuticals
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of J.B. Chemicals &
   Pharmaceuticals Limited by Torrent Pharmaceuticals Limited
 ---

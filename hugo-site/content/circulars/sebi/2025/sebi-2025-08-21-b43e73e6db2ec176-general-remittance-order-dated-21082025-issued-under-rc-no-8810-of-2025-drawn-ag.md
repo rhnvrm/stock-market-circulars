@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- enforcement
 - bodhtree-consulting
+- enforcement
 - general-remittance-order
+- recovery
 title: General Remittance Order dated 21.08.2025 issued under RC No. 8810 of 2025
   drawn against Ms. Silamkoti Abilash in the matter of Bodhtree Consulting Limited
 ---

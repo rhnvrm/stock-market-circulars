@@ -27,13 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- neat-adapter
-- commodity-derivatives
-- currency-derivatives
-- trading-software
-- encryption
 - authentication
+- derivatives
+- encryption
 - technical-upgrade
+- trading-platform
+- trading-software
 title: NEAT Adapter - Commodity Derivatives & Currency Derivatives Segments - New
   Version 1.0.23
 ---

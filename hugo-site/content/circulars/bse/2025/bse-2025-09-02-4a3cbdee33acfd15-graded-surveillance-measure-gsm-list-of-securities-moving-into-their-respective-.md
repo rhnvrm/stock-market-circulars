@@ -23,23 +23,10 @@ published_date: '2025-09-02T12:55:34+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={75CF8E3F-74F4-4AF1-8261-9155B0E70149}&noticeno=20250902-40&dt=09/02/2025&icount=40&totcount=59&flag=0
 severity: high
 source: bse
-stocks:
-- '530291'
-- '530565'
-- '506313'
-- '519439'
-- '526983'
-- '532139'
+stocks: []
 tags:
-- gsm
 - surveillance
 - trading-restrictions
-- '530291'
-- '530565'
-- '506313'
-- '519439'
-- '526983'
-- '532139'
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

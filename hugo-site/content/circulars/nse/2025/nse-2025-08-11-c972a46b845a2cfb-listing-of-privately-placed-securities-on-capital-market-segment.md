@@ -25,11 +25,10 @@ source: nse
 stocks:
 - TATACOMM
 tags:
-- listing
-- debentures
-- debt-securities
 - capital-market
-- tata-communications
+- debt-securities
+- listing
+- ncd
 title: Listing of Tata Communications Limited 6.77% 2028 Debentures on Capital Market
   Segment
 ---

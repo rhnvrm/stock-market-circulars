@@ -27,16 +27,16 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- regulatory-directive
 - 1600-series-numbering
-- bfsi-sector
-- telecom-compliance
-- customer-protection
 - anti-spam
-- service-calls
-- transactional-calls
+- bfsi-sector
+- customer-protection
 - mandatory-adoption
+- regulatory-directive
+- service-calls
+- telecom-compliance
+- trai
+- transactional-calls
 title: TRAI Direction on Mandatory Phase-wise Adoption of 1600-Series Numbers by BFSI
   Entities
 ---

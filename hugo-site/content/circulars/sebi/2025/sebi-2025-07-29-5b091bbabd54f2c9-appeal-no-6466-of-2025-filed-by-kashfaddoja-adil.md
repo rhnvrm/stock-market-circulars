@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- share-transmission
+- appeal
 - legal-heir-certificate
+- rti
+- share-transmission
 - succession-certificate
-- appellate-authority
 title: Appeal No. 6466 of 2025 filed by Kashfaddoja Adil - RTI Appeal on Share Transmission
   Requirements
 ---

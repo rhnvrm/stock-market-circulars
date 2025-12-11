@@ -30,12 +30,9 @@ stocks:
 - STRINGME
 - VASINFR
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy-code
-- additional-surveillance-measure
-- stage-1
+- surveillance
 title: Surveillance Measure for Securities under IBC - Three Securities Added to Stage
   1
 ---

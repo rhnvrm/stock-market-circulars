@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- sebi-regulations
-- registration
 - compliance
-- iaasb
-- fees
 - deposits
+- fees
+- iaasb
+- investment-adviser
+- registration
+- regulatory-framework
 title: Frequently Asked Questions (FAQs) related to regulatory provisions for Investment
   Advisers
 ---

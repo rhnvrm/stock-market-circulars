@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544192'
+- IXIGO
 tags:
+- equity
 - listing
-- preferential-issue
-- equity-shares
 - lock-in
-- non-promoter
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Le Travenues Technology Limited - Preferential
   Issue
 ---

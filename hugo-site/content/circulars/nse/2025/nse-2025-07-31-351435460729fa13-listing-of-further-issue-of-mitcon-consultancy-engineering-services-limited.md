@@ -26,12 +26,12 @@ source: nse
 stocks:
 - MITCON
 tags:
-- listing
-- equity-shares
-- conversion
-- partly-paid
-- fully-paid
 - capital-market
+- conversion
+- equity
+- fully-paid
+- listing
+- partly-paid
 title: Listing of further issue of MITCON Consultancy & Engineering Services Limited
   - Conversion of Partly Paid Shares
 ---

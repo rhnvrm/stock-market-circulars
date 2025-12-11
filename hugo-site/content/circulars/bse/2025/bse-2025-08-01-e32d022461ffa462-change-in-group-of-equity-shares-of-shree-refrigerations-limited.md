@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SHREEREF
 tags:
-- trading-segment
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of SHREE REFRIGERATIONS LIMITED
 ---
 

@@ -38,22 +38,10 @@ stocks:
 - INFINA
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-market
+- debt-securities
 - record-date
-- GRASIM
-- NUVAMA
-- VIVRITI
-- 360ONE
-- AXISSEC
-- ICICI
-- JULIUSBAER
-- GODREJHFL
-- BAJAJHFL
-- RELIANCE
-- NAVI
-- INFINA
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

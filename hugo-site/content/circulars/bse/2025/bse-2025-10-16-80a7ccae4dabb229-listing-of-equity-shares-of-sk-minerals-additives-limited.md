@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SKM
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- SKM
 title: Listing of Equity Shares of SK Minerals & Additives Limited
 ---
 

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - KINARA CAPITAL PRIVATE LIMITED
 tags:
-- debt
-- debentures
-- part-redemption
-- face-value-reduction
 - corporate-action
-- kinara-capital
+- debt-securities
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of KINARA CAPITAL PRIVATE LIMITED
 ---
 

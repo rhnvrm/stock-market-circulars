@@ -34,11 +34,11 @@ stocks:
 - MUTHOOTFIN
 tags:
 - commercial-paper
-- debt-segment
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---
 

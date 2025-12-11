@@ -27,13 +27,13 @@ source: bse
 stocks: []
 tags:
 - book-closure
-- record-date
-- corporate-actions
-- interest-payment
-- redemption
-- ncd
 - commercial-paper
+- corporate-action
+- interest-payment
 - municipal-bonds
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

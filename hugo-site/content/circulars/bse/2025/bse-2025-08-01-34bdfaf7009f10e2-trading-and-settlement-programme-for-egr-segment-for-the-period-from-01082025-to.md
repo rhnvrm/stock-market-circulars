@@ -25,10 +25,9 @@ source: bse
 stocks: []
 tags:
 - egr
-- electronic-gold-receipts
-- trading-schedule
-- settlement
 - rms
+- settlement
+- trading-schedule
 title: Trading and Settlement Programme for EGR Segment - August 2025
 ---
 

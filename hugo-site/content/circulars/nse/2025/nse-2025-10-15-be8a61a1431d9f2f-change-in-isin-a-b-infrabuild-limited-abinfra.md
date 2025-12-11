@@ -26,10 +26,10 @@ source: nse
 stocks:
 - ABINFRA
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 title: Change in ISIN - A B Infrabuild Limited (ABINFRA)
 ---
 

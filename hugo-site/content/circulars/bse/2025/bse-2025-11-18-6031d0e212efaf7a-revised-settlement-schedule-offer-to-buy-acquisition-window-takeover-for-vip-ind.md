@@ -27,12 +27,10 @@ source: bse
 stocks:
 - VIPIND
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- offer-to-buy
-- settlement
+- otb
 - rms
+- settlement
+- takeover
 title: Revised Settlement Schedule for Takeover Offer - V.I.P. Industries Limited
 ---
 

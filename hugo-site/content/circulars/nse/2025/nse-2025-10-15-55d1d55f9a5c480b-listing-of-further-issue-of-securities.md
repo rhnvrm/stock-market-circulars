@@ -41,12 +41,12 @@ stocks:
 - TRACXN
 - UNICOMM
 tags:
-- listing
-- further-issue
-- equity-shares
-- ESOP
-- QIP
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- qip
 title: Listing of Further Issue of Securities - 14 Companies
 ---
 

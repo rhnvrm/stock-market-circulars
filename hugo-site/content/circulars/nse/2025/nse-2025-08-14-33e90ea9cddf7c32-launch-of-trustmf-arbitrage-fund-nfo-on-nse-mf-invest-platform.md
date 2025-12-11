@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- arbitrage-fund
 - mutual-fund
 - nfo
-- arbitrage-fund
+- trading-platform
 - trust-mutual-fund
-- nse-mf-invest
 title: Launch of Trustmf Arbitrage Fund NFO on NSE MF Invest Platform
 ---
 

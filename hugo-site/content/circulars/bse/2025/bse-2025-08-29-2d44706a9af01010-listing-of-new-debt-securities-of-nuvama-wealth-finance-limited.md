@@ -26,10 +26,10 @@ stocks:
 - NUVAMA
 tags:
 - debt-securities
+- demat
 - listing
-- private-placement
 - nuvama-wealth-finance
-- dematerialised-trading
+- private-placement
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

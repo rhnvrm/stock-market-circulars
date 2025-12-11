@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PATELENG
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
-- record-date
+- equity
 - fundraising
+- record-date
+- rights-issue
 title: Rights Issue of Equity Shares of Patel Engineering Ltd - Record Date Fixed
 ---
 

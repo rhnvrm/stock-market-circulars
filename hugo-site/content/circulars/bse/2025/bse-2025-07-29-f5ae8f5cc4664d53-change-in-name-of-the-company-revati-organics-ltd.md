@@ -25,11 +25,11 @@ source: bse
 stocks:
 - REVATI
 tags:
-- name-change
-- incorporation-certificate
-- revati-organics
-- revati-media
+- certificate
 - corporate-affairs
+- name-change
+- revati-media
+- revati-organics
 title: Certificate of Incorporation - Name Change from Revati Organics Limited to
   Revati Media Limited
 ---

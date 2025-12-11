@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
+- administrative
+- advocate-payments
 - appeal
 - information-disclosure
-- administrative
 - legal-matters
-- advocate-payments
+- rti
 title: Appeal No. 6576 of 2025 filed by Akash Parab
 ---
 

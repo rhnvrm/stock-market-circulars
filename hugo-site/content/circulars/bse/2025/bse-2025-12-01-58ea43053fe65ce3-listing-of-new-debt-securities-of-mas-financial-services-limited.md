@@ -30,10 +30,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- mas-financial-services
+- ncd
 - private-placement
-- debentures
-- MAS-Financial-Services
-- MFSL
 title: Listing of New Debt Securities of MAS Financial Services Limited
 ---
 

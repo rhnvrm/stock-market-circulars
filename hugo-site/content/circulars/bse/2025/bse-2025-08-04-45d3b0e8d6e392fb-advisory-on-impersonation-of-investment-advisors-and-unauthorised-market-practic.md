@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisors
-- research-analysts
-- impersonation
-- reporting
-- portal
 - compliance
+- impersonation
+- investment-adviser
+- portal
+- reporting
+- research-analyst
 - surveillance
 title: Advisory on Impersonation of Investment Advisors and Unauthorised Market Practices
 ---

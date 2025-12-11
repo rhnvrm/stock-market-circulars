@@ -28,15 +28,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- mutual-funds
-- distributor-commission
-- investor-education
-- financial-inclusion
-- b30-cities
-- women-investors
-- regulatory-framework
 - amcs
 - amfi
+- b30-cities
+- distributor-commission
+- financial-inclusion
+- investor-education
+- mutual-fund
+- regulatory-framework
+- women-investors
 title: Additional incentives to distributors for onboarding new individual investors
   from B-30 cities and women investors
 ---

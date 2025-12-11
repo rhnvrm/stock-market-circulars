@@ -26,10 +26,9 @@ stocks:
 - REDINGTON
 tags:
 - commercial-paper
-- debt-listing
-- redington
-- private-placement
+- debt-securities
 - hdfc-bank
+- private-placement
 title: Listing of new Commercial Paper of Redington Limited
 ---
 

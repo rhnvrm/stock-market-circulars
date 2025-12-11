@@ -50,7 +50,7 @@ stocks:
 - NECTAR
 - ORTIN
 - RAINBOW
-- RAPCORP
+- RAP
 - SAINIK
 - SANBLUE
 - AAATECH
@@ -59,11 +59,9 @@ stocks:
 - ABM
 - ABRAMFOD
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Changes Effective November 10, 2025
 ---
 

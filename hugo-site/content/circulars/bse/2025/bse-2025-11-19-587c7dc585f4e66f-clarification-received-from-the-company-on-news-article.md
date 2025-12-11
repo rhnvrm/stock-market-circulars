@@ -28,14 +28,14 @@ source: bse
 stocks:
 - INOXGREEN
 tags:
-- clarification
-- news-article
-- wind-energy
-- grid-connectivity
 - cerc-order
+- clarification
+- grid-connectivity
+- news-article
+- o-m-services
 - project-disconnection
 - renewable-energy
-- o-m-services
+- wind-energy
 title: INOX Green Energy Services Clarifies CERC Order on 300 MW Wind Project Grid
   Disconnection
 ---

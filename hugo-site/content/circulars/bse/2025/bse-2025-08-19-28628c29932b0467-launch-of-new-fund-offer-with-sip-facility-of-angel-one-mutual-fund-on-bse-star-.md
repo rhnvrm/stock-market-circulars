@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- angel-one
+- fund-of-funds
+- gold
 - mutual-fund
 - nfo
-- gold-etf
 - sip
-- angel-one
-- fund-of-fund
 title: Launch of ANGEL ONE GOLD ETF Fund of Fund NFO on BSE StAR MF Platform
 ---
 

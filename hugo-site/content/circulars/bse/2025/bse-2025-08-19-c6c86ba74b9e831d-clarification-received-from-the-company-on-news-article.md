@@ -27,10 +27,9 @@ stocks:
 - WAAREEENER
 tags:
 - clarification
-- acquisition
 - enel-green-power
-- waaree-energies
 - regulation-30
+- takeover
 title: Waaree Energies clarifies Enel Green Power deal status amid market speculation
 ---
 

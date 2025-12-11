@@ -26,13 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
+- defaulter
+- demand-notice
 - enforcement
 - generic-engineering-construction
 - outstanding-dues
-- recovery-proceedings
-- defaulter
+- recovery
 title: Notice of Demand under RC No. 8915 of 2025 against Saurabh Ashok Shinde - Generic
   Engineering Construction and Projects Limited
 ---

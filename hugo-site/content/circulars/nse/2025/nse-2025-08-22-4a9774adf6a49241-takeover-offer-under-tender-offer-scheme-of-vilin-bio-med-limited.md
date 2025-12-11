@@ -26,10 +26,10 @@ source: nse
 stocks:
 - VILINBIO
 tags:
-- takeover
-- tender-offer
 - bidding-platform
 - corporate-action
+- takeover
+- tender-offer
 - web-based-bidding
 title: Takeover Offer Under Tender Offer Scheme - Vilin Bio Med Limited
 ---

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - KRAZYBEE
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
+- debt-securities
+- interest-payment
+- ncd
 - record-date
 - redemption
-- interest-payment
-- debt-securities
+- suspension
 title: Suspension of Trading in Debentures of KRAZYBEE SERVICES LTD
 ---
 

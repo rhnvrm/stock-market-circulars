@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544453'
+- MSECL
 tags:
-- index-addition
-- sme-ipo
+- index-change
 - listing
 - monarch-surveyors
+- sme
 title: Addition of Monarch Surveyors and Engineering Consultants Limited to BSE SME
   IPO Index
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SODHANI
 tags:
+- equity
 - listing
-- sme-ipo
 - lock-in
-- equity-shares
+- sme
 title: Listing of Equity Shares of Sodhani Capital Limited
 ---
 

@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
 - egr
-- electronic-gold-receipts
-- holiday
 - eid-e-milad
-- rbi-circular
+- holiday
+- rbi
+- settlement
 title: Revised Settlement Programme for EGR Segment - September 3-9, 2025
 ---
 

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- ex-rights
-- TITANINTECH
+- renunciation
+- rights-issue
+- titanintech
 title: Rights Issue of Equity Shares of TITAN INTECH LIMITED - Ex-Rights from October
   31, 2025
 ---

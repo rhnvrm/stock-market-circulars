@@ -25,18 +25,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '539551'
-- '544530'
-- '537766'
+- NH
+- ARSSBL
+- BCP
 tags:
-- price-movement
-- volume-movement
-- surveillance
-- clarification
-- narayana-hrudayalaya
 - anand-rathi
 - bc-power-controls
+- clarification
+- narayana-hrudayalaya
+- price-movement
 - regulation-30
+- surveillance
 title: Clarification received from the company
 ---
 

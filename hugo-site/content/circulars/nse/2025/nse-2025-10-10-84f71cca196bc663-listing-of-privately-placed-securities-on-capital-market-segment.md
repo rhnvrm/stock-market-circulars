@@ -26,11 +26,11 @@ source: nse
 stocks:
 - RARL
 tags:
-- listing
-- private-placement
-- debt-securities
-- debentures
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities - Rare Asset Reconstruction Limited
   16.50% 2028 Series V
 ---

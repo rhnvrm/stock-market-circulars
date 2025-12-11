@@ -26,12 +26,11 @@ source: bse
 stocks:
 - UHZAVE
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
 - equity
+- renunciation
+- rights-issue
+- t1-settlement
 - trading
-- T+1-settlement
 title: Rights Entitlements Trading for U. H. ZAVERI LIMITED
 ---
 

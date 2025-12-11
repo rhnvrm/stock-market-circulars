@@ -27,10 +27,10 @@ stocks:
 - JMFSL
 tags:
 - debt-securities
-- listing
-- private-placement
 - jm-financial
-- non-convertible-debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of JM Financial Services Limited
 ---
 

@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- investment-advisor
-- unregistered-activities
 - attachment
 - baap-of-chart
-- regulatory-violation
+- enforcement
+- investment-adviser
+- non-compliance
+- unregistered-activities
 title: Notice of Attachment against Mohammad Nasiruddin Ansari for Unregistered Investment
   Advisory Activities
 ---

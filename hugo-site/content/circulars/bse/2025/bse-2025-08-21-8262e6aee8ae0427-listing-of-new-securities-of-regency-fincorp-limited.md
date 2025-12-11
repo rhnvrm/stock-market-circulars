@@ -27,12 +27,12 @@ source: bse
 stocks:
 - REGENCY
 tags:
+- conversion
+- equity
 - listing
-- new-securities
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of REGENCY FINCORP LIMITED
 ---
 

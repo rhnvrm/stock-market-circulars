@@ -28,13 +28,13 @@ source: bse
 stocks:
 - VFSPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-change
+- interest-payment
+- ncd
+- redemption
 - vistaar-financial-services
-- reduced-face-value
 title: Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD
 ---
 

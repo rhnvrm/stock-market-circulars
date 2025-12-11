@@ -27,12 +27,11 @@ source: bse
 stocks:
 - FORTIS MALAR
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- fortis-malar
+- demat
 - obligation-dates
-- demat-delivery
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   FORTIS MALAR HOSPITALS LIMITED
 ---

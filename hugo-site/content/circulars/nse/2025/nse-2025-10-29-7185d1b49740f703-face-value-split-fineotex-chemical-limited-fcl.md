@@ -27,11 +27,10 @@ source: nse
 stocks:
 - FCL
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- FCL
-- equity-shares
+- equity
+- face-value-change
+- split
 title: Face Value Split - Fineotex Chemical Limited (FCL)
 ---
 

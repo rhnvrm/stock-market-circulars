@@ -28,13 +28,10 @@ source: bse
 stocks:
 - SHAMROCK
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
 - change-in-control
-- public-shareholders
-- shamrock-industrial
+- sast
+- shareholding-pattern
+- takeover
 title: Opening of Offer to Buy - Acquisition Window (Takeover) of Shamrock Industrial
   Company Limited
 ---

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- corporate-actions
+- corporate-action
+- debt-securities
+- interest-payment
+- ird-segment
 - ptc
 - redemption
-- interest-payment
-- debt-securities
-- ird-segment
 title: Part Redemption of PTCs of TULIP GROWTH 12 2023
 ---
 

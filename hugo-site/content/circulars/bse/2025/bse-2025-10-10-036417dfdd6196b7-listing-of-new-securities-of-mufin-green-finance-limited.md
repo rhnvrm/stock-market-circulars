@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MUFINGREEN
 tags:
+- conversion
+- equity
 - listing
-- new-securities
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of MUFIN GREEN FINANCE LIMITED
 ---
 

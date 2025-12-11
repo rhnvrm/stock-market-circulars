@@ -27,9 +27,9 @@ stocks:
 - SHREEREF
 tags:
 - group-change
-- trading-segment
+- rolling-segment
 - sme
-- rolling-settlement
+- trading
 title: Change in Group of Equity Shares of SHREE REFRIGERATIONS LIMITED
 ---
 

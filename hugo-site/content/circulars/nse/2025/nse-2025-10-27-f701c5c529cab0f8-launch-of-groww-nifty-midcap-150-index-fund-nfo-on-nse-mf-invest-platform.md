@@ -26,14 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- new-fund-offer
+- equity
 - groww-mutual-fund
 - index-fund
+- mutual-fund
+- nfo
 - nifty-midcap-150
-- equity
-- nse-mf-invest
+- trading-platform
 title: Launch of Groww Nifty Midcap 150 Index Fund NFO on NSE MF Invest Platform
 ---
 

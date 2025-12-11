@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MUTHOOT MICROFIN
+- MUTHOOTMF
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
-- debt-segment
-- corporate-actions
 - muthoot-microfin
+- ncd
+- redemption
 title: Part Redemption of Debentures of MUTHOOT MICROFIN LIMITED
 ---
 

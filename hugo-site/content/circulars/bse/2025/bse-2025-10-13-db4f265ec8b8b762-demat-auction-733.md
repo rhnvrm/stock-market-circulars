@@ -26,22 +26,22 @@ severity: medium
 source: bse
 stocks:
 - ADBIRT
-- ADITYAISPAT
+- ADITYA
 - AKARAUTO
 - ASPIRAPATHLAB
 - ATISHAYLIM
 - ATLANTAELEC
 - BAJAJSTEEL
-- BLACKBOX
+- BBOX
 - BORORENEW
 - BRIGHTCOM
 - CANTABIL
-- CAPITALTRUST
+- CAPTRUST
 - CARGOTRANS
 - DATAMATICS
 - DEVINFOTECH
 - ERAAYA
-- GNAAXLES
+- GNA
 - GALAGLOBAL
 - GARUDA
 - GTLINFRA
@@ -105,10 +105,10 @@ stocks:
 - YATRA
 - YESBANK
 tags:
-- demat-auction
+- demat
+- early-pay-in
 - settlement
 - trading
-- delivery-shortfall
 title: Demat Auction Settlement No. 733 - List of Securities for Auction
 ---
 

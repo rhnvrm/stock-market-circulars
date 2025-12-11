@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl-india-limited
 - investor-grievance
-- supreme-court
 - lodha-committee
+- pacl-india-limited
+- rti
+- supreme-court
 title: Appeal No. 6477 filed by Devendra Kataria - RTI Appeal regarding PACL India
   Limited policy dismissed
 ---

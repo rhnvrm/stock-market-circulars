@@ -31,11 +31,11 @@ stocks:
 - CEATLTD
 - MOTHERSON
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- fixed-income
 - listing
 - private-placement
-- fixed-income
 title: Listing of Privately Placed Securities on Debt Market Segment - November 18,
   2025
 ---

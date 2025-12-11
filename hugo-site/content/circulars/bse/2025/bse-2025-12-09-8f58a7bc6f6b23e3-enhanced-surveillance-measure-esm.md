@@ -28,13 +28,13 @@ source: bse
 stocks:
 - KIRANSYN
 - EUROTEXIND
-- PHAARMASIA
+- PHRMASI
 - PRIMAIND
 - SYSTEMATIX
 - AAATECH
 - AAREY
 - ABMKNOWL
-- ABRAMFOOD
+- ABRFL
 - ADCINDIA
 - ADCONCAP
 - ADINATHTEX
@@ -42,29 +42,27 @@ stocks:
 - AMBITIOUS
 - AMEENJIRUBB
 - AMITSEC
-- ANANDRAYONS
+- ARL
 - ANIRITVNT
 - ANLONHEALTH
-- APISINDIA
+- APIS
 - APLAB
-- APTUSPHARMA
+- APPL
 - ARFIN
 - ARIGATOUNIV
 - ARISINTNL
 - ARTIFICIAL
-- ARUNISABODE
+- ARUNIS
 - ARUNJYOTIBIO
 - ASARFIHSP
 - ASHNISHAIN
 - ATLANTAA
 - AUTORIDERS
 tags:
-- enhanced-surveillance-measure
-- esm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
-- stage-movement
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Across Stages
 ---
 

@@ -80,11 +80,10 @@ stocks:
 - IPOWER
 - IYKOT
 tags:
-- gsm
-- surveillance
-- stage-revision
+- asm-stage
+- market-operations
 - risk-management
-- market-monitoring
+- surveillance
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---
 

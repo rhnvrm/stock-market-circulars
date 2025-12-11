@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- name-change
-- membership
 - administrative
+- membership
+- name-change
+- trading-member
 title: 'Change in Name of Trading Member: ALPIC SECURITIES LTD. to ALLANZERS SECURITIES
   LIMITED'
 ---

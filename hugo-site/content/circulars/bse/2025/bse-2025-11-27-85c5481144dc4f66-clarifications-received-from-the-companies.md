@@ -29,12 +29,11 @@ stocks:
 - ERAAYA
 - IGARASHI
 tags:
-- price-movement
-- volume-spurt
-- surveillance
-- regulation-30
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -27,13 +27,13 @@ source: bse
 stocks:
 - PAHAL
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
 - corporate-action
-- reduced-face-value
+- debt-securities
+- face-value-change
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of PAHAL FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

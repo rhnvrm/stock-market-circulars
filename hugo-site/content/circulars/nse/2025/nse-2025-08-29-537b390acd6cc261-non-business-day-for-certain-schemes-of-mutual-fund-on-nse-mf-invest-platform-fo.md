@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- mf-invest-platform
 - axis-mutual-fund
 - bandhan-mutual-fund
 - dsp-mutual-fund
-- fund-of-fund
+- fund-of-funds
+- holiday
+- mf-invest-platform
+- mutual-fund
 - september-2025
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for September 2025

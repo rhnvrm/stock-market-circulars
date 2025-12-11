@@ -34,10 +34,10 @@ stocks:
 - RAGHUNATH
 - VASHU
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- trading-measures
-- market-regulation
+- trading-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- consumption-fund
+- lic-mutual-fund
 - mutual-fund
 - nfo
 - sip
-- lic-mutual-fund
-- consumption-fund
-- bse-star-mf
 title: Launch of NFO with SIP facility of LIC Mutual Fund on BSE StAR MF Platform
 ---
 

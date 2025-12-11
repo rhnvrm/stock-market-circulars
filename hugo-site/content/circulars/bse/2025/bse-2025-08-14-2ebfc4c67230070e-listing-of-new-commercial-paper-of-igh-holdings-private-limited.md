@@ -26,9 +26,9 @@ stocks:
 - IHPL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - igh-holdings
+- private-placement
 title: Listing of New Commercial Paper of IGH Holdings Private Limited
 ---
 

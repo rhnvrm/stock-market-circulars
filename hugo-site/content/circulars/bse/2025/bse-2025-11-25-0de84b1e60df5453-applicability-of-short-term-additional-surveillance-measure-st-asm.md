@@ -28,7 +28,7 @@ source: bse
 stocks:
 - JETFREIGHT
 - MAYURLEATHER
-- MISHDESIGNS
+- MISHDESIGN
 - OLATECH
 - ANANDRATHI
 - GBLOGISTICS
@@ -37,11 +37,10 @@ stocks:
 - SHREEHARI
 - SOUTHERNMAG
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

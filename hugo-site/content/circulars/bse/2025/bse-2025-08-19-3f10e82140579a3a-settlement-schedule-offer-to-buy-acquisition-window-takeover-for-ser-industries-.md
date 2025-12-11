@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SER
 tags:
-- takeover
-- acquisition
-- settlement
 - early-pay-in
 - ser-industries
+- settlement
+- takeover
 title: Settlement Schedule for SER Industries Limited Takeover Offer - August 2025
 ---
 

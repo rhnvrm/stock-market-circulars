@@ -28,12 +28,12 @@ source: nse
 stocks: []
 tags:
 - annual-return
-- compliance
 - clearing-members
-- deadline-extension
+- compliance
+- extension
+- financial-statements
 - mca
 - net-worth
-- financial-statements
 - roc-filing
 title: Extension for Submission of Annual Return for the Financial Year 2024-25
 ---

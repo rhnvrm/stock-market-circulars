@@ -27,11 +27,8 @@ stocks:
 - LAWSIKHO
 - ADDICTIVE
 tags:
-- symbol-change
 - listing
-- addictive-learning-technology
-- lawsikho
-- addictive
+- name-change
 title: Change in Symbol of Addictive Learning Technology Limited from LAWSIKHO to
   ADDICTIVE
 ---

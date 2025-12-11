@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '543267'
+- DAVANGERE
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
+- corporate-action
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - Davangere Sugar Company Limited
 ---
 

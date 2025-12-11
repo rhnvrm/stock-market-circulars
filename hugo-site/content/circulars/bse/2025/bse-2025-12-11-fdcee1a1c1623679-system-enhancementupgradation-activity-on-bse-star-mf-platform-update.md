@@ -28,10 +28,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- system-maintenance
+- revised-schedule
+- system-update
 - trading-platform
-- bse-star-mf
-- schedule-change
 title: System Enhancement/Upgradation Activity on BSE StAR MF Platform – Update
 ---
 

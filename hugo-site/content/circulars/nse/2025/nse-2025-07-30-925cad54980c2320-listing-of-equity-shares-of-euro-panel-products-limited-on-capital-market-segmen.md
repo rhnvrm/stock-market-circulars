@@ -26,11 +26,11 @@ source: nse
 stocks:
 - EUROBOND
 tags:
+- equity
 - listing
+- main-board
 - migration
 - sme
-- main-board
-- equity-shares
 title: Euro Panel Products Limited Migration from SME to Main Board Listing
 ---
 

@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- futures-and-options
-- index
-- nifty50-usd
-- market-data
-- trading-terminals
-- neat-plus
+- futures-options
 - index-dissemination
+- index-fund
+- market-data
+- nifty50-usd
+- trading-platform
+- trading-terminals
 title: Dissemination of Nifty50 USD Index in Futures and Options Segment
 ---
 

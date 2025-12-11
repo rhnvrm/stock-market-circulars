@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - credit-rating-agencies
 - license-suspension
 - regulatory-guidance
-- appellate-authority
+- rti
 title: RTI Appeal No. 6475 of 2025 - Credit Rating Agency Licensing Query Dismissed
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ECOHOTEL
 tags:
-- rights-issue
-- equity-shares
-- record-date
-- ex-rights
 - corporate-action
+- equity
+- record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of ECO HOTELS AND RESORTS LTD - Record Date Fixed
 ---
 

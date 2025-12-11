@@ -27,11 +27,10 @@ stocks:
 - GAYATRISUG
 - ODYSSEY
 tags:
-- price-band
-- trading-parameters
-- surveillance-measures
-- gayatri-sugars
+- asm-stage
 - odyssey-corporation
+- price-band
+- trading-operations
 title: Changes in Price Band for Gayatri Sugars Ltd and Odyssey Corporation Ltd
 ---
 

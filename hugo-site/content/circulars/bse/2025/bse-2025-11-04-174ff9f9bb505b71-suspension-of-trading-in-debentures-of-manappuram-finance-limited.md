@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MANAPPURAM
 tags:
-- trading-suspension
-- debentures
-- redemption
-- non-convertible-debentures
+- debt-securities
+- ncd
 - record-date
-- debt-segment
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MANAPPURAM FINANCE LIMITED
 ---
 

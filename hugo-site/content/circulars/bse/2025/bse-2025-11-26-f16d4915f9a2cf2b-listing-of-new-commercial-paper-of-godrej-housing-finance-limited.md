@@ -27,9 +27,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - godrej-housing-finance
+- private-placement
 - short-term-debt
 title: Listing of New Commercial Paper of Godrej Housing Finance Limited
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TIMETECHNO
 tags:
+- allotment
+- equity
 - listing
 - qip
-- equity-shares
-- qualified-institutional-placement
-- allotment
 title: Listing of New Securities of Time Technoplast Ltd.
 ---
 

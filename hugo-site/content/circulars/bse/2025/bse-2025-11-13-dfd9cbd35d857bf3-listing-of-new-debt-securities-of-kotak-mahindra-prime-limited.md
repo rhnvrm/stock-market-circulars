@@ -29,11 +29,10 @@ stocks:
 - KOTAKPRIME
 tags:
 - debt-securities
-- listing
 - kotak-mahindra-prime
+- listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- debt-market
 title: Listing of New Debt Securities of Kotak Mahindra Prime Limited
 ---
 

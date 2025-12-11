@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BHARATROHAN
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- bharatrohan-airborne-innovations
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document for BharatRohan Airborne Innovations Limited
 ---
 

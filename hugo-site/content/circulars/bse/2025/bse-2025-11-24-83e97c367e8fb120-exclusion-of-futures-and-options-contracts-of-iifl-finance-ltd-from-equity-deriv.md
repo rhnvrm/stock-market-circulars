@@ -28,13 +28,12 @@ source: bse
 stocks:
 - IIFL
 tags:
-- derivatives
-- futures-and-options
-- equity-derivatives
 - contract-exclusion
-- iifl-finance
+- derivatives
 - eligibility-criteria
-- sebi-circular
+- futures-options
+- iifl-finance
+- sebi
 title: Exclusion of Futures and Options contracts of IIFL Finance Ltd from Equity
   Derivatives Segment
 ---

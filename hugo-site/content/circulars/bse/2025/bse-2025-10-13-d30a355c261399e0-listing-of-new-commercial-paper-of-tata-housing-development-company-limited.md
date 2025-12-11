@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- listing
 - private-placement
 - tata-housing
-- new-listing
 title: Listing of New Commercial Paper of Tata Housing Development Company Limited
 ---
 

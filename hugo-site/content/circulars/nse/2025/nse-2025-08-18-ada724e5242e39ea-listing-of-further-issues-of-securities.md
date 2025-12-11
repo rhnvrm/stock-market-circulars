@@ -27,12 +27,12 @@ stocks:
 - MAGSON
 - WOMANCART
 tags:
+- conversion
+- emerge-platform
+- equity
 - listing
+- preferential-issue
 - sme
-- emerge
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 title: Listing of Further Issues of Securities - DUDIGITAL GLOBAL, Magson Retail,
   and Womancart Limited
 ---

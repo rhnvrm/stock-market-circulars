@@ -28,13 +28,12 @@ source: bse
 stocks:
 - DKGFS
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-segment
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DVARA KSHETRIYA GRAMIN FINANCIAL SERVICES
   PRIVATE LIMITED
 ---

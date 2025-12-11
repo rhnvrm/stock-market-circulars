@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DEEPDIA
 tags:
-- listing
-- rights-issue
-- equity-shares
-- new-securities
 - deep-diamond-india
+- equity
+- listing
+- new-securities
+- rights-issue
 title: Listing of New Securities of Deep Diamond India Limited
 ---
 

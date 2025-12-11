@@ -27,12 +27,11 @@ source: bse
 stocks:
 - GAMECHA
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- sme-ipo
-- mt-group
-- m-group
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

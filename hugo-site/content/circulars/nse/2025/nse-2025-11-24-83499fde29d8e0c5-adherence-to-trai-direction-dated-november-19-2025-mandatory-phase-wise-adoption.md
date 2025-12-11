@@ -26,15 +26,14 @@ severity: high
 source: nse
 stocks: []
 tags:
+- 1600-series
 - compliance
+- fraud-prevention
+- intermediary
+- sebi
+- stock-broker
 - telecom
 - trai
-- intermediaries
-- stockbrokers
-- fraud-prevention
-- 1600-series
-- sebi
-- regulatory-compliance
 title: Adherence to TRAI Direction dated November 19, 2025- Mandatory Phase-wise Adoption
   of 1600-Series Numbers
 ---

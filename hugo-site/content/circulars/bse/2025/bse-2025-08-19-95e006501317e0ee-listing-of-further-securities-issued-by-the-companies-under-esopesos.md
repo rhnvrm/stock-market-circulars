@@ -36,10 +36,8 @@ stocks:
 - VBL
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 10 Companies
 ---
 

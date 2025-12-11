@@ -43,11 +43,11 @@ stocks:
 - SKFIN
 - TRUCAP
 tags:
-- delisting
+- corporate-action
 - debt-securities
+- delisting
 - maturity
 - redemption
-- corporate-actions
 title: Delisting of 22 Debt Securities Due to Maturity and Redemption
 ---
 

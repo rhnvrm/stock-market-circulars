@@ -26,10 +26,9 @@ source: nse
 stocks:
 - EFCIL
 tags:
-- new-listing
-- equity-shares
+- equity
+- listing
 - trading
-- efcil
 title: Listing of Equity Shares of EFC (I) Limited (New Listing)
 ---
 

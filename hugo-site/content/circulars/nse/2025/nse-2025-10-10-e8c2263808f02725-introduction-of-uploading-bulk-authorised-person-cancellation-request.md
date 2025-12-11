@@ -26,11 +26,11 @@ source: nse
 stocks: []
 tags:
 - authorised-person
-- compliance
-- enit-portal
 - bulk-upload
-- registration-cancellation
+- compliance
 - ease-of-doing-business
+- enit-portal
+- registration-cancellation
 title: Introduction of Bulk Authorised Person Cancellation Request Facility
 ---
 

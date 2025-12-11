@@ -29,10 +29,9 @@ stocks:
 tags:
 - etf
 - listing
+- mirae-asset
 - mutual-fund
 - nifty-smallcap-250
-- mirae-asset
-- new-listing
 title: Listing of Units Of Mirae Asset Nifty Smallcap 250 ETF a scheme under Mirae
   Asset Mutual Fund
 ---

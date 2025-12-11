@@ -28,13 +28,12 @@ source: bse
 stocks:
 - JMFIN
 tags:
-- trading-suspension
-- debentures
+- corporate-action
+- interest-payment
+- jm-financial
 - ncd
 - redemption
-- interest-payment
-- corporate-action
-- jm-financial
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Products Limited
 ---
 

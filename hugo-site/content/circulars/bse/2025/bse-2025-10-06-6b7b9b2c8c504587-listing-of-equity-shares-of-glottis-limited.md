@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GLOTTIS
 tags:
-- listing
-- equity-shares
-- new-listing
-- glottis-limited
 - company-related
+- equity
+- glottis-limited
+- listing
 title: Listing of Equity Shares of Glottis Limited
 ---
 

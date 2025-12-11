@@ -26,10 +26,9 @@ source: bse
 stocks:
 - NOVUSLOYALTY
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
-- novus-loyalty
+- sme
 title: SME IPO - Draft Offer Document of NOVUS LOYALTY LIMITED
 ---
 

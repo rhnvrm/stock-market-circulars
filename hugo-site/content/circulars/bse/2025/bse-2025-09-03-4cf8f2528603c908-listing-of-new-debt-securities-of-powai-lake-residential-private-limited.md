@@ -26,8 +26,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- private-placement
 - powai-lake-residential
+- private-placement
 title: Listing of new debt securities of Powai Lake Residential Private Limited
 ---
 

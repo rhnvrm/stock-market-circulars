@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - compliance
-- research-analysts
-- disabilities-act
+- digital-accessibility
 - mandatory-submission
+- research-analyst
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance by Research
   Analysts
 ---

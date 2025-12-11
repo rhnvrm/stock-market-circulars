@@ -50,13 +50,12 @@ stocks:
 - BANCOINDIA
 - SURYAROSNI
 tags:
-- slb
-- securities-lending-borrowing
+- book-closure
+- collateral
+- corporate-action
 - dividend
 - rights-issue
-- shut-period
-- corporate-action
-- book-closure
+- slb
 title: Corporate Action in SLB Securities - November 2025
 ---
 

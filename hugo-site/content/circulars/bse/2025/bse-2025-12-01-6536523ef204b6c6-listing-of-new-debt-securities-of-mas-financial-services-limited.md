@@ -27,10 +27,10 @@ stocks:
 - MASFIN
 tags:
 - debt-securities
-- new-listing
+- listing
+- mas-financial
+- ncd
 - private-placement
-- MAS-Financial
-- non-convertible-debentures
 title: Listing of New Debt Securities of MAS Financial Services Limited
 ---
 

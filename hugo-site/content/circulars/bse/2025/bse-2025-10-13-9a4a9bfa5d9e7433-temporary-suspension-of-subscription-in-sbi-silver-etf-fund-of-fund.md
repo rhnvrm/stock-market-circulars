@@ -27,11 +27,11 @@ stocks:
 - SBISILVERETF
 tags:
 - etf
-- fund-of-fund
-- subscription-suspension
+- fund-of-funds
+- mutual-fund
 - sbi
 - silver
-- mutual-fund
+- suspension
 title: Temporary Suspension of Subscription in SBI Silver ETF Fund of Fund
 ---
 

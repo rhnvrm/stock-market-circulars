@@ -25,11 +25,11 @@ source: bse
 stocks:
 - JKCEMENT
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt-instruments
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of J.K. CEMENT LTD
 ---
 

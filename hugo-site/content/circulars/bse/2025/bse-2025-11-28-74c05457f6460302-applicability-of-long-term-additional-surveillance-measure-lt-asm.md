@@ -34,7 +34,7 @@ stocks:
 - FLEXITUFF
 - ARIHANT
 - IRONWOOD
-- PRIYA
+- PRIYALT
 - ADITYA
 - AHASOLAR
 - BIL
@@ -48,11 +48,10 @@ stocks:
 - SIKA
 - ZUARI
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-monitoring
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

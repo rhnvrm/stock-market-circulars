@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- vishal-papertech
-- non-convertible-debentures
 title: Listing of New Debt Securities of Vishal Papertech (India) Ltd.
 ---
 

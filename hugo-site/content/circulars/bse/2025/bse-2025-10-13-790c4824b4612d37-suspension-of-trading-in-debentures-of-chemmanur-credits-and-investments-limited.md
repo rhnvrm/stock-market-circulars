@@ -27,13 +27,12 @@ source: bse
 stocks:
 - CHEMMANUR
 tags:
-- suspension
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- debt-segment
-- corporate-action
+- suspension
 title: Suspension of Trading in Debentures of CHEMMANUR CREDITS AND INVESTMENTS LIMITED
 ---
 

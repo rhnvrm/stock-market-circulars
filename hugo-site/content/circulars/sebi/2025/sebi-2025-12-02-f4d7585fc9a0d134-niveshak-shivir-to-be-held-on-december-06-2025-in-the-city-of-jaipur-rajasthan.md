@@ -27,15 +27,15 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-education
-- niveshak-shivir
-- unpaid-dividends
-- kyc
-- nomination
-- iepfa
-- shareholder-services
-- jaipur
 - event
+- iepfa
+- investor-education
+- jaipur
+- kyc
+- niveshak-shivir
+- nomination
+- shareholder-services
+- unpaid-dividends
 title: Niveshak Shivir to be held on December 06, 2025 in Jaipur, Rajasthan
 ---
 

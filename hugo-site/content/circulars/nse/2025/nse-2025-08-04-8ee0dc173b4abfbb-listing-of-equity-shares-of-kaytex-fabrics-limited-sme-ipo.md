@@ -26,11 +26,11 @@ source: nse
 stocks:
 - KAYTEX
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- trade-for-trade
+- listing
+- sme
 - surveillance
+- trade-for-trade
 title: Listing of Equity Shares of Kaytex Fabrics Limited (SME IPO)
 ---
 

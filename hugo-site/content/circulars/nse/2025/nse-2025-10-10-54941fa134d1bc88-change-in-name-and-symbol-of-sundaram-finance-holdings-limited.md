@@ -28,11 +28,8 @@ stocks:
 - SUNDARMHLD
 - TSFINV
 tags:
-- name-change
-- symbol-change
 - corporate-action
-- SUNDARMHLD
-- TSFINV
+- name-change
 title: Change in name and symbol of Sundaram Finance Holdings Limited
 ---
 

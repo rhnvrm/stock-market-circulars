@@ -26,11 +26,10 @@ source: bse
 stocks:
 - AXISFINANCE
 tags:
+- bond
 - debt-securities
 - listing
-- axis-finance
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of Axis Finance Limited
 ---
 

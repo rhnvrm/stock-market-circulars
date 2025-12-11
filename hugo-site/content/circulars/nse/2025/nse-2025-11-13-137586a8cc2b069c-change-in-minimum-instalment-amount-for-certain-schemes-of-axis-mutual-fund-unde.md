@@ -27,13 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - axis-mutual-fund
-- sip
-- investment-limits
 - debt-schemes
-- systematic-investment-plan
+- investment-limits
 - minimum-application-amount
+- mutual-fund
+- sip
 title: Change in Minimum Instalment Amount for Axis Mutual Fund Schemes under SIP
   on NSE MF Invest Platform
 ---

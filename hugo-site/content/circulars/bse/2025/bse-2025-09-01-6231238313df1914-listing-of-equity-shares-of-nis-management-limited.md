@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- NISMANAGEMENT
+- NISMGMT
 tags:
-- shareholding-pattern
+- disclosure
 - ipo
 - listing
-- disclosure
 - regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of NIS Management Limited - Shareholding Pattern
 ---
 

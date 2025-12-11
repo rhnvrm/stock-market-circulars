@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-order
+- bse
+- completion-order
 - enforcement
 - illiquid-stocks
+- recovery
 - stock-options
-- bse
-- trading-violations
-- completion-order
+- trading-operations
 title: SEBI Completion Order for Recovery Certificate No. 8747/2025 - Bhavika Parimal
   Shah - Illiquid Stock Options Trading at BSE
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HIGHWAY
 tags:
-- trading-segment-change
-- group-transfer
+- asm-stage
+- group-change
 - rolling-segment
 - trade-for-trade
-- b-group
+- trading-segment-change
 title: Change in Group of Equity Shares of Highway Infrastructure Limited
 ---
 

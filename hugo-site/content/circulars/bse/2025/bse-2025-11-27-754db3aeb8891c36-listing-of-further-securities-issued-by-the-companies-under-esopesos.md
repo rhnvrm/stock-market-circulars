@@ -39,12 +39,9 @@ stocks:
 - TTKPRESTIG
 - WONDERLA
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
-- new-listing
 title: Listing of Further Securities Issued Under ESOP/ESOS by 12 Companies
 ---
 

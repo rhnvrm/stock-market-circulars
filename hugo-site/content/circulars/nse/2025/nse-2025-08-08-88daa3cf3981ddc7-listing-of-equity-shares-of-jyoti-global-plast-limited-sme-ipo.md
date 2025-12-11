@@ -26,11 +26,11 @@ source: nse
 stocks:
 - JYOTIGLOBL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
+- equity
 - jyoti-global-plast
+- listing
+- sme
 title: Listing of Equity Shares of Jyoti Global Plast Limited (SME IPO)
 ---
 

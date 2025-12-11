@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - attachment
-- defaulter
 - bank-accounts
-- demat-accounts
 - bse
+- defaulter
+- demat
+- enforcement
 - iso
+- recovery
 title: 'Notice of Attachment of Bank Accounts and Demat Accounts against Abhinesh
   Kumar (PAN: AGWPK6944M) - Recovery Certificate No. 8884 of 2025'
 ---

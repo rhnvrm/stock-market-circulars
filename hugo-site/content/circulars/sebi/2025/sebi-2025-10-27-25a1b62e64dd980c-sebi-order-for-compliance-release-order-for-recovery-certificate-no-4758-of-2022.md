@@ -26,12 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- compliance
 - brijlaxmi-leasing
-- recovery-proceedings
-- release-order
+- compliance
+- enforcement
+- recovery
+- release
 title: SEBI Release Order - Recovery Certificate No. 4758/2022 Against Mr. Ankur J.
   Chaturvedi in Brijlaxmi Leasing and Finance Limited Matter
 ---

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - AARVEE
 tags:
-- name-change
-- certificate-of-incorporation
+- certificate
 - corporate-action
-- AARVEE
+- name-change
 title: Change in Name of AARVEE DENIMS AND EXPORTS LTD to VARVEE GLOBAL LIMITED
 ---
 

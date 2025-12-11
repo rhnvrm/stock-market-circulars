@@ -26,11 +26,11 @@ source: nse
 stocks:
 - MOS
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- settlement
 - depository
+- early-pay-in
+- face-value-change
+- settlement
 title: Early Pay-in of Securities for Mos Utility Limited (MOS) - Face Value Split
 ---
 

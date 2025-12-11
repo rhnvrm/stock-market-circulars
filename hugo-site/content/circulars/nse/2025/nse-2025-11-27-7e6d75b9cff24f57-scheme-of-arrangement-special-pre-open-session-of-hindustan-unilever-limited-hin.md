@@ -26,14 +26,12 @@ source: nse
 stocks:
 - HINDUNILVR
 tags:
-- special-pre-open-session
-- scheme-of-arrangement
-- hindunilvr
+- block-deals
+- call-money
 - capital-market
 - price-discovery
-- block-deals
-- trading-mechanism
-- call-auction
+- scheme-of-arrangement
+- trading-operations
 title: 'Scheme of Arrangement: Special Pre-Open Session of Hindustan Unilever Limited
   (HINDUNILVR)'
 ---

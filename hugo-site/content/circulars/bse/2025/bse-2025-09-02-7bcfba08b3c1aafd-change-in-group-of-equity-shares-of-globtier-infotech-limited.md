@@ -25,12 +25,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544494'
+- GLOBTIER
 tags:
-- trading
-- segment-change
+- segment-transfer
 - sme
-- globtier-infotech
+- trading
 title: Change in Group of Equity Shares of Globtier Infotech Limited
 ---
 

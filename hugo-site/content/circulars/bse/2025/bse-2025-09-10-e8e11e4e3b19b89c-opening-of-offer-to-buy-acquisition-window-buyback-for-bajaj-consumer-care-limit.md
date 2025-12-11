@@ -27,10 +27,10 @@ stocks:
 - BAJAJCONS
 tags:
 - buyback
-- tender-offer
-- equity-shares
+- equity
 - proportionate-basis
 - record-date
+- tender-offer
 title: Opening of Offer to Buy – Acquisition Window (Buyback) For Bajaj Consumer Care
   Limited
 ---

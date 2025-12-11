@@ -25,10 +25,9 @@ source: nse
 stocks:
 - FISCHER
 tags:
-- isin-change
-- sub-division
-- share-split
 - corporate-action
+- isin
+- split
 title: Change in ISIN - Fischer Medical Ventures Limited due to Sub-Division
 ---
 

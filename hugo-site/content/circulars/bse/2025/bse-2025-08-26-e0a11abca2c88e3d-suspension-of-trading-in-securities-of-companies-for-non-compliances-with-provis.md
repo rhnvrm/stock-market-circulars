@@ -28,11 +28,11 @@ stocks:
 - PRESSURESYS
 - SUUMAYA
 tags:
-- trading-suspension
-- sebi-lodr
-- regulation-33
-- quarterly-results
 - compliance
+- financial-results
+- lodr
+- regulation-33
+- suspension
 title: Suspension of Trading for Non-Compliance with SEBI LODR Regulations
 ---
 

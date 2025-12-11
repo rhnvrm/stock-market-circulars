@@ -28,15 +28,14 @@ source: sebi
 stocks:
 - ANGELONE
 tags:
-- adjudication-order
-- stock-broker
+- adjudication
 - authorized-person
-- trading-terminals
-- compliance-violation
-- NSE
-- angel-one-limited
+- investigation
+- non-compliance
+- nse
 - penalty
-- inspection
+- stock-broker
+- trading-terminals
 title: Adjudication Order in the matter of Angel One Limited
 ---
 

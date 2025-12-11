@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
-- ipo
+- dismissed
 - enam-securities
 - information-request
-- dismissed
+- ipo
+- rti
 title: Appeal No. 6493 of 2025 filed by Gregory Michael Roche
 ---
 

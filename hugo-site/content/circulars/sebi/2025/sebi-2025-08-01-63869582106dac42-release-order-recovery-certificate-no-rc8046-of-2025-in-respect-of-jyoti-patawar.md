@@ -24,11 +24,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
-- release-order
 - individual-action
+- recovery
+- release
 title: 'Release Order - Recovery Certificate No. RC8046 of 2025 in respect of Jyoti
   Patawari (PAN: BEJPP7178E) in the matter of Illiquid Stock Options'
 ---

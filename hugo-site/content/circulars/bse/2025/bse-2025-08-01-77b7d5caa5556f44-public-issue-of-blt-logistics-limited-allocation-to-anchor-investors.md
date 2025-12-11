@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BLTLOG
 tags:
+- allotment
+- anchor-investor
+- blt-logistics
 - ipo
 - public-issue
-- anchor-investors
-- allocation
-- blt-logistics
 title: Public Issue of BLT Logistics Limited - Allocation to Anchor Investors
 ---
 

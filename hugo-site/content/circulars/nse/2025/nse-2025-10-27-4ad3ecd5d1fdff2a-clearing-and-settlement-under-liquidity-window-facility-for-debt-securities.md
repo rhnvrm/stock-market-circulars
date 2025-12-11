@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- debt-segment
-- liquidity-window-facility
-- clearing-settlement
-- put-option
-- sebi-circular
-- operational-guidelines
+- clearing
+- debt-securities
+- depository
 - early-pay-in
-- depository-system
+- liquidity-window-facility
+- operational-guidelines
+- put-option
+- sebi
 title: Clearing and Settlement under Liquidity Window Facility for Debt Securities
 ---
 

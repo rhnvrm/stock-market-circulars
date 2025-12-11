@@ -27,11 +27,10 @@ stocks:
 - L&TFH
 - SAMMAAN
 tags:
-- suspension
+- debt-securities
 - ncd
-- non-convertible-debentures
 - redemption
-- debt-market
+- suspension
 title: Suspension of trading in Non-Convertible Debentures of LIC Housing Finance,
   L&T Finance, and Sammaan Capital
 ---

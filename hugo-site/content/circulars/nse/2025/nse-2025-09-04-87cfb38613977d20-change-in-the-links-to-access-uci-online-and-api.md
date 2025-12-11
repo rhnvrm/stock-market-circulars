@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- uci-online
 - api-changes
-- member-portal
-- system-migration
 - client-codes
+- maintenance
+- member-portal
+- uci-online
 title: Change in the links to access UCI Online and API
 ---
 

@@ -27,10 +27,8 @@ stocks:
 - SWANENERGY
 - SWANCORP
 tags:
-- symbol-change
-- securities-lending
-- borrowing-scheme
-- swan-energy
+- collateral
+- name-change
 title: Change in symbol of Swan Energy Limited
 ---
 

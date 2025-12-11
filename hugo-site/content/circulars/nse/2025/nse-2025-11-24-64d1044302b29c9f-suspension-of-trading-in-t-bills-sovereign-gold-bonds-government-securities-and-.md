@@ -26,14 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- suspension
-- redemption
-- t-bills
-- sovereign-gold-bonds
-- government-securities
-- state-government-bonds
 - debt-securities
-- trading-suspension
+- gold
+- gsec
+- redemption
+- state-government-bonds
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-Bills, Sovereign Gold Bonds, Government Securities
   and State Government Bonds - December 2025 Redemptions
 ---

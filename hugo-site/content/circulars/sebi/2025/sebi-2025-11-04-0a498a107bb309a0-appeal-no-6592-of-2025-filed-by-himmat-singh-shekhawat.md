@@ -27,12 +27,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- investor-protection-fund
-- stock-broker
-- raghukul-shares-india
+- appeal
+- investor-protection
 - public-authority
-- appeal-dismissed
+- raghukul-shares-india
+- rti
+- stock-broker
 title: Appeal No. 6592 of 2025 filed by Himmat Singh Shekhawat - RTI Appeal Dismissed
 ---
 

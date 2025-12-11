@@ -27,14 +27,14 @@ source: bse
 stocks:
 - PRIMEFOCO
 tags:
-- clarification
-- preferential-issue
-- strategic-acquisition
 - cash-plus-share-swap
-- hybrid-preferential-issue
-- regulation-30
+- clarification
 - disclosure
+- hybrid-preferential-issue
+- preferential-issue
 - prime-focus
+- regulation-30
+- strategic-acquisition
 title: Prime Focus Limited Clarification on Strategic Acquisition Preferential Issue
   News
 ---

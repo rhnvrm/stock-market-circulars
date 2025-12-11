@@ -26,11 +26,8 @@ source: bse
 stocks:
 - ALCHEMIST
 tags:
+- sast
 - takeover
-- open-offer
-- acquisition
-- substantial-acquisition
-- alchemist-corporation
 - wallet-circle-technologies
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Alchemist Corporation
   Limited

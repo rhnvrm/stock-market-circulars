@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sip
 - edelweiss
+- equity
+- mutual-fund
 - offshore-funds
+- sip
 - star-mf
-- equity-funds
 title: Introduction of Daily SIP Schemes for Edelweiss Mutual Fund on BSE StAR MF
   Platform
 ---

@@ -25,12 +25,11 @@ source: bse
 stocks:
 - POWERGRID
 tags:
-- trading-suspension
-- bonds
+- bond
 - debt-securities
-- power-grid
-- redemption
 - interest-payment
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of POWER GRID CORPORATION OF INDIA LIMITED
 ---
 

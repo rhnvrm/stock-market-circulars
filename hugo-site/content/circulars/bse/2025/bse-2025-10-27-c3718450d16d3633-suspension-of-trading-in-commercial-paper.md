@@ -40,10 +40,10 @@ stocks:
 - MLDL
 tags:
 - commercial-paper
+- corporate-action
+- debt-securities
 - redemption
-- trading-suspension
-- debt
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Companies
 ---
 

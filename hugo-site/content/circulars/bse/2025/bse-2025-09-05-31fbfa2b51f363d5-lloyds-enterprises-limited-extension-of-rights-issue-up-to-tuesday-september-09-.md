@@ -26,11 +26,10 @@ source: bse
 stocks:
 - LLOYDSENT
 tags:
-- rights-issue
-- extension
 - deadline
+- extension
 - holiday
-- lloydsent
+- rights-issue
 title: LLOYDS ENTERPRISES LIMITED - Extension of Rights Issue up to Tuesday, September
   09, 2025
 ---

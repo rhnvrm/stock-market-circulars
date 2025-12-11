@@ -29,10 +29,10 @@ stocks:
 - POWERGRID
 - IDFCFIRSTB
 tags:
-- trading-suspension
-- debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures of Hero FinCorp, L&T Finance,
   Power Grid Corporation, and IDFC First Bank
 ---

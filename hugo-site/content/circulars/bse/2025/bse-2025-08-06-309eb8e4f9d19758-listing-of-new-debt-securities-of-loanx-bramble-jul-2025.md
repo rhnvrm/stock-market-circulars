@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- private-placement
+- icra-rating
 - listing
 - loanx-bramble
-- icra-rating
+- private-placement
 title: Listing of new debt securities of LoanX Bramble Jul 2025
 ---
 

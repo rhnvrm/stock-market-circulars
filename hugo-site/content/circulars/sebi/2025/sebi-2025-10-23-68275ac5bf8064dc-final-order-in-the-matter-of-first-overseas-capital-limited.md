@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- capital-adequacy
+- enforcement
+- false-information
+- intermediary-regulation
 - merchant-banker
 - net-worth-violation
-- underwriting
 - public-deposits
-- false-information
-- enforcement-action
-- intermediary-regulation
-- capital-adequacy
+- underwriting
 title: Final Order in the matter of First Overseas Capital Limited
 ---
 

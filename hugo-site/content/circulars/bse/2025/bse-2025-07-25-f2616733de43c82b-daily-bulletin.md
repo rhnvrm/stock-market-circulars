@@ -31,19 +31,15 @@ stocks:
 - DMRHYD
 - DAIKARK
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- daily-bulletin
 - dividend
 - interest-payment
-- redemption
-- commercial-papers
-- non-convertible-debentures
 - invit
-- CHAMBAL
-- ECLX
-- ARKADE
-- BELRISE
+- ncd
+- record-date
+- redemption
 title: BSE Daily Bulletin - Book Closure and Record Dates for Dividends and Redemptions
 ---
 

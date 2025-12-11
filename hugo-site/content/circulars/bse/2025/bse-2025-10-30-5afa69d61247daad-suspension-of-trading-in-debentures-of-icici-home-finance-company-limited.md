@@ -27,14 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
-- debt-segment
+- debt-securities
 - icici-home-finance
-- non-convertible-debentures
+- interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

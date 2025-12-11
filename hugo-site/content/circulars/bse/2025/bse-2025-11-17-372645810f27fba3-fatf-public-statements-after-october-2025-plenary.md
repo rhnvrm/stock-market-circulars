@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- fatf
 - aml
-- compliance
-- trading-members
-- kyc
 - client-identification
-- sebi
+- compliance
 - due-diligence
-- befs
+- fatf
+- kyc
+- sebi
+- trading-member
+- trading-platform
 title: FATF Public Statements after October 2025 Plenary
 ---
 

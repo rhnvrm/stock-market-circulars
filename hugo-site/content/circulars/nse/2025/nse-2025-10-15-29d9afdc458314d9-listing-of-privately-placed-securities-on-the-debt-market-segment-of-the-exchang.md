@@ -28,12 +28,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- debt-market
 - commercial-paper
-- debentures
-- listing
-- private-placement
 - debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment - October 15,
   2025
 ---

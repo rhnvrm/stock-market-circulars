@@ -37,13 +37,11 @@ stocks:
 - ATALREAL
 - ATHERENERG
 tags:
-- surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- trading-restrictions
+- asm-stage
+- market-operations
 - stage-transitions
-- market-regulation
+- surveillance
+- trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - October 29, 2025
 ---
 

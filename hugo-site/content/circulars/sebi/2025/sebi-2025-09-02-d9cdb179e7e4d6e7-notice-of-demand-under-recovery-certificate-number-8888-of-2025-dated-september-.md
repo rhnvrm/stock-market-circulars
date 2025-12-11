@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- penalty
+- bse
 - enforcement
 - illiquid-options
-- bse
 - individual-action
+- penalty
+- recovery
 title: SEBI Recovery Notice to Mrinal Verma for Penalty in Illiquid Stock Options
   Trading at BSE
 ---

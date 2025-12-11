@@ -26,9 +26,9 @@ source: bse
 stocks:
 - MAGNITE
 tags:
+- corporate-action
 - debenture-redemption
-- corporate-actions
-- debt-segment
+- debt-securities
 - face-value-reduction
 - magnite-developers
 title: Part Redemption of Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED

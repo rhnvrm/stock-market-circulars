@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ARUNIS
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
 - arunis-abode
 - equity
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for ARUNIS ABODE LIMITED - September 2025
 ---
 

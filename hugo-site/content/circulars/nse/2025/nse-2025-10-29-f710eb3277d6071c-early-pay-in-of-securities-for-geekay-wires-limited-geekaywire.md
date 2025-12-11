@@ -28,13 +28,13 @@ source: nse
 stocks:
 - GEEKAYWIRE
 tags:
-- early-pay-in
-- face-value-split
-- sub-division
-- margin-exemption
 - capital-market
 - corporate-action
+- early-pay-in
+- face-value-change
+- margin-exemption
 - settlement
+- split
 title: Early Pay-in of Securities for Geekay Wires Limited (GEEKAYWIRE)
 ---
 

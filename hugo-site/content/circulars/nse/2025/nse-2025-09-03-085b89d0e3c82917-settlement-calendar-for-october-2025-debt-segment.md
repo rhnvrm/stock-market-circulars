@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- settlement-calendar
-- debt-segment
 - clearing
+- debt-securities
 - operations
+- settlement-calendar
 - t-plus-1
 title: Settlement Calendar for October 2025 - Debt Segment
 ---

@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- municipal-bonds
+- debt-securities
 - green-bonds
 - listing
-- debt-securities
+- municipal-bonds
+- ncd
 - surat-municipal-corporation
-- non-convertible-debentures
 title: Listing of Public Issue of Rated, Listed, Taxable, Secured, Redeemable, Non-Convertible
   Green Municipal Bonds of Surat Municipal Corporation
 ---

@@ -26,10 +26,10 @@ source: nse
 stocks:
 - TSC
 tags:
+- equity
 - listing
-- sme-ipo
-- equity-shares
 - shareholding-pattern
+- sme
 - tsc-india
 title: Listing of Equity Shares of TSC India Limited (SME IPO)
 ---

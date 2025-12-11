@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- suspension
-- debt-market
+- debt-securities
 - maturity
 - redemption
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 815GUJ2025
 ---
 

@@ -26,12 +26,12 @@ severity: high
 source: nse
 stocks: []
 tags:
+- compliance
+- fatf
 - money-laundering
 - proliferation-financing
-- sanctions
-- fatf
 - risk-assessment
-- compliance
+- sanctions
 - sebi
 title: Notification of PF, TF and Money Laundering risks to private sector entities
 ---

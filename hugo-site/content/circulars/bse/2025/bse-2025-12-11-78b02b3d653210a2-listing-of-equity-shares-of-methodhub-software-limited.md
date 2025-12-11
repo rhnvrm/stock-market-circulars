@@ -26,11 +26,9 @@ source: bse
 stocks:
 - METHODHUB
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- methodhub-software
 title: Listing of Equity Shares of METHODHUB SOFTWARE LIMITED
 ---
 

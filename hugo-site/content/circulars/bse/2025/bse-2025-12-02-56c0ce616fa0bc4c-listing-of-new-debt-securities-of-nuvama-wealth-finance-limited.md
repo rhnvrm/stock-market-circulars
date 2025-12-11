@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NUVAMA
 tags:
+- care-rating
 - debt-securities
 - listing
-- private-placement
-- nuvama-wealth-finance
 - ncd
-- care-rating
+- nuvama-wealth-finance
+- private-placement
 title: Listing of New Debt Securities of Nuvama Wealth Finance Limited
 ---
 

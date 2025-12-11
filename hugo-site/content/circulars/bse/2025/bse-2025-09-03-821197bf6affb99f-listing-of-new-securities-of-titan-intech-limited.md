@@ -26,11 +26,11 @@ source: bse
 stocks:
 - TITAN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-issue
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Titan Intech Limited
 ---
 

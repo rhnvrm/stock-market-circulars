@@ -33,12 +33,12 @@ stocks:
 - TEJASNET
 - WIPRO
 tags:
-- listing
-- further-issues
+- equity
 - esop
-- preferential-allotment
+- further-issue
+- listing
+- preferential-issue
 - rights-issue
-- equity-shares
 title: Listing of Further Issues of Eight Companies Including Acme Solar, Black Box,
   and Wipro
 ---

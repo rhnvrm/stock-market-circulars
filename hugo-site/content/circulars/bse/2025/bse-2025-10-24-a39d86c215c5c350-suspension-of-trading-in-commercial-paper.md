@@ -36,19 +36,19 @@ stocks:
 - IOCL
 - THDCL
 tags:
-- commercial-paper
-- debt
-- suspension
-- redemption
-- corporate-actions
 - axis-finance
-- standard-chartered-capital
 - bajaj-housing-finance
-- kec-international
-- nuvama-wealth
-- sbicap-securities
-- network-18
+- commercial-paper
+- corporate-action
+- debt-securities
 - indian-oil
+- kec-international
+- network-18
+- nuvama-wealth
+- redemption
+- sbicap-securities
+- standard-chartered-capital
+- suspension
 - tata-housing
 title: Suspension of Trading in Commercial Paper - 9 Securities
 ---

@@ -24,10 +24,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- system-maintenance
-- portal-downtime
 - crs-portal
-- starMF-platform
+- portal-downtime
+- starmf-platform
+- system-update
 title: Downtime for CRS Portal - August 9, 2025
 ---
 

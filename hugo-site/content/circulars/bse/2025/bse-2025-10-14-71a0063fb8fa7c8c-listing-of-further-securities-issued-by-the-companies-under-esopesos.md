@@ -31,15 +31,11 @@ stocks:
 - PAYTM
 - UJJIVANSFB
 tags:
-- esop
-- esos
-- equity-listing
-- employee-stock-options
-- new-securities
 - aditya-birla-capital
+- equity
+- esop
 - federal-bank
-- paytm
-- ujjivan-sfb
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - Four Companies
 ---
 

@@ -27,13 +27,13 @@ source: bse
 stocks:
 - CHOICEGOLD
 tags:
-- etf
-- gold-etf
-- new-listing
-- mutual-fund
 - choice-mutual-fund
+- demat
 - e-group
-- demat-only
+- etf
+- gold
+- listing
+- mutual-fund
 title: Listing of Units Of Choice Gold ETF a scheme under Choice Mutual Fund
 ---
 

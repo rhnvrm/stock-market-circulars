@@ -28,13 +28,12 @@ source: bse
 stocks:
 - NOBLEPOLYMER
 tags:
+- appeal
+- compliance
 - delisting
-- suspension
-- status-change
-- sat-order
-- noble-polymers
-- listing-compliance
 - regulatory-order
+- status-change
+- suspension
 title: Rescission of Delisting - Noble Polymers Limited Status Changed to Suspended
 ---
 

@@ -27,13 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
+- maintenance
 - mock-trading
-- commodity-derivatives
-- testing
-- bolt-pro-tws
-- uat
 - trading-platform
-- system-testing
 title: Mock Trading on Saturday, December 06, 2025 for Commodity Derivatives Segment
 ---
 

@@ -26,20 +26,20 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDIAFINSEC
+- IFINSEC
 - NRAGARWAL
 - BLKASHYAP
 - BEDMUTHA
 - BRAHINFRA
-- INDIANIVESH
+- INDIANVSH
 - SUDALIND
 tags:
-- surveillance
 - encumbrance
-- promoter-holding
-- sast-regulation
-- sebi
 - regulatory-framework
+- sast
+- sebi
+- shareholding-pattern
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

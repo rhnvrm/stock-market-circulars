@@ -34,10 +34,10 @@ stocks:
 - STEELXIND
 - HINDZINC
 tags:
-- surveillance
 - encumbrance
-- margin-requirements
-- sast-regulation
+- margin
+- sast
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Companies with High Encumbrance - Inclusion and Exclusion
   List

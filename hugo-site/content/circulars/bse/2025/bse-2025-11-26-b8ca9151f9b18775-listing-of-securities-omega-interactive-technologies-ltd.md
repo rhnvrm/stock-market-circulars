@@ -26,11 +26,11 @@ source: bse
 stocks:
 - OMEGAINT
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of 93,750 Equity Shares of Omega Interactive Technologies Ltd.
 ---
 

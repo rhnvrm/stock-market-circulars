@@ -26,12 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- digital-accessibility
-- disabilities-act
 - compliance
+- digital-accessibility
 - digital-platforms
-- regulated-entities
-- accessibility-audit
+- intermediary
 title: SEBI Mandates Digital Accessibility Compliance for Persons with Disabilities
 ---
 

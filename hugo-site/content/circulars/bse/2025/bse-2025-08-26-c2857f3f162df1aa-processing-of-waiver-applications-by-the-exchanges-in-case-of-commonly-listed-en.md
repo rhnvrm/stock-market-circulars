@@ -25,13 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- waiver-applications
-- regulatory-fines
-- compliance
-- company-secretary
 - board-composition
+- company-secretary
+- compliance
 - investor-grievances
-- sebi-lodr
+- lodr
+- regulatory-fines
+- waiver-applications
 title: Processing of Waiver Applications by Exchanges for Commonly Listed Entities
 ---
 

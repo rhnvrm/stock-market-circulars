@@ -26,13 +26,13 @@ source: bse
 stocks:
 - ARUNIS
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
+- record-date
 - redemption
-- corporate-actions
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

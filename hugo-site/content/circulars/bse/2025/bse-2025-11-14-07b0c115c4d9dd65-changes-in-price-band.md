@@ -32,11 +32,11 @@ stocks:
 - SILINV
 - VEERKRISH
 tags:
+- equity
 - price-band
-- trading
 - surveillance
+- trading
 - volatility-control
-- equity-segment
 title: Price Band Revisions for 37 Securities Effective November 17, 2025
 ---
 

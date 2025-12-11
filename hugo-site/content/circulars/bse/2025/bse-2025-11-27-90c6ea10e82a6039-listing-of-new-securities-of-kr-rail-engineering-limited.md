@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks:
 - KRAIL
+- KRRAIL
 tags:
+- equity
 - listing
-- equity-shares
-- scheme-of-arrangement
 - lock-in
 - new-securities
-- '514360'
+- scheme-of-arrangement
 title: Listing of New Securities of K&R Rail Engineering Limited
 ---
 

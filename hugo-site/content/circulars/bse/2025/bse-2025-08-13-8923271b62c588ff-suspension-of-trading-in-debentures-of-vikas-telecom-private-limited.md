@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VTPL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- redemption
 - interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of VIKAS TELECOM PRIVATE LIMITED
 ---
 

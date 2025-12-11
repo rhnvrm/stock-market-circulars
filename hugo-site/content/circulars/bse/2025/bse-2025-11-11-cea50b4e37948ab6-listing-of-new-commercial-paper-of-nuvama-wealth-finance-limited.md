@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- nuvama-wealth-finance
 - bse-debt-segment
+- commercial-paper
+- debt-securities
+- nuvama-wealth-finance
+- private-placement
 title: Listing of new Commercial Paper of Nuvama Wealth Finance Limited
 ---
 

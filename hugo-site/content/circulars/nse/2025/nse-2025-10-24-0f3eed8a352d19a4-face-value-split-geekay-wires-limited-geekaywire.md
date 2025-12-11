@@ -27,11 +27,10 @@ source: nse
 stocks:
 - GEEKAYWIRE
 tags:
-- face-value-split
-- stock-split
-- equity-shares
 - corporate-action
-- GEEKAYWIRE
+- equity
+- face-value-change
+- split
 title: Face Value Split - Geekay Wires Limited (GEEKAYWIRE)
 ---
 

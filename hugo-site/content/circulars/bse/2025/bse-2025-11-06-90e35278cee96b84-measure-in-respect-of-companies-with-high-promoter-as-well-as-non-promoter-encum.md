@@ -29,11 +29,10 @@ stocks:
 - ONELIFE
 tags:
 - encumbrance
-- surveillance
-- promoter-pledging
-- SAST
-- SEBI-regulation
+- sast
+- sebi-regulation
 - stock-surveillance
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance
 ---

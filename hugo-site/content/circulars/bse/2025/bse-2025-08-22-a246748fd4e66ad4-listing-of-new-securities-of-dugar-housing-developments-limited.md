@@ -26,9 +26,9 @@ source: bse
 stocks:
 - DUGARHOUSING
 tags:
+- equity
 - listing
-- equity-shares
-- lock-in-period
+- lock-in
 - new-securities
 title: Listing of New Securities of Dugar Housing Developments Limited
 ---

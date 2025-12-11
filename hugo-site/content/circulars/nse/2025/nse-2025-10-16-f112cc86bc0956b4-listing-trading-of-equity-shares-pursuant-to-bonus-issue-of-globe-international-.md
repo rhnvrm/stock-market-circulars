@@ -27,12 +27,11 @@ source: nse
 stocks:
 - GICL
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- equity
+- globe-international-carriers
 - listing
 - trading
-- globe-international-carriers
-- GICL
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Globe International
   Carriers Limited
 ---

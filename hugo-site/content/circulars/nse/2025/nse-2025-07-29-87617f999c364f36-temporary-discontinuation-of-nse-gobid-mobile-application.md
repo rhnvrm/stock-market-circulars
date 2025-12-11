@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- gobid
-- mobile-app
-- government-securities
 - debt-ipo
-- platform-access
+- gobid
+- gsec
+- mobile-app
 - non-competitive-bidding
+- platform-access
 title: Temporary discontinuation of NSE goBID mobile application
 ---
 

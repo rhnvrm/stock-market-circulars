@@ -29,10 +29,10 @@ stocks:
 - HMVL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - hindustan-media-ventures
-- new-listing
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Hindustan Media Ventures Limited
 ---
 

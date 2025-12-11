@@ -26,12 +26,11 @@ source: nse
 stocks:
 - NGIL
 tags:
-- listing
-- equity-shares
 - conversion
-- partly-paid
+- equity
 - fully-paid
-- NGIL
+- listing
+- partly-paid
 title: Listing of further issue of Nakoda Group of Industries Limited
 ---
 

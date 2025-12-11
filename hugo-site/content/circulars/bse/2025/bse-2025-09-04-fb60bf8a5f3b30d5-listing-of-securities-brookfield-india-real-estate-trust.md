@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BIRET
 tags:
-- reit
-- listing
 - brookfield
+- listing
+- preferential-issue
 - real-estate
-- preferential-allotment
+- reit
 title: Listing of Securities Brookfield India Real Estate Trust
 ---
 

@@ -25,10 +25,9 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- trading-suspension
 - debt-securities
 - maturity
+- suspension
 - treasury-bills
 title: Suspension of Trading in T-Bills - 182TB31725 and 364TB310725
 ---

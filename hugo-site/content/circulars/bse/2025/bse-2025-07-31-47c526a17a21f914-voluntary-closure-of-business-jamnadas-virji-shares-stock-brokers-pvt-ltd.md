@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
-- trading-member
-- equity-derivatives
+- derivatives
 - membership-operations
+- surrender
+- trading-member
 title: Voluntary Closure of Business – Jamnadas Virji Shares & Stock Brokers Pvt.
   Ltd.
 ---

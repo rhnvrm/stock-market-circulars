@@ -28,15 +28,13 @@ source: bse
 stocks:
 - FORTIS
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- fortis-healthcare
-- equity
-- trading
-- otb
-- ibbs
 - corporate-action
+- equity
+- fortis-healthcare
+- otb
+- takeover
+- trading
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for FORTIS HEALTHCARE LTD - Live
   Activities Schedule
 ---

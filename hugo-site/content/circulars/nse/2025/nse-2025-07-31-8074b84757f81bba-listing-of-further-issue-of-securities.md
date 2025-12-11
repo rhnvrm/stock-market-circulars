@@ -26,12 +26,11 @@ source: nse
 stocks:
 - DPEL
 tags:
+- emerge-platform
+- equity
 - listing
+- preferential-issue
 - sme
-- emerge
-- equity-shares
-- preferential-allotment
-- dpel
 title: Listing of further issue of Divine Power Energy Limited
 ---
 

@@ -26,12 +26,9 @@ source: nse
 stocks:
 - PRECISION
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirement
-- long-term-asm
-- precision-metaliks
 title: Applicability of Additional Surveillance Measure (ASM) - Precision Metaliks
   Added to Long-Term ASM Stage I
 ---

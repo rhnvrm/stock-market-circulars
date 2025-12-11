@@ -36,10 +36,7 @@ stocks:
 - JPTSEC
 - BHARTEX
 tags:
-- gsm
 - surveillance
-- graded-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---

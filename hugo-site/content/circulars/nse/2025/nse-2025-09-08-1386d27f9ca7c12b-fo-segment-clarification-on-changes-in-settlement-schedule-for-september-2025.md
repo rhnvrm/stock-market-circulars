@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-schedule
-- futures-options
 - clearing
+- futures-options
 - rbi-directive
-- trade-settlement
+- settlement
 title: FO Segment - Clarification on changes in settlement schedule for September
   2025
 ---

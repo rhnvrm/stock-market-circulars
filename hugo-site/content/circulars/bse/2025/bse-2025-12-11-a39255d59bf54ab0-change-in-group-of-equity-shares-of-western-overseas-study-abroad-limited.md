@@ -27,14 +27,13 @@ severity: low
 source: bse
 stocks:
 - WESTERN
+- WOSAL
 tags:
+- asm-stage
 - group-change
-- sme-ipo
 - rolling-segment
+- sme
 - trade-for-trade
-- mt-group
-- m-group
-- '544636'
 title: Change in Group of Equity Shares of WESTERN OVERSEAS STUDY ABROAD LIMITED
 ---
 

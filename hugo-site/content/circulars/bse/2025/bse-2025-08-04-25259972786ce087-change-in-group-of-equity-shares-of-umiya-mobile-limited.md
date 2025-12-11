@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- UMIYAMOBILE
+- UML
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- trading-segment
+- trade-for-trade
+- trading
 title: UMIYA MOBILE LIMITED Equity Shares Transfer from Trade for Trade to Rolling
   Segment
 ---

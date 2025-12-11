@@ -33,10 +33,10 @@ stocks:
 - YESBANK
 - VEDL
 tags:
-- demat-auction
-- settlement
-- securities
+- demat
 - market-operations
+- securities
+- settlement
 title: Demat Auction Settlement No. 707 - September 4, 2025
 ---
 

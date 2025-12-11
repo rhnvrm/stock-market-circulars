@@ -26,12 +26,11 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
-- debt-listing
-- private-placement
-- edel-finance
-- new-issuance
 - debt-securities
-- debentures
+- edel-finance
+- further-issue
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Edel Finance Company Limited
 ---
 

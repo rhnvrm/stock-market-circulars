@@ -27,11 +27,10 @@ source: bse
 stocks:
 - POWERFIN
 tags:
-- debt-listing
-- private-placement
-- corporate-bonds
-- power-finance-corporation
+- bond
+- debt-securities
 - new-securities
+- private-placement
 title: Listing of New Debt Securities of Power Finance Corporation Ltd
 ---
 

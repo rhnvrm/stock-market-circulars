@@ -25,9 +25,8 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- bse-star-mf
+- holiday
+- mutual-fund
 - trading-schedule
 title: Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform
 ---

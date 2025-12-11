@@ -73,11 +73,11 @@ stocks:
 - SAMYAK
 - MIDEAST
 tags:
-- rta
-- registrar
-- transfer-agents
-- operational
 - monthly-schedule
+- operational
+- registrar
+- rta
+- transfer-agents
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for September 2025
 ---
 

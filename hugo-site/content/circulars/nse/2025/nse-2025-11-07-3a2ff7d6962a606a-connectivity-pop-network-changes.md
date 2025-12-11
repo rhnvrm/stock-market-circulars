@@ -28,16 +28,16 @@ source: nse
 stocks: []
 tags:
 - connectivity
-- pop-migration
+- delhi
 - infrastructure
+- kolkata
+- managed-service
+- mumbai
+- network-changes
+- pop-migration
+- self-service
 - sify
 - telecom
-- network-changes
-- kolkata
-- delhi
-- mumbai
-- managed-service
-- self-service
 title: 'Connectivity - POP Network Changes: Migration Timeline for Sify POP Facilities'
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- timeline-extension
-- sebi-circular
-- trading-framework
+- algo-trading
+- extension
 - implementation-delay
+- retail-investor
+- sebi
+- trading-operations
 title: Extension of Timeline for Safer Participation of Retail Investors in Algorithmic
   Trading
 ---

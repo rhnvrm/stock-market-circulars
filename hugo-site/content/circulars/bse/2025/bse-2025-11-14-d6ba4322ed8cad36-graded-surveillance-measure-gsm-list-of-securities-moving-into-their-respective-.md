@@ -30,11 +30,9 @@ stocks:
 - SHAHISPG
 - ADJIA
 tags:
-- gsm
-- surveillance
+- market-operations
 - stage-change
-- market-monitoring
-- graded-surveillance-measure
+- surveillance
 title: GSM Framework - Securities Moving to Different Surveillance Stages
 ---
 

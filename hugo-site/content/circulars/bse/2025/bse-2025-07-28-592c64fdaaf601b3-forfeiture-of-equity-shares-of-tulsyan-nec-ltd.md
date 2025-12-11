@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TULSYAN
 tags:
-- forfeiture
-- partly-paid-shares
-- equity-shares
-- share-forfeiture
 - call-money
+- equity
+- forfeiture
+- partly-paid
 title: Forfeiture of Equity Shares of Tulsyan NEC Ltd
 ---
 

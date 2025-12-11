@@ -25,10 +25,9 @@ source: nse
 stocks:
 - MEIL
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of Mangal Electrical Industries Limited (IPO)
 ---
 

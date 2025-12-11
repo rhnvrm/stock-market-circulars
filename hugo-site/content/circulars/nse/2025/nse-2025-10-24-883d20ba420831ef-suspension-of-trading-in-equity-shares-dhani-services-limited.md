@@ -27,11 +27,10 @@ source: nse
 stocks:
 - DHANI
 tags:
-- trading-suspension
-- amalgamation
-- equity-shares
 - corporate-action
-- DHANI
+- equity
+- scheme-of-arrangement
+- suspension
 title: Suspension of Trading in Equity Shares - Dhani Services Limited
 ---
 

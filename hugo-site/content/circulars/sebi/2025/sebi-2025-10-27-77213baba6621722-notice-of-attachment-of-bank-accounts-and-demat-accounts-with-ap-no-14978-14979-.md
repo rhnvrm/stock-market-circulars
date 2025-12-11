@@ -28,14 +28,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- attachment-notice
-- bank-account-attachment
-- demat-account-attachment
-- enforcement
+- attachment
 - defaulter
+- enforcement
 - generic-engineering-construction
-- recovery-proceedings
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts - AP No. 14978 & 14979/2025
   against Laxman Dhananjay Gunde
 ---

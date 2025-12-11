@@ -26,11 +26,10 @@ source: nse
 stocks:
 - TOYOTAFIN
 tags:
-- suspension
+- debt-securities
 - non-convertible-securities
-- debt-market
 - redemption
-- toyota-financial-services
+- suspension
 title: Suspension of Trading in Non-Convertible Securities of Toyota Financial Services
   India Limited
 ---

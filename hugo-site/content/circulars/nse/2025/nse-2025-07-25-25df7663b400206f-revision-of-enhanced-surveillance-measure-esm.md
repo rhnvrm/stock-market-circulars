@@ -24,13 +24,11 @@ severity: high
 source: nse
 stocks: []
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- small-cap
-- market-integrity
+- margin
+- market-operations
 - price-variation
-- margin-requirements
+- small-cap
+- surveillance
 - trade-for-trade
 title: NSE Revises Enhanced Surveillance Measure (ESM) Framework for Small-Cap Securities
 ---

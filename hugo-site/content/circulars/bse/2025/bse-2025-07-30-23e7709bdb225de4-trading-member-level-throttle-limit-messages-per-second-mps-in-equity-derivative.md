@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- trading-operations
 - mps
 - throttle-limit
 - trading-member
+- trading-operations
 title: Trading Member level Throttle Limit/ Messages Per Second (MPS) in Equity Derivatives
   segment - Update
 ---

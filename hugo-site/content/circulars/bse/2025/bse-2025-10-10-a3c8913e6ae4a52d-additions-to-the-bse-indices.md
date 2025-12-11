@@ -25,15 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544570'
-- '544571'
+- WEWORK
+- NSBBPO
 tags:
-- index-addition
-- bse-ipo-index
-- bse-sme-ipo-index
-- new-listing
-- '544570'
-- '544571'
+- bse-index
+- index-change
+- listing
 title: Additions to the BSE Indices - WEWORK INDIA and NSB BPO SOLUTIONS
 ---
 

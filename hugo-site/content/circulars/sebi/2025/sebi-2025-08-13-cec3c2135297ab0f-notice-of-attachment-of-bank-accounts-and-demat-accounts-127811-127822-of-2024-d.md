@@ -26,13 +26,13 @@ source: sebi
 stocks:
 - ESTEEM
 tags:
-- enforcement
-- recovery
 - attachment
-- defaulters
 - bank-accounts
-- demat-accounts
+- defaulters
+- demat
+- enforcement
 - esteem-bio-organic
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Harleen Singh,
   Sumit Wadhwa and Pal Singh (Defaulters) in Esteem Bio Organic Food Processing Ltd.
 ---

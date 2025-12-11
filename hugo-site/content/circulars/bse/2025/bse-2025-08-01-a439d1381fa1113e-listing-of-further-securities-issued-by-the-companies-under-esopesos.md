@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ITCHOTELS
 tags:
-- esop
-- esos
-- equity-shares
 - allotment
+- equity
+- esop
 - lock-in
-- employee-stock-options
 title: Listing of Further Securities Issued by ITC Hotels Limited Under ESOP/ESOS
 ---
 

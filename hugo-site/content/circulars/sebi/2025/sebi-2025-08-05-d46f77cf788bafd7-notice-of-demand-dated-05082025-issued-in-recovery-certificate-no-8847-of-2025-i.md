@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - PARICHAY
 tags:
-- recovery-certificate
+- compliance
 - demand-notice
 - enforcement
-- parichay-investment
-- compliance
+- recovery
 title: Notice of Demand - Recovery Certificate No. 8847 of 2025 against Sanjay Jethalal
   Soni, Krupa Sanjay Soni and J M Soni Consultancy
 ---

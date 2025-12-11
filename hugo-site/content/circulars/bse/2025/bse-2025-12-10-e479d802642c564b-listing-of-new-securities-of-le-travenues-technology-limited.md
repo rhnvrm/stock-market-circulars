@@ -28,11 +28,11 @@ source: bse
 stocks:
 - LETRAVENUES
 tags:
-- preferential-issue
-- equity-listing
-- new-securities
+- equity
 - lock-in
+- new-securities
 - non-promoter-allotment
+- preferential-issue
 title: Listing of New Equity Shares of Le Travenues Technology Limited on Preferential
   Basis
 ---

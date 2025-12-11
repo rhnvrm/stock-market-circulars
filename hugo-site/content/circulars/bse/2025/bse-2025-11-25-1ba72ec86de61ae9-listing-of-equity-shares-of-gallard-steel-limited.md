@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GALLARD
 tags:
-- listing
-- equity-shares
-- sme
-- new-listing
+- equity
 - gallard-steel
+- listing
+- sme
 title: Listing of Equity Shares of Gallard Steel Limited
 ---
 

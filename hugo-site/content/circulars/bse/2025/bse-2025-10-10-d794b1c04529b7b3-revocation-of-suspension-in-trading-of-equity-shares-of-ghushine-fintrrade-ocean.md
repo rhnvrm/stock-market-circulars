@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GHUSHINE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
+- equity
 - market-operations
-- GHUSHINE
+- release
+- suspension
 title: 'Revocation of Suspension in Trading of Ghushine Fintrrade Ocean Ltd. (Scrip
   Code: 539864)'
 ---

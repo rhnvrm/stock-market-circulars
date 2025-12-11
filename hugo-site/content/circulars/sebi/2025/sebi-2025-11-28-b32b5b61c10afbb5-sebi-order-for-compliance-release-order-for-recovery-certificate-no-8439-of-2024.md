@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- release-order
+- bse
 - compliance
 - enforcement
 - illiquid-stock-options
-- bse
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8439
   of 2024 against Yusufbhai Mohmadbhai Katariya
 ---

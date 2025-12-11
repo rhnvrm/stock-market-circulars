@@ -27,11 +27,10 @@ source: nse
 stocks:
 - CYBER
 tags:
-- rights-issue
-- trading-commencement
-- rights-entitlements
 - cyber-media
 - demat-trading
+- rights-issue
+- trading-operations
 title: Trading of Rights Entitlements pursuant to Rights Issue of Cyber Media (India)
   Limited
 ---

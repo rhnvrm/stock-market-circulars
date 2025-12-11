@@ -24,24 +24,24 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '540879'
-- '523229'
-- '535620'
-- '544440'
-- '544166'
-- '526751'
-- '511441'
-- '542592'
-- '544483'
-- '532925'
-- '507180'
-- '524548'
-- '524717'
+- APOLLO
+- BHARATSE
+- BINNYMILLS
+- CRYOGENIC
+- EMMFORCE
+- GRATEXI
+- GUJCRED
+- HBEL
+- ICODEX
+- KAUSHALYA
+- KESARENT
+- SHARMEH
+- TITANBIO
 tags:
-- price-band
-- trading
 - equity
+- price-band
 - surveillance
+- trading
 title: BSE Revises Price Bands for 13 Securities
 ---
 

@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - KLIFESTYLE
 tags:
-- recovery-certificate
 - cancellation
 - enforcement
-- k-lifestyle
 - rajendra-pathak
+- recovery
 title: Cancellation of Recovery Certificate RC No. 5285/2022 against Rajendra Pathak
 ---
 

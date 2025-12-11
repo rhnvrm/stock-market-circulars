@@ -30,16 +30,13 @@ stocks:
 - PATELENG
 - ENGINERSIN
 tags:
-- corporate-action
-- slb-securities
-- spin-off
-- rights-issue
-- dividend
 - book-closure
+- corporate-action
+- dividend
 - foreclosure
-- HINDUNILVR
-- PATELENG
-- ENGINERSIN
+- rights-issue
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - Hindustan Unilever Spin Off, Patel Engineering
   Rights Issue, Engineers India Dividend
 ---

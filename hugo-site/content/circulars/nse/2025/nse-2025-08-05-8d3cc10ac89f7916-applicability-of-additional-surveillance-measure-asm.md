@@ -26,12 +26,9 @@ source: nse
 stocks:
 - BOHRAIND
 tags:
+- margin
 - surveillance
-- margin-requirements
 - trade-for-trade
-- additional-surveillance-measure
-- asm
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
   Implementation
 ---

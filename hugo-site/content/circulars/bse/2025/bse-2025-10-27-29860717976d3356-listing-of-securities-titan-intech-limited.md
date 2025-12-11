@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- TITANINTECH
+- preferential-issue
+- titanintech
 title: Listing of 4.5 Million Equity Shares of TITAN INTECH LIMITED
 ---
 

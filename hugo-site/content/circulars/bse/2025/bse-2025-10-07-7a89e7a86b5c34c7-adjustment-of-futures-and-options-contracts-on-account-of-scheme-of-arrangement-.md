@@ -28,15 +28,14 @@ source: bse
 stocks:
 - TAMO
 tags:
-- derivatives
-- futures
-- options
-- corporate-action
-- demerger
-- scheme-of-arrangement
 - contract-adjustment
-- tata-motors
+- corporate-action
+- derivatives
+- futures-options
+- options
+- scheme-of-arrangement
 - tata-commercial-vehicles
+- tata-motors
 title: Adjustment of Futures and Options Contracts on Account of Scheme of Arrangement
   of Tata Motors Ltd
 ---

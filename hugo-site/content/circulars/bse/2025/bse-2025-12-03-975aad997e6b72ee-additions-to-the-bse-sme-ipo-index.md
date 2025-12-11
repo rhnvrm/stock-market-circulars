@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544623'
-- '544624'
+- MNFL
+- KKSILK
 tags:
-- index
-- sme-ipo
-- listing
 - addition
 - index-constituent
+- index-fund
+- listing
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - STLNET
 tags:
+- equity
 - shareholding-pattern
 - stl-networks
-- equity-listing
-- promoter-holding
 title: Listing of Equity Shares of STL Networks Limited
 ---
 

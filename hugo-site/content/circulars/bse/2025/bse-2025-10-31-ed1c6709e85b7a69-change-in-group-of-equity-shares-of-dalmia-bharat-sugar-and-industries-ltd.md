@@ -27,11 +27,10 @@ source: bse
 stocks:
 - DALMIASUG
 tags:
-- group-change
-- t-group
-- b-group
-- trading
+- asm-stage
 - dalmia-bharat-sugar
+- group-change
+- trading
 title: Change in Group of Equity Shares of DALMIA BHARAT SUGAR AND INDUSTRIES LTD.
 ---
 

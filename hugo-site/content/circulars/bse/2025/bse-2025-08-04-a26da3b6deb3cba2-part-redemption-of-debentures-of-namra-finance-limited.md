@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NAMRA
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
-- interest-payment
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of NAMRA FINANCE LIMITED - Reduced Face Value
   Effective August 8, 2025
 ---

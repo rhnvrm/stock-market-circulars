@@ -28,10 +28,10 @@ stocks:
 - TANLA
 tags:
 - buyback
-- tender-offer
+- equity
+- takeover
 - tanla-platforms
-- equity-shares
-- acquisition
+- tender-offer
 title: Opening of Offer to Buy – Acquisition Window (Buyback) For TANLA PLATFORMS
   LIMITED
 ---

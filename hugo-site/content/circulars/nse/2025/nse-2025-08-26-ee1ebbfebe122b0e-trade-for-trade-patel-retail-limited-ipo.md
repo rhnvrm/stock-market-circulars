@@ -26,10 +26,10 @@ source: nse
 stocks:
 - PATELRMART
 tags:
-- trade-for-trade
-- rolling-segment
 - ipo
+- rolling-segment
 - segment-transfer
+- trade-for-trade
 title: Trade for Trade - Patel Retail Limited (IPO)
 ---
 

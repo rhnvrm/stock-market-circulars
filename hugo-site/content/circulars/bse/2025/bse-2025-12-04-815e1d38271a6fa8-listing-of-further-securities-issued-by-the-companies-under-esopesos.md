@@ -42,12 +42,10 @@ stocks:
 - VMART
 - WIPRO
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 16 Companies
 ---
 

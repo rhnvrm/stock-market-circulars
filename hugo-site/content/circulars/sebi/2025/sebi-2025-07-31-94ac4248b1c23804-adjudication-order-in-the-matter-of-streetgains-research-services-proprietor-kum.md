@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- research-analyst
-- fraudulent-practices
-- mis-selling
-- return-assurance
+- adjudication
 - advertising-violations
-- pfutp-regulations
+- investigation
+- mis-selling
+- regulatory-framework
+- research-analyst
+- return-assurance
 title: Adjudication Order Against Streetgains Research Services for Fraudulent Practices
   and Regulatory Violations
 ---

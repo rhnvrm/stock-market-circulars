@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MUTHOOTFN
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - muthoot-fincorp
-- corporate-bonds
-- debt-segment
+- private-placement
 title: Listing of New Debt Securities of Muthoot Fincorp Limited
 ---
 

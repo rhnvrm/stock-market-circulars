@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - ACUTAAS
 tags:
+- acutaas-chemicals
 - exemption-order
-- sast
-- takeover
-- acquisition
 - family-trust
 - promoter-group
-- acutaas-chemicals
+- sast
+- takeover
 title: Exemption Order under Regulation 11 of SEBI (SAST) Regulations, 2011 in the
   matter of Acutaas Chemicals Limited - Vaghasia Family Trust
 ---

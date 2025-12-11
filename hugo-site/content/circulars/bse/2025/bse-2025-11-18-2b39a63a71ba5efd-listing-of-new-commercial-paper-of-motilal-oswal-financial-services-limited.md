@@ -28,10 +28,10 @@ stocks:
 - MOFSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- listing
 - motilal-oswal
 - private-placement
-- new-listing
 title: Listing of New Commercial Paper of Motilal Oswal Financial Services Limited
 ---
 

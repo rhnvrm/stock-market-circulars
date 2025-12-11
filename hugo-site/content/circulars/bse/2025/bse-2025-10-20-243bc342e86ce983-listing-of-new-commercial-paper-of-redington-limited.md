@@ -28,10 +28,8 @@ stocks:
 - REDINGTON
 tags:
 - commercial-paper
-- debt-listing
-- redington
+- debt-securities
 - private-placement
-- debt-segment
 title: Listing of New Commercial Paper of Redington Limited
 ---
 

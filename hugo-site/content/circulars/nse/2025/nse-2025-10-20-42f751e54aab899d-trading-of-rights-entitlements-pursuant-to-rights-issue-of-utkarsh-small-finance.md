@@ -28,14 +28,13 @@ source: nse
 stocks:
 - UTKARSH
 tags:
-- rights-issue
-- rights-entitlements
-- trade-to-trade
-- compulsory-demat
-- small-finance-bank
-- utkarsh-sfb
-- member-obligations
 - client-disclosure
+- demat
+- member-obligations
+- rights-issue
+- small-finance-bank
+- trade-to-trade
+- utkarsh-sfb
 title: Trading of Rights Entitlements pursuant to Rights Issue of Utkarsh Small Finance
   Bank Limited
 ---

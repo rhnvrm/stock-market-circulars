@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- collateral-management
-- muhurat-trading
-- settlement
-- rms
-- trading-hours
+- collateral
 - operational-timings
+- rms
+- settlement
+- trading-hours
+- trading-session
 title: Collateral Related Timings for Muhurat Trading
 ---
 

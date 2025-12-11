@@ -27,9 +27,8 @@ stocks:
 - ABHFL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- abhfl
 - short-term-debt
 title: Listing of new Commercial Paper of Aditya Birla Housing Finance Limited
 ---

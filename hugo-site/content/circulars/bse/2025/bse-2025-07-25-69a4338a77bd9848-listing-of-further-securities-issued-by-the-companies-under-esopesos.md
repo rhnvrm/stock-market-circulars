@@ -24,21 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- CREDITACCESSGRAMEEN
-- GODAWARIPOWERISPAT
+- CREDITACC
+- GPIL
 - HDFCAMC
 - INTEGRAENGINEERING
 - JBCHEMICALS
 - LODHA
 - YESBANK
 tags:
-- esop
-- esos
-- employee-stock-options
-- listing
 - equity
-- trading
+- esop
+- listing
 - new-securities
+- trading
 title: Listing of Further Securities Issued Under ESOP/ESOS - 7 Companies
 ---
 

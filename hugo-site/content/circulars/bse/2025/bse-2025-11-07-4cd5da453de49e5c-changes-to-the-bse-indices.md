@@ -24,16 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '532345'
-- '532749'
+- ALLCARGO
 tags:
-- index-changes
-- amalgamation
 - corporate-action
-- allcargo-gati
-- allcargo-logistics
-- smallcap
+- index-change
+- scheme-of-arrangement
 - services-sector
+- smallcap
 title: Changes to the BSE Indices - Removal of Allcargo Gati Ltd Due to Amalgamation
 ---
 

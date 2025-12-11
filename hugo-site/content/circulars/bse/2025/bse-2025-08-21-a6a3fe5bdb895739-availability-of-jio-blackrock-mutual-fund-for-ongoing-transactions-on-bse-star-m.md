@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- trading-platform
+- index-fund
 - jio-blackrock
-- index-funds
+- mutual-fund
 - reopening
+- trading-platform
 title: JIO BLACKROCK MUTUAL FUND Reopening for Transactions on BSE StAR MF Platform
 ---
 

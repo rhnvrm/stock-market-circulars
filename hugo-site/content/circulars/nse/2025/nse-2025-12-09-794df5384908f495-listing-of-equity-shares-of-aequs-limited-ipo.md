@@ -28,11 +28,10 @@ source: nse
 stocks:
 - AEQUS
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- capital-market
-- new-listing
 - pre-open-session
 title: Listing of Equity Shares of Aequs Limited (IPO)
 ---

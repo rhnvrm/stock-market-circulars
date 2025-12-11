@@ -40,10 +40,9 @@ stocks:
 - SAILSCIENCE
 - UJJIVAN
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- employee-stock-options
+- listing
 - securities
 title: Listing of Further Issues of Securities - ESOP/ESPS for 15 Companies
 ---

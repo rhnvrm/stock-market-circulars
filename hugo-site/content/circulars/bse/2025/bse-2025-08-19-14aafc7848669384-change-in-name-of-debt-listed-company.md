@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- company-conversion
-- private-to-public
-- incorporation-certificate
+- certificate
 - clean-max
+- company-conversion
 - energy-solutions
+- private-to-public
 title: Clean Max Enviro Energy Solutions Private Limited converted to Public Limited
   Company
 ---

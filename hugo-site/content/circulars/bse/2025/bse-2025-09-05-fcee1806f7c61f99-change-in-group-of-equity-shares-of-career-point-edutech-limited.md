@@ -25,12 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544499'
+- CPEDU
 tags:
-- group-change
-- equity-shares
-- trading-classification
 - career-point-edutech
+- equity
+- group-change
+- trading-classification
 title: Change in Group of Equity Shares of Career Point Edutech Limited
 ---
 

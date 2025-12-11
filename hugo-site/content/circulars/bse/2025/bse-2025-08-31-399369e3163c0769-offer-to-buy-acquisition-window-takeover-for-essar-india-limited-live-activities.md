@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ESARIND
 tags:
+- debt-securities
+- otb
 - takeover
-- acquisition
-- offer-to-buy
 - trading
-- debt-segment
 title: Offer to Buy – Acquisition Window (Takeover) for ESSAR INDIA LIMITED - Live
   Activities Schedule
 ---

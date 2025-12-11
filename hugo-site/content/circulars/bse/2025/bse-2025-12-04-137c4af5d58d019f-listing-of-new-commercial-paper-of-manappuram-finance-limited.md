@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MANAPPURAM
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- manappuram-finance
 - axis-bank
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of New Commercial Paper of Manappuram Finance Limited
 ---
 

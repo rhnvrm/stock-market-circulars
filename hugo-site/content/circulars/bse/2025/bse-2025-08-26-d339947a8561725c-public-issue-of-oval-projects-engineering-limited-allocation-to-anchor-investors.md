@@ -26,11 +26,11 @@ source: bse
 stocks:
 - OVAL
 tags:
-- public-issue
-- anchor-investors
-- ipo
-- equity-allocation
+- anchor-investor
 - book-building
+- equity-allocation
+- ipo
+- public-issue
 title: Public Issue of Oval Projects Engineering Limited - Allocation to Anchor Investors
 ---
 

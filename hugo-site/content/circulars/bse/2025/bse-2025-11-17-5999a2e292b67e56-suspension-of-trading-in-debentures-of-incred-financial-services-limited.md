@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- debentures
 - debt-securities
-- redemption
-- interest-payment
-- record-date
 - incred-financial
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of INCRED FINANCIAL SERVICES LIMITED
 ---
 

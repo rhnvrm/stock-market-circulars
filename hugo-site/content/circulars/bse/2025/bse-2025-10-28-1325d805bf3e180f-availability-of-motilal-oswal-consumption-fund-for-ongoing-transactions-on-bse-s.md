@@ -26,14 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity-scheme
+- motilal-oswal
 - mutual-fund
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- motilal-oswal
-- equity-scheme
 title: MOTILAL OSWAL CONSUMPTION FUND Reopening for Transactions on BSE StAR MF Platform
 ---
 

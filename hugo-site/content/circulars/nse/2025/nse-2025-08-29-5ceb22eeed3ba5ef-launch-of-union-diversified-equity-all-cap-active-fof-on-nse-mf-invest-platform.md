@@ -24,10 +24,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- new-fund-offer
-- equity-schemes
+- equity-scheme
 - fund-of-funds
+- mutual-fund
+- nfo
 - union-mutual-fund
 title: Launch of Union Diversified Equity All Cap Active FOF on NSE MF Invest Platform
 ---

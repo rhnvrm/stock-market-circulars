@@ -25,14 +25,14 @@ rss_url: https://www.sebi.gov.in/enforcement/orders/aug-2025/adjudication-order-
 severity: high
 source: sebi
 stocks:
-- SIGMASOLVE
+- SIGMA-BE
 tags:
 - adjudication
-- non-cooperation
 - investigation
-- trading-violations
+- non-cooperation
 - pfutp
 - sigma-solve
+- trading-operations
 title: SEBI Adjudication Order Against Capital Finance and Investments LLP for Non-Cooperation
   in Sigma Solve Limited Investigation
 ---

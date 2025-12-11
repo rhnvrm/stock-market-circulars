@@ -28,14 +28,14 @@ source: sebi
 stocks:
 - BINNY
 tags:
-- adjudication-order
-- lodr-violations
-- corporate-governance
-- disclosure-requirements
+- adjudication
 - binny-limited
-- listing-obligations
-- regulatory-action
-- compliance-failure
+- corporate-governance
+- disclosure
+- lodr
+- lodr-violations
+- non-compliance
+- regulatory
 title: Adjudication Order in the matter of Binny Limited
 ---
 

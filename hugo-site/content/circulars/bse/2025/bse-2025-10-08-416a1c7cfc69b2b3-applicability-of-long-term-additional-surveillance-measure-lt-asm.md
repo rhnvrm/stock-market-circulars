@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BHARATSEATS
+- BHARATSE
 - EARTHSTAHL
 - GTTDATA
 - SUJALATRD
@@ -37,12 +37,9 @@ stocks:
 - HILIKS
 - SAHARAHFC
 tags:
-- lt-asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- market-surveillance
 - trading-restrictions
-- stage-migration
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

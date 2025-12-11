@@ -29,10 +29,10 @@ stocks:
 - SHREE
 tags:
 - clarification
-- news-response
-- market-speculation
-- price-movement
 - disclosure
+- market-speculation
+- news-response
+- price-movement
 title: Companies Clarify Market Speculation - Vodafone Idea and Shree Digvijay Cement
 ---
 

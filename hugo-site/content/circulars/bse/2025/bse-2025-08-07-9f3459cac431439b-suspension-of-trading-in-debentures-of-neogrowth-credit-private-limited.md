@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NEOGROWTH
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- debt-market
-- neogrowth-credit
+- suspension
 title: Suspension of Trading in Debentures of NEOGROWTH CREDIT PRIVATE LIMITED
 ---
 

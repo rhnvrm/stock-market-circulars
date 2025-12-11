@@ -32,7 +32,7 @@ stocks:
 - BANNARI
 - BHARATPETRO
 - CIPLA
-- CANARABANK
+- CANBK
 - DLF
 - HEROMOTOCOR
 - ICICI
@@ -41,9 +41,9 @@ stocks:
 - SPICEJET
 - YESBANK
 tags:
-- demat-auction
-- settlement
+- demat
 - securities
+- settlement
 - trading
 title: Demat Auction Settlement No. 697 - Securities List
 ---

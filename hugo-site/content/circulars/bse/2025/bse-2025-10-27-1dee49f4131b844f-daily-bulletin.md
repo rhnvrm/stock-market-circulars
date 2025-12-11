@@ -29,15 +29,15 @@ stocks:
 - HDFCAMC
 - DARSHANORNA
 tags:
+- bonus
 - book-closure
-- record-date
-- dividend
-- redemption
-- bonus-issue
-- right-issue
 - commercial-paper
+- corporate-action
+- dividend
 - ncd
-- corporate-actions
+- record-date
+- redemption
+- right-issue
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

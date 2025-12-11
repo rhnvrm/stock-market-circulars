@@ -29,11 +29,10 @@ stocks:
 - BIRLACAP
 tags:
 - delisting-rescinded
-- status-change
-- suspended
-- tribunal-order
-- birla-capital
 - listing-status
+- nclt
+- status-change
+- suspension
 title: Birla Capital & Financial Services Ltd - Change in Status from Delisted to
   Suspended
 ---

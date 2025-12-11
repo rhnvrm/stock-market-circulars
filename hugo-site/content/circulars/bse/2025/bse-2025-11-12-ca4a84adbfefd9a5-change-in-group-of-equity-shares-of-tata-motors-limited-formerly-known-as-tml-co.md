@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- group-change
-- trading-segment
-- tata-motors
-- equity-shares
+- equity
 - group-b
+- group-change
+- tata-motors
+- trading
 title: Change in Group of Equity Shares of Tata Motors Limited
 ---
 

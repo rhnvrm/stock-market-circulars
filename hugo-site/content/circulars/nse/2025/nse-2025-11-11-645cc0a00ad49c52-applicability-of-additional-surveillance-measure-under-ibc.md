@@ -31,12 +31,9 @@ stocks:
 - GOENKA
 - JPASSOCIAT
 tags:
-- surveillance
-- ASM
-- IBC
+- insolvency
 - insolvency-bankruptcy
-- SWANDEF
-- additional-surveillance-measure
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

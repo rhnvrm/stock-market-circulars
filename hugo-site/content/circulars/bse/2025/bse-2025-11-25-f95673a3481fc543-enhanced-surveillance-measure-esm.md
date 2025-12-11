@@ -31,11 +31,9 @@ stocks:
 - SAB
 - SVARNIM
 tags:
-- esm
-- enhanced-surveillance
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - November 26, 2025
 ---
 

@@ -27,13 +27,11 @@ source: bse
 stocks:
 - SAMPRE
 tags:
-- bonus-issue
-- sub-division
-- stock-split
-- record-date
+- bonus
 - corporate-action
-- equity-shares
-- sampre
+- equity
+- record-date
+- split
 title: 'Revised Record Date for Sub-division and Bonus Issue of SAMPRE NUTRITIONS
   LTD (Scrip Code: 530617)'
 ---

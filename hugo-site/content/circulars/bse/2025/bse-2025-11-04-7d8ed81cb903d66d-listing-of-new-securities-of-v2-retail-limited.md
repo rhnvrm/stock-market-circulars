@@ -27,12 +27,10 @@ source: bse
 stocks:
 - V2RETAIL
 tags:
+- equity
 - listing
-- qip
-- equity-shares
-- qualified-institutional-placement
 - new-securities
-- v2-retail
+- qip
 title: Listing of New Securities of V2 Retail Limited - QIP Allotment
 ---
 

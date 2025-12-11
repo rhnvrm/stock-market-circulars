@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
-- part-redemption
-- debentures
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- reduced-face-value
-- corporate-actions
-- debt-segment
+- ncd
+- redemption
 title: Part Redemption of Debentures of MONEYBOXX FINANCE LIMITED
 ---
 

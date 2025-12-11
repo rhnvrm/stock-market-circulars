@@ -37,7 +37,7 @@ stocks:
 - BHATIACOM
 - BIOCON
 - BLISSGVS
-- CEAT
+- CEATLTD
 - CEMINDIA
 - CHENNPETRO
 - DHANALR
@@ -50,7 +50,7 @@ stocks:
 - GUJCRAFT
 - HFCL
 - INFY
-- JBMAUTO
+- JBMA
 - JUPITER
 - KALYANKJIL
 - KRSNAA
@@ -97,10 +97,10 @@ stocks:
 - YATRA
 - YESBANK
 tags:
-- demat-auction
-- settlement
-- delivery-obligations
+- demat
+- early-pay-in
 - market-operations
+- settlement
 title: Demat Auction - Settlement No. 752
 ---
 

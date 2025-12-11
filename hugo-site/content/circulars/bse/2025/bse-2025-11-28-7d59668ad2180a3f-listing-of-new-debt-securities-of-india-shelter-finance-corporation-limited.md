@@ -28,10 +28,10 @@ stocks:
 - INDSHEL
 tags:
 - debt-securities
-- listing
-- private-placement
-- non-convertible-debentures
 - india-shelter-finance
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of India Shelter Finance Corporation Limited
 ---
 

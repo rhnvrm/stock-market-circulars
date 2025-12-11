@@ -28,10 +28,9 @@ stocks:
 - HINDUSTANAPP
 - JETMALL
 tags:
-- enhanced-surveillance
-- esm
-- market-regulation
-- surveillance-framework
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and Consolidation
 ---

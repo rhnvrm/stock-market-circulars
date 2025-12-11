@@ -28,12 +28,12 @@ source: nse
 stocks:
 - INDIGRID
 tags:
-- listing
-- preferential-issue
+- capital-market
 - infrastructure-trust
 - invit
-- capital-market
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issue of IndiGrid Infrastructure Trust - 25.98 Million Units
 ---
 

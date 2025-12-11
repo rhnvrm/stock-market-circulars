@@ -31,7 +31,7 @@ stocks:
 - HCG
 - HLEGLA
 - ICICIBANK
-- INDEGENE
+- INDGN
 - KFINTECH
 - LANDMARK
 - LATENTVIEW
@@ -44,13 +44,13 @@ stocks:
 - VAIBHAVGBL
 - RATNAVEER
 - TILAKNAGAR
-- VAISHALIPHARMA
+- VAISHALI
 tags:
-- listing
-- esop
-- equity-shares
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 21 Companies
 ---
 

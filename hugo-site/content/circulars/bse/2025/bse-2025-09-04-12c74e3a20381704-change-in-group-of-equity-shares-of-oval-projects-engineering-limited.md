@@ -25,11 +25,11 @@ source: bse
 stocks:
 - OVALPROJECTS
 tags:
-- trading-segment
 - group-change
 - rolling-segment
-- trade-for-trade
 - sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of OVAL PROJECTS ENGINEERING LIMITED
 ---
 

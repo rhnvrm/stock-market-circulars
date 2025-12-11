@@ -28,11 +28,10 @@ stocks:
 - SPARKLE
 - YAARI
 tags:
-- gsm
-- surveillance
+- equity
+- market-operations
 - risk-management
-- equity-trading
-- market-regulation
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

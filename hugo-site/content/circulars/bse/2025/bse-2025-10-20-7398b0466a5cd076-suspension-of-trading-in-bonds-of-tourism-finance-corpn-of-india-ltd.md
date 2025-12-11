@@ -27,13 +27,12 @@ source: bse
 stocks:
 - TFCI
 tags:
-- suspension
-- bonds
+- bond
 - debt-securities
-- redemption
 - interest-payment
 - record-date
-- tfci
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Tourism Finance Corporation of India Ltd
 ---
 

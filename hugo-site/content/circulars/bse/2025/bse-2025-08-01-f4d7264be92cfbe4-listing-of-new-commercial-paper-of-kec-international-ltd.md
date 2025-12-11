@@ -26,9 +26,8 @@ stocks:
 - KEC
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- KEC
 - trading
 title: Listing of new Commercial Paper of KEC International Ltd.
 ---

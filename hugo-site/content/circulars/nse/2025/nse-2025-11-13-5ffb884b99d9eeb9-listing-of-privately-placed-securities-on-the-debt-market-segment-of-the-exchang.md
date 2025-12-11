@@ -25,7 +25,7 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML71273.pdf
 severity: low
 source: nse
 stocks:
-- TATACAPITAL
+- TATACAP
 - BLUESTARCO
 - IIFL
 - GODREJPROP
@@ -35,19 +35,14 @@ stocks:
 - L&TFH
 - MOTILALOFS
 tags:
-- debt-market
 - commercial-paper
-- listing
-- privately-placed-securities
-- tata-capital
-- blue-star
+- debt-securities
 - iifl-finance
-- godrej-properties
-- godrej-industries
-- tata-projects
-- angel-one
+- listing
 - lt-finance
 - motilal-oswal
+- privately-placed
+- tata-capital
 title: Listing of Privately Placed Securities on Debt Market Segment - November 13,
   2025
 ---

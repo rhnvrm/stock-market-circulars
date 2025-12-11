@@ -80,7 +80,7 @@ stocks:
 - LYKALABS
 - MARKSANS
 - MEERAIND
-- METALcoat
+- METALCOAT
 - MIRAEASSET
 - MONEYBOXX
 - MOSCHIP
@@ -125,9 +125,9 @@ stocks:
 - WALLFORT
 - WELSPUNLIV
 tags:
-- demat-auction
-- settlement
 - auction-764
+- demat
+- settlement
 title: Demat Auction Settlement No. 764 - November 27, 2025
 ---
 

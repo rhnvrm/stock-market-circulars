@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- 360-one
+- hybrid-fund
+- multi-asset-fund
 - mutual-fund
 - trading
-- bse-star-mf
-- 360-one
-- multi-asset-fund
-- hybrid-fund
 title: 360 ONE Multi Asset Allocation Fund Reopens for Trading on BSE StAR MF Platform
 ---
 

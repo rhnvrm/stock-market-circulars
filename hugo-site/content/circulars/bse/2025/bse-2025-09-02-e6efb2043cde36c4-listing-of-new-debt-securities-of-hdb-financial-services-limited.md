@@ -25,11 +25,11 @@ source: bse
 stocks:
 - HDBFSL
 tags:
-- debt-securities
-- zero-coupon-bonds
-- private-placement
 - aaa-rated
+- debt-securities
 - hdb-financial
+- private-placement
+- zero-coupon-bonds
 title: Listing of HDB Financial Services Zero Coupon Bonds Due 2028
 ---
 

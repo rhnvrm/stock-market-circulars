@@ -37,10 +37,8 @@ stocks:
 - VAIBHAVGBL
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS by 11 Companies
 ---
 

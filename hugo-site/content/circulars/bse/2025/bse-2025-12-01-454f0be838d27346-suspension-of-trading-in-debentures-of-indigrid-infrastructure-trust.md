@@ -27,14 +27,13 @@ source: bse
 stocks:
 - INDIGRID
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
-- interest-payment
-- record-date
-- invit
 - infrastructure-trust
+- interest-payment
+- invit
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of INDIGRID INFRASTRUCTURE TRUST
 ---
 

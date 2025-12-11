@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MUTHOOTMF
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
-- private-placement
 - muthoot-microfin
-- bse-debt-segment
-- debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoot Microfin Limited
 ---
 

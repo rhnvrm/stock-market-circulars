@@ -26,13 +26,11 @@ source: bse
 stocks:
 - LUCINALAND
 tags:
-- debt-securities
-- debentures
-- ncds
-- lucina-land-development
-- issue-size-amendment
-- fund-utilization
 - construction-projects
+- debt-securities
+- fund-utilization
+- issue-size-amendment
+- ncd
 title: Update Regarding Debt Securities of Lucina Land Development Limited
 ---
 

@@ -27,13 +27,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- t+0-settlement
-- qualified-stock-brokers
-- settlement-cycle
-- timeline-extension
 - compliance
-- sebi-circular
+- extension
 - market-infrastructure
+- sebi
+- settlement-calendar
+- stock-broker
+- t0-settlement
 title: Further Extension of Timeline for Mandatory Implementation of Systems and Processes
   by Qualified Stock Brokers (QSBs) with respect to T+0 Settlement Cycle
 ---

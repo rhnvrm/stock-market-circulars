@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SUGSLLOYD
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
 - sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SUGS LLOYD LIMITED
 ---
 

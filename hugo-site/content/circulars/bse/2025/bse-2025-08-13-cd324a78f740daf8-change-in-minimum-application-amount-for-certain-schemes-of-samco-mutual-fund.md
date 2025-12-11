@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sip
 - investment-plans
-- samco
 - minimum-amount
+- mutual-fund
+- samco
+- sip
 title: Change in Minimum Application Amount for certain schemes of Samco Mutual Fund
 ---
 

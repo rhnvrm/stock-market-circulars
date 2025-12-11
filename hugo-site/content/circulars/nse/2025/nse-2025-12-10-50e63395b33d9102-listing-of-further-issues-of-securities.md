@@ -42,24 +42,18 @@ stocks:
 - BROOKFIELD
 - HUBTOWN
 tags:
-- listing
-- esop
-- equity-shares
-- further-issue
 - archean-chemical
-- cyient
-- icici-bank
-- indiamart
-- vedant-fashions
+- embassy-developments
+- equity
+- esop
+- further-issue
+- le-travenues
+- listing
+- network-people-services
 - suzlon-energy
 - thejo-engineering
-- yes-bank
-- embassy-developments
-- network-people-services
+- vedant-fashions
 - ws-industries
-- le-travenues
-- brookfield-reit
-- hubtown
 title: Listing of Further Issues of Securities - Multiple Companies
 ---
 

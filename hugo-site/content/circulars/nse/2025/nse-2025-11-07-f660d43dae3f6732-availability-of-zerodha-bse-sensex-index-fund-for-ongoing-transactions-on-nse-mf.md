@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- zerodha-mutual-fund
+- bse-index
 - index-fund
-- bse-sensex
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
+- zerodha-mutual-fund
 title: Availability of Zerodha BSE SENSEX Index Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

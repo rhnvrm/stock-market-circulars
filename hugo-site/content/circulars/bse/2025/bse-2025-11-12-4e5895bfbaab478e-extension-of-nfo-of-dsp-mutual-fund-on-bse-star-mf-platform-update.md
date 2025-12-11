@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- dsp-mutual-fund
+- etf
+- fund-offer-extension
+- msci-india-index
 - mutual-fund
 - nfo
-- etf
-- dsp-mutual-fund
-- msci-india-index
-- fund-offer-extension
 title: Extension of NFO of DSP MSCI India ETF on BSE StAR MF Platform
 ---
 

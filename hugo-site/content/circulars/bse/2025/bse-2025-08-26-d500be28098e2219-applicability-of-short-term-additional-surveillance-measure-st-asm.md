@@ -29,13 +29,10 @@ stocks:
 - TRANSCHEM
 - ZINKA
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
 - trading-restrictions
-- market-regulation
-- apollo-micro
-- austin-engineering
-- transchem
 - zinka-logistics
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

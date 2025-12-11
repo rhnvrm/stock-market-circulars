@@ -28,11 +28,11 @@ stocks:
 - SODHANI
 tags:
 - group-change
-- trading-segment
-- sme-ipo
-- trade-for-trade
-- rolling-settlement
+- rolling-segment
+- sme
 - sodhani-capital
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of SODHANI CAPITAL LIMITED
 ---
 

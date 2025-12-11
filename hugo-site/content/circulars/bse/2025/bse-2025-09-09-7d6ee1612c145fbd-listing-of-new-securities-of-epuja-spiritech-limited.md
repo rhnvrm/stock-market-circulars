@@ -26,9 +26,9 @@ source: bse
 stocks:
 - EPUJA
 tags:
-- new-listing
-- equity-shares
-- warrant-conversion
+- conversion
+- equity
+- listing
 - preferential-issue
 title: Listing of New Securities of EPUJA SPIRITECH LIMITED
 ---

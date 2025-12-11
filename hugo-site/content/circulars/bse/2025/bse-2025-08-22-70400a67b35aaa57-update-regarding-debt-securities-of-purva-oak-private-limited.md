@@ -27,9 +27,9 @@ stocks:
 - PURVA
 tags:
 - debt-securities
+- isin
 - ncd
 - purva-oak
-- isin-change
 - security-revision
 title: Update Regarding debt securities of Purva Oak Private Limited
 ---

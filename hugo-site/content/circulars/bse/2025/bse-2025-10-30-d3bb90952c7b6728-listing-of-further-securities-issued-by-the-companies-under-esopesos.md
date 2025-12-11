@@ -33,17 +33,15 @@ stocks:
 - ITCHOTELS
 - JANASFB
 - JYOTISTRUC
-- NIIT
+- NIITLTD
 - OFSS
 - UNOMINDA
 - WSFX
 - ZENSARTECH
 tags:
-- esop
-- esos
-- new-listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued by 13 Companies under ESOP/ESOS
 ---
 

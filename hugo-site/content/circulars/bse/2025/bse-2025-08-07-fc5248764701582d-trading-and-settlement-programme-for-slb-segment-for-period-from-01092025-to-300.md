@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- slb
-- settlement
-- trading-schedule
 - september-2025
+- settlement
+- slb
+- trading-schedule
 title: Trading and Settlement Programme for SLB Segment - September 2025
 ---
 

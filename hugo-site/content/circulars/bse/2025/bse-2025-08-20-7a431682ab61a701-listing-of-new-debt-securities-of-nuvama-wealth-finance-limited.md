@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- market-linked
 - nuvama-wealth-finance
 - private-placement
-- market-linked
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

@@ -29,12 +29,11 @@ stocks:
 - LUMAXIND
 - OLATECH
 tags:
-- surveillance
-- price-movement
-- volume-increase
 - clarification
+- lodr
+- price-movement
 - regulation-30
-- sebi-lodr
+- surveillance
 title: Clarifications received from the companies
 ---
 

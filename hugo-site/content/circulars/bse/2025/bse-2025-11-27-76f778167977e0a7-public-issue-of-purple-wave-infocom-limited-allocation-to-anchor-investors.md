@@ -27,11 +27,10 @@ source: bse
 stocks:
 - PURPLEWAVE
 tags:
+- anchor-investor
 - ipo
-- anchor-investors
-- public-issue
 - listing
-- purple-wave-infocom
+- public-issue
 title: Public Issue of Purple Wave Infocom Limited - Allocation to Anchor Investors
 ---
 

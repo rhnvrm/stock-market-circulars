@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- trading-suspension
-- maturity
+- corporate-action
 - debt-securities
-- corporate-actions
+- maturity
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-Bills - Maturity on August 5, 2025
 ---
 

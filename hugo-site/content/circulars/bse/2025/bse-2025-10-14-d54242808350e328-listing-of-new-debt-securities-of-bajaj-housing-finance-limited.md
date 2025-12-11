@@ -27,12 +27,11 @@ source: bse
 stocks:
 - BHFL
 tags:
+- bajaj-housing-finance
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- bajaj-housing-finance
-- BHFL
 title: Listing of New Debt Securities of Bajaj Housing Finance Limited
 ---
 

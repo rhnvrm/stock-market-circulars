@@ -27,11 +27,9 @@ source: bse
 stocks:
 - JAIPRAKASH
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- additional-surveillance-measure
-- stage-movement
+- surveillance
 title: Surveillance Measure for Securities Under IBC - August 2025 Update
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SHIVAM VI
 tags:
-- trading-suspension
-- ptc
 - debt-securities
+- interest-payment
+- ptc
 - record-date
 - redemption
-- interest-payment
+- suspension
 title: Suspension of Trading in PTCs of SHIVAM VI
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MANUFGBEES
 tags:
-- etf-listing
-- mutual-fund
+- etf
+- listing
 - manufacturing
+- mutual-fund
 - nippon-india
-- new-listing
 title: Listing of Units Of Nippon India Nifty India Manufacturing ETF
 ---
 

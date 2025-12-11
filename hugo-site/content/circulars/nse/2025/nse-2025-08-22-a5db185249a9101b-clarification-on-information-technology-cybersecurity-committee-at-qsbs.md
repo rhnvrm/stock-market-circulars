@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- committee
+- compliance
+- corporate-governance
 - cybersecurity
 - information-technology
-- committee
-- qualified-stock-brokers
-- governance
-- compliance
+- stock-broker
 title: Clarification on Information Technology / Cybersecurity Committee at QSB's
 ---
 

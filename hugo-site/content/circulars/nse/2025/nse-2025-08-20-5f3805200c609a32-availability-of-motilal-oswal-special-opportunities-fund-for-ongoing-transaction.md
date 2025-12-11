@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
+- equity
 - motilal-oswal
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
+- trading-platform
 title: Availability of Motilal Oswal Special Opportunities Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

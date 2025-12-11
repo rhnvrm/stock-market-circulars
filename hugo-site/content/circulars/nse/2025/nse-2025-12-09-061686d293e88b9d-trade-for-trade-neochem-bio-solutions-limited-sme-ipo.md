@@ -27,11 +27,11 @@ source: nse
 stocks:
 - NEOCHEM
 tags:
-- trade-for-trade
-- segment-transfer
-- sme-ipo
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Neochem Bio Solutions Limited (SME IPO)
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CONTINENTAL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- continental-securities
+- conversion
+- equity
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Continental Securities Limited
 ---
 

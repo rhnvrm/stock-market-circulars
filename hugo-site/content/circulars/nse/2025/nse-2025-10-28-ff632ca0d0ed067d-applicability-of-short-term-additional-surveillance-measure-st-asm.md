@@ -33,11 +33,10 @@ stocks:
 - KDL
 - SPRL
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- st-asm
 - trading-restrictions
-- market-integrity
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

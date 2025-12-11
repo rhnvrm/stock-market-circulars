@@ -27,12 +27,11 @@ source: bse
 stocks:
 - AXISBANK
 tags:
+- aaa-rated
+- bond
 - debt-securities
 - listing
-- axis-bank
-- corporate-bonds
 - private-placement
-- AAA-rated
 title: Listing of New Debt Securities of AXIS Bank Ltd. (7.27% p.a., Maturity 2035)
 ---
 

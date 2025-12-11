@@ -27,11 +27,11 @@ source: bse
 stocks:
 - RUBICON
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- anchor-investors
 - rubicon-research
 title: Listing of Equity Shares of Rubicon Research Limited
 ---

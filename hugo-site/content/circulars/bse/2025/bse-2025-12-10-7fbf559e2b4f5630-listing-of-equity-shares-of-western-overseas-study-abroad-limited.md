@@ -27,8 +27,8 @@ source: bse
 stocks:
 - WESTERN
 tags:
+- equity
 - listing
-- equity-shares
 - lock-in
 - western-overseas-study-abroad
 title: Listing of Equity Shares of Western Overseas Study Abroad Limited

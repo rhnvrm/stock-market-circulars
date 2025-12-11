@@ -29,14 +29,10 @@ stocks:
 - VINEETLAB
 - STALLION
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- margin-requirements
 - trade-for-trade
-- vineetlab
-- stallion
 title: Additional Surveillance Measure (ASM) - New Securities Added to Long-Term ASM
   Framework
 ---

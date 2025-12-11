@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- enforcement-action
-- stock-broker
-- regulatory-violation
-- net-worth-requirement
 - client-funds
 - compliance
-- intermediary-regulations
+- enforcement
+- intermediary
+- net-worth-requirement
+- non-compliance
+- stock-broker
 title: Order under Section 12(3) of SEBI Act, 1992 read with Regulation 27 of SEBI
   (Intermediaries) Regulations, 2008 in respect of Gogia Capital Services Limited
 ---

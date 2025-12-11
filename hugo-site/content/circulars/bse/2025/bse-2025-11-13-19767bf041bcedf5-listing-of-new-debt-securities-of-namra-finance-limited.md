@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NAMRAFIN
 tags:
+- bond
 - debt-securities
 - listing
-- namra-finance
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of Namra Finance Limited
 ---
 

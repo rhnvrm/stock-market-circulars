@@ -26,14 +26,12 @@ source: bse
 stocks:
 - KVSCASTING
 tags:
+- asm-stage
 - group-change
-- sme
 - ipo
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
-- kvs-castings
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of KVS Castings Limited
 ---
 

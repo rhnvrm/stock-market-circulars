@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JAIN INTERNATIONAL POWER
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
 - schedule-vi
+- sme
 title: SME IPO - Draft Offer Document of JAIN INTERNATIONAL POWER LIMITED
 ---
 

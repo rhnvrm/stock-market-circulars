@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- scheme-name-change
 - fund-of-funds
-- sebi-framework
+- mutual-fund
+- name-change
 - overseas-equity
+- regulatory-framework
 title: Change in scheme name of Motilal Oswal Mutual Fund on NSE MF Invest platform
 ---
 

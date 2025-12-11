@@ -26,10 +26,10 @@ source: bse
 stocks:
 - BEMCO
 tags:
-- corporate-actions
-- isin-change
-- share-subdivision
-- equity-shares
+- corporate-action
+- equity
+- face-value-change
+- isin
 - trading
 title: New ISIN Number for BEMCO HYDRAULICS LTD Following Share Sub-Division
 ---

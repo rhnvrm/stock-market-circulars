@@ -25,10 +25,10 @@ source: bse
 stocks:
 - MAGNUS
 tags:
-- name-change
 - certificate-incorporation
 - corporate-affairs
 - magnus-steel-infra
+- name-change
 title: Change in Name of Magnus Retail Limited to Magnus Steel and Infra Limited
 ---
 

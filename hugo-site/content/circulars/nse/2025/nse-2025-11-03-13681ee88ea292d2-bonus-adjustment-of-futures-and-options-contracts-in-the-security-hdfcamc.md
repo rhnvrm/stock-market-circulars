@@ -28,12 +28,11 @@ source: nse
 stocks:
 - HDFCAMC
 tags:
-- bonus-issue
+- bonus
+- contract-adjustment
 - corporate-action
 - derivatives
-- futures-and-options
-- contract-adjustment
-- HDFCAMC
+- futures-options
 title: Bonus Adjustment of Futures and Options Contracts in HDFCAMC
 ---
 

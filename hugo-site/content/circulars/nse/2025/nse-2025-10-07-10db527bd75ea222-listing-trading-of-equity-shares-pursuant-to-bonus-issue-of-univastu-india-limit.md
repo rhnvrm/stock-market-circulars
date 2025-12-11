@@ -26,11 +26,10 @@ source: nse
 stocks:
 - UNIVASTU
 tags:
-- bonus-issue
+- bonus
+- equity
 - listing
-- equity-shares
 - trading
-- UNIVASTU
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Univastu India
   Limited
 ---

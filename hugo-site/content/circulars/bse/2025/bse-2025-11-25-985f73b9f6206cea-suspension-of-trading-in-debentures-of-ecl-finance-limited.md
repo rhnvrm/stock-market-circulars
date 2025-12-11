@@ -28,14 +28,12 @@ source: bse
 stocks:
 - ECLFINANCE
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- ecl-finance
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ECL Finance Limited
 ---
 

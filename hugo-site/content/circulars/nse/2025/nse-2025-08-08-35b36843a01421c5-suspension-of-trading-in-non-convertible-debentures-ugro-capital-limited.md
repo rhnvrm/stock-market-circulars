@@ -26,9 +26,9 @@ source: nse
 stocks:
 - UGROCAP
 tags:
-- trading-suspension
-- non-convertible-debentures
 - maturity
+- ncd
+- suspension
 - ugro-capital
 title: Suspension of trading in Non-Convertible Debentures - Ugro Capital Limited
 ---

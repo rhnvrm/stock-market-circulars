@@ -28,12 +28,11 @@ stocks:
 - KIRLOSKARENG
 - PRECWIR
 tags:
-- price-movement
-- volume-increase
 - clarification
-- surveillance
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

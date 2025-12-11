@@ -26,11 +26,11 @@ source: nse
 stocks:
 - INVICTA
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Invicta Diagnostic Limited (SME IPO)
 ---
 

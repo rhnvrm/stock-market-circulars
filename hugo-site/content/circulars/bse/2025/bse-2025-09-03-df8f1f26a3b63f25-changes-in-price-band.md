@@ -24,36 +24,36 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '530881'
-- '540824'
-- '539335'
-- '538965'
-- '531608'
-- '505693'
-- '535387'
-- '532275'
-- '538894'
-- '544225'
-- '514460'
-- '514414'
-- '504132'
-- '506642'
-- '544056'
-- '540786'
-- '514454'
-- '517166'
-- '539895'
-- '508963'
-- '542803'
-- '539939'
-- '512345'
-- '512553'
+- ABVL
+- ASTRON
+- CHPLIND
+- CONCORD
+- GORANIN
+- LATIMMETAL
+- LAKHOTIA
+- LANDMARC
+- OCTAL
+- OLAELEC
+- OSWAYRN
+- OXFORDIN
+- PERMAGN
+- SADHNANIQ
+- SMARITIME
+- SHARIKA
+- SOUTLAT
+- SPELS
+- SPICELOUNG
+- TRUSTWAVE
+- VEL
+- YASHCHEM
+- YASTF
+- ZENITHEXPO
 tags:
-- price-band
-- trading
-- surveillance
 - equity
 - ola-electric
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 24 Securities Effective September 4, 2025
 ---
 

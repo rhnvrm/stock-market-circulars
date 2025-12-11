@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- notice-of-attachment
-- recovery-certificate
-- unregistered-investment-advisory
-- enforcement-action
-- pan-ceupb0805g
+- enforcement
 - manish-bhardwaj
+- notice-of-attachment
+- pan-ceupb0805g
+- recovery
+- unregistered-investment-advisory
 title: Notice of Attachment - Recovery Certificate No. 8823/2025 against Manish Bhardwaj
   for Unregistered Investment Advisory Services
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - IGL
 tags:
-- corporate-actions
-- share-subdivision
-- isin-change
-- equity-shares
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for India Glycols Ltd - Share Subdivision from Rs.10 to Rs.5
 ---
 

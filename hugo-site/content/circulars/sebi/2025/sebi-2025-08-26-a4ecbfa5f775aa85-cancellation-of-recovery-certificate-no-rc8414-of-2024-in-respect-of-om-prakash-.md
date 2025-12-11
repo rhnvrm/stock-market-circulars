@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - cancellation
 - enforcement
 - illiquid-stock-options
 - individual-action
+- recovery
 title: Cancellation of Recovery Certificate No. RC8414 of 2024 in respect of Om Prakash
   Dalmia
 ---

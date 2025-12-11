@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UDAAN
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
+- sme
 - udaan-paper-industries
-- icdr-regulations
 title: SME IPO - Draft Offer Document of UDAAN PAPER INDUSTRIES LIMITED
 ---
 

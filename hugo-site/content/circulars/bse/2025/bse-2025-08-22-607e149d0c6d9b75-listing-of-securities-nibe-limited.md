@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NIBE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of Securities - NIBE LIMITED Preferential Allotment
 ---
 

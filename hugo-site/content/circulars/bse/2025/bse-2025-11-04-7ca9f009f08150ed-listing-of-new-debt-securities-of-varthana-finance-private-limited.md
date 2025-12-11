@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- demat
+- listing
 - ncd
 - private-placement
 - varthana-finance
-- listing
-- demat-only
 title: Listing of New Debt Securities of Varthana Finance Private Limited
 ---
 

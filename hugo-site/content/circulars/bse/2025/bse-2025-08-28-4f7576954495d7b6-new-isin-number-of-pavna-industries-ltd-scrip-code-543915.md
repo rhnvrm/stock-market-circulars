@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PAVNAIND
 tags:
-- corporate-actions
-- isin-change
-- share-subdivision
-- equity-shares
-- pavna-industries
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for PAVNA INDUSTRIES LTD Following Equity Share Sub-Division
 ---
 

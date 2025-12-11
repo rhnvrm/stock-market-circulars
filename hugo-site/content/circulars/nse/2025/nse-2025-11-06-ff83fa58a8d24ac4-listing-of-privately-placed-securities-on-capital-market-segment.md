@@ -26,11 +26,11 @@ source: nse
 stocks:
 - CLIX
 tags:
-- listing
-- debt-securities
-- debentures
-- private-placement
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of privately placed securities on capital market segment - Clix Capital
   Services Private Limited
 ---

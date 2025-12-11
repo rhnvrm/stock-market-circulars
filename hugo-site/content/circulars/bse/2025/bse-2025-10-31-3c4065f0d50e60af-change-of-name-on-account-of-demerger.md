@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- demerger
-- name-change
-- membership
-- stockbroker
 - algoquant-fintech
 - growth-securities
-- corporate-restructuring
+- membership
+- name-change
+- scheme-of-arrangement
+- stockbroker
 title: 'Change of Name: Growth Securities Pvt. Ltd. to Algoquant Fintech Limited Following
   Demerger'
 ---

@@ -27,7 +27,7 @@ stocks:
 - KOTAK
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kotak-mahindra
 - private-placement
 - short-term-debt

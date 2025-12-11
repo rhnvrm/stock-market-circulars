@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bank-of-india
+- equity
+- mid-cap
 - mutual-fund
 - reopening
-- bse-star-mf
-- equity-fund
-- mid-cap
-- bank-of-india
 title: Bank of India Mid Cap Fund Reopening for Transactions on BSE StAR MF Platform
 ---
 

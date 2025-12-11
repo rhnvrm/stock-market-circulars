@@ -36,10 +36,10 @@ stocks:
 - NAVI
 tags:
 - commercial-paper
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
-- debt-segment
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---

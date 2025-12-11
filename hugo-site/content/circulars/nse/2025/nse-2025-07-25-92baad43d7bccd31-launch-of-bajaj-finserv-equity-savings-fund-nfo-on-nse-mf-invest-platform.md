@@ -24,11 +24,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
 - bajaj-finserv
 - equity-savings-fund
-- nse-mf-invest
+- mutual-fund
+- nfo
 - trading-platform
 title: Launch of Bajaj Finserv Equity Savings Fund NFO on NSE MF Invest Platform
 ---

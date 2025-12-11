@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- unregistered-investment-advisor
-- remittance-order
-- enforcement
 - compliance
+- demand-notice
+- enforcement
+- recovery
+- unregistered-investment-advisor
 title: General Remittance Order dated 29.08.2025 in Recovery Certificate No. 8817
   of 2025 - Krishnamurthy G.
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MAHLOG
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - mahindra-logistics
 - renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Mahindra Logistics Limited
 ---
 

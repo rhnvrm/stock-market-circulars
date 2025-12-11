@@ -26,9 +26,9 @@ stocks:
 - NBFSPL
 tags:
 - debt-securities
-- private-placement
 - listing
 - nirmal-bang-financial
+- private-placement
 title: Listing of new debt securities of NIRMAL BANG FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

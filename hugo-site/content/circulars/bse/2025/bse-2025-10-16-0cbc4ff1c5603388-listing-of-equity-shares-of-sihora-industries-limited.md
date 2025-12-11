@@ -27,11 +27,9 @@ source: bse
 stocks:
 - SIHORA
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- sihora
 title: Listing of Equity Shares of SIHORA INDUSTRIES LIMITED
 ---
 

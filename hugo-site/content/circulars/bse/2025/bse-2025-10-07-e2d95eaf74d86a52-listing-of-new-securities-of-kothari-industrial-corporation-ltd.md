@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '509732'
+- KOTIC
 tags:
-- listing
-- preferential-issue
-- equity-shares
-- lock-in
+- equity
 - kothari-industrial
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Kothari Industrial Corporation Ltd
 ---
 

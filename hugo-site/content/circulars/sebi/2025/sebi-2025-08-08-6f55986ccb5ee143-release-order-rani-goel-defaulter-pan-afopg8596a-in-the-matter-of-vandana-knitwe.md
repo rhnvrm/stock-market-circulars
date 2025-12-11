@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - VANDANAKNI
 tags:
-- release-order
 - defaulter
-- recovery-proceedings
-- vandana-knitwear
 - enforcement
+- recovery
+- release
 title: 'Release Order – Rani Goel [Defaulter] PAN: AFOPG8596A in the matter of Vandana
   Knitwear Limited'
 ---

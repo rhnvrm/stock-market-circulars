@@ -26,20 +26,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BERYLSECURITIES
-- CONCORDDRUGS
-- SVGLOBALMILL
-- SAMSRITALABS
-- SWATIPROJECTS
+- BERYLSE
+- CONCORD
+- SVGLOBAL
+- SAMSRITA
+- SWATIPRO
 - STARLINEPS
-- VTM
+- VTMLTD
 - SWITCHINGTECH
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -28,11 +28,10 @@ stocks:
 - ROHLTD
 - SHREERAMA
 tags:
-- surveillance
 - margin
-- asm
-- trading
 - risk-management
+- surveillance
+- trading
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

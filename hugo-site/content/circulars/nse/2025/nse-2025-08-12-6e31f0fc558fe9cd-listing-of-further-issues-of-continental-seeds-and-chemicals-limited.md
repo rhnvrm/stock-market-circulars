@@ -26,12 +26,12 @@ source: nse
 stocks:
 - CONTI
 tags:
-- listing
-- equity-shares
-- sme
-- emerge
-- preferential-issue
 - continental-seeds
+- emerge-platform
+- equity
+- listing
+- preferential-issue
+- sme
 title: Listing of further issues of Continental Seeds and Chemicals Limited
 ---
 

@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
+- multi-asset
 - mutual-fund
-- nse-mf-invest
-- wealth-company-mutual-fund
-- multi-asset-allocation
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
+- trading-platform
+- wealth-company-mutual-fund
 title: Availability of The Wealth Company Multi Asset Allocation Fund for ongoing
   transactions on NSE MF Invest Platform
 ---

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - V2RETAIL
 tags:
+- capital-market
+- equity
+- further-issue
 - listing
 - qip
-- equity-shares
-- capital-market
-- further-issue
 title: Listing of Further Issues of V2 Retail Limited
 ---
 

@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ACES
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
-- trading
+- renunciation
+- rights-issue
 - settlement
-- dematerialized
+- trading
 title: Rights Entitlements Trading for ACE Software Exports Limited
 ---
 

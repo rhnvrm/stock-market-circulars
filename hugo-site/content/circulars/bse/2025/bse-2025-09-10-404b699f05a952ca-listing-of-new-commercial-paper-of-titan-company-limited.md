@@ -26,9 +26,8 @@ stocks:
 - TITAN
 tags:
 - commercial-paper
+- debt-securities
 - private-placement
-- debt-listing
-- titan
 title: Listing of new Commercial Paper of Titan Company Limited
 ---
 

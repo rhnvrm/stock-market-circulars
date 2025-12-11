@@ -28,14 +28,13 @@ source: bse
 stocks:
 - AFPL
 tags:
-- part-redemption
-- debentures
-- non-convertible-debentures
-- interest-payment
-- corporate-actions
-- debt-market
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of ANNAPURNA FINANCE PRIVATE LIMITED
 ---
 

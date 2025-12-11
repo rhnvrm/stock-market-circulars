@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SKMINERALS
 tags:
-- public-issue
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
-- sk-minerals-additives
 - listing
+- public-issue
 title: Public Issue of SK MINERALS & ADDITIVES LIMITED - Allocation to Anchor Investors
 ---
 

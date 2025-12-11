@@ -30,9 +30,9 @@ stocks:
 - IDFCFIRSTB
 - LTIM
 tags:
-- listing
-- equity-shares
+- equity
 - esop
+- listing
 - scheme-arrangement
 - trading
 title: Listing of Further Issues of 13 Securities Including Brand Concepts, CREDITACCESS

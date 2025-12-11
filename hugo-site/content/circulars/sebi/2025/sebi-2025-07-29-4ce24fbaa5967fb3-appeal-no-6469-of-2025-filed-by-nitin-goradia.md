@@ -24,12 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
 - harassment
-- oiae-igrd
 - information-request
-- appellate-authority
+- oiae-igrd
+- rti
 title: Appeal No. 6469 of 2025 filed by Nitin Goradia - RTI Application Dismissed
 ---
 

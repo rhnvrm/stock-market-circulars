@@ -28,10 +28,9 @@ stocks:
 - TANLA
 tags:
 - buyback
-- offer-to-buy
-- acquisition-window
+- equity
+- otb
 - trading-schedule
-- equity-shares
 title: Offer to Buy – Acquisition Window (Buyback) for TANLA PLATFORMS LTD - Live
   Activities Schedule
 ---

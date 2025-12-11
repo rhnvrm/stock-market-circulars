@@ -33,12 +33,10 @@ stocks:
 - TILAKNAGAR
 - SHAREINDIA
 tags:
-- surveillance
 - encumbrance
-- sebi-sast
 - regulation-28-3
-- promoter-encumbrance
-- market-surveillance
+- sast
+- surveillance
 title: Applicability of Surveillance Measure in respect of companies with high 'Encumbrance'
   as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

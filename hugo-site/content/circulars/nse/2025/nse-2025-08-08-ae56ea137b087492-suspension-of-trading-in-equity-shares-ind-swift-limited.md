@@ -26,10 +26,10 @@ source: nse
 stocks:
 - INDSWFTLTD
 tags:
-- trading-suspension
-- scheme-of-arrangement
-- equity-shares
+- equity
 - ind-swift-limited
+- scheme-of-arrangement
+- suspension
 title: Suspension of trading in equity shares - Ind-Swift Limited
 ---
 

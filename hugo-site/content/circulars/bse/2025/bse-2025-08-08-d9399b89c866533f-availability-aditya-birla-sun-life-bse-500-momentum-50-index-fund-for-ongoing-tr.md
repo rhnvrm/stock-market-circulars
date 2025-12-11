@@ -26,16 +26,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- aditya-birla-sun-life
 - index-fund
-- bse-star-mf
-- reopening
-- subscription
+- mutual-fund
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- aditya-birla-sun-life
 title: Reopening of Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund for Ongoing
   Transactions
 ---

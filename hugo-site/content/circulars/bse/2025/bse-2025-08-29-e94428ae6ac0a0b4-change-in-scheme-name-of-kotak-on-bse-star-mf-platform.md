@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-names
 - fund-of-funds
-- kotak
-- sebi-framework
-- overseas-fof
 - hybrid-fof
+- kotak
+- mutual-fund
+- overseas-fof
+- regulatory-framework
+- scheme-names
 title: Change in Scheme Names of KOTAK Mutual Fund Schemes on BSE StAR MF Platform
 ---
 

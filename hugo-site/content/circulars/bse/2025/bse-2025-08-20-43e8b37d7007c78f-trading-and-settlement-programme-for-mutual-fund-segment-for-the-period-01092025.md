@@ -25,10 +25,9 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- mutual-fund
 - settlement
 - trading-schedule
-- bse-star-mf
 title: Trading and Settlement Programme for Mutual Fund Segment - September 2025
 ---
 

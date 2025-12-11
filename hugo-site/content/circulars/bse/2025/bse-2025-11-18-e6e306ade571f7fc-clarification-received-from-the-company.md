@@ -30,13 +30,12 @@ stocks:
 - ANANDRATHI
 - BCPOWER
 tags:
-- price-movement
-- volume-movement
 - company-clarification
-- surveillance
-- market-driven
-- disclosure-compliance
+- disclosure
+- market-operations
+- price-movement
 - regulation-30
+- surveillance
 title: Clarification received from the company
 ---
 

@@ -39,11 +39,10 @@ stocks:
 - RITEZONE
 - SHANKARA
 tags:
-- surveillance
-- asm
-- st-asm
-- margin-requirements
+- asm-stage
+- margin
 - risk-management
+- surveillance
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

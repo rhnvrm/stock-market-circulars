@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SUNRAKSHAKK
 tags:
-- sub-division
-- stock-split
 - corporate-action
-- equity-shares
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of SUNRAKSHAKK INDUSTRIES INDIA LTD (Scrip Code:
   539300)'
 ---

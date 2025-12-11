@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SPACEIN
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
-- record-date
+- equity
 - face-value-change
+- record-date
+- split
 title: 'Sub-division of Equity Shares of Space Incubatrics Technologies Ltd (Scrip
   Code: 541890)'
 ---

@@ -26,10 +26,10 @@ source: nse
 stocks:
 - VIJAYPD
 tags:
-- trade-for-trade
-- segment-change
-- sme-ipo
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Vijaypd Ceutical Limited (SME IPO)
 ---
 

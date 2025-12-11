@@ -28,14 +28,14 @@ source: bse
 stocks: []
 tags:
 - block-deal
-- trading-framework
 - market-operations
-- sebi-circular
-- settlement-cycle
-- T+0
-- T+1
+- price-band
+- sebi
+- settlement-calendar
+- t+0
+- t+1
+- trading-operations
 - trading-window
-- price-bands
 title: Review of Block Deal Framework
 ---
 

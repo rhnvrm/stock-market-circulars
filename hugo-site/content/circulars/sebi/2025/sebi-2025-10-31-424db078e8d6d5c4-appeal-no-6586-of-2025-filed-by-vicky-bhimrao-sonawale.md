@@ -27,13 +27,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- appeal
 - investor-protection
-- panoramic-group
 - pan-card-club-limited
-- appellate-authority
+- panoramic-group
 - refund-proceedings
+- rti
 title: Appeal No. 6586 of 2025 filed by Vicky Bhimrao Sonawale
 ---
 

@@ -29,15 +29,11 @@ stocks:
 - ALLCARGOGATI
 - ALLCARGO
 tags:
-- amalgamation
-- merger
 - corporate-action
-- scheme-of-arrangement
+- equity
 - nclt
-- equity-shares
-- allcargo-gati
-- allcargo-logistics
-- trading-suspension
+- scheme-of-arrangement
+- suspension
 title: 'Amalgamation of ALLCARGO GATI LIMITED (Scrip Code: 532345)'
 ---
 

@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- notice-of-demand
+- demand-notice
 - enforcement
 - rajasthan-tube-manufacturing
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8949 of 2025 - Rajasthan Tube
   Manufacturing Company Limited
 ---

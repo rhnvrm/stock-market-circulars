@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PONDYOX
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- pondy-oxides
 - lock-in
+- pondy-oxides
+- preferential-issue
 title: Listing of New Securities of Pondy Oxides & Chemicals Limited
 ---
 

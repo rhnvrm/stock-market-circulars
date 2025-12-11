@@ -27,12 +27,12 @@ source: bse
 stocks:
 - DFPL
 tags:
-- debentures
-- redemption
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
-- debt-segment
-- corporate-actions
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of DMI Finance Private Limited
 ---
 

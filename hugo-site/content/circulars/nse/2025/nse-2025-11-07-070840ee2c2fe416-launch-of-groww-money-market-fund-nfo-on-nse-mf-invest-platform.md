@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- new-fund-offer
+- debt-securities
 - groww-mutual-fund
 - money-market-fund
-- debt-fund
-- nse-mf-invest
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Groww Money Market Fund NFO on NSE MF Invest Platform
 ---
 

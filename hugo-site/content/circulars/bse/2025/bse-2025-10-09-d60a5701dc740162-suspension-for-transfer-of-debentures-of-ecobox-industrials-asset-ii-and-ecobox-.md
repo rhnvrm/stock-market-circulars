@@ -29,13 +29,13 @@ stocks:
 - EAIIPL
 - EAIII
 tags:
-- corporate-actions
-- debentures
-- amalgamation
-- transfer-suspension
+- corporate-action
+- debt-securities
+- ncd
 - nclt-scheme
 - record-date
-- debt-segment
+- scheme-of-arrangement
+- transfer-suspension
 title: Suspension for Transfer of Debentures of Ecobox Industrials Asset II and Ecobox
   Industrials Asset III Private Limited
 ---

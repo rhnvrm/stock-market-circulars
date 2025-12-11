@@ -33,11 +33,10 @@ stocks:
 - NABARD
 - ABCL
 tags:
-- listing
-- debt-securities
 - commercial-paper
-- privately-placed-securities
-- debt-market
+- debt-securities
+- listing
+- privately-placed
 title: Listing of Privately Placed Securities on NSE Debt Market Segment
 ---
 

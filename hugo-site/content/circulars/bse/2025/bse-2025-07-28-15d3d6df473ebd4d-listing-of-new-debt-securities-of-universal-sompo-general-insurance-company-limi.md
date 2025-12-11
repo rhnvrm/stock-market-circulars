@@ -25,11 +25,11 @@ source: bse
 stocks:
 - USGICL
 tags:
-- debt-securities
-- private-placement
-- listing
-- insurance
 - bond-trading
+- debt-securities
+- insurance
+- listing
+- private-placement
 title: Listing of new debt securities of Universal Sompo General Insurance Company
   Limited
 ---

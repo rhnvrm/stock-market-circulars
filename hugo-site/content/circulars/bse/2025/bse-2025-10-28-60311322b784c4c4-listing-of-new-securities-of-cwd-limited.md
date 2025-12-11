@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CWD
 tags:
-- new-listing
-- preferential-issue
-- warrant-conversion
-- equity-shares
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of CWD Limited - Preferential Issue
 ---
 

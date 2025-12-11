@@ -27,12 +27,11 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
-- bonus-issue
-- equity-shares
-- corporate-action
-- moneyboxx-finance
-- record-date
 - allotment
+- bonus
+- corporate-action
+- equity
+- record-date
 title: Bonus Issue of Moneyboxx Finance Limited - 1:1 Ratio
 ---
 

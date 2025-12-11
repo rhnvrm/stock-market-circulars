@@ -27,10 +27,10 @@ source: nse
 stocks:
 - UTKARSHBNK
 tags:
+- equity
+- further-issue
 - listing
 - rights-issue
-- equity-shares
-- further-issue
 - utkarsh-small-finance-bank
 title: Listing of further issues of Utkarsh Small Finance Bank Limited
 ---

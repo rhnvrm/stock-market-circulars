@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- keertana-finserv
-- private-placement
 - monthly-interest
+- private-placement
 title: Listing of new debt securities of Keertana Finserv Limited
 ---
 

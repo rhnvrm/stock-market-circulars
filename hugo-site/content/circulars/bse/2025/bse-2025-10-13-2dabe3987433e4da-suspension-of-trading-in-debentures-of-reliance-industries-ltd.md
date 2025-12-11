@@ -27,12 +27,12 @@ source: bse
 stocks:
 - RELIANCE
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Reliance Industries Ltd
 ---
 

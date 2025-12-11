@@ -27,12 +27,12 @@ source: bse
 stocks:
 - WICL
 tags:
-- sebi-order
-- debenture-trustee
-- regulatory-violation
-- ncd
 - compliance
-- securities-market
+- debenture-trustee
+- ncd
+- non-compliance
+- sebi-order
+- securities
 title: SEBI Order Against Weird Infrastructure Corporation Limited for Unregistered
   Debenture Trustee Appointment
 ---

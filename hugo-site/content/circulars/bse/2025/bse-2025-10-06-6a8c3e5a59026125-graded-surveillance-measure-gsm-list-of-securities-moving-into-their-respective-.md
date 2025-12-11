@@ -30,11 +30,10 @@ stocks:
 - RAJKAMALS
 - BIJOYH
 tags:
-- gsm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- market-safety
-- risk-management
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

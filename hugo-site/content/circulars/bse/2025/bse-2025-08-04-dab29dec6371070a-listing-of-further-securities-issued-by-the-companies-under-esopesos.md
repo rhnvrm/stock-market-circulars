@@ -24,23 +24,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- CREDITACCESSGRAMEEN
-- EICHERMOTORS
-- IDFCFIRSTBANK
-- LTIMINDTREE
+- CREDITACC
+- EICHERMOT
+- IDFCFIRSTB
+- LTIM
 - MAHINDRALIFESPACE
 - NACL
-- NIIT
+- NIITLTD
 - PNBHOUSING
 - POONAWALLAFINC
-- QUESSCORP
-- SBFCFINANCE
+- QUESS
+- SBFC
 tags:
 - esop
-- esos
-- securities-listing
-- employee-stock-options
-- new-shares
+- listing
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---
 

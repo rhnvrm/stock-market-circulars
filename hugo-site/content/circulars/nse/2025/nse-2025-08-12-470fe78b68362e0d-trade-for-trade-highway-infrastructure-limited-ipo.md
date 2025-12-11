@@ -26,11 +26,10 @@ source: nse
 stocks:
 - HILINFRA
 tags:
-- trade-for-trade
+- ipo
 - rolling-segment
 - segment-transfer
-- ipo
-- hilinfra
+- trade-for-trade
 title: Trade for Trade - Highway Infrastructure Limited (IPO)
 ---
 

@@ -28,7 +28,7 @@ stocks:
 - AAYUSH
 - ACESOFTWR
 - AMITSEC
-- APISINDIA
+- APIS
 - ARTINT
 - ARUNIS
 - AUTORIDER
@@ -71,11 +71,11 @@ stocks:
 - VEGAJEW
 - VUENOW
 tags:
+- addon-framework
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- addon-framework
-- market-operations
 title: Add-on Price Band Framework - Updated List of 45 Securities
 ---
 

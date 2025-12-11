@@ -27,10 +27,9 @@ source: bse
 stocks:
 - PURITYFLEX
 tags:
-- bonus-issue
+- bonus
 - corporate-action
 - listing
-- purity-flexpack
 title: 'Bonus Issue of Purity Flex Pack Ltd (Scrip Code: 523315)'
 ---
 

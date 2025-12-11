@@ -32,12 +32,11 @@ stocks:
 - IIFLCAPS
 - MPHASIS
 tags:
-- listing
-- esop
-- equity-shares
-- further-issues
 - capital-market
-- employee-stock-options
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - ESOP Allotments for Seven Companies
 ---
 

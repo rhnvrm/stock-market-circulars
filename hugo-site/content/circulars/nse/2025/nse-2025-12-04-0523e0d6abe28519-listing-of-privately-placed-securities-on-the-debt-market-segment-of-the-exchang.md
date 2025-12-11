@@ -30,17 +30,14 @@ stocks:
 - MUTHOOTFIN
 - CHOLAFIN
 tags:
-- debt-market
-- listing
 - commercial-paper
-- debentures
-- privately-placed-securities
-- EPL
-- SIDBI
-- MUTHOOTFIN
-- KOTAKBANK
-- TATAPROJECTS
-- CHOLAFIN
+- debt-securities
+- kotakbank
+- listing
+- ncd
+- privately-placed
+- sidbi
+- tataprojects
 title: Listing of Privately Placed Securities on Debt Market Segment - December 04,
   2025
 ---

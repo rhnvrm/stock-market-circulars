@@ -27,12 +27,12 @@ source: nse
 stocks:
 - BETA
 tags:
+- capital-market
+- equity
 - listing
-- sme-migration
 - main-board
 - shareholding-pattern
-- equity-shares
-- capital-market
+- sme-migration
 title: Listing of Equity Shares of Beta Drugs Limited on Capital Market Segment (Main
   Board) pursuant to migration from SME Emerge platform
 ---

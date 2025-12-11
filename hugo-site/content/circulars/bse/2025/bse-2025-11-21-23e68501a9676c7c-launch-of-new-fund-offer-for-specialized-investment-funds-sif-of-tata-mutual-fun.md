@@ -27,14 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- hybrid-scheme
 - mutual-fund
 - nfo
-- specialized-investment-fund
 - sif
 - tata-mutual-fund
 - titanium-hybrid-long-short-fund
-- bse-star-mf
-- hybrid-scheme
 title: Launch of New Fund Offer for Specialized Investment Funds (SIF) of TATA MUTUAL
   FUND on BSE StAR MF Platform
 ---

@@ -27,12 +27,11 @@ source: nse
 stocks:
 - CURIS
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- trade-for-trade
+- listing
+- sme
 - surveillance
-- new-listing
+- trade-for-trade
 title: Listing of Equity Shares of Curis Lifesciences Limited (SME IPO)
 ---
 

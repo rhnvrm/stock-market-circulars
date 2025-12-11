@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MUTHOOT CAPITAL SERVICES LTD
 tags:
-- debt
-- debentures
-- redemption
-- interest-payment
-- record-date
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of MUTHOOT CAPITAL SERVICES LTD.
 ---
 

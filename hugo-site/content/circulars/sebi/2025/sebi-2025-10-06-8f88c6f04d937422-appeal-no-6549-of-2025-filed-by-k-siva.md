@@ -25,12 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- agriculture-commodities
+- appeal
 - commodities-market
 - ncdex
-- agriculture-commodities
-- appeal-dismissed
+- rti
 title: Appeal No. 6549 of 2025 filed by K. Siva - RTI Appeal Dismissed
 ---
 

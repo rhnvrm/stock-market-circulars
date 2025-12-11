@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
-- partial-redemption
-- debt-securities
 - corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
 - provident-cedar
+- redemption
 title: Part Redemption of Debentures of Provident Cedar Private Limited
 ---
 

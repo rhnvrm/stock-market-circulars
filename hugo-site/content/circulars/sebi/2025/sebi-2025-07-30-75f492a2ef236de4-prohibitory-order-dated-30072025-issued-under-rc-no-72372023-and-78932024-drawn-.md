@@ -30,13 +30,12 @@ stocks:
 - MINDVISION
 - RFL
 tags:
-- prohibitory-order
-- market-violations
 - cotton-industries
-- universal-credit
-- mindvision-capital
-- rfl-international
+- market-violations
 - narendra-raman-shah
+- prohibitory-order
+- rfl-international
+- universal-credit
 title: Prohibitory Order Against Narendra Raman Shah for Market Violations
 ---
 

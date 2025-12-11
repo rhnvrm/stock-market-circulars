@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity-scheme
+- franklin-mutual-fund
+- multi-factor-fund
 - mutual-fund
 - nfo
-- new-fund-offer
-- franklin-mutual-fund
-- equity-scheme
-- multi-factor-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Franklin India Multi-Factor Fund NFO on NSE MF Invest Platform
 ---
 

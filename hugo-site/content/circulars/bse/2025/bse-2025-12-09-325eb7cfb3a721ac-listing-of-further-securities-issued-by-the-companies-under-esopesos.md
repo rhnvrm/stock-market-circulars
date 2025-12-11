@@ -35,11 +35,9 @@ stocks:
 - NIITLTD
 - VALIANTORG
 tags:
+- equity
 - esop
-- esos
-- new-listing
-- equity-shares
-- employee-stock-options
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 9 Companies
 ---
 

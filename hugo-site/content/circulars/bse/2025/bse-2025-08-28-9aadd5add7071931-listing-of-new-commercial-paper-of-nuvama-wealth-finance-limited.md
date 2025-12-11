@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NUVAMA
 tags:
+- care-a1
 - commercial-paper
-- debt-listing
+- crisil-a1
+- debt-securities
 - nuvama-wealth
 - private-placement
-- care-a1
-- crisil-a1
 title: Listing of new Commercial Paper of Nuvama Wealth Finance Limited
 ---
 

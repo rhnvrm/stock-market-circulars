@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MMFS
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
 - mahindra-finance
+- ncd
+- suspension
 title: Suspension of Trading in Debentures of MAHINDRA & MAHINDRA FINANCIAL SERVICES
   LIMITED
 ---

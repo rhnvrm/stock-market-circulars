@@ -25,9 +25,8 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- commodity-derivatives
-- system-testing
 - trading-session
 title: Mock Trading Session September 6, 2025 - Commodity Derivatives Segment
 ---

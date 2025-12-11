@@ -28,11 +28,10 @@ stocks:
 - SEIL
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- new-listing
-- SEIL-Energy
 - debt-securities
+- listing
+- private-placement
+- seil-energy
 title: Listing of new Commercial Paper of SEIL Energy India Limited
 ---
 

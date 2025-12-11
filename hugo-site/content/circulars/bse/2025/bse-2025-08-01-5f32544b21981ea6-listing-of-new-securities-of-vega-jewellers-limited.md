@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VEGA
 tags:
-- listing
-- new-securities
-- equity-shares
 - allotment
-- lock-in-period
+- equity
+- listing
+- lock-in
+- new-securities
 - vega-jewellers
 title: Listing of new Securities of Vega Jewellers Limited
 ---

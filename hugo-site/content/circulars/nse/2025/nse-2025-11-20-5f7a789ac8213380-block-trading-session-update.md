@@ -27,11 +27,11 @@ source: nse
 stocks: []
 tags:
 - block-trading
-- trading-parameters
+- capital-market
 - order-size
 - price-range
-- capital-market
-- sebi-directive
+- sebi-order
+- trading-operations
 - trading-window
 title: 'Block Trading Session - Update: Revised Order Size and Price Range'
 ---

@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
+- bse
 - enforcement
 - illiquid-options
-- bse
-- trading-violations
+- recovery
+- trading-operations
 title: General Remittance Order dated 09.09.2025 in Recovery Certificate No. 8830
   of 2025 issued against Sudhir Agarwal HUF
 ---

@@ -28,13 +28,11 @@ source: bse
 stocks:
 - JCHAC
 tags:
-- open-offer
-- takeover
-- acquisition
-- public-announcement
-- sebi-sast
-- cash-offer
+- cash-segment
 - johnson-controls-hitachi
+- public-issue
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Johnson Controls-Hitachi
   Air Conditioning India Limited
 ---

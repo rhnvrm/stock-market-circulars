@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NAVIFINSERV
 tags:
+- credit-rating
 - debt-securities
 - listing
-- navi-finserv
+- ncd
 - private-placement
-- debentures
-- credit-rating
 title: Listing of New Debt Securities of Navi Finserv Limited
 ---
 

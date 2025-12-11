@@ -26,13 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- helios-mutual-fund
 - mutual-fund
 - nfo
-- new-fund-offer
 - sip
-- helios-mutual-fund
 - small-cap-fund
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of HELIOS MUTUAL FUND on BSE StAR
   MF Platform
 ---

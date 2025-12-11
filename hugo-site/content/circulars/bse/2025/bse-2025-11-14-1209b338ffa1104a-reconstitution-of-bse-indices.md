@@ -36,11 +36,10 @@ stocks:
 - NIVABUPA
 - MANGALCOMP
 tags:
-- index
+- bse-index
+- index-change
+- index-fund
 - reconstitution
-- bse-ipo-index
-- bse-sme-ipo-index
-- index-rebalancing
 title: Reconstitution of BSE Indices - November 2025
 ---
 

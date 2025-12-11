@@ -27,11 +27,11 @@ source: nse
 stocks:
 - ROLEXRINGS
 tags:
-- face-value-split
-- stock-split
-- corporate-action
-- equity-shares
 - capital-restructuring
+- corporate-action
+- equity
+- face-value-change
+- split
 title: Face Value Split - Rolex Rings Limited (ROLEXRINGS)
 ---
 

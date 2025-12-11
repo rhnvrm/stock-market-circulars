@@ -27,11 +27,9 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
-- listing
-- debentures
-- ncd
 - debt-securities
-- edelweiss
+- listing
+- ncd
 - secured-debt
 title: Listing of Secured Redeemable Non-Convertible Debentures of Edelweiss Financial
   Services Limited

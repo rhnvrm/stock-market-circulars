@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- wti-crude-oil
-- futures-contracts
 - contract-launch
+- derivatives
+- futures-contracts
 - trading-calendar
+- wti-crude-oil
 title: Contract launch calendar of WTI crude oil Futures Contracts
 ---
 

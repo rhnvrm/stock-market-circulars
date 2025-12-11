@@ -92,13 +92,12 @@ stocks:
 - APTUS
 - ARE&M
 tags:
+- borrowing
+- client-limits
+- collateral
+- etf
 - position-limits
 - slbs
-- securities-lending
-- borrowing
-- etf
-- mwpl
-- client-limits
 title: Revised Applicable MWPL, Participant, Institutional Client and Non Institutional
   Client Limits for Securities and ETFs - SLBS
 ---

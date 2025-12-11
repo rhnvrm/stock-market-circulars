@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- suspension
+- corporate-action
+- debt-securities
 - maturity
-- debt-market
 - redemption
-- corporate-actions
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - Maturity on Redemption Date
 ---
 

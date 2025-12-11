@@ -26,13 +26,12 @@ source: bse
 stocks:
 - INDIAINFRADEBT
 tags:
-- trading-suspension
-- debentures
-- debt-market
-- redemption
-- interest-payment
 - corporate-action
-- india-infradebt
+- debt-securities
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of India Infradebt Limited
 ---
 

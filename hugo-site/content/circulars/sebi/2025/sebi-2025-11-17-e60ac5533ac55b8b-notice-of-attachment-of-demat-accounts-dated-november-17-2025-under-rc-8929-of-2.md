@@ -29,12 +29,11 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
-- recovery-certificate
-- attachment-notice
-- demat-accounts
+- attachment
+- demat
 - enforcement
-- setubandhan-infrastructure
 - prakash-constrowell
+- recovery
 title: Notice of Attachment of Demat Accounts under Recovery Certificate No. 8929
   of 2025 against Prafulla Subhash Chandra Bhat
 ---

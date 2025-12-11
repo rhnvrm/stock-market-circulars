@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- login-discontinuation
+- mutual-fund
 - nmf-platform
 - platform-migration
-- login-discontinuation
-- mutual-funds
-- system-upgrade
+- system-update
 title: Discontinuation of Login Facility on NMF Platform with effect from September
   15, 2025
 ---

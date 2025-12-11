@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ORIENTAL
 tags:
-- name-change
-- incorporation-certificate
-- company-affairs
-- oriental-carbon-chemicals
 - ag-ventures
+- certificate
+- company-affairs
+- name-change
 title: Change in Name of the Company - Oriental Carbon and Chemicals Ltd. to AG Ventures
   Limited
 ---

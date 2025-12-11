@@ -27,12 +27,12 @@ source: bse
 stocks:
 - VIVIMED
 tags:
-- trading-suspension
-- revocation
-- vivimed-labs
-- equity-shares
+- equity
 - market-operations
+- release
 - scrip-532660
+- suspension
+- vivimed-labs
 title: Revocation of Suspension in Trading of Equity Shares of Vivimed Labs Limited
 ---
 

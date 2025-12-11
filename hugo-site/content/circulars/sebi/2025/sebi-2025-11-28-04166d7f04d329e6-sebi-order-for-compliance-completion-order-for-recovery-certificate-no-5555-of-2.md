@@ -27,11 +27,9 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
 - compliance
-- debt-recovery
-- sms-techsoft
+- enforcement
+- recovery
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 5555
   of 2022 against Mrs. Alkaben Kirtibhai Shah in the matter of SMS Techsoft (India)
   Ltd.

@@ -31,11 +31,9 @@ stocks:
 - LT
 - WIPRO
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - August 6, 2025
 ---
 

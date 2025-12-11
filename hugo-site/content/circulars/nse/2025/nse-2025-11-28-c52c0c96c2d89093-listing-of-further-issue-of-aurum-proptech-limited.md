@@ -27,13 +27,12 @@ source: nse
 stocks:
 - AURUM
 tags:
-- listing
-- equity-shares
-- further-issue
 - conversion
-- partly-paid-shares
+- equity
 - fully-paid-shares
-- AURUM
+- further-issue
+- listing
+- partly-paid
 title: Listing of Further Issue of Aurum PropTech Limited - Conversion of Partly Paid-up
   Shares
 ---

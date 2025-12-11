@@ -25,10 +25,9 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- attachment-proceedings
-- illiquid-stock-options
+- attachment
 - enforcement
+- illiquid-stock-options
 - recovery
 title: Release Order for Recovery Certificate No. RC8750 of 2025 and attachment proceeding
   Nos. 14746 & 14747 of 2025 in respect of Pankaj Kumar Agarwal

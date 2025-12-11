@@ -25,28 +25,27 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '534691'
-- '532902'
-- '523618'
-- '543521'
-- '542666'
-- '539864'
-- '509048'
-- '544575'
-- '544582'
-- '544585'
-- '544584'
-- '524156'
-- '530595'
-- '531203'
-- '751051'
-- '538521'
+- COMCL
+- CCCL
+- DREDGECORP
+- FONE4
+- GKP
+- GHUSHINE
+- LANCORHOL
+- MITTALSTL
+- SHLOKKA
+- SIHORA
+- SKM
+- TCMLMTD
+- TELECANOR
+- TRADEWELL
+- YAANENT
 tags:
-- price-band
-- trading
-- surveillance
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 16 Securities Effective November 4, 2025
 ---
 

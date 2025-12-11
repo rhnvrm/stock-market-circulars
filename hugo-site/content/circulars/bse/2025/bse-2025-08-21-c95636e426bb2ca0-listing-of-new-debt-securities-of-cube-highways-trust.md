@@ -25,12 +25,12 @@ source: bse
 stocks:
 - CHT
 tags:
-- debt-securities
-- listing
-- cube-highways-trust
-- private-placement
 - aaa-rating
+- cube-highways-trust
+- debt-securities
 - invit
+- listing
+- private-placement
 title: Listing of New Debt Securities of Cube Highways Trust
 ---
 

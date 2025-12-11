@@ -27,10 +27,10 @@ source: bse
 stocks:
 - STUDDS
 tags:
-- public-issue
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
+- public-issue
 - studds-accessories
 title: Public Issue of STUDDS ACCESSORIES LIMITED - Allocation to Anchor Investors
 ---

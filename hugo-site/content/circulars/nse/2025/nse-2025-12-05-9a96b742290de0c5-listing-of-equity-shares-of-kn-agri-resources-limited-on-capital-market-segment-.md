@@ -27,12 +27,11 @@ source: nse
 stocks:
 - KNAGRI
 tags:
+- capital-market-segment
+- equity
 - listing
 - migration
 - sme-to-mainboard
-- equity-shares
-- capital-market-segment
-- KNAGRI
 title: Listing of KN Agri Resources Limited on Capital Market Segment (Main Board)
   - Migration from SME Emerge
 ---

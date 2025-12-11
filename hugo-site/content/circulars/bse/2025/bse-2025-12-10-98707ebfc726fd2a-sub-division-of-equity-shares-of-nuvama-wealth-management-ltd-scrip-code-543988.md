@@ -28,12 +28,11 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- stock-split
 - corporate-action
-- equity-shares
-- nuvama-wealth-management
-- sub-division
+- equity
 - face-value-change
+- nuvama-wealth-management
+- split
 title: 'Sub-Division of Equity Shares of Nuvama Wealth Management Ltd (Scrip Code:
   543988)'
 ---

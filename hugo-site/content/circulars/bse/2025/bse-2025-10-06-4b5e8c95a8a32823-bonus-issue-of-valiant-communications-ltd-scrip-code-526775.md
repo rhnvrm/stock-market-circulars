@@ -26,10 +26,10 @@ source: bse
 stocks:
 - VALIANT
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- valiant-communications
 - equity
+- valiant-communications
 title: 'Bonus Issue of Valiant Communications Ltd (Scrip Code: 526775)'
 ---
 

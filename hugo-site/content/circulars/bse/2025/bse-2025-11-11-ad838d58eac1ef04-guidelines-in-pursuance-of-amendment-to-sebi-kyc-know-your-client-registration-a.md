@@ -27,16 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- kra
+- aadhaar
 - compliance
-- sebi-regulations
-- client-onboarding
+- demise-reporting
+- kyc
+- regulatory-framework
+- risk-management
 - trading-restrictions
 - ucc
-- aadhaar
-- risk-management
-- demise-reporting
 title: Guidelines for Amendment to SEBI KYC Registration Agency Regulations - Client
   Restrictions from November 22, 2025
 ---

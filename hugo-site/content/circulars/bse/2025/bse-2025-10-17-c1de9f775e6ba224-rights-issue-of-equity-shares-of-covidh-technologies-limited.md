@@ -28,12 +28,11 @@ source: bse
 stocks:
 - COVIDH
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- ex-rights
-- COVIDH
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of COVIDH TECHNOLOGIES LIMITED
 ---
 

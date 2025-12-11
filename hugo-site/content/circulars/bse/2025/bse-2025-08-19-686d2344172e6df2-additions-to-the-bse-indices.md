@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544484'
-- '544483'
+- BLUESTONE
+- ICODEX
 tags:
-- index-addition
-- listing
+- index-change
 - ipo
+- listing
 - sme
 title: Additions to the BSE Indices - Bluestone Jewellery and Icodex Publishing
 ---

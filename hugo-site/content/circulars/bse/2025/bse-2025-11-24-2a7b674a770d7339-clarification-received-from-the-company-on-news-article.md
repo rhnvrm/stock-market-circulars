@@ -28,14 +28,13 @@ source: bse
 stocks:
 - HAL
 tags:
+- aviation
 - clarification
+- disclosure
+- dubai-air-show
 - news-article
 - price-movement
-- disclosure
-- HAL
-- aviation
 - tejas-fighter-jet
-- dubai-air-show
 title: Hindustan Aeronautics Limited - Clarification on Tejas Fighter Jet Incident
   at Dubai Air Show
 ---

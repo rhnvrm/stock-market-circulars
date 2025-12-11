@@ -23,13 +23,12 @@ published_date: '2025-08-14T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML69684.pdf
 severity: medium
 source: nse
-stocks:
-- 1175PPPL27
+stocks: []
 tags:
-- trading-suspension
-- non-convertible-debentures
 - call-option
+- ncd
 - prestige-projects
+- suspension
 title: Suspension of trading in Non-Convertible Debentures - Prestige Projects Private
   Limited
 ---

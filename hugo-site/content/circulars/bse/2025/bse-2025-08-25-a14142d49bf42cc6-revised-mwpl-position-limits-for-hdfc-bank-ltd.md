@@ -28,8 +28,6 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- hdfc-bank
-- mwpl
 - risk-management
 title: Revised MWPL Position Limits for HDFC Bank Ltd
 ---

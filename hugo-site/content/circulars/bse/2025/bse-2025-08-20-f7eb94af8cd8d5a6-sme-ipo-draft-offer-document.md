@@ -25,10 +25,9 @@ source: bse
 stocks:
 - PANCHATV
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
-- panchatv-bharat
+- sme
 title: SME IPO - Draft Offer Document - Panchatv Bharat Limited
 ---
 

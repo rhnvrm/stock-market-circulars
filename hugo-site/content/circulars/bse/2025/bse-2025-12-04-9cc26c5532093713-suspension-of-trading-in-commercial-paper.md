@@ -41,11 +41,11 @@ stocks:
 - REDINGTON
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---
 

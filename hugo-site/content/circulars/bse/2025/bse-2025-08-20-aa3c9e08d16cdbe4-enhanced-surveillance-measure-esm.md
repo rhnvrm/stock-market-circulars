@@ -34,16 +34,14 @@ stocks:
 - HARI
 - KOTHARI
 - PROCLB
-- RAPCORP
+- RAP
 - SANCODE
 - TRILIANCE
 - VALLABH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - August 21, 2025
 ---
 

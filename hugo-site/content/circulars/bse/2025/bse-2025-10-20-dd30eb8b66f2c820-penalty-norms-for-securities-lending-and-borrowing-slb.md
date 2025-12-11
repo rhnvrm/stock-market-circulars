@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- slb
-- securities-lending-borrowing
+- collateral
+- compliance
+- iccl
+- margin-violation
 - penalty
 - position-limits
-- margin-violation
-- iccl
 - rms
-- compliance
+- slb
 title: Penalty Norms for Securities Lending and Borrowing (SLB)
 ---
 

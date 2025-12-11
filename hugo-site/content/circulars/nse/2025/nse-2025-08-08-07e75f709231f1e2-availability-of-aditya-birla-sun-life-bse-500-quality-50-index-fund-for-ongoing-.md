@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
 - aditya-birla-sun-life
-- bse-500
+- bse-index
+- equity
+- index-fund
+- mutual-fund
 - sip
 - stp
 - swp
-- equity
 title: Aditya Birla Sun Life BSE 500 Quality 50 Index Fund Available for Ongoing Transactions
   on NSE MF Invest Platform
 ---

@@ -28,12 +28,12 @@ stocks:
 - NOBLEPO
 tags:
 - delisting
-- status-change
-- suspended
-- tribunal-order
+- nclt
 - noble-polymers
 - regulation-24
 - sebi-delisting-regulations
+- status-change
+- suspension
 title: Change in Status of Company - Noble Polymers Limited Delisting Rescinded
 ---
 

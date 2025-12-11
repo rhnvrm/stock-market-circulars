@@ -26,9 +26,9 @@ source: bse
 stocks:
 - JINDALSTEL
 tags:
-- name-change
 - derivatives
 - jindal-steel
+- name-change
 - scrip-update
 title: Change in name of Jindal Steel & Power Ltd in equity derivatives segment
 ---

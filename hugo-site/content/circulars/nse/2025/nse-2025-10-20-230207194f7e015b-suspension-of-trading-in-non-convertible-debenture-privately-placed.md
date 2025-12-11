@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SMFGINDIHOM
 tags:
-- non-convertible-debentures
-- trading-suspension
-- debt-market
-- redemption
+- debt-securities
+- ncd
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debenture of SMFG India Home Finance
   Company Limited
 ---

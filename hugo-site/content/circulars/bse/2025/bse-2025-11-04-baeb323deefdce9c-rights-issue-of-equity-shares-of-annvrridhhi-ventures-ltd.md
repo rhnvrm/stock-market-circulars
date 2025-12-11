@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ANNVRRIDHHI
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- ex-rights
-- annvrridhhi-ventures
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - ANNVRRIDHHI VENTURES LTD
 ---
 

@@ -25,13 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- surveillance
-- ibc
-- insolvency
-- trading-restrictions
-- price-bands
-- margin-requirements
 - gross-settlement
+- insolvency
+- margin
+- price-band
+- surveillance
+- trading-restrictions
 title: Surveillance Measure for securities under IBC - Clarification
 ---
 

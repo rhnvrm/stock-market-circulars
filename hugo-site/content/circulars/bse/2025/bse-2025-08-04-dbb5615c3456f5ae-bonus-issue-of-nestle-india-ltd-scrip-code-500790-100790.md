@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NESTLEIND
 tags:
-- bonus-issue
-- nestle-india
-- equity-shares
-- trading
+- bonus
+- equity
 - listing
+- trading
 title: Bonus Issue of Nestle India Limited - Trading and Listing Details
 ---
 

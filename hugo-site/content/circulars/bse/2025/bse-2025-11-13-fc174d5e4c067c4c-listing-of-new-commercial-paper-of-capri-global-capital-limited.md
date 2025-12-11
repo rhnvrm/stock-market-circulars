@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CGCL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - capri-global-capital
-- yes-bank
+- commercial-paper
+- debt-securities
 - issuing-paying-agent
+- private-placement
+- yes-bank
 title: Listing of new Commercial Paper of Capri Global Capital Limited
 ---
 

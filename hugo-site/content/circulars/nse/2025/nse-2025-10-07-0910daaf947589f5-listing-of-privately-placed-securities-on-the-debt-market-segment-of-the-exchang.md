@@ -32,16 +32,13 @@ stocks:
 - AFCONS
 - L&TFH
 tags:
-- debt-market
-- commercial-paper
-- listing
-- private-placement
-- godrej-properties
-- tata-steel
-- indian-oil
-- godrej-industries
 - afcons-infrastructure
+- commercial-paper
+- debt-securities
+- indian-oil
+- listing
 - lt-finance
+- private-placement
 title: Listing of Privately Placed Debt Securities - October 7, 2025
 ---
 

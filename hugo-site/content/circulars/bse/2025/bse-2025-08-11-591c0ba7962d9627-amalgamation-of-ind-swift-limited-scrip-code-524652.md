@@ -26,12 +26,11 @@ source: bse
 stocks:
 - INDSWIFT
 tags:
-- amalgamation
-- merger
+- conversion
 - corporate-action
-- nclt-approval
-- share-exchange
-- trading-suspension
+- nclt
+- scheme-of-arrangement
+- suspension
 title: 'Amalgamation of Ind-Swift Limited (Scrip Code: 524652) - No Dealings from
   August 14, 2025'
 ---

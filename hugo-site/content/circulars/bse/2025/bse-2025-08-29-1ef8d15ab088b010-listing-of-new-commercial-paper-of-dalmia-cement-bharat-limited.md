@@ -26,10 +26,10 @@ stocks:
 - DCBL
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
 - dalmia-cement
+- debt-securities
 - listing
+- private-placement
 title: Listing of new Commercial Paper of Dalmia Cement (Bharat) Limited
 ---
 

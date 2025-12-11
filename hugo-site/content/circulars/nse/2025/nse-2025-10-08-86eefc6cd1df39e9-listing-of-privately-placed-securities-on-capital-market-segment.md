@@ -27,10 +27,10 @@ source: nse
 stocks:
 - VCCL
 tags:
-- listing
-- debentures
-- private-placement
 - debt-securities
+- listing
+- ncd
+- private-placement
 - vedika-credit-capital
 title: Listing of Privately Placed Securities - Vedika Credit Capital Limited Debentures
 ---

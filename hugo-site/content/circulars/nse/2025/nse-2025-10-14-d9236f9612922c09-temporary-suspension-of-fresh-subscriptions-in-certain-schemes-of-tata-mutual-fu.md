@@ -27,15 +27,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription-suspension
-- tata-mutual-fund
-- silver-etf
-- fund-of-fund
+- fund-of-funds
+- market-operations
+- mutual-fund
+- silver
 - sip
 - stp
-- market-conditions
+- suspension
+- tata-mutual-fund
 title: Temporary Suspension of Fresh Subscriptions in Tata Silver ETF Fund of Fund
   on NSE MF Invest Platform
 ---

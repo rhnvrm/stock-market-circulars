@@ -25,11 +25,10 @@ source: bse
 stocks:
 - INDELMONEY
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- indel-money
-- corporate-bonds
 title: Listing of new debt securities of Indel Money Limited
 ---
 

@@ -27,11 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- helios-mutual-fund
 - mutual-fund
 - nfo
-- helios-mutual-fund
 - small-cap-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Helios Small Cap Fund NFO on NSE MF Invest Platform
 ---
 

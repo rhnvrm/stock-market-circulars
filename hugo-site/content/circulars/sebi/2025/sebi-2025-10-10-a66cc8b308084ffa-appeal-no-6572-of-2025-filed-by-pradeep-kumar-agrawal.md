@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl-ltd
-- property-matters
-- lodha-committee
 - appeal-rejected
 - information-not-available
+- lodha-committee
+- pacl-ltd
+- property-matters
+- rti
 title: Appeal No. 6572 of 2025 filed by Pradeep Kumar Agrawal
 ---
 

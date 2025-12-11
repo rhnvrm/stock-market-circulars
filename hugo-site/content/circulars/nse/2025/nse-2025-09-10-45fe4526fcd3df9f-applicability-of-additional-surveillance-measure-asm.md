@@ -26,10 +26,8 @@ source: nse
 stocks:
 - SHAHALLOYS
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
-- shahalloys
 title: Applicability of Additional Surveillance Measure (ASM) - Shah Alloys Limited
   Included in Long-Term ASM Stage I
 ---

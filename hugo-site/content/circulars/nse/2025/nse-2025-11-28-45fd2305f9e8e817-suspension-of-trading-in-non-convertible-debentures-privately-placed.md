@@ -29,12 +29,11 @@ stocks:
 - NTPC
 - SMFG
 tags:
-- debt-market
+- debt-securities
 - ncd
-- suspension
 - redemption
-- ntpc
 - smfg-india-credit
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - NTPC and SMFG India Credit
 ---
 

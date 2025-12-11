@@ -27,13 +27,13 @@ source: bse
 stocks:
 - MANBA
 tags:
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- reduced-face-value
-- corporate-actions
 - manba-finance
+- ncd
+- redemption
 title: Part Redemption of Debentures of MANBA FINANCE LIMITED
 ---
 

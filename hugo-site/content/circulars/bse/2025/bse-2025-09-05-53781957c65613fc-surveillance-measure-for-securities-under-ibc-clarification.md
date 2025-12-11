@@ -25,14 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- surveillance
-- ibc
-- insolvency
-- bankruptcy
-- trading-restrictions
-- margin-requirements
-- price-band
 - derivative-securities
+- insolvency
+- margin
+- price-band
+- surveillance
+- trading-restrictions
 title: Surveillance Measure for Securities under IBC - Clarification
 ---
 

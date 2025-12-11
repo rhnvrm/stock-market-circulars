@@ -28,10 +28,9 @@ stocks:
 - HIMADRI
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- hscl
 - private-placement
-- HSCL
-- debt-segment
 title: Listing of new Commercial Paper of Himadri Speciality Chemical Ltd.
 ---
 

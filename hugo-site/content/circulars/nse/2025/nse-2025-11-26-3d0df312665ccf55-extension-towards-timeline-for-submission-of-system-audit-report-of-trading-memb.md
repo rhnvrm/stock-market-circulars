@@ -26,13 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- system-audit
-- algorithmic-trading
+- algo-trading
 - compliance
-- trading-members
-- deadline-extension
-- type-iii-audit
-- inspection
+- extension
+- investigation
+- system-audit
+- trading-member
 title: Extension towards timeline for submission of System Audit Report of Trading
   Members (TYPE-III)
 ---

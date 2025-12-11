@@ -35,7 +35,7 @@ stocks:
 - UNISONMET
 - OMMETALLO
 - ADVANCEGROA
-- FLEXFOODS
+- FLEXFO
 - IFBAGRO
 - JAINRESOUR
 - KATIPATANG
@@ -44,11 +44,10 @@ stocks:
 - SHANKARA
 - SONALICONS
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

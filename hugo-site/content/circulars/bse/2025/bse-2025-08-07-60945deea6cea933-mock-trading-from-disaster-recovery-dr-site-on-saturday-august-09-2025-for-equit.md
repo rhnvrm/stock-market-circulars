@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- derivatives
 - disaster-recovery
-- mock-trading
-- equity-derivatives
-- bolt-plus
-- trading-systems
 - dr-testing
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading from Disaster Recovery Site - Equity Derivatives Segment - August
   09, 2025
 ---

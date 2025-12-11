@@ -27,14 +27,13 @@ source: nse
 stocks:
 - SUNDARMFIN
 tags:
-- debt-market
-- ncd
-- suspension
-- redemption
-- debentures
-- sundaram-finance
-- sidbi
+- debt-securities
 - exim-bank
+- ncd
+- redemption
+- sidbi
+- sundaram-finance
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

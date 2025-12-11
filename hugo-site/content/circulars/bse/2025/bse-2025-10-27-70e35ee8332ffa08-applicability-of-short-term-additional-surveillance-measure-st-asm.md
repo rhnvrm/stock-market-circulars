@@ -31,15 +31,14 @@ stocks:
 - EPACK
 - JAINRES
 - MODERNINSUL
-- OMMETALLOGIC
+- OML
 - SONALISCONSUMER
 - SIPM
 - SYMBIOX
 tags:
-- surveillance
-- ST-ASM
-- additional-surveillance-measure
+- asm-stage
 - market-operations
+- surveillance
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

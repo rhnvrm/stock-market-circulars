@@ -32,7 +32,7 @@ stocks:
 - AGSTRA
 - DHARAN
 - EXCEL
-- IEL
+- INDXTRA
 - KRISHIVAL
 - MANUGRAPH
 - MVKAGRO
@@ -63,11 +63,9 @@ stocks:
 - AGNI
 - AGROPHOS
 tags:
-- enhanced-surveillance
-- esm
 - risk-management
+- surveillance
 - trading-restrictions
-- market-surveillance
 title: Enhanced Surveillance Measure (ESM) Updates - Stage Changes and New Inclusions
 ---
 

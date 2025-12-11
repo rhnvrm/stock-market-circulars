@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- investment-advisory
-- regulatory-violation
-- unregistered-activity
-- enforcement-action
+- enforcement
 - interim-order
+- investment-adviser
+- non-compliance
+- sebi-order
 - show-cause-notice
+- unregistered-activity
 title: Order in the matter of Avadhut Sathe Trading Academy Private Limited
 ---
 

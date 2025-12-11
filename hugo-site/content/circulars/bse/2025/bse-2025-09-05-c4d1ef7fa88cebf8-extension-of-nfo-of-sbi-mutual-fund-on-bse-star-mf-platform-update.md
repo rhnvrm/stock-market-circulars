@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- dynamic-asset-allocation
+- extension
+- fund-of-funds
 - mutual-fund
 - nfo
 - sbi-mutual-fund
-- bse-star-mf
-- extension
-- dynamic-asset-allocation
-- fof
 title: Extension of NFO of SBI Mutual Fund on BSE StAR MF Platform - UPDATE
 ---
 

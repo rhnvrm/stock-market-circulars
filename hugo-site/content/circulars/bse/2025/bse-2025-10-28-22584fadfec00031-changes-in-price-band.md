@@ -43,11 +43,11 @@ stocks:
 - SWITCHING
 - SYMBIOX
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-operations
 title: Revision of Price Bands for 16 Securities Effective October 29, 2025
 ---
 

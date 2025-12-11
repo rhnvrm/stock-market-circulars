@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ARMAN
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- non-convertible-debentures
-- face-value-reduction
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of ARMAN FINANCIAL SERVICES LIMITED
 ---
 

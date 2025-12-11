@@ -77,7 +77,7 @@ stocks:
 - KIOCL
 - KOTAK
 - KWALITY
-- L&T
+- LT
 - LAXMI
 - LETRAVENUES
 - LODHA
@@ -129,9 +129,9 @@ stocks:
 - WAAREE
 - 'YES'
 tags:
-- demat-auction
-- settlement
+- demat
 - securities-auction
+- settlement
 - stock-clearing
 title: Demat Auction Settlement No. 697 - Stock Securities Auction
 ---

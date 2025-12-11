@@ -26,11 +26,9 @@ source: bse
 stocks:
 - IRONWOOD
 tags:
-- offer-for-sale
+- live-activities
 - ofs
 - trading
-- live-activities
-- ironwood-education
 title: Opening of Offer for Sale for IRONWOOD EDUCATION LIMITED - Live Activities
   Schedule
 ---

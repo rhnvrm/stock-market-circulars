@@ -26,11 +26,11 @@ source: bse
 stocks:
 - LGTBC
 tags:
-- listing
-- equity-shares
-- lock-in
+- equity
+- further-issue
 - ipo
-- fresh-issue
+- listing
+- lock-in
 title: Listing of Equity Shares of LGT Business Connextions Limited
 ---
 

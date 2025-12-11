@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- initial-margin
+- derivatives
 - gold
-- silver
-- commodity-derivatives
+- initial-margin
+- margin
+- mpor
 - risk-management
-- margin-requirements
-- SOMM
-- VaR
-- MPOR
+- silver
+- somm
+- var
 title: Revision in Initial Margin for Gold & Silver Contracts
 ---
 

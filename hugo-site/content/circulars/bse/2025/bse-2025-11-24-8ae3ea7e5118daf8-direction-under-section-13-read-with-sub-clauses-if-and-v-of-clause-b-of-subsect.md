@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trai
-- telecom-regulations
-- commercial-communications
-- content-templates
-- compliance
 - access-providers
+- commercial-communications
+- compliance
+- content-templates
 - regulatory-direction
+- telecom-regulations
+- trai
 title: Direction under section 13, read with sub clauses (if) and (v) of clause (b)
   of subsection (1) of section 11, of the Telecom Regulatory Authority of India Act,
   1997 (24 of 1997) regarding measures to curb misuse of Headers and Content Templates

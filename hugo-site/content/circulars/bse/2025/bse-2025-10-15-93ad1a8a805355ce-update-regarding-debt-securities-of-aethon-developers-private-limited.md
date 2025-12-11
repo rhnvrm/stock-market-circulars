@@ -27,10 +27,10 @@ source: bse
 stocks:
 - AETHON
 tags:
-- debt-securities
-- trading-suspension
-- restructuring
 - aethon-developers
+- debt-securities
+- restructuring
+- suspension
 title: Suspension of Trading for Aethon Developers Private Limited Debt Securities
 ---
 

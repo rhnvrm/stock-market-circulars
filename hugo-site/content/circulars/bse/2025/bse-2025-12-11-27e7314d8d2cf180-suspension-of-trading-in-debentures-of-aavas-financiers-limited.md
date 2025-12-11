@@ -27,13 +27,12 @@ source: bse
 stocks:
 - AAVAS
 tags:
-- debentures
-- suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- non-convertible-debentures
-- corporate-actions
-- debt-segment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AAVAS FINANCIERS LIMITED
 ---
 

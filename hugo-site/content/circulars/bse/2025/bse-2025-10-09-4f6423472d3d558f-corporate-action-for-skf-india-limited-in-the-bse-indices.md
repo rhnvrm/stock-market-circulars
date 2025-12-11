@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SKFINDIA
 tags:
-- demerger
+- call-money
 - corporate-action
-- index-addition
-- special-pre-open-session
+- index-change
 - scheme-of-arrangement
-- skf-india
 title: Corporate Action for SKF India Limited in the BSE Indices
 ---
 

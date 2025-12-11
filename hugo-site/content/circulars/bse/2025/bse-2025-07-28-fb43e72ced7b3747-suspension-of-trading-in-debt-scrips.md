@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- trading-suspension
 - maturity
-- debentures
+- ncd
+- suspension
 title: Suspension of Trading in Debt Scrips - IND-30-7-25-PVT Maturity
 ---
 

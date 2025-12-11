@@ -26,15 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mock-trading
+- derivatives
 - disaster-recovery
-- electronic-gold-receipts
-- egr
-- bolt-plus
-- trading-system
 - dr-site
-- business-continuity
-- commodity-derivatives
+- egr
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading from Disaster Recovery (DR) Site on Saturday, November 01, 2025
   for Electronic Gold Receipts Segment
 ---

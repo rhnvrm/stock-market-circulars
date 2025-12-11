@@ -27,11 +27,9 @@ source: bse
 stocks:
 - ROLEXRINGS
 tags:
-- corporate-actions
-- stock-split
-- sub-division
-- equity-shares
-- rolex-rings
+- corporate-action
+- equity
+- split
 title: 'Sub-Division of Equity Shares of Rolex Rings Ltd (Scrip Code: 543325)'
 ---
 

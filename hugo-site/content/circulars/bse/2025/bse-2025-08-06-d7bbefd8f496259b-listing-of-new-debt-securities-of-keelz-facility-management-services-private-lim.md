@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- keelz-facility-management
 - listing
 - private-placement
-- keelz-facility-management
 title: Listing of new debt securities of KEELZ FACILITY MANAGEMENT SERVICES PRIVATE
   LIMITED
 ---

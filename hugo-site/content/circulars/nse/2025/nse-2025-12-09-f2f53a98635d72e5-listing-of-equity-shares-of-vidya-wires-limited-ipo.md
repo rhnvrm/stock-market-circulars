@@ -27,12 +27,10 @@ source: nse
 stocks:
 - VIDYAWIRES
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 - pre-open-session
-- vidyawires
 title: Listing of Equity Shares of Vidya Wires Limited (IPO)
 ---
 

@@ -27,10 +27,10 @@ source: bse
 stocks:
 - SOBHA
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
+- listing
+- rights-issue
 - sobha-ltd
 title: Listing of New Securities of Sobha Ltd - Conversion of Partly Paid Shares
 ---

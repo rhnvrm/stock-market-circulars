@@ -26,12 +26,12 @@ source: bse
 stocks:
 - AMBIUM
 tags:
-- debt
-- debentures
-- suspension
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 - trading-halt
 title: Suspension of Trading in Debentures of AMBIUM FINSERVE LIMITED
 ---

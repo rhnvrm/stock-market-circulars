@@ -27,7 +27,7 @@ source: bse
 stocks:
 - AARTIPHARM
 - ALPHAGEO
-- AVEERFOODS
+- AVEER
 - BANSALROOF
 - BELSTAR
 - BHEL
@@ -40,11 +40,11 @@ stocks:
 - KANPLAS
 tags:
 - book-closure
-- record-date
-- dividend
-- corporate-actions
 - commercial-paper
+- corporate-action
+- dividend
 - interest-payment
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

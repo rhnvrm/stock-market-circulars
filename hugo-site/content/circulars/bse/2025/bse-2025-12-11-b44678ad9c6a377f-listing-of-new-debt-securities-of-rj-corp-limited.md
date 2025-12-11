@@ -27,11 +27,10 @@ source: bse
 stocks:
 - RJCORP
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- corporate-bonds
-- rj-corp
 title: Listing of New Debt Securities of RJ Corp Limited
 ---
 

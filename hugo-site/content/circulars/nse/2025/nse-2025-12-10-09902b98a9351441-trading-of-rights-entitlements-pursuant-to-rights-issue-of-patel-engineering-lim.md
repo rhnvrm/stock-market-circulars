@@ -28,12 +28,11 @@ source: nse
 stocks:
 - PATELEG
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
-- trade-to-trade
 - capital-market
+- renunciation
+- rights-issue
+- trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Patel Engineering
   Limited
 ---

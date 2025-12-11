@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- treasury-bills
-- state-development-loans
-- listing
 - capital-market
-- government-securities
+- gsec
+- listing
+- sdl
 - trading
+- treasury-bills
 title: Listing of Treasury Bills and State Development Loans on Capital Market Segment
 ---
 

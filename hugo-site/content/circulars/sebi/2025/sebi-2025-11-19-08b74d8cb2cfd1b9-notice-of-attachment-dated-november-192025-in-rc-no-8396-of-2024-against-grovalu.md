@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- broker-default
+- bse
 - enforcement
-- recovery-proceedings
-- notice-of-attachment
 - grovalue-securities
 - iso
-- bse
-- broker-default
+- notice-of-attachment
+- recovery
 title: Notice of Attachment - RC No. 8396/2024 - Grovalue Securities Private Limited
 ---
 

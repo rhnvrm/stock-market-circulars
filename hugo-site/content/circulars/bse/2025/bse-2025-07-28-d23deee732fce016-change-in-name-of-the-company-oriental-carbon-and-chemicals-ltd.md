@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ORIENTALCARBON
 tags:
-- name-change
+- certificate
 - corporate-affairs
-- certificate-of-incorporation
-- company-restructuring
+- name-change
+- scheme-of-arrangement
 title: Change in Name of the Company - Oriental Carbon and Chemicals Ltd.
 ---
 

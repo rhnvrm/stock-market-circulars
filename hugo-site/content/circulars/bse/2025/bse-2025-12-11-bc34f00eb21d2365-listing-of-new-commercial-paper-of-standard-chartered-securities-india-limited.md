@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- standard-chartered
 - short-term-debt
+- standard-chartered
 title: Listing of new Commercial Paper of Standard Chartered Securities (India) Limited
 ---
 

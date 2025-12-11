@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement-action
-- unregistered-investment-advisor
-- telegram-fraud
+- enforcement
 - investor-protection
-- penalties
+- penalty
 - section-11
 - section-15eb
 - section-15ha
+- telegram-fraud
+- unregistered-investment-advisor
 title: Order in the matter of M/s Satyam Shivam Sundaram Trading
 ---
 

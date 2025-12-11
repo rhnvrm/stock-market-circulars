@@ -27,14 +27,13 @@ source: bse
 stocks:
 - MASFIN
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
+- corporate-action
+- debt-securities
 - interest-payment
-- redemption
+- ncd
 - record-date
-- corporate-actions
-- debt-market
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MAS Financial Services Limited
 ---
 

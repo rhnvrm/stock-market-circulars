@@ -25,11 +25,10 @@ source: bse
 stocks:
 - ARKA
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - arka-fincap
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of ARKA FINCAP LIMITED
 ---
 

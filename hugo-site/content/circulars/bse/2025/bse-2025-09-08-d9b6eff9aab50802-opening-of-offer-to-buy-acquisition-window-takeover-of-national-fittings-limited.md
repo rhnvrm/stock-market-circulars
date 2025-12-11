@@ -26,11 +26,9 @@ source: bse
 stocks:
 - NATIONALFIT
 tags:
-- takeover
-- open-offer
-- acquisition
 - mandatory-offer
-- sebi-sast
+- sast
+- takeover
 title: Open Offer for Acquisition of National Fittings Limited - Mandatory Takeover
   Offer
 ---

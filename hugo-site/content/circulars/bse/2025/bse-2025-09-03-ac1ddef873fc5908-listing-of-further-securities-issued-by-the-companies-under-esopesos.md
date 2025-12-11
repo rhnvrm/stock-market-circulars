@@ -39,11 +39,9 @@ stocks:
 - YESBANK
 - L&TFH
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS by 15 Companies
 ---
 

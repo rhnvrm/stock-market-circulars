@@ -25,10 +25,10 @@ source: bse
 stocks:
 - BGHPL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - birla-group
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of New Commercial Paper of Birla Group Holdings Private Limited
 ---
 

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - PATELENG
 tags:
-- rights-issue
-- corporate-action
-- equity-shares
-- patel-engineering
-- ex-rights
 - capital-raising
+- corporate-action
+- equity
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Patel Engineering Ltd - Ex-Rights from December
   4, 2025
 ---

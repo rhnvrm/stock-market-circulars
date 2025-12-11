@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- index-fund
-- nse-mf-invest
-- navi-mutual-fund
 - equity
+- index-fund
 - midsmallcap
+- mutual-fund
+- navi-mutual-fund
+- nfo
+- trading-platform
 title: Launch of Navi Nifty Midsmallcap 400 Index Fund NFO on NSE MF Invest Platform
 ---
 

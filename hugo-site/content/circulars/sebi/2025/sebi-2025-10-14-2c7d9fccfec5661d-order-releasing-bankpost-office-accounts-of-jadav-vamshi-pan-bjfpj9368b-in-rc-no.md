@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-proceedings
 - account-release
-- unregistered-investment-advisor
 - baap-of-chart
 - compliance
+- enforcement
+- recovery
+- unregistered-investment-advisor
 title: Order Releasing Bank/Post Office Accounts of Jadav Vamshi in Unregistered Investment
   Advisory Case
 ---

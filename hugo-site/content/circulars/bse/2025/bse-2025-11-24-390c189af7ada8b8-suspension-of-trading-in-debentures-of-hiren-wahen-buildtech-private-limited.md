@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- suspension
-- debentures
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- debt-market
-- corporate-actions
-- non-convertible-debentures
+- suspension
 title: Suspension of Trading in Debentures of Hiren Wahen Buildtech Private Limited
 ---
 

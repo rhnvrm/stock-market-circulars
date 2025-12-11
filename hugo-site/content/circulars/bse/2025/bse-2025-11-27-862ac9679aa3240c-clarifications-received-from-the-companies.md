@@ -32,11 +32,10 @@ stocks:
 - IGARASHI
 tags:
 - clarification
-- price-movement
-- volume-spurt
-- surveillance
-- regulation-30
 - disclosure
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -26,7 +26,7 @@ source: bse
 stocks:
 - ANTARIKSH
 - ANANDPROJ
-- INDIANIVESH
+- INDIANVSH
 - MARATHON
 - HINDRECTI
 - PERMAGNET
@@ -42,13 +42,13 @@ stocks:
 - MILGREY
 - BOMBAYTALK
 - YASHMAN
-- SCANSTEELS
+- SCANSTL
 - NILKANTH
 - BANGANGA
 - DHANSAFAL
 - KAJAL
 - SECUREKLOUD
-- BAJAJGLOBAL
+- BAJGLOB
 - TASHI
 - CHAMBAL
 - MANSOON
@@ -77,11 +77,11 @@ stocks:
 - ASIANPETRO
 - BERYL
 tags:
-- rta
-- investor-services
 - adroit-corporate
 - grievance-redressal
+- investor-services
 - november-2025
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for November 2025
 ---
 

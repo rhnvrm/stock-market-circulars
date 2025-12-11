@@ -26,11 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
-- empanelment
-- trading-solutions
+- algo-trading
 - derivatives
+- empanelment
+- market-infrastructure
 - vendor-registration
 title: Neutrino Trading Private Limited Provisionally Empanelled as Algo Provider
 ---

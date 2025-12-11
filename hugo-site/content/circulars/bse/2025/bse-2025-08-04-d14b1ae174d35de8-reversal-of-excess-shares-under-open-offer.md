@@ -25,10 +25,9 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- open-offer
 - epn-return
-- file-format
 - excess-shares
+- file-format
 - reversal
 - takeover
 title: Reversal of Excess Shares Under Open Offer - EPN Return File Format

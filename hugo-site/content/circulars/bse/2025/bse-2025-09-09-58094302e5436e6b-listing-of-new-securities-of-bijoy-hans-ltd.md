@@ -25,11 +25,10 @@ source: bse
 stocks:
 - BIJOYHANS
 tags:
-- equity-shares
-- preferential-allotment
-- promoters
+- equity
 - lock-in
-- bijoy-hans
+- preferential-issue
+- shareholding-pattern
 title: Listing of new Securities of Bijoy Hans Ltd
 ---
 

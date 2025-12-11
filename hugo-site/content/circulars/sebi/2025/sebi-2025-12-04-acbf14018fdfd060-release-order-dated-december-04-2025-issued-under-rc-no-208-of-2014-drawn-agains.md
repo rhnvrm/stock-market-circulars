@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
-- enforcement
 - adam-comsof-limited
+- enforcement
 - mastermind-mercantile-co-op
+- recovery
+- release
 title: Release Order dated December 04, 2025 issued under RC No. 208 of 2014 drawn
   against Mastermind Mercantile Co-Op Limited in the matter of Adam Comsof Limited
 ---

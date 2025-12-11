@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
+- flux-capital
+- irf
 - membership
 - surrender
-- currency-derivatives
-- irf
-- flux-capital
-- compliance
 title: Segmental Surrender of Membership - FLUX CAPITAL PRIVATE LIMITED
 ---
 

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - LLOYDSE
 tags:
+- entitlements
+- market-segment
 - rights-issue
 - trading
-- entitlements
-- lloydse
-- market-segment
 title: Trading of Rights Entitlements pursuant to Rights Issue of Lloyds Enterprises
   Limited
 ---

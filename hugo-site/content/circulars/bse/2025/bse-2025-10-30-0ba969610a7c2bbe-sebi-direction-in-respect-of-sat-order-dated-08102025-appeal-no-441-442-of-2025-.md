@@ -29,14 +29,12 @@ source: bse
 stocks:
 - GOLDENTOBAC
 tags:
-- sebi-direction
-- sat-order
-- penalty
-- debarment
-- golden-tobacco
 - appeal
-- interim-relief
 - compliance
+- debarment
+- interim-relief
+- penalty
+- sebi-direction
 title: SEBI Direction in Respect of SAT Order - Golden Tobacco Limited Matter (Anurag
   Dalmia and Ashok Kumar Joshi)
 ---

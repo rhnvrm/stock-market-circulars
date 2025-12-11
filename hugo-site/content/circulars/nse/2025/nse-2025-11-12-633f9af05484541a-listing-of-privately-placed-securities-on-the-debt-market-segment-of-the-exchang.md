@@ -33,15 +33,15 @@ stocks:
 - ABMONEY
 - IIFL
 - GODREJPROP
-- TATACAPITAL
+- TATACAP
 - ASTEC
 - CHOLAFIN
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- further-issue
 - listing
-- privately-placed-securities
-- fresh-issue
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - November 12,
   2025
 ---

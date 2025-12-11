@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- compliance
-- clearing-members
-- networth-requirement
 - audit
-- financial-reporting
+- clearing-members
+- compliance
 - deadline
+- financial-reporting
+- networth-requirement
 title: Submission of Annual Audited Networth Certificate, Auditor's Report & Audited
   Annual Accounts for FY 2024-25
 ---

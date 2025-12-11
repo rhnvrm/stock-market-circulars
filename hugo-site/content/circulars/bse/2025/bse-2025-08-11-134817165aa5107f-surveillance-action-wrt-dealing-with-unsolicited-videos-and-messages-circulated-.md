@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MURAE
 tags:
-- surveillance
+- market-operations
 - social-media
+- surveillance
 - unsolicited-videos
-- market-manipulation
-- MURAE
 title: Surveillance Action Update - No New Unsolicited Social Media Video Cases
 ---
 

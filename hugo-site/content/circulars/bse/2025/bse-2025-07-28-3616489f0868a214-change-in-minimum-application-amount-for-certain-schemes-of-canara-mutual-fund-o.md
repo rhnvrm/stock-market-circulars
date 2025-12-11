@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- minimum-application
 - canara-robeco
 - large-cap-fund
+- minimum-application
+- mutual-fund
 - stp
 - swp
-- bse-star-mf
 title: Change in Minimum Application Amount for Canara Robeco Large Cap Fund on BSE
   StAR MF Platform
 ---

@@ -28,13 +28,12 @@ source: bse
 stocks:
 - DSKULKARNI
 tags:
-- offer-for-sale
-- ofs
-- equity-shares
-- minimum-public-shareholding
 - dsk-developers
-- real-estate
+- equity
+- minimum-public-shareholding
 - non-promoter-sale
+- ofs
+- real-estate
 - stock-exchange-mechanism
 title: Opening of Offer for Sale for D.S. Kulkarni Developers Limited
 ---

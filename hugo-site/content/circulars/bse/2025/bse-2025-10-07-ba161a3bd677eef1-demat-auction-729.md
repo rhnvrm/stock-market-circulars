@@ -35,7 +35,7 @@ stocks:
 - ATLANTAEL
 - ATLANTAA
 - BHARATFORG
-- BLACKBOX
+- BBOX
 - CENTUMELE
 - DIXON
 - DLF
@@ -88,7 +88,7 @@ stocks:
 - PRAVEG
 - PREMIEREX
 - RSYSTEMS
-- REPROINDIA
+- REPRO
 - RIRPOWER
 - RRIL
 - SAATVIKG
@@ -115,10 +115,10 @@ stocks:
 - YATRA
 - YESBANK
 tags:
-- demat-auction
-- settlement
-- delivery-obligations
 - auction-729
+- demat
+- early-pay-in
+- settlement
 title: Demat Auction - 729
 ---
 

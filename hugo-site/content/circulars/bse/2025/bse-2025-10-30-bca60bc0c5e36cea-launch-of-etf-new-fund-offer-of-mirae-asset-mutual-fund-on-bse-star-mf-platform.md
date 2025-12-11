@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - etf
 - mirae-asset
+- mutual-fund
+- nfo
 - nifty-smallcap-250
-- bse-star-mf
 title: Launch of ETF New Fund Offer of MIRAE ASSET Mutual Fund on BSE StAR MF Platform
 ---
 

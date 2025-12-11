@@ -32,9 +32,9 @@ stocks:
 - WIPRO LTD
 - THERMAX LTD
 tags:
-- demat-auction
-- settlement
+- demat
 - securities-auction
+- settlement
 - trading
 title: Demat Auction Settlement No. 702 - Securities Auction List
 ---

@@ -29,12 +29,11 @@ stocks:
 - EVEREADY
 - ICICIGI
 tags:
-- volume-increase
 - clarification
-- surveillance
 - disclosure
-- eveready
 - icici-lombard
+- price-movement
+- surveillance
 title: Clarifications received from companies on volume increase
 ---
 

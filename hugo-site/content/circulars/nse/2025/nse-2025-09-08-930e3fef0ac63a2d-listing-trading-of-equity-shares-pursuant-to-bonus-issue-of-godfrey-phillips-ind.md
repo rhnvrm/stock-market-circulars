@@ -26,11 +26,11 @@ source: nse
 stocks:
 - GODFRYPHLP
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- equity
+- godfrey-phillips
 - listing
 - trading
-- godfrey-phillips
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Godfrey Phillips
   India Limited
 ---

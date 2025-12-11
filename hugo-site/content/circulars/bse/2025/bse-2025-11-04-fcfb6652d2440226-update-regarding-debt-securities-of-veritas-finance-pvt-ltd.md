@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VFPL
 tags:
-- debt-securities
 - coupon-rate-change
+- debt-securities
 - interest-rate-reduction
+- ncd
 - placement-memorandum
-- debentures
 - veritas-finance
 title: Update Regarding Debt Securities of VERITAS FINANCE Pvt Ltd - Coupon Rate Reduction
 ---

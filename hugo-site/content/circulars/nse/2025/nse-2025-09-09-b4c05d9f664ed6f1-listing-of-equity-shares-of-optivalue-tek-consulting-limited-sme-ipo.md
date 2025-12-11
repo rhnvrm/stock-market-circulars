@@ -25,11 +25,10 @@ source: nse
 stocks:
 - OPTIVALUE
 tags:
-- sme-ipo
+- equity
 - listing
 - shareholding-pattern
-- equity-shares
-- optivalue
+- sme
 title: Listing of Equity Shares of Optivalue Tek Consulting Limited (SME IPO)
 ---
 

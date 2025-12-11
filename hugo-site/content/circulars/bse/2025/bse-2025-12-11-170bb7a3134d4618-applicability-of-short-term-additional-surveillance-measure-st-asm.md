@@ -49,11 +49,10 @@ stocks:
 - KBSINDIA
 - LADDUGOPAL
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

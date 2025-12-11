@@ -32,9 +32,9 @@ stocks:
 - RL
 tags:
 - commercial-paper
-- suspension
+- debt-securities
 - redemption
-- debt-segment
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---

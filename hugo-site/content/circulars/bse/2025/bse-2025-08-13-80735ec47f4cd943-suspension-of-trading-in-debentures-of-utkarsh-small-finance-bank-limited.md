@@ -26,12 +26,12 @@ source: bse
 stocks:
 - UTKARSH
 tags:
-- trading-suspension
-- debentures
-- interest-payment
-- redemption
-- record-date
 - debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of UTKARSH SMALL FINANCE BANK LIMITED
 ---
 

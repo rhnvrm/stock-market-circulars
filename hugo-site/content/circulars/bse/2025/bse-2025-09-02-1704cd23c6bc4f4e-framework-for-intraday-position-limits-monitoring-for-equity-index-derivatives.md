@@ -28,10 +28,10 @@ stocks: []
 tags:
 - derivatives
 - index-options
+- intraday-monitoring
 - position-limits
 - risk-management
-- market-surveillance
-- intraday-monitoring
+- surveillance
 title: Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
 ---
 

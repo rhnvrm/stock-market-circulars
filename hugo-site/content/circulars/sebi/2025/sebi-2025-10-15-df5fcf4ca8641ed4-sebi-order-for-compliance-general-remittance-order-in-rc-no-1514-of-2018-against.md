@@ -26,12 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - compliance
-- regulatory-action
+- enforcement
 - general-remittance-order
-- recovery-certificate
+- recovery
+- regulatory
 title: SEBI Order for Compliance - General Remittance Order in RC No. 1514 of 2018
   Against Bankesh Bhavsar
 ---

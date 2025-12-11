@@ -27,10 +27,10 @@ source: nse
 stocks:
 - NACL
 tags:
+- revised-schedule
+- settlement-calendar
 - takeover
 - tender-offer
-- settlement-calendar
-- revised-schedule
 title: Revised Settlement Calendar for Takeover offer under Tender Offer scheme of
   NACL Industries Limited
 ---

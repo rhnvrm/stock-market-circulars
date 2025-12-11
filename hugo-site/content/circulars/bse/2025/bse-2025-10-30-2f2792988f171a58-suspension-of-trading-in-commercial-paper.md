@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-segment
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---
 

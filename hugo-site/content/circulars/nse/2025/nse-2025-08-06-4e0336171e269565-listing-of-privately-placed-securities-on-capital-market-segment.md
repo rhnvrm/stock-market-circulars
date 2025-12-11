@@ -27,11 +27,11 @@ stocks:
 - IIFLHOMFIN
 - SUMMITDIG
 tags:
-- listing
-- debt-securities
-- privately-placed
 - capital-market
-- debentures
+- debt-securities
+- listing
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities - IIFL Home Finance and Summit Digitel
   Infrastructure
 ---

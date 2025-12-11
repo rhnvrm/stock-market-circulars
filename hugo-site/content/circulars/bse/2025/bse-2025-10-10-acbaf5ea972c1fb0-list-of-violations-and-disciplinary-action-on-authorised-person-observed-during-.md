@@ -28,13 +28,13 @@ source: bse
 stocks: []
 tags:
 - authorised-person
-- inspection
 - compliance
 - disciplinary-action
-- trading-member
-- surveillance
-- violations
 - intermediary-regulation
+- investigation
+- surveillance
+- trading-member
+- violations
 title: List of Violations and Disciplinary Action on Authorised Person Observed During
   Inspection
 ---

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CONCORD
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- non-promoter
-- lock-in
 - concord-control-systems
+- equity
+- listing
+- lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of new Securities of Concord Control Systems Limited
 ---
 

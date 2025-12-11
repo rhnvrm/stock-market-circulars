@@ -33,10 +33,10 @@ stocks:
 - DEUTSCHINV
 - ASEEMINFRA
 tags:
-- debt-market
 - commercial-paper
-- debentures
+- debt-securities
 - listing
+- ncd
 - private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment - August 04,
   2025

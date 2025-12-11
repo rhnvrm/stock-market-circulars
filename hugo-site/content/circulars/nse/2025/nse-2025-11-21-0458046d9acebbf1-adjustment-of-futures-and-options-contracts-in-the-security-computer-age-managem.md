@@ -28,12 +28,12 @@ source: nse
 stocks:
 - CAMS
 tags:
-- futures-and-options
-- corporate-action
-- face-value-split
 - contract-adjustment
+- corporate-action
 - derivatives
-- stock-split
+- face-value-change
+- futures-options
+- split
 title: Adjustment of Futures and Options Contracts in CAMS Due to Face Value Split
 ---
 

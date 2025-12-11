@@ -37,11 +37,11 @@ stocks:
 - HUDCO
 - IOC
 tags:
-- dividend
-- record-date
 - book-closure
 - commercial-paper
+- dividend
 - interest-payment
+- record-date
 - redemption
 title: Daily Bulletin - Book Closure/Record Date/Dividend Notifications
 ---

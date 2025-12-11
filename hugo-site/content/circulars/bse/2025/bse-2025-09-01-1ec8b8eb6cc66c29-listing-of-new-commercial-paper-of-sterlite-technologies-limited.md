@@ -26,9 +26,8 @@ stocks:
 - STL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- STL
 title: Listing of new Commercial Paper of Sterlite Technologies Limited
 ---
 

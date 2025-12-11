@@ -26,11 +26,9 @@ source: bse
 stocks:
 - KPIL
 tags:
-- takeover
-- open-offer
-- acquisition
 - blackstone
 - real-estate
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Kolte-Patil Developers
   Limited
 ---

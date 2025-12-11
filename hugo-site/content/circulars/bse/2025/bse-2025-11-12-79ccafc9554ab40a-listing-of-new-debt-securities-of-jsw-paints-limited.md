@@ -27,10 +27,9 @@ stocks:
 - JSWPAINTS
 tags:
 - debt-securities
+- icra-rating
 - listing
 - private-placement
-- jswpaints
-- icra-rating
 title: Listing of New Debt Securities of JSW Paints Limited
 ---
 

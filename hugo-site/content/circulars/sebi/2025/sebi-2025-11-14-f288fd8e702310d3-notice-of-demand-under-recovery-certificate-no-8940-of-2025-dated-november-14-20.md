@@ -27,9 +27,9 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - demand-notice
 - monetary-penalty
+- recovery
 - svarnim-trade-udyog
 title: Notice of Demand under Recovery Certificate No. 8940 of 2025 dated November
   14, 2025 issued against Jalaj Agrawal (PAN - AUDPA0226H) in the matter of Svarnim

@@ -28,14 +28,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- debenture-trustees
-- regulatory-framework
-- separate-business-unit
 - chinese-wall
 - compliance
+- debenture-trustees
 - dt-regulations
-- permitted-activities
 - financial-sector-regulator
+- permitted-activities
+- regulatory-framework
+- separate-business-unit
 title: Specification of Terms and Conditions for Debenture Trustees for Carrying Out
   Activities Outside SEBI Purview
 ---

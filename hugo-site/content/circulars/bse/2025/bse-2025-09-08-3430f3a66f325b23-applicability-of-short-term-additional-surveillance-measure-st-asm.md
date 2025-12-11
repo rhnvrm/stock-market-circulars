@@ -25,24 +25,23 @@ severity: medium
 source: bse
 stocks:
 - APOORVA
-- COUNTRYCONDOS
+- COUNCODOS
 - CRESSANDA
 - HEMISPHERE
 - INFLAME
 - JITF
 - KROSS
 - LAXMI
-- MICELECTRONICS
+- MICEL
 - NETWEB
 - NEWTRAC
 - MOBIKWIK
-- PVPVENTURES
+- PVP-BE
 - SURANA
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
+- asm-stage
 - short-term
+- surveillance
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

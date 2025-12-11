@@ -27,9 +27,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- mirae-asset
 - crisil-a1-plus
+- debt-securities
+- mirae-asset
 title: Listing of Commercial Paper - Mirae Asset Financial Services (India) Private
   Limited
 ---

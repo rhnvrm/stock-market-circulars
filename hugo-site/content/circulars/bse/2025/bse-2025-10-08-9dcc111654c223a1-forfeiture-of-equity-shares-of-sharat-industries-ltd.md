@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SHARATIND
 tags:
-- equity-shares
+- company-action
+- equity
 - forfeiture
 - share-capital
-- sharat-industries
-- company-action
 title: Forfeiture of Equity Shares of Sharat Industries Ltd.
 ---
 

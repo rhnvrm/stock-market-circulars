@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SCHLOSS
 tags:
-- name-change
-- certificate-of-incorporation
-- hotels
-- hospitality
+- certificate
 - corporate-action
+- hospitality
+- hotels
+- name-change
 title: Change in Name of Company - Schloss Bangalore Limited to Leela Palaces Hotels
   & Resorts Limited
 ---

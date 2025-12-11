@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
 - groww
+- index-fund
+- mutual-fund
 - nifty-next-50
-- subscriptions
-- redemptions
+- redemption
 - sip
 - stp
+- subscription
 - swp
 title: Availability of Groww Nifty Next 50 Index Fund for ongoing transactions on
   NSE MF Invest Platform

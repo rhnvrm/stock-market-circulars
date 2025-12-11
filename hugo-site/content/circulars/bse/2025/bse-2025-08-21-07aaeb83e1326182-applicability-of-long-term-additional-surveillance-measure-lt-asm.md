@@ -30,11 +30,10 @@ stocks:
 - BGRENERGY
 - ARMAN
 tags:
-- surveillance
-- asm
-- trading
-- securities
 - market-operations
+- securities
+- surveillance
+- trading
 title: BSE Long Term Additional Surveillance Measure (LT-ASM) Framework Updates
 ---
 

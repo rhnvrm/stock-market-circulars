@@ -27,10 +27,9 @@ stocks:
 - KOTAKMAH
 tags:
 - commercial-paper
-- trading-suspension
-- debt-market
-- kotak-mahindra
+- debt-securities
 - maturity
+- suspension
 title: Suspension of Trading in Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

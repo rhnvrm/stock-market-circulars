@@ -27,7 +27,7 @@ severity: medium
 source: bse
 stocks:
 - INTERGLOBE
-- TATAMOTORS
+- TMCV
 - IDFCFIRSTBK
 - ADANIGREEN
 - MAXHEALTH
@@ -37,13 +37,12 @@ stocks:
 - PNB
 - UNIONBANK
 tags:
-- index-reconstitution
-- sensex
 - bse-100
+- bse-index
+- index-change
+- sensex
 - sensex-50
 - sensex-next-50
-- bankex
-- index-changes
 title: Reconstitution of BSE Indices
 ---
 

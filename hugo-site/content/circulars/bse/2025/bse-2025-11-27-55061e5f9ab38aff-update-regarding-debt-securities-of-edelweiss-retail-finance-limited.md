@@ -28,11 +28,10 @@ stocks:
 - EDELWEISSRETAIL
 tags:
 - debt-securities
-- name-change
-- ncds
-- perpetual-bonds
-- edelweiss-retail-finance
 - ecl-finance
+- name-change
+- ncd
+- perpetual-bonds
 title: Update Regarding Debt Securities of Edelweiss Retail Finance Limited - Name
   Change to ECL Finance
 ---

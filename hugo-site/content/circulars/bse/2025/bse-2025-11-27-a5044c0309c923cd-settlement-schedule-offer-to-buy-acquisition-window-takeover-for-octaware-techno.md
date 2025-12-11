@@ -28,14 +28,11 @@ source: bse
 stocks:
 - OCTAWARE
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
-- octaware-technologies
-- offer-to-buy
+- otb
 - rms
 - settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for OCTAWARE
   TECHNOLOGIES LIMITED
 ---

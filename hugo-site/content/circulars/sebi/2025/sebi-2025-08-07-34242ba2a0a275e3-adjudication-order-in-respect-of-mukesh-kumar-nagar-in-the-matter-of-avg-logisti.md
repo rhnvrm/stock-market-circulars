@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - AVG
 tags:
-- adjudication-order
-- insider-trading
+- adjudication
 - compliance-officer
 - designated-person
-- profit-disgorgement
+- investigation
 - pit-regulations
+- profit-disgorgement
 title: Adjudication Order Against Mukesh Kumar Nagar - Insider Trading Compliance
   Violation in AVG Logistics
 ---

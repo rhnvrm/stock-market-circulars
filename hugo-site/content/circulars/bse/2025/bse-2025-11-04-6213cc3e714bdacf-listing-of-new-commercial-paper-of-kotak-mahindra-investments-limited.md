@@ -27,10 +27,10 @@ stocks:
 - KOTAKMAIN
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - kotak-mahindra
-- short-term-instrument
 - private-placement
+- short-term-instrument
 title: Listing of new Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

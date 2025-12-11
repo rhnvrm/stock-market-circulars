@@ -28,11 +28,11 @@ source: bse
 stocks:
 - HAMC
 tags:
-- derivatives
-- futures-and-options
-- bonus-issue
-- corporate-action
+- bonus
 - contract-adjustment
+- corporate-action
+- derivatives
+- futures-options
 - hdfc-amc
 title: Adjustment of Futures and Options contract of HDFC Asset Management Company
   Ltd on account of Bonus issue

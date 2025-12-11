@@ -26,11 +26,11 @@ source: bse
 stocks:
 - REGAAL
 tags:
-- shareholding-pattern
+- equity
 - listing
-- equity-shares
-- sebi-regulation-31
 - post-issue-filing
+- sebi-regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of REGAAL RESOURCES LIMITED
 ---
 

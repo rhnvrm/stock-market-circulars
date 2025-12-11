@@ -28,12 +28,9 @@ source: bse
 stocks:
 - RISHYRN
 tags:
-- offer-to-buy
-- takeover
-- acquisition-window
-- otb
 - equity
-- RISHYRN
+- otb
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for RISHABH SPECIAL YARNS LIMITED
   - Live Activities Schedule
 ---

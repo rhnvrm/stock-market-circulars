@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SEYAIND
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
 - irp
 - seya-industries
+- surveillance
 title: Surveillance Measure for Securities under IBC - November 7, 2025
 ---
 

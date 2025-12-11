@@ -26,12 +26,11 @@ source: nse
 stocks:
 - HDFCBANK
 tags:
-- position-limits
 - derivatives
-- trading-limits
 - fii-fpi
-- mutual-funds
-- hdfcbank
+- mutual-fund
+- position-limits
+- trading-operations
 title: Revised MWPL, TM, FII/FPI & MF limits for HDFC BANK LIMITED
 ---
 

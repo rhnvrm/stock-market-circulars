@@ -26,16 +26,15 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/FAOP70789.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- futures-and-options
-- corporate-action
-- demerger
-- scheme-of-arrangement
 - contract-adjustment
-- tatamotors
-- strike-price
+- corporate-action
+- futures-options
 - lot-size
+- scheme-of-arrangement
+- strike-price
+- tatamotors
 title: 'Scheme of Arrangement: Adjustment of Futures and Options contracts of Tata
   Motors Limited (TATAMOTORS)'
 ---

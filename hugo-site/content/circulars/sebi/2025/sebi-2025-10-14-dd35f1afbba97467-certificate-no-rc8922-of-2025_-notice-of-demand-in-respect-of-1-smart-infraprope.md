@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
-- enforcement
-- smart-infraproperties
 - cressanda-solutions
-- regulatory-action
+- demand-notice
+- enforcement
+- recovery
+- regulatory
+- smart-infraproperties
 title: 'Certificate No. RC8922 of 2025: Notice of Demand - Smart Infraproperties Pvt.
   Ltd. in matter of Cressanda Solutions Limited'
 ---

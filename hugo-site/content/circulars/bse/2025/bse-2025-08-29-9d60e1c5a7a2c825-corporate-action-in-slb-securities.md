@@ -38,13 +38,12 @@ stocks:
 - ZYDUSWELL
 - GSPL
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- stock-split
-- slb-securities
 - record-date
-- ex-date
+- slb
+- split
 title: Corporate Action in SLB Securities - Dividend, Bonus Issue and Stock Split
   Announcements
 ---

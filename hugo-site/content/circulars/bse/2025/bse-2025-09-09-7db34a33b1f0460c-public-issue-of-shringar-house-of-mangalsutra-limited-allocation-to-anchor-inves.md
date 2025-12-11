@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SHRINGAR
 tags:
-- public-issue
-- anchor-investors
+- anchor-investor
 - equity-allocation
 - ipo
-- mangalsutra
 - jewelry
+- mangalsutra
+- public-issue
 title: Shringar House of Mangalsutra Limited - Anchor Investor Allocation for Public
   Issue
 ---

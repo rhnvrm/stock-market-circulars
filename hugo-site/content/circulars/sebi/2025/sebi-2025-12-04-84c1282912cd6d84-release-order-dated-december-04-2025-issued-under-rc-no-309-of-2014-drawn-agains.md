@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
-- enforcement
 - aravali-housing-finance
+- enforcement
 - kolar-biotech
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 309 of 2014 Against Aravali Housing
   Finance Limited
 ---

@@ -25,11 +25,10 @@ source: nse
 stocks:
 - POWERGRID
 tags:
-- listing
-- bonds
-- debt-securities
-- power-grid
+- bond
 - capital-market
+- debt-securities
+- listing
 title: Listing of privately placed securities on capital market segment
 ---
 

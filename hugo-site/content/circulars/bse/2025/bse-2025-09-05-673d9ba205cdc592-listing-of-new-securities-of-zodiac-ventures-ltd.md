@@ -27,9 +27,9 @@ source: bse
 stocks:
 - ZODIAVENT
 tags:
-- new-listing
+- equity
+- listing
 - rights-issue
-- equity-shares
 - zodiac-ventures
 title: Listing of New Securities of Zodiac Ventures Ltd.
 ---

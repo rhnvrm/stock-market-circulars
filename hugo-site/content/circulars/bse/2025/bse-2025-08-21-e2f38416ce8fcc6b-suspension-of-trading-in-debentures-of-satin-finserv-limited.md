@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SATINFIN
 tags:
-- trading-suspension
-- debentures
+- debt-securities
+- interest-payment
+- ncd
 - record-date
 - redemption
-- interest-payment
-- debt-securities
+- suspension
 title: Suspension of Trading in Debentures of SATIN FINSERV LIMITED
 ---
 

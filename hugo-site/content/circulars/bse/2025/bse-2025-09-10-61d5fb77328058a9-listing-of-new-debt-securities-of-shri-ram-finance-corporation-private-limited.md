@@ -28,7 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- SRFCPL
 title: Listing of new debt securities of SHRI RAM FINANCE CORPORATION PRIVATE LIMITED
 ---
 

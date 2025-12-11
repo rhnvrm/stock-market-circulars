@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- investor-services
-- office-relocation
-- jaipur
 - common-investor-services-centre
+- investor-services
+- jaipur
+- office-relocation
 title: Change in address of Common Investor Services Centre at Jaipur
 ---
 

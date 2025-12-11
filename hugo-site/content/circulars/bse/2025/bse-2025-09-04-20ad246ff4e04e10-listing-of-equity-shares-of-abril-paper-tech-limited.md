@@ -25,10 +25,9 @@ source: bse
 stocks:
 - ABRIL
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
 title: Listing of Equity Shares of ABRIL PAPER TECH LIMITED
 ---
 

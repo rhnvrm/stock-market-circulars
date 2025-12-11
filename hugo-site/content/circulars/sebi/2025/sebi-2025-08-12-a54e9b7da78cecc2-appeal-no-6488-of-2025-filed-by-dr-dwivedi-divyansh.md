@@ -24,14 +24,14 @@ rss_url: https://www.sebi.gov.in/enforcement/orders/aug-2025/appeal-no-6488-of-2
 severity: medium
 source: sebi
 stocks:
-- NIFTY
+- NIFTY50
 tags:
-- rti-appeal
-- weekly-options
-- retail-investors
 - derivatives
-- regulatory-transparency
 - nifty
+- regulatory
+- retail-investor
+- rti
+- weekly-options
 title: RTI Appeal No. 6488 of 2025 - Dr Dwivedi Divyansh vs SEBI on Weekly Options
   Data
 ---

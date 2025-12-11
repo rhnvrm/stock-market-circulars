@@ -26,12 +26,10 @@ source: nse
 stocks:
 - LCCINFOTEC
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- trade-to-trade
-- margin-requirement
+- margin
 - price-band
+- surveillance
+- trade-to-trade
 title: LCC Infotech Limited Moved to Stage I of Graded Surveillance Measure (GSM)
 ---
 

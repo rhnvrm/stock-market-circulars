@@ -27,11 +27,10 @@ stocks:
 - MUTHOOTFIN
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- muthoot-fincorp
-- listing
+- debt-securities
 - indusind-bank
+- listing
+- private-placement
 title: Listing of New Commercial Paper of Muthoot Fincorp Limited
 ---
 

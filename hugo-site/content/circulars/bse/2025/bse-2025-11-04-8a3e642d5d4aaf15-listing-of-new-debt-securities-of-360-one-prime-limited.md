@@ -26,12 +26,12 @@ source: bse
 stocks:
 - 360ONE
 tags:
+- 360-one-prime
 - debt-securities
 - listing
+- ncd
 - private-placement
 - zero-coupon
-- 360-one-prime
-- ncd
 title: Listing of New Debt Securities of 360 ONE Prime Limited
 ---
 

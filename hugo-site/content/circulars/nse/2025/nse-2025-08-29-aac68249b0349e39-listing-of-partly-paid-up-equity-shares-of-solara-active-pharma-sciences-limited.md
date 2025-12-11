@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SOLARAPP1
 tags:
+- capital-market
+- equity
 - listing
-- equity-shares
 - partly-paid-up
 - solara-active-pharma
-- capital-market
 title: Listing of Partly Paid-up Equity Shares of Solara Active Pharma Sciences Limited
 ---
 

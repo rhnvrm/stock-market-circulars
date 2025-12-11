@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- market-data
-- trading-systems
-- technology-upgrade
-- nfcast
-- multicast
 - implementation
+- market-data
+- market-infrastructure
+- multicast
+- nfcast
+- system-update
 title: Enhancement in Market Data Streams – Update with Parallel Run Implementation
 ---
 

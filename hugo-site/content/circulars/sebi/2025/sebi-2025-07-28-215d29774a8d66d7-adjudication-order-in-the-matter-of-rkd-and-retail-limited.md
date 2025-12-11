@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - RKD
 tags:
-- adjudication-order
-- sast-regulations
-- takeover-violations
-- preferential-issue
-- open-offer
+- adjudication
 - enforcement
+- preferential-issue
+- regulatory-framework
+- takeover
 title: Adjudication Order in the matter of RKD and Retail Limited
 ---
 

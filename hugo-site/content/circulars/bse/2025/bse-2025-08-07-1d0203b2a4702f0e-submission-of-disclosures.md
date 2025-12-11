@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- disclosure
 - compliance
-- multi-exchange-listing
+- corporate-governance
+- disclosure
 - financial-results
-- price-sensitive-information
-- governance
+- multi-exchange-listing
+- price-movement
 title: BSE Advisory on Simultaneous Disclosure Submission Across Multiple Exchanges
 ---
 

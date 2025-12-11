@@ -27,12 +27,12 @@ source: bse
 stocks:
 - NAMRAFINANCE
 tags:
-- debentures
-- redemption
-- interest-payment
-- debt-segment
 - corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of NAMRA FINANCE LIMITED
 ---
 

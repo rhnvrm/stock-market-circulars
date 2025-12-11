@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GEMAROM
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
+- anchor-investor
+- equity
 - gem-aromatics
-- anchor-investors
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Gem Aromatics Limited - Lock-in Details
 ---
 

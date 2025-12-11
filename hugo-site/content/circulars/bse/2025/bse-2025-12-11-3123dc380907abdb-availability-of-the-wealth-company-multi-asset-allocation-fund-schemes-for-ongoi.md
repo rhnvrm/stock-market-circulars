@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- debt-securities
 - mutual-fund
-- bse-star-mf
-- scheme-reopening
-- subscription
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- debt-fund
 title: Availability of THE WEALTH COMPANY MULTI ASSET ALLOCATION FUND for Ongoing
   Transactions on BSE StAR MF Platform
 ---

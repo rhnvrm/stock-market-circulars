@@ -28,13 +28,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- debt-securities
-- debentures
-- covenant-modification
-- shareholding-pattern
 - capital-structure
-- management-control
+- covenant-modification
+- debt-securities
 - infinity-fincorp
+- management-control
+- ncd
+- shareholding-pattern
 title: Update Regarding Debt Securities of Infinity Fincorp Solutions Private Limited
 ---
 

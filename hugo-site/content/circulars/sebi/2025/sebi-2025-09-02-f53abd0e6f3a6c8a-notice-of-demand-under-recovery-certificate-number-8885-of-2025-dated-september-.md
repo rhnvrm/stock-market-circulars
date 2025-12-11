@@ -24,11 +24,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-certificate
-- divine-commodity
-- notice-of-demand
 - default
+- demand-notice
+- divine-commodity
+- enforcement
+- recovery
 title: SEBI Notice of Demand to Divine Commodity Proprietor for Recovery Certificate
 ---
 

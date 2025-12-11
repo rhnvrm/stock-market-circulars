@@ -26,10 +26,8 @@ source: bse
 stocks:
 - MAHAMAYA
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- mahamaya-lifesciences
 title: Listing of Equity Shares of MAHAMAYA LIFESCIENCES LIMITED
 ---
 

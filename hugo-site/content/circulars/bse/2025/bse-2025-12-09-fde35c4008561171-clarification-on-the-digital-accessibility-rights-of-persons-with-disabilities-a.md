@@ -28,14 +28,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- regulatory-clarification
-- investor-rights
-- persons-with-disabilities
-- accessibility-audit
-- SCORES
+- digital-accessibility
 - investor-charter
+- investor-rights
+- regulatory-clarification
+- scores
 title: Clarification on the Digital Accessibility - Rights of Persons with Disabilities
   Act, 2016 circulars of SEBI
 ---

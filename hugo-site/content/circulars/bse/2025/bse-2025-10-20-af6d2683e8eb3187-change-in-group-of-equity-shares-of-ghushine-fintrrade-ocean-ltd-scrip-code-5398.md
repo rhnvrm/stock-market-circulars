@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539864'
+- GHUSHINE
 tags:
-- group-change
-- m-group
-- trading
+- asm-stage
 - equity
-- ghushine-fintrrade-ocean
+- group-change
+- trading
 title: 'Change in Group of Equity Shares of Ghushine Fintrrade Ocean Ltd. (Scrip Code:
   539864)'
 ---

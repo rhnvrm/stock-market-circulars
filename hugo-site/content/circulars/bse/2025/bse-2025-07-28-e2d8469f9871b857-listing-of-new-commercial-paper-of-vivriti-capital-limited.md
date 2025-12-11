@@ -26,10 +26,10 @@ stocks:
 - VIVRITI
 tags:
 - commercial-paper
-- debt-listing
-- vivriti-capital
+- debt-securities
 - private-placement
 - trading
+- vivriti-capital
 title: Listing of new Commercial Paper of Vivriti Capital Limited
 ---
 

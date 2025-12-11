@@ -27,9 +27,9 @@ stocks:
 - INBREW
 tags:
 - debt-securities
-- trading-suspension
-- restructuring
 - inbrew-beverages
+- restructuring
+- suspension
 title: Update Regarding Debt Securities of Inbrew Beverages Private Limited
 ---
 

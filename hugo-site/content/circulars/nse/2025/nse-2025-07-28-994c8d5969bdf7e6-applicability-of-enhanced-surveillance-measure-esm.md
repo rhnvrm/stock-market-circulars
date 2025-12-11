@@ -27,12 +27,11 @@ source: nse
 stocks:
 - VISAMAN
 tags:
-- enhanced-surveillance
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM) - Securities Movement
   Between Stages
 ---

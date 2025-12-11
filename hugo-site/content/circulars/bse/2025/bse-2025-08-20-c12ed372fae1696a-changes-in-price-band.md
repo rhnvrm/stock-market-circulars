@@ -26,22 +26,22 @@ source: bse
 stocks:
 - ALLIANCEMETALIKS
 - APLAB
-- ASMTECHNOLOGIES
+- ASMTEC
 - BDINDUSTRIES
-- BARODAEXTRUSION
+- BAROEXT
 - CRIMSONMETAL
-- DHANASHREEELECTRONICS
-- EVERESTORGANICS
+- DEL
+- EVERESTO
 - EXCELREALTY
 - HARIGOVIND
-- JINDALLEASEFIN
+- JLL
 - KOTHARI
 - MARGTECHNO
-- MEHULCOLOURS
-- PROCLBGLOBAL
+- MEHUL
+- PROCLB
 - QUADRANTTELE
 - RAMGOPAL
-- RAPCORP
+- RAP
 - SABRIMALA
 - SADBHAV
 - SANCODE
@@ -52,10 +52,10 @@ stocks:
 - TRILIANCE
 - VALLABH
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 26 Securities Effective August 21, 2025
 ---
 

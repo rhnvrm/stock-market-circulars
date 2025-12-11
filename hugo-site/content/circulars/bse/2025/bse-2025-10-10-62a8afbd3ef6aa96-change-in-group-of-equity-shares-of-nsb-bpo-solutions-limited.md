@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544571'
+- NSBBPO
 tags:
+- asm-stage
 - group-change
+- nsb-bpo-solutions
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
-- mt-group
-- m-group
-- nsb-bpo-solutions
 title: Change in Group of Equity Shares of NSB BPO SOLUTIONS LIMITED
 ---
 

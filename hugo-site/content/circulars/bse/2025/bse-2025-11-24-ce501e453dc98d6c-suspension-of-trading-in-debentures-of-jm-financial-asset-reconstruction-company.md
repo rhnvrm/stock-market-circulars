@@ -26,14 +26,13 @@ source: bse
 stocks:
 - JMFARCL
 tags:
-- suspension
-- debentures
-- ncd
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
 - jm-financial-arc
-- debt-market
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Asset Reconstruction Company
   Ltd
 ---

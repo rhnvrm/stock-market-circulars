@@ -25,15 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544566'
+- SUNSKY
 tags:
+- asm-stage
 - group-change
-- sme
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
+- sme
 - sunsky-logistics
+- trade-for-trade
 title: Change in Group of Equity Shares of SUNSKY LOGISTICS LIMITED
 ---
 

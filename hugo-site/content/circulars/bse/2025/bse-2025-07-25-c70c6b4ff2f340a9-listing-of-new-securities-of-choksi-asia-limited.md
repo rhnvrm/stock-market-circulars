@@ -25,11 +25,9 @@ source: bse
 stocks:
 - CHOKSIASI
 tags:
+- equity
 - listing
 - new-securities
-- amalgamation
-- equity-shares
-- choksi-asia
 - scheme-of-arrangement
 title: BSE Listing of New Securities - Choksi Asia Limited Post-Amalgamation
 ---

@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- front-running
+- compliance
+- demand-notice
 - enforcement
 - fidelity-group
-- compliance
-- remittance-order
+- investigation
+- recovery
 title: 'SEBI Order for Compliance – Remittance Order for Recovery Certificate No.
   8630 of 2025 against Alka Dhadda in the matter of Front Running: Various Funds of
   Fidelity Group'

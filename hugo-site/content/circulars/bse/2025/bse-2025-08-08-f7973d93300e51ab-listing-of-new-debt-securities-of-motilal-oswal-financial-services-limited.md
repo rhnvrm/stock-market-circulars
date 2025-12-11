@@ -28,9 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - motilal-oswal
 - new-securities
+- private-placement
 title: Listing of new debt securities of Motilal Oswal Financial Services Limited
 ---
 

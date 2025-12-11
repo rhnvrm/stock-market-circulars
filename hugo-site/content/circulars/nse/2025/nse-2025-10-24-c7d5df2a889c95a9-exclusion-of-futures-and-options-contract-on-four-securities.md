@@ -29,11 +29,11 @@ stocks:
 - NCC
 - TITAGARH
 tags:
-- futures-and-options
-- derivatives
 - contract-exclusion
+- derivatives
 - eligibility-criteria
-- sebi-circular
+- futures-options
+- sebi
 - stock-derivatives
 title: Exclusion of Futures and Options Contracts on Four Securities
 ---

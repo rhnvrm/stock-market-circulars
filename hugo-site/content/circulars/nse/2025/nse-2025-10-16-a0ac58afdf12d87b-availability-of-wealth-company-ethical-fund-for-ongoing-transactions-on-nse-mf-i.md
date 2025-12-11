@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- wealth-company
 - ethical-fund
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
+- wealth-company
 title: Availability of Wealth Company Ethical Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

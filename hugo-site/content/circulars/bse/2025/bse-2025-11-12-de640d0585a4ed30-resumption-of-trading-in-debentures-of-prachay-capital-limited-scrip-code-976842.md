@@ -28,12 +28,12 @@ source: bse
 stocks:
 - PRACHAY
 tags:
-- debentures
-- trading-resumption
-- put-option
-- debt-market
+- corporate-action
+- debt-securities
+- ncd
 - prachay-capital
-- corporate-actions
+- put-option
+- trading-resumption
 title: Resumption of Trading in Debentures of PRACHAY CAPITAL LIMITED
 ---
 

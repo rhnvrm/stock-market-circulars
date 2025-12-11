@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- fixed-income
-- indices
-- sovereign-bonds
-- government-securities
-- benchmark-change
 - 10-year-bond
+- benchmark-change
+- fixed-income
+- gsec
+- indices
 title: Changes in BSE Fixed Income Indices - 10 Year Sovereign Bond Index Benchmark
   Update
 ---

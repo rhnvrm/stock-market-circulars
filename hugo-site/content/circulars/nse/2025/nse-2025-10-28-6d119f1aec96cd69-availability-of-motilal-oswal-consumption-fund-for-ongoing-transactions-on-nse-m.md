@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nse-mf-invest
+- equity-scheme
 - motilal-oswal
-- subscription
+- mutual-fund
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- equity-schemes
-- reopening
+- trading-platform
 title: Availability of Motilal Oswal Consumption Fund for Ongoing Transactions on
   NSE MF Invest Platform
 ---

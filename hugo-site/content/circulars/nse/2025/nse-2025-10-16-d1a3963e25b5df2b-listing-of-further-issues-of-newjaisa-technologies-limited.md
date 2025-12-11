@@ -26,11 +26,10 @@ source: nse
 stocks:
 - NEWJAISA
 tags:
-- listing
+- emerge-platform
+- equity
 - esop
-- sme-emerge
-- equity-shares
-- newjaisa-technologies
+- listing
 title: Listing of Further Issues of Newjaisa Technologies Limited
 ---
 

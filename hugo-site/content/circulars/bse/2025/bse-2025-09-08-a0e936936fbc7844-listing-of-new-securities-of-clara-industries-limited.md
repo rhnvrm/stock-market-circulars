@@ -25,11 +25,11 @@ source: bse
 stocks:
 - CLARA
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
-- lock-in-period
 - clara-industries
+- equity
+- lock-in
+- new-securities
+- preferential-issue
 title: Listing of new Securities of CLARA INDUSTRIES LIMITED
 ---
 

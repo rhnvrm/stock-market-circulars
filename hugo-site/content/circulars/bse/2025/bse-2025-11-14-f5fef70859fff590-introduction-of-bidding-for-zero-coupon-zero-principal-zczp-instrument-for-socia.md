@@ -27,16 +27,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- asba
+- book-building
+- demat
+- file-format
+- scsb
 - social-stock-exchange
+- upload-format
 - zczp
 - zero-coupon
 - zero-principal
-- bidding
-- scsb
-- file-format
-- upload-format
-- asba
-- demat
 title: Introduction of Bidding for Zero Coupon Zero Principal (ZCZP) Instrument for
   Social Stock Exchange (SSE)
 ---

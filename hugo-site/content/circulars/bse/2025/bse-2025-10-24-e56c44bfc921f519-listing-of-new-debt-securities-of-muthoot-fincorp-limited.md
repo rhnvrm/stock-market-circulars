@@ -30,10 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- debentures
+- ncd
 - private-placement
-- muthoot-fincorp
-- non-convertible-debentures
 title: Listing of New Debt Securities of Muthoot Fincorp Limited
 ---
 

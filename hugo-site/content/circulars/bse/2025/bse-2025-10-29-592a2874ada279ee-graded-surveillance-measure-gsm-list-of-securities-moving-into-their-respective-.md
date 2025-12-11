@@ -34,11 +34,9 @@ stocks:
 - REVATHI
 - GUJLEASE
 tags:
-- gsm
+- compliance
 - surveillance
 - trading-restrictions
-- market-surveillance
-- compliance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

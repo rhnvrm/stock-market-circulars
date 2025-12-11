@@ -26,11 +26,10 @@ source: nse
 stocks:
 - TATACAP
 tags:
-- listing
+- equity
 - ipo
+- listing
 - tata-capital
-- equity-shares
-- new-listing
 title: Listing of Equity Shares of Tata Capital Limited (IPO)
 ---
 

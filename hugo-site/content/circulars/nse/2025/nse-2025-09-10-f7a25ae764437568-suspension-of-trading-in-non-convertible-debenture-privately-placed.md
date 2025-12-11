@@ -26,13 +26,13 @@ stocks:
 - CANBK
 - LTF
 tags:
-- trading-suspension
-- non-convertible-debentures
-- redemption
-- debt-market
 - canara-bank
-- toyota-financial
+- debt-securities
 - lt-finance
+- ncd
+- redemption
+- suspension
+- toyota-financial
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed) - Three
   Securities
 ---

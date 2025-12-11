@@ -26,13 +26,12 @@ source: bse
 stocks:
 - CHOLAMANDALAM
 tags:
+- corporate-action
 - debenture-suspension
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-segment
-- CHOLAMANDALAM
+- ncd
+- redemption
 title: Suspension of Trading in Debentures of CHOLAMANDALAM INVESTMENT AND FINANCE
   COMPANY LTD
 ---

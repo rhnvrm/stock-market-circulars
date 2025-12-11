@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- silver
+- derivatives
 - initial-margin
-- risk-management
-- commodity-derivatives
 - margin-revision
+- risk-management
+- silver
 title: Revision of Initial Margin in Silver
 ---
 

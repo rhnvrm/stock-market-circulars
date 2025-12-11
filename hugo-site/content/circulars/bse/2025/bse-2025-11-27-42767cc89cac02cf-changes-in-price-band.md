@@ -32,10 +32,10 @@ stocks:
 - PRABHHANS
 - SHININGTO
 tags:
+- equity
 - price-band
 - surveillance
 - trading-restrictions
-- equity-segment
 title: Changes in Price Band - 5 Scrips Revised Effective November 28, 2025
 ---
 

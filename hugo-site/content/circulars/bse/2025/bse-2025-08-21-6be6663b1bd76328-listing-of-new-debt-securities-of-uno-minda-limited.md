@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- uno-minda
-- debentures
 title: Listing of new debt securities of UNO Minda Limited
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - WEBSOL
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
+- trading-member
 - websol-energy
-- trading-members
 title: New ISIN Number for WEBSOL ENERGY SYSTEM LTD Following Share Sub-Division
 ---
 

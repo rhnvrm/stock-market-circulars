@@ -33,17 +33,15 @@ stocks:
 - CEATLTD
 - GODREJAGROVE
 tags:
-- listing
-- debt-securities
-- commercial-paper
-- bonds
-- debentures
-- private-placement
-- tata-steel
 - alembic-pharma
-- godrej
+- bond
 - ceat
-- debt-market
+- commercial-paper
+- debt-securities
+- godrej
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Debt Securities - Commercial Papers and Bonds
 ---
 

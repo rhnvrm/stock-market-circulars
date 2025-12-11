@@ -27,11 +27,11 @@ source: bse
 stocks:
 - YUKEN
 tags:
+- equity
 - listing
-- preferential-issue
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 - yuken-india
 title: Listing of New Securities of Yuken India Ltd - Preferential Issue
 ---

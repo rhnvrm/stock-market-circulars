@@ -25,10 +25,10 @@ source: nse
 stocks:
 - AARADHYA
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Aaradhya Disposal Industries Limited (SME IPO)
 ---
 

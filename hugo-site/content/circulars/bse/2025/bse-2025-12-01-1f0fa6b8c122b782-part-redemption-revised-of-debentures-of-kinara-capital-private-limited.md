@@ -28,12 +28,12 @@ source: bse
 stocks:
 - KCPL
 tags:
-- debentures
-- part-redemption
-- debt-market
-- corporate-actions
-- face-value-revision
+- corporate-action
+- debt-securities
+- face-value-change
 - kinara-capital
+- ncd
+- redemption
 title: Part Redemption (Revised) of Debentures of Kinara Capital Private Limited
 ---
 

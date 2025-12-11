@@ -26,11 +26,10 @@ source: bse
 stocks:
 - STARIMAGING
 tags:
+- disclosure
+- equity
 - listing
 - shareholding-pattern
-- equity-shares
-- disclosure
-- star-imaging
 title: Listing of Equity Shares of Star Imaging and Path Lab Limited
 ---
 

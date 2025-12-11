@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KAFL
 tags:
-- trading-suspension
-- debentures
-- redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KLM AXIVA FINVEST LIMITED
 ---
 

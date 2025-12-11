@@ -31,11 +31,11 @@ stocks:
 - OLATECH
 tags:
 - clarification
-- trading-volume
+- market-operations
 - price-movement
-- surveillance
 - regulation-30
-- market-driven
+- surveillance
+- trading-volume
 title: Clarifications received from the companies
 ---
 

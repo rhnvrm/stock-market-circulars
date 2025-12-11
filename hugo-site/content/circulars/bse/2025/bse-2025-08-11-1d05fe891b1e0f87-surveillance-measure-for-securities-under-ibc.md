@@ -27,12 +27,9 @@ stocks:
 - EASTDRUMS
 - VASINFRA
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
 - stage-transition
+- surveillance
 title: Surveillance Measure for Securities Under IBC - Stage Updates
 ---
 

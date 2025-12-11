@@ -43,10 +43,10 @@ stocks:
 - VALENCIA
 - VMSTMT
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Changes in Price Band for 17 Securities
 ---
 

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - WRSSXXI(A)TRANSCO
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - debt-securities
-- non-convertible-debentures
 - face-value-reduction
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of WRSS XXI (A) TRANSCO LIMITED
 ---
 

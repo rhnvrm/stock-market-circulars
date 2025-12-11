@@ -27,7 +27,7 @@ source: bse
 stocks:
 - CATVISION
 - ELCIDINV
-- GAUTAMEXIM
+- GEL
 - GOPALIRON
 - MANGALAM
 - MAYURLTD
@@ -35,11 +35,11 @@ stocks:
 - SECURKLOUD
 - YURANUS
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-regulation
 title: Revision of Price Bands for 9 Securities Effective November 25, 2025
 ---
 

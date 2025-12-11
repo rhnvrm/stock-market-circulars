@@ -27,13 +27,13 @@ source: bse
 stocks:
 - AFIPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- debt-segment
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption on Debenture of APTUS FINANCE INDIA PRIVATE LIMITED
 ---
 

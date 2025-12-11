@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ITCONS
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of new Securities of ITCONS E-Solutions Limited
 ---
 

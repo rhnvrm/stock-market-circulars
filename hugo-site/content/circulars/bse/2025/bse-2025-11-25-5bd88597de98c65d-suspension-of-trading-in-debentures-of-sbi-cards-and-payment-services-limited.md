@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SBICARD
 tags:
-- suspension
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- corporate-action
-- debt-market
+- suspension
 title: Suspension of Trading in Debentures of SBI Cards and Payment Services Limited
 ---
 

@@ -24,14 +24,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
-- midcap
 - bank-of-india
+- equity
+- midcap
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
 title: Bank of India Mid Cap Fund Reopened for Transactions on NSE MF Invest Platform
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RAVEL
 tags:
+- equity
 - listing
-- sme
-- equity-shares
-- new-listing
 - ravelcare
+- sme
 title: Listing of Equity Shares of RAVELCARE LIMITED
 ---
 

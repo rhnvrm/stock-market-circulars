@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
+- face-value-reduction
 - ptc
 - redemption
 - trinity-trust
-- face-value-reduction
 title: Part Redemption of PTCs of TRINITY TRUST SEP 2025
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- '517320'
+- MAGNUS
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
 - corrigendum
-- rolling-settlement
+- equity
+- rights-issue
+- rolling-segment
 title: Corrigendum to Rights Issue of Equity Shares of Magnus Steel and Infra Ltd
 ---
 

@@ -25,13 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- timeline-extension
-- persons-with-disabilities
-- investment-advisors
-- research-analysts
-- accessibility-audit
+- digital-accessibility
+- extension
+- investment-adviser
+- research-analyst
 title: Extension of Digital Accessibility Compliance Timelines for Regulated Entities
 ---
 

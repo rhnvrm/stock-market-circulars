@@ -27,10 +27,9 @@ stocks:
 - IHFCL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-home-finance
 - private-placement
-- debt-segment
 title: ICICI Home Finance Company Limited Lists New Commercial Paper Worth Rs. 50
   Crores
 ---

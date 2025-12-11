@@ -25,10 +25,10 @@ source: bse
 stocks:
 - YASH
 tags:
+- equity
 - listing
+- lock-in
 - new-securities
-- equity-shares
-- lock-in-period
 - yash-trading-finance
 title: Listing of New Securities of Yash Trading & Finance Ltd
 ---

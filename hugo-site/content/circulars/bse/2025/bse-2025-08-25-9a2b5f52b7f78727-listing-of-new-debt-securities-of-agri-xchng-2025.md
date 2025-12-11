@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- agri-xchng
+- bond
 - debt-securities
 - listing
 - private-placement
-- agri-xchng
-- corporate-bonds
 title: Listing of new debt securities of AGRI XCHNG 2025
 ---
 

@@ -31,11 +31,9 @@ stocks:
 - YAARI
 - INFOMEDIA
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
 - periodic-review
 - relaxation
+- surveillance
 title: Graded Surveillance Measure (GSM) - Periodic Relaxation of Surveillance Actions
 ---
 

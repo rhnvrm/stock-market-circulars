@@ -25,10 +25,10 @@ source: bse
 stocks:
 - SAHPOLY
 tags:
+- compliance
+- corporate-action
 - name-change
 - sah-polymers
-- corporate-action
-- compliance
 title: Change in Name of the Company - Sah Polymers Ltd
 ---
 

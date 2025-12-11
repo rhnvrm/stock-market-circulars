@@ -27,10 +27,8 @@ stocks:
 - ONGCPETRO
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- ongc-petro
-- debt-segment
 title: Listing of new Commercial Paper of ONGC Petro additions Limited
 ---
 

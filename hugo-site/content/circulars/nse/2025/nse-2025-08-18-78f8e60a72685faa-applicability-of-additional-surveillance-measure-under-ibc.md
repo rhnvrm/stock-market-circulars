@@ -26,12 +26,10 @@ source: nse
 stocks:
 - HINDNATGLS
 tags:
-- surveillance
-- insolvency-and-bankruptcy-code
-- ibc
-- asm
-- additional-surveillance-measure
 - hindusthan-national-glass
+- insolvency
+- insolvency-and-bankruptcy-code
+- surveillance
 title: Additional Surveillance Measure under IBC - Securities Updates
 ---
 

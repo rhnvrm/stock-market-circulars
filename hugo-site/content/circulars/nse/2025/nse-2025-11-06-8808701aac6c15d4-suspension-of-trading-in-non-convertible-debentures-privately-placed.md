@@ -28,12 +28,12 @@ stocks:
 - CANFINHOME
 - SBIN
 tags:
-- debt-market
-- suspension
-- non-convertible-debentures
-- redemption
 - call-option
+- debt-securities
+- ncd
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

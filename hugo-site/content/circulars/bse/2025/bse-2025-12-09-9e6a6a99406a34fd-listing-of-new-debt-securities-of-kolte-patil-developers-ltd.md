@@ -27,11 +27,11 @@ source: bse
 stocks:
 - KPDL
 tags:
-- debt-listing
-- private-placement
-- zero-coupon-bond
+- debt-securities
 - kolte-patil-developers
 - new-securities
+- private-placement
+- zero-coupon-bond
 title: Listing of New Debt Securities of Kolte-Patil Developers Ltd
 ---
 

@@ -27,11 +27,10 @@ source: nse
 stocks:
 - SIKKO
 tags:
-- face-value-split
-- stock-split
 - corporate-action
+- face-value-change
 - listing
-- SIKKO
+- split
 title: Face Value Split - Sikko Industries Limited (SIKKO)
 ---
 

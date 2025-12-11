@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NACL
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
+- demat
+- otb
 - revised-dates
-- demat-delivery
+- settlement
+- takeover
 title: Revised Settlement Schedule for NACL Industries Limited Takeover - Bid End
   Date Extended to September 09, 2025
 ---

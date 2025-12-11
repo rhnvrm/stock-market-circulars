@@ -27,12 +27,12 @@ source: bse
 stocks:
 - JMFINSER
 tags:
-- debt-listing
-- private-placement
-- jm-financial
-- debentures
-- new-listing
 - crisil-aa
+- debt-securities
+- jm-financial
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of JM Financial Services Limited
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - INDIANLNK
 tags:
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- equity-shares
-- lock-in
 title: Listing of New Securities of Indian Link Chain Mnfrs. Ltd
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JOSTS
 tags:
+- demat
+- equity
+- renunciation
 - rights-issue
 - trading
-- renunciation
-- equity
-- dematerialized
 title: Rights Entitlements Trading for JOSTS ENGINEERING COMPANY LIMITED
 ---
 

@@ -29,11 +29,10 @@ stocks:
 - HEMO
 - PIONEERAG
 tags:
-- gsm
+- investor-protection
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
-- investor-protection
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

@@ -36,11 +36,10 @@ stocks:
 - NARMADA
 - SHARDACROP
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- securities-monitoring
+- asm-stage
 - risk-management
+- securities-monitoring
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,12 +27,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- recovery-proceedings
-- bank-account-attachment
-- demat-account-attachment
+- attachment
 - defaulter
-- enforcement-action
+- enforcement
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Rathi Ispat
   Ltd. (Recovery Certificate No. 2418 of 2019)
 ---

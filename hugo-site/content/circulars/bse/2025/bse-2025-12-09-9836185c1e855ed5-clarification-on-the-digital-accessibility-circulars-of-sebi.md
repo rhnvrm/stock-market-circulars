@@ -27,16 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- regulated-entities
+- depository
+- digital-accessibility
+- intermediary
+- investment-adviser
 - investor-charter
-- SCORES
-- accessibility-audit
-- stock-brokers
-- mutual-funds
-- investment-advisors
-- depositories
+- mutual-fund
+- scores
+- stock-broker
 title: Clarification on the Digital Accessibility circulars of SEBI
 ---
 

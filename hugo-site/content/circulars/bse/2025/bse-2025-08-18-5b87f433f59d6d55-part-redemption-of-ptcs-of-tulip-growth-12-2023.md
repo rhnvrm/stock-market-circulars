@@ -26,12 +26,11 @@ source: bse
 stocks:
 - TULIP GROWTH 12 2023
 tags:
-- ptc
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- tulip-growth
-- debt
-- corporate-actions
+- ptc
+- redemption
 title: Part Redemption of PTCs of TULIP GROWTH 12 2023
 ---
 

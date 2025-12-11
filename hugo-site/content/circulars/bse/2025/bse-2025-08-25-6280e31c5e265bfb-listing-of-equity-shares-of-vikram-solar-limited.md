@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VIKRAM
 tags:
-- shareholding-pattern
-- listing
-- equity-shares
-- sebi-regulation-31
 - disclosure
+- equity
+- listing
+- sebi-regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Vikram Solar Limited
 ---
 

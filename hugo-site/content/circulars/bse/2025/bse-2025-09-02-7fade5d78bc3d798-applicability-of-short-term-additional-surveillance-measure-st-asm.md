@@ -42,13 +42,13 @@ stocks:
 - PRISMMED
 - RRMETALMAKERS
 - SAUMYACON
-- SCANPROJECTS
-- YASHCHEMEX
+- SCANPRO
+- YASHCHEM
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -29,8 +29,8 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
 - listing
+- private-placement
 - reliance-retail-ventures
 title: Listing of new Commercial Paper of Reliance Retail Ventures Limited
 ---

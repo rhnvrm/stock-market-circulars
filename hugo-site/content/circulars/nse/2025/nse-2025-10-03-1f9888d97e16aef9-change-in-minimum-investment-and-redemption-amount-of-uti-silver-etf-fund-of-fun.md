@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- fund-of-funds
 - investment-amount
+- mutual-fund
 - redemption
-- uti-mutual-fund
-- silver-etf
+- silver
 - sip
-- fund-of-fund
+- uti-mutual-fund
 title: Change in Minimum Investment and Redemption Amount of UTI Silver ETF Fund of
   Fund Scheme
 ---

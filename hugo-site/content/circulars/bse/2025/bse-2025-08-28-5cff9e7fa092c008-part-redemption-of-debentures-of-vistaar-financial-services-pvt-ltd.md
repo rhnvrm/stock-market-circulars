@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VISTAAR
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
 - interest-payment
+- ncd
+- redemption
 - vistaar-financial
 title: Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD
 ---

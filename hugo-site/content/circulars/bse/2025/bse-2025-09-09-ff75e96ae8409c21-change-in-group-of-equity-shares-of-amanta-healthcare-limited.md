@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AMANTA
 tags:
-- group-change
-- trading-segment
-- rolling-settlement
-- trade-for-trade
 - amanta-healthcare
+- group-change
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Amanta Healthcare Limited
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - UJJIVAN
 tags:
-- capital-raising
-- qip
-- media-clarification
 - analyst-day
+- capital-raising
 - disclosure
-- ujjivan
+- media-clarification
+- qip
 title: Ujjivan Small Finance Bank Clarifies Capital Raising Plans Following Media
   Reports
 ---

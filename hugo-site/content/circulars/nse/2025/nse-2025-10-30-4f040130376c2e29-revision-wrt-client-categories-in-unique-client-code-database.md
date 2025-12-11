@@ -27,12 +27,12 @@ source: nse
 stocks: []
 tags:
 - client-categories
-- ucc-database
-- nri
-- nre
-- nro
-- investor-classification
 - compliance
+- investor-classification
+- nre
+- nri
+- nro
+- ucc-database
 title: Revision w.r.t Client Categories in Unique Client Code Database
 ---
 

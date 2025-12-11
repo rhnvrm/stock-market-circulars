@@ -33,17 +33,17 @@ stocks:
 - INDIASHTFIN
 - KFINTECH
 - KOTAKBANK
-- MAXINDIA
+- MAXIND
 - SHRIRAMFIN
 - WELCORP
 - WIPRO
 - ZENSARTECH
 tags:
-- listing
-- equity-shares
+- equity
 - esop
-- warrants
+- listing
 - securities
+- warrant
 title: Listing of Further Issues of Securities - Multiple Companies
 ---
 

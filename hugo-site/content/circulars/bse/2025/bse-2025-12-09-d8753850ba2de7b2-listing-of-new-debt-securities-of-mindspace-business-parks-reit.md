@@ -27,11 +27,11 @@ stocks:
 - MBPR
 tags:
 - debt-securities
+- icra-aaa
 - listing
-- reit
 - mindspace-business-parks
 - private-placement
-- icra-aaa
+- reit
 title: Listing of New Debt Securities of Mindspace Business Parks REIT
 ---
 

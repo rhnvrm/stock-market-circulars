@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- minimum-application
-- sip
 - axis-mutual-fund
 - liquid-fund
-- overnight-fund
+- minimum-application
+- mutual-fund
+- sip
 title: Change in Minimum Application Amount for Axis Liquid Fund and Axis Overnight
   Fund on BSE StAR MF Platform
 ---

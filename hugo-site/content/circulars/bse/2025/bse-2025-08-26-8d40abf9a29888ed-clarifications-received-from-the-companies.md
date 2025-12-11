@@ -27,11 +27,11 @@ stocks:
 - GANDHI
 - RATEGAIN
 tags:
-- volume-movement
 - clarification
-- surveillance
-- disclosure
 - compliance
+- disclosure
+- price-movement
+- surveillance
 title: Clarifications received from companies on volume movements
 ---
 

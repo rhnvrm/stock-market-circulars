@@ -41,15 +41,14 @@ stocks:
 - PRIME
 - RTGN
 - SBFC
-- TATAMOTORS
+- TMCV
 - TVSSCS
 - ZAGGLE
 tags:
-- esop
-- esos
-- listing
-- equity-shares
 - allotment
+- equity
+- esop
+- listing
 title: Listing of Further Securities Under ESOP/ESOS for 19 Companies
 ---
 

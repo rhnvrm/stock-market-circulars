@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TULSYAN
 tags:
-- surveillance
-- encumbrance
-- promoter-pledge
-- sast-regulation
 - compliance
+- encumbrance
 - risk-management
+- sast
+- surveillance
 title: High Promoter and Non-Promoter Encumbrance Surveillance Measure Implementation
 ---
 

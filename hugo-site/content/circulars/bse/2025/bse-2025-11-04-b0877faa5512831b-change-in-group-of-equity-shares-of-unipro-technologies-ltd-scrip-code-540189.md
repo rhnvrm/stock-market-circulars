@@ -27,10 +27,10 @@ source: bse
 stocks:
 - UNIPRO
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
 - trading
-- equity-shares
 title: 'Change in Group of Equity Shares of Unipro Technologies Ltd. (Scrip Code:
   540189)'
 ---

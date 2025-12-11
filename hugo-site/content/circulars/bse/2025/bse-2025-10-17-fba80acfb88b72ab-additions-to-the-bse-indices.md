@@ -24,19 +24,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544583'
-- '544582'
-- '544584'
-- '544585'
+- CANHLIFE
+- SHLOKKA
+- SKM
+- SIHORA
 tags:
-- index-addition
-- bse-ipo-index
-- bse-sme-ipo-index
-- new-listing
+- bse-index
 - canara-hsbc-life
+- index-change
+- listing
 - shlokka-dyes
-- sk-minerals-additives
 - sihora-industries
+- sk-minerals-additives
 title: Additions to the BSE Indices - October 2025
 ---
 

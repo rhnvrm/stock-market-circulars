@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-market
-- debentures
-- trading-resumption
-- put-option
+- debt-securities
+- ncd
 - prachay-capital
+- put-option
+- trading-resumption
 title: Resumption of Trading in Debentures of PRACHAY CAPITAL LIMITED
 ---
 

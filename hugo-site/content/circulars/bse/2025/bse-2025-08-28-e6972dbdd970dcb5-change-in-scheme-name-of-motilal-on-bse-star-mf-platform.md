@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MOAMC
 tags:
-- mutual-funds
-- fund-of-funds
-- scheme-changes
-- motilal-oswal
-- sebi-compliance
 - etf
+- fund-of-funds
+- motilal-oswal
+- mutual-fund
+- scheme-changes
+- sebi
 title: Change in Scheme name of MOTILAL on BSE StAR MF Platform
 ---
 

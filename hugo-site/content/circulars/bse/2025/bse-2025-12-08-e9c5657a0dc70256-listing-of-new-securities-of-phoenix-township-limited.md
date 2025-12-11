@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PHOENIXTW
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
 - phoenix-township
+- preferential-issue
 title: Listing of New Securities of Phoenix Township Limited
 ---
 

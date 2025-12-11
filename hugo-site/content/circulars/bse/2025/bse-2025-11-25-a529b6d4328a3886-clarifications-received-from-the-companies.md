@@ -30,11 +30,11 @@ stocks:
 - GRAVITA
 tags:
 - clarification
-- volume-increase
-- surveillance
-- market-driven
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

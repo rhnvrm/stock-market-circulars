@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
 - mutual-fund
-- bse-star-mf
-- sundaram-multi-factor-fund
-- subscription
 - redemption
 - sip
 - stp
+- subscription
+- sundaram-multi-factor-fund
 - swp
-- equity-fund
 title: Availability of SUNDARAM MULTI-FACTOR FUND for ongoing transactions on BSE
   StAR MF Platform
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JAYAMBE
 tags:
-- sme-ipo
-- anchor-investors
+- anchor-investor
 - equity-allocation
-- public-issue
 - jay-ambe-supermarkets
+- public-issue
+- sme
 title: Jay Ambe Supermarkets Limited SME IPO - Anchor Investor Allocation Details
 ---
 

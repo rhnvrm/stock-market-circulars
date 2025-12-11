@@ -23,13 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- 360ONEWAM
+- 360ONE
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - 360-one-wam
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of 360 ONE WAM LIMITED
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - PRECWIRE
 tags:
-- equity-listing
+- conversion
+- equity
+- lock-in
 - preferential-issue
-- warrant-conversion
-- lock-in-period
 title: Listing of new Securities of Precision Wires India Ltd - Preferential Issue
 ---
 

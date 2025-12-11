@@ -25,11 +25,10 @@ source: bse
 stocks:
 - CANFINHOME
 tags:
-- commercial-paper
-- debt-listing
-- can-fin-homes
-- private-placement
 - cfhl
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Can Fin Homes Limited
 ---
 

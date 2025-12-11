@@ -29,7 +29,7 @@ stocks:
 - BIGBLOC
 - DHILLON
 - JHANDEWALAS
-- YUGDECOR
+- YUG
 - BHAGWATI
 - BHASKAR
 - MARCLOIRE
@@ -37,12 +37,11 @@ stocks:
 - UNIFINZ
 - VANDANFOOD
 tags:
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
-- market-surveillance
-- sme
+- asm-stage
 - risk-management
+- sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

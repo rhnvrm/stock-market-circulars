@@ -32,16 +32,10 @@ stocks:
 - KDL
 - TICL
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- st-asm
-- margin-requirements
 - trading-restrictions
-- beacon
-- globalvect
-- gurunanak
-- kdl
-- ticl
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

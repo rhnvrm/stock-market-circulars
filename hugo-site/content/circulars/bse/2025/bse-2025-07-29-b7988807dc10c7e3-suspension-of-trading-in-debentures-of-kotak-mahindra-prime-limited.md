@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KOTAK MAHINDRA PRIME
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
 - interest-payment
+- ncd
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of KOTAK MAHINDRA PRIME LIMITED
 ---
 

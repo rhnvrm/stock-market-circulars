@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GRIHUM
 tags:
-- trading-suspension
-- debentures
 - grihum-housing
 - interest-payment
-- redemption
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of GRIHUM HOUSING FINANCE LIMITED
 ---
 

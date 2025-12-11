@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VEDAVAAG
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of new Securities of VEDAVAAG Systems Limited
 ---
 

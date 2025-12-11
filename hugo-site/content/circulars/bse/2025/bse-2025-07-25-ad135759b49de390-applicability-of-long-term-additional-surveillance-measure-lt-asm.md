@@ -32,15 +32,11 @@ stocks:
 - VADILAL
 - YASH
 tags:
-- lt-asm
-- surveillance
-- trading-restrictions
+- asm-stage
 - market-operations
 - risk-management
-- ARYAN
-- DIANA
-- FORCEMOT
-- REMI
+- surveillance
+- trading-restrictions
 title: Long Term Additional Surveillance Measure (LT-ASM) Updates - July 28, 2025
 ---
 

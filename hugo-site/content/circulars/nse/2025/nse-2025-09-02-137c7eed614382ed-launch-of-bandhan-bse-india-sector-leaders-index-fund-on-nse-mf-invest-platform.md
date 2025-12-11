@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- new-fund-offer
-- equity-fund
-- index-fund
 - bandhan-mutual-fund
+- equity
+- index-fund
+- mutual-fund
+- nfo
 title: Launch of Bandhan BSE India Sector Leaders Index Fund on NSE MF Invest Platform
 ---
 

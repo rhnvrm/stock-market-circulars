@@ -24,13 +24,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - corruption-complaints
+- fund-siphoning
+- ipo-subscription
 - listed-companies
 - nbfc-rules
+- rti
 - vigilance-department
-- ipo-subscription
-- fund-siphoning
 title: Appeal No. 6505 of 2025 filed by Vikas Jain - RTI Appeal on SEBI Rules and
   Regulations
 ---

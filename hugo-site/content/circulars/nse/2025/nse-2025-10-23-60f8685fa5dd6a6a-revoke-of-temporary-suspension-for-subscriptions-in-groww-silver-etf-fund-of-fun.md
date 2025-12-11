@@ -27,14 +27,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription
-- etf
-- fund-of-fund
-- silver
-- groww-mutual-fund
 - bullion
+- etf
+- fund-of-funds
+- groww-mutual-fund
 - market-normalization
+- mutual-fund
+- silver
+- subscription
 title: Revoke of Temporary Suspension for subscriptions in Groww Silver ETF Fund of
   Fund
 ---

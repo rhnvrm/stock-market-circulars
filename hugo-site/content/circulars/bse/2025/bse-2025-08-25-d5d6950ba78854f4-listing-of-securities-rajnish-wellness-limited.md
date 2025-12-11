@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '541601'
+- RAJNISH
 tags:
-- rights-issue
-- equity-shares
-- new-listing
+- equity
+- listing
 - rajnish-wellness
+- rights-issue
 title: Listing of 246.87 Crore Rights Issue Equity Shares - Rajnish Wellness Limited
 ---
 

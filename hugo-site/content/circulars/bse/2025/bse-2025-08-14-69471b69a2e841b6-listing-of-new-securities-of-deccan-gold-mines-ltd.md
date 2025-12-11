@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DECCAN
 tags:
-- new-listing
-- equity-shares
 - convertible-debentures
-- preferential-allotment
-- lock-in-period
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Deccan Gold Mines Ltd - 6.93 Lakh Equity Shares
   from CCD Conversion
 ---

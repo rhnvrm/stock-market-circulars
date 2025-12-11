@@ -28,11 +28,11 @@ stocks:
 - SRGHFL
 tags:
 - debt-securities
-- ncd
+- demat
 - listing
+- ncd
 - private-placement
 - srg-housing-finance
-- demat-only
 title: Listing of New Debt Securities of SRG Housing Finance Limited
 ---
 

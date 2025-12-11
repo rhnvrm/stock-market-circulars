@@ -61,11 +61,9 @@ stocks:
 - UNITEDPOLY
 - VCL
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Updates - Stage Changes for Multiple Securities
 ---
 

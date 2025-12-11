@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SAHAJ
 tags:
-- trading-suspension
+- compliance
 - financial-results
-- listing-compliance
-- sebi-regulations
+- regulatory-framework
 - sahaj-fashions
+- suspension
 title: Suspension of trading in securities - Sahaj Fashions Limited
 ---
 

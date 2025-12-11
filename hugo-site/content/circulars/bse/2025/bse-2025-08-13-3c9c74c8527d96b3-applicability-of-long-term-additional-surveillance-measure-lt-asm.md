@@ -30,10 +30,10 @@ stocks:
 - AMBITIOUS
 - SPICEISLANDS
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

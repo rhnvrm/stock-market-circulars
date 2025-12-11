@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- information-disclosure
+- appeal
 - employee-privacy
-- appellate-authority
-- section-8-exemption
+- information-disclosure
 - personal-information
+- rti
+- section-8-exemption
 title: RTI Appeal No. 6462 of 2025 - Uma Sankar Mahapatra vs SEBI CPIO
 ---
 

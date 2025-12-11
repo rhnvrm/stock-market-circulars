@@ -28,12 +28,12 @@ source: nse
 stocks:
 - ONELIFECAP
 tags:
-- surveillance
+- derivatives
 - encumbrance
-- margin-requirements
-- sebi-sast
-- equity-derivatives
-- promoter-holdings
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - WTGL
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 - western-transmission-gujarat
 title: Part Redemption of Debentures of Western Transmission (Gujarat) Limited
 ---

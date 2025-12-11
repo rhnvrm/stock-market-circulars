@@ -26,18 +26,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-turnover-fees
-- gst
-- settlement
-- compliance
 - cash-segment
+- compliance
+- debt-securities
 - derivatives
-- currency-derivatives
-- commodity-derivatives
+- egr
+- gst
 - interest-rate-derivatives
-- debt-segment
 - repo-segment
-- egr-segment
+- sebi-turnover-fees
+- settlement
 title: Payment of SEBI Turnover Fees across segments including applicable GST
 ---
 

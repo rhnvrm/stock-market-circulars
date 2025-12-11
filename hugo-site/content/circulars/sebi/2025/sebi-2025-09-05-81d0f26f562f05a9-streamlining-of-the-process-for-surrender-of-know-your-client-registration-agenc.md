@@ -25,12 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- compliance
 - kyc
-- kra
+- operational-procedures
 - registration
 - surrender
-- compliance
-- operational-procedures
 title: Streamlining of the process for surrender of Know Your Client (KRA) registration
 ---
 

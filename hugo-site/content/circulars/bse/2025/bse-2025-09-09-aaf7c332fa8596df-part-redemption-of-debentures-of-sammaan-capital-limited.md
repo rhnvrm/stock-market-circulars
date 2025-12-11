@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
-- corporate-actions
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of SAMMAAN CAPITAL LIMITED
 ---
 

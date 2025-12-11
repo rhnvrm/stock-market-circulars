@@ -27,11 +27,9 @@ source: bse
 stocks:
 - LGEINDIA
 tags:
-- listing
-- equity-shares
-- new-listing
 - company-related
-- LGEINDIA
+- equity
+- listing
 title: Listing of Equity Shares of LG Electronics India Limited
 ---
 

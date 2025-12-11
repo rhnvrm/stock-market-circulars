@@ -27,11 +27,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- illiquid-stock-options
 - bse
 - completion-order
+- enforcement
+- illiquid-stock-options
+- recovery
 title: SEBI Completion Order for Recovery Certificate No. 8439 of 2024 - Yusufbhai
   Mohmadbhai Katariya - Illiquid Stock Options at BSE
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TRIDENT
 tags:
-- equity-listing
+- conversion
+- equity
+- lock-in
 - new-securities
-- warrant-conversion
-- preferential-allotment
-- lock-in-period
+- preferential-issue
 title: Listing of New Securities of Trident Lifeline Limited
 ---
 

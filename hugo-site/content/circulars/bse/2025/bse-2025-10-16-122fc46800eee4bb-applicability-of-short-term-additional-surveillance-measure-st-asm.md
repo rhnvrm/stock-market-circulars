@@ -39,11 +39,10 @@ stocks:
 - PUSHKAR
 - TRANSGLB
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
+- asm-stage
 - risk-management
-- market-surveillance
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

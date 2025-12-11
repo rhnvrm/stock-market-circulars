@@ -27,13 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- internal-audit
 - clearing-members
-- margin-collection
 - client-funds
 - compliance
+- margin-collection
 - reporting
-- audit-requirements
+- system-audit
 title: Submission of Half Yearly Internal Audit Report by Clearing Members
 ---
 

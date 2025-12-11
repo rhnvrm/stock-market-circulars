@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ABRILPAPER
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- mt-group
-- m-group
+- rolling-segment
 - sme
-- rolling-settlement
+- trading
 title: Change in Group of Equity Shares of ABRIL PAPER TECH LIMITED
 ---
 

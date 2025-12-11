@@ -27,22 +27,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '530011'
-- '543530'
-- '500097'
-- '544292'
-- '544403'
-- '539658'
-- '500730'
-- '538668'
+- PARADEEP
+- DALMIASUG
+- ONESOURCE
+- ABLBL
+- TEAMLEASE
+- NOCIL
+- MIIL
 tags:
-- index-changes
-- amalgamation
-- demerger
 - corporate-action
-- index-exclusion
-- index-inclusion
 - gsm-list
+- index-change
+- scheme-of-arrangement
 title: Changes to the BSE Indices
 ---
 

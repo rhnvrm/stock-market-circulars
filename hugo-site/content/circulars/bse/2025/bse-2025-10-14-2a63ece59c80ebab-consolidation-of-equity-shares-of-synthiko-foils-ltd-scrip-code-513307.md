@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '513307'
+- SYNTHFO
 tags:
 - corporate-action
-- share-consolidation
-- equity-shares
+- equity
 - record-date
-- trading-suspension
+- share-consolidation
+- suspension
 - synthiko-foils
 title: Consolidation of Equity Shares of Synthiko Foils Ltd (Scrip Code 513307)
 ---

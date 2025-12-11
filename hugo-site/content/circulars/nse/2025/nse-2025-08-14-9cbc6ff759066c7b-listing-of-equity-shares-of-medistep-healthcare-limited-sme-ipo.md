@@ -26,12 +26,12 @@ source: nse
 stocks:
 - MEDISTEP
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
-- tfts
+- equity
+- listing
 - market-maker
+- sme
+- trading-platform
 title: Listing of Equity Shares of Medistep Healthcare Limited (SME IPO)
 ---
 

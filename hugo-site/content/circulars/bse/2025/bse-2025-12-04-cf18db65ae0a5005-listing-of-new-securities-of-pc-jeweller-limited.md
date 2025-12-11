@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PCJEWELLER
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- non-promoters
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of PC Jeweller Limited
 ---
 

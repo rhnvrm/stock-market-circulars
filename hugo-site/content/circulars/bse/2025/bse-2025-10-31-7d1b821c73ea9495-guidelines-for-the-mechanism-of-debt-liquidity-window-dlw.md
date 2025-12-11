@@ -27,14 +27,13 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- liquidity-window
 - dlw
-- sebi-circular
-- operational-guidelines
-- debt-market
-- issuers
 - investors
-- trading-mechanism
+- issuers
+- liquidity-window
+- operational-guidelines
+- sebi
+- trading-operations
 title: Guidelines for the Mechanism of Debt Liquidity Window (DLW)
 ---
 

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - KOBO
 tags:
-- surveillance
-- ibc
 - insolvency
-- trading-restrictions
 - kobo-biotech
+- surveillance
+- trading-restrictions
 title: Surveillance Measure for Securities Under IBC - Stage Updates
 ---
 

@@ -33,7 +33,7 @@ stocks:
 - AAREYDRG
 - AARVEE
 - ABMKNOW
-- ABRAMFOOD
+- ABRFL
 - ADCINDIA
 - ADCON
 - ADINATH
@@ -46,11 +46,11 @@ stocks:
 - ANIRIT
 - ANKA
 - ANLON
-- APISINDIA
+- APIS
 - APLAB
-- APTUSPHARMA
+- APPL
 - ARFIN
-- ARISINTERNATIONAL
+- ARISINT
 - ARTIFICIALELEC
 - ARUNIS
 - ARUNJYOTI
@@ -58,11 +58,9 @@ stocks:
 - ASARFI
 - ASHNISHA
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Enhanced Surveillance Measure (ESM) - Securities List Update November 2025
 ---
 

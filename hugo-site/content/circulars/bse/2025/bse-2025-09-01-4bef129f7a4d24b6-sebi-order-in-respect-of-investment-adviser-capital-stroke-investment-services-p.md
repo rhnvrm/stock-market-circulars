@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- investment-adviser
-- compliance
 - adjudication
 - capital-stroke
-- regulatory-action
+- compliance
+- investment-adviser
+- regulatory
+- sebi-order
 title: SEBI order in respect of Investment Adviser - Capital Stroke Investment Services
   Pvt. Ltd.- Registration No. INA000001316
 ---

@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- etf
-- mutual-fund
-- listing
 - edelweiss
+- etf
+- listing
+- mutual-fund
 - sensex
-- exchange-traded-fund
 title: Listing of Units of Edelweiss BSE Sensex ETF on BSE
 ---
 

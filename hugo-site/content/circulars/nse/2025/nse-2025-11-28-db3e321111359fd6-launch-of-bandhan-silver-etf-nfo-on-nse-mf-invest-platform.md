@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- etf
-- nfo
 - bandhan-mutual-fund
-- silver-etf
-- nse-mf-invest
+- etf
+- mutual-fund
+- nfo
+- silver
+- trading-platform
 title: Launch of Bandhan Silver ETF NFO on NSE MF Invest Platform
 ---
 

@@ -28,10 +28,10 @@ source: nse
 stocks: []
 tags:
 - illiquid-securities
-- periodic-call-auction
-- surveillance
-- trading-mechanism
 - market-operations
+- surveillance
+- trading-operations
+- trading-session
 title: Illiquid Securities - Periodic Call Auction Update (October 10, 2025)
 ---
 

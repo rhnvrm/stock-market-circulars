@@ -28,14 +28,13 @@ source: bse
 stocks:
 - MRPL
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
-- interest-payment
-- record-date
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Mangalore Refinery & Petrochemicals
 ---
 

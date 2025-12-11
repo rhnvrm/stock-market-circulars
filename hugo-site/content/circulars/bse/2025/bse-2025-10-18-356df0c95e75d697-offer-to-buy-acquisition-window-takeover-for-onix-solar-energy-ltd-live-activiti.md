@@ -27,12 +27,10 @@ source: bse
 stocks:
 - ONIXSOLAR
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
 - equity
 - live-activities
+- otb
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for ONIX SOLAR ENERGY LTD – Live
   Activities Schedule
 ---

@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- demand-notice
 - enforcement
-- notice-of-demand
 - jain-impex
+- recovery
 title: Notice of Demand dated 21.11.2025 issued under RC No. 8951 of 2025 against
   Jain Impex
 ---

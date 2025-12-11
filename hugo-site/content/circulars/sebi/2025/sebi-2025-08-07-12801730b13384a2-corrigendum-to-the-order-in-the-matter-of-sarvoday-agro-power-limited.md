@@ -26,8 +26,8 @@ source: sebi
 stocks: []
 tags:
 - corrigendum
-- pan-correction
 - enforcement
+- pan-correction
 - sarvoday-agro-power
 title: Corrigendum to the Order in the matter of Sarvoday Agro Power Limited
 ---

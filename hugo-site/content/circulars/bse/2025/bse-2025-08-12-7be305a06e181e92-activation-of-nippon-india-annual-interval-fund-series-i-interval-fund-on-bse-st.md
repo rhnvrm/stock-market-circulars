@@ -24,11 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- debt-securities
 - interval-fund
+- mutual-fund
 - nippon-india
-- bse-star-mf
-- debt-fund
 - trading
 title: Activation of NIPPON INDIA ANNUAL INTERVAL FUND - SERIES I on BSE StAR MF Platform
 ---

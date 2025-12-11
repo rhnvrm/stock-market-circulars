@@ -28,13 +28,9 @@ source: bse
 stocks:
 - RCIIND
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
-- additional-surveillance-measure
 - monitoring
+- surveillance
 title: Surveillance Measure for Securities under IBC - October 14, 2025
 ---
 

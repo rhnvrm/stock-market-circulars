@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-certificate
-- enforcement-action
+- enforcement
 - investigation
-- continental-seeds
-- trading-violations
+- recovery
+- trading-operations
 title: Notice of Demand under Recovery Certificate number 8873 of 2025 against Vijay
   Prakash Gupta
 ---

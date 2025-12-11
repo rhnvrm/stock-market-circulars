@@ -28,13 +28,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- consumer-protection
+- contact-numbers
 - mutual-fund
+- operational-update
 - star-mf
 - telecom-regulations
 - trai
-- contact-numbers
-- operational-update
-- consumer-protection
 title: Implementation of New Numbers for Outbound Calls to Members for BSE StAR Mutual
   Fund Segment
 ---

@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- spandana-sphoorty
-- non-convertible-debentures
 title: Listing of new debt securities of Spandana Sphoorty Financial Limited
 ---
 

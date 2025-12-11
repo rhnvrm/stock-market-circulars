@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
+- ashworth-constructions
 - attachment
 - defaulter
 - enforcement
+- recovery
 - superior-finlease-ltd
-- ashworth-constructions
 title: Notice of Attachment of Bank Accounts and Demat Accounts 14954 & 14955 of 2025
   against Ashworth Constructions Pvt Ltd
 ---

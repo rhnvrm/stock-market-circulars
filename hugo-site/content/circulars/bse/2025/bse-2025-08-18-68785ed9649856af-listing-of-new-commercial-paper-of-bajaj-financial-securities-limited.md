@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
+- bajaj-financial
 - commercial-paper
 - debt-securities
-- private-placement
 - listing
-- bajaj-financial
+- private-placement
 title: Listing of new Commercial Paper of Bajaj Financial Securities Limited
 ---
 

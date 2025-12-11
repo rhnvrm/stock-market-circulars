@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- karvy-stock-broking
+- appeal
 - information-disclosure
-- regulatory-action
+- karvy-stock-broking
+- regulatory
+- rti
 title: Appeal No. 6474 of 2025 filed by Abhay Ranjan Gupta - RTI queries regarding
   Karvy Stock Broking Ltd rejected
 ---

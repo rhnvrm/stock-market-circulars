@@ -33,12 +33,12 @@ stocks:
 - DARJROPE
 - FREDUNPHAR
 - FUNDVISER
-- GAUTAMEXIM
+- GEL
 - GETALONG
 - HIGHWAY
 - HINDRECTFR
 - INLANDPRINT
-- LACTOSEINDIA
+- LACTOSE
 - LIKHAMI
 - NOVATEOR
 - ORTIN
@@ -52,10 +52,10 @@ stocks:
 - SUDARSHAN
 - SYSTEMATIX
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 27 Securities
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- BOROSIL
+- BOROLTD
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-allotment
 - borosil-renewables
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of new securities of Borosil Renewables Limited
 ---
 

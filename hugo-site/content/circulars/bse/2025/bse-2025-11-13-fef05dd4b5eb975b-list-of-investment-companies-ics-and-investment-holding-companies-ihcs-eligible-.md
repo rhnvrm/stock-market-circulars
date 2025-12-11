@@ -31,12 +31,12 @@ stocks:
 - HARYANACAP
 - EASYFIN
 tags:
+- call-money
+- group-change
 - investment-companies
 - investment-holding-companies
-- trade-for-trade
-- call-auction
-- group-change
 - special-call-auction
+- trade-for-trade
 title: List of Investment Companies (ICs) and Investment Holding Companies (IHCs)
   eligible for Special Call-Auctions
 ---

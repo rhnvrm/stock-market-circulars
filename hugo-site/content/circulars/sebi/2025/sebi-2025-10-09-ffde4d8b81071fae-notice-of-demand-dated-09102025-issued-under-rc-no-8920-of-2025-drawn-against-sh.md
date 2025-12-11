@@ -28,11 +28,10 @@ source: sebi
 stocks: []
 tags:
 - demand-notice
-- recovery-certificate
 - enforcement
-- Generic-Engineering-Construction-and-Projects-Limited
+- generic-engineering-construction-and-projects-limited
 - penalty
-- debt-recovery
+- recovery
 title: Notice of Demand dated 09.10.2025 issued under RC No. 8920 of 2025 drawn against
   Shivakumar Gattai Kamballa in the matter of Generic Engineering Construction and
   Projects Limited

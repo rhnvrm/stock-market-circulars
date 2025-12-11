@@ -26,12 +26,9 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
-- ncd-listing
-- debentures
-- edelweiss-financial
-- secured-bonds
+- bond
 - debt-securities
-- EDELWEISS
+- ncd
 title: BSE Lists 12 Series of Secured NCDs by Edelweiss Financial Services
 ---
 

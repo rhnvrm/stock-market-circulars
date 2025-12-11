@@ -24,18 +24,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PANTHINFINITY
-- ANKAINDIA
-- EKANSHCONCEPTS
+- PANTH
+- ANKIN
+- EKANSH
 - EMAINDIA
 - RELIABLEVENTURES
-- SAMSRITALABS
+- SAMSRITA
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- surveillance-measures
-- market-safety
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective July
   30, 2025
 ---

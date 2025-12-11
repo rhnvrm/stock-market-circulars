@@ -27,14 +27,11 @@ source: bse
 stocks:
 - LAKESHORE
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
 - equity
+- otb
+- takeover
 - trading
-- lake-shore-realty
-- otb-module
-- ibbs
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for Lake Shore Realty Limited
   - Live Activities Schedule
 ---

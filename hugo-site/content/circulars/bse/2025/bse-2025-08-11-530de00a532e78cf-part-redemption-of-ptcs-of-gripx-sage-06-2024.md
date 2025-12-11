@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GRIPX
 tags:
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
+- face-value-reduction
+- interest-payment
 - ptc
 - redemption
-- interest-payment
-- face-value-reduction
 title: Part Redemption of PTCs of GRIPX SAGE 06 2024
 ---
 

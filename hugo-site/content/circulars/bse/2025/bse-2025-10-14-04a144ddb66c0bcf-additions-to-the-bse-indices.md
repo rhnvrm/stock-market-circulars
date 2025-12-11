@@ -25,16 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544576'
-- '544575'
+- LGEINDIA
+- MITTALSTL
 tags:
-- index-addition
+- bse-index
+- index-change
 - ipo
-- sme-ipo
 - lg-electronics-india
 - mittal-sections
-- bse-ipo-index
-- bse-sme-ipo-index
+- sme
 title: Additions to the BSE Indices - LG Electronics India and Mittal Sections
 ---
 

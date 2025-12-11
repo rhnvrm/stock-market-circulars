@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- quality-control-order
+- derivatives
 - lead
-- zinc
-- nickel
 - ministry-of-mines
-- commodity-derivatives
+- nickel
+- quality-control-order
 - regulatory-amendment
+- zinc
 title: Amendment notification of Quality Control Order (QCO) for Lead, Zinc, and Nickel
 ---
 

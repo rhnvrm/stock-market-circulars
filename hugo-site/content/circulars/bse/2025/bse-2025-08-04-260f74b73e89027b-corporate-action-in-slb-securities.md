@@ -38,7 +38,7 @@ stocks:
 - COALINDIA
 - APOLLOTYRE
 - LALPATHLAB
-- KPENERGY
+- KPEL
 - MGL
 - ASTERDM
 - KPIGREEN
@@ -48,11 +48,11 @@ stocks:
 - NETWEB
 - HYUNDAI
 tags:
+- book-closure
 - corporate-action
 - dividend
-- slb-securities
 - record-date
-- shut-period
+- slb
 title: Corporate Action Schedule for SLB Securities - Dividend Record Dates
 ---
 

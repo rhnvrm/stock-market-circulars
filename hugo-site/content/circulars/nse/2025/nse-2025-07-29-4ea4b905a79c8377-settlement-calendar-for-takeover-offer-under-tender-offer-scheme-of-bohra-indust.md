@@ -26,11 +26,11 @@ source: nse
 stocks:
 - BOHRA
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
 - bohra-industries
 - clearing-procedures
+- settlement-calendar
+- takeover
+- tender-offer
 title: Settlement Calendar for Takeover offer under Tender Offer scheme of Bohra Industries
   Limited
 ---

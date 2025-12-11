@@ -27,11 +27,9 @@ source: nse
 stocks:
 - PWL
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
-- PWL
 title: Listing of Equity Shares of Physicswallah Limited (IPO)
 ---
 

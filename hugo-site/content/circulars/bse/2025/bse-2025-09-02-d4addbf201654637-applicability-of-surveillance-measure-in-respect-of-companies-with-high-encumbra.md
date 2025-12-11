@@ -36,19 +36,9 @@ stocks:
 - MARATHON
 - RATTANPOWER
 tags:
-- surveillance
 - encumbrance
-- SEBI-SAST
-- AAVAS
-- INDT
-- STEELXPRT
-- GENUS
-- MSP
-- NRB
-- NUVAMA
-- SHAREINDIA
-- MARATHON
-- RATTANPOWER
+- sast
+- surveillance
 title: Surveillance Measure for Companies with High Encumbrance under SEBI SAST Regulations
 ---
 

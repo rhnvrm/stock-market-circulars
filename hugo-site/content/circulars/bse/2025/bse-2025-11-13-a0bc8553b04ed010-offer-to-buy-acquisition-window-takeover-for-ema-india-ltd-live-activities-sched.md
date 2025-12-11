@@ -29,12 +29,11 @@ source: bse
 stocks:
 - EMAINDIA
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
+- debt-securities
 - live-activities
+- otb
+- takeover
 - trading-schedule
-- debt-segment
 title: Offer to Buy – Acquisition Window (Takeover) for EMA INDIA LTD – Live Activities
   Schedule
 ---

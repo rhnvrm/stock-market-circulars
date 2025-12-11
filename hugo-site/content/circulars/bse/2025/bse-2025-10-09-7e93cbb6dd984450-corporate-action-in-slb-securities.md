@@ -28,14 +28,14 @@ stocks:
 - IRFC
 - ANANDRATHI
 - SKFINDIA
-- TATAMOTORS
+- TMCV
 tags:
+- book-closure
 - corporate-action
 - dividend
-- spin-off
-- slb-securities
-- book-closure
 - record-date
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - October 2025
 ---
 

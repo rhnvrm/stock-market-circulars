@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- VIVOBIOTECH
+- VIVOBIOT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- vivo-bio-tech
 title: Listing of New Securities of Vivo Bio tech Ltd.
 ---
 

@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- show-cause-notice
-- delegation-of-powers
 - administrative
+- appeal
+- delegation-of-powers
+- rti
+- show-cause-notice
 title: Appeal No. 6552 of 2025 filed by Dipakbhai Jashvantlal Panchal
 ---
 

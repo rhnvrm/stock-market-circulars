@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks:
 - GSGL
-- GFL
+- GFLLIMITED
 tags:
-- listing
-- debt-securities
-- private-placement
-- godrej
-- bonds
+- bond
 - capital-market
+- debt-securities
+- godrej
+- listing
+- private-placement
 title: Listing of Privately Placed Securities - Godrej Companies Debt Securities
 ---
 

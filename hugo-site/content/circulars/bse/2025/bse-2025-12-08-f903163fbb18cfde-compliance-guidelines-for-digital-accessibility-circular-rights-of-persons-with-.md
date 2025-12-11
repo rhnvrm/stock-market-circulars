@@ -26,12 +26,9 @@ severity: high
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- disability-rights
-- accessibility-audit
-- regulated-entities
-- intermediaries
+- digital-accessibility
+- intermediary
 - technology
 title: Compliance Guidelines for Digital Accessibility - Rights of Persons with Disabilities
   Act, 2016

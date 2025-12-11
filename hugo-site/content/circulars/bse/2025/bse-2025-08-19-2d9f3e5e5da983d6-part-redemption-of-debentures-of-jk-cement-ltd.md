@@ -26,12 +26,12 @@ source: bse
 stocks:
 - JKCL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - face-value-reduction
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of J.K. CEMENT LTD with Reduced Face Value
 ---
 

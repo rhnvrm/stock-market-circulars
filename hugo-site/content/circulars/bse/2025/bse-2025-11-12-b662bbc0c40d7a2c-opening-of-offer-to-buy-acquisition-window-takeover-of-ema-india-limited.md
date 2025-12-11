@@ -26,11 +26,8 @@ source: bse
 stocks:
 - EMAINDIA
 tags:
-- open-offer
+- sast
 - takeover
-- acquisition
-- SEBI-SAST
-- EMA-India
 - unconditional-offer
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of EMA India Limited
 ---

@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- mirae-asset
-- nse-mf-invest
-- equity-schemes
+- equity-scheme
 - infrastructure-fund
+- mirae-asset
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Mirae Asset Infrastructure Fund NFO on NSE MF Invest Platform
 ---
 

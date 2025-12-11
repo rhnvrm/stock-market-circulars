@@ -33,11 +33,9 @@ stocks:
 - MUDUNURU
 - PVPVENT
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   29, 2025
 ---

@@ -26,10 +26,9 @@ source: nse
 stocks:
 - FROG
 tags:
-- name-change
 - corporate-action
 - listing
-- FROG
+- name-change
 title: Change in name of Frog Cellsat Limited
 ---
 

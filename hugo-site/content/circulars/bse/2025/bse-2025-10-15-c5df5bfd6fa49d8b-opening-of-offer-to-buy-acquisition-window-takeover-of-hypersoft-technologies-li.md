@@ -26,13 +26,10 @@ source: bse
 stocks:
 - HYPERSOFT
 tags:
-- open-offer
+- draft-document
+- public-issue
+- sast
 - takeover
-- acquisition
-- sebi-sast
-- hypersoft-technologies
-- letter-of-offer
-- public-announcement
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Hypersoft Technologies
   Limited
 ---

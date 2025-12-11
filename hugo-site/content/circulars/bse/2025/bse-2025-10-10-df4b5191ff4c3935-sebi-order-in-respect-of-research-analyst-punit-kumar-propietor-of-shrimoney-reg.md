@@ -29,14 +29,14 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
+- enforcement
+- intermediary
+- pfutp-violation
 - research-analyst
 - sebi-order
-- enforcement-action
-- regulatory-compliance
-- pfutp-violation
-- intermediary-regulations
-- suspension
 - shrimoney
+- suspension
 title: SEBI Order Against Research Analyst Punit Kumar (Shrimoney) - Registration
   Suspended
 ---

@@ -29,10 +29,9 @@ stocks:
 - STLTECH
 - TIMESGTY
 tags:
-- asm
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
 title: NSE Additional Surveillance Measure (ASM) Framework Updates - July 2025
 ---
 

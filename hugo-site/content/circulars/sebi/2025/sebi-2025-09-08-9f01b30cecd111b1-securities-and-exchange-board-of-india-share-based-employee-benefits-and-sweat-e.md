@@ -27,10 +27,10 @@ source: sebi
 stocks: []
 tags:
 - employee-benefits
-- stock-options
 - ipo
-- promoters
 - regulatory-amendment
+- shareholding-pattern
+- stock-options
 title: Securities and Exchange Board of India (Share Based Employee Benefits and Sweat
   Equity) (Amendment) Regulations, 2025
 ---

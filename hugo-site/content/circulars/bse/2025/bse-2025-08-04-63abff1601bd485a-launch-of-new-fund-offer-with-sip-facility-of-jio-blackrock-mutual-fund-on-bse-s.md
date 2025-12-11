@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- index-fund
+- jioblackrock
 - mutual-fund
 - nfo
 - sip
-- index-fund
-- jioblackrock
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of JIO BLACKROCK MUTUAL FUND on
   BSE StAR MF Platform
 ---

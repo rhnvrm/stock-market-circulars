@@ -27,12 +27,10 @@ stocks:
 - DESTINY
 - MCLEODRUSS
 tags:
-- surveillance
-- asm
-- long-term-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - October 10, 2025
 ---
 

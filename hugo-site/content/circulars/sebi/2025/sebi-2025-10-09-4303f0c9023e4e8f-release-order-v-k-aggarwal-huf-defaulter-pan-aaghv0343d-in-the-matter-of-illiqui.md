@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery
-- defaulter
-- illiquid-stocks
 - bse
+- defaulter
 - enforcement
+- illiquid-stocks
+- recovery
+- release
 title: 'Release Order – V K AGGARWAL HUF [Defaulter] PAN: AAGHV0343D in the matter
   of Illiquid Stock Options at BSE. Certificate No. 8044 of 2024'
 ---

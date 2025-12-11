@@ -26,13 +26,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
-- debt-market
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
 - samunnati-finance
+- suspension
 title: Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - UTKARSHBNK
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
-- ex-rights
+- equity
 - record-date
+- renunciation
+- rights-issue
 - small-finance-bank
 title: Rights Issue of Equity Shares of Utkarsh Small Finance Bank Limited
 ---

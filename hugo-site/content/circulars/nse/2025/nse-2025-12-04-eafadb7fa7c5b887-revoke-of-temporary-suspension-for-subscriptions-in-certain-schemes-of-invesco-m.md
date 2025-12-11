@@ -26,14 +26,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- fund-of-funds
 - invesco
-- fund-of-fund
-- subscription
+- mutual-fund
+- overseas-investment
 - sip
 - stp
-- overseas-investment
-- nse-mf-invest
+- subscription
+- trading-platform
 title: Revoke of Temporary Suspension for Subscriptions in Invesco Mutual Fund Schemes
   on NSE MF Invest Platform
 ---

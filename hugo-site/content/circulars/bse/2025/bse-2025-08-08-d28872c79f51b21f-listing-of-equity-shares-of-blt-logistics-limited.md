@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BLT
 tags:
-- listing
-- equity-shares
-- sme
-- new-listing
 - blt-logistics
+- equity
+- listing
+- sme
 title: Listing of Equity Shares of BLT Logistics Limited
 ---
 

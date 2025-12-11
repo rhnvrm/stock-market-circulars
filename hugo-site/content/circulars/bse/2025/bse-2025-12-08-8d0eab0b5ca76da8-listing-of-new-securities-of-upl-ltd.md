@@ -27,12 +27,12 @@ source: bse
 stocks:
 - UPL
 tags:
+- conversion
+- equity
 - listing
 - new-securities
-- equity-shares
+- partly-paid
 - rights-issue
-- conversion
-- partly-paid-shares
 title: Listing of New Securities of UPL Ltd
 ---
 

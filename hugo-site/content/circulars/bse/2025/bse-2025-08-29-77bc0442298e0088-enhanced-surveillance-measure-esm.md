@@ -30,11 +30,9 @@ stocks:
 - PROSPECTCONS
 - ELANGOINDS
 tags:
-- enhanced-surveillance
-- esm
-- trading-measures
-- market-surveillance
 - compliance
+- surveillance
+- trading-operations
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---
 

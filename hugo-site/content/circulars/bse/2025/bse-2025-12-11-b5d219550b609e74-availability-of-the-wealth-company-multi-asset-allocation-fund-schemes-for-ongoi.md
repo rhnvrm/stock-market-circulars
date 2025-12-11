@@ -26,14 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- multi-asset
 - mutual-fund
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
 - wealth-company
-- multi-asset-allocation
 title: Availability of THE WEALTH COMPANY MULTI ASSET ALLOCATION FUND for Ongoing
   Transactions on BSE StAR MF Platform
 ---

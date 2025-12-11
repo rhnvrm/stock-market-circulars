@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - PATELSAIRTEMP
 tags:
-- substantial-acquisition
-- takeover-regulations
+- non-compliance
 - promoter-group
-- compliance-violation
+- sast
 - show-cause-notice
+- takeover-regulations
 title: Order in the matter of Patels Airtemp India Limited - Substantial Acquisition
   Violations
 ---

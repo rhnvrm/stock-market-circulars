@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- disclosure-violation
-- reit
-- fit-and-proper-criteria
-- nfra-order
-- embassy-office-parks
-- key-managerial-personnel
 - compliance
+- embassy-office-parks
+- fit-and-proper-criteria
+- information-disclosure
+- key-managerial-personnel
+- nfra-order
+- reit
+- settlement-order
 title: Settlement Order in the matter of role of Axis Trustee and Embassy Office Parks
   in the matter of Fit and Proper Criteria for Aravind Maiya pursuant to NFRA Order
   dated 19.08.2024

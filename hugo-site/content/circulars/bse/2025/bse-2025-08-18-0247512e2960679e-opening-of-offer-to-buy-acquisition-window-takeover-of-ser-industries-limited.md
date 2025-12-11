@@ -23,13 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- SERINDUSTRIES
+- SERIND
 tags:
-- takeover
-- open-offer
-- acquisition
-- sebi-sast
+- sast
 - ser-industries
+- takeover
 title: Open Offer for Acquisition of SER Industries Limited Shares
 ---
 

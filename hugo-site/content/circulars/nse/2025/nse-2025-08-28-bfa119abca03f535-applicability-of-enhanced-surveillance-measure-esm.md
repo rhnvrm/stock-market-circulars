@@ -31,11 +31,10 @@ stocks:
 - KRISHIVAL
 - SRPL
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
 title: Applicability of Enhanced Surveillance Measure (ESM) - September 2025 Updates
 ---
 

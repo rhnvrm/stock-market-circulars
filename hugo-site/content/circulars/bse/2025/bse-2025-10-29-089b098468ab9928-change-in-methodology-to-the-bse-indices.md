@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology-change
-- ipo
-- fast-track-inclusion
-- market-capitalization
 - allcap-index
+- fast-track-inclusion
+- index-fund
+- ipo
+- market-capitalization
+- methodology-change
 - sector-indices
 - size-indices
 title: Change in Methodology to the BSE Indices

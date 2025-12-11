@@ -25,8 +25,8 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- business-closure
-- currency-derivatives
+- derivatives
+- maintenance
 - member-exit
 - trading-cessation
 title: Voluntary Closure of Business – Vaibhav Stock & Derivatives Broking Private

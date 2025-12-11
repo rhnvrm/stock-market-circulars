@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- 3IINFOTECH
+- 3IINFOLTD
 - BLUEGOD
 - BOTHRA
 - CUBICALFIN
@@ -39,22 +39,10 @@ stocks:
 - SKYLINE
 - SUMEET
 tags:
+- 3iinfotech
 - price-band
 - surveillance
 - trading-restrictions
-- 3IINFOTECH
-- BLUEGOD
-- BOTHRA
-- CUBICALFIN
-- HILIKS
-- IEC
-- JDCABLES
-- NARMADAAGR
-- PARSHCORP
-- SAHARAHOUS
-- SHREEREFRI
-- SKYLINE
-- SUMEET
 title: Changes in Price Band for 13 Securities
 ---
 

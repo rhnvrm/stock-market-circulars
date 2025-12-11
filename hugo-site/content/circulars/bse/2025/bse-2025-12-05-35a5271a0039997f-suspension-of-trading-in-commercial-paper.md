@@ -33,11 +33,11 @@ stocks:
 - KMPL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- debt-market
+- corporate-action
+- debt-securities
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Six Securities
 ---
 

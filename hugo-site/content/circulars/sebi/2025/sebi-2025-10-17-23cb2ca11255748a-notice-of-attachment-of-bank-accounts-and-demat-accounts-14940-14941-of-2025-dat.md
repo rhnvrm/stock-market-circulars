@@ -27,14 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- recovery-proceedings
-- defaulter
-- illiquid-stocks
+- attachment
 - bse
-- enforcement-action
-- bank-account-attachment
-- demat-account-attachment
+- defaulter
+- enforcement
+- illiquid-stocks
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Spectrum Technoprojects
   Pvt Ltd (Recovery Certificate No. 8899 of 2025)
 ---

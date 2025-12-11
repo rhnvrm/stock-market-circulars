@@ -39,11 +39,11 @@ stocks:
 - PIONEER
 - QUADRANT
 tags:
-- st-asm
+- asm-stage
+- framework-update
+- risk-management
 - surveillance
 - trading
-- risk-management
-- framework-update
 title: Short Term Additional Surveillance Measure (ST-ASM) Updates - August 21, 2025
 ---
 

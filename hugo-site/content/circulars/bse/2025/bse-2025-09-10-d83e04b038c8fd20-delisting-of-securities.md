@@ -40,13 +40,13 @@ stocks:
 - SAMUNNATI
 - SANSARTRUST
 - SATYA
-- SHEELAFOAM
+- SFL
 - SKFINANCE
 - TRUCAP
 tags:
-- delisting
+- corporate-action
 - debt-securities
-- corporate-actions
+- delisting
 - maturity
 - redemption
 title: Delisting of 22 Debt Securities Effective September 11, 2025

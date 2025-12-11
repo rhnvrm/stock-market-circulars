@@ -26,15 +26,15 @@ source: nse
 stocks:
 - EXIM
 - CANBK
-- TATACAPITAL
+- TATACAP
 - LICHSGFIN
 - TVSCREDIT
 tags:
-- trading-suspension
-- non-convertible-debentures
-- debt-market
-- redemption
 - call-option
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - 5 Securities Suspended
   from August 26, 2025
 ---

@@ -28,13 +28,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- bse
 - defaulter
 - enforcement
 - illiquid-stock-options
-- bse
-- recovery-completion
 - pan-aaghv0343d
+- recovery
+- recovery-completion
 title: Completion of Recovery Certificate No. 8044 of 2024 Against V K Aggarwal HUF
   in Illiquid Stock Options Case at BSE
 ---

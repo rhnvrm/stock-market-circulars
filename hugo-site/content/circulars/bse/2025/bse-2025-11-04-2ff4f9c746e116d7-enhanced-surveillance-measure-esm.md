@@ -31,12 +31,10 @@ stocks:
 - ESHAMEDIA
 - TAMILSTEELTUBE
 tags:
-- enhanced-surveillance
-- esm-framework
-- surveillance-measures
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - November 2025
 ---
 

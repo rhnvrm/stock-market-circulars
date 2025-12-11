@@ -27,10 +27,9 @@ stocks:
 - ONGCPETRO
 tags:
 - commercial-paper
-- trading-suspension
-- debt-market
+- debt-securities
 - redemption
-- ONGC-petro-additions
+- suspension
 title: Suspension of Trading in Commercial Paper of ONGC Petro additions Limited
 ---
 

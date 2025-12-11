@@ -26,14 +26,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- sbi-mutual-fund
 - etf
-- fund-of-fund
-- silver-etf
+- fund-of-funds
+- mutual-fund
+- nmf-invest-platform
+- sbi-mutual-fund
+- silver
 - subscription
 - suspension-revoke
-- nmf-invest-platform
 title: Revoke of Temporary Suspension for subscriptions in SBI Silver ETF Fund of
   Fund (FOF) schemes
 ---

@@ -30,7 +30,7 @@ stocks:
 - PANELEC
 - WESTLEISURE
 - AADIIN
-- BESTAGROLIFE
+- BESTAGRO
 - KANUNGO
 - SRIGEE
 - AKCAPITAL
@@ -48,10 +48,9 @@ stocks:
 - MANGALDRUGS
 - MAYUR
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

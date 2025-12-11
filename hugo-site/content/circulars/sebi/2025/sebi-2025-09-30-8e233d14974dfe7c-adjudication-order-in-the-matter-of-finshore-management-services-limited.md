@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- merchant-banker
-- penalty
-- compliance-violation
-- icdr-regulations
+- adjudication
 - code-of-conduct
-- sme-issues
-- inspection
 - finshore-management
+- icdr
+- investigation
+- merchant-banker
+- non-compliance
+- penalty
+- sme-issues
 title: Adjudication order in the matter of Finshore Management Services Limited
 ---
 

@@ -27,11 +27,10 @@ stocks:
 - FINKURVE
 tags:
 - debt-securities
-- listing
-- private-placement
-- finkurve-financial-services
-- debentures
 - fixed-income
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Finkurve Financial Services Limited
 ---
 

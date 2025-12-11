@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - arbitrage-fund
-- bse-star-mf
-- trustmf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
+- trustmf
 title: TRUSTMF ARBITRAGE FUND Reopening for Transactions on BSE StAR MF Platform
 ---
 

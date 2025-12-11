@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CMEESL
 tags:
+- clean-max-enviro
 - debt-securities
 - listing
+- ncd
 - private-placement
-- clean-max-enviro
-- debentures
 title: Listing of New Debt Securities of Clean Max Enviro Energy Solutions Limited
 ---
 

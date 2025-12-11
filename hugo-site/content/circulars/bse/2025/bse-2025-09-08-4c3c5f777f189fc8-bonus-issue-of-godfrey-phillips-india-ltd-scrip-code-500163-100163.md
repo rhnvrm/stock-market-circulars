@@ -26,9 +26,9 @@ source: bse
 stocks:
 - GODFRYPHLP
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
+- equity
 - godfrey-phillips
 title: 'Bonus issue of Godfrey Phillips India Ltd. (Scrip Code: 500163, 100163)'
 ---

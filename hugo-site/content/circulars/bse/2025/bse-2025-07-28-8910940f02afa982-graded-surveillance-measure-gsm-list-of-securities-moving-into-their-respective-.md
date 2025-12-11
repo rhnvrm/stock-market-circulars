@@ -29,10 +29,8 @@ stocks:
 - SINNAR
 - OSCAR
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
 - market-operations
+- surveillance
 - trading-restrictions
 title: GSM Framework Updates - Four Securities Move to Different Surveillance Stages
 ---

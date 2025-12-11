@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- enforcement
-- defaulter
-- trading-violation
-- illiquid-stock-options
 - bse
-- remittance-advice
+- defaulter
+- demand-notice
+- enforcement
+- illiquid-stock-options
+- recovery
+- trading-violation
 title: Remittance Advice - Recovery Against Kamla Jain (Defaulter) for Trading in
   Illiquid Stock Options
 ---

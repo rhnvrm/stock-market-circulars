@@ -29,10 +29,9 @@ stocks:
 - SYNTHIKO
 tags:
 - corporate-action
-- share-consolidation
-- synthiko-foils
-- trading-suspension
 - record-date
+- share-consolidation
+- suspension
 title: Consolidation of Equity Shares of Synthiko Foils Ltd (Scrip Code 513307)
 ---
 

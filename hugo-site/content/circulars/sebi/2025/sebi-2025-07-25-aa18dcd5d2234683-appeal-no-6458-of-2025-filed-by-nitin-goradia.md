@@ -24,14 +24,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- information-access
-- appellate-authority
+- appeal
 - dismissed-appeal
-- right-to-information
-- sebi-employees
 - grievance-redressal
+- information-access
+- rti
 - scores-portal
+- sebi-employees
 title: RTI Appeal No. 6458 of 2025 - Nitin Goradia vs SEBI dismissed for seeking opinion
   rather than information
 ---

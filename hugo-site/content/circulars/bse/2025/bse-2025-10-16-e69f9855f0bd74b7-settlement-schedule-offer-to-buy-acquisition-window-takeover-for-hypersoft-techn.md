@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HYPERSOFT
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
-- offer-to-buy
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for HYPERSOFT
   TECHNOLOGIES LIMITED
 ---

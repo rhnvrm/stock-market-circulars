@@ -26,10 +26,9 @@ source: bse
 stocks:
 - MODERNMAL
 tags:
-- suspension-revocation
+- equity
+- release
 - trading-resumption
-- equity-shares
-- modern-malleables
 title: Revocation of Suspension in Trading of Equity Shares of Modern Malleables Ltd
 ---
 

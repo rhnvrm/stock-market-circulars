@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-schedule
 - futures-options
-- trading-holidays
-- september-2025
 - negotiable-instruments-act
+- september-2025
+- settlement
+- trading-holidays
 title: Changes in F&O Settlement Schedule - September 2025
 ---
 

@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - adjudication-proceedings
-- regulatory-action
 - compliance
+- recovery
+- regulatory
 title: SEBI Recovery Certificate RC8805/2025 - Newever Trade Wings Limited Regulatory
   Proceedings
 ---

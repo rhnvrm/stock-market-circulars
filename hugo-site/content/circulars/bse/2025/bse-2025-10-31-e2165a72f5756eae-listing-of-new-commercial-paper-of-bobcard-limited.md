@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - bobcard
-- new-listing
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of new Commercial Paper of BOBCARD LIMITED
 ---
 

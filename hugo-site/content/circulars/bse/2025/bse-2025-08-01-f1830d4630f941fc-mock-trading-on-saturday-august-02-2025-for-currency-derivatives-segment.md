@@ -25,9 +25,8 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- currency-derivatives
-- testing
 - trading-session
 - weekend-trading
 title: Mock Trading Session for Currency Derivatives - August 2, 2025

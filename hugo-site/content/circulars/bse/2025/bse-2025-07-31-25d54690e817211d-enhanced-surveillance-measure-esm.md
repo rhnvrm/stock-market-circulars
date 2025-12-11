@@ -32,11 +32,9 @@ stocks:
 - VASHU
 - RSC
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - August 2025
 ---
 

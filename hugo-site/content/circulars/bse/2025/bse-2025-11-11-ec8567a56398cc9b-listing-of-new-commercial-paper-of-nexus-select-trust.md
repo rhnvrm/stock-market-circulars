@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-segment
+- debt-securities
+- icici-bank
+- listing
 - nexus-select-trust
 - private-placement
-- new-listing
-- icici-bank
 title: Listing of new Commercial Paper of Nexus Select Trust
 ---
 

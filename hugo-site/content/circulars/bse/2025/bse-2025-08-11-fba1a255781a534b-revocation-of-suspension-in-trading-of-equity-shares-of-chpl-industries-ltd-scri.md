@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CHPL
 tags:
-- suspension-revocation
+- callista-industries
+- equity
+- release
 - trading-resumption
-- equity-shares
-- CHPL
-- Callista-Industries
 title: 'Revocation of Suspension in trading of equity shares of CHPL Industries Ltd.
   (Scrip Code: 539335)'
 ---

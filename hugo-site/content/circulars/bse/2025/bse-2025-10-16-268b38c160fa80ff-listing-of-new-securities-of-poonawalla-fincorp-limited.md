@@ -28,11 +28,11 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
-- preferential-allotment
-- equity-listing
-- promoter-funding
-- lock-in-period
+- equity
+- lock-in
 - new-securities
+- preferential-issue
+- promoter-funding
 title: Listing of New Securities of Poonawalla Fincorp Limited - 3.31 Crore Equity
   Shares
 ---

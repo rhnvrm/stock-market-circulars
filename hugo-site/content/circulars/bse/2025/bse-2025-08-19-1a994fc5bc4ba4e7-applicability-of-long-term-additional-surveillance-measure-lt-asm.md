@@ -27,11 +27,11 @@ stocks:
 - JEENA
 - RETINA
 tags:
-- surveillance
-- lt-asm
-- trading
+- asm-stage
 - monitoring
 - risk-management
+- surveillance
+- trading
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

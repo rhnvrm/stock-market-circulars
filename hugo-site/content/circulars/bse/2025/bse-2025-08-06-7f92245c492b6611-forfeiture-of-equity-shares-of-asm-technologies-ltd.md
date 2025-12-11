@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASMTECH
 tags:
-- equity-shares
-- forfeiture
-- partly-paid-shares
-- non-payment
 - company-action
+- equity
+- forfeiture
+- non-payment
+- partly-paid
 title: Forfeiture of Equity Shares of ASM Technologies Ltd
 ---
 

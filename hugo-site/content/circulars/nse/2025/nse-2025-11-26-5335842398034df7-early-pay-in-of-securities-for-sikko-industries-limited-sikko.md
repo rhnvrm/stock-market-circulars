@@ -28,12 +28,12 @@ source: nse
 stocks:
 - SIKKO
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- settlement
-- margin-exemption
 - depository
+- early-pay-in
+- face-value-change
+- margin-exemption
+- settlement
 title: Early Pay-in of Securities for Sikko Industries Limited (SIKKO) - Face Value
   Split
 ---

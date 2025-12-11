@@ -26,12 +26,11 @@ source: bse
 stocks:
 - BLUEJET
 tags:
-- ofs
-- offer-for-sale
 - blue-jet-healthcare
+- institutional-investor
+- ofs
+- retail-investor
 - trading-schedule
-- retail-investors
-- institutional-investors
 title: Opening of Offer for Sale for Blue Jet Healthcare Limited - Live Activities
   Schedule
 ---

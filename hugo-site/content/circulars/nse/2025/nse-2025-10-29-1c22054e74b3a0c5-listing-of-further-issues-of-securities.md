@@ -34,12 +34,12 @@ stocks:
 - AARTIPHARM
 - 3IINFOLTD
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-issue
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - Eight Companies
 ---
 

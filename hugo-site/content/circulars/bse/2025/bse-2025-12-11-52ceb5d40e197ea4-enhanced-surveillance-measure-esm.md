@@ -32,12 +32,10 @@ stocks:
 - RAMGOPOLY
 - WARDWIZ
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective December
   12, 2025
 ---

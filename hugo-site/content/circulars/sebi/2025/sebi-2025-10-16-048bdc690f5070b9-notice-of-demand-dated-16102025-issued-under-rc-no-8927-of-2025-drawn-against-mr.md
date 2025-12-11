@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- penalty
-- enforcement-action
-- adjudication-order
-- royal-twinkle-star-club
-- payment-demand
+- adjudication
+- enforcement
 - joint-and-several-liability
+- payment-demand
+- penalty
+- recovery
+- royal-twinkle-star-club
 title: Notice of Demand under RC No. 8927 of 2025 against four individuals in Royal
   Twinkle Star Club Private Limited matter
 ---

@@ -27,10 +27,10 @@ source: sebi
 stocks: []
 tags:
 - informal-guidance
-- regulatory-scheme
-- no-action-letter
 - interpretive-letter
+- no-action-letter
 - procedural-change
+- regulatory-scheme
 title: Securities and Exchange Board of India (Informal Guidance) Scheme, 2025
 ---
 

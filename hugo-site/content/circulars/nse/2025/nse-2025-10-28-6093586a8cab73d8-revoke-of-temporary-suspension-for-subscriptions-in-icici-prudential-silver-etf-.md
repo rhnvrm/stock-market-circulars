@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription
+- fund-of-funds
 - icici-prudential
-- silver-etf
-- fund-of-fund
-- nse-mf-invest
+- mutual-fund
+- silver
+- subscription
+- trading-platform
 title: Revoke of Temporary Suspension for subscriptions in ICICI Prudential Silver
   ETF Fund of Fund
 ---

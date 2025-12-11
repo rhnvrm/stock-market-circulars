@@ -28,11 +28,11 @@ stocks:
 - LIBORD
 - CONTICON
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
-- risk-management
+- asm-stage
 - market-operations
+- risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

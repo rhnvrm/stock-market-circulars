@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544495'
+- NISMGMT
 tags:
-- trading-segment
-- sme
-- nis-management
 - group-change
+- nis-management
 - rolling-segment
+- sme
+- trading
 title: NIS Management Limited Equity Shares Move from Trade for Trade to Rolling Segment
 ---
 

@@ -25,11 +25,10 @@ source: bse
 stocks:
 - NATRINAI
 tags:
-- sme-ipo
-- draft-offer-document
-- natrinai-ventures
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document for NATRINAI VENTURES LIMITED
 ---
 

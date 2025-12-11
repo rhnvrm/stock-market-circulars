@@ -27,7 +27,7 @@ source: bse
 stocks:
 - ABCAPITAL
 - ANGELONE
-- ATHERENERGY
+- ATHERENERG
 - AUBANK
 - BLACKBUCK
 - BRIGADE
@@ -39,7 +39,7 @@ stocks:
 - ICICIPRULI
 - INTELLECT
 - L&TFH
-- MAXINDIA
+- MAXIND
 - PDSL
 - PERSISTENT
 - POONAWALLA
@@ -49,11 +49,9 @@ stocks:
 - SWSOLAR
 - ANUPENGG
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- employee-stock-options
-- new-listing
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS by 23 Companies
 ---
 

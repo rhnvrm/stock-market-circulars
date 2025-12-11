@@ -26,13 +26,13 @@ source: bse
 stocks:
 - NACL
 tags:
-- debentures
-- redemption
 - corporate-action
-- debt-market
-- northern-arc-capital
+- debt-securities
 - face-value-reduction
 - interest-payment
+- ncd
+- northern-arc-capital
+- redemption
 title: Part Redemption of Debentures of NORTHERN ARC CAPITAL LTD.
 ---
 

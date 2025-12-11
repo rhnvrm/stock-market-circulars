@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- SUDEEPPHARMA
+- SUDEEPPHRM
 tags:
-- index
+- equity
+- index-change
+- index-fund
 - ipo-index
 - listing
-- index-addition
-- equity
 title: Addition to the BSE IPO INDEX - SUDEEP PHARMA LIMITED
 ---
 

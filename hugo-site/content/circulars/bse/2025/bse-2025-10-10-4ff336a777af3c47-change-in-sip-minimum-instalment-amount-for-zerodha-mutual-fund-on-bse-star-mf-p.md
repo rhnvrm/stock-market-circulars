@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- index-fund
+- investment-plan
+- minimum-amount
 - mutual-fund
 - sip
 - zerodha
-- investment-plan
-- bse-star-mf
-- minimum-amount
-- index-fund
 title: Change in SIP Minimum Instalment Amount for ZERODHA MUTUAL FUND on BSE StAR
   MF platform
 ---

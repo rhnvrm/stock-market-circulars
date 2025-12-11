@@ -32,11 +32,11 @@ stocks:
 - MAHAMAYALIFE
 - SHUKRAPHARM
 tags:
-- surveillance
-- lt-asm
-- market-regulation
-- trading-restrictions
+- asm-stage
+- market-operations
 - securities-surveillance
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

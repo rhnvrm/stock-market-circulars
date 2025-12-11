@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - interval-fund
-- nippon-india
-- subscription
-- redemption
 - investment-platform
+- mutual-fund
+- nippon-india
+- redemption
+- subscription
 title: Availability of Nippon India Annual Interval Fund Series I on NSE MF Invest
   Platform
 ---

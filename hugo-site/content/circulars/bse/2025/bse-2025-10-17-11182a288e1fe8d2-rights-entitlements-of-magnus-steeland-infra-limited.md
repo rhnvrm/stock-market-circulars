@@ -26,13 +26,12 @@ source: bse
 stocks:
 - MAGNUS
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
-- dematerialized-trading
+- renunciation
+- rights-issue
+- t1-settlement
 - trade-for-trade
-- t+1-settlement
 title: Rights Entitlements of MAGNUS STEELAND INFRA LIMITED
 ---
 

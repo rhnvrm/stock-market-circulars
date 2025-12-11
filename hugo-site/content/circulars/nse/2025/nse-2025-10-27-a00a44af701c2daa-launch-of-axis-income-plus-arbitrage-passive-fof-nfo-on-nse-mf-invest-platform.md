@@ -26,14 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- new-fund-offer
+- arbitrage-fund
 - axis-mutual-fund
-- debt-fund
-- arbitrage
+- debt-securities
 - fund-of-funds
-- nse-mf-invest
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Axis Income Plus Arbitrage Passive FOF NFO on NSE MF Invest Platform
 ---
 

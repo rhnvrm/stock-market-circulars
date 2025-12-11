@@ -27,12 +27,9 @@ source: nse
 stocks:
 - SVLL
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirements
-- long-term-asm
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

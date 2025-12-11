@@ -35,10 +35,8 @@ stocks:
 - ZENSARTECH
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Securities Issued Under ESOP/ESOS by 10 Companies
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- regulatory-framework
+- compliance
+- corporate-governance
 - member-committee
 - penalty-appeals
-- governance
-- compliance
-- sebi-circular
+- regulatory-framework
+- sebi
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Member Committee
 ---

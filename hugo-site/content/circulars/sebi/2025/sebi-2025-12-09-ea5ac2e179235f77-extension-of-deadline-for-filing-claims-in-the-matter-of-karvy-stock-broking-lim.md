@@ -27,12 +27,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- investor-claims
 - broker-default
+- extension
+- investor-claims
+- investor-protection
 - karvy-stock-broking
 - nse
-- deadline-extension
-- investor-protection
 title: Extension of Deadline for Filing Claims in Karvy Stock Broking Limited Default
   Matter
 ---

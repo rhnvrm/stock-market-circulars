@@ -27,13 +27,11 @@ severity: high
 source: nse
 stocks: []
 tags:
-- kyc
-- kra
 - compliance
-- trading-restrictions
 - investor-services
-- sebi-regulations
-- client-onboarding
+- kyc
+- regulatory-framework
+- trading-restrictions
 title: KYC Validation Requirements - Trading Restrictions for Non-Compliant Clients
   from December 20, 2025
 ---

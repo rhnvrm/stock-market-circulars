@@ -30,15 +30,11 @@ stocks:
 - CARTRADE
 - DRONE
 tags:
-- asm
-- surveillance
-- long-term-asm
-- short-term-asm
-- trading-restrictions
-- stage-changes
-- electro-force
-- cartrade-tech
+- asm-stage
 - drone-destination
+- electro-force
+- surveillance
+- trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - October 30, 2025
 ---
 

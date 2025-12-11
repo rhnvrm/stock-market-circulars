@@ -26,10 +26,10 @@ source: bse
 stocks:
 - VINTAGE
 tags:
-- new-listing
-- preferential-allotment
-- equity-shares
-- warrant-conversion
+- conversion
+- equity
+- listing
+- preferential-issue
 title: Listing of New Securities of Vintage Coffee and Beverages Limited
 ---
 

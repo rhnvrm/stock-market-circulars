@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544636'
+- WOSAL
 tags:
 - group-change
-- trading-segment
+- rolling-segment
 - sme
-- rolling-settlement
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of WESTERN OVERSEAS STUDY ABROAD LIMITED
 ---
 

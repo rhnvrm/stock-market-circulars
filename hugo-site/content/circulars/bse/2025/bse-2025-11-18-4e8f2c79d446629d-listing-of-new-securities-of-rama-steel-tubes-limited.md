@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '539309'
+- RAMASTEEL
 tags:
-- new-listing
-- preferential-issue
-- equity-shares
+- equity
+- listing
 - lock-in
-- rama-steel-tubes
+- preferential-issue
 title: Listing of New Securities of Rama Steel Tubes Limited
 ---
 

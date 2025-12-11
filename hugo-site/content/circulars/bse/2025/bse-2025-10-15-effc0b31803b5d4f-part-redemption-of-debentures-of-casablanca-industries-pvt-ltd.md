@@ -26,12 +26,12 @@ source: bse
 stocks:
 - CIPL
 tags:
-- debt
-- debentures
-- partial-redemption
-- face-value-reduction
-- corporate-action
 - casablanca-industries
+- corporate-action
+- debt-securities
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of CASABLANCA INDUSTRIES PVT LTD
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - FUSIONPP
 tags:
-- suspension
-- partly-paid-shares
-- trading-halt
 - capital-market
-- equity-shares
+- equity
+- partly-paid
+- suspension
+- trading-halt
 title: Suspension of partly paid-up equity shares of Fusion Finance Limited
 ---
 

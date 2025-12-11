@@ -26,10 +26,10 @@ source: nse
 stocks:
 - JAYKAY
 tags:
-- new-listing
-- equity-shares
 - capital-market
+- equity
 - jaykay-enterprises
+- listing
 - trading-admission
 title: Listing of Equity Shares of Jaykay Enterprises Limited (New Listing)
 ---

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - PAISALO
 tags:
+- bond
 - debt-securities
 - listing
 - paisalo-digital
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of Paisalo Digital Limited
 ---
 

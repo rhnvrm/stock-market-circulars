@@ -25,10 +25,10 @@ source: nse
 stocks:
 - SATTVAENGG
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
+- sme
+- trade-for-trade
 - trading
 title: Trade for Trade - Sattva Engineering Construction Limited (SME IPO)
 ---

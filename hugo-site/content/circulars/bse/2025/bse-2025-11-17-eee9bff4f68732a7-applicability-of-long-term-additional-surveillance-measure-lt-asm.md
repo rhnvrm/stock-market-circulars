@@ -32,14 +32,12 @@ stocks:
 - TUNITEXT
 - VIVANZA
 - BLUEPEARL
-- MIDWESTGOLD
-- HEMOORGANIC
+- MIDWEST
+- HEMORGANIC
 tags:
+- asm-stage
 - surveillance
-- LT-ASM
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

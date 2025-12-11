@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- investment-limits
-- systematic-plans
 - canara-robeco
+- investment-limits
 - large-cap-fund
+- mutual-fund
+- systematic-plans
 title: Change in Minimum Application Amount for Purchase, STP, SWP and Redemption
   of Canara Large Cap Fund on NSE MF Invest Platform
 ---

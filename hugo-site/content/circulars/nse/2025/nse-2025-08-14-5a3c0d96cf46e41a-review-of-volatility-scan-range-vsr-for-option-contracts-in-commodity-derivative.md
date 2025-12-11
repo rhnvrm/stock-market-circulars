@@ -26,16 +26,16 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- volatility-scan-range
-- commodity-derivatives
+- copper
+- crude-oil
+- derivatives
+- gold
+- natural-gas
 - options
 - risk-management
-- copper
-- gold
 - silver
+- volatility-control
 - zinc
-- crude-oil
-- natural-gas
 title: Review of Volatility Scan Range (VSR) for Option Contracts in Commodity Derivatives
   Segment
 ---

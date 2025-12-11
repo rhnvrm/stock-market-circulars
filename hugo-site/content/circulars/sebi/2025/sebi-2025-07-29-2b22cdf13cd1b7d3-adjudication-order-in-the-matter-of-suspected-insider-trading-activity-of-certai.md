@@ -27,12 +27,11 @@ stocks:
 - HDFCBANK
 - HDFC
 tags:
-- insider-trading
-- adjudication-order
-- HDFC
-- merger
-- UPSI
-- PIT-regulations
+- adjudication
+- investigation
+- pit-regulations
+- scheme-of-arrangement
+- upsi
 title: Adjudication Order Against Rupesh Satish Dalal HUF for Insider Trading in HDFC
   Limited and HDFC Bank Limited
 ---

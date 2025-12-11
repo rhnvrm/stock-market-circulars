@@ -39,7 +39,7 @@ stocks:
 - FRONTIER
 - FRONTLINE
 - GROWINGTON
-- JAICORP
+- JAICORPLTD
 - JUBLAGRI
 - KINGFA
 - MICEL
@@ -68,9 +68,9 @@ stocks:
 - VENLON
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Price Band Revisions for 42 Securities Effective September 9, 2025
 ---
 

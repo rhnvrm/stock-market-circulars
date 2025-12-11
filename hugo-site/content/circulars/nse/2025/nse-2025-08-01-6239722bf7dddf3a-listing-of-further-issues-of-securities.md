@@ -33,12 +33,12 @@ stocks:
 - INTELLECT
 - ITCHOTELS
 tags:
-- listing
-- securities
-- equity-shares
+- equity
 - esop
-- warrants
-- preferential-allotment
+- listing
+- preferential-issue
+- securities
+- warrant
 title: Listing of Further Issues of Securities for Nine Companies
 ---
 

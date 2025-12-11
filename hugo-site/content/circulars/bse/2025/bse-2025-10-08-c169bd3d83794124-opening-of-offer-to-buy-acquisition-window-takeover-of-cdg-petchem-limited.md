@@ -25,14 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- CDGPETCHEM
+- CDG
 tags:
-- open-offer
-- takeover
-- acquisition
 - cdg-petchem
-- sebi-sast
-- public-announcement
+- public-issue
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of CDG PETCHEM LIMITED
 ---
 

@@ -25,12 +25,11 @@ source: bse
 stocks:
 - ACHIIEVERS
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- achiievers-finance
-- bonds
-- debentures
 title: Listing of New Debt Securities of ACHIIEVERS FINANCE INDIA LIMITED
 ---
 

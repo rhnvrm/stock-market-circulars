@@ -25,18 +25,16 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SSPNFINANCE
-- TCM
+- SSPNFIN
+- TCMLMTD
 - COVIDH
-- GAUTAMEXIM
+- GEL
 - MSRINDIA
 - YURANUS
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - sme
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - November 25, 2025
 ---
 

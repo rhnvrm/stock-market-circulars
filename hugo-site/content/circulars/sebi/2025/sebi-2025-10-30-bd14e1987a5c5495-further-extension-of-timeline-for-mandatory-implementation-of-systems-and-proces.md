@@ -27,15 +27,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- t+0-settlement
-- qualified-stock-brokers
-- qsb
-- settlement-cycle
-- timeline-extension
-- equity-cash-market
-- stock-exchanges
 - clearing-corporations
-- depositories
+- depository
+- equity-cash-market
+- extension
+- settlement-calendar
+- stock-broker
+- stock-exchanges
+- t0-settlement
 title: Further extension of timeline for mandatory implementation of systems and processes
   by Qualified Stock Brokers (QSBs) with respect to T+0 settlement cycle
 ---

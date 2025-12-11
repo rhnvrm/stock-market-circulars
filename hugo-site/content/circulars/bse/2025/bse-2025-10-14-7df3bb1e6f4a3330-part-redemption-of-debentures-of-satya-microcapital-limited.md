@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
+- corporate-action
 - debt-securities
-- corporate-actions
 - interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of SATYA MICROCAPITAL LIMITED
 ---
 

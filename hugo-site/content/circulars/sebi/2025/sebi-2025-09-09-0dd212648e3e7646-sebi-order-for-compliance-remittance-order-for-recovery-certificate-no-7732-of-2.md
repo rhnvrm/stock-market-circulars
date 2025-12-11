@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - SAFALHERBS
 tags:
-- recovery-certificate
-- remittance-order
 - compliance-order
-- safal-herbs
+- demand-notice
 - parikh-herbs
+- recovery
 - shrenik-shah
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 7732
   of 2024 against Shrenik Shah in the matter of Safal Herbs Limited

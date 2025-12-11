@@ -28,9 +28,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- listing
+- ncd
 - private-placement
-- new-listing
-- debentures
 - zero-coupon
 title: Listing of New Debt Securities of Aliens Developers Private Limited
 ---

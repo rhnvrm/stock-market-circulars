@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- STEELCAST
+- STEELCAS
 tags:
-- sub-division
-- equity-shares
-- steelcast
-- corporate-actions
-- isin-change
+- corporate-action
+- equity
+- isin
+- split
 title: 'Sub-Division of Equity Shares of STEELCAST LTD (Scrip Code: 513517)'
 ---
 

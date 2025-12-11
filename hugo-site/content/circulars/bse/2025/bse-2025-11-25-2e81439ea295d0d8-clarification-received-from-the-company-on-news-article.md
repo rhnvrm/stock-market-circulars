@@ -28,14 +28,13 @@ source: bse
 stocks:
 - BIRLANU
 tags:
-- rumour-verification
+- andhra-pradesh
 - clarification
 - fibre-cement-board
 - greenfield-expansion
-- andhra-pradesh
 - krishnapatnam
 - price-movement
-- birlanu
+- rumour-verification
 title: BirlaNu Limited - Clarification on News Article Regarding New Fibre Cement
   Board Plant
 ---

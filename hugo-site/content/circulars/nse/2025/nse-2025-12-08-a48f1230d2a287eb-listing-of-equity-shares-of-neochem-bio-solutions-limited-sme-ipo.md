@@ -28,13 +28,11 @@ source: nse
 stocks:
 - NEOCHEM
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- neochem
-- trade-for-trade
+- listing
+- sme
 - surveillance
-- new-listing
+- trade-for-trade
 title: Listing of Equity Shares of Neochem Bio Solutions Limited (SME IPO)
 ---
 

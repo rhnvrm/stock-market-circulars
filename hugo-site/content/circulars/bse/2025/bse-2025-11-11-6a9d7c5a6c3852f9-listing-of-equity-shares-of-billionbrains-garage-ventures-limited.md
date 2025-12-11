@@ -26,10 +26,8 @@ source: bse
 stocks:
 - GROWW
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- GROWW
 title: Listing of Equity Shares of Billionbrains Garage Ventures Limited
 ---
 

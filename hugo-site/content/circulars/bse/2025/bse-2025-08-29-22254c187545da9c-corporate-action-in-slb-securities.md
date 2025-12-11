@@ -38,12 +38,12 @@ stocks:
 - ZYDUSWELL
 - GSPL
 tags:
+- bonus
+- collateral
 - corporate-action
-- slb-securities
 - dividend
-- bonus-issue
-- stock-split
-- securities-lending-borrowing
+- slb
+- split
 title: Corporate Action in SLB Securities - September 2025
 ---
 

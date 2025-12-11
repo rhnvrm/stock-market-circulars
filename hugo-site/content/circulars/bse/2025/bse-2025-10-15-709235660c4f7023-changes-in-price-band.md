@@ -53,11 +53,11 @@ stocks:
 - ZENITHST
 - ZINEMA
 tags:
+- equity
 - price-band
-- trading-limits
 - surveillance
+- trading-operations
 - volatility-control
-- equity-trading
 title: Revision of Price Bands for 27 Securities Effective October 16, 2025
 ---
 

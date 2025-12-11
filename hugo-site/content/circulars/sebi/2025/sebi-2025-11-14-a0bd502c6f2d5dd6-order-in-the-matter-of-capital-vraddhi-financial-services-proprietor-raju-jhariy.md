@@ -28,14 +28,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-adviser
-- enforcement-action
-- compliance-violations
-- regulatory-order
-- intermediaries
-- fraudulent-practices
-- pfutp
 - code-of-conduct
+- compliance-order
+- enforcement
+- intermediary
+- investigation
+- investment-adviser
+- pfutp
+- regulatory-order
 title: Order in the matter of Capital Vraddhi Financial Services, Proprietor- Raju
   Jhariya
 ---

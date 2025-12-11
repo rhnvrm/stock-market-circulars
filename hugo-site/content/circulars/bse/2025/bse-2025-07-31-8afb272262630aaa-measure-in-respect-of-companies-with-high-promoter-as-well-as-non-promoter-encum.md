@@ -33,14 +33,14 @@ stocks:
 - JAYNECOIND
 - STEELXIND
 - THYROCARE
-- TULSYANNEC
+- TULSYAN
 tags:
-- surveillance
 - encumbrance
 - promoter
 - sast
 - sebi
-- trading-measures
+- surveillance
+- trading-operations
 title: High Promoter and Non-Promoter Encumbrance Surveillance Measure Updates
 ---
 

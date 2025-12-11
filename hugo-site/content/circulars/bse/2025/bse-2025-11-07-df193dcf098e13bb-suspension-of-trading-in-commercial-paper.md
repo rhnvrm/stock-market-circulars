@@ -41,10 +41,10 @@ stocks:
 - OPL
 tags:
 - commercial-paper
+- corporate-action
+- debt-securities
 - redemption
-- trading-suspension
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Securities with Redemption Dates
   from November 11-17, 2025
 ---

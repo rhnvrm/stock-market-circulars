@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '531918'
+- HINDAPL
 tags:
-- surveillance
-- price-movement
-- volume-movement
 - clarification-sought
 - hindustan-appliances
+- price-movement
+- surveillance
 title: BSE Seeks Clarification from Hindustan Appliances Ltd on Price/Volume Movement
 ---
 

@@ -27,9 +27,8 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
-- recovery-proceedings
+- recovery
 - satyalaxmi-vinimay
 - svaraj-trading
 title: Completion of Recovery Certificate No. RC1912 of 2019 - Satyalaxmi Vinimay

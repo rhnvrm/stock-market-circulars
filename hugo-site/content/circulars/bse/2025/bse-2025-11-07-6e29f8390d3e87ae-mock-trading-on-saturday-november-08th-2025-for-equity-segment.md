@@ -27,14 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-segment
-- testing
-- trading-session
-- market-operations
 - block-deals
-- call-auction
-- trading-members
+- call-money
+- equity
+- market-operations
+- mock-trading
+- trading-member
+- trading-session
 title: Mock Trading Session for Equity Segment on November 08, 2025
 ---
 

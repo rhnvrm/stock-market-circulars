@@ -26,11 +26,10 @@ source: nse
 stocks:
 - INDIAGLYCO
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
+- early-pay-in
+- face-value-change
 - settlement
-- indiaglyco
 title: Early Pay-in of Securities for India Glycols Limited (INDIAGLYCO) - Face Value
   Split
 ---

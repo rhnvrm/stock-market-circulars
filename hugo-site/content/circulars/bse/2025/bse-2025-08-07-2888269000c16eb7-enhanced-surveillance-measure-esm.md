@@ -29,14 +29,12 @@ stocks:
 - INNOVANA
 - ORTIN
 - SAINIKFINANCE
-- SHREEPACETRONIX
-- GAYATRISUGARS
+- SHREEPAC
+- GAYATRI
 tags:
-- surveillance
-- esm
-- enhanced-surveillance-measure
-- trading-restrictions
 - market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - 29 Securities Affected
 ---
 

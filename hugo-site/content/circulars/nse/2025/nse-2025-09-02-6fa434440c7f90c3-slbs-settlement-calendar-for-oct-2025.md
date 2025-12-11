@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- slbs
-- settlement-calendar
-- securities-lending
-- borrowing-scheme
-- october-2025
+- collateral
 - nse-clearing
+- october-2025
+- settlement-calendar
+- slbs
 title: SLBS Settlement Calendar for October 2025
 ---
 

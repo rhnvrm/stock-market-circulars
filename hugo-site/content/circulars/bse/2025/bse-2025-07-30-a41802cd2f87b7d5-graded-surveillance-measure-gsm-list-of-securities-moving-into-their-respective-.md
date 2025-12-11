@@ -26,10 +26,8 @@ source: bse
 stocks:
 - MENAMANI
 tags:
-- gsm
-- surveillance
 - stage-iii
-- mena-mani-industries
+- surveillance
 title: Graded Surveillance Measure (GSM) - Mena Mani Industries Limited Moved to Stage
   III
 ---

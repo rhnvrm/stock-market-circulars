@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- nse
-- employee-confidentiality
+- appeal
 - asset-usage-policies
+- employee-confidentiality
 - information-disclosure
-- appellate-authority
+- nse
+- rti
 title: RTI Appeal No. 6447 of 2025 - NSE Employee Confidentiality and Asset Usage
   Policies
 ---

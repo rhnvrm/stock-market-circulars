@@ -28,12 +28,11 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
-- debt
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
-- edelweiss
+- ncd
+- redemption
 title: Part Redemption of Debentures of EDELWEISS RURAL & CORPORATE SERVICES LIMITED
 ---
 

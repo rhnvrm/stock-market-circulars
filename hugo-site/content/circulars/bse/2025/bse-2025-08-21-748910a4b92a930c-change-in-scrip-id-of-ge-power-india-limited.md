@@ -26,10 +26,10 @@ source: bse
 stocks:
 - GEPIL
 tags:
-- scrip-id-change
-- corporate-actions
-- ge-power-india
 - bolt-plus-system
+- corporate-action
+- ge-power-india
+- scrip-id-change
 title: Change in Scrip ID of GE Power India Limited
 ---
 

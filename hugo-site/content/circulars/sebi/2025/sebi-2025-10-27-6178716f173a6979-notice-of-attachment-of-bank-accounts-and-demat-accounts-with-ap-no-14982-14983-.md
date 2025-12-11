@@ -30,13 +30,10 @@ source: sebi
 stocks:
 - GENENG
 tags:
-- attachment-notice
-- recovery-proceedings
+- attachment
 - defaulter
-- enforcement-action
-- bank-account-attachment
-- demat-account-attachment
-- recovery-certificate
+- enforcement
+- recovery
 title: 'Notice of Attachment of Bank Accounts and Demat Accounts - AP No. 14982 &
   14983 of 2025 against Shivakumar Gattai Kamballa [Defaulter] (PAN: CUJPK5764Q) -
   RC No. 8920 of 2025'

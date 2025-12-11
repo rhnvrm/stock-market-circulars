@@ -27,10 +27,9 @@ stocks:
 - SMSLIFE
 - HALEOSLABS
 tags:
-- company-name-change
-- symbol-change
-- listing
 - corporate-action
+- listing
+- name-change
 title: Change in name and symbol of SMS Lifesciences India Limited
 ---
 

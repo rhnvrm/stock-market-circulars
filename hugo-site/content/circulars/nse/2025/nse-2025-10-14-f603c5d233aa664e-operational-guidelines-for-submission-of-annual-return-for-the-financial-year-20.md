@@ -26,13 +26,13 @@ source: nse
 stocks: []
 tags:
 - annual-return
+- audited-financials
 - compliance
 - member-portal
 - ncl
 - networth
-- audited-financials
-- statutory-auditor
 - sebi-stockbrokers-regulations
+- statutory-auditor
 title: Operational Guidelines for Submission of Annual Return for Financial Year 2024-2025
 ---
 

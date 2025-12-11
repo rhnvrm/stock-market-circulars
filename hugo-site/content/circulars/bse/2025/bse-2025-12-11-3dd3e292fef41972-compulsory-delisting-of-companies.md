@@ -37,12 +37,11 @@ stocks:
 - VAXHOUSING
 tags:
 - delisting
-- compulsory-delisting
-- suspension
-- sebi-regulations
-- promoter-restrictions
 - exit-offer
 - market-access-ban
+- promoter
+- regulatory-framework
+- suspension
 title: Compulsory Delisting of 10 Companies from BSE Effective December 15, 2025
 ---
 

@@ -25,11 +25,11 @@ source: nse
 stocks:
 - CLASSICEIL
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- trade-for-trade
+- listing
 - pre-open-session
+- sme
+- trade-for-trade
 title: Listing of Equity Shares of Classic Electrodes (India) Limited (SME IPO)
 ---
 

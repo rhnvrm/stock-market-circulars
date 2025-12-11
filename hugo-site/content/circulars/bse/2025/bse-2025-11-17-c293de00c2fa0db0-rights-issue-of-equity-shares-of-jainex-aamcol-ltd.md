@@ -28,12 +28,11 @@ source: bse
 stocks:
 - JAINEX
 tags:
-- rights-issue
-- equity-shares
-- corporate-actions
-- ex-rights
+- corporate-action
+- equity
 - record-date
-- JAINEX
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of JAINEX AAMCOL LTD.
 ---
 

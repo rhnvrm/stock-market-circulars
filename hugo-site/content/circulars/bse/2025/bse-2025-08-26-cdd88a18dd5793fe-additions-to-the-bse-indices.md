@@ -24,17 +24,16 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544487'
-- '544488'
-- '544490'
-- '544491'
-- '544489'
+- PATELRMART
+- VIKRAMSOLR
+- SHREEJISPG
+- GEMAROMA
+- LGT
 tags:
-- index-additions
-- new-listings
-- bse-ipo-index
-- bse-sme-ipo-index
-- equity-market
+- addition
+- bse-index
+- equity
+- listing
 title: Additions to the BSE Indices - New Stock Listings
 ---
 

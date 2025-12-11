@@ -27,10 +27,9 @@ source: bse
 stocks:
 - LENSKART
 tags:
+- company-related
+- equity
 - listing
-- equity-shares
-- new-listing
-- company-listing
 title: Listing of Equity Shares of Lenskart Solutions Limited
 ---
 

@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
-- private-placement
-- debentures
-- non-convertible-debentures
-- aditya-birla-housing-finance
 - abhfl
-- new-listing
+- aditya-birla-housing-finance
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Aditya Birla Housing Finance Limited
 ---
 

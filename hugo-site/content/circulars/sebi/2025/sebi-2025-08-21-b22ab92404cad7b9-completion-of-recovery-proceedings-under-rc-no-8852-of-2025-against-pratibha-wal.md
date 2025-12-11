@@ -25,11 +25,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
-- enforcement
-- family-care-hospitals
-- pratibha-walinjkar
 - compliance
+- enforcement
+- pratibha-walinjkar
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8852 of 2025 against Pratibha
   Walinjkar in the matter of Family Care Hospitals Limited
 ---

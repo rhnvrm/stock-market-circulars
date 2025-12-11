@@ -32,11 +32,10 @@ stocks:
 - IDEALTECHO
 - JAINAM
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trading-measures
+- margin
 - risk-management
+- surveillance
+- trading-operations
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

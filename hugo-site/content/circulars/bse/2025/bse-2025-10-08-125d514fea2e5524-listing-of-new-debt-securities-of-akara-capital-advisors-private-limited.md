@@ -28,11 +28,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
-- ncd
-- debentures
 - icra-rating
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Akara Capital Advisors Private Limited
 ---
 

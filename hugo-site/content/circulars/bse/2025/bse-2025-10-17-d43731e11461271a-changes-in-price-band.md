@@ -28,8 +28,8 @@ stocks:
 - AGIOPAPER
 - AMAL
 - AMEENJIRUBB
-- ANANDRAYONS
-- ANKAINDIA
+- ARL
+- ANKIN
 - ASHNISHA
 - BEMCO
 - BHAVIKENT
@@ -41,21 +41,21 @@ stocks:
 - DMRENG
 - ELANGO
 - FLORA
-- GAGANGASES
+- GAGAN
 - GHVINFRA
 - GUJARATRAFFIA
 - INTERSTATEOIL
 - KESARTERMINAL
 - KRISHANVEER
-- KVSCASTINGS
+- KVSCASTING
 - MPKSTEELS
 - MILESTONEFURN
 - NORBEN
 - PARSVNATH
-- RAPCORP
+- RAP
 - REFEXRENEW
 - REGENT
-- RSCINTERNATIONAL
+- RSCINT
 - RUKMANI
 - SEATV
 - SHAREINDIA
@@ -65,15 +65,15 @@ stocks:
 - STARCOM
 - SUNRAJDIAMOND
 - SUVIDHAA
-- SVSVENTURES
+- SVS
 - UPSURGE
 - VASWANI
 tags:
+- asm-stage
+- circuit-limits
+- market-operations
 - price-band
 - trading-restrictions
-- surveillance-measure
-- circuit-limits
-- market-regulation
 title: Changes in Price Band for 43 Securities Effective October 20, 2025
 ---
 

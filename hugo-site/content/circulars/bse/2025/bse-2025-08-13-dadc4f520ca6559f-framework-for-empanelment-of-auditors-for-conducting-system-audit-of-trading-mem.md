@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- system-audit
-- trading-members
 - auditor-empanelment
-- compliance
 - certification-requirements
+- compliance
 - regulatory-framework
+- system-audit
+- trading-member
 title: Framework for Empanelment of Auditors for conducting System Audit of Trading
   Members
 ---

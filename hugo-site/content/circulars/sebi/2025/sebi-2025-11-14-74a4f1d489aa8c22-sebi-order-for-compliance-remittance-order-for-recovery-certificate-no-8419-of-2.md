@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-certificate
-- standard-chartists
 - compliance
-- remittance-order
+- demand-notice
+- enforcement
 - proprietorship
+- recovery
+- standard-chartists
 title: SEBI Remittance Order for Recovery Certificate No. 8419/2024 Against Mr. Heet
   Manish Bapna (Standard Chartists)
 ---

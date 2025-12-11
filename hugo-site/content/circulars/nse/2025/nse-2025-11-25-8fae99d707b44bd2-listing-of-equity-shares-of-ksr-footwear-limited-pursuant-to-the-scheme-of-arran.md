@@ -28,13 +28,12 @@ stocks:
 - KSR
 - KHADIM
 tags:
-- listing
-- demerger
-- scheme-of-arrangement
 - corporate-action
-- trade-for-trade
-- ksr-footwear
 - khadim-india
+- ksr-footwear
+- listing
+- scheme-of-arrangement
+- trade-for-trade
 title: Listing of Equity Shares of KSR Footwear Limited pursuant to the Scheme of
   Arrangement
 ---

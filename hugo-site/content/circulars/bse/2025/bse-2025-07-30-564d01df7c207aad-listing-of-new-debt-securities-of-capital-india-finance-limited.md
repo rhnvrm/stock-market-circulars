@@ -25,11 +25,11 @@ source: bse
 stocks:
 - CIFL
 tags:
+- bond
+- capital-india-finance
 - debt-securities
 - listing
 - private-placement
-- capital-india-finance
-- corporate-bonds
 title: Listing of new debt securities of CAPITAL INDIA FINANCE LIMITED
 ---
 

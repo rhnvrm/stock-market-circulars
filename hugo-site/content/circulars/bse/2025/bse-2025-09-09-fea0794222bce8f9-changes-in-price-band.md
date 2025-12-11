@@ -27,7 +27,7 @@ stocks:
 - BARAKVALLEY
 - BARTRONICS
 - BIZOTIC
-- GAGANGASES
+- GAGAN
 - HALDER
 - KEMISTAR
 - LASA
@@ -38,17 +38,17 @@ stocks:
 - OXFORD
 - PATEL
 - PRECISION
-- PRIMEFOCUS
+- PFOCUS
 - RITESH
 - SHAHALLOYS
 - SHREEKRISHNA
 - STARCOM
 - ZODIAC
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band - 20 Scrips Revised Effective September 10, 2025
 ---
 

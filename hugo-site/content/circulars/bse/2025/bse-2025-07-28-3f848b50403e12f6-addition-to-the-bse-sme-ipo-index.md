@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SWASTIKA
 tags:
-- index
-- sme
+- addition
+- index-fund
 - ipo
 - listing
-- addition
+- sme
 title: Addition to the BSE SME IPO INDEX - SWASTIKA CASTAL LIMITED
 ---
 

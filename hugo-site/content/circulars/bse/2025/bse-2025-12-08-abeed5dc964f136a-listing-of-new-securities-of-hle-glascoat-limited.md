@@ -26,12 +26,11 @@ source: bse
 stocks:
 - HLEGLAS
 tags:
-- listing
-- equity-shares
-- amalgamation
-- scheme-of-arrangement
-- new-securities
+- equity
 - hle-glascoat
+- listing
+- new-securities
+- scheme-of-arrangement
 title: Listing of new securities of HLE Glascoat Limited
 ---
 

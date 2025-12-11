@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
-- illiquid-stocks
-- reversal-trades
+- adjudication
 - artificial-volume
 - bse
-- pfutp-regulations
+- illiquid-stocks
+- market-operations
 - penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order Against Sankat Mochan Holdings Private Limited for Non-Genuine
   Trading in Illiquid Stock Options
 ---

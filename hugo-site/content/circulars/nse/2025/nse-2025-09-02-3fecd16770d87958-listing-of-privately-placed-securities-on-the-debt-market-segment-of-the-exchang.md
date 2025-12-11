@@ -26,15 +26,15 @@ source: nse
 stocks:
 - GODREJIND
 - RAMCOCEM
-- CEAT
+- CEATLTD
 - GODREJPROP
 - TATASTEEL
 - APLLTD
 - KOTAKSEC
 - AXISSEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
 title: Listing of privately placed debt securities including Commercial Papers

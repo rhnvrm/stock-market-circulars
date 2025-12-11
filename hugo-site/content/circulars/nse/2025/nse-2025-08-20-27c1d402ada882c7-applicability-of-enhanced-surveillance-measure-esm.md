@@ -62,11 +62,9 @@ stocks:
 - PIGL
 - POLYSIL
 tags:
-- surveillance
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
 - stage-transitions
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Stage Changes for Securities
 ---
 

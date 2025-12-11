@@ -81,11 +81,9 @@ stocks:
 - SATIATE
 - ADLINECHEM
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- gsm
-- graded-surveillance-measure
-- stage-revision
-- market-regulation
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---

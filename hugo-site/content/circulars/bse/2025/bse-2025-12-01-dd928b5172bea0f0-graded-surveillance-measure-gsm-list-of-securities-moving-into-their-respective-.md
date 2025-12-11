@@ -31,12 +31,10 @@ stocks:
 - SHIVANSH
 - NIRMITEE
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
-- market-monitoring
-- stage-migration
+- asm-stage
 - ibc-framework
+- market-operations
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

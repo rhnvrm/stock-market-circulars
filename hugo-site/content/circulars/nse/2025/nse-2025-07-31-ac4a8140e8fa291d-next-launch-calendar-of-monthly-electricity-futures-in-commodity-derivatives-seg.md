@@ -25,9 +25,9 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- electricity-futures
 - contract-launch
+- derivatives
+- electricity-futures
 - trading-calendar
 title: Next launch calendar of Monthly Electricity Futures in Commodity Derivatives
   Segments for November Month

@@ -27,13 +27,12 @@ source: nse
 stocks:
 - MONEYBOXX
 tags:
-- listing
-- new-listing
-- equity-shares
-- rolling-settlement
 - demat
-- normal-market
+- equity
+- listing
 - lock-in
+- normal-market
+- rolling-segment
 title: Listing of Equity Shares of Moneyboxx Finance Limited (New Listing)
 ---
 

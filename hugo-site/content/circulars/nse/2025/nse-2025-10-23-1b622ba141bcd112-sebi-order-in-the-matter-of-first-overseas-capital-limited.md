@@ -28,15 +28,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
-- merchant-banker
-- market-ban
-- regulatory-violation
-- net-worth-violation
-- underwriting
+- compliance
 - debarment
 - investigation
-- compliance
+- market-ban
+- merchant-banker
+- net-worth-violation
+- non-compliance
+- sebi-order
+- underwriting
 title: SEBI Order in the matter of First Overseas Capital Limited
 ---
 

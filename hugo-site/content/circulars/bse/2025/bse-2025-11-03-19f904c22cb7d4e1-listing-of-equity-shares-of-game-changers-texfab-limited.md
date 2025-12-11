@@ -27,11 +27,11 @@ source: bse
 stocks:
 - GAMECHANGERS
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- anchor-investors
 title: Listing of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

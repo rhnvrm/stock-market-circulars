@@ -39,13 +39,12 @@ stocks:
 - ASIANPAINT
 - CAMS
 tags:
+- bonus
+- book-closure
 - corporate-action
-- slb
 - dividend
-- bonus-issue
-- shut-period
 - record-date
-- ex-date
+- slb
 title: Corporate Action in SLB Securities - Dividends and Bonus Issue
 ---
 

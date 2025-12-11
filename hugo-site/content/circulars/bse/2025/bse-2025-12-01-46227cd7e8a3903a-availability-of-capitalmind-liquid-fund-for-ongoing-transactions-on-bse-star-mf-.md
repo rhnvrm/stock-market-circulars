@@ -27,14 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - capitalmind
 - liquid-fund
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: Availability of CAPITALMIND LIQUID FUND for ongoing transactions on BSE StAR
   MF Platform

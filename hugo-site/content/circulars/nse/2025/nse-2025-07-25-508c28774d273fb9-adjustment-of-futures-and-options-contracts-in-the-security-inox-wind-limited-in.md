@@ -26,11 +26,10 @@ source: nse
 stocks:
 - INOXWIND
 tags:
-- futures-options
 - contract-adjustment
 - corporate-action
-- INOXWIND
 - derivatives
+- futures-options
 title: Adjustment of Futures and Options Contracts in the Security INOX WIND LIMITED
   (INOXWIND)
 ---

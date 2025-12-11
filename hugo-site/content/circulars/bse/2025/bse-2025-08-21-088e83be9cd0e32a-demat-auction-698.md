@@ -25,18 +25,18 @@ severity: medium
 source: bse
 stocks:
 - ACROW
-- ADANI POWER
-- ASHOK LEYLAND
+- ADANIPOWER
+- ASHOKLEY
 - BAJAJ STEEL
-- BGR ENERGY
+- BGRENERGY
 - CHENNAI PETRO
 - DHAMPUR SUGAR
-- ESAB INDIA
-- ETHOS
+- ESABINDIA
+- ETHOSLTD
 - FIRSTSOURCE
-- HERO MOTOCORP
-- ICICI BANK
-- JSW STEEL
+- HEROMOTOCO
+- ICICIBANK
+- JSWSTEEL
 - MAHINDRA
 - MARICO
 - NHPC
@@ -47,10 +47,10 @@ stocks:
 - TIMEX GROUP
 - ZUARI AGRO
 tags:
-- demat-auction
+- auction
+- demat
 - settlement
 - trading
-- auction-market
 title: BSE Demat Auction Settlement No. 698 - Stock Listing for Auction
 ---
 

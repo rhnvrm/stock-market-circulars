@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sebi-directions
-- trading-restrictions
 - account-defreeze
-- investment-adviser
 - compliance
+- investment-adviser
+- sebi-order
+- trading-restrictions
 title: SEBI Directions - Cypress Money Investment Adviser Trading Account De-freeze
 ---
 

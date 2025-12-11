@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DALMIA
 tags:
+- asm-stage
+- compliance
 - listing-fees
 - trading-resumption
-- x-group
-- compliance
-- DALMIA
 title: Resumption of Trading for Dalmia Industrial Development Limited After ALF Payment
 ---
 

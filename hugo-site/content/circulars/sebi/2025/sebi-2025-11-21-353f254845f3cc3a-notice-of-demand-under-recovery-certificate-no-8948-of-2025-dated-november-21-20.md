@@ -26,13 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
-- enforcement
 - bse
+- demand-notice
+- enforcement
 - initial-service-offering
 - iso
-- recovery-proceedings
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8948 of 2025 issued against
   Rita R Thakakr (PAN:AHEPT9061D) in the matter of ISO at BSE
 ---

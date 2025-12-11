@@ -26,11 +26,9 @@ source: bse
 stocks:
 - NATFIT
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- otb
 - national-fittings
+- otb
+- takeover
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for National Fittings Limited
   - Live Activities Schedule

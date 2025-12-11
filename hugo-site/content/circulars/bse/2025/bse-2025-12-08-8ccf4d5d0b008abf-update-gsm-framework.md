@@ -50,7 +50,7 @@ stocks:
 - DESHRAKS
 - DHENUBUI
 - DHRUVWEL
-- DIGJAM
+- DIGJAMLMTD
 - DJSSTOCK
 - DRLALCHAN
 - DUGARHOU
@@ -83,14 +83,12 @@ stocks:
 - LELAVOIR
 - LOOKS
 - LORDSMARK
-- MACHOTELS
+- MACH
 - MAPROIND
 tags:
-- gsm
-- surveillance
 - price-band
+- surveillance
 - trading-restrictions
-- market-surveillance
 title: 'Update – GSM Framework: List of Securities Under Graded Surveillance Measure'
 ---
 

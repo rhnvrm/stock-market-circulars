@@ -27,11 +27,11 @@ source: nse
 stocks:
 - ONGC
 tags:
-- dividend
-- futures-and-options
+- contract-adjustment
 - corporate-action
 - derivatives
-- contract-adjustment
+- dividend
+- futures-options
 title: Dividend Adjustment of Futures and Options Contracts in ONGC
 ---
 

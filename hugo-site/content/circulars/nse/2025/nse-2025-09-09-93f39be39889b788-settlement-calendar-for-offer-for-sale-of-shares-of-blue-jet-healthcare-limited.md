@@ -26,10 +26,10 @@ source: nse
 stocks:
 - BLUEJET
 tags:
-- offer-for-sale
-- settlement
 - blue-jet-healthcare
 - capital-market
+- ofs
+- settlement
 title: Settlement Calendar for Offer for Sale of Blue Jet Healthcare Limited
 ---
 

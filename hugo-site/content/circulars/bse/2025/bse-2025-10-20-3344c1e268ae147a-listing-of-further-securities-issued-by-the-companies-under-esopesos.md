@@ -35,12 +35,10 @@ stocks:
 - RENUKA
 - SAILIFE
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 10 Companies
 ---
 

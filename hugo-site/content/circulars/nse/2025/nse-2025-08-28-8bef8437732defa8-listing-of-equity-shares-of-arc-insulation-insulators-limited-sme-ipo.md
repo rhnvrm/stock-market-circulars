@@ -26,12 +26,12 @@ source: nse
 stocks:
 - ARCIIL
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- equity-shares
-- trade-for-trade
+- equity
+- listing
 - market-maker
+- sme
+- trade-for-trade
 title: Listing of Equity Shares of ARC Insulation & Insulators Limited (SME IPO)
 ---
 

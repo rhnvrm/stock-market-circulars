@@ -26,9 +26,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- investment-limit
 - edelweiss
+- investment-limit
+- mutual-fund
 - offshore-fund
 - subscription-limit
 title: Change in Maximum Application Amount of Edelweiss Mutual Fund on NSE MF Invest

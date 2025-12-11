@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SUMEET
 tags:
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of SUMEET INDUSTRIES LTD (Scrip Code: 514211)'
 ---
 

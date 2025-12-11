@@ -27,17 +27,17 @@ severity: high
 source: bse
 stocks: []
 tags:
-- regulatory-directive
-- telecom
-- bfsi
 - 1600-series
-- trai
-- rbi
-- sebi
-- pfrda
-- compliance
 - anti-spam
+- bfsi
+- compliance
 - customer-protection
+- pfrda
+- rbi
+- regulatory-directive
+- sebi
+- telecom
+- trai
 title: 'TRAI Direction: Mandatory Adoption of 1600-Series Numbers by RBI, SEBI and
   PFRDA Regulated Entities'
 ---

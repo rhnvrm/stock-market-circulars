@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
 - aditya-birla-sunlife
-- portfolio-rebalancing
 - fundamental-attributes
+- mutual-fund
+- name-change
+- portfolio-rebalancing
 title: Change in scheme name of Aditya Birla Sunlife Mutual Fund - India GenNext Fund
   renamed to Consumption Fund
 ---

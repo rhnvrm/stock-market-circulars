@@ -30,13 +30,12 @@ stocks:
 - TMCV
 - TMPVL
 tags:
+- corporate-action
+- equity
 - listing
-- demerger
+- nclt
 - scheme-of-arrangement
 - tata-motors
-- corporate-action
-- equity-shares
-- nclt-approval
 - trade-for-trade
 title: Listing of Equity Shares of Tata Motors Limited (formerly TML Commercial Vehicles
   Limited) pursuant to Scheme of Arrangement

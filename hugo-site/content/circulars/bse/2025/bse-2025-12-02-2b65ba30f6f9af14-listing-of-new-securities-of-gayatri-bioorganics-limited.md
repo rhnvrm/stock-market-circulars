@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GAYABIORG
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
 - bifr-order
-- promoter-allocation
+- equity
+- listing
 - lock-in
+- preferential-issue
+- promoter-allocation
 title: Listing of New Securities of Gayatri Bioorganics Limited
 ---
 

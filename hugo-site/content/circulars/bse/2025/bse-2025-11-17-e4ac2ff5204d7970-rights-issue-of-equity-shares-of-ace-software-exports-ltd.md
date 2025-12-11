@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '531525'
+- ACESOFT
 tags:
-- rights-issue
-- corporate-actions
-- equity
 - ace-software-exports
+- corporate-action
+- equity
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares of ACE SOFTWARE EXPORTS LTD.
 ---
 

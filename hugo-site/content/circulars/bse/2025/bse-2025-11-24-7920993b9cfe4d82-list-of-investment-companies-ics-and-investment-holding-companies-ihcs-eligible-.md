@@ -28,12 +28,12 @@ stocks:
 - HARYANACAP
 - EASYFIN
 tags:
+- group-change
 - investment-companies
 - investment-holding-companies
+- segment-transfer
 - special-call-auction
 - trade-for-trade
-- segment-transfer
-- group-change
 title: List of Investment Companies (ICs) and Investment Holding Companies (IHCs)
   Eligible for Special Call-Auctions
 ---

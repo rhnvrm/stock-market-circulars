@@ -39,22 +39,20 @@ stocks:
 - BANCO
 - BHAGWATI
 - BILLWIN
-- BLTLOGISTICS
+- BLT
 - BLUESTONE
 - BOTHRAMETAL
 - CALSOFT
-- CAPITALTRUST
+- CAPTRUST
 - DYNAMIND
 - EIMCO
 - ESSARSHPNG
-- ESSEXMARINE
+- ESSEX
 - FUTURISTICSL
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

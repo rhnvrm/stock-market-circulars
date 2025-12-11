@@ -25,11 +25,11 @@ source: nse
 stocks:
 - GROWWPOWER
 tags:
-- listing
 - etf
 - groww
-- power-sector
+- listing
 - mutual-fund
+- power-sector
 title: Listing of Groww BSE Power ETF Units on NSE
 ---
 

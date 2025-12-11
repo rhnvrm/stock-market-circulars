@@ -36,11 +36,10 @@ stocks:
 - MAL
 - PURPLEUTED
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and New Inclusions
 ---
 

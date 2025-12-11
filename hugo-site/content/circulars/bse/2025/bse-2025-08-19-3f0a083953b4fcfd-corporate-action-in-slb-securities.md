@@ -37,15 +37,14 @@ stocks:
 - IRB
 - LLOYDSENT
 - PREMIERENE
-- BLACKBOX
+- BBOX
 - CAMPUS
 - PROTEAN
 tags:
+- corporate-action
 - dividend
-- corporate-actions
-- slb-securities
 - record-date
-- ex-date
+- slb
 title: Corporate Action Schedule for SLB Securities - Dividend Announcements
 ---
 

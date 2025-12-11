@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
-- isin-change
-- equity-subdivision
 - corporate-action
-- trading-update
+- equity-subdivision
+- isin
+- trading
 title: New ISIN Number for TITAN INTECH LTD Sub-Divided Equity Shares
 ---
 

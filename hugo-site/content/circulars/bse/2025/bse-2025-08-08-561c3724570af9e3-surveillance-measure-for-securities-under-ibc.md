@@ -25,15 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDOSOLAR
+- WAAREEINDO-BE
 - UJAAS
 tags:
-- surveillance
-- ibc
-- insolvency
-- additional-surveillance-measure
-- stage-movement
+- asm-stage
 - indosolar
+- insolvency
+- surveillance
 - ujaas-energy
 title: Surveillance Measure for Securities Under IBC - Stage Updates Effective August
   11, 2025

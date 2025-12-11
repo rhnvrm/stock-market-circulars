@@ -28,12 +28,12 @@ source: bse
 stocks:
 - ANANTAM
 tags:
-- invit
-- listing
-- unit-holding-pattern
 - anantam-highways-trust
 - infrastructure
+- invit
+- listing
 - post-issue-disclosure
+- unit-holding-pattern
 title: Listing of Units of Anantam Highways Trust - Post Issue Unit Holding Pattern
 ---
 

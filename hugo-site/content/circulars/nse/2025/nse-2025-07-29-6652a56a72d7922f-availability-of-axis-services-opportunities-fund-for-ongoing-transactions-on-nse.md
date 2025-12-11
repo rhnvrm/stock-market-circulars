@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - axis-mutual-fund
-- nse-mf-invest
-- equity-fund
+- equity
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
+- trading-platform
 title: Availability of Axis Services Opportunities Fund for ongoing transactions on
   NSE MF Invest Platform
 ---

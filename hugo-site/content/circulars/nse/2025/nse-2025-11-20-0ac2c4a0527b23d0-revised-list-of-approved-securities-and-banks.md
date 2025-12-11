@@ -27,11 +27,11 @@ source: nse
 stocks: []
 tags:
 - collateral
-- sovereign-gold-bonds
-- liquid-assets
-- approved-securities
+- debt-securities
+- empanelment
+- gold
 - haircut
-- debt-segment
+- liquid-fund
 title: Revised List of Approved Securities and Banks - Sovereign Gold Bonds as Collateral
 ---
 

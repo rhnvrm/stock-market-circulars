@@ -26,14 +26,14 @@ source: nse
 stocks: []
 tags:
 - connectivity
+- delhi
+- extension
+- infrastructure
+- kolkata
 - pop-migration
+- self-service-links
 - sify
 - telecom
-- infrastructure
-- deadline-extension
-- self-service-links
-- kolkata
-- delhi
 title: Connectivity - POP Network Changes - Extension for Self-Service Links
 ---
 

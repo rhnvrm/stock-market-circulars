@@ -27,12 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- penalty-report
 - client-code-modification
-- non-institutional-trades
 - compliance-report
+- non-institutional-trades
+- penalty
 - trading-operations
-- extranet
+- trading-platform
 title: Download of Penalty Report for modification of Client Codes of non-institutional
   trades (All Segments)
 ---

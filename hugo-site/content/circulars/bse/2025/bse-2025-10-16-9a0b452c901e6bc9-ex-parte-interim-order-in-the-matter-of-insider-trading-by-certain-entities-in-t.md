@@ -28,14 +28,12 @@ source: bse
 stocks:
 - IEX
 tags:
-- insider-trading
-- enforcement
-- sebi-order
-- pit-regulations
-- iex
 - cerc
+- enforcement
 - interim-order
 - investigation
+- pit-regulations
+- sebi-order
 - upsi
 title: Ex-Parte Interim Order in the matter of Insider Trading by certain entities
   in the scrip of IEX

@@ -24,10 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GVFILMS
+- GVFILM
 tags:
-- z-group
-- group-transfer
+- asm-stage
+- group-change
 - gv-films
 - penal-action
 - sebi-master-circular

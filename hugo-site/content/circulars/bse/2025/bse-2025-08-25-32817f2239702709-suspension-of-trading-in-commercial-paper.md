@@ -28,11 +28,10 @@ stocks:
 - KOTAKINVEST
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
 - debt-securities
-- adani-enterprises
 - kotak-mahindra
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Adani Enterprises and Kotak Mahindra
   Investments
 ---

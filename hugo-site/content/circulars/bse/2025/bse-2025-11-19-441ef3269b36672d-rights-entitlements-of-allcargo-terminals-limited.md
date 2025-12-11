@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ATL
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - allcargo-terminals
-- trading
+- equity
+- renunciation
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements Trading for ALLCARGO TERMINALS LIMITED
 ---
 

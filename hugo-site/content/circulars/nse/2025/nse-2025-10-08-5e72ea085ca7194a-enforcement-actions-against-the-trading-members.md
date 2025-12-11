@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- enforcement
-- trading-members
-- pre-order-confirmation
 - compliance
-- unauthorized-trades
-- inspection
-- sebi-circular
+- enforcement
+- investigation
+- pre-order-confirmation
 - regulatory-modification
+- sebi
+- trading-member
+- unauthorized-trades
 title: Enforcement actions against the Trading Members - Modification of Pre-order
   Confirmation Requirements
 ---

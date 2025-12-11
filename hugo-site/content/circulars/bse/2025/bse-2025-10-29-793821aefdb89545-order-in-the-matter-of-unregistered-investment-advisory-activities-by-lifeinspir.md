@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- investment-advisory
-- unregistered-activity
-- regulatory-violation
-- enforcement-action
-- lifeinspire-knowledge-solutions
 - bankniftyoption
+- enforcement
+- investment-adviser
+- lifeinspire-knowledge-solutions
+- non-compliance
+- sebi-order
+- unregistered-activity
 title: Order in the matter of unregistered investment advisory activities by Lifeinspire
   Knowledge Solutions Private Limited
 ---

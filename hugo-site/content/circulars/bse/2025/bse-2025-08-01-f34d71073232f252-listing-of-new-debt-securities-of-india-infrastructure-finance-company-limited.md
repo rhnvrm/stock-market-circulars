@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IIFCL
 tags:
+- aaa-rated
 - debt-securities
+- infrastructure-finance
 - listing
 - private-placement
-- infrastructure-finance
-- AAA-rated
 title: Listing of new debt securities of India Infrastructure Finance Company Limited
 ---
 

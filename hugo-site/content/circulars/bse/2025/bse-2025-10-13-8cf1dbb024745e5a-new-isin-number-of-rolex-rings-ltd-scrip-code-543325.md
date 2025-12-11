@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ROLEXRINGS
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
+- equity
+- isin
+- split
 title: 'New ISIN Number of Rolex Rings Ltd (Scrip Code: 543325)'
 ---
 

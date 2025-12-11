@@ -32,11 +32,9 @@ stocks:
 - INDIGO
 - SMARTWORKS
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 5 Companies
 ---

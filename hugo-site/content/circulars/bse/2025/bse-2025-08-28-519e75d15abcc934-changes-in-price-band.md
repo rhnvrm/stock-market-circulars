@@ -33,10 +33,10 @@ stocks:
 - POONAWALLA
 - SJVN
 tags:
-- price-band
-- trading-parameters
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 16 Securities Effective August 29, 2025
 ---
 

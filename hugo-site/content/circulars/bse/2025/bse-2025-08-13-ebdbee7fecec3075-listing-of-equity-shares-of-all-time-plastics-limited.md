@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ALLTIMEP
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
-- anchor-investors
 - alternative-investment-fund
+- anchor-investor
+- equity
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of All Time Plastics Limited with Lock-in Details
 ---
 

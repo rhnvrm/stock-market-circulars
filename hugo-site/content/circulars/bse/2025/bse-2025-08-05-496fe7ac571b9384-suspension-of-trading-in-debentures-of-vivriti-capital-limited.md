@@ -26,13 +26,13 @@ source: bse
 stocks:
 - VIVRITI
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-segment
-- record-date
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of VIVRITI CAPITAL LIMITED
 ---
 

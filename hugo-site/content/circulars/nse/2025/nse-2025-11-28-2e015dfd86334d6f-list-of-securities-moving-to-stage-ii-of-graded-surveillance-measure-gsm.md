@@ -28,13 +28,11 @@ source: nse
 stocks:
 - LCCINFOTEC
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- trade-for-trade
 - additional-surveillance-deposit
+- asm-stage
 - price-band
-- stage-ii
+- surveillance
+- trade-for-trade
 title: List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)
 ---
 

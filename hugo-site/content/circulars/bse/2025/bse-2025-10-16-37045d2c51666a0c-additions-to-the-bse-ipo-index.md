@@ -24,15 +24,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544578'
-- '544580'
+- RUBICON
+- CRAMC
 tags:
-- index
-- bse-ipo-index
-- index-addition
-- new-listing
-- rubicon-research
+- bse-index
 - canara-robeco
+- index-change
+- index-fund
+- listing
+- rubicon-research
 title: Additions to the BSE IPO INDEX
 ---
 

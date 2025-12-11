@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- axis-mutual-fund
+- debt-scheme
+- gold-silver-fof
 - mutual-fund
 - nfo
-- axis-mutual-fund
-- gold-silver-fof
-- bse-star-mf
-- debt-scheme
 title: Launch of New Fund Offer of AXIS MUTUAL FUND on BSE StAR MF Platform
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BIPL
 tags:
+- bhanu-infrabuild
 - debt-securities
 - listing
+- ncd
 - private-placement
-- bhanu-infrabuild
-- debentures
 title: Listing of new debt securities of Bhanu Infrabuild Private Limited
 ---
 

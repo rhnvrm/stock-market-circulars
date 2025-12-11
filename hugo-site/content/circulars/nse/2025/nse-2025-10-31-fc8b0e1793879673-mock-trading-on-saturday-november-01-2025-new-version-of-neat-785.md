@@ -26,12 +26,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- neat-plus
-- software-upgrade
 - capital-market
-- testing
-- system-maintenance
+- mock-trading
+- system-update
+- trading-platform
 title: Mock Trading Session on November 01, 2025 - New NEAT+ Version 7.8.5 Release
 ---
 

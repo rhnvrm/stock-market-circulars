@@ -81,7 +81,7 @@ stocks:
 - NATIONAL
 - NECTAR
 - NILA
-- OMINFRA
+- OMINFRAL
 - ORIENTELEC
 - ORIENTTECH
 - PANABYTE
@@ -118,8 +118,8 @@ stocks:
 tags:
 - auction
 - demat
-- settlement
 - physical-delivery
+- settlement
 - trading-obligations
 title: Demat Auction - Settlement No. 766
 ---

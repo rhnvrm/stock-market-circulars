@@ -42,10 +42,10 @@ stocks:
 - BOBCARD
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- debt-market
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies (December 2025)
 ---
 

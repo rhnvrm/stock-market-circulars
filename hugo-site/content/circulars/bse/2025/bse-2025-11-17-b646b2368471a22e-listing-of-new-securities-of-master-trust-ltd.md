@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MASTERTRUST
+- MASTERTR
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Master Trust Ltd.
 ---
 

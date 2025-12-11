@@ -37,13 +37,13 @@ stocks:
 - WIPRO
 - NDTV
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- esop
-- further-issues
 - capital-market
+- conversion
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - Nine Companies
 ---
 

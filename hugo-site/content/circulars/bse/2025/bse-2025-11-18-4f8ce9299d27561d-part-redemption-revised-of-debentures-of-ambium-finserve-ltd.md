@@ -27,13 +27,12 @@ source: bse
 stocks:
 - AMBIUM
 tags:
-- debt
-- corporate-actions
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
 - ncd
+- redemption
 - revision
 title: Part Redemption (Revised) of Debentures of AMBIUM FINSERVE LTD - Reduced Face
   Value Effective November 20, 2025

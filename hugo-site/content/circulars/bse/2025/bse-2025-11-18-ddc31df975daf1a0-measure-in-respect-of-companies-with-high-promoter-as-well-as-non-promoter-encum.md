@@ -31,11 +31,10 @@ stocks:
 - NRAGRWAL
 tags:
 - encumbrance
-- surveillance
-- promoter-encumbrance
-- SAST-regulation
-- share-pledging
 - risk-framework
+- sast
+- share-pledging
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

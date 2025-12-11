@@ -38,14 +38,14 @@ stocks:
 - REGALENT
 - SABEVENTS
 - SVARNIM
-- TATAMOTORS
-- TCM
+- TMCV
+- TCMLMTD
 - VUENOW
 tags:
+- market-operations
 - price-band
-- trading-restrictions
 - surveillance
-- market-regulation
+- trading-restrictions
 - volatility-control
 title: Changes in Price Band for 15 Securities
 ---

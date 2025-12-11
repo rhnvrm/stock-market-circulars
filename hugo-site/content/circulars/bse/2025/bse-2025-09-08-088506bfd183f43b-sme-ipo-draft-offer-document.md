@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CENTURY-BUSINESS-MEDIA
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- century-business-media
+- sme
 title: SME IPO Draft Offer Document - Century Business Media Limited
 ---
 

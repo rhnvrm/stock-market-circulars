@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SARDAEN
 tags:
-- surveillance
-- margin-requirements
-- st-asm
+- asm-stage
+- margin
 - sarda-energy
-- additional-surveillance-measure
+- surveillance
 title: Short-Term Additional Surveillance Measure (ST-ASM) Implementation
 ---
 

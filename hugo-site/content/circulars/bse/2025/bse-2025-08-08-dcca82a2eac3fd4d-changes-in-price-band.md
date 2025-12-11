@@ -27,7 +27,7 @@ stocks:
 - AHASOLAR
 - APLAB
 - ARYAN
-- ASHIMA
+- ASHIMASYN
 - ATLAS
 - BEMCO
 - BERYL
@@ -117,10 +117,10 @@ stocks:
 - WS
 - WELSPUN
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 95 Securities Effective August 11, 2025
 ---
 

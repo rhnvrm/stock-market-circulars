@@ -27,13 +27,12 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
+- asm-stage
 - group-change
+- ipo
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
-- mt-group
-- m-group
-- ipo
 title: Change in Group of Equity Shares of LOGICIEL SOLUTIONS LIMITED
 ---
 

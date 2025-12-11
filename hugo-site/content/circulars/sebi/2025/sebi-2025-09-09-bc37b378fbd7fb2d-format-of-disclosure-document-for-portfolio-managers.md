@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- portfolio-managers
-- disclosure-document
+- apmi
 - compliance
+- disclosure-document
 - ease-of-business
-- APMI
+- portfolio-managers
 title: Format of Disclosure Document for Portfolio Managers
 ---
 

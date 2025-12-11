@@ -27,12 +27,12 @@ source: nse
 stocks:
 - SOLEX
 tags:
+- capital-market-segment
+- equity
 - listing
 - migration
 - sme-to-mainboard
-- equity-shares
 - solex-energy
-- capital-market-segment
 title: Listing of equity shares of Solex Energy Limited on Capital Market Segment
   (Main Board) pursuant to migration from SME Emerge platform
 ---

@@ -38,11 +38,11 @@ stocks:
 - YASHINNO
 - YUVRAAJ
 tags:
-- trade-to-trade
-- trading-segment
+- group-change
 - scrip-migration
 - surveillance
-- group-change
+- trade-to-trade
+- trading
 title: Revision of Scrips in Trade to Trade Segment
 ---
 

@@ -32,7 +32,6 @@ tags:
 - listing
 - ncd
 - private-placement
-- poonawalla-fincorp
 title: Listing of New Debt Securities of Poonawalla Fincorp Limited
 ---
 

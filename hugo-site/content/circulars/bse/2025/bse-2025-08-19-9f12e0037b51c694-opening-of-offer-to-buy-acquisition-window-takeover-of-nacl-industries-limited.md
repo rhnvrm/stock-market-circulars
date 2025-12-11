@@ -27,13 +27,10 @@ stocks:
 - NACL
 - COROMANDEL
 tags:
-- takeover
-- open-offer
-- acquisition
-- cash-offer
-- sebi-sast
-- coromandel-international
+- cash-segment
 - nacl-industries
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of NACL Industries
   Limited
 ---

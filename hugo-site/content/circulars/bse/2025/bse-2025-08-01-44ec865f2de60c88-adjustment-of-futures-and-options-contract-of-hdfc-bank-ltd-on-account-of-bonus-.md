@@ -26,12 +26,12 @@ source: bse
 stocks:
 - HDBK
 tags:
-- derivatives
-- futures
-- options
-- bonus-issue
-- corporate-action
 - adjustment
+- bonus
+- corporate-action
+- derivatives
+- futures-options
+- options
 title: Adjustment of Futures and Options contract of HDFC Bank Ltd on account of Bonus
   issue
 ---

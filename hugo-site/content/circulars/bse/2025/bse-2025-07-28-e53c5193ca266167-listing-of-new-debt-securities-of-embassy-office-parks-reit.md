@@ -25,12 +25,12 @@ source: bse
 stocks:
 - EMBASSY
 tags:
+- bond
 - debt-securities
-- listing
-- reit
 - embassy-office-parks
+- listing
 - private-placement
-- corporate-bonds
+- reit
 title: Listing of new debt securities of Embassy Office Parks REIT
 ---
 

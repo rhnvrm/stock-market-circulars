@@ -26,17 +26,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- debt-fund
+- arbitrage-fund
+- debt-securities
+- fund-of-funds
 - mahindra-manulife
-- fof
-- arbitrage
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- bse-star-mf
 title: Availability of MAHINDRA MANULIFE INCOME PLUS ARBITRAGE ACTIVE FOF for ongoing
   transactions on BSE StAR MF Platform
 ---

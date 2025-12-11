@@ -47,11 +47,11 @@ stocks:
 - UNIPRO
 - VANDAN
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-regulation
 title: Changes in Price Band for 22 Securities Effective November 19, 2025
 ---
 

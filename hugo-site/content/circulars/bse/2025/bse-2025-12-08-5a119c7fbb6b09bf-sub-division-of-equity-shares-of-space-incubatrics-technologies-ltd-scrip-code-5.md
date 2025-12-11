@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '541890'
+- SPACEINCUBA
 tags:
-- sub-division
-- stock-split
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-division of Equity Shares of Space Incubatrics Technologies Ltd (Scrip
   Code: 541890)'
 ---

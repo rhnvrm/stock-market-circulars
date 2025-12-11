@@ -27,12 +27,11 @@ source: bse
 stocks:
 - DMART
 tags:
-- commercial-paper
-- listing
-- debt-segment
-- private-placement
 - avenue-supermarts
-- dmart
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Avenue Supermarts Limited
 ---
 

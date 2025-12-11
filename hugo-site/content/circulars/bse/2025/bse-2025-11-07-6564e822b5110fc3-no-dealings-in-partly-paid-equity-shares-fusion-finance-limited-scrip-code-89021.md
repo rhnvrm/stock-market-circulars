@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- FUSIONFINANCE
+- FUSION
 tags:
-- trading-suspension
-- partly-paid-shares
-- record-date
 - call-money
-- equity-shares
-- corporate-actions
+- corporate-action
+- equity
+- partly-paid
+- record-date
+- suspension
 title: No Dealings in Partly Paid Equity Shares - Fusion Finance Limited
 ---
 

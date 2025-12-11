@@ -28,12 +28,11 @@ source: bse
 stocks:
 - RDBINFRA
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- RDB-Infrastructure
+- preferential-issue
 title: Listing of New Securities of RDB Infrastructure and Power Limited
 ---
 

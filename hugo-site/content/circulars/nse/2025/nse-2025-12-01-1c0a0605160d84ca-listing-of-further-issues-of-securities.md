@@ -39,11 +39,11 @@ stocks:
 - VIMTALABS
 - ENTERO
 tags:
-- listing
-- esop
-- equity-shares
 - capital-market
+- equity
+- esop
 - further-issue
+- listing
 title: Listing of Further Issues of Securities - 12 Companies including ABCAPITAL,
   ATHERENERG, AXISBANK
 ---

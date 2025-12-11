@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
+- debt-securities
 - member-exit
-- debt-segment
 - obpp-segment
+- surrender
 - trading-member
 title: Voluntary Closure of Business – Stable Broking Private Limited
 ---

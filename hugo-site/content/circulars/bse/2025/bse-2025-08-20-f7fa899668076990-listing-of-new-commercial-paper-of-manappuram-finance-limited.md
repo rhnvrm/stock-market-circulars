@@ -25,9 +25,8 @@ source: bse
 stocks:
 - MANAPPURAM
 tags:
-- debt-listing
 - commercial-paper
-- manappuram-finance
+- debt-securities
 - private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Manappuram Finance Limited

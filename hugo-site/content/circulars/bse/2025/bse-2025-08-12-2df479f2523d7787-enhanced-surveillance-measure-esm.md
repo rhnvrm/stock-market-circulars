@@ -40,11 +40,9 @@ stocks:
 - PARSHWA
 - VRWOOD
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- securities-listing
+- listing
 - risk-management
+- surveillance
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities List Changes
 ---
 

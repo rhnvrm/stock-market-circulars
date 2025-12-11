@@ -26,15 +26,13 @@ source: bse
 stocks:
 - HELLOJI
 tags:
-- listing
-- shareholding-pattern
+- equity
 - ipo
-- equity-shares
-- regulation-31
-- sebi-lodr
-- promoter-holding
-- public-shareholding
+- listing
 - locked-in-shares
+- lodr
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of HELLOJI HOLIDAYS LIMITED
 ---
 

@@ -31,11 +31,9 @@ stocks:
 - MAGNUS
 - MAHAINF
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trade-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   16, 2025
 ---

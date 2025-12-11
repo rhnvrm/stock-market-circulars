@@ -31,17 +31,17 @@ stocks:
 - GALLARD
 - LGTBUSCON
 - MARUTIINT
-- PHAARMASIA
+- PHRMASI
 - PRIMAIND
 - RRMETAL
 - SESHACHAL
 - SHLOKKA
 - SYSTEMATIX
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-operations
 title: Changes in Price Band for 13 Securities
 ---
 

@@ -24,12 +24,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- bse
 - defaulter
-- ISO
-- BSE
+- demand-notice
 - enforcement
-- remittance-advice
+- iso
+- recovery
 title: Remittance Advice against Usha Maurya (PAN:AIFPM3626B) - Defaulter in ISO at
   BSE under Recovery Certificate No. 8250 of 2024
 ---

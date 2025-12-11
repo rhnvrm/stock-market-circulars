@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- isin-change
+- isin
 - maturity-extension
 - setco-auto-systems
-- trading-update
+- trading
 title: Update Regarding Debt Securities of Setco Auto Systems Pvt. Ltd - Revised Terms
 ---
 

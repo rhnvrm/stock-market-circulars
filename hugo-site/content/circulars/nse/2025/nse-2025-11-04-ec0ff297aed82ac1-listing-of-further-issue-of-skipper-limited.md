@@ -28,11 +28,11 @@ source: nse
 stocks:
 - SKIPPER
 tags:
-- listing
-- equity-shares
-- further-issue
 - conversion
-- partly-paid-shares
+- equity
+- further-issue
+- listing
+- partly-paid
 - skipper-limited
 title: Listing of Further Issue of Skipper Limited - Conversion of Partly Paid-Up
   Shares

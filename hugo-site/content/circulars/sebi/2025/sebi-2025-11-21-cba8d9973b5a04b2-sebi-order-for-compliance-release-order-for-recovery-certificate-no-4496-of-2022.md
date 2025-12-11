@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- release-order
-- enforcement
 - compliance
-- penalty-recovery
-- sms-techsoft
+- enforcement
+- penalty
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 4496 of 2022 against Pruthvi
   Prafulbhai Shah in SMS Techsoft (India) Ltd. Matter
 ---

@@ -28,13 +28,10 @@ stocks:
 - INNOVANA
 - ORTINGLOBE
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
-- INNOVANA
-- ORTINGLOBE
 title: Enhanced Surveillance Measure (ESM) Updates - Securities Added to ESM Stage
   I
 ---

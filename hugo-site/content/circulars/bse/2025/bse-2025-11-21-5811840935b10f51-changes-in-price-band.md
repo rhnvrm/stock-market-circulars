@@ -60,10 +60,10 @@ stocks:
 - VIJI
 - WOMEN
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 35 Securities
 ---
 

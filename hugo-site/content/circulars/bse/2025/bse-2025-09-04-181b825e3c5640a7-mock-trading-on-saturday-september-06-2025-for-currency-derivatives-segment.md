@@ -25,10 +25,8 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- currency-derivatives
-- testing
-- bolt-pro
 - trading-platform
 title: Mock Trading Session for Currency Derivatives - September 06, 2025
 ---

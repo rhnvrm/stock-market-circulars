@@ -28,12 +28,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- egr-segment
-- settlement-schedule
-- trading-programme
 - auction-schedule
-- electronic-gold-receipts
+- egr
+- settlement
 - settlement-calendar
+- trading-operations
 title: Trading and Settlement Programme for EGR Segment for the Period from 03.11.2025
   to 28.11.2025
 ---

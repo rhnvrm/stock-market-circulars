@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MAPLE
 tags:
-- listing
-- preferential-allotment
 - infrastructure-trust
+- listing
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Maple Infrastructure Trust
 ---
 

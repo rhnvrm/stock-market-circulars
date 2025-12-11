@@ -27,11 +27,9 @@ source: bse
 stocks:
 - SMCGLOBAL
 tags:
-- listing
-- debentures
-- ncd
 - debt-securities
-- smc-global-securities
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of SMC Global Securities
   Limited
 ---

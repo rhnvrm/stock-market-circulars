@@ -27,11 +27,11 @@ source: bse
 stocks:
 - WEWORK
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
+- listing
 - lock-in
-- anchor-investors
-- equity-shares
 - wework-india
 title: Listing of Equity Shares of WeWork India Management Limited
 ---

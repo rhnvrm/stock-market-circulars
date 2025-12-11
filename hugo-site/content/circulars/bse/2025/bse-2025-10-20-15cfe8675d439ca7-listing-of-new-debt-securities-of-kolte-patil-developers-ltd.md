@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- kolte-patil
 title: Listing of New Debt Securities of Kolte-Patil Developers Ltd
 ---
 

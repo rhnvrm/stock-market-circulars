@@ -26,10 +26,10 @@ source: nse
 stocks:
 - MOS
 tags:
-- isin-change
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
+- split
 title: Change in ISIN - Mos Utility Limited (MOS) due to Sub-Division
 ---
 

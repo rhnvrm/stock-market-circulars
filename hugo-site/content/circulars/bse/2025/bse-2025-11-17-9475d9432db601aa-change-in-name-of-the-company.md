@@ -26,10 +26,10 @@ source: bse
 stocks:
 - VUENOW
 tags:
-- name-change
+- certificate
 - corporate-action
-- certificate-of-incorporation
 - ikoma-technologies
+- name-change
 - vuenow-infratech
 title: Change in Name from VUENOW INFRATECH LIMITED to IKOMA TECHNOLOGIES LIMITED
 ---

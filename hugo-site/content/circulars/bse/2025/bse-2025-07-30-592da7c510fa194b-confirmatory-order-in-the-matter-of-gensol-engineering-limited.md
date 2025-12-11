@@ -27,13 +27,13 @@ source: bse
 stocks:
 - GENSOL
 tags:
-- sebi-order
 - corporate-governance
-- rating-downgrade
 - debt-servicing
 - falsified-documents
 - interim-order
-- regulatory-action
+- rating-downgrade
+- regulatory
+- sebi-order
 title: SEBI Confirmatory Order Against Gensol Engineering Limited for Corporate Governance
   Violations
 ---

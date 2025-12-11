@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - ESTEEMBIO
 tags:
-- attachment-notice
-- defaulter
-- recovery-certificate
+- attachment
 - bank-accounts
-- demat-accounts
+- defaulter
+- demat
 - enforcement
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Ram Prakash
   & Khan Enterprise
 ---

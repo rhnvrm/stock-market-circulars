@@ -28,14 +28,13 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- bse-star-mf
-- wealth-company
-- scheme-reopening
+- redemption
+- reopening
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
+- wealth-company
 title: Availability of THE WEALTH COMPANY MUTUAL FUND Schemes for Ongoing Transactions
   on BSE StAR MF Platform
 ---

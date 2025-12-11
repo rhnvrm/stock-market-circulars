@@ -27,7 +27,7 @@ stocks:
 - SBICAP
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - sbicap-securities
 - short-term-debt

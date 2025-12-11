@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription
-- silver
+- fund-of-funds
+- mutual-fund
 - sbi
-- fund-of-fund
+- silver
+- subscription
 - temporary-suspension
 title: Temporary Suspension of Subscription in SBI Silver ETF Fund of Fund
 ---

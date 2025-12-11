@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
+- index-fund
+- manufacturing
 - mutual-fund
 - nfo
-- equity
-- manufacturing
-- index-fund
 - nippon-india
 title: Launch of Nippon India Nifty India Manufacturing Index Fund NFO on NSE MF Invest
   Platform

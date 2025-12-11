@@ -26,12 +26,12 @@ source: nse
 stocks:
 - CLOUD
 tags:
-- trading-restrictions
-- weekly-trading
 - compliance
 - shareholding-pattern
-- trade-for-trade
 - suspension-lift
+- trade-for-trade
+- trading-restrictions
+- trading-session
 title: Discontinuation of weekly trading in Varanium Cloud Limited securities
 ---
 

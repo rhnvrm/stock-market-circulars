@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- approved-banks
-- commodity-derivatives
-- nse-clearing
-- collateral
 - banking
+- collateral
+- derivatives
+- empanelment
+- nse-clearing
 title: Revision in List of Approved Banks
 ---
 

@@ -31,12 +31,12 @@ stocks:
 - NMDC
 - KFINTECH
 tags:
-- slbs
-- position-limits
-- trading
-- etf
+- collateral
 - equity
-- securities-lending
+- etf
+- position-limits
+- slbs
+- trading
 title: Market Wide Position Limits for stocks traded under SLBS – August 2025
 ---
 

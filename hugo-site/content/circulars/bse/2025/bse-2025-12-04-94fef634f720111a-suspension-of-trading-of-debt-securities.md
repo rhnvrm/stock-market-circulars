@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- suspension
 - delisting
-- corporate-actions
+- suspension
 - trading-halt
 title: Suspension of Trading of Debt Securities - Nine Securities Delisted
 ---

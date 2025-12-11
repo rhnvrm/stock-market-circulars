@@ -26,12 +26,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- gobid
-- password-reset
-- security
 - cyber-security
-- primary-market
+- gobid
 - mandatory-action
+- password-reset
+- primary-market
+- security
 - system-security
 title: Password Encryption for GOBID Platform - Mandatory Password Reset
 ---

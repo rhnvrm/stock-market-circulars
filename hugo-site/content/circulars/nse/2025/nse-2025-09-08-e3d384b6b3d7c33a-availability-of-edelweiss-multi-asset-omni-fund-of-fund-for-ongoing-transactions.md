@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - edelweiss
-- fund-reopening
+- equity
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- equity-fund
 title: Availability of Edelweiss Multi Asset Omni Fund of Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

@@ -26,10 +26,10 @@ source: nse
 stocks:
 - HILINFRA
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- capital-market
 - trading
 title: Listing of Equity Shares of Highway Infrastructure Limited (IPO)
 ---

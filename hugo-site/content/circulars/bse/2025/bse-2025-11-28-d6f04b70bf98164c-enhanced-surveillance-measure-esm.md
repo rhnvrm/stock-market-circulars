@@ -28,7 +28,7 @@ source: bse
 stocks:
 - CYBELE
 - MANOMAY
-- PHAARMASIA
+- PHRMASI
 - REGAL
 - VENUS
 - ALANSCOTT
@@ -74,11 +74,9 @@ stocks:
 - TRILIANCE
 - UHZAVERI
 tags:
-- esm
-- enhanced-surveillance
-- market-surveillance
-- trading-restrictions
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective December
   1, 2025
 ---

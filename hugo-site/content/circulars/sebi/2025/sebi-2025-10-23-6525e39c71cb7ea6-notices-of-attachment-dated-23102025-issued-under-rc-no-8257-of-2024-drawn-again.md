@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - attachment
-- iso
-- bse
 - bank-accounts
-- demat-accounts
+- bse
+- demat
+- enforcement
+- iso
+- recovery
 title: Notice(s) of Attachment dated 23.10.2025 - RC No. 8257 of 2024 against VS Shah
   in ISO matter at BSE
 ---

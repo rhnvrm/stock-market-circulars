@@ -28,13 +28,12 @@ source: nse
 stocks:
 - BEML
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- sub-division
-- settlement
-- beml
+- early-pay-in
+- face-value-change
 - margin-exemption
+- settlement
+- split
 title: Early Pay-in of Securities for BEML Limited (BEML) - Face Value Split
 ---
 

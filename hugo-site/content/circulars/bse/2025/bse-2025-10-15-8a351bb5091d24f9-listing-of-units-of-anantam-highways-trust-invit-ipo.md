@@ -28,11 +28,11 @@ source: bse
 stocks:
 - ANANTAM
 tags:
+- anantam-highways-trust
+- infrastructure
 - invit
 - ipo
 - listing
-- infrastructure
-- anantam-highways-trust
 title: Listing of Units of Anantam Highways Trust (InvIT - IPO)
 ---
 

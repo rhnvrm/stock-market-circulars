@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DESHRAK
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
 - lock-in
-- non-promoters
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Desh Rakshak Aushdhalaya Ltd.
 ---
 

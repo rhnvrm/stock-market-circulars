@@ -27,14 +27,12 @@ source: bse
 stocks:
 - DSKULKARNI
 tags:
-- offer-for-sale
-- ofs
+- book-building
 - equity
+- institutional-investor
+- ofs
+- retail-investor
 - trading
-- ds-kulkarni-developers
-- retail-investors
-- institutional-investors
-- bidding-schedule
 title: Opening of Offer for Sale for DS Kulkarni Developers Ltd - Live Activities
   Schedule
 ---

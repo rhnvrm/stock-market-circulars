@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TVSMOTOR
 tags:
-- bonus-issue
+- bonus
+- non-convertible
 - preference-shares
 - scheme-arrangement
-- tvs-motor
-- non-convertible
 title: 'Scheme of Arrangement - Bonus Issue of Non Convertible Preference Shares by
   TVS Motor Company Ltd. (Scrip Code: 532343 & 132343)'
 ---

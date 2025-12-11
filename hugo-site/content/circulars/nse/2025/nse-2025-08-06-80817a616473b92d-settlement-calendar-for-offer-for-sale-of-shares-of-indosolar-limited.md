@@ -24,13 +24,13 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT69536.pdf
 severity: medium
 source: nse
 stocks:
-- INDOSOLAR
+- WAAREEINDO-BE
 tags:
-- offer-for-sale
-- settlement-calendar
-- indosolar
-- clearing
 - capital-market
+- clearing
+- indosolar
+- ofs
+- settlement-calendar
 title: Settlement Calendar for Offer for Sale of shares of Indosolar Limited
 ---
 

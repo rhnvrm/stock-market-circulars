@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
+- bse
+- certificate-proceedings
 - defaulter
 - enforcement
-- bse
+- ipo
 - iso
-- initial-public-offering
-- certificate-proceedings
+- recovery
 title: 'Release Order – AMREEN SUKHYANI [Defaulter] (PAN: ATUPS9251J) in the matter
   of ISO at BSE'
 ---

@@ -27,12 +27,10 @@ source: nse
 stocks:
 - TRUST
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirement
+- margin
+- market-operations
 - surveillance
-- market-regulation
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM) - Trust Fintech Limited
   Added to Stage I
 ---

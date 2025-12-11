@@ -26,11 +26,9 @@ source: bse
 stocks:
 - INOXWIND
 tags:
-- rights-entitlements
+- renunciation
 - rights-issue
 - trading
-- inox-wind
-- renunciation
 title: Rights Entitlements Trading for INOX WIND LIMITED
 ---
 

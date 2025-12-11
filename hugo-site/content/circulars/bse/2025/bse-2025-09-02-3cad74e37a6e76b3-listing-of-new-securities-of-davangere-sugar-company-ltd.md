@@ -26,10 +26,9 @@ source: bse
 stocks:
 - DAVANGERE
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- DAVANGERE
 title: Listing of new securities of Davangere Sugar Company Ltd
 ---
 

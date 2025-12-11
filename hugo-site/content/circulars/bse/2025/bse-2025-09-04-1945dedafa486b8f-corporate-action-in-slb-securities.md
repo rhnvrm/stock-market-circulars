@@ -47,12 +47,12 @@ stocks:
 - HITECHPIP
 - TECHNO
 tags:
-- corporate-actions
-- dividends
-- share-buyback
-- record-dates
+- buyback
+- corporate-action
+- dividend
 - ex-dates
-- slb-securities
+- record-date
+- slb
 title: Corporate Actions in SLB Securities - Multiple Companies Dividend and Buyback
   Updates
 ---

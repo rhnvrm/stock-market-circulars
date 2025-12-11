@@ -28,7 +28,7 @@ stocks:
 - ABANSFS
 - ABCAPITAL
 - ANGELONE
-- ATHERENERGY
+- ATHERENERG
 - AVALON
 - CSFB
 - GODIGIT
@@ -39,9 +39,7 @@ stocks:
 - VIPIND
 tags:
 - esop
-- esos
-- employee-stock-options
-- new-listing
+- listing
 - securities
 - trading
 title: Listing of Further Securities Under ESOP/ESOS Schemes - 13 Companies

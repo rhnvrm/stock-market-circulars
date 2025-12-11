@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MCSL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
 - muthoot-capital
+- ncd
+- redemption
 title: Part Redemption of Debentures of MUTHOOT CAPITAL SERVICES LTD
 ---
 

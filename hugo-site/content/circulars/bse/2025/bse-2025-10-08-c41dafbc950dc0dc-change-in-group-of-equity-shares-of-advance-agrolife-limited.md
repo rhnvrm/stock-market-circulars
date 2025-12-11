@@ -26,15 +26,14 @@ severity: medium
 source: bse
 stocks:
 - ADVANIHOTR
+- ADVANCE
 tags:
-- group-change
-- trading-segment
-- t-group
-- b-group
-- rolling-settlement
-- trade-for-trade
 - advance-agrolife
-- '544562'
+- asm-stage
+- group-change
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of ADVANCE AGROLIFE LIMITED - Transfer from
   T Group to B Group
 ---

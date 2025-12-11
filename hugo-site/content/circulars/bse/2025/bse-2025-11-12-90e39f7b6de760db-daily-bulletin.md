@@ -32,13 +32,13 @@ stocks:
 - GABRIELIND
 tags:
 - book-closure
-- record-date
-- dividend
-- corporate-actions
-- redemption
 - commercial-paper
-- ncd
+- corporate-action
+- dividend
 - invit
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

@@ -28,11 +28,11 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
-- preferential-allotment
-- promoter-funding
-- equity-listing
 - capital-raising
+- equity
 - lock-in
+- preferential-issue
+- promoter-funding
 title: Listing of New Securities of Poonawalla Fincorp Limited - Preferential Allotment
 ---
 

@@ -27,10 +27,10 @@ source: nse
 stocks:
 - MOS
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - capital-market
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of MOS Utility Limited
 ---
 

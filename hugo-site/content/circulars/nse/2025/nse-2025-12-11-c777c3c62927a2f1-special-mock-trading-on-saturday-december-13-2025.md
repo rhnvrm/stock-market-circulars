@@ -26,13 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- capital-market
-- business-continuity
-- interoperable-segment
 - bse-exclusive-securities
+- capital-market
 - disaster-recovery
-- testing
+- interoperable-segment
+- mock-trading
 title: Special Mock Trading on Saturday, December 13, 2025
 ---
 

@@ -27,11 +27,10 @@ stocks:
 - VLSFINANCE
 tags:
 - buyback
-- tender-offer
-- record-date
 - corporate-action
-- equity-shares
-- vls-finance
+- equity
+- record-date
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of VLS Finance Limited
 ---
 

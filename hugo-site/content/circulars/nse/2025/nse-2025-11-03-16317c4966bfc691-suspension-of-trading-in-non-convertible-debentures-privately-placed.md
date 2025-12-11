@@ -27,13 +27,11 @@ stocks:
 - MUTHOOTFIN
 - IDFCFIRSTB
 tags:
-- non-convertible-debentures
+- debt-securities
 - ncd
-- suspension
-- redemption
-- debt-market
-- trading-suspension
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

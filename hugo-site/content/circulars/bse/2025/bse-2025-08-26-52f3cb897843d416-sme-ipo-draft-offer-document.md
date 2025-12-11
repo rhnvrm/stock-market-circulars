@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NARMADESH
 tags:
-- sme
+- draft-document
 - ipo
-- draft-offer-document
 - public-comments
-- narmadesh-brass-industries
+- sme
 title: SME IPO - Draft Offer Document - Narmadesh Brass Industries Limited
 ---
 

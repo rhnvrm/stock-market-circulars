@@ -26,12 +26,11 @@ source: bse
 stocks:
 - FABTECH
 tags:
-- group-change
-- trading-segment
-- trade-for-trade
-- rolling-segment
 - fabtech-technologies
-- '544558'
+- group-change
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Fabtech Technologies Limited
 ---
 

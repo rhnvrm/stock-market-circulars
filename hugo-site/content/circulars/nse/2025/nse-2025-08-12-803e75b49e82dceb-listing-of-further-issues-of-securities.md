@@ -31,7 +31,7 @@ stocks:
 - HIRECT
 - ICICIBANK
 - MONARCHNET
-- NIIT
+- NIITLTD
 - ONEPOINT
 - SUDARSHAN
 - SUZLON
@@ -40,10 +40,10 @@ stocks:
 - HTMEDIA
 - VALIANTLAB
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 - trading
 title: Listing of Further Securities Issues for 15 Companies Including ICICI Bank,
   Wipro, Yes Bank

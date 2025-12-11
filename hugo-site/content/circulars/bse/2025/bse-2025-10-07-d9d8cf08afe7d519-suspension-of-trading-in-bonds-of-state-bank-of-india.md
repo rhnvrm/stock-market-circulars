@@ -26,13 +26,13 @@ source: bse
 stocks:
 - SBIN
 tags:
-- bonds
-- debt
-- trading-suspension
-- redemption
+- bond
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- SBI
+- redemption
+- sbi
+- suspension
 title: Suspension of Trading in Bonds of State Bank of India
 ---
 

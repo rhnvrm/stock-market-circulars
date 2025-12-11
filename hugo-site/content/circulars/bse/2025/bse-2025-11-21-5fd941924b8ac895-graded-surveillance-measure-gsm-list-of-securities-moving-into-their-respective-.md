@@ -30,10 +30,9 @@ stocks:
 - PASUPTFIN
 - SHAHFOODS
 tags:
-- gsm
+- asm-stage
 - surveillance
 - trading-restrictions
-- stage-movement
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher Stages
 ---
 

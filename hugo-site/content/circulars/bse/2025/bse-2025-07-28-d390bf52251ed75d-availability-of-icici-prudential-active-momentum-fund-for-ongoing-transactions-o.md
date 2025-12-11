@@ -24,10 +24,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
+- equity
 - icici-prudential
-- equity-fund
+- mutual-fund
 - reopening
 - sip
 - stp

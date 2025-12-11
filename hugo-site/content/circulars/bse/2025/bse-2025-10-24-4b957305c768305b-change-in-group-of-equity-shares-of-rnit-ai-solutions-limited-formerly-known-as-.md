@@ -26,12 +26,12 @@ source: bse
 stocks:
 - RNIT
 tags:
-- group-change
-- equity-shares
-- group-x
-- trading-segment
-- rnit-ai-solutions
 - autopal-industries
+- equity
+- group-change
+- group-x
+- rnit-ai-solutions
+- trading
 title: Change in Group of Equity Shares of RNIT AI Solutions Limited
 ---
 

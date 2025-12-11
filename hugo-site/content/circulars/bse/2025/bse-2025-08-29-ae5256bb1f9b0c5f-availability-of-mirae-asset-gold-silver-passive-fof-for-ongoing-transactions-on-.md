@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fof
+- fund-of-funds
 - gold
-- silver
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
+- silver
 - sip
 - stp
+- subscription
 - swp
 title: MIRAE ASSET GOLD SILVER PASSIVE FOF Available for Ongoing Transactions on BSE
   StAR MF Platform

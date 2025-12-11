@@ -24,18 +24,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544467'
-- '544469'
-- '544470'
-- '544468'
-- '544471'
-- '544472'
+- NSDL
+- LOTUSDEV
+- MBEL
+- BDI
+- TAKYON
+- MEHUL
 tags:
-- index-additions
+- addition
 - ipo
-- sme
 - listing
 - market-operations
+- sme
 title: Additions to the BSE Indices - Six Companies Added to BSE IPO and SME IPO Indices
 ---
 

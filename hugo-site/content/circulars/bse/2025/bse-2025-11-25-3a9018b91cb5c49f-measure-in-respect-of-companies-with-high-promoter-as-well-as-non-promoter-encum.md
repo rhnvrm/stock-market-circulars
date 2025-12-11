@@ -28,12 +28,11 @@ source: bse
 stocks:
 - BEDMUTHA
 tags:
+- compliance
 - encumbrance
+- sast
+- shareholding-pattern
 - surveillance
-- promoter-holdings
-- SEBI-SAST
-- regulatory-compliance
-- market-surveillance
 title: High Promoter and Non-Promoter Encumbrance Measures - November 2025
 ---
 

@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- investment-advisory
-- unregistered-activities
+- enforcement
+- investment-adviser
 - market-anand
-- recovery-proceedings
+- recovery
+- unregistered-activities
 title: Notice of Attachment dated November 13, 2025 in RC no 8897 of 2025 against
   Pankaj Kumar Shukla
 ---

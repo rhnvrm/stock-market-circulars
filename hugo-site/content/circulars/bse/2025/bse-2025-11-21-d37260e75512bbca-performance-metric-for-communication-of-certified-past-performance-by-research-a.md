@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- research-analysts
-- performance-metrics
-- sebi-circular
 - certification
+- disclosure
 - icai
 - icmai
 - past-performance
-- disclosure-requirements
+- performance-metrics
+- research-analyst
+- sebi
 title: Performance Metric for Communication of Certified Past Performance by Research
   Analysts to Clients
 ---

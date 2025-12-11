@@ -27,10 +27,10 @@ source: bse
 stocks:
 - TENNECO
 tags:
-- public-issue
-- anchor-investors
+- anchor-investor
 - ipo
 - listing
+- public-issue
 - tenneco-clean-air
 title: Public Issue of TENNECO CLEAN AIR INDIA LIMITED - Allocation to Anchor Investors
 ---

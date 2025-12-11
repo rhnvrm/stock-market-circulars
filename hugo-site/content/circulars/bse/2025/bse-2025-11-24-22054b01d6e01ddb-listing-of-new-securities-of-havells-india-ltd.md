@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HAVELLS
 tags:
-- listing
-- equity-shares
 - employee-stock-purchase-scheme
+- equity
 - esps
 - havells-india
+- listing
 - lock-in
 title: Listing of New Securities of Havells India Ltd - ESPS 2022 and 2016
 ---

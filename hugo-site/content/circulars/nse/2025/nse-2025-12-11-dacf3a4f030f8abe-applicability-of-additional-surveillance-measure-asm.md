@@ -26,12 +26,9 @@ source: nse
 stocks:
 - ALPSINDUS
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirements
-- long-term-asm
-- alps-industries
 title: Applicability of Additional Surveillance Measure (ASM) - Alps Industries Limited
 ---
 

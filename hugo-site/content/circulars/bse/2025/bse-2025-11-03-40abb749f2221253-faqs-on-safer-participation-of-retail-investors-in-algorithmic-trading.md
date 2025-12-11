@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
 - algo-providers
-- research-analysts
-- empanelment
+- algo-trading
 - black-box-algos
-- trading-infrastructure
+- empanelment
 - faq
+- market-infrastructure
+- research-analyst
+- retail-investor
 title: FAQs on Safer Participation of Retail Investors in Algorithmic Trading
 ---
 

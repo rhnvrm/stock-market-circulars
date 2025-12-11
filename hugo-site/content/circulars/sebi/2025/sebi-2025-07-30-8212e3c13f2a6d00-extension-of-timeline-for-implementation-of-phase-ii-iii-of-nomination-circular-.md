@@ -25,10 +25,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- depository
+- extension
+- mutual-fund
 - nomination
-- timeline-extension
-- mutual-funds
-- depositories
 - phase-implementation
 title: Extension of timeline for implementation of Phase II & III of Nomination Circular
 ---

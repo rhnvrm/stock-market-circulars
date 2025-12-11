@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - extension
 - motilal-oswal
-- nse-mf-invest
+- mutual-fund
+- nfo
 - sip
+- trading-platform
 - xsip
 title: Extension of Motilal Oswal Consumption Fund NFO on NSE MF Invest Platform
 ---

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MUTHOOTMF
 tags:
+- crisil-rating
 - debt-securities
 - listing
-- private-placement
 - muthoot-microfin
-- debentures
-- crisil-rating
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoot Microfin Limited
 ---
 

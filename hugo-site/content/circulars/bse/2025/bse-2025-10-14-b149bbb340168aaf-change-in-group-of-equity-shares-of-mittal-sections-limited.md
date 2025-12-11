@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MITTAL
 tags:
+- asm-stage
 - group-change
+- mittal-sections
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
-- mittal-sections
 title: Change in Group of Equity Shares of MITTAL SECTIONS LIMITED
 ---
 

@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-proceedings
-- enforcement
 - compliance
-- recovery-certificate
-- release-order
-- SMS-Techsoft
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 2786 of 2020 - SMS Techsoft
   (India) Ltd. and Others
 ---

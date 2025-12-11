@@ -27,12 +27,10 @@ source: nse
 stocks:
 - ATCENERGY
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
 - trading-restrictions
-- ATCENERGY
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - PATELEG
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
 - patel-engineering
+- renunciation
+- rights-issue
 - trade-for-trade
-- demat-only
 title: Rights Entitlements Trading for Patel Engineering Limited
 ---
 

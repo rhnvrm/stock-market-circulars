@@ -27,16 +27,14 @@ source: bse
 stocks:
 - MODERNINSUL
 tags:
-- demerger
-- scheme-of-arrangement
-- nclt-approval
-- modern-insulators
-- modern-polytex
-- yarn-division
-- group-change
-- xt-group
-- special-pre-open-session
+- asm-stage
+- call-money
 - corporate-action
+- group-change
+- modern-polytex
+- nclt
+- scheme-of-arrangement
+- yarn-division
 title: Scheme of Arrangement (Demerger) of Modern Insulators Ltd - Yarn Division to
   Modern Polytex Limited
 ---

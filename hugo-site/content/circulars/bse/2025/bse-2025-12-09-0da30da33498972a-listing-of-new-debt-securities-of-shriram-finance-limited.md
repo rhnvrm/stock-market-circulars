@@ -30,9 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- shriram-finance
+- ncd
 - private-placement
-- debentures
 title: Listing of New Debt Securities of Shriram Finance Limited
 ---
 

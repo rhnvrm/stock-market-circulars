@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl
-- investor-refund
-- appellate-authority
+- appeal
 - information-access
+- investor-refund
+- rti
 title: Appeal No. 6479 of 2025 - RTI Appeal by Rashmi Varshney Regarding PACL Refund
   Status
 ---

@@ -28,14 +28,14 @@ source: bse
 stocks:
 - VERITAS
 tags:
-- debt-market
-- debentures
-- part-redemption
-- interest-payment
 - corporate-action
-- veritas-finance
-- record-date
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
+- veritas-finance
 title: Part Redemption of Debentures of VERITAS FINANCE LIMITED
 ---
 

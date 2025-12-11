@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sip
+- cancellation
+- minimum-investment
 - mutual-fund
 - navi-mutual-fund
-- minimum-investment
-- cancellation
+- sip
 title: Discontinuation of SIPs with Instalment amount less than Rs.100 in Navi Mutual
   Fund Schemes on NSE MF Invest Platform
 ---

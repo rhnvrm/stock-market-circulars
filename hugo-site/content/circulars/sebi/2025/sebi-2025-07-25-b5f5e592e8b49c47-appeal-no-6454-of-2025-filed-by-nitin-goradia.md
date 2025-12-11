@@ -25,13 +25,13 @@ source: sebi
 stocks:
 - MAHB
 tags:
-- rti-appeal
-- information-disclosure
+- appeal
 - bank-of-maharashtra
-- scores-complaints
-- fiduciary-capacity
 - commercial-confidentiality
-- appellate-authority
+- fiduciary-capacity
+- information-disclosure
+- rti
+- scores-complaints
 title: RTI Appeal Dismissed - Bank of Maharashtra Complaint Information Request Denied
 ---
 

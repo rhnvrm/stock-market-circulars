@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - BRIJLEASE
 tags:
-- recovery-certificate
-- release-order
-- enforcement
 - brijlaxmi-leasing
-- debt-recovery
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 4757 of 2022 - Jaykishor Chaturvedi
   in Brijlaxmi Leasing Case
 ---

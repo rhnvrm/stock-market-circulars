@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- listing
-- debt-securities
-- privately-placed
-- oriental-infratrust
+- bond
 - capital-market-segment
-- bonds
+- debt-securities
+- listing
+- oriental-infratrust
+- privately-placed
 title: Listing of Privately Placed Securities - Oriental InfraTrust Debt Securities
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - INDIACEM
 tags:
-- offer-for-sale
-- eofs-platform
+- book-building
+- equity
+- ofs
 - trading
-- equity-shares
-- bidding
+- trading-platform
 title: Proposed Offer for Sale of The India Cements Limited
 ---
 

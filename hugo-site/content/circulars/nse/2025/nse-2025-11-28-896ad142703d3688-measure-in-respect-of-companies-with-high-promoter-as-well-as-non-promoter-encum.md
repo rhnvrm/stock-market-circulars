@@ -30,12 +30,11 @@ stocks:
 - BEDMUTHA
 - BLKASHYAP
 tags:
-- surveillance
-- margin-requirements
 - encumbrance
-- sebi-sast
-- promoter-pledge
+- margin
 - risk-management
+- sast
+- surveillance
 title: Measure in respect of companies with high Promoter and non-Promoter Encumbrance
 ---
 

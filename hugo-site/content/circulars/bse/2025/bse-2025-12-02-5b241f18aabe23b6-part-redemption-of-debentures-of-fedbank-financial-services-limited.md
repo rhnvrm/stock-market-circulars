@@ -27,13 +27,13 @@ source: bse
 stocks:
 - FEDBANK
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - corporate-action
 - debt-securities
-- record-date
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of FEDBANK FINANCIAL SERVICES LIMITED
 ---
 

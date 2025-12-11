@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-directions
-- investment-adviser
 - account-unfreeze
-- debarment
 - compliance
+- debarment
+- investment-adviser
+- sebi-order
 title: SEBI Lifts Debarment on Cypress Money Investment Adviser and Associates
 ---
 

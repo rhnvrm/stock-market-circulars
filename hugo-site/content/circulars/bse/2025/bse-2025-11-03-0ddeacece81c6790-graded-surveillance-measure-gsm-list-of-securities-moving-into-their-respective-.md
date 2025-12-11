@@ -34,10 +34,9 @@ stocks:
 - GRAVITY
 - SPACE
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-safety
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

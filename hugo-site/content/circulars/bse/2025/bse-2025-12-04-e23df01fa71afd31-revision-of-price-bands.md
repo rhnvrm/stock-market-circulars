@@ -70,11 +70,11 @@ stocks:
 - TITANIN
 - SOMATEX
 - SRMENERGY
-- TRITONCORP
+- TRITON
 - FUTENT
 - KKALPANA
 - GUJRAFFIA
-- IEL
+- INDXTRA
 - JAINCO
 - SHIKHAR
 - TFCM
@@ -96,11 +96,11 @@ stocks:
 - ESAARIN
 - AMITSEC
 tags:
-- price-band
 - circuit-filter
-- trading-restrictions
 - market-operations
+- price-band
 - surveillance
+- trading-restrictions
 title: Revision of Price Bands - Circuit Filter Adjusted to 2% for 71 Securities
 ---
 

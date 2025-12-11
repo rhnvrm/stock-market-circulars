@@ -26,9 +26,9 @@ source: bse
 stocks:
 - MEIL
 tags:
+- company-related
+- equity
 - listing
-- equity-shares
-- new-company
 - trading
 title: Listing of Equity Shares of MANGAL ELECTRICAL INDUSTRIES LIMITED
 ---

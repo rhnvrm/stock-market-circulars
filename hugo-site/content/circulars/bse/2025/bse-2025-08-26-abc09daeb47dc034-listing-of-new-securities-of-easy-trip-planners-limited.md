@@ -27,11 +27,11 @@ source: bse
 stocks:
 - EASEMYTRIP
 tags:
-- listing
-- preferential-allotment
-- equity-shares
-- lock-in
 - easy-trip-planners
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Easy Trip Planners Limited - Preferential Issue
 ---
 

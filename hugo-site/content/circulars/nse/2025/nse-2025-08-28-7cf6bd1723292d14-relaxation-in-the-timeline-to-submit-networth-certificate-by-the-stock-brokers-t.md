@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- margin-trading
-- networth-certificate
+- certificate
 - compliance
-- timeline-extension
-- stock-brokers
+- extension
+- margin
+- stock-broker
 title: Relaxation in Timeline to Submit Networth Certificate by Stock Brokers for
   Margin Trading Facility
 ---

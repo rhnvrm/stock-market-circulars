@@ -27,12 +27,11 @@ source: nse
 stocks:
 - HEROFINCORP
 tags:
-- listing
-- debt-securities
-- debentures
-- private-placement
-- hero-fincorp
 - capital-market-segment
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Hero FinCorp Limited 7.80% 2027 Sr 75 Debentures on Capital Market
   Segment
 ---

@@ -63,10 +63,10 @@ stocks:
 - VANTABIO
 - VIJIFIN
 tags:
-- price-band
-- surveillance-measure
-- trading-restrictions
+- asm-stage
 - equity
+- price-band
+- trading-restrictions
 title: Changes in Price Band for 36 Securities Effective November 10, 2025
 ---
 

@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- db-international
+- irf-segment
 - membership
 - surrender
 - trading-member
-- irf-segment
-- db-international
 title: Segmental Surrender of Membership - DB (International) Stock Brokers Ltd.
 ---
 

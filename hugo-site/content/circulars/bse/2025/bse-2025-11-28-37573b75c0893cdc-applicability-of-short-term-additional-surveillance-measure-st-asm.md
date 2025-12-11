@@ -26,27 +26,26 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BESTAGROLIFE
+- BESTAGRO
 - GILADA
 - HALDERVEN
 - JDCABLES
-- SRIGEEDLM
-- SUPERTECHEV
+- SRIGEE
+- SEVL
 - GARNETINTL
-- MAGELLANICCLOUD
-- PARMESHWARMETAL
+- MCLOUD
+- PARMESHWAR
 - REGALENT
 - UNIVERSAL
 - VENUSREM
 - VLEGOV
 - VLSFINANCE
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
-- risk-management
+- asm-stage
 - market-operations
+- risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -26,12 +26,10 @@ source: bse
 stocks:
 - EMA
 tags:
-- open-offer
-- takeover
-- acquisition
-- SAST
-- tender-offer
 - delisting
+- sast
+- takeover
+- tender-offer
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of EMA India Limited
 ---
 

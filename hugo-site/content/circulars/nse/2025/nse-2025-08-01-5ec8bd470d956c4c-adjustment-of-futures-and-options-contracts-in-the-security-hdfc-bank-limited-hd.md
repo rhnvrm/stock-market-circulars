@@ -26,13 +26,12 @@ source: nse
 stocks:
 - HDFCBANK
 tags:
-- derivatives
-- futures
-- options
-- bonus-issue
-- corporate-action
 - adjustment
-- HDFCBANK
+- bonus
+- corporate-action
+- derivatives
+- futures-options
+- options
 title: Adjustment of Futures and Options Contracts in the Security HDFC BANK LIMITED
   (HDFCBANK)
 ---

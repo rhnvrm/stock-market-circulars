@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PATELRET
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- b-group
-- patel-retail
+- trade-for-trade
 title: Change in Group of Equity Shares of Patel Retail Limited
 ---
 

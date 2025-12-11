@@ -32,11 +32,9 @@ stocks:
 - BINNYLTD
 - BOMBTALK
 tags:
+- asm-stage
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-surveillance
-- asm-framework
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

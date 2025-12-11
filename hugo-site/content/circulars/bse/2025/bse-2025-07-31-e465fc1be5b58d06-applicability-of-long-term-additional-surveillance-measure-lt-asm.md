@@ -31,10 +31,10 @@ stocks:
 - HINDRECT
 - REMI
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

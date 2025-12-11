@@ -28,9 +28,8 @@ stocks:
 - ICSL
 - GSL
 tags:
-- gsm
+- market-operations
 - surveillance
-- market-regulation
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages

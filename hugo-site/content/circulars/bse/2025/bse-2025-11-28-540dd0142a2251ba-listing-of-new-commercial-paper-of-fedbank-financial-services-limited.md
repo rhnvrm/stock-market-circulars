@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - fedbank-financial-services
-- debt-segment
+- private-placement
 title: Listing of New Commercial Paper of Fedbank Financial Services Limited
 ---
 

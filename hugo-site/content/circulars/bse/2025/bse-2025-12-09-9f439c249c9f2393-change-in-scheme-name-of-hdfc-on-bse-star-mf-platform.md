@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - hdfc
-- scheme-name-change
-- bse-star-mf
+- mutual-fund
+- name-change
 title: Change in Scheme Name of HDFC Mutual Fund on BSE StAR MF Platform
 ---
 

@@ -26,10 +26,9 @@ source: nse
 stocks:
 - ARSSINFRA
 tags:
-- trading-suspension
-- nclt-order
+- nclt
 - resolution-plan
-- arss-infrastructure
+- suspension
 title: Suspension of trading in equity shares - ARSS Infrastructure Projects Limited
 ---
 

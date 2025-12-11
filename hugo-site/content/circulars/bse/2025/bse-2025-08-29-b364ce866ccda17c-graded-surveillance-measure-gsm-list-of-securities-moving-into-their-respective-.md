@@ -27,12 +27,10 @@ stocks:
 - SHAKTI
 - INTLDM
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
-- shakti-press
+- asm-stage
 - international-data-management
-- stage-movement
+- shakti-press
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

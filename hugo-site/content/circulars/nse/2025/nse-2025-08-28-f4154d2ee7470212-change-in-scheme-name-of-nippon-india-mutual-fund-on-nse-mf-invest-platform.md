@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- fund-of-funds
 - mutual-fund
-- scheme-name-change
+- name-change
 - nippon-india
-- fund-of-fund
-- sebi-framework
+- regulatory-framework
 title: Change in scheme name of Nippon India Mutual Fund on NSE MF Invest platform
 ---
 

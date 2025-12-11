@@ -27,12 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- slb
-- securities-lending-borrowing
-- settlement-schedule
-- reverse-leg
-- depository-settlement
 - clearing
+- collateral
+- depository-settlement
+- reverse-leg
+- settlement
+- slb
 title: Settlement Program for SLB Reverse Leg Segment for the period Jan 2026 to Mar
   2026
 ---

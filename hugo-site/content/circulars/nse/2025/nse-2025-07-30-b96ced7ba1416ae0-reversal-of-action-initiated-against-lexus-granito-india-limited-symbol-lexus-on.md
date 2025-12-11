@@ -26,12 +26,12 @@ source: nse
 stocks:
 - LEXUS
 tags:
-- trading-restrictions
 - annual-listing-fees
 - compliance
 - lexus-granito
-- trade-for-trade
 - rolling-segment
+- trade-for-trade
+- trading-restrictions
 title: Reversal of Trading Restrictions for Lexus Granito (India) Limited - Annual
   Listing Fees Payment
 ---

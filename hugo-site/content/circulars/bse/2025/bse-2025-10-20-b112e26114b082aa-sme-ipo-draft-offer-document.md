@@ -26,12 +26,11 @@ source: bse
 stocks:
 - FRACTALIND
 tags:
-- sme
+- draft-document
 - ipo
-- draft-offer-document
 - public-comments
-- fractal-industries
 - sebi-icdr
+- sme
 title: SME IPO - Draft Offer Document Filing for Fractal Industries Limited
 ---
 

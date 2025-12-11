@@ -26,12 +26,10 @@ source: bse
 stocks:
 - CWD
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- CWD
-- '543378'
+- preferential-issue
 title: Listing of New Securities of CWD Limited - Preferential Allotment
 ---
 

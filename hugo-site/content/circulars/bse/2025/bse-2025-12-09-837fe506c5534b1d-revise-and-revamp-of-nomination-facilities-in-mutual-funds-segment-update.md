@@ -27,16 +27,16 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
-- sebi-regulations
+- amc
 - compliance
 - investor-protection
+- mutual-fund
+- nomination
 - opt-out
+- regulatory-framework
+- rta
 - two-factor-authentication
 - ucc
-- rta
-- amc
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---
 

@@ -35,10 +35,10 @@ stocks:
 - ARYAMAN
 - EKENNIS
 tags:
-- lt-asm
+- asm-stage
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

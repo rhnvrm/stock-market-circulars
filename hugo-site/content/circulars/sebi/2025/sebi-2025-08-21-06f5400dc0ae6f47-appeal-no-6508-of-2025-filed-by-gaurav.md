@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl
-- investor-refunds
 - information-access
+- investor-refunds
 - lodha-committee
+- rti
 title: RTI Appeal No. 6508 of 2025 - PACL Refund Process Information Denied
 ---
 

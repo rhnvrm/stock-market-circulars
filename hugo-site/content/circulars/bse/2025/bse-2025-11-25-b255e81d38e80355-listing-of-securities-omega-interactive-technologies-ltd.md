@@ -27,11 +27,11 @@ source: bse
 stocks:
 - OMEGAINT
 tags:
+- conversion
+- equity
 - listing
 - preferential-issue
-- warrant-conversion
-- equity-shares
-- promoter-allotment
+- promoter
 title: Listing of Securities - Omega Interactive Technologies Ltd. (Preferential Issue)
 ---
 

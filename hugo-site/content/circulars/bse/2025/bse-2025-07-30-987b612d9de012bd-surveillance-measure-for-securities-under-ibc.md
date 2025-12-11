@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DIKSHA
 tags:
-- surveillance
+- corporate-action
 - insolvency
-- ibc
 - monitoring
-- corporate-announcement
+- surveillance
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

@@ -28,11 +28,10 @@ source: bse
 stocks:
 - UNICOMMERCE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- unicommerce
+- preferential-issue
 title: Listing of 6.03 Million Equity Shares of Unicommerce eSolutions Limited
 ---
 

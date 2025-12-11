@@ -27,13 +27,11 @@ source: bse
 stocks:
 - ONGC
 tags:
-- derivatives
-- futures
-- options
+- contract-adjustment
 - corporate-action
-- dividend-adjustment
-- ONGC
-- equity-derivatives
+- derivatives
+- futures-options
+- options
 title: Adjustment of Futures and Options contracts in ONGC for Interim Dividend
 ---
 

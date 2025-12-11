@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ESSEX
 tags:
-- group-change
-- trading-segment
-- sme
 - essex-marine
+- group-change
+- sme
+- trading
 title: Essex Marine Limited Shares Transfer from Trade for Trade to Rolling Segment
 ---
 

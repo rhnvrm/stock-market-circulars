@@ -28,10 +28,9 @@ stocks:
 tags:
 - company-status
 - delisting
-- suspension
-- nclt
 - moratorium
-- era-infra-engineering
+- nclt
+- suspension
 title: Era Infra Engineering Ltd Status Changed from Delisted to Suspended Due to
   NCLT Moratorium
 ---

@@ -29,12 +29,9 @@ stocks:
 - TCL
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
 - redemption
-- CFHL
-- SBICAPSL
-- TCL
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

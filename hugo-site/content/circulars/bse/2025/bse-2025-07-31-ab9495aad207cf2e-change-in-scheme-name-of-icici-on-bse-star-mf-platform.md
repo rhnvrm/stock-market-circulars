@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- icici-prudential
-- child-fund
 - addendum
+- child-fund
+- icici-prudential
+- mutual-fund
+- name-change
 title: Change in Scheme Name of ICICI Prudential Child Care Fund (Gift Plan) to ICICI
   Prudential Children's Fund
 ---

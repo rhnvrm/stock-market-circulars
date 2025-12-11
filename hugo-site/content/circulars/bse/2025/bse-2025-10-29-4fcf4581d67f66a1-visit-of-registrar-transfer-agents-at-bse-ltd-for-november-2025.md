@@ -26,8 +26,8 @@ severity: low
 source: bse
 stocks:
 - ANTARIKSH
-- ANANDPROJECTS
-- INDIANIVESH
+- ANANDPROJ
+- INDIANVSH
 - MARATHON
 - HINDREC
 - PERMAGNET
@@ -49,8 +49,8 @@ stocks:
 - DHANSAFAL
 - KAJALSYN
 - SECUREKLOUD
-- BAJAJGLOBAL
-- TASHIINDIA
+- BAJGLOB
+- TASHIND
 - CHAMBALBRW
 - MANSOON
 - STARTECK
@@ -78,11 +78,10 @@ stocks:
 - ASIANPETRO
 - BERYL
 tags:
-- rta
-- registrar-transfer-agents
+- adroit-corporate
 - investor-services
 - november-2025
-- adroit-corporate
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for November 2025
 ---
 

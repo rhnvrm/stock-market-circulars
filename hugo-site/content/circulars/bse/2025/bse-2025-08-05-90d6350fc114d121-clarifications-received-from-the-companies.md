@@ -27,10 +27,9 @@ stocks:
 - GMDC
 tags:
 - clarification
-- trading-volume
-- market-driven
 - disclosure
-- gmdc
+- market-operations
+- trading-volume
 title: GMDC Clarification on Increased Trading Volume
 ---
 

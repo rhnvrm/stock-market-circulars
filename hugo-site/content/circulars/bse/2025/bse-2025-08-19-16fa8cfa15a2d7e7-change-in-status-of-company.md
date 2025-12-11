@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BHAGGAS
 tags:
-- delisting
-- supreme-court
-- status-change
-- suspended
 - bhagawati-gas
+- delisting
+- status-change
+- supreme-court
+- suspension
 title: Change in status of company - Bhagawati Gas Ltd delisting rescinded
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-awareness
 - financial-literacy
+- iitf-2025
+- investor-awareness
 - investor-protection
 - market-infrastructure
 - public-outreach
-- iitf-2025
 title: Inauguration of SEBI's Pavilion at the IITF, 2025 by Chairman, SEBI
 ---
 

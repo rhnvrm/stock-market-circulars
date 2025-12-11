@@ -41,12 +41,9 @@ stocks:
 - BLOOMDEK
 - BODHTREE
 tags:
-- surveillance
 - insolvency
-- ibc
-- ASM
+- surveillance
 - trading-restrictions
-- corporate-insolvency
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- crisil-a1+
+- debt-securities
+- icra-a1+
 - julius-baer
-- CRISIL-A1+
-- ICRA-A1+
+- private-placement
 title: Listing of new Commercial Paper of Julius Baer Capital (India) Private Limited
 ---
 

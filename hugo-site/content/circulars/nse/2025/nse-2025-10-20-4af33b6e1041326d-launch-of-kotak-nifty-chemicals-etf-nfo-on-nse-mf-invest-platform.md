@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- nfo
 - kotak-mutual-fund
+- mutual-fund
+- nfo
 - nifty-chemicals
-- nse-mf-invest
+- trading-platform
 title: Launch of Kotak Nifty Chemicals ETF NFO on NSE MF Invest Platform
 ---
 

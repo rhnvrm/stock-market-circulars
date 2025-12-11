@@ -28,13 +28,12 @@ stocks:
 - KOGTA
 - KEERTANA
 tags:
-- corporate-actions
-- record-date
-- ex-date
-- debt-segment
-- right-issue
-- ncd-redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- record-date
+- right-issue
 title: Revision of Record Date for Corporate Actions - Three Companies
 ---
 

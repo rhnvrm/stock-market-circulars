@@ -30,19 +30,18 @@ stocks:
 - COLORCHIPS
 - ENERGYDEV
 - FISCHER
-- GUJinject
-- KABRADRUGS
+- GUJINJECT
+- KABRADG
 - RISHABSY
 - SHREYASIND
 - SIZEMASTERS
-- PRIYA
+- PRIYALT
 - ASARFI
 tags:
-- surveillance
-- lt-asm
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

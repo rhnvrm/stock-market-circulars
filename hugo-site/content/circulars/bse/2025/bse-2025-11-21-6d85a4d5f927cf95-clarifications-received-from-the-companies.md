@@ -30,12 +30,11 @@ stocks:
 - SECUREKLOUD
 - VLEGIT
 tags:
-- surveillance
-- price-movement
-- volume-movement
 - clarification
+- compliance
 - disclosure
-- regulatory-compliance
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

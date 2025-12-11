@@ -28,13 +28,12 @@ stocks:
 - L&TFH
 - ABCAPITAL
 tags:
-- ncd
-- non-convertible-debentures
-- suspension
-- redemption
-- debt-market
-- l&t-finance
 - aditya-birla-capital
+- debt-securities
+- l&t-finance
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed) - L&T
   Finance Limited and Aditya Birla Capital Limited
 ---

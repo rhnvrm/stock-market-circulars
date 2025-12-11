@@ -27,13 +27,12 @@ source: nse
 stocks:
 - MAHABANK
 tags:
-- offer-for-sale
-- ofs
 - bank-of-maharashtra
-- equity-shares
-- eofs-platform
+- equity
 - interoperability
-- public-offering
+- ipo
+- ofs
+- trading-platform
 title: Proposed Offer for Sale of Bank of Maharashtra
 ---
 

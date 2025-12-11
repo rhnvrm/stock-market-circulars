@@ -27,11 +27,11 @@ source: bse
 stocks:
 - JRFOODS
 tags:
-- resolution-plan
-- share-capital-reduction
-- nclt-order
-- corporate-restructuring
 - equity-cancellation
+- nclt
+- resolution-plan
+- scheme-of-arrangement
+- share-capital-reduction
 title: 'Resolution Plan-Reduction of Equity Share Capital of JR Foods Ltd (Scrip Code:
   530915)'
 ---

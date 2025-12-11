@@ -26,13 +26,13 @@ source: bse
 stocks:
 - ARRIL
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- face-value-reduction
 - corporate-action
+- debt-securities
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Ahmedabad Ring Road Infrastructure Limited
 ---
 

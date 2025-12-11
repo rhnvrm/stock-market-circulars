@@ -29,12 +29,11 @@ stocks:
 - ONELIFECAP
 - INDIAFIN
 tags:
+- asm-stage
 - encumbrance
-- promoter-pledge
-- surveillance
-- SEBI-SAST
 - regulatory-framework
-- LT-ASM
+- sast
+- surveillance
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

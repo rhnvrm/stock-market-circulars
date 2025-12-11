@@ -40,10 +40,10 @@ stocks:
 - RELIANCEJIO
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
+- debt-securities
 - record-date
-- debt-segment
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies Record Date
   for Redemption
 ---

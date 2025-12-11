@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal-order
-- mirae-asset-capital-markets
-- customer-complaints
 - brokerage-charges
+- customer-complaints
 - information-disclosure
+- mirae-asset-capital-markets
+- rti
 title: Appeal No. 6562 of 2025 filed by Saikrishna Vasantha
 ---
 

@@ -29,13 +29,13 @@ source: nse
 stocks: []
 tags:
 - collateral
-- sovereign-gold-bonds
-- liquid-assets
 - debt-securities
-- g-sec
-- t-bills
+- gold
+- gsec
 - haircut
-- margin-requirements
+- liquid-fund
+- margin
+- treasury-bills
 title: Revised List of Approved Securities and Banks - Sovereign Gold Bonds Update
 ---
 

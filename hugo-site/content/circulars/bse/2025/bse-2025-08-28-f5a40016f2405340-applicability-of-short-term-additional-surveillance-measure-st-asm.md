@@ -38,10 +38,10 @@ stocks:
 - SAYAJIIND
 - YASHINN
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

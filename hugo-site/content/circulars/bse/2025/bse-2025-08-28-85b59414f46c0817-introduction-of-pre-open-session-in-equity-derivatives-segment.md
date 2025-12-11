@@ -25,15 +25,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- pre-open-session
-- equity-derivatives
-- trading-session
+- derivatives
+- emdi
+- eobi
+- eti-api
 - market-data
-- ETI-API
-- EOBI
-- EMDI
-- MDI
-- NFCAST
+- mdi
+- nfcast
+- pre-open-session
+- trading-session
 title: Introduction of Pre-Open Session in Equity Derivatives Segment
 ---
 

@@ -30,10 +30,10 @@ stocks:
 tags:
 - cross-margin
 - derivatives
-- demerger
 - hindustan-unilever
-- risk-management
 - index-weightages
+- risk-management
+- scheme-of-arrangement
 - settlement
 title: Adjustment in Cross Margin Weightages on Account of Demerger in Hindustan Unilever
   Limited

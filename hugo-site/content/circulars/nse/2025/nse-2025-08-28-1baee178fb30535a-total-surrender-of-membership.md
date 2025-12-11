@@ -24,10 +24,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- membership
-- surrender
 - broker
+- membership
 - power-bulls
+- surrender
 title: Total Surrender of Membership - Power Bulls Stock Broker Private Limited
 ---
 

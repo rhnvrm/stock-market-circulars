@@ -27,10 +27,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- invesco
-- nomenclature-change
 - direct-plan
+- invesco
+- mutual-fund
+- name-change
 - regular-plan
 - scheme-amendment
 title: Change in nomenclature of plan(s) in certain schemes of Invesco Mutual Fund

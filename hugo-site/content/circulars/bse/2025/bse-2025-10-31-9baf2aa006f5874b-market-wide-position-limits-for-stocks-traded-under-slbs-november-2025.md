@@ -60,15 +60,13 @@ stocks:
 - LIQUIDETF
 - MOHEALTH
 tags:
-- slbs
-- position-limits
-- securities-lending
-- borrowing-scheme
-- mwpl
-- institutional-investors
 - client-limits
-- etf
+- collateral
 - equity
+- etf
+- institutional-investor
+- position-limits
+- slbs
 title: Market Wide Position Limits for Stocks Traded Under SLBS – November 2025
 ---
 

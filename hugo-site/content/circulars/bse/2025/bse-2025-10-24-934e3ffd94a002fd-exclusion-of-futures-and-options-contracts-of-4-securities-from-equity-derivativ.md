@@ -31,12 +31,11 @@ stocks:
 - NCCL
 - TRSL
 tags:
-- derivatives
-- futures-and-options
-- derivatives-eligibility
 - contract-expiry
+- derivatives
+- derivatives-eligibility
+- futures-options
 - trading-discontinuation
-- equity-derivatives
 title: Exclusion of Futures and Options Contracts of 4 Securities from Equity Derivatives
   Segment
 ---

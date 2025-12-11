@@ -28,12 +28,12 @@ source: bse
 stocks:
 - UTKARSH
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
-- small-finance-bank
+- equity
 - ex-rights-basis
 - record-date
+- rights-issue
+- small-finance-bank
 title: Rights Issue of Equity Shares of UTKARSH SMALL FINANCE BANK LIMITED
 ---
 

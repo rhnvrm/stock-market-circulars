@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544559'
+- OML
 tags:
+- asm-stage
 - group-change
+- om-metallogic
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
-- om-metallogic
 title: Change in Group of Equity Shares of OM Metallogic Limited
 ---
 

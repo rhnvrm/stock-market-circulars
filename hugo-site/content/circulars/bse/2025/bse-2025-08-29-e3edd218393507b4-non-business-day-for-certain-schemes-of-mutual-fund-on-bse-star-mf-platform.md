@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- star-mf-platform
-- september-2025
 - fund-operations
+- holiday
+- mutual-fund
+- september-2025
+- trading-platform
 title: Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform
   - September 2025
 ---

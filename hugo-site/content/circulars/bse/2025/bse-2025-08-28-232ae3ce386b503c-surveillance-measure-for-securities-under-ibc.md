@@ -27,12 +27,10 @@ source: bse
 stocks:
 - SETUBANDHAN
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
 - monitoring
-- stage-1
+- surveillance
 title: Surveillance Measure for securities under IBC - August 28, 2025
 ---
 

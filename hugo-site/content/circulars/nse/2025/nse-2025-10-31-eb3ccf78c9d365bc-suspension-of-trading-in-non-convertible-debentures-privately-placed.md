@@ -25,14 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- suspension
-- non-convertible-debentures
-- ncd
-- debt-market
-- redemption
-- privately-placed
 - clix-capital
+- debt-securities
 - exim-bank
+- ncd
+- privately-placed
+- redemption
+- suspension
 - tata-capital
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---

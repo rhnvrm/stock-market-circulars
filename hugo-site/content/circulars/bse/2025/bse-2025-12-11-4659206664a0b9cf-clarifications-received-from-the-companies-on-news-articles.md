@@ -28,12 +28,11 @@ source: bse
 stocks:
 - INDIGO
 tags:
+- aviation
 - clarification
+- dgca
 - news-response
 - regulatory-meeting
-- aviation
-- dgca
-- indigo
 title: IndiGo CEO and Senior Officials Summoned by DGCA for Review Meeting
 ---
 

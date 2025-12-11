@@ -31,17 +31,15 @@ stocks:
 - GAYAPROJ
 - NORTHLINK
 tags:
-- suspension
-- non-compliance
-- regulation-33
-- financial-reporting
-- sebi-lodr
-- promoter-freeze
-- trade-for-trade
-- ashiana-ispat
 - dharan-infra-epc
+- financial-reporting
 - gayatri-projects
-- northlink-fiscal
+- lodr
+- non-compliance
+- promoter-freeze
+- regulation-33
+- suspension
+- trade-for-trade
 title: Suspension of Trading in Securities for Non-Compliance with SEBI LODR Regulations
 ---
 

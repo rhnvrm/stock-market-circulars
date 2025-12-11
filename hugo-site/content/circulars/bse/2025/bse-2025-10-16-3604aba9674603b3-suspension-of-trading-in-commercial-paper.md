@@ -34,16 +34,16 @@ stocks:
 - NUVAMA
 - MIRAESHAREKHAN
 - POONAWALLAFIN
-- CANFINHOMES
+- CANFINHOME
 - TATASTEEL
 - SBICAPSEC
 tags:
 - commercial-paper
-- suspension
-- redemption
-- debt-market
-- trading-halt
+- debt-securities
 - record-date
+- redemption
+- suspension
+- trading-halt
 title: Suspension of Trading in Commercial Paper - 12 Companies
 ---
 

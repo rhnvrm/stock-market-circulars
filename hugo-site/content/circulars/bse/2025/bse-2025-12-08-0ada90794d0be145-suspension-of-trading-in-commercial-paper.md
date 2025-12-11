@@ -28,11 +28,11 @@ stocks:
 - RUPA
 tags:
 - commercial-paper
-- suspension
-- debt-market
-- trading-halt
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
+- trading-halt
 title: Suspension of Trading in Commercial Paper - RUPA & COMPANY LIMITED
 ---
 

@@ -62,7 +62,7 @@ stocks:
 - WELTERMAN
 - YAARI
 - AVIVA
-- ACEedutr
+- ACEEDUTR
 - ADLINE
 - ASHOKREF
 - CLIO
@@ -82,12 +82,10 @@ stocks:
 - SJCORP
 - SOMA
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- stage-revision
+- asm-stage
 - compliance
-- market-regulation
+- market-operations
+- surveillance
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---
 

@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- slb
-- settlement
-- trading-schedule
 - rbi-guidelines
+- settlement
+- slb
+- trading-schedule
 title: Revised Trading and Settlement Programme for SLB Segment - September 2025
 ---
 

@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- settlement
 - calendar
 - capital-market
-- t1-settlement
-- t0-settlement
 - clearing
 - september-2025
+- settlement
+- t0-settlement
+- t1-settlement
 title: Settlement Calendar for September 2025 - Capital Market Segment T+1 & T+0 Settlement
 ---
 

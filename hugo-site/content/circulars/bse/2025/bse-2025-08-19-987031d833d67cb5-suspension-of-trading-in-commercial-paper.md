@@ -30,10 +30,10 @@ stocks:
 - HDFCSL
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-instruments
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

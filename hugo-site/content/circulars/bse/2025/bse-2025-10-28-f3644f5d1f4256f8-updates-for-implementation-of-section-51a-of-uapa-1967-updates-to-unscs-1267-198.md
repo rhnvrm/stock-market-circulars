@@ -28,16 +28,16 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sanctions
-- UAPA
-- compliance
-- UNSC
-- ISIL
-- Al-Qaida
+- al-qaida
+- aml
 - asset-freeze
+- cft
+- compliance
+- isil
+- sanctions
 - terrorism-financing
-- AML
-- CFT
+- uapa
+- unsc
 title: 'Updates for Implementation of Section 51A of UAPA, 1967: Amendment to UNSC''s
   1267/1989 ISIL (Da''esh) & Al-Qaida Sanctions List'
 ---

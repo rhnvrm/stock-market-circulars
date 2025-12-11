@@ -37,15 +37,15 @@ stocks:
 - IRB
 - LLOYDS
 - PREMIERENR
-- BLACKBOX
+- BBOX
 - CAMPUS
 - PROTEAN
 tags:
+- book-closure
+- corporate-action
 - dividend
-- slb
-- corporate-actions
 - record-date
-- shut-period
+- slb
 title: Corporate Action in SLB Securities - Dividend Record Dates
 ---
 

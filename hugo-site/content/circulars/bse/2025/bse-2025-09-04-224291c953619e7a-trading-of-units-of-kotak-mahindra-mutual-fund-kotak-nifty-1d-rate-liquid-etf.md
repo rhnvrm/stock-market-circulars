@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '590139'
+- LIQUID1
 tags:
+- asm-stage
 - etf
-- trading
-- mutual-fund
 - kotak
 - liquid-fund
-- b-group
+- mutual-fund
+- trading
 title: Trading of Units of Kotak Nifty 1D Rate Liquid ETF on BSE
 ---
 

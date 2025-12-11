@@ -30,11 +30,10 @@ stocks:
 - LATENTVIEW
 - ELDECO
 tags:
-- price-movement
-- volume-movement
 - clarification
+- market-operations
+- price-movement
 - surveillance
-- market-driven
 title: Clarifications received from the companies
 ---
 

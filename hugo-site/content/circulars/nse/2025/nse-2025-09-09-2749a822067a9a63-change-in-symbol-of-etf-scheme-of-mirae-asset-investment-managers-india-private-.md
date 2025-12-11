@@ -26,9 +26,9 @@ stocks:
 - SILVERAG
 tags:
 - etf
-- symbol-change
 - mirae-asset
-- silver-etf
+- name-change
+- silver
 title: Change in symbol of ETF scheme of Mirae Asset Investment Managers (India) Private
   Limited
 ---

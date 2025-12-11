@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MONEYBOXX FINANCE LIMITED
 ---
 

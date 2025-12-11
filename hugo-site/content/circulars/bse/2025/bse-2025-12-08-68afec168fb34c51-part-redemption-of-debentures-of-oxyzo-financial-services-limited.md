@@ -27,12 +27,12 @@ source: bse
 stocks:
 - OXYZO
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - debt-securities
-- record-date
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of OXYZO FINANCIAL SERVICES LIMITED
 ---
 

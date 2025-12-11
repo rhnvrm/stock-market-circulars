@@ -26,14 +26,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- quality-control
 - bis-certification
-- refined-zinc
-- refined-nickel
-- ministry-of-mines
 - compliance
 - manufacturing
 - metals
+- ministry-of-mines
+- quality-control
+- refined-nickel
+- refined-zinc
 title: Quality Control Orders for Refined Zinc and Nickel - BIS Certification Mandatory
 ---
 

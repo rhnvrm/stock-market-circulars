@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- name-change
 - administrative
 - ashika-stock-broking
+- name-change
+- trading-member
 title: Change in Name of the Trading Member - Ashika Stock Broking Ltd.
 ---
 

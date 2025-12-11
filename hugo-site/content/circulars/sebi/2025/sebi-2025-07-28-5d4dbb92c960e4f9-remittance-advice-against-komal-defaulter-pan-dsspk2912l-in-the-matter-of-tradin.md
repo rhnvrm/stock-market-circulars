@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - VIKASPROP
 tags:
-- recovery-certificate
 - defaulter
-- trading-violations
-- vikas-proppant
-- granite-limited
 - enforcement
+- granite-limited
+- recovery
+- trading-operations
 title: Remittance Advice against Komal for Trading Activities in Vikas Proppant and
   Granite Limited
 ---

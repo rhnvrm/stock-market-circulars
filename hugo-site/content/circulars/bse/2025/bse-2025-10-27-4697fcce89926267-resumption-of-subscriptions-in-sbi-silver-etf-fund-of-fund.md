@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SBISILVERETF
 tags:
-- mutual-fund
 - etf
-- subscription
+- fund-of-funds
+- mutual-fund
 - sbi
-- silver-etf
-- fund-of-fund
+- subscription
 title: Resumption of Subscriptions in SBI Silver ETF Fund of Fund
 ---
 

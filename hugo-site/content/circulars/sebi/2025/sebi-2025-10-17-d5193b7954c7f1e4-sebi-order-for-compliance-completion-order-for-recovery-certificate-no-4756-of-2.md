@@ -25,12 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- completion-order
-- enforcement
 - brijlaxmi-leasing
-- debt-recovery
+- completion-order
 - compliance-order
+- enforcement
+- recovery
 title: SEBI Completion Order for Recovery Certificate No. 4756 of 2022 against Siddharth
   J Chaturvedi
 ---

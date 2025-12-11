@@ -33,12 +33,10 @@ stocks:
 - TITANBIO
 - TRITONCOR
 tags:
-- enhanced-surveillance-measure
-- esm
+- compliance
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- compliance
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Across Stages Effective
   October 17, 2025
 ---

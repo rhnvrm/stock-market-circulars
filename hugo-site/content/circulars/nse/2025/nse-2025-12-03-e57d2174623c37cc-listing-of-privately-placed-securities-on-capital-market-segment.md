@@ -26,12 +26,12 @@ source: nse
 stocks:
 - BHARTI
 tags:
-- listing
-- debt-securities
-- debentures
-- private-placement
 - bharti-telecom
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Debt Securities of Bharti Telecom Limited
 ---
 

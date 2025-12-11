@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- investment-advisory
-- unregistered-activities
-- remittance-order
+- demand-notice
 - enforcement
+- investment-adviser
+- recovery
+- unregistered-activities
 title: 'General Remittance Order dated 09.09.2025 in Recovery Certificate No. 8831
   of 2025 issued against Pranay Kumar, Proprietor of M/s Capital Gyan (PAN: BTFPK4872B)
   in the matter Unregistered Investment Advisory Activities'

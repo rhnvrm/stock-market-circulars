@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- groww
+- index-fund
 - mutual-fund
 - nfo
-- sip
-- groww
 - nifty-next-50
-- index-fund
-- bse-star-mf
+- sip
 title: Launch of GROWW NIFTY NEXT 50 INDEX FUND NFO with SIP on BSE StAR MF Platform
 ---
 

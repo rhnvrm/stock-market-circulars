@@ -25,11 +25,11 @@ source: bse
 stocks:
 - IIL
 tags:
+- bse-debt-segment
 - debt-securities
+- india-infradebt-limited
 - listing
 - private-placement
-- india-infradebt-limited
-- bse-debt-segment
 title: Listing of new debt securities of India Infradebt Limited
 ---
 

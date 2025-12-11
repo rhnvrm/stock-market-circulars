@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- futures-and-options
-- settlement-schedule
-- october-2025
-- trading
 - clearing
+- futures-options
+- october-2025
+- settlement
+- trading
 title: F&O Monthly Settlement Schedule for October 2025
 ---
 

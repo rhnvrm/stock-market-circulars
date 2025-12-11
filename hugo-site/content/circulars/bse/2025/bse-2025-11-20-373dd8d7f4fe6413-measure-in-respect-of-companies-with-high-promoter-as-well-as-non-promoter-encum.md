@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SUDAL
 tags:
+- asm-stage
 - encumbrance
-- promoter-encumbrance
-- surveillance-measure
-- SEBI-SAST
 - regulation-28-3
-- additional-surveillance
+- sast
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

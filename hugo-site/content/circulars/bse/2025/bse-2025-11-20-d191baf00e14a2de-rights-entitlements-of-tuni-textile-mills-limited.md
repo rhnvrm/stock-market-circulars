@@ -28,13 +28,12 @@ source: bse
 stocks:
 - TUNTEX
 tags:
-- rights-issue
-- rights-entitlements
+- demat
 - renunciation
+- rights-issue
+- t1-settlement
 - trading
 - tuni-textile-mills
-- dematerialized
-- t+1-settlement
 title: Rights Entitlements Trading for TUNI TEXTILE MILLS LIMITED
 ---
 

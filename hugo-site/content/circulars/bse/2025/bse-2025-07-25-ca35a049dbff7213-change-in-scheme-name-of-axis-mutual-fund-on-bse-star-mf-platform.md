@@ -26,12 +26,12 @@ source: bse
 stocks: []
 tags:
 - axis-mutual-fund
-- scheme-modification
-- us-treasury-bonds
 - etf-fund-of-fund
 - overseas-investment
-- scheme-information-document
 - passive-investment
+- scheme-information-document
+- scheme-modification
+- us-treasury-bonds
 title: Axis Mutual Fund Changes Scheme Name and Features for US Treasury ETF Fund
   of Fund
 ---

@@ -80,11 +80,11 @@ stocks:
 - DLF
 tags:
 - derivatives
-- position-limits
 - equity
-- trading-members
 - fii
-- mutual-funds
+- mutual-fund
+- position-limits
+- trading-member
 title: Market Wide Position Limits for Equity Derivatives Segment - August 2025
 ---
 

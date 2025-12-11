@@ -28,14 +28,12 @@ source: bse
 stocks:
 - INDOWIND
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
-- indowind-energy
-- dematerialized
+- renunciation
+- rights-issue
+- t1-settlement
 - trade-for-trade
-- t+1-settlement
 title: Rights Entitlements Trading for INDOWIND ENERGY LIMITED
 ---
 

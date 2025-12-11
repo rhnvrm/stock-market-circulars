@@ -27,12 +27,11 @@ source: bse
 stocks:
 - PCJEWELLER
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
-- new-securities
 - lock-in
-- pc-jeweller
+- new-securities
+- preferential-issue
 title: Listing of New Securities of PC Jeweller Limited - Preferential Allotment
 ---
 

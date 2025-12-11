@@ -28,15 +28,13 @@ source: nse
 stocks:
 - EUROTEXIND
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-iv
-- trade-for-trade
-- price-band
 - additional-surveillance-deposit
 - asd
-- trading-restrictions
+- price-band
+- stage-iv
 - surveillance
+- trade-for-trade
+- trading-restrictions
 title: List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)
 ---
 

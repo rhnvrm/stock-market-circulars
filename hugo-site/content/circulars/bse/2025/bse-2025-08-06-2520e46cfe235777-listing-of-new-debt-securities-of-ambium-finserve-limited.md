@@ -25,11 +25,11 @@ source: bse
 stocks:
 - AMFL
 tags:
+- ambium-finserve
+- bse-debt-segment
 - debt-securities
 - listing
 - private-placement
-- ambium-finserve
-- bse-debt-segment
 title: Listing of new debt securities of AMBIUM FINSERVE LIMITED
 ---
 

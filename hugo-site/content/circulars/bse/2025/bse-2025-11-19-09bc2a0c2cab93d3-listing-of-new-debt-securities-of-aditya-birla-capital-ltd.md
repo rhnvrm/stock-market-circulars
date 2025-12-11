@@ -28,12 +28,11 @@ source: bse
 stocks:
 - ABCL
 tags:
+- aditya-birla-capital
+- bond
 - debt-securities
 - listing
-- aditya-birla-capital
 - private-placement
-- bonds
-- ABCL
 title: Listing of New Debt Securities of Aditya Birla Capital Ltd
 ---
 

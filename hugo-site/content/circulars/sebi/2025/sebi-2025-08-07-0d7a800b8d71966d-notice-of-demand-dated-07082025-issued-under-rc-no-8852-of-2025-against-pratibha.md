@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- notice-of-demand
-- recovery-certificate
-- enforcement-action
-- family-care-hospitals
+- demand-notice
+- enforcement
 - individual-notice
+- recovery
 title: Notice of Demand dated 07.08.2025 issued under RC no. 8852 of 2025 against
   Pratibha Walinjkar in the matter of Family Care Hospitals Limited
 ---

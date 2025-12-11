@@ -39,14 +39,14 @@ stocks:
 - BELRISE
 - BEML
 - BHEL
-- BILCARE
+- BI
 - BIMETAL
 - CAMBRIDGE
 - CANTABIL
 - CHALET
 - CHEMBOND
 - CHEMFAB
-- CHL
+- CHLLTD
 - CLEAN
 - COALINDIA
 - DENORA
@@ -103,7 +103,7 @@ stocks:
 - NIPPONNIF
 - NIPPONLIF
 - NMDC
-- NMDCSTEEL
+- NSLNISP
 - OIL
 - ONESOURCE
 - ONIX
@@ -132,7 +132,7 @@ stocks:
 - SUZLON
 - SWELECTES
 - TANFAC
-- TATACAPITAL
+- TATACAP
 - TATAINVEST
 - TATVA
 - PHOENIX
@@ -147,10 +147,10 @@ stocks:
 - WESTLIFE
 - ZAGGLE
 tags:
-- demat-auction
-- settlement
-- securities-auction
+- demat
 - market-operations
+- securities-auction
+- settlement
 title: Demat Auction - Settlement No. 736
 ---
 

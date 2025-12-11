@@ -35,11 +35,10 @@ stocks:
 - OMINFRAL
 - ZODIACDV
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading
+- asm-stage
 - market-operations
+- surveillance
+- trading
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -25,10 +25,9 @@ source: bse
 stocks:
 - VEGORAMA
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
-- vegorama-punjabi-angithi
+- sme
 title: SME IPO - Draft Offer Document for VEGORAMA PUNJABI ANGITHI LIMITED
 ---
 

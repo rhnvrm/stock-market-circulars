@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ARUNISABODE
+- ARUNIS
 tags:
-- rights-issue
-- equity-shares
-- corporate-actions
+- corporate-action
+- equity
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares - ARUNIS ABODE LIMITED
 ---
 

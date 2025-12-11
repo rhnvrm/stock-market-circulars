@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HALDER
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
-- listing
+- equity
 - halder-venture
+- listing
 title: Bonus Issue of Halder Venture Limited - 8,292,090 Equity Shares
 ---
 

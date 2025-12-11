@@ -27,12 +27,12 @@ source: bse
 stocks:
 - TULSYAN
 tags:
-- surveillance
+- compliance
 - encumbrance
 - promoter
-- sast
-- regulatory-compliance
 - risk-management
+- sast
+- surveillance
 title: BSE Updates High Promoter/Non-Promoter Encumbrance Surveillance Framework
 ---
 

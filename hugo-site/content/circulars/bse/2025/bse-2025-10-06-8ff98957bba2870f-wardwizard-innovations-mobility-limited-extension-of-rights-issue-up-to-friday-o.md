@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WARDINMOBI
 tags:
-- rights-issue
-- extension
 - capital-raising
-- WARDINMOBI
 - corporate-action
+- extension
+- rights-issue
 title: WARDWIZARD INNOVATIONS & MOBILITY LIMITED - Extension of Rights Issue up to
   Friday, October 24, 2025
 ---

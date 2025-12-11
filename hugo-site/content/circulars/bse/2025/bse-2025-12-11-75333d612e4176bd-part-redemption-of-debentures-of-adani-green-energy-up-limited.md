@@ -27,13 +27,12 @@ source: bse
 stocks:
 - AGEUPL
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- non-convertible-debentures
 - adani-green-energy
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of ADANI GREEN ENERGY (UP) LIMITED
 ---
 

@@ -27,9 +27,8 @@ stocks:
 - SAFARI
 - GRAVITAIN
 tags:
-- volume-clarification
-- market-driven
-- price-sensitive-information
+- market-operations
+- price-movement
 - regulation-30
 - trading-volume
 title: Clarifications received from the companies

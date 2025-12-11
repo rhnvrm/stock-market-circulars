@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - ECOFRIENDLY
 tags:
-- enforcement
-- recovery
 - attachment
-- ipo
-- defaulter
 - columbia-sales
-- eco-friendly-food-processing
+- defaulter
+- enforcement
+- ipo
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts 14802 & 14803 of 2025
   - Columbia Sales Recovery Action
 ---

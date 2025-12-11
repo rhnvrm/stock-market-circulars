@@ -27,11 +27,9 @@ stocks:
 - ELGIRUBCO
 - TAPIFRUIT
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trade-for-trade
-- market-surveillance
 title: Additional Surveillance Measure (ASM) - Securities Moved to Long Term ASM Framework
 ---
 

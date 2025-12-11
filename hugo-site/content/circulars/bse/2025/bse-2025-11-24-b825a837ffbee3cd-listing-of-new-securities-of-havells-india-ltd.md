@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HAVELLS
 tags:
-- listing
-- equity-shares
-- esop
 - employee-stock-purchase-scheme
+- equity
+- esop
 - havells-india
+- listing
 - new-securities
 title: Listing of New Securities of Havells India Ltd - ESPS Allotment
 ---

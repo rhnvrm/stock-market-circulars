@@ -26,10 +26,9 @@ source: nse
 stocks:
 - FISCHER
 tags:
-- face-value-split
 - corporate-action
-- FISCHER
-- equity-shares
+- equity
+- face-value-change
 title: Face Value Split - Fischer Medical Ventures Limited
 ---
 

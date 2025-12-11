@@ -28,11 +28,7 @@ stocks:
 - SHAHSHIP
 - ADJIATECH
 tags:
-- gsm
 - surveillance
-- graded-surveillance-measure
-- esm
-- market-surveillance
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into Their Respective
   GSM Stages
 ---

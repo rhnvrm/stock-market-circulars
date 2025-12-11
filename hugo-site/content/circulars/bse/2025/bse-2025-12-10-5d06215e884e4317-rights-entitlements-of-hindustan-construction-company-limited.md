@@ -28,12 +28,10 @@ source: bse
 stocks:
 - HCC
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
 - equity
-- hcc
 - hindustan-construction
+- renunciation
+- rights-issue
 title: Rights Entitlements Trading for Hindustan Construction Company Limited
 ---
 

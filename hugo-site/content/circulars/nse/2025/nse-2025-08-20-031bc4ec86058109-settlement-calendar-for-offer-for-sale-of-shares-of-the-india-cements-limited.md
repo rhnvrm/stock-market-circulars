@@ -26,13 +26,12 @@ source: nse
 stocks:
 - INDIACEM
 tags:
-- offer-for-sale
-- settlement-calendar
-- india-cements
-- trading
 - custodial
-- retail
 - non-retail
+- ofs
+- retail
+- settlement-calendar
+- trading
 title: Settlement Calendar for Offer for Sale of shares of The India Cements Limited
 ---
 

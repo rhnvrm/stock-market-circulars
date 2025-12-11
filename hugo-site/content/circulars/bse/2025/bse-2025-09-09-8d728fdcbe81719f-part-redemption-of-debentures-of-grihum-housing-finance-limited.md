@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GRIHUM
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt-segment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Grihum Housing Finance Limited
 ---
 

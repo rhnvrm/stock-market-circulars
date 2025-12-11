@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks:
 - ANNVRRIDHHI
+- ANVRDHI
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
-- '538539'
+- corporate-action
+- equity
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares - ANNVRRIDHHI VENTURES LTD
 ---
 

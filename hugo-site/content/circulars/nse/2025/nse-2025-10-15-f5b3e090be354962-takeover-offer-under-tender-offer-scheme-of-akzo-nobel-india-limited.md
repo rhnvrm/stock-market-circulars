@@ -28,15 +28,13 @@ source: nse
 stocks:
 - AKZOINDIA
 tags:
+- akzo-nobel
+- eipo
+- jsw-paints
+- sast
 - takeover
 - tender-offer
-- akzo-nobel
-- jsw-paints
-- acquisition
-- open-offer
-- sebi-sast
 - web-based-bidding
-- eipo
 title: Takeover Offer Under Tender Offer Scheme of Akzo Nobel India Limited by JSW
   Paints Limited
 ---

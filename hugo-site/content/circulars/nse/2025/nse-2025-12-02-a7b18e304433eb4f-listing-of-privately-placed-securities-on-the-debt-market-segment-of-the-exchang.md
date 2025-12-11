@@ -28,25 +28,20 @@ severity: low
 source: nse
 stocks:
 - GODREJPROP
-- ALEMBICPHARMA
+- APLLTD
 - ISEC
 - TATASTEEL
 - MUTHOOTFIN
 tags:
-- listing
-- debt-market
+- alembicpharma
+- bond
 - commercial-paper
-- bonds
-- privately-placed-securities
-- GODREJPROP
-- NXTRA
-- ALEMBICPHARMA
-- ISEC
-- ICICISEC
-- TATASTEEL
-- KOTAKBANK
-- MUTHOOTFIN
 - debt-securities
+- icicisec
+- kotakbank
+- listing
+- nxtra
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - December 2,
   2025
 ---

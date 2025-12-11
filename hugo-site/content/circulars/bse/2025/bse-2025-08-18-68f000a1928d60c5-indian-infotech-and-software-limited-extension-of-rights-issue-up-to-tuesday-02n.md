@@ -26,9 +26,9 @@ source: bse
 stocks:
 - INDINFO
 tags:
-- rights-issue
+- equity
 - extension
-- equity-shares
+- rights-issue
 - subscription
 - timeline-revision
 title: Indian Infotech and Software Limited - Rights Issue Extension to September

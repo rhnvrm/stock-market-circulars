@@ -25,13 +25,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML69823.pdf
 severity: low
 source: nse
 stocks:
-- 1215DHPL27
 - 12AFIL27
 tags:
-- listing
-- debt-securities
-- privately-placed
 - capital-market
+- debt-securities
+- listing
+- privately-placed
 - trading
 title: Listing of Privately Placed Securities - Demuric Holdings and Akme Fintrade
   Debt Securities

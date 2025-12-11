@@ -32,11 +32,11 @@ stocks:
 - LODHA
 - METROBRAND
 tags:
-- listing
-- equity-shares
-- esop
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of further issues of securities for six companies effective September
   02, 2025
 ---

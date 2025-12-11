@@ -26,11 +26,11 @@ source: bse
 stocks:
 - STEP2CORP
 tags:
+- equity
 - listing
-- equity-shares
+- lock-in
 - preferential-issue
 - step-two-corporation
-- lock-in-period
 title: Listing of new Securities of Step Two Corporation Ltd.
 ---
 

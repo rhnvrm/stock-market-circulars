@@ -25,12 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
+- ban-period
+- clearing-corporations
 - derivatives
 - position-limits
 - risk-monitoring
-- mwpl
-- ban-period
-- clearing-corporations
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

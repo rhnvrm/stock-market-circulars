@@ -27,10 +27,9 @@ stocks:
 - TALWALKARS
 tags:
 - debt-securities
-- trading-suspension
-- debentures
 - maturity
-- talwalkars
+- ncd
+- suspension
 title: Suspension of Trading in Debt Scrips - Talwalkars Healthclubs Limited Debentures
   Maturity
 ---

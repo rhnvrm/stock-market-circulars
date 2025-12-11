@@ -30,13 +30,13 @@ stocks:
 - BAJAJFINSV
 tags:
 - book-closure
-- record-date
-- dividend
 - commercial-paper
-- ncd
-- interest-payment
-- redemption
 - debt-securities
+- dividend
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Date and Dividend Information
 ---
 

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - SATINCR
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- put-option
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- put-option
 - redemption
-- corporate-actions
-- debt-segment
+- suspension
 title: Suspension of Trading in Debentures of SATIN CREDITCARE NETWORK LIMITED
 ---
 

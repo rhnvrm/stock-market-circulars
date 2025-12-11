@@ -27,10 +27,10 @@ source: bse
 stocks:
 - HIMADRI
 tags:
-- listing
-- equity-shares
-- lock-in
 - allotment
+- equity
+- listing
+- lock-in
 - new-securities
 title: Listing of New Securities of Himadri Speciality Chemical Ltd.
 ---

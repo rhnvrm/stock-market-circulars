@@ -26,14 +26,13 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- samco
-- small-cap
-- subscription
 - redemption
+- samco
 - sip
+- small-cap
 - stp
+- subscription
 - swp
-- bse-star-mf
 title: Availability of SAMCO SMALL CAP FUND for ongoing transactions on BSE StAR MF
   Platform
 ---

@@ -33,19 +33,18 @@ stocks:
 - MUTHOOTFIN
 - NUVOCO
 tags:
-- debt-market
+- ceat
+- ciafcl
 - commercial-paper
-- private-placement
+- debt-securities
+- jcl
 - listing
-- NHB
-- CESC
-- WCL
-- CEAT
-- CIAFCL
-- MFL
-- NVL
-- NVCL
-- JCL
+- mfl
+- nhb
+- nvcl
+- nvl
+- private-placement
+- wcl
 title: Listing of Privately Placed Securities on Debt Market Segment
 ---
 

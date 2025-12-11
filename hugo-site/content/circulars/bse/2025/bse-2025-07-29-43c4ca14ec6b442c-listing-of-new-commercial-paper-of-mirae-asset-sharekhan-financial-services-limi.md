@@ -27,10 +27,9 @@ stocks:
 - MIRAE
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - mirae-asset
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Mirae Asset Sharekhan Financial Services
   Limited
 ---

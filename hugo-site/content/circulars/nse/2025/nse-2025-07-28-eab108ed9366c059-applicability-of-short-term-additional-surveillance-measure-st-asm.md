@@ -27,10 +27,9 @@ stocks:
 - AKIKO
 - SHARDACROP
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
 title: NSE Imposes Short-Term Additional Surveillance Measure on Two Securities
 ---
 

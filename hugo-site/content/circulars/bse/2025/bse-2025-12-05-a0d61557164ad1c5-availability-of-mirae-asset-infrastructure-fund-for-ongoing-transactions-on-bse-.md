@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo-reopening
-- mirae-asset
+- equity
 - infrastructure-fund
+- mirae-asset
+- mutual-fund
+- nfo
 - sip
 - stp
 - swp
-- equity
 title: Availability of MIRAE ASSET INFRASTRUCTURE FUND for ongoing transactions on
   BSE StAR MF Platform
 ---

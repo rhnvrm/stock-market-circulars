@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- compliance
-- internal-audit
-- trading-members
 - action-taken-report
-- regulatory-framework
-- inspection
 - audit-reporting
+- compliance
+- investigation
+- regulatory-framework
+- system-audit
+- trading-member
 title: Ease of Doing Compliance - Submission of Action Taken Report for Internal Audit
   Non-Compliances
 ---

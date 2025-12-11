@@ -25,10 +25,9 @@ source: nse
 stocks:
 - JTEKTINDIA
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- JTEKTINDIA
 title: Listing of further issues of Jtekt India Limited
 ---
 

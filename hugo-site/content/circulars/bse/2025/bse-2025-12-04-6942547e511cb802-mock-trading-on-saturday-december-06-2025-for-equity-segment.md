@@ -27,12 +27,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-segment
-- bolt-pro-tws
 - block-deal-framework
-- testing
-- uat
+- equity
+- maintenance
+- mock-trading
 - trading-platform
 title: Mock Trading on Saturday, December 06, 2025 for Equity Segment
 ---

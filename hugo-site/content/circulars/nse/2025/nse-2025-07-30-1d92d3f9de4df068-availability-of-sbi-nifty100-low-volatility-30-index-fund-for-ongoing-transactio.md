@@ -24,15 +24,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- sbi
 - index-fund
-- nifty100
 - low-volatility
-- subscriptions
-- redemptions
+- mutual-fund
+- nifty100
+- redemption
+- sbi
 - sip
 - stp
+- subscription
 - swp
 title: SBI Nifty100 Low Volatility 30 Index Fund Available for Ongoing Transactions
   on NSE MF Invest Platform

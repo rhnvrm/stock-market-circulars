@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-schedule
-- october-2025
 - clearing
+- derivatives
+- october-2025
+- settlement
 - trade-dates
 title: Commodity Derivatives Settlement Schedule for October 2025
 ---

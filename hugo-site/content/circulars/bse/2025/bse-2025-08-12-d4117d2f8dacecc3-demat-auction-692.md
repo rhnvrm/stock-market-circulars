@@ -33,7 +33,7 @@ stocks:
 - AMARJOTHI
 - AMBAENTERPR
 - ANTHEMBIOS
-- ANUHPHARMA
+- ANUHPHR
 - APOLLOMICRO
 - ARKADE
 - BAJFINANCE
@@ -77,7 +77,7 @@ stocks:
 - NETWORK18
 - NEWGEN
 - PAYTM
-- PDS
+- PDSL
 - PGEL
 - PIRAMLENT
 - PIRAMLPHARMA
@@ -94,7 +94,7 @@ stocks:
 - SHAILY
 - SHIVCEM
 - SOUTHBANK
-- TATAMOTORS
+- TMCV
 - TATASTEEL
 - TECHM
 - UDAYJ
@@ -109,9 +109,9 @@ stocks:
 - ZFCVINDIA
 - ZINKA
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
+- settlement
 - trading
 title: Demat Auction Settlement No. 692 - BSE Mumbai
 ---

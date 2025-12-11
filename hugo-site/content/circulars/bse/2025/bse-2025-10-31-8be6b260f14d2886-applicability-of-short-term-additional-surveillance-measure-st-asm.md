@@ -34,7 +34,7 @@ stocks:
 - SOUTHMAG
 - SUGALDAMA
 - CHOKSIASI
-- GFL
+- GFLLIMITED
 - GKENERGY
 - GOLKUNDAM
 - JAYANTINF
@@ -46,15 +46,14 @@ stocks:
 - SYMBIOX
 - TATVACHIN
 - TEAM24
-- VISIONcin
+- VISIONCIN
 - AAPLUSTRD
 - ADVANCEAG
 - AMANAYAVE
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

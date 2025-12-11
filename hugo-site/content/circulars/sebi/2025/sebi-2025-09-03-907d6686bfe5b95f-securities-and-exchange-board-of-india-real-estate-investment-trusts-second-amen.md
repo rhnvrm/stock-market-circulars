@@ -24,13 +24,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- reit
-- real-estate-investment-trusts
 - amendment
+- financial-results
+- real-estate-investment-trusts
 - regulations
+- reit
 - reporting
 - valuation
-- quarterly-results
 title: Securities and Exchange Board of India (Real Estate Investment Trusts) (Second
   Amendment) Regulations, 2025
 ---

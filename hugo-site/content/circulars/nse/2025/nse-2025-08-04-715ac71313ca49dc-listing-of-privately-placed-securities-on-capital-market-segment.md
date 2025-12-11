@@ -26,11 +26,11 @@ stocks:
 - ASEEM
 - SMFG
 tags:
-- debt-securities
-- private-placement
-- listing
-- capital-market
 - aseem-infrastructure
+- capital-market
+- debt-securities
+- listing
+- private-placement
 - smfg-india-home-finance
 title: Listing of Privately Placed Securities on Capital Market Segment - August 2025
 ---

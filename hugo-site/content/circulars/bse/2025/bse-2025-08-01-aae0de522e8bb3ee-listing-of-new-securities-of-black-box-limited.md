@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- BLACKBOX
+- BBOX
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
-- new-listing
+- preferential-issue
 title: Listing of New Securities of BLACK BOX LIMITED - 2,27,626 Equity Shares
 ---
 

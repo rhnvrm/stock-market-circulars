@@ -29,9 +29,9 @@ stocks:
 tags:
 - annual-listing-fees
 - compliance
-- sebi-lodr
-- equity-segment
 - defaulting-companies
+- equity
+- lodr
 title: Action Against Defaulting Companies for Non-Payment of Annual Listing Fees
   - Compliance Update
 ---

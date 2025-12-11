@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HEUBACH
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat-shares
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for Heubach Colorants India Limited Takeover Offer
 ---
 

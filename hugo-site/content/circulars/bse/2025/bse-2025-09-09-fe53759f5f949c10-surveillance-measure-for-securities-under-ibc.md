@@ -28,12 +28,9 @@ stocks:
 - HARIG
 - VIKASWSP
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- stage-1
+- surveillance
 title: Surveillance Measure for Securities under IBC - September 10, 2025
 ---
 

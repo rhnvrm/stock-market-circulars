@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
+- bse-debt-segment
 - debt-securities
+- earlysalary-services
 - listing
 - private-placement
-- earlysalary-services
-- bse-debt-segment
-- corporate-bonds
 title: BSE Lists New Debt Securities of EarlySalary Services Private Limited
 ---
 

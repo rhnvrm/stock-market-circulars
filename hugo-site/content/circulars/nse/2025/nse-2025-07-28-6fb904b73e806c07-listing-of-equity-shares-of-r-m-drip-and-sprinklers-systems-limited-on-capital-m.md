@@ -26,12 +26,12 @@ source: nse
 stocks:
 - RMDRIP
 tags:
-- listing
-- migration
-- sme-emerge
-- main-board
-- equity-shares
 - drip-irrigation
+- emerge-platform
+- equity
+- listing
+- main-board
+- migration
 title: Listing of equity shares of R M Drip and Sprinklers Systems Limited on Capital
   Market Segment (Main Board) pursuant to migration from SME Emerge platform
 ---

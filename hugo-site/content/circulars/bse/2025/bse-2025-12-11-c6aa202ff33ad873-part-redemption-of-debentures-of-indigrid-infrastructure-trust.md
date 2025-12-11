@@ -27,13 +27,13 @@ source: bse
 stocks:
 - INDIGRID
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
-- invit
 - infrastructure-trust
+- interest-payment
+- invit
+- ncd
+- redemption
 title: Part Redemption of Debentures of INDIGRID INFRASTRUCTURE TRUST
 ---
 

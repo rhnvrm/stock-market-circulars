@@ -25,9 +25,9 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - jm-financial
-- equity-fund
+- mutual-fund
 - platform-availability
 - sip
 - stp

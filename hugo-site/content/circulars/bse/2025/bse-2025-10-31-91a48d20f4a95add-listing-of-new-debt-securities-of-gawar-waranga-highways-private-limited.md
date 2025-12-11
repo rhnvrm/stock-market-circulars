@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- debentures
-- private-placement
 - gawar-waranga-highways
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Gawar Waranga Highways Private Limited
 ---
 

@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- password-reset
-- security
-- eipo
-- eforms
-- cyber-security
-- primary-market
 - authentication
+- cyber-security
+- eforms
+- eipo
+- password-reset
+- primary-market
+- security
 title: Password Encryption for eIPO and eForms Platform - Mandatory Password Reset
 ---
 

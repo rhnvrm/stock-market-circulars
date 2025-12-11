@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- index-fund
+- investment
+- jioblackrock
 - mutual-fund
 - nfo
-- index-fund
-- jioblackrock
-- investment
 title: Launch of JioBlackRock Fund NFO on NSE MF Invest Platform
 ---
 

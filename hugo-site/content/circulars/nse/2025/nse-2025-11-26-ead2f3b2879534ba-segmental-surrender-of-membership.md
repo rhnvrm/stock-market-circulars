@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- membership
-- segmental-surrender
-- currency-derivatives
-- irf
 - ashlar-securities
 - compliance
+- derivatives
+- irf
+- membership
+- segmental-surrender
 title: Segmental Surrender of Membership - Ashlar Securities Private Limited
 ---
 

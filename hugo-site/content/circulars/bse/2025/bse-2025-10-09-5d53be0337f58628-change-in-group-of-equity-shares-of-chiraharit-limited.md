@@ -27,13 +27,12 @@ source: bse
 stocks:
 - CHIRAHARIT
 tags:
+- asm-stage
 - group-change
-- trading-segment
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
+- trading
 title: Change in Group of Equity Shares of CHIRAHARIT LIMITED
 ---
 

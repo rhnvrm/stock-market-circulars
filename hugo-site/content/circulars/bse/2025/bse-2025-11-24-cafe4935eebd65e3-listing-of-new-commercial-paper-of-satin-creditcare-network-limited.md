@@ -27,10 +27,10 @@ stocks:
 - SATIN
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icra-rating
 - private-placement
 - satin-creditcare
-- icra-rating
 title: Listing of new Commercial Paper of SATIN CREDITCARE NETWORK LIMITED
 ---
 

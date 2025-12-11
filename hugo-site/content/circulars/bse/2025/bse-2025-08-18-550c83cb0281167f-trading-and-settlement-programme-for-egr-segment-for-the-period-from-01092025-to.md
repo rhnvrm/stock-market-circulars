@@ -24,11 +24,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- egr-segment
-- trading-schedule
-- settlement
-- rms
+- egr
 - operational
+- rms
+- settlement
+- trading-schedule
 title: Trading and Settlement Programme for EGR Segment - September 2025
 ---
 

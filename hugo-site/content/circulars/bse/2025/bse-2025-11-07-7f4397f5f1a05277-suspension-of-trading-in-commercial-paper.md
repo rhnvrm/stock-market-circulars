@@ -28,7 +28,7 @@ stocks:
 - KOTAKMAHINDRA
 - STLTECH
 - JIOCREDIT
-- BAJAJFINSERV
+- BAJAJFINSV
 - BAJAJFIN
 - STANDARDCHARTERED
 - ICICIHFC
@@ -37,11 +37,11 @@ stocks:
 - 360ONE
 tags:
 - commercial-paper
-- suspension
-- redemption
-- corporate-actions
-- debt-market
+- corporate-action
+- debt-securities
 - no-dealings
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---
 

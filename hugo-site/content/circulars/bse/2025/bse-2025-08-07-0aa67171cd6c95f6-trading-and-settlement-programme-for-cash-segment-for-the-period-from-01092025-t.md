@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
-- trading-schedule
 - cash-segment
-- t+1-settlement
-- t+0-settlement
 - equity
+- settlement
+- t0-settlement
+- t1-settlement
+- trading-schedule
 title: Trading and Settlement Programme for Cash Segment September 2025 - T+1 & T+0
   Settlement Cycles
 ---

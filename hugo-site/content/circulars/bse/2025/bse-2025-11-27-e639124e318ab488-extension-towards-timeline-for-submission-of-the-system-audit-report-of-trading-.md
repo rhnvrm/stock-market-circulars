@@ -27,13 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- system-audit
-- algorithmic-trading
+- algo-trading
 - compliance
-- deadline-extension
-- trading-members
-- type-iii-audit
-- audit-report
+- extension
+- system-audit
+- trading-member
 title: Extension of System Audit Report Submission Timeline for Algorithmic Trading
   Members (TYPE-III)
 ---

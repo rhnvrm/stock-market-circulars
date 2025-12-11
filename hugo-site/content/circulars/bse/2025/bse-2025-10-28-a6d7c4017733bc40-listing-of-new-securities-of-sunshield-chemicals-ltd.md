@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks:
 - SUNSHIELD
+- SUNSHIEL
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- '530845'
+- rights-issue
 title: Listing of New Securities of Sunshield Chemicals Ltd.
 ---
 

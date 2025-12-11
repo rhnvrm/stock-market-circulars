@@ -35,20 +35,15 @@ stocks:
 - HDBFIN
 - KOTAKSEC
 tags:
-- debt-market
-- listing
 - commercial-paper
-- debentures
-- private-placement
-- blue-star
-- godrej-industries
-- godrej-agrovet
-- jm-financial-services
-- welspun-living
+- debt-securities
 - hdb-financial-services
-- kotak-securities
-- toyota-financial-services
+- jm-financial-services
+- listing
+- ncd
+- private-placement
 - profectus-capital
+- toyota-financial-services
 title: Listing of Privately Placed Debt Securities - November 03, 2025
 ---
 

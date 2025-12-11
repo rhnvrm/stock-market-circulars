@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RACHIT PRINTS
+- RACHIT
 tags:
-- trading-segment
 - group-change
-- sme
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of RACHIT PRINTS LIMITED
 ---
 

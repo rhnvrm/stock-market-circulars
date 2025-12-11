@@ -26,11 +26,9 @@ source: bse
 stocks:
 - IRONWOOD
 tags:
-- offer-for-sale
-- undersubscription
-- ironwood-education
+- equity
 - ofs
-- equity-shares
+- undersubscription
 title: Opening of Offer for Sale for Ironwood Education Limited - Undersubscription
   Acceptance
 ---

@@ -24,11 +24,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - broker-suspension
-- compliance-violation
+- enforcement
 - group-company-investment
-- intermediary-regulations
+- intermediary
+- non-compliance
 - scr-rules
 title: SEBI Suspends Raima Equities Private Limited for Regulatory Violations
 ---

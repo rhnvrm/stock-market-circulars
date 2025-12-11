@@ -25,16 +25,16 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544572'
+- SKFINDUS
 tags:
-- index
-- exclusion
-- demerger
-- corporate-action
-- skf-india
-- bse-500
-- smallcap
+- addition
+- bse-index
 - capital-goods
+- corporate-action
+- index-fund
+- scheme-of-arrangement
+- skf-india
+- smallcap
 title: SKF India (Industrial) Ltd to be Excluded from Multiple BSE Indices
 ---
 

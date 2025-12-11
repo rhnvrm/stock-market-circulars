@@ -26,13 +26,11 @@ source: bse
 stocks:
 - GRANDFOU
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- grand-foundry
-- early-pay-in
 - demat-shares
-- offer-to-buy
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for GRAND
   FOUNDRY LIMITED
 ---

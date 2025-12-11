@@ -26,14 +26,12 @@ source: bse
 stocks:
 - TATAHOUSING
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
-- tata-housing
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of TATA HOUSING DEVELOPMENT COMPANY LIMITED
 ---
 

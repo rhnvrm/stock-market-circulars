@@ -24,11 +24,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sme-ipo
-- price-controls
-- pre-open-session
 - nse-emerge
+- pre-open-session
+- price-controls
 - price-discovery
+- sme
 title: Introduction of 20% Lower Band Floor for SME IPOs
 ---
 

@@ -28,12 +28,11 @@ stocks:
 - ZENTEC
 - ADVANCE
 tags:
-- price-movement
-- volume-spurt
 - clarification
-- surveillance
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - AMBIUM
 tags:
+- ambium-finserve
+- care-bbb-minus
 - debt-securities
 - listing
+- ncd
 - private-placement
-- ambium-finserve
-- debentures
-- CARE-BBB-minus
 title: Listing of New Debt Securities of AMBIUM FINSERVE LIMITED
 ---
 

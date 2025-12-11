@@ -29,12 +29,11 @@ source: bse
 stocks:
 - TWAMEV
 tags:
-- offer-for-sale
-- undersubscription
+- equity
 - listing
-- twamev-construction
 - ofs
-- equity-shares
+- twamev-construction
+- undersubscription
 title: Opening of Offer for Sale for Twamev Construction and Infrastructure Limited
   (Undersubscription Acceptance)
 ---

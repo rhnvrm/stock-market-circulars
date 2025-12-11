@@ -26,11 +26,11 @@ source: bse
 stocks:
 - RINFRA
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- lock-in
+- preferential-issue
 - promoter-subscription
-- lock-in-shares
 title: Listing of New Securities of Reliance Infrastructure Ltd
 ---
 

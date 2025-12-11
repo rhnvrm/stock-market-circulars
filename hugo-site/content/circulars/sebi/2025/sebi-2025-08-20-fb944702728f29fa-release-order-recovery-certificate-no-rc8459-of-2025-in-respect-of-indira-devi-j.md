@@ -25,10 +25,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
-- release-order
+- recovery
+- release
 title: Release Order - Recovery Certificate No. RC8459 of 2025 in respect of Indira
   Devi Jain
 ---

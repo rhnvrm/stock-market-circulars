@@ -27,13 +27,12 @@ source: bse
 stocks:
 - AMBIUM
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
-- corporate-actions
+- redemption
 title: Part Redemption of Debentures of AMBIUM FINSERVE LIMITED
 ---
 

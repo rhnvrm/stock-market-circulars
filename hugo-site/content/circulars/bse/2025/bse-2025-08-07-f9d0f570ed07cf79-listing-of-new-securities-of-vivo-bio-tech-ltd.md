@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- VIVOBIOTECH
+- VIVOBIOT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-issue
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Vivo Bio Tech Ltd - 4,48,889 Equity Shares from
   Warrant Conversion
 ---

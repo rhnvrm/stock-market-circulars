@@ -36,12 +36,9 @@ stocks:
 - MANYAVAR
 - VGUARD
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- employee-stock-options
-- new-shares
-- equity-segment
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - November 12, 2025
 ---
 

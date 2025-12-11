@@ -26,11 +26,9 @@ source: nse
 stocks:
 - BLUESTONE
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- bluestone
-- new-listing
+- listing
 title: Listing of Equity Shares of BlueStone Jewellery and Lifestyle Limited (IPO)
 ---
 

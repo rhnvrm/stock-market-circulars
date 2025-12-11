@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- shareholding-pattern
+- equity
 - listing
-- tata-motors
-- equity-shares
+- lodr
 - regulation-31
-- sebi-lodr
+- shareholding-pattern
+- tata-motors
 title: Listing of Equity Shares of Tata Motors Limited (Formerly TML Commercial Vehicles
   Limited)
 ---

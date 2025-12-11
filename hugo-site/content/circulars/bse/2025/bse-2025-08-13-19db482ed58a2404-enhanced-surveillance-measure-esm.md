@@ -27,11 +27,9 @@ stocks:
 - SPICEISLANDS
 - GALAXYCLOUD
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
   Across ESM Stages
 ---

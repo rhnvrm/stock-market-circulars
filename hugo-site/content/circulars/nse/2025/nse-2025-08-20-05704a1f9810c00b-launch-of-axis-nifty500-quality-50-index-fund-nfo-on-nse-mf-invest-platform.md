@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- index-fund
-- nse-mf-invest
 - axis-mutual-fund
 - equity
+- index-fund
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Axis Nifty500 Quality 50 Index Fund NFO on NSE MF Invest Platform
 ---
 

@@ -28,11 +28,10 @@ source: sebi
 stocks:
 - BFL
 tags:
-- recovery-certificate
-- enforcement-action
-- general-remittance-order
 - compliance-order
-- debt-recovery
+- enforcement
+- general-remittance-order
+- recovery
 title: SEBI Order for Compliance – General Remittance Order for Recovery Certificate
   No. 6461 of 2023 against Pinesh Nareshkumar Shah
 ---

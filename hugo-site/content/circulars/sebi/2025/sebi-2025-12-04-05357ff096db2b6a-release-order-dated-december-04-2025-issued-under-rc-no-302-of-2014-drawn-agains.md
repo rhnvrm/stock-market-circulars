@@ -27,10 +27,9 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- release-order
-- recovery-certificate
 - enforcement
-- kolar-biotech
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 302 of 2014 - Structure Housing
   and Finance Private Limited
 ---

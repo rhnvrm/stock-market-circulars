@@ -43,13 +43,13 @@ stocks:
 - MILGREY
 - BOMBAYTALK
 - YASHMAN
-- SCANSTEELS
+- SCANSTL
 - NILKANTH
 - BANGANGA
 - DHANSAFAL
 - KAJAL
 - SECUREKLOUD
-- BAJAJGLOBAL
+- BAJGLOB
 - TASHI
 - CHAMBAL
 - MANSOON
@@ -78,11 +78,10 @@ stocks:
 - ASIAN
 - BERYL
 tags:
-- rta
-- registrar-transfer-agents
 - adroit-corporate
 - investor-services
 - market-operations
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for December 2025
 ---
 

@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
-- enforcement
-- adsul-trading
 - adam-comsof
+- adsul-trading
+- enforcement
+- recovery
+- release
 title: 'Release Order: Recovery Certificate No. 207/2014 Against Adsul Trading Private
   Limited - Adam Comsof Matter'
 ---

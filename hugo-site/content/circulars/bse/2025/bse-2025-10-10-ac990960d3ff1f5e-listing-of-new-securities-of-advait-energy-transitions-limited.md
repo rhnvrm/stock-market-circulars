@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543230'
+- ADVAIT
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - advait-energy-transitions
+- conversion
+- equity
+- listing
+- preferential-issue
 title: Listing of New Securities of ADVAIT ENERGY TRANSITIONS LIMITED
 ---
 

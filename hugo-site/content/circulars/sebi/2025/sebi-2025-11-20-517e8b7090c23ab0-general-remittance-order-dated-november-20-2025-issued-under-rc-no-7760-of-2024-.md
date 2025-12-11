@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- demand-notice
 - enforcement
-- remittance-order
-- investment-advisor
-- regulatory-action
+- investment-adviser
+- recovery
+- regulatory
 title: General Remittance Order dated November 20, 2025 issued under RC No. 7760 of
   2024 against M/s Loftier Investment Advisor and Research Pvt. Ltd and Others
 ---

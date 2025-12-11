@@ -27,12 +27,11 @@ source: bse
 stocks:
 - JIOCREDIT
 tags:
+- crisil-aaa
 - debt-securities
 - listing
-- jio-credit-limited
+- ncd
 - private-placement
-- non-convertible-debentures
-- CRISIL-AAA
 title: Listing of New Debt Securities of Jio Credit Limited
 ---
 

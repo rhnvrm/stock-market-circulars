@@ -28,11 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- ncd
 - muthoot-microfin
-- debentures
-- new-listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoot Microfin Limited
 ---
 

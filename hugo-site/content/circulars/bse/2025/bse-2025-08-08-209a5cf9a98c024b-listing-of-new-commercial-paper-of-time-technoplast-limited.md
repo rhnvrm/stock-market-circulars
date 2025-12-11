@@ -26,9 +26,9 @@ stocks:
 - TIME
 tags:
 - commercial-paper
-- debt-listing
-- time-technoplast
+- debt-securities
 - private-placement
+- time-technoplast
 title: Listing of new Commercial Paper of Time Technoplast Limited
 ---
 

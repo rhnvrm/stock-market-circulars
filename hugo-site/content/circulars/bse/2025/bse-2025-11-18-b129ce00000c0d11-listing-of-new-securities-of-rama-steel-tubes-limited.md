@@ -28,11 +28,11 @@ source: bse
 stocks:
 - RAMASTEEL
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Rama Steel Tubes Limited
 ---
 

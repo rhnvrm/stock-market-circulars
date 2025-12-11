@@ -28,14 +28,13 @@ source: bse
 stocks:
 - MAHABANK
 tags:
-- offer-for-sale
-- ofs
-- schedule
-- equity
-- institutional-investors
-- retail-investors
-- employee-reservation
 - bidding-timeline
+- employee-reservation
+- equity
+- institutional-investor
+- ofs
+- retail-investor
+- schedule
 title: Opening of Offer for Sale for BANK OF MAHARASHTRA - Live Activities Schedule
 ---
 

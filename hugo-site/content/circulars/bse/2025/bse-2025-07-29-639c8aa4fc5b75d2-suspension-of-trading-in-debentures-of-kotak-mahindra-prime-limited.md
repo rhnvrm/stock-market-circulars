@@ -26,14 +26,14 @@ source: bse
 stocks:
 - KMPL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- kotak-mahindra
-- record-date
 - interest-payment
+- kotak-mahindra
+- ncd
+- record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of KOTAK MAHINDRA PRIME LIMITED
 ---
 

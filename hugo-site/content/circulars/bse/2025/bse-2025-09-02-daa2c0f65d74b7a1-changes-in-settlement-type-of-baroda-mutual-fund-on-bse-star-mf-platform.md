@@ -25,9 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- settlement
 - baroda-mutual-fund
+- mutual-fund
+- settlement
 - trading
 title: Changes in Settlement Type of Baroda BNP Paribas Multi Asset Active FOF on
   BSE StAR MF Platform

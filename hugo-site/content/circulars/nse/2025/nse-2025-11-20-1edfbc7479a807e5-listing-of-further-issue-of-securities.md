@@ -34,17 +34,17 @@ stocks:
 - ISGEC
 - JBCHEPHARM
 - MAXHEALTH
-- METROBRANDS
+- METROBRAND
 - RRKABEL
 - SHRIRAMFIN
 - SYRMA
 - TATACONSUM
 tags:
-- listing
-- esop
-- equity-shares
-- further-issue
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issue of Securities - 14 Companies
 ---
 

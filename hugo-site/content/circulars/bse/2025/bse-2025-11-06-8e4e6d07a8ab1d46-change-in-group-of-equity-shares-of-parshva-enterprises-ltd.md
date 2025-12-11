@@ -27,10 +27,9 @@ source: bse
 stocks:
 - PARSHVA
 tags:
+- asm-stage
+- equity
 - group-change
-- equity-shares
-- t-group
-- b-group
 - parshva-enterprises
 title: Change in Group of Equity Shares of PARSHVA ENTERPRISES LTD
 ---

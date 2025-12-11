@@ -27,13 +27,12 @@ source: bse
 stocks:
 - DSRPL
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt-segment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of DAMJI SHAMJI REALTY PRIVATE LIMITED
 ---
 

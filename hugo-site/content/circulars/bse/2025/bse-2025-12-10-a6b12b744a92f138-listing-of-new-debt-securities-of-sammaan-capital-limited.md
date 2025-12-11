@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bse-debt-segment
 - debt-securities
-- new-listing
+- listing
+- ncd
 - private-placement
 - sammaan-capital
-- debentures
-- bse-debt-segment
 title: Listing of New Debt Securities of Sammaan Capital Limited
 ---
 

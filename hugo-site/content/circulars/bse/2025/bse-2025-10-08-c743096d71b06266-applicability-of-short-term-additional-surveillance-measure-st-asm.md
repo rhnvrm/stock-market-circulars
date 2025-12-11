@@ -36,11 +36,10 @@ stocks:
 - SUJALA
 - TIRUPATI
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
 - trading-restrictions
-- market-integrity
-- additional-surveillance-measure
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

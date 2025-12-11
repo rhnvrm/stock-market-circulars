@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- equity-scheme
+- fund-of-funds
 - mirae-asset
-- fof
+- mutual-fund
 - sip
 - stp
 - swp
-- equity-schemes
 title: Availability of Mirae Asset Multi Factor Passive FOF for ongoing transactions
   on NSE MF Invest Platform
 ---

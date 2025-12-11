@@ -26,11 +26,10 @@ source: nse
 stocks:
 - BRIGHOTEL
 tags:
-- listing
-- ipo
-- equity-shares
-- new-listing
 - brigade-hotel-ventures
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of Brigade Hotel Ventures Limited (IPO)
 ---
 

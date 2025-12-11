@@ -39,7 +39,7 @@ stocks:
 tags:
 - price-band
 - surveillance
-- trading-restriction
+- trading-restrictions
 - volatility-control
 title: Revised Price Bands for 10 Securities Effective December 9, 2025
 ---

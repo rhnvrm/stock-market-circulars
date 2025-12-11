@@ -23,17 +23,14 @@ published_date: '2025-11-03T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML71100.pdf
 severity: low
 source: nse
-stocks:
-- 73TFSIL29
-- 875MOF27
-- 975PCPL28
+stocks: []
 tags:
-- listing
-- debt-securities
-- private-placement
-- bonds
-- debentures
+- bond
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities - Toyota Financial Services, Motilal
   Oswal Finvest, and Profectus Capital
 ---

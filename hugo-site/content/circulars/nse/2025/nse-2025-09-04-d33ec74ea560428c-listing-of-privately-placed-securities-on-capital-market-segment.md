@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SMFG
 tags:
-- listing
-- debt-securities
 - capital-market
+- debt-securities
+- listing
 - trading
-- SMFG
 title: Listing of SMFG India Credit Company Limited Securities on Capital Market Segment
 ---
 

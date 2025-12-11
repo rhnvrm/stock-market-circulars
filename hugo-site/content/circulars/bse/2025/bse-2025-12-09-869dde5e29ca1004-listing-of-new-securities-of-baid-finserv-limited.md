@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BAIDFINSR
 tags:
-- listing
-- equity-shares
-- rights-issue
-- new-securities
 - baid-finserv
+- equity
+- listing
+- new-securities
+- rights-issue
 title: Listing of New Securities of Baid Finserv Limited
 ---
 

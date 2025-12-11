@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
 - corporate-debt
-- holiday-schedule
+- holiday
 - rbi-directive
+- settlement
 title: Changes in Settlement Schedule Corporate Debt Segment - September 2025
 ---
 

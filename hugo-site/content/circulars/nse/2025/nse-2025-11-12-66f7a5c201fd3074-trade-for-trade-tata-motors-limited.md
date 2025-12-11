@@ -27,11 +27,11 @@ source: nse
 stocks:
 - TMCV
 tags:
-- trade-for-trade
+- market-operations
 - rolling-segment
 - segment-transfer
-- trading-mechanism
-- market-operations
+- trade-for-trade
+- trading-operations
 title: Trade for Trade - Tata Motors Limited Transfer to Rolling Segment
 ---
 

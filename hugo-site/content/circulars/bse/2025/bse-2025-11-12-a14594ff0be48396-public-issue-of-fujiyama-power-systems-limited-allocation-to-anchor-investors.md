@@ -26,11 +26,10 @@ source: bse
 stocks:
 - FUJIYAMA
 tags:
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
 - listing
-- equity-shares
-- fujiyama-power-systems
 title: Public Issue of FUJIYAMA POWER SYSTEMS LIMITED - Allocation to Anchor Investors
 ---
 

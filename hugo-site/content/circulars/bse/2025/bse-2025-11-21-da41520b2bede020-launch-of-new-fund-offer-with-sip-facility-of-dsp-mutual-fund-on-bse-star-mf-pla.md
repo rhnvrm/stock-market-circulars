@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- dsp-mutual-fund
+- index-fund
 - mutual-fund
 - nfo
-- dsp-mutual-fund
 - nifty-midcap-150
 - sip
-- bse-star-mf
-- index-fund
 title: Launch of New Fund Offer with SIP Facility of DSP Mutual Fund on BSE StAR MF
   Platform
 ---

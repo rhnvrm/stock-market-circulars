@@ -27,11 +27,11 @@ source: nse
 stocks:
 - CRAMC
 tags:
-- ipo
-- listing
-- equity-shares
 - asset-management
 - canara-robeco
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of Canara Robeco Asset Management Company Limited
   (IPO)
 ---

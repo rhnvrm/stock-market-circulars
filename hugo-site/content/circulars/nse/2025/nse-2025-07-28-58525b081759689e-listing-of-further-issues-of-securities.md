@@ -32,11 +32,11 @@ stocks:
 - ICICIBANK
 - KANSAINER
 tags:
-- listing
-- equity-shares
+- equity
 - esop
+- further-issue
+- listing
 - scheme-arrangement
-- further-issues
 title: Listing of Further Issues of Securities - 11 Companies Including Asian Granito,
   CARE Ratings, Federal Bank
 ---

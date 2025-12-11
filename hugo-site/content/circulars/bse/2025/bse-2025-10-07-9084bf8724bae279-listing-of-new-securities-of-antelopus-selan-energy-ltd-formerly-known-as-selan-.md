@@ -28,11 +28,10 @@ source: bse
 stocks:
 - SELAN
 tags:
-- listing
-- equity-shares
-- scheme-of-arrangement
 - composite-scheme
-- corporate-restructuring
+- equity
+- listing
+- scheme-of-arrangement
 title: Listing of New Securities of Antelopus Selan Energy Ltd pursuant to Composite
   Scheme of Arrangement
 ---

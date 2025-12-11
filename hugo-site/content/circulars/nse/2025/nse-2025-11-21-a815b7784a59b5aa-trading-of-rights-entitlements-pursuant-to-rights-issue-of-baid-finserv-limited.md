@@ -28,12 +28,11 @@ source: nse
 stocks:
 - BAIDFIN
 tags:
-- rights-issue
-- rights-entitlements
-- trading-commencement
-- trade-to-trade
 - demat
 - renunciation
+- rights-issue
+- trade-to-trade
+- trading-operations
 title: Trading of Rights Entitlements pursuant to Rights Issue of Baid Finserv Limited
 ---
 

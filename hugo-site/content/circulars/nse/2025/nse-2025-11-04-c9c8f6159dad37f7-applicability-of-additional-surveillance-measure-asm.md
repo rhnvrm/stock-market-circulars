@@ -28,14 +28,10 @@ stocks:
 - IFBAGRO
 - MEGASTAR
 tags:
-- surveillance
-- ASM
-- additional-surveillance-measure
-- long-term-asm
-- margin-requirement
+- asm-stage
+- margin
 - risk-management
-- IFBAGRO
-- MEGASTAR
+- surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

@@ -27,16 +27,16 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- nse-mf-invest
 - bandhan-mutual-fund
+- holiday
+- mutual-fund
 - nippon-india-mutual-fund
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for November 2025
 ---

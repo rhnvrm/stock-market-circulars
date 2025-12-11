@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SHREEAJIT
 tags:
-- forfeiture
-- equity-shares
-- partly-paid-shares
-- non-payment
 - allotment-money
 - call-money
+- equity
+- forfeiture
+- non-payment
+- partly-paid
 title: Forfeiture of Equity Shares of Shree Ajit Pulp And Paper Ltd
 ---
 

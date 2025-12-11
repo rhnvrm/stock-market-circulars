@@ -29,14 +29,14 @@ stocks:
 - HINDUNILVR
 tags:
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
 - dividend
 - interest-payment
-- redemption
 - ncd
-- commercial-paper
-- corporate-actions
-- spin-off
+- record-date
+- redemption
+- scheme-of-arrangement
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

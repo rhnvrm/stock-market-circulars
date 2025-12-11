@@ -26,10 +26,9 @@ source: nse
 stocks:
 - STLNETWORK
 tags:
-- trade-for-trade
 - rolling-segment
 - segment-transfer
-- STLNETWORK
+- trade-for-trade
 title: Trade for Trade - STL Networks Limited Transfer to Rolling Segment
 ---
 

@@ -30,11 +30,8 @@ stocks:
 - AURIGROW
 tags:
 - corporate-action
-- name-change
-- symbol-change
 - listing
-- GODHA
-- AURIGROW
+- name-change
 title: Change in name and symbol of Godha Cabcon & Insulation Limited
 ---
 

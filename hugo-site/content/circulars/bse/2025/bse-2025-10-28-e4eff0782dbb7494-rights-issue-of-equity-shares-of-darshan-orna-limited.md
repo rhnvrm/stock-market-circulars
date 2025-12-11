@@ -26,13 +26,11 @@ source: bse
 stocks:
 - DARSHANORNA
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- ex-rights
-- darshan-orna-limited
-- '539884'
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Darshan Orna Limited - Ex-Rights Date October
   31, 2025
 ---

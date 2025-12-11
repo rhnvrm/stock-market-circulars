@@ -28,8 +28,8 @@ tags:
 - commercial-paper
 - debt-securities
 - listing
-- standard-chartered
 - private-placement
+- standard-chartered
 title: Listing of new Commercial Paper of Standard Chartered Capital Limited
 ---
 

@@ -27,10 +27,8 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- hdfc-bank
-- mwpl
-- settlement
 - rms
+- settlement
 title: Revised MWPL Position Limits for HDFC Bank Ltd
 ---
 

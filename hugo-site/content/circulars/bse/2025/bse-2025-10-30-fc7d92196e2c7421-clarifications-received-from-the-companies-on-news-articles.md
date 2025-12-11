@@ -29,16 +29,16 @@ source: bse
 stocks:
 - IDEA
 tags:
-- clarification
-- news-article
 - agr-dues
-- supreme-court
-- vodafone-idea
-- telecom
-- regulatory
-- litigation
+- clarification
 - government-equity
+- litigation
+- news-article
 - public-interest
+- regulatory
+- supreme-court
+- telecom
+- vodafone-idea
 title: Vodafone Idea Limited - Clarification on AGR Dues and Supreme Court Order
 ---
 

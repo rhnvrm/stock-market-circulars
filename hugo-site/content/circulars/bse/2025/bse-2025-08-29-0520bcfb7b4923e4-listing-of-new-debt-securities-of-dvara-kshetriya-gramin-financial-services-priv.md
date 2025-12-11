@@ -25,10 +25,10 @@ source: bse
 stocks:
 - DKGFSPL
 tags:
-- debt-listing
-- private-placement
-- dvara-kshetriya
 - crisil-rated
+- debt-securities
+- dvara-kshetriya
+- private-placement
 - quarterly-interest
 title: Listing of New Debt Securities of DVARA KSHETRIYA GRAMIN FINANCIAL SERVICES
   PRIVATE LIMITED

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544624'
+- KKSILK
 tags:
 - group-change
-- trading-segment
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
+- trading
 title: Change in Group of Equity Shares of K K SILK MILLS LIMITED
 ---
 

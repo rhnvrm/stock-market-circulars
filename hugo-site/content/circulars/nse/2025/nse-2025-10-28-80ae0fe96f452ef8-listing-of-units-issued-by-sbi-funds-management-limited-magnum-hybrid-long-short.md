@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- listing
-- sbi-mutual-fund
-- hybrid-fund
 - capital-market
-- new-listing
+- hybrid-fund
+- listing
+- mutual-fund
+- sbi-mutual-fund
 title: Listing of SBI Magnum Hybrid Long Short Fund Units on NSE
 ---
 

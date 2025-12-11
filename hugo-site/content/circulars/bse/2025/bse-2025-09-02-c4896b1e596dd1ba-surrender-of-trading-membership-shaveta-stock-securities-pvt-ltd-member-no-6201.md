@@ -25,9 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-membership
-- sebi-approval
 - member-surrender
+- sebi-order
+- trading-membership
 title: Surrender of Trading Membership – Shaveta Stock & Securities Pvt. Ltd.
 ---
 

@@ -32,12 +32,10 @@ stocks:
 - VEDANTFASH
 - YESBANK
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - December 11, 2025
 ---
 

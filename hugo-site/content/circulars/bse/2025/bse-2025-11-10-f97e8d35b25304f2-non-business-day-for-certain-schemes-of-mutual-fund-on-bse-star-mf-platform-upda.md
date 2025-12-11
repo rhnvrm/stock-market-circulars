@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- star-mf
 - bandhan
-- invesco
 - fund-of-funds
 - holiday
+- invesco
+- mutual-fund
+- star-mf
 title: Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform
   - UPDATE
 ---

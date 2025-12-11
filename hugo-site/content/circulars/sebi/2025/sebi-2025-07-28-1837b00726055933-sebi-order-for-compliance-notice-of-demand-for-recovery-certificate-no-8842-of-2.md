@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - PRESSURE
 tags:
-- recovery-certificate
-- compliance-notice
-- enforcement-action
+- compliance
 - demand-notice
+- enforcement
 - huf
+- recovery
 title: SEBI Order for Compliance – Notice of Demand for Recovery Certificate No. 8842
   of 2025 against Umesh Balkrishan Tibrewala HUF
 ---

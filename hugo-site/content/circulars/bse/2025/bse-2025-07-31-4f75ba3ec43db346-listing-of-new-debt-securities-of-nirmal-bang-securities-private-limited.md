@@ -25,11 +25,10 @@ source: bse
 stocks:
 - NIRMAL BANG SECURITIES
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- nirmal-bang
-- corporate-bonds
 title: Listing of new debt securities of NIRMAL BANG SECURITIES PRIVATE LIMITED
 ---
 

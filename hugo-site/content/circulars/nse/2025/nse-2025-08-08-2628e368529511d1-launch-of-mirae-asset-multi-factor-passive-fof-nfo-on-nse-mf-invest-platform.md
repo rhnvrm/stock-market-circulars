@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- nfo
-- mutual-fund
+- equity-scheme
 - mirae-asset
+- mutual-fund
+- nfo
 - passive-fof
-- equity-schemes
 title: Launch of Mirae Asset Multi Factor Passive FOF NFO on NSE MF Invest Platform
 ---
 

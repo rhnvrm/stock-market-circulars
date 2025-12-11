@@ -27,12 +27,10 @@ source: nse
 stocks:
 - SAHASRA
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trade-for-trade
-- additional-surveillance-measure
-- long-term-asm
 title: Applicability of Additional Surveillance Measure (ASM) - November 2025
 ---
 

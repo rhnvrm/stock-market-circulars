@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
 - mani-marketing
-- release-order
+- recovery
+- release
 title: Release Order - Recovery Certificate No. RC7968 of 2024 in respect of Mani
   Marketing and Holdings Pvt. Ltd
 ---

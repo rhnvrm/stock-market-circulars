@@ -28,17 +28,17 @@ source: bse
 stocks:
 - BANDARAM
 - COASTAL
-- IEL
+- INDXTRA
 - INDOWIND
 - RITAFINANCE
 - SHLOKKA
 - SPEL
 tags:
-- price-band
-- trading
-- surveillance
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band - 7 Securities Effective December 4, 2025
 ---
 

@@ -27,14 +27,11 @@ stocks:
 - MSRIND
 - SCINTILLA
 - MADHURIN
-- RAPCORP
+- RAP
 - FOUNFUEL
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
-- market-surveillance
 - risk-management
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

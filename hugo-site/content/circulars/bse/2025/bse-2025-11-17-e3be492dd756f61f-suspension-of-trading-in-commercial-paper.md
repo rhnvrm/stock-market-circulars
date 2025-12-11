@@ -35,10 +35,10 @@ stocks:
 - TATAPOWER
 tags:
 - commercial-paper
+- corporate-action
+- debt-securities
 - redemption
-- trading-suspension
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

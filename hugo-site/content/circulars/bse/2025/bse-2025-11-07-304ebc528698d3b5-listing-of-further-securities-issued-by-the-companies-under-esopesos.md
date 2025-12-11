@@ -31,13 +31,11 @@ stocks:
 - INDIGO
 - LT
 - QUESS
-- URBANCOMPANY
+- URBANCO
 tags:
-- listing
+- equity
 - esop
-- esos
-- equity-shares
-- employee-stock-options
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - November 2025
 ---
 

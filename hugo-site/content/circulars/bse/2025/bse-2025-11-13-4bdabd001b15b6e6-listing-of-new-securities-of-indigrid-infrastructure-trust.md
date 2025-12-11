@@ -28,12 +28,12 @@ source: bse
 stocks:
 - INDIGRID
 tags:
+- infrastructure-trust
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- infrastructure-trust
 - units
-- lock-in
 title: Listing of New Securities of IndiGrid Infrastructure Trust
 ---
 

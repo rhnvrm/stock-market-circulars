@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NEOGEN
 tags:
+- crisil-rated
 - debt-securities
 - listing
-- private-placement
 - neogen-chemicals
-- crisil-rated
+- private-placement
 title: Listing of new debt securities of Neogen Chemicals Limited
 ---
 

@@ -27,17 +27,15 @@ severity: medium
 source: bse
 stocks:
 - GTNTEX
-- JAYUSHIN
+- JAYUSH
 - LANCERCONT
 - VINTRON
 - TRADEWEL
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- market-safety
-- risk-management
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective November
   4, 2025
 ---

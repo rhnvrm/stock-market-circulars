@@ -33,7 +33,7 @@ stocks:
 - BATLIBOI
 - CHEMCRUX
 - FAALCON
-- FLEXFOODS
+- FLEXFO
 - HBLEASING
 - INFONATIVE
 - KATIPATANG
@@ -58,10 +58,9 @@ stocks:
 - SILICONREN
 - SUPERSHAK
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
+- asm-stage
 - market-operations
+- surveillance
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - OMEGAINTER
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Omega Interactive Technologies Ltd.
 ---
 

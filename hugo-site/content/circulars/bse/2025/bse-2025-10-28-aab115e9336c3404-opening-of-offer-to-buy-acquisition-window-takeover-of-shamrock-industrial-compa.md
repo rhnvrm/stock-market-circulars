@@ -27,13 +27,10 @@ source: bse
 stocks:
 - SHAMROCKIND
 tags:
-- open-offer
-- takeover
-- acquisition
-- substantial-acquisition
-- voting-rights
 - change-in-control
-- SEBI-SAST
+- sast
+- takeover
+- voting-rights
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Shamrock Industrial
   Company Limited
 ---

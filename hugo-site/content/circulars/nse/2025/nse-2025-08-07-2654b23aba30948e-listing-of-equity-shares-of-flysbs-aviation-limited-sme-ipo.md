@@ -25,11 +25,11 @@ source: nse
 stocks:
 - FLYSBS
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- tfts
+- listing
+- sme
 - surveillance
+- trading-platform
 title: Listing of Equity Shares of FlySBS Aviation Limited (SME IPO)
 ---
 

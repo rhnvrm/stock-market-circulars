@@ -25,15 +25,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- equity
 - kotak-mutual-fund
-- subscription
+- mutual-fund
 - redemption
+- rural-opportunities-fund
 - sip
 - stp
+- subscription
 - swp
-- equity-funds
-- rural-opportunities-fund
 title: Availability of Kotak Rural Opportunities Fund for ongoing transactions on
   NSE MF Invest Platform
 ---

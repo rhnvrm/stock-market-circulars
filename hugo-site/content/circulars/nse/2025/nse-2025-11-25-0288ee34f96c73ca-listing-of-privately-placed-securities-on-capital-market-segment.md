@@ -28,13 +28,13 @@ source: nse
 stocks:
 - ISEC
 tags:
-- listing
-- debt-securities
-- debentures
-- treasury-bills
-- icici-securities
-- government-securities
 - capital-market
+- debt-securities
+- gsec
+- icici-securities
+- listing
+- ncd
+- treasury-bills
 title: Listing of Privately Placed Securities - ICICI Securities Debt and T-Bills
 ---
 

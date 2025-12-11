@@ -27,15 +27,13 @@ severity: medium
 source: bse
 stocks:
 - CHPL
-- MRCAGROTECH
+- MRCAGRO
 - SABEVENTS
 - SVARNIMTRADE
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Updates
 ---
 

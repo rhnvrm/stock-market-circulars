@@ -25,10 +25,10 @@ source: bse
 stocks:
 - AKARA
 tags:
-- debt-listing
-- private-placement
-- new-securities
 - akara-capital
+- debt-securities
+- new-securities
+- private-placement
 title: Listing of new debt securities of Akara Capital Advisors Private Limited
 ---
 

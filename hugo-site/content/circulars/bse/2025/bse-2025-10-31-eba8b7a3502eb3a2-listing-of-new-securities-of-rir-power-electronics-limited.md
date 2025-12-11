@@ -27,12 +27,11 @@ source: bse
 stocks:
 - RIRPOWER
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- rir-power-electronics
+- preferential-issue
 title: Listing of New Securities of RIR Power Electronics Limited - 2.84 Million Equity
   Shares
 ---

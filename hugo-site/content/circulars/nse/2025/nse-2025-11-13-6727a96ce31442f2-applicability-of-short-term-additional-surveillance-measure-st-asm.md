@@ -36,10 +36,9 @@ stocks:
 - LAKSHYA
 - TDPOWERSYS
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- asm-framework
-- st-asm
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

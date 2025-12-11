@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- sahara-india
-- property-attachment
-- investor-refund
+- appeal
 - information-disclosure
+- investor-refund
+- property-attachment
+- rti
+- sahara-india
 title: Appeal No. 6598 of 2025 filed by Vikas Baliyan
 ---
 

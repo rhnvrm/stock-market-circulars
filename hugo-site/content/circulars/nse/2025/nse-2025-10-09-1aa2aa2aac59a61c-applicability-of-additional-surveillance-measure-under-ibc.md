@@ -44,20 +44,9 @@ stocks:
 - ARTEDZ
 - BANSAL
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
+- surveillance
 - trading-restrictions
-- EASTSILK
-- JPASSOCIAT
-- UEL
-- WAAREEINDO
-- GENSOL
-- SANCO
-- SICALLOG
-- SWANDEF
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

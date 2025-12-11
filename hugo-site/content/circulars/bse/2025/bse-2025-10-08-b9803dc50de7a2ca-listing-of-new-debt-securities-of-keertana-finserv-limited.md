@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-securities
-- listing
-- keertana-finserv
-- private-placement
-- debentures
 - credit-rating
+- debt-securities
+- keertana-finserv
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Keertana Finserv Limited
 ---
 

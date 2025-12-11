@@ -25,11 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- equity-derivatives
-- bolt-pro-tws
-- testing
-- system-upgrade
+- system-update
+- trading-platform
 title: Mock Trading Session for Equity Derivatives Segment - September 06, 2025
 ---
 

@@ -29,10 +29,10 @@ stocks:
 - TCL
 tags:
 - commercial-paper
+- corporate-action
 - debt-securities
 - redemption
-- trading-suspension
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

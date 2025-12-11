@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- demand-notice
 - enforcement
-- recovery-certificate
+- penalty
+- recovery
 - social-media
 - stock-recommendations
 - violations
-- penalty
-- demand-notice
 title: Notice of Demand (NoD) under Recovery Certificate No. 8952 of 2025 issued against
   Mr. Himanshu Mahendrabhai Patel, Mr. Raj Mahendrabhai Patel and Mr. Jaydev Zala
 ---

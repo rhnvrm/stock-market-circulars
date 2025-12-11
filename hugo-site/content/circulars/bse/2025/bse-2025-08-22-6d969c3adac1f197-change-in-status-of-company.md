@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SAMTEL
 tags:
+- appeal
 - delisting
-- suspension
 - status-change
-- sat-order
-- samtel
+- suspension
 title: Samtel (India) Ltd Status Changed from Delisted to Suspended Following SAT
   Order
 ---

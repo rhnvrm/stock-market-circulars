@@ -28,7 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- satin-creditcare
 title: Listing of new debt securities of SATIN CREDITCARE NETWORK LIMITED
 ---
 

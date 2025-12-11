@@ -27,12 +27,9 @@ stocks:
 - GARUDA
 - HIRECT
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trade-for-trade
-- GARUDA
-- HIRECT
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
 ---
 

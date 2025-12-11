@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- groww
+- index-fund
 - mutual-fund
 - nfo
-- index-fund
 - nifty-next-50
-- groww
 - platform-launch
 title: Launch of Groww Nifty Next 50 Index Fund NFO on NSE MF Invest Platform
 ---

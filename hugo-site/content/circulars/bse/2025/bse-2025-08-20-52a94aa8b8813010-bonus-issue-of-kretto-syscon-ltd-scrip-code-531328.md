@@ -25,11 +25,11 @@ source: bse
 stocks:
 - KRETTOSYS
 tags:
-- bonus-issue
-- equity-shares
-- listing
 - allotment
+- bonus
 - corporate-action
+- equity
+- listing
 title: Bonus Issue of Kretto Syscon Limited - 4:5 Ratio Bonus Shares
 ---
 

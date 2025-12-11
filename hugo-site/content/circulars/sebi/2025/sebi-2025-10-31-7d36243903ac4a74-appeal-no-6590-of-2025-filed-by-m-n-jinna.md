@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl
+- appeal
 - investor-refund
 - lodha-committee
-- appellate-authority
+- pacl
+- rti
 title: Appeal No. 6590 of 2025 filed by M N Jinna - RTI Appeal Dismissed
 ---
 

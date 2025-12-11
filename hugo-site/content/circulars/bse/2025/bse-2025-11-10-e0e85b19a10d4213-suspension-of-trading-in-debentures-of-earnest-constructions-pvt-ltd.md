@@ -26,13 +26,12 @@ source: bse
 stocks:
 - EARNESTCONST
 tags:
-- trading-suspension
-- debentures
 - debt-securities
-- ncd
-- early-redemption
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of EARNEST CONSTRUCTIONS PVT LTD
 ---
 

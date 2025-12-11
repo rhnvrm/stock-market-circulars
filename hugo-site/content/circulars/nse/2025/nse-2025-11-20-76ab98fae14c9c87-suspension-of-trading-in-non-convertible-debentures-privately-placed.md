@@ -27,15 +27,15 @@ stocks:
 - INDUSTOWER
 - BHARTITEL
 - EXIM
-- TATACAPITAL
+- TATACAP
 - CITICORPFIN
 tags:
-- debt-market
-- non-convertible-debentures
-- suspension
-- redemption
-- trading-halt
+- debt-securities
+- ncd
 - privately-placed
+- redemption
+- suspension
+- trading-halt
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

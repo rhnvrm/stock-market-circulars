@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - invesco
-- nomenclature-change
-- scheme-names
-- bse-star-mf
+- mutual-fund
+- name-change
 - regular-plan
+- scheme-names
 title: Change in Nomenclature of Plan(s) for certain schemes of Invesco Mutual Fund
   on BSE StAR MF Platform
 ---

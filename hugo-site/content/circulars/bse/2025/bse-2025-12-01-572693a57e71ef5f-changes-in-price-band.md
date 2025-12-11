@@ -61,11 +61,11 @@ stocks:
 - VENUS
 - WORKMATES
 tags:
-- price-band
-- surveillance
-- trading-restriction
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-restrictions
 title: Changes in Price Band for 35 Securities
 ---
 

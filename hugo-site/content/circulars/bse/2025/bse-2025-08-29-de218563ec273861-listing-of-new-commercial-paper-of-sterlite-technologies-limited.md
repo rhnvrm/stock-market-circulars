@@ -26,10 +26,10 @@ stocks:
 - STLTECH
 tags:
 - commercial-paper
-- debt-listing
-- sterlite-technologies
-- private-placement
+- debt-securities
 - hdfc-bank
+- private-placement
+- sterlite-technologies
 title: Listing of new Commercial Paper of Sterlite Technologies Limited
 ---
 

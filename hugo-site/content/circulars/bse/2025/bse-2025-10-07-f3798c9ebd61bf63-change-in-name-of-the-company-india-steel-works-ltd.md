@@ -24,9 +24,8 @@ source: bse
 stocks:
 - INDIASTEELWORKS
 tags:
-- name-change
 - corporate-action
-- india-steel-works
+- name-change
 title: Change in Name of the Company - India Steel Works Ltd.
 ---
 

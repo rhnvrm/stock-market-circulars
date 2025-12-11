@@ -28,10 +28,10 @@ stocks:
 - HINDALFL
 tags:
 - debt-securities
-- listing
-- private-placement
-- debentures
 - hinduja-leyland-finance
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Hinduja Leyland Finance Limited
 ---
 

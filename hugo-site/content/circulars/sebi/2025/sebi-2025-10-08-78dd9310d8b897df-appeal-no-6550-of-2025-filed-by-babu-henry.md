@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- vigilance
-- cvc
-- complaint-resolution
 - administrative
+- appeal
+- complaint-resolution
+- cvc
+- rti
+- vigilance
 title: Appeal No. 6550 of 2025 filed by Babu Henry
 ---
 

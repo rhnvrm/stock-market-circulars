@@ -25,12 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-schedule
 - capital-market
-- auction-settlement
-- mtf
-- t+1-settlement
 - clearing
+- mtf
+- settlement
+- t1-settlement
 title: Revision in the settlement schedule for 09th and 10th September 2025
 ---
 

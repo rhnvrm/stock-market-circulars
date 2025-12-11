@@ -23,12 +23,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- successive-nominations
-- demat-accounts
+- appeal
+- demat
 - information-disclosure
-- regulatory-transparency
-- appellate-authority
+- regulatory
+- rti
+- successive-nominations
 title: 'RTI Appeal No. 6451 of 2025: SEBI Denies Information on Successive Nominations
   in DEMAT Accounts'
 ---

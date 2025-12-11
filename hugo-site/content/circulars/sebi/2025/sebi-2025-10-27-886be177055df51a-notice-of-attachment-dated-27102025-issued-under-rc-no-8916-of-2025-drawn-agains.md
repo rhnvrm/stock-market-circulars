@@ -30,12 +30,9 @@ source: sebi
 stocks:
 - GENERICENG
 tags:
-- attachment-notice
-- recovery-certificate
-- enforcement-action
-- recovery-proceedings
-- generic-engineering
-- debt-recovery
+- attachment
+- enforcement
+- recovery
 title: Notice of Attachment dated 27.10.2025 issued under RC No. 8916 of 2025 drawn
   against Moglesh Chanappa Koni in the matter of Generic Engineering Construction
   and Project Limited

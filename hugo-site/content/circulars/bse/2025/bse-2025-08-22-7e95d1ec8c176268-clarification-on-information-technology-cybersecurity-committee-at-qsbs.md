@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- qualified-stockbrokers
-- cybersecurity
-- it-committee
 - board-committees
 - compliance
-- sebi-framework
+- cybersecurity
+- it-committee
+- qualified-stockbrokers
+- regulatory-framework
 title: Clarification on Information Technology / Cybersecurity Committee Requirements
   for Qualified Stockbrokers
 ---

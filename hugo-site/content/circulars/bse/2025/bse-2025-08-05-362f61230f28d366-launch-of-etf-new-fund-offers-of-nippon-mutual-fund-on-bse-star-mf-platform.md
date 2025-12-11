@@ -27,11 +27,10 @@ stocks: []
 tags:
 - mutual-fund
 - sip
+- smart-switch
 - stp
 - sundaram-mutual-fund
 - weekly-frequency
-- systematic-investment-plan
-- systematic-transfer-plan
 title: Sundaram Mutual Fund Updates Weekly SIP/STP Processing to All Working Days
 ---
 

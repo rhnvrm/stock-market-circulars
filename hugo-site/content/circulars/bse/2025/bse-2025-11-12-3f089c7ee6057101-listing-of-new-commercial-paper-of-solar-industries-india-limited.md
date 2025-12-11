@@ -28,10 +28,9 @@ stocks:
 - SOLARINDS
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - solar-industries
-- debt-segment
 title: Listing of new Commercial Paper of Solar Industries India Limited
 ---
 

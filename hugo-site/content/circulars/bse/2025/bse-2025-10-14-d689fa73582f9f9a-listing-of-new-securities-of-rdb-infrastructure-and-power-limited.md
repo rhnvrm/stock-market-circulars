@@ -28,12 +28,11 @@ source: bse
 stocks:
 - RDBINFRA
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
-- rdb-infrastructure
+- preferential-issue
 title: Listing of New Securities of RDB Infrastructure and Power Limited - 24.8 Million
   Equity Shares
 ---

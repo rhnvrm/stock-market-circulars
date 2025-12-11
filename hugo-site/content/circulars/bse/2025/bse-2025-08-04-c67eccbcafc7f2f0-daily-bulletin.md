@@ -29,12 +29,12 @@ stocks:
 - ACE
 - AKZOINDIA
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
-- corporate-actions
-- ncd-redemption
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure and Record Dates for Corporate Actions
 ---
 

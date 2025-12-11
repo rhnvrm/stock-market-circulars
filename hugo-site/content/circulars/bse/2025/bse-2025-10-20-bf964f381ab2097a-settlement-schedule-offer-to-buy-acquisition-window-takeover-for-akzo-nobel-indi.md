@@ -27,12 +27,10 @@ source: bse
 stocks:
 - AKZONOBEL
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - early-pay-in
-- AKZONOBEL
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for AKZO NOBEL
   INDIA LIMITED
 ---

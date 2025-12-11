@@ -27,10 +27,9 @@ source: bse
 stocks:
 - UTKARSH
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
 - equity
+- renunciation
+- rights-issue
 - trading
 - utkarsh-small-finance-bank
 title: Rights Entitlements Trading for Utkarsh Small Finance Bank Limited

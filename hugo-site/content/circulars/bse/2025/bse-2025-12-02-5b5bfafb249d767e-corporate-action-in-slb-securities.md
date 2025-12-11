@@ -29,13 +29,13 @@ stocks:
 - PATELENG
 - ENGINERSIN
 tags:
+- collateral
 - corporate-action
-- slb
-- securities-lending
-- spin-off
-- rights-issue
 - dividend
 - foreclosure
+- rights-issue
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - Spin Off, Rights Issue and Dividend
 ---
 

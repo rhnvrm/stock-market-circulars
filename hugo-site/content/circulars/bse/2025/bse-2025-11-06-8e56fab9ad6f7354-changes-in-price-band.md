@@ -28,18 +28,18 @@ stocks:
 - BATLIBOI
 - CHOTHANI
 - EPACK
-- LIBORDFINANCE
+- LIBORDFIN
 - LSINDUSTRIES
 - NIRMITEE
-- PANTHINFINITY
+- PANTH
 - UTL
 - WORTHINVEST
 tags:
-- price-band
-- trading
-- surveillance
 - circuit-limits
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 9 Securities - Effective November 7, 2025
 ---
 

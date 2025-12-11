@@ -25,11 +25,10 @@ source: bse
 stocks:
 - POWERGRID
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- power-grid
-- corporate-bonds
 title: Listing of new debt securities of POWER GRID CORPORATION OF INDIA LIMITED
 ---
 

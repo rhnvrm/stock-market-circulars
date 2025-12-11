@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- derivatives
-- options
-- futures
 - brent-crude
 - commodity
-- trading
 - contract-specifications
+- derivatives
+- futures-options
+- options
+- trading
 title: Further Launch Calendar of Brent Crude Oil Options on Futures Contracts
 ---
 

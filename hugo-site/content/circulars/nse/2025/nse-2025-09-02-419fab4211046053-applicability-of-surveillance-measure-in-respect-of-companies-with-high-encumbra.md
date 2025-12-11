@@ -36,21 +36,10 @@ stocks:
 - MARATHON
 - RTNPOWER
 tags:
-- surveillance
-- margin-requirements
 - encumbrance
-- sebi-sast
-- INDOTECH
-- AAVAS
-- STEELXIND
-- GENUSPOWER
-- MSPL
-- DPSCLTD
-- NRBBEARING
-- SHAREINDIA
-- NUVAMA
-- MARATHON
-- RTNPOWER
+- margin
+- sast
+- surveillance
 title: Surveillance Measure for Companies with High Encumbrance under SEBI SAST Regulations
 ---
 

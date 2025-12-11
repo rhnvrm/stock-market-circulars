@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- rfq-platform
-- debt-market
-- trading
-- otm-transactions
 - brokered-transactions
-- yield-calculator
-- sebi-directions
+- debt-securities
 - operational-enhancements
+- otm-transactions
+- rfq-platform
+- sebi-order
+- trading
+- yield-calculator
 title: Enhancements on RFQ Platform
 ---
 

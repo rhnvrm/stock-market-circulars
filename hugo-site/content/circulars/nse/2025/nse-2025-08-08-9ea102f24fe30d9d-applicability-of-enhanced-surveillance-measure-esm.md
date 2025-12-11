@@ -33,12 +33,10 @@ stocks:
 - CEREBRAINT
 - ELGIRUBCO
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
+- margin
 - price-band
 - surveillance
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Between Stages
 ---
 

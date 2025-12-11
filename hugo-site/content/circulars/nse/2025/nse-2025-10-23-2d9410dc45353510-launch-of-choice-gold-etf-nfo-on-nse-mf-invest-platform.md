@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- choice-mutual-fund
+- gold
 - mutual-fund
 - nfo
-- gold-etf
-- choice-mutual-fund
-- nse-mf-invest
-- new-fund-offer
+- trading-platform
 title: Launch of Choice Gold ETF NFO on NSE MF Invest Platform
 ---
 

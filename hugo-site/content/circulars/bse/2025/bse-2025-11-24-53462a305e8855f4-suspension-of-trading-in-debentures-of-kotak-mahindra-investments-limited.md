@@ -26,13 +26,12 @@ source: bse
 stocks:
 - KOTAKINVEST
 tags:
-- debentures
+- debt-securities
+- ncd
+- record-date
+- redemption
 - suspension
 - trading-halt
-- redemption
-- non-convertible-debentures
-- debt-market
-- record-date
 title: Suspension of Trading in Debentures of KOTAK MAHINDRA INVESTMENTS LIMITED
 ---
 

@@ -28,13 +28,13 @@ source: nse
 stocks:
 - CAMS
 tags:
-- early-pay-in
-- face-value-split
-- sub-division
 - corporate-action
-- settlement
 - depository
+- early-pay-in
+- face-value-change
 - margin-exemption
+- settlement
+- split
 title: Early Pay-in of Securities for Computer Age Management Services Limited (CAMS)
 ---
 

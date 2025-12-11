@@ -27,9 +27,9 @@ stocks: []
 tags:
 - maintenance
 - mutual-fund
-- star-mf-platform
-- system-maintenance
+- system-update
 - trading-operations
+- trading-platform
 title: Maintenance Activity on BSE StAR MF Platform - August 30, 2025
 ---
 

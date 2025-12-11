@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- debt-securities
+- groww-mutual-fund
+- money-market-fund
 - mutual-fund
 - nfo
 - sip
-- groww-mutual-fund
-- debt-fund
-- money-market-fund
-- bse-star-mf
 title: Launch of NFO with SIP of GROWW Mutual Fund on BSE StAR MF Platform
 ---
 

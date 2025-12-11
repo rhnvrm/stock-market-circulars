@@ -84,12 +84,11 @@ stocks:
 - EICHERMOT
 - ETERNAL
 tags:
-- position-limits
-- trading-limits
 - fii
 - fpi
-- mutual-funds
-- market-wide-limits
+- mutual-fund
+- position-limits
+- trading-operations
 title: Applicable MWPL, TM, FII/FPI & MF Limits
 ---
 

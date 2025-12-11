@@ -66,7 +66,7 @@ stocks:
 - HITACHI
 - IFCI
 - INDIAPEST
-- INFOSYS
+- INFY
 - JISLJALEQS
 - JKLAKSHMI
 - KPRMILL
@@ -85,13 +85,13 @@ stocks:
 - NAGARJUNAF
 - NATIONALSEC
 - NIPPONNIF
-- NMDCSTEEL
+- NSLNISP
 - PAISALO
 - PCS
 - PEARLPOLY
 - POLYPLEX
 - PRIME
-- RBDENIMS
+- RNBDENIMS
 - RVNL
 - RASHI
 - RHIM
@@ -113,17 +113,17 @@ stocks:
 - TVSELECTRO
 - UNIONBANK
 - UTIMF
-- VIPUL
+- VIPULLTD
 - WAAREE
 - WANBURY
 - WEBSOLENE
 - ZUARIIND
 tags:
-- demat-auction
-- settlement
 - auction-process
+- demat
+- early-pay-in
 - market-operations
-- delivery-obligations
+- settlement
 title: Demat Auction - Settlement No. 754
 ---
 

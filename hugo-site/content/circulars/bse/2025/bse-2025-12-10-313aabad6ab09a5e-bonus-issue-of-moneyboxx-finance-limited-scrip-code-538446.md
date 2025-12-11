@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
-- bonus-issue
-- corporate-action
-- equity-shares
 - allotment
-- moneyboxx-finance
+- bonus
+- corporate-action
+- equity
 title: Bonus Issue of Moneyboxx Finance Limited - Record Date December 15, 2025
 ---
 

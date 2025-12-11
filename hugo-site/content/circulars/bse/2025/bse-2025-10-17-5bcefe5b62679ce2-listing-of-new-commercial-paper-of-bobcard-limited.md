@@ -27,10 +27,8 @@ stocks:
 - BOBCARD
 tags:
 - commercial-paper
-- debt-listing
-- bobcard
+- debt-securities
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of BOBCARD LIMITED
 ---
 

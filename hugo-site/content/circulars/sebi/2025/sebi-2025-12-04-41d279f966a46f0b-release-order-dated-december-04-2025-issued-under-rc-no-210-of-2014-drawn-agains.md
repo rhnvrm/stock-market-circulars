@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
+- adam-comsof-limited
 - enforcement
 - million-investrade-limited
-- adam-comsof-limited
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 210 of 2014 - M/s Million Investrade
   Limited
 ---

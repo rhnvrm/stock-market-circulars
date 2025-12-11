@@ -27,14 +27,13 @@ source: nse
 stocks:
 - DECIPHER
 tags:
-- sebi-order
-- sat-appeal
-- market-access-restriction
 - debarment
-- stay-order
-- decipher-labs
 - investigation
-- regulatory-action
+- market-access-restriction
+- regulatory
+- sat-appeal
+- sebi-order
+- stay-order
 title: SEBI Direction in the Matter of Decipher Labs Ltd - SAT Stay Order
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - KUBER
 tags:
-- recovery-certificate
 - compliance
 - enforcement
 - kuber-udyog-limited
-- release-order
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 2917
   of 2020 against Ilesh Madhusudan Patel in the matter of M/s Kuber Udyog Limited
 ---

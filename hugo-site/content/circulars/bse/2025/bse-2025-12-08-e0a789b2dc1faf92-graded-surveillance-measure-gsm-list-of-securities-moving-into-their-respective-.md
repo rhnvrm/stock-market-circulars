@@ -33,11 +33,9 @@ stocks:
 - MONIND
 - DECOROUS
 tags:
-- gsm
+- asm-stage
 - surveillance
 - trading-restrictions
-- market-surveillance
-- stage-migration
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into Their Respective
   GSM Stages
 ---

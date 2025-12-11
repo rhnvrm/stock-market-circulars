@@ -25,13 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- rca-reports
-- technical-glitches
-- stock-exchange-compliance
-- information-disclosure
-- fiduciary-relationship
 - confidential-information
+- fiduciary-relationship
+- information-disclosure
+- rca-reports
+- rti
+- stock-exchange-compliance
+- technical-glitches
 title: Appeal No. 6545 of 2025 filed by Sandeep V
 ---
 

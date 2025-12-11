@@ -26,19 +26,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- CANDOURTECHTEX
+- CANDOUR
 - CUBICALFIN
 - DHARANIFIN
 - SHREEKRISHNAPAPER
 - SYSTEMATIX
-- WOMENNETWORKS
+- WOMENNET
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   15, 2025
 ---

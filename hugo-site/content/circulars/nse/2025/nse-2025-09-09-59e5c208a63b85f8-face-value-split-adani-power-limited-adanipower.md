@@ -26,10 +26,9 @@ source: nse
 stocks:
 - ADANIPOWER
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
-- ADANIPOWER
+- equity
+- face-value-change
 title: Face Value Split - Adani Power Limited (ADANIPOWER)
 ---
 

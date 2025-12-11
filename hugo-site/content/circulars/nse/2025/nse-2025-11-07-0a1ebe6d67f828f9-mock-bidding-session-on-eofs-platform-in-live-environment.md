@@ -25,11 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- eofs
-- offer-for-sale
-- testing
 - capital-market
+- eofs
+- mock-trading
+- ofs
 title: Mock Bidding Session on eOFS Platform in Live Environment
 ---
 

@@ -26,17 +26,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - index-fund
 - manufacturing
-- trading
-- bse-star-mf
+- mutual-fund
 - nippon-india
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
+- trading
 title: NIPPON INDIA NIFTY INDIA MANUFACTURING INDEX FUND Reopened for Trading on BSE
   StAR MF Platform
 ---

@@ -28,13 +28,8 @@ source: bse
 stocks:
 - SWANDEFENCE
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
-- swan-defence
+- surveillance
 title: Surveillance Measure for Securities under Insolvency and Bankruptcy Code (IBC)
 ---
 

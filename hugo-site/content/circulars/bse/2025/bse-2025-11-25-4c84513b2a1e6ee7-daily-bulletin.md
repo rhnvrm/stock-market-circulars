@@ -29,14 +29,14 @@ stocks:
 - ACHIIEVERS
 - ABCAPITAL
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
+- daily-bulletin
+- debenture-redemption
 - dividend
 - interest-payment
-- debenture-redemption
-- commercial-paper
-- corporate-actions
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sip
 - groww
-- star-mf
+- mutual-fund
 - platform
+- sip
+- star-mf
 title: Introduction of additional SIP schemes of GROWW MUTUAL FUND on BSE StAR MF
   platform
 ---

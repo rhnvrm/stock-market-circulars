@@ -27,12 +27,11 @@ stocks:
 - MURAE
 - KAIROSOFT
 tags:
-- surveillance
-- social-media
-- unsolicited-videos
-- market-manipulation
+- market-operations
 - murae-organisor
-- kairosoft-ai
+- social-media
+- surveillance
+- unsolicited-videos
 title: Surveillance Action on Unsolicited Videos and Messages in Social Media - Update
 ---
 

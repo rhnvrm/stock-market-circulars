@@ -93,12 +93,10 @@ stocks:
 - GODREJPROP
 tags:
 - derivatives
-- position-limits
-- equity-derivatives
-- trading-limits
-- market-wide-limits
-- futures
+- futures-options
 - options
+- position-limits
+- trading-operations
 title: Market Wide Position Limits for Equity Derivatives Segment
 ---
 

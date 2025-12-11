@@ -27,11 +27,11 @@ stocks:
 - BHARTIARTL
 - ABCAPITAL
 tags:
-- listing
-- debt-securities
-- privately-placed
-- non-convertible-debentures
 - capital-market
+- debt-securities
+- listing
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities on Capital Market Segment - October
   2025
 ---

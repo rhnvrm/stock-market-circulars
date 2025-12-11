@@ -34,12 +34,12 @@ stocks:
 - KALPATARU
 - MAHLIFE
 tags:
-- trading-suspension
 - commercial-paper
+- corporate-action
 - debt-securities
-- redemption
-- corporate-actions
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Companies
 ---
 

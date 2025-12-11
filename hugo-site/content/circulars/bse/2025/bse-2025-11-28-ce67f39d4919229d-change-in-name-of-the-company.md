@@ -25,14 +25,13 @@ published_date: '2025-11-28T07:46:19+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={90BA8EE5-8B76-4B6E-A553-578F67450E63}&noticeno=20251128-7&dt=11/28/2025&icount=7&totcount=58&flag=0
 severity: low
 source: bse
-stocks:
-- '535697'
+stocks: []
 tags:
-- name-change
+- certificate
 - corporate-action
-- certificate-of-incorporation
 - kitchen-utensils
 - metals-alloys
+- name-change
 title: 'Change in Name: SAI SWAMI METALS AND ALLOYS LIMITED to DOLPHIN KITCHEN UTENSILS
   AND APPLIANCES LIMITED'
 ---

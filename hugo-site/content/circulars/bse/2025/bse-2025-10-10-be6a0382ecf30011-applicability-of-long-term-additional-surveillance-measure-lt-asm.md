@@ -36,22 +36,21 @@ stocks:
 - RAJPACKIND
 - VINTRON
 - ALPINEHOUSING
-- BEEYUOVERSEAS
+- BEEYU
 - CEINSYS
 - ECOHOTELS
 - KAIZENAGROINFRA
 - LOKESHMACH
-- SABINDUSTRIES
+- SAB
 - SITAENT
-- VIRGOGLOBAL
+- VIRGOGLOB
 - VISASTEEL
 - YAANENT
 tags:
-- surveillance
-- lt-asm
-- market-surveillance
-- trading-restrictions
+- asm-stage
 - compliance
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pwbd-reservation
-- recruitment
 - disability-benefits
 - information-disclosure
+- pwbd-reservation
+- recruitment
+- rti
 title: Appeal No. 6574 of 2025 filed by Omkar Mukund Darunkar
 ---
 

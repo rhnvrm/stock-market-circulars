@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- hdfc-bank
 - mirae-asset
 - private-placement
-- hdfc-bank
 - short-term-debt
 title: Listing of new Commercial Paper of Mirae Asset Financial Services (India) Private
   Limited

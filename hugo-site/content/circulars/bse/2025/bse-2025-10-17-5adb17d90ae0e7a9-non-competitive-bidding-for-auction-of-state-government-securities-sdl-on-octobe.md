@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sdl
-- state-government-securities
-- non-competitive-bidding
 - auction
-- debt-market
-- rbi
 - chhattisgarh
+- debt-securities
 - maharashtra
+- non-competitive-bidding
 - rajasthan
+- rbi
+- sdl
 - tamil-nadu
 - uttar-pradesh
 title: Non-Competitive Bidding for Auction of State Government Securities (SDL) on

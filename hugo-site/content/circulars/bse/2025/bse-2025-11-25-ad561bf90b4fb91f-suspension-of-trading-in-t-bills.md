@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- debt-market
-- trading-suspension
+- debt-securities
+- gsec
 - maturity
-- government-securities
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 91TB281125 Maturing November 28, 2025
 ---
 

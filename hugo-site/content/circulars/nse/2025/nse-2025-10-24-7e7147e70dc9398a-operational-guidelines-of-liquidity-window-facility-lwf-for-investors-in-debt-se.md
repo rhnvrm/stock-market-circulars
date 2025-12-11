@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
+- clearing
 - debt-securities
-- liquidity-window
-- put-option
-- operational-guidelines
 - investor-facility
+- liquidity-window
 - market-mechanism
-- sebi-circular
-- clearing-settlement
+- operational-guidelines
+- put-option
+- sebi
 title: Operational Guidelines of Liquidity Window Facility (LWF) for Investors in
   Debt Securities
 ---

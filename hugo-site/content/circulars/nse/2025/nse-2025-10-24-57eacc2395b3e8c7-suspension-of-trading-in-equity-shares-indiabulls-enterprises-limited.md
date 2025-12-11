@@ -24,14 +24,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML70952.pdf
 severity: high
 source: nse
 stocks:
-- IEL
+- INDXTRA
 tags:
-- suspension
-- trading-suspension
-- amalgamation
-- scheme-of-arrangement
-- equity-shares
 - be-series
+- equity
+- scheme-of-arrangement
+- suspension
 title: Suspension of Trading in Equity Shares - Indiabulls Enterprises Limited
 ---
 

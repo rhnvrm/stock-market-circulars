@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- nomination-facilities
-- mutual-funds
 - compliance
-- sebi-circular
 - implementation-deferment
-- nse-mf-invest
+- mutual-fund
+- nomination-facilities
 - regulatory-timeline
+- sebi
+- trading-platform
 title: Deferment of Timeline for Implementation of Revised Nomination Facilities for
   Opt-Out on NSE MF Invest Platform
 ---

@@ -27,9 +27,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - varthana-finance
-- debentures
 title: Listing of New Debt Securities of Varthana Finance Private Limited
 ---
 

@@ -26,14 +26,13 @@ source: bse
 stocks:
 - GALAXYAGRI
 - DHENU
-- BACILPHARMA
+- BACPHAR
 - SHRINIWAS
 - JYOTIRGAMYA
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

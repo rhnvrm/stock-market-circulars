@@ -26,9 +26,8 @@ stocks:
 - SHREECEM
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- shree-cements
 - short-term-financing
 title: Listing of new Commercial Paper of Shree Cements Ltd.
 ---

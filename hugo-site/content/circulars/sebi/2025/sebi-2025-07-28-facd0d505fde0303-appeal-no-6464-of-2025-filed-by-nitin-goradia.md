@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - corruption-complaint
-- vigilance
 - procedural-guidance
-- appeal-dismissed
+- rti
+- vigilance
 title: RTI Appeal No. 6464 of 2025 by Nitin Goradia Dismissed
 ---
 

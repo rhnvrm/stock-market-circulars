@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SARVES
 tags:
-- rights-entitlements
+- demat
+- renunciation
 - rights-issue
 - trading
-- renunciation
-- demat-only
 title: Rights Entitlements Trading for SARVESHWAR FOODS LIMITED
 ---
 

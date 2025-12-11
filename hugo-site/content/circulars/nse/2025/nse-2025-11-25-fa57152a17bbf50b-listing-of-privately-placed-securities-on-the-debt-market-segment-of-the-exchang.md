@@ -28,12 +28,12 @@ source: nse
 stocks:
 - ISEC
 tags:
+- bond
 - debt-securities
+- icici-securities
 - listing
+- ncd
 - private-placement
-- ICICI-Securities
-- debentures
-- corporate-bonds
 title: Listing of Privately Placed Debt Securities - ICICI Securities Limited
 ---
 

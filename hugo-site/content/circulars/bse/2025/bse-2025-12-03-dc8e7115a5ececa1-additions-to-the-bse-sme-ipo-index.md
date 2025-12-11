@@ -28,11 +28,11 @@ stocks:
 - MOTHERNUTRI
 - KKSILK
 tags:
-- index
-- sme
+- index-change
+- index-fund
 - ipo
 - listing
-- index-addition
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

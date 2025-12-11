@@ -32,7 +32,7 @@ stocks:
 - CASTROLIND
 - NCC
 - LICHSGFIN
-- SENCOGOLD
+- SENCO
 - VAIBHAVGBL
 - EMCURE
 - AARTIIND
@@ -42,7 +42,7 @@ stocks:
 - DELTACORP
 - ARVIND
 - LLOYDS
-- KPENERGY
+- KPEL
 - SUNTV
 - KVB
 - KPIGREEN
@@ -52,12 +52,11 @@ stocks:
 - LINDEINDIA
 - GODFRYPHLP
 tags:
-- dividend
-- slb
+- collateral
 - corporate-action
+- dividend
 - record-date
-- ex-date
-- securities-lending
+- slb
 title: Corporate Action in SLB Securities - Dividend Record and Ex-dates
 ---
 

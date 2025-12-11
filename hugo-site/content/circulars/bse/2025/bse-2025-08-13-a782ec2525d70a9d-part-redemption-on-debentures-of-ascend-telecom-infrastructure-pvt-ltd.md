@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ATIPL
 tags:
-- corporate-actions
-- debentures
+- corporate-action
+- face-value-reduction
+- ncd
 - redemption
 - trading-resumption
-- face-value-reduction
 title: Part Redemption of Debentures - ASCEND TELECOM INFRASTRUCTURE PVT LTD
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - AMBIT FINVEST PRIVATE LIMITED
 tags:
-- debt
-- corporate-actions
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
-- ambit-finvest
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of AMBIT FINVEST PRIVATE LIMITED
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - OML
 tags:
+- equity
 - listing
-- sme
-- equity-shares
-- new-listing
 - om-metallogic
+- sme
 title: Listing of Equity Shares of OM METALLOGIC LIMITED
 ---
 

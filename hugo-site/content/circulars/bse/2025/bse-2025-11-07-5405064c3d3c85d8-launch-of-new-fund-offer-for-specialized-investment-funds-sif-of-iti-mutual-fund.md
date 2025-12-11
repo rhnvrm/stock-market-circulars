@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- diviniti-equity-long-short-fund
+- iti-mutual-fund
 - mutual-fund
 - nfo
+- sif
 - sip
-- specialized-investment-fund
-- iti-mutual-fund
-- diviniti-equity-long-short-fund
-- bse-star-mf
 title: Launch of New Fund Offer for Specialized Investment Funds (SIF) of ITI MUTUAL
   FUND on BSE StAR MF Platform
 ---

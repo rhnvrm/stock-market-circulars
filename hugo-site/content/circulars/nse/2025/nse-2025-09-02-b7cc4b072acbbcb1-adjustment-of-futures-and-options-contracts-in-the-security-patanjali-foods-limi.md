@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PATANJALI
 tags:
-- futures-and-options
-- corporate-action
-- bonus-issue
+- bonus
 - contract-adjustment
-- PATANJALI
+- corporate-action
+- futures-options
 title: Adjustment of Futures and Options Contracts in PATANJALI FOODS LIMITED due
   to 2:1 Bonus Issue
 ---

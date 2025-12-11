@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
 - mutual-fund
-- bse-star-mf
 - nippon-india
-- equity-fund
-- subscription-redemption
+- redemption
 - sip-stp-swp
 title: NIPPON INDIA MNC FUND Reopened for Ongoing Transactions on BSE StAR MF Platform
 ---

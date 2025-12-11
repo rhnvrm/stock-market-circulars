@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VIVRITI
 tags:
+- care-rating
 - debt-securities
 - listing
-- vivriti-capital
+- ncd
 - private-placement
-- debentures
-- care-rating
+- vivriti-capital
 title: Listing of New Debt Securities of Vivriti Capital Limited
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- icra-rated
 - listing
+- pass-through-certificate
 - private-placement
 - ptc
-- pass-through-certificate
 - rafale
-- icra-rated
 title: Listing of New Debt Securities of RAFALE - 2025 (11.50% PTC Due May 2028)
 ---
 

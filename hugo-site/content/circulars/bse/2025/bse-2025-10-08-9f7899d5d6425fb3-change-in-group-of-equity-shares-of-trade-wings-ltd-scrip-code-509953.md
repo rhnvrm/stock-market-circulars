@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TRADEWING
 tags:
-- group-change
-- x-group
-- trade-wings
-- trading-segment
+- asm-stage
 - equity
+- group-change
+- trading
 title: 'Change in Group of Equity Shares of Trade Wings Ltd. (Scrip Code: 509953)'
 ---
 

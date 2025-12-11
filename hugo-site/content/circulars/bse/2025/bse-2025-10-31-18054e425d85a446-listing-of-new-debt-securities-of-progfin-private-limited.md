@@ -27,9 +27,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - progfin-private-limited
-- non-convertible-debentures
 title: Listing of New Debt Securities of Progfin Private Limited
 ---
 

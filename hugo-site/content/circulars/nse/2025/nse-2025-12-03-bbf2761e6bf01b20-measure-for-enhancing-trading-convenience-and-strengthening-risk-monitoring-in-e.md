@@ -27,13 +27,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- derivatives
-- futures-and-options
-- risk-management
-- pre-open-session
-- margin-requirements
-- trading-framework
 - clearing
+- derivatives
+- futures-options
+- margin
+- pre-open-session
+- risk-management
+- trading-operations
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

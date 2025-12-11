@@ -32,11 +32,9 @@ stocks:
 - PRATIKPAN
 - SYBLY
 tags:
-- gsm
-- graded-surveillance-measure
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Graded Surveillance Measure (GSM) - List of Securities Moving Into Their Respective
   GSM Stages
 ---

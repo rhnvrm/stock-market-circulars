@@ -27,11 +27,11 @@ source: bse
 stocks:
 - AMBO
 tags:
-- new-listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of AMBO AGRITEC LIMITED
 ---
 

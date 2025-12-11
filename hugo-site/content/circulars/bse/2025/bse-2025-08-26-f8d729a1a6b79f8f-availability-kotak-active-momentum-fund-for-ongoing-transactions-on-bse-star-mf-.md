@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - kotak
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
 title: Kotak Active Momentum Fund Reopening for Ongoing Transactions on BSE StAR MF
   Platform
 ---

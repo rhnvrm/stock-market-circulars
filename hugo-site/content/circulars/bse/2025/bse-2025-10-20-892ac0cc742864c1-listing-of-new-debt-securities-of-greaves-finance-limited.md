@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- new-listing
-- private-placement
 - greaves-finance
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Greaves Finance Limited
 ---
 

@@ -28,13 +28,12 @@ source: bse
 stocks:
 - INDIANLNK
 tags:
-- settlement
-- takeover
-- acquisition-window
-- offer-to-buy
 - early-pay-in
 - indian-link-chain-manufacturers
 - market-operations
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for The Indian
   Link Chain Manufacturers Limited
 ---

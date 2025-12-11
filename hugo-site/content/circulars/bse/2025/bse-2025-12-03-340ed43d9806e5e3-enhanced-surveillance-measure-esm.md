@@ -30,15 +30,13 @@ stocks:
 - PARMESHWAR
 - PROFIN
 - TVSELECT
-- IEL
+- INDXTRA
 - SPEL
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-safety
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective December
   04, 2025
 ---

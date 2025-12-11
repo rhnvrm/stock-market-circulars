@@ -26,10 +26,9 @@ stocks:
 - KPIL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kalpataru-projects
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Kalpataru Projects International Limited
 ---
 

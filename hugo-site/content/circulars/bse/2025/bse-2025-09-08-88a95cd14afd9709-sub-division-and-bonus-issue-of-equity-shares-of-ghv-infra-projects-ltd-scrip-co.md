@@ -25,11 +25,10 @@ source: bse
 stocks:
 - GHVINFRA
 tags:
-- sub-division
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
-- ghv-infra-projects
+- equity
+- split
 title: Sub-Division and Bonus Issue of Equity Shares of GHV INFRA PROJECTS LTD
 ---
 

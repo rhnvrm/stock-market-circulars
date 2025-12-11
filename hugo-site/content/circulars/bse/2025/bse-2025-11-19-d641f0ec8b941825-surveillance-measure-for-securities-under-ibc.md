@@ -27,12 +27,9 @@ source: bse
 stocks:
 - TRICOM
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- additional-surveillance-measure
-- asm
-- stage-1
+- surveillance
 - tricom-fruit-products
 title: Surveillance Measure for Securities Under IBC - November 2025 Update
 ---

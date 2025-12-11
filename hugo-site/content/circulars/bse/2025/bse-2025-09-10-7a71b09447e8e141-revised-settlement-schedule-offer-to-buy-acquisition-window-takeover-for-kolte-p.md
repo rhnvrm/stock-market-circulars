@@ -26,11 +26,9 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover
-- settlement
-- acquisition
-- kolte-patil
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule for KOLTE-PATIL DEVELOPERS Takeover Offer
 ---
 

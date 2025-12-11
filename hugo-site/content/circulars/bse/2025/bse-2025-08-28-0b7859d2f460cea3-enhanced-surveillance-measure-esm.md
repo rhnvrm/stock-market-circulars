@@ -33,11 +33,9 @@ stocks:
 - YASHINNO
 - KRISHVAL
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Moving In
   and Out
 ---

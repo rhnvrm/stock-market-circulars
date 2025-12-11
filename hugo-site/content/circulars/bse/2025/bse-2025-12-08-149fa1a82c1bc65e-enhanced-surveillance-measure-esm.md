@@ -30,14 +30,12 @@ stocks:
 - TUNITEXT
 - UNIPROTECH
 - ARUNJYOTI
-- FYNXCAPITAL
+- FYNX
 - NUTRICIRCLE
 tags:
+- market-operations
 - surveillance
-- esm
-- enhanced-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) Framework Updates - December 2025
 ---
 

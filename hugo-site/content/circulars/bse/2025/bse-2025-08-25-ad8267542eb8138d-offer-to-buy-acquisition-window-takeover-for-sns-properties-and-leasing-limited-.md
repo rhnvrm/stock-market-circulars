@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SNSPL
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- trading-schedule
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for SNS Properties and Leasing
   Limited - Live Activities Schedule
 ---

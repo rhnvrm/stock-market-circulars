@@ -26,8 +26,8 @@ source: bse
 stocks:
 - SFPL
 tags:
-- debenture-redemption
 - corporate-action
+- debenture-redemption
 - debt-securities
 - face-value-reduction
 - interest-payment

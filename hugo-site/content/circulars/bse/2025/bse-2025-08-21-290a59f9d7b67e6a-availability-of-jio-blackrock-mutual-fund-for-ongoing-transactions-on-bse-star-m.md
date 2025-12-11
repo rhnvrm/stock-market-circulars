@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
+- index-fund
 - jio-blackrock
-- index-funds
+- mutual-fund
 - sip
 - stp
 - swp

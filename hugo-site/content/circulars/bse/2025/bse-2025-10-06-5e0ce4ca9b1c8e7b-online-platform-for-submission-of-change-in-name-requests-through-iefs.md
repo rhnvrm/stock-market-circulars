@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - change-in-name
+- digital-platform
 - iefs
 - member-services
 - operational-procedures
-- digital-platform
 title: Online Platform for Submission of Change in Name Requests Through IEFS
 ---
 

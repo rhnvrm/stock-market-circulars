@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASMTECH
 tags:
-- equity-shares
-- preferential-issue
-- warrant-conversion
+- asm-technologies
+- conversion
+- equity
 - listing
-- ASM-Technologies
+- preferential-issue
 title: Listing of Securities of ASM Technologies Ltd - Preferential Issue
 ---
 

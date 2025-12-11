@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- kanakadurga-finance
 - listing
 - private-placement
-- kanakadurga-finance
-- debt-market
 title: Listing of New Debt Securities of Kanakadurga Finance Limited
 ---
 

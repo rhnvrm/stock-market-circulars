@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- new-fund-offer
-- old-bridge-mutual-fund
 - arbitrage-fund
 - equity
-- nse-mf-invest
+- mutual-fund
+- nfo
+- old-bridge-mutual-fund
+- trading-platform
 title: Launch of OLD BRIDGE Arbitrage Fund NFO on NSE MF Invest Platform
 ---
 

@@ -36,20 +36,20 @@ stocks:
 - CAPINFRA
 - EMAMILTD
 - ESABINDIA
-- GOPALSNACKS
+- GOPAL
 - GPTINFRA
 - HUDCO
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
+- daily-bulletin
 - dividend
+- invit
+- ncd
+- record-date
 - redemption
 - rights-issue
-- corporate-actions
-- ncd
-- commercial-paper
-- invit
 title: Daily Bulletin - Book-Closure, Record Dates and Corporate Actions
 ---
 

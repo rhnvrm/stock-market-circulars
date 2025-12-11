@@ -28,13 +28,13 @@ source: nse
 stocks:
 - TATAINVEST
 tags:
-- early-pay-in
-- face-value-split
-- sub-division
 - corporate-action
+- depository
+- early-pay-in
+- face-value-change
 - margin-exemption
 - settlement
-- depository
+- split
 title: Early Pay-in of Securities for Tata Investment Corporation Limited (TATAINVEST)
 ---
 

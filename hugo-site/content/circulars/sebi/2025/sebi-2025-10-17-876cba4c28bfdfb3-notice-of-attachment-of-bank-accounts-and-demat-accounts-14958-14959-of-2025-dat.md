@@ -27,12 +27,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- recovery-proceedings
+- attachment
 - defaulter
-- enforcement-action
-- bank-account-attachment
-- demat-account-attachment
+- enforcement
+- recovery
 - superior-finlease
 title: Notice of Attachment of Bank Accounts and Demat Accounts against JITNEY INVESTMENTS
   PVT. LTD

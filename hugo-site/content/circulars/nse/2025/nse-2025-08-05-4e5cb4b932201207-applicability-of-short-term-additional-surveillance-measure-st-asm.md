@@ -31,11 +31,10 @@ stocks:
 - VIPULLTD
 - SIGNPOST
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trading-restrictions
+- margin
 - risk-management
+- surveillance
+- trading-restrictions
 title: Short-Term Additional Surveillance Measure (ST-ASM) Applied to Five Securities
 ---
 

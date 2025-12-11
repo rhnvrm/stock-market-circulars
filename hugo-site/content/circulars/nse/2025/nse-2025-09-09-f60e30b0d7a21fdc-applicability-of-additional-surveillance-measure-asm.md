@@ -30,11 +30,10 @@ stocks:
 - NGIL
 - LGHL
 tags:
-- surveillance
-- margin-requirements
-- trading-restrictions
+- margin
 - risk-management
-- additional-surveillance-measure
+- surveillance
+- trading-restrictions
 title: Additional Surveillance Measure (ASM) - Securities Inclusion and Stage Movement
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SANJPARENT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoters
-- warrant-conversion
+- preferential-issue
+- shareholding-pattern
 title: Listing of new securities of Sanjivani Paranteral Ltd.
 ---
 

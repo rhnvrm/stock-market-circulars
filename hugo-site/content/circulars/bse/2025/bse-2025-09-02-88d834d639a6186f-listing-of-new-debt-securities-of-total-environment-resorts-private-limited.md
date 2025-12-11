@@ -24,11 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '977072'
+- 1353TERP28
 tags:
+- bond
 - debt-securities
 - private-placement
-- corporate-bonds
 - terpl
 title: Listing of new debt securities of Total Environment Resorts Private Limited
 ---

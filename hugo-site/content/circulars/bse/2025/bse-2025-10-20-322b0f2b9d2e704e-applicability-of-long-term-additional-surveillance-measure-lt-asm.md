@@ -35,10 +35,8 @@ stocks:
 - SOFTRAK
 - GUJRAFFIA
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- market-surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

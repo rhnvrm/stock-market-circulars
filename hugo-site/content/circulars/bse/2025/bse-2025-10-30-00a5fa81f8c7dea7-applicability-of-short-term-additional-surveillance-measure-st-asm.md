@@ -38,12 +38,10 @@ stocks:
 - RIDDHI
 - V2RETAIL
 tags:
-- surveillance
-- asm
-- short-term-asm
-- trading-restrictions
+- asm-stage
 - sme
-- market-surveillance
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

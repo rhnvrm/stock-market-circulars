@@ -26,11 +26,10 @@ source: nse
 stocks:
 - DHANI
 tags:
+- addition
+- collateral
 - slb
-- securities-lending-borrowing
-- exclusion
-- trading-suspension
-- dhani
+- suspension
 title: Exclusion of Security - Dhani Services Limited (DHANI)
 ---
 

@@ -27,10 +27,10 @@ stocks:
 - MBPREITS
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- mindspace-business-parks
 - private-placement
 - reit
-- mindspace-business-parks
 title: Listing of new Commercial Paper of Mindspace Business Parks REIT
 ---
 

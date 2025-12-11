@@ -41,12 +41,12 @@ stocks:
 - UTIAMC
 - VENUSPIPES
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-issue
-- further-issue
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IRBINVIT
 tags:
-- debt-listing
-- bonds
+- aaa-rated
+- bond
+- debt-securities
 - invit
 - private-placement
-- aaa-rated
 title: Listing of New Debt Securities of IRB InvIT Fund
 ---
 

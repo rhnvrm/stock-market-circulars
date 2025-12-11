@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540360'
+- LLFICL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Leading Leasing Finance and Investment Co. Limited
 ---
 

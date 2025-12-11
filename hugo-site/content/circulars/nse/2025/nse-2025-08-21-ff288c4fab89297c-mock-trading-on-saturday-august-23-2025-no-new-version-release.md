@@ -24,10 +24,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- testing
+- derivatives
 - market-operations
+- mock-trading
 - saturday-session
 title: Mock Trading Session - Currency Derivatives Segment - August 23, 2025
 ---

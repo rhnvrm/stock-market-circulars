@@ -25,16 +25,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- pre-open-session
-- equity-derivatives
+- derivatives
+- emdi
+- eobi
+- eti-api
 - market-data
-- trading-session
-- ETI-API
-- EOBI
-- EMDI
-- MDI
-- NFCAST
+- mdi
+- nfcast
+- pre-open-session
 - technical-specifications
+- trading-session
 title: Introduction of Pre-Open Session in Equity Derivatives Segment
 ---
 

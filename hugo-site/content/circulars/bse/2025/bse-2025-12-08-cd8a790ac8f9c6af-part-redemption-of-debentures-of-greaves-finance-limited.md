@@ -25,16 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GFL
+- GFLLIMITED
 tags:
-- debentures
-- debt
-- part-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
+- debt-securities
 - greaves-finance
-- ncds
+- interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of GREAVES FINANCE LIMITED
 ---
 

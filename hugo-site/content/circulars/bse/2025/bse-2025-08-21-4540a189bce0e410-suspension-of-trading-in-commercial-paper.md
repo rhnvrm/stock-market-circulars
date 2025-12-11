@@ -32,7 +32,7 @@ stocks:
 - OFSL
 - KMIL
 - BHFL
-- GFL
+- GFLLIMITED
 - HSL
 - IOCL
 - LTL
@@ -50,10 +50,10 @@ stocks:
 - NMIL
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
-- redemption
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

@@ -34,18 +34,10 @@ stocks:
 - PNB
 - UNIONBANK
 tags:
+- equity
+- settlement-calendar
 - t0-settlement
 - trading-restrictions
-- settlement-cycle
-- equity
-- INDIGO
-- INDUSINDBK
-- MAXHEALTH
-- TMPV
-- AUBANK
-- CANBK
-- PNB
-- UNIONBANK
 title: Scrips not available for trading in T+0 rolling settlement cycle on December
   22, 2025 and December 26, 2025
 ---

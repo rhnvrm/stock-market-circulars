@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-certificate
 - demand-notice
-- family-care-hospitals
-- enforcement-action
+- enforcement
 - individual-liability
+- recovery
 title: 'Notice of Demand dated 07.08.2025 issued under RC no. 8855 of 2025 against
   Dhananjay Chandrakant Parikh [PAN: ACTPP2402L] in the matter of Family Care Hospitals
   Limited'

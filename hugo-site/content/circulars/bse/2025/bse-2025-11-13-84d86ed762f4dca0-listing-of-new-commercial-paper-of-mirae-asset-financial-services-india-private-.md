@@ -27,7 +27,7 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - mirae-asset
 - private-placement
 - short-term-debt

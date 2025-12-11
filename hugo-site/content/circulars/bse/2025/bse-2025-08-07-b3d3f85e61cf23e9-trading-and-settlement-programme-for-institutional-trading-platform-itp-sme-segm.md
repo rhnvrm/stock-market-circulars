@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- itp
-- sme
-- settlement
-- trading-programme
 - institutional-platform
+- itp
+- settlement
+- sme
+- trading-operations
 title: Trading and Settlement Programme for Institutional Trading Platform (ITP) -
   SME Segment for September 2025
 ---

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
-- sammaan-capital
+- ncd
 - private-placement
-- debentures
-- bse-debt-segment
+- sammaan-capital
 title: Listing of New Debt Securities of Sammaan Capital Limited
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - PARKMEDI
 tags:
+- anchor-investor
+- equity-allocation
 - ipo
-- anchor-investors
-- park-medi-world
 - listing
 - public-issue
-- equity-allocation
 title: Public Issue of Park Medi World Limited - Allocation to Anchor Investors
 ---
 

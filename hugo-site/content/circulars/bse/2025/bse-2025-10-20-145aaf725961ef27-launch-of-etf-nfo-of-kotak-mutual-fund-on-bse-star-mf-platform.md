@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- kotak-mutual-fund
-- nifty-chemicals
-- bse-star-mf
 - equity
-- new-fund-offer
+- etf
+- kotak-mutual-fund
+- mutual-fund
+- nfo
+- nifty-chemicals
 title: Launch of ETF NFO of KOTAK Mutual Fund on BSE StAR MF Platform
 ---
 

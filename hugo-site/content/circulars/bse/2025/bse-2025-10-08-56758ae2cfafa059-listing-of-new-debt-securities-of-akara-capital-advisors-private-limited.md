@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- akara-capital
 - debt-securities
 - listing
-- private-placement
 - ncd
-- akara-capital
+- private-placement
 title: Listing of new debt securities of Akara Capital Advisors Private Limited
 ---
 

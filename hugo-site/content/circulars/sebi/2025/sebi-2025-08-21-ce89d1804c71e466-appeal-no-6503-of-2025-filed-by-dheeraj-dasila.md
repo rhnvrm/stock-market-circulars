@@ -26,10 +26,10 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl-refund
+- appeal
 - investor-grievance
-- appellate-authority
+- pacl-refund
+- rti
 title: Appeal No. 6503 of 2025 filed by Dheeraj Dasila regarding PACL refund portal
 ---
 

@@ -28,11 +28,11 @@ source: nse
 stocks: []
 tags:
 - additional-margin
+- derivatives
+- gold
+- margin
 - risk-management
-- gold-futures
 - silver-futures
-- commodity-derivatives
-- margin-requirements
 title: Imposition of Additional Margin on Gold and Silver Futures Contracts
 ---
 

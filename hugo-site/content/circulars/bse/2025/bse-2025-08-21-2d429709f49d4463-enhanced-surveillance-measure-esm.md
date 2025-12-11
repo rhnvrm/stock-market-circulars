@@ -37,11 +37,9 @@ stocks:
 - SRM
 - UHZAVERI
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective August
   22, 2025
 ---

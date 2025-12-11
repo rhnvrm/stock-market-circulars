@@ -25,13 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- investment-adviser
-- regulatory-violation
 - adjudication
 - compliance
-- penalties
+- investment-adviser
+- non-compliance
+- penalty
+- research-analyst
+- sebi-order
 title: SEBI Adjudication Order Against Eqwires Research Analyst for Multiple Regulatory
   Violations
 ---

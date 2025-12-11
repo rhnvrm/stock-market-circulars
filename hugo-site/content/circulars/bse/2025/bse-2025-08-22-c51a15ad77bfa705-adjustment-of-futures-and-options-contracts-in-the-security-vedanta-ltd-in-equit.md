@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VEDL
 tags:
-- derivatives
-- corporate-actions
-- dividend
-- futures
-- options
 - contract-adjustment
+- corporate-action
+- derivatives
+- dividend
+- futures-options
+- options
 title: Adjustment of Futures and Options Contracts for Vedanta Ltd Due to Interim
   Dividend
 ---

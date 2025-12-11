@@ -26,13 +26,11 @@ source: nse
 stocks:
 - ABHFL
 tags:
-- listing
-- private-placement
-- debentures
-- debt-securities
-- ncd
 - capital-market-segment
-- ABHFL
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of privately placed securities of Aditya Birla Housing Finance Limited
   on capital market segment
 ---

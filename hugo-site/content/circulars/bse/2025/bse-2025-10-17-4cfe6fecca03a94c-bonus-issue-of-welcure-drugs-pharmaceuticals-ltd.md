@@ -27,11 +27,11 @@ source: bse
 stocks:
 - WELCURE
 tags:
-- bonus-issue
-- stock-split
-- corporate-action
-- equity-shares
+- bonus
 - capital-restructuring
+- corporate-action
+- equity
+- split
 title: Bonus Issue of Welcure Drugs & Pharmaceuticals Ltd - 1:10 Bonus Share Allotment
 ---
 

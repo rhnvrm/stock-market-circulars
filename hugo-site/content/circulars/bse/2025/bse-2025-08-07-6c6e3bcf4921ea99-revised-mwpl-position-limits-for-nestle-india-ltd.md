@@ -25,13 +25,12 @@ source: bse
 stocks:
 - NESTLEIND
 tags:
-- position-limits
 - derivatives
-- mwpl
-- nestle
-- stock-brokers
 - fpi
-- mutual-funds
+- mutual-fund
+- nestle
+- position-limits
+- stock-broker
 title: Revised MWPL Position Limits for Nestle India Ltd.
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - RAYMED
 tags:
-- name-change
+- certificate
 - corporate-action
-- raymed-labs
 - cresanto-global
-- incorporation-certificate
+- name-change
+- raymed-labs
 title: Change in Name of Raymed Labs Limited to Cresanto Global Limited
 ---
 

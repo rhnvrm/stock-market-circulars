@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- jioblackrock
 - flexi-cap-fund
-- subscriptions
-- redemptions
+- jioblackrock
+- mutual-fund
+- redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- fund-reopening
+- trading-platform
 title: Availability of JioBlackRock Flexi Cap Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

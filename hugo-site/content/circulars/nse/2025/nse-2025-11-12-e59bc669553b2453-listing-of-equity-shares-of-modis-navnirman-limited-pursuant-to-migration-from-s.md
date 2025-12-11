@@ -28,12 +28,12 @@ source: nse
 stocks:
 - MODIS
 tags:
+- equity
 - listing
 - migration
-- sme-to-mainboard
-- equity-shares
-- trading
 - modis-navnirman
+- sme-to-mainboard
+- trading
 title: Listing of equity shares of Modis Navnirman Limited pursuant to Migration from
   SME Platform of BSE to Capital Market Segment (Main Board) of NSE
 ---

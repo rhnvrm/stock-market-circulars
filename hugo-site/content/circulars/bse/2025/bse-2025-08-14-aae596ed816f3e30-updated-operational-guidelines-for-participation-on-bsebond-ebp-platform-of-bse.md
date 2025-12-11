@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- bsebond
-- ebp-platform
-- debt-securities
 - anchor-investor
+- bsebond
+- debt-securities
 - operational-guidelines
 - private-placement
+- trading-platform
 title: Updated Operational Guidelines for participation on BSEBOND (EBP platform of
   BSE)
 ---

@@ -26,10 +26,8 @@ source: nse
 stocks:
 - DIGJAMLMTD
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-1
-- margin-requirements
+- asm-stage
+- margin
 - price-band
 - surveillance
 - trade-restrictions

@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - broker-credentials
-- id-card-expiry
-- compliance
 - broker-members
+- compliance
+- id-card-expiry
 title: ID Cards Expired Data - September 2025
 ---
 

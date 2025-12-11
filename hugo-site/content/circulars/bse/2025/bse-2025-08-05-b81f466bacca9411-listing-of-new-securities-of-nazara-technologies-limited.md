@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NAZARA
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- nazara-technologies
 - lock-in
+- nazara-technologies
+- preferential-issue
 title: Listing of new Securities of Nazara Technologies Limited
 ---
 

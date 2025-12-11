@@ -27,12 +27,11 @@ source: bse
 stocks:
 - VALPLAST
 tags:
+- anchor-investor
+- equity
 - ipo
 - listing
-- equity-shares
 - lock-in
-- anchor-investors
-- new-listing
 title: Listing of Equity Shares of Valplast Technologies Limited - IPO
 ---
 

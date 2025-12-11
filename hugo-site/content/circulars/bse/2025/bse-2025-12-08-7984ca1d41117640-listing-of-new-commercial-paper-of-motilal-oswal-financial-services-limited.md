@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MOFSL
 tags:
+- bse-debt-segment
 - commercial-paper
-- debt-listing
+- debt-securities
 - motilal-oswal
 - private-placement
-- bse-debt-segment
 title: Listing of New Commercial Paper of Motilal Oswal Financial Services Limited
 ---
 

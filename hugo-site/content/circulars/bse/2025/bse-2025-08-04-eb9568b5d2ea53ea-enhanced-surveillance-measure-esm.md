@@ -30,11 +30,9 @@ stocks:
 - PRECISION
 - TRUSTEDGE
 tags:
+- market-operations
 - surveillance
-- esm
-- enhanced-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) Framework Updates - August 2025
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - FROG
 tags:
-- listing
-- equity-shares
-- sme-emerge
+- emerge-platform
+- equity
 - esps
 - further-issue
+- listing
 title: Listing of further issues of Frog Cellsat Limited
 ---
 

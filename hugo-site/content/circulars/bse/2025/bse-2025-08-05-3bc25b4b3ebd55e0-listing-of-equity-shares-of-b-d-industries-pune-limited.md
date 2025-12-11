@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BDIND
 tags:
+- equity
+- further-issue
 - listing
 - shareholding-pattern
-- post-issue
-- equity-shares
-- promoter-holding
-- public-shareholding
 title: Listing of Equity Shares of B. D. Industries (Pune) Limited
 ---
 

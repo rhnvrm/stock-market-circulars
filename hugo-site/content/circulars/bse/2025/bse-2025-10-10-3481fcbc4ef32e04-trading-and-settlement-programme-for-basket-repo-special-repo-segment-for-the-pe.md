@@ -27,12 +27,12 @@ source: bse
 stocks: []
 tags:
 - basket-repo
-- special-repo
-- settlement-schedule
-- trading-programme
+- iccl
 - november-2025
 - repo-segment
-- iccl
+- settlement
+- special-repo
+- trading-operations
 title: Trading and Settlement Programme for Basket Repo & Special Repo Segment for
   November 2025
 ---

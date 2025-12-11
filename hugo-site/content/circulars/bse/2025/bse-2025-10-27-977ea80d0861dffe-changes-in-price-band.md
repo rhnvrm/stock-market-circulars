@@ -41,10 +41,10 @@ stocks:
 - SARUP
 - ZELIO
 tags:
-- price-band
-- trading-limits
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 15 Securities Effective October 28, 2025
 ---
 

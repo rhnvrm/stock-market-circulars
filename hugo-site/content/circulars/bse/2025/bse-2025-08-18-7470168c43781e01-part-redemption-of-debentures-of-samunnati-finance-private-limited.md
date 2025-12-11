@@ -27,13 +27,13 @@ source: bse
 stocks:
 - SAMUNNATI
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

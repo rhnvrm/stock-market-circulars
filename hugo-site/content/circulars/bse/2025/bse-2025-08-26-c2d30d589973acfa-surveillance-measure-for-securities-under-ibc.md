@@ -26,12 +26,9 @@ source: bse
 stocks:
 - EASILK
 tags:
-- surveillance
-- ibc
-- insolvency
-- bankruptcy
-- additional-surveillance-measure
 - eastern-silk
+- insolvency
+- surveillance
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code
 ---
 

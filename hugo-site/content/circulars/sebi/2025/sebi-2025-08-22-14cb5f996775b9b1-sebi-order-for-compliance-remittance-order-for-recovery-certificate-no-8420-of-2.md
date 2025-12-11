@@ -30,9 +30,9 @@ stocks:
 - RFIL
 tags:
 - compliance
-- recovery-certificate
-- audit-report
 - enforcement
+- recovery
+- system-audit
 title: SEBI Compliance Remittance Order for Recovery Certificate No. 8420 of 2024
   - Sushma Vimalkumar Raval
 ---

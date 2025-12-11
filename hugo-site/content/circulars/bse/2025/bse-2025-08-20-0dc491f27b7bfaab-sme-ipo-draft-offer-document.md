@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ADMACH
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
 - admach-systems
+- draft-document
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document for ADMACH SYSTEMS LIMITED
 ---
 

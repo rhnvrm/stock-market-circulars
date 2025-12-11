@@ -25,25 +25,25 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539448'
-- '500570'
-- '539437'
-- '541450'
-- '543220'
-- '532187'
-- '532483'
-- '540611'
-- '532461'
-- '532477'
+- INDIGO
+- TMPV
+- IDFCFIRSTB
+- ADANIGREEN
+- MAXHEALTH
+- INDUSINDBK
+- CANBK
+- AUBANK
+- PNB
+- UNIONBANK
 tags:
-- index
-- reconstitution
-- bse-sensex
 - bse-100
+- bse-bankex
+- bse-index
 - bse-sensex-50
 - bse-sensex-next-50
-- bse-bankex
-- index-changes
+- index-change
+- index-fund
+- reconstitution
 title: Reconstitution of BSE Indices
 ---
 

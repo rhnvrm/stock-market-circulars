@@ -28,12 +28,12 @@ source: bse
 stocks:
 - HUBTOWN
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Hubtown Limited - Preferential Allotment
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - EXATO
 tags:
-- trading-segment
+- exato-technologies
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- exato-technologies
+- trading
 title: Change in Group of Equity Shares of EXATO TECHNOLOGIES LIMITED
 ---
 

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540565'
+- INDIGRID
 tags:
-- listing
-- preferential-allotment
 - infrastructure-trust
-- new-securities
+- listing
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of IndiGrid Infrastructure Trust
 ---
 

@@ -27,14 +27,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '522101'
+- KLBRENG-B
 tags:
-- listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- lock-in
+- conversion
+- equity
 - kilburn-engineering
+- listing
+- lock-in
+- preferential-issue
 title: Listing of 2.4 Million Preferential Equity Shares - Kilburn Engineering Ltd
 ---
 

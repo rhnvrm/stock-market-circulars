@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- financial-results
-- regulation-33
-- lodr-regulations
-- sme-compliance
-- ipo-listing
-- quarterly-results
-- disclosure-requirements
 - compliance-guidelines
+- disclosure
+- financial-results
+- listing
+- lodr
+- regulation-33
+- sme
 title: FAQs on Submission of Financial Results under Regulation 33 of SEBI (LODR)
   Regulations, 2015
 ---

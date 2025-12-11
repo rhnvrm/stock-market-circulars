@@ -26,12 +26,12 @@ source: nse
 stocks:
 - AMCL
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- trade-for-trade
-- surveillance
 - ipo
+- listing
+- sme
+- surveillance
+- trade-for-trade
 title: Listing of Equity Shares of ANB Metal Cast Limited (SME IPO)
 ---
 

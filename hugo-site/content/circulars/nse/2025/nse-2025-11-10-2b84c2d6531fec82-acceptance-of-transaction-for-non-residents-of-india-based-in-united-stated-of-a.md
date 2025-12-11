@@ -27,14 +27,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- canada-investors
+- compliance
+- declaration-form
+- mutual-fund
+- non-demat
 - nri-investments
 - shriram-mutual-fund
 - us-investors
-- canada-investors
-- non-demat
-- compliance
-- declaration-form
 title: Acceptance of Transactions for US and Canada Based NRIs on NSE MF Invest Platform
   for Shriram Mutual Fund
 ---

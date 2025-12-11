@@ -40,10 +40,10 @@ stocks:
 - SRMENERGY
 - UHZAVERI
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: BSE Revises Price Bands for 15 Securities Effective August 22, 2025
 ---
 

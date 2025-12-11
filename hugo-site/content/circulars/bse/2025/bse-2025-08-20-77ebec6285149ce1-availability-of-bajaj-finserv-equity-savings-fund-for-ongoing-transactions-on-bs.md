@@ -24,14 +24,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - bajaj-finserv
 - equity-savings
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: BAJAJ FINSERV EQUITY SAVINGS FUND Available for Ongoing Transactions on BSE
   StAR MF Platform

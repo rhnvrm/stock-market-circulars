@@ -36,10 +36,9 @@ stocks:
 - PVP
 - RPPINFRA
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
 - trading-restrictions
 title: NSE Imposes Short-Term Additional Surveillance Measure (ST-ASM) on Seven Securities
 ---

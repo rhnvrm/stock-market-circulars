@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- investor-complaints
-- scores-platform
-- internal-procedures
+- appeal
 - information-exemption
-- appellate-authority
+- internal-procedures
+- investor-complaints
+- rti
+- scores-platform
 title: RTI Appeal No. 6456 of 2025 - SEBI Internal Procedures Exemption
 ---
 

@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '973892'
+- VFSPL30322
 tags:
-- debt
-- debentures
-- redemption
-- interest-payment
-- record-date
 - corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
 - vistaar-financial-services
 title: Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD
 ---

@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- regulated-entities
+- digital-accessibility
+- intermediary
 - investor-charter
-- SCORES
-- accessibility-audit
 - reporting-requirements
+- scores
 title: Clarification on Digital Accessibility Requirements for Regulated Entities
 ---
 

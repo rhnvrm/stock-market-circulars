@@ -25,14 +25,13 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML71199.zip
 severity: low
 source: nse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
-- debt-segment
-- listing
-- debentures
-- scheme-of-arrangement
-- piramal-finance
+- debt-securities
 - icra-rated
+- listing
+- ncd
+- scheme-of-arrangement
 title: List of securities of Piramal Finance Limited further admitted to dealings
   on Debt Segment
 ---

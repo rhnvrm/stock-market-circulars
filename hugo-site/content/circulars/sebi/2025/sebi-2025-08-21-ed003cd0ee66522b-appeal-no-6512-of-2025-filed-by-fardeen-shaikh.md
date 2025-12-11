@@ -25,11 +25,9 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti
 - appeal
-- pacl
 - property-information
-- right-to-information
+- rti
 title: RTI Appeal No. 6512 of 2025 - Fardeen Shaikh vs SEBI regarding PACL property
   information
 ---

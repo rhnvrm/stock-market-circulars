@@ -39,10 +39,10 @@ stocks:
 - MBL
 - MIRC
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 15 Companies Including AU Small Finance
   Bank, Hero MotoCorp, ITC Limited
 ---

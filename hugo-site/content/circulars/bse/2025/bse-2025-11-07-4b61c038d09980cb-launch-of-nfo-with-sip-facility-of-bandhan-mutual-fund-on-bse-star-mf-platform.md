@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bandhan-mutual-fund
+- equity
+- healthcare-fund
 - mutual-fund
 - nfo
-- new-fund-offer
 - sip
-- bandhan-mutual-fund
-- healthcare-fund
-- equity
-- bse-star-mf
 title: Launch of NFO with SIP facility of BANDHAN MUTUAL FUND on BSE StAR MF Platform
 ---
 

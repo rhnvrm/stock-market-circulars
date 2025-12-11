@@ -37,11 +37,9 @@ stocks:
 - STLTECH
 - VR
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- market-monitoring
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - November 2025
 ---

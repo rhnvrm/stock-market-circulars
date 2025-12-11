@@ -47,11 +47,10 @@ stocks:
 - JHANDEWAL
 - KAPILRAJ
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
 - trading-restrictions
-- market-safety
-- additional-surveillance-measure
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

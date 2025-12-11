@@ -28,12 +28,11 @@ source: bse
 stocks:
 - KESAR
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- non-promoters
 - lock-in
-- KESAR
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of KESAR INDIA LIMITED - 86,856 Equity Shares
 ---
 

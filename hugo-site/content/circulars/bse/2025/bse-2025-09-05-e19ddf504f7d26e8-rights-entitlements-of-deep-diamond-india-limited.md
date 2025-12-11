@@ -27,13 +27,12 @@ source: bse
 stocks:
 - DEEP
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - deep-diamond-india
+- equity
+- renunciation
+- rights-issue
+- t1-settlement
 - trading
-- t+1-settlement
 title: Rights Entitlements of DEEP DIAMOND INDIA LIMITED
 ---
 

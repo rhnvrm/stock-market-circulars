@@ -26,10 +26,10 @@ stocks:
 - PCKRPPL
 tags:
 - debt-securities
+- high-yield
 - listing
 - private-placement
 - real-estate
-- high-yield
 title: Listing of new debt securities of Pradhaan City K R Puram Private Limited
 ---
 

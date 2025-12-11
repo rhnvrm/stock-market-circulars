@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
-- rms
-- collateral
-- clearing-corporation
 - banks
-- sebi-compliance
+- clearing-corporation
+- collateral
+- rms
+- sebi
+- settlement
 title: Revised List of Eligible Banks for Collateral Under SEBI Clearing Corporation
   Norms
 ---

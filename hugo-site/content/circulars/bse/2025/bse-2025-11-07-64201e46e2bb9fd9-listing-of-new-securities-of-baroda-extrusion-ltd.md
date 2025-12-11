@@ -26,12 +26,12 @@ source: bse
 stocks:
 - BARODA
 tags:
-- listing
-- new-securities
-- preferential-allotment
-- equity-shares
-- lock-in
 - baroda-extrusion
+- equity
+- listing
+- lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Baroda Extrusion Ltd.
 ---
 

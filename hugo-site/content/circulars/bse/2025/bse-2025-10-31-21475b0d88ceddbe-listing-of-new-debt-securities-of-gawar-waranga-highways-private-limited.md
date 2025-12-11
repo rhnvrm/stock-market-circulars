@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
-- private-placement
-- debentures
+- debt-securities
 - gawar-waranga-highways
 - infrastructure
-- new-listing
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Gawar Waranga Highways Private Limited
 ---
 

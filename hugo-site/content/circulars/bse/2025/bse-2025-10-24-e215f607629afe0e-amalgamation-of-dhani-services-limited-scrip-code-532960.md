@@ -27,12 +27,11 @@ source: bse
 stocks:
 - DHANI
 tags:
-- amalgamation
-- merger
+- conversion
 - corporate-action
 - nclt
-- share-exchange
-- trading-suspension
+- scheme-of-arrangement
+- suspension
 title: Amalgamation of Dhani Services Limited with Yaari Digital Integrated Services
   Limited
 ---

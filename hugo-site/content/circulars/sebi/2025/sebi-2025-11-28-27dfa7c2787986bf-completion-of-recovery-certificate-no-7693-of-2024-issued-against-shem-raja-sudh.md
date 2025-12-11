@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - ARVINDREM
 tags:
-- recovery-certificate
 - completion-order
 - enforcement
-- arvind-remedies-ltd
-- debt-recovery
+- recovery
 title: Completion of Recovery Certificate No. 7693 of 2024 issued against Shem Raja
   Sudhakar in the matter of Arvind Remedies Ltd.
 ---

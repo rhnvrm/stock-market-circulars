@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - LEWATERINA
 tags:
-- recovery-certificate
 - enforcement
 - non-compliance
-- le-waterina-resorts
+- recovery
 - sumit-popli
 title: 'Certificate No. RC8832 of 2025 - Recovery Certificate against Sumit Popli
   (PAN: ANVPP2968A) in the matter of Le Waterina Resorts and Hotels Ltd.'

@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- collateral
-- fixed-deposit-receipts
-- electronic-form
-- jp-morgan-chase
-- debt-segment
 - clearing
+- collateral
+- debt-securities
+- electronic-form
+- fixed-income
+- jp-morgan-chase
 title: JP Morgan Chase Bank Added for Electronic Fixed Deposit Receipts
 ---
 

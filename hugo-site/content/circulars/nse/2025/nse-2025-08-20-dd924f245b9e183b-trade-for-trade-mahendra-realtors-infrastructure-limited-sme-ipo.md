@@ -26,11 +26,10 @@ source: nse
 stocks:
 - MRIL
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
-- MRIL
+- sme
+- trade-for-trade
 title: Trade for Trade - Mahendra Realtors & Infrastructure Limited (SME IPO)
 ---
 

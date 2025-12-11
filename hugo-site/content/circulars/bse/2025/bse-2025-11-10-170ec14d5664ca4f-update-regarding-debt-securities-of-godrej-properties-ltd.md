@@ -28,13 +28,11 @@ source: bse
 stocks:
 - GODREJPROP
 tags:
+- auditor-certification
+- covenants
 - debt-securities
 - ncd
-- debentures
 - trust-deed-amendment
-- covenants
-- godrej-properties
-- auditor-certification
 title: Update Regarding Debt Securities of Godrej Properties Ltd
 ---
 

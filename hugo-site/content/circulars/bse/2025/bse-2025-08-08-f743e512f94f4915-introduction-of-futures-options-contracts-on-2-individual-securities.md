@@ -28,10 +28,9 @@ stocks:
 - SUZLON
 tags:
 - derivatives
-- futures
-- options
+- futures-options
 - new-contracts
-- equity-derivatives
+- options
 title: Introduction of Futures & Options Contracts on Nuvama Wealth Management and
   Suzlon Energy
 ---

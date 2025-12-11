@@ -30,7 +30,7 @@ stocks:
 - SHREEVATSAA
 - TARAPUR
 - TRAVRENT
-- ESSEXMARINE
+- ESSEX
 - FUTSOLNS
 - INDBANK
 - INDRAMEDCO
@@ -51,12 +51,10 @@ stocks:
 - CALSOFT
 - CAPITALTRU
 tags:
+- asm-stage
+- sme
 - surveillance
-- ST-ASM
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
-- SME
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -25,10 +25,8 @@ source: bse
 stocks:
 - PATELRMART
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- PATELRMART
 title: Listing of Equity Shares of PATEL RETAIL LIMITED
 ---
 

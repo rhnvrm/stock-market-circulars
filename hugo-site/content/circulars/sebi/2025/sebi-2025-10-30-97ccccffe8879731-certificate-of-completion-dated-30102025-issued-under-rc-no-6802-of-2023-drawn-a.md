@@ -27,11 +27,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- certificate-of-completion
 - enforcement
 - gromo-trade-consultancy
-- certificate-of-completion
-- recovery-proceedings
+- recovery
 title: Certificate of Completion - Recovery Certificate No. 6802/2023 against Pradeep
   Dhanuka in Gromo Trade & Consultancy Ltd. Matter
 ---

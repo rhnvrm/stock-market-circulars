@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
+- fund-of-funds
 - hdfc-mutual-fund
-- nse-mf-invest
-- fund-of-fund
-- sebi-framework
+- mutual-fund
+- name-change
+- regulatory-framework
+- trading-platform
 title: Change in scheme name of HDFC Mutual Fund on NSE MF Invest platform
 ---
 

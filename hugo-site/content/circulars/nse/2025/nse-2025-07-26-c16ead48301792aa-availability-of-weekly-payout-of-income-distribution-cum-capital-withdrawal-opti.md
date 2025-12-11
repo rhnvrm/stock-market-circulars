@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - idcw
-- weekly-payout
-- mirae-asset
-- liquid-fund
 - investment-options
+- liquid-fund
+- mirae-asset
+- mutual-fund
+- weekly-payout
 title: Availability of Weekly Payout of Income Distribution cum Capital Withdrawal
   Option of Mirae Asset Liquid Fund on NSE MF Invest Platform
 ---

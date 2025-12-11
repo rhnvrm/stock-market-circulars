@@ -27,12 +27,11 @@ source: bse
 stocks:
 - WORKMATES
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
-- sme-segment
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of WORKMATES CORE2CLOUD SOLUTION LIMITED
 ---
 

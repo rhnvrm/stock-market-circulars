@@ -28,12 +28,11 @@ stocks:
 - LLOYDSENT
 - VRLLOG
 tags:
-- securities-lending-borrowing
-- position-limits
-- market-wide-limits
-- participant-limits
-- institutional-limits
+- collateral
+- institutional-investor
 - non-institutional-limits
+- participant-limits
+- position-limits
 title: Revised MWPL, Participant, Institutional and Non Institutional Client Limits
   for LLOYDSENT and VRLLOG
 ---

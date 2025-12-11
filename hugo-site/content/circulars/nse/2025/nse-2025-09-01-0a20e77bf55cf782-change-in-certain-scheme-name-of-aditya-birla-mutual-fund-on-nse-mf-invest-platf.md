@@ -25,11 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- aditya-birla
 - mutual-fund
 - sip
-- systematic-investment-plan
-- aditya-birla
-- platform-update
+- system-update
 title: Daily SIP Frequency Added for Aditya Birla Sun Life Mutual Fund on NSE MF Platform
 ---
 

@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-governance
 - disclosure
-- multi-listing
 - financial-results
-- price-sensitive-information
-- governance
+- multi-listing
+- price-movement
 title: Simultaneous Disclosure Requirements for Multi-Listed Entities
 ---
 

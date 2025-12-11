@@ -28,9 +28,8 @@ stocks:
 - APLAPOLLO
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- apl-apollo-tubes
 - short-term-debt
 title: Listing of new Commercial Paper of APL Apollo Tubes Limited
 ---

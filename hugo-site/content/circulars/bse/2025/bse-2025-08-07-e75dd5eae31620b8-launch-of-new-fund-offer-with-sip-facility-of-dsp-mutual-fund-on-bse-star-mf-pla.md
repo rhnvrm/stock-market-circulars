@@ -25,14 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- index-fund
-- sip
 - dsp-mutual-fund
 - equity
-- nifty500
 - flexicap
+- index-fund
+- mutual-fund
+- nfo
+- nifty500
+- sip
 title: Launch of DSP NIFTY500 FLEXICAP QUALITY 30 INDEX FUND NFO on BSE StAR MF Platform
 ---
 

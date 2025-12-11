@@ -26,10 +26,10 @@ stocks:
 - TATAGOLD
 tags:
 - etf
-- gold-etf
+- gold
+- listing
 - tata-mutual-fund
 - trading
-- new-listing
 title: Trading of Units of Tata Gold Exchange Traded Fund
 ---
 

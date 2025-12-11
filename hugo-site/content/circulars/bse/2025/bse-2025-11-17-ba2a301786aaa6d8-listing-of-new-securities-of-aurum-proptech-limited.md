@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AURUMPROP
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- new-securities
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Aurum PropTech Limited
 ---
 

@@ -26,15 +26,14 @@ source: nse
 stocks:
 - HEROFINCORP
 - TITAN
-- TATACAPITAL
+- TATACAP
 - PFC
 tags:
-- debt-market
+- debt-securities
 - ncd
-- suspension
-- redemption
-- debentures
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

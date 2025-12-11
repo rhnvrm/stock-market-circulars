@@ -37,10 +37,9 @@ stocks:
 - RAMRATNA
 - VIMTALABS
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Under ESOP/ESOS - December 2, 2025
 ---

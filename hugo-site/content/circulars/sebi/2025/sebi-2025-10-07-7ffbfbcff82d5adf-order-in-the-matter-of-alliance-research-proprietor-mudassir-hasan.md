@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- enforcement
+- intermediary
+- investigation
 - investment-adviser
-- enforcement-action
 - registration
-- suspension
-- intermediaries
-- inspection
 - settlement-proceedings
+- suspension
 title: Order in the matter of Alliance Research, Proprietor, Mudassir Hasan
 ---
 

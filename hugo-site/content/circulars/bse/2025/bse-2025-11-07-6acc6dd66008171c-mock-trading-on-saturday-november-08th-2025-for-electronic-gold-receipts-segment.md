@@ -26,10 +26,8 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
 - egr
-- electronic-gold-receipts
-- testing
+- mock-trading
 - trading-session
 title: Mock Trading on Saturday, November 08th, 2025 for Electronic Gold Receipts
   segment

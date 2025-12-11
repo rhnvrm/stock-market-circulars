@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MAGNUS
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- equity
-- trading
 - company-related
+- equity
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements of MAGNUS STEELAND INFRA LIMITED
 ---
 

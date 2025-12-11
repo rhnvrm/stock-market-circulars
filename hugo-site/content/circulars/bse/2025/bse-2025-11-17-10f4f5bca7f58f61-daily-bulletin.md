@@ -29,12 +29,12 @@ stocks:
 - ASHOKLEY
 tags:
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
 - commercial-paper
-- corporate-actions
+- corporate-action
+- dividend
 - interest-payment
+- ncd
+- record-date
 title: Daily Bulletin 156/2025-2026 - Book Closure, Record Dates and Corporate Actions
 ---
 

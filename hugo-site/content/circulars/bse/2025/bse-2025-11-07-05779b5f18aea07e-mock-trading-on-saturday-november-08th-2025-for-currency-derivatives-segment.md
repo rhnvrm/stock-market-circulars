@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
 - cross-currency-derivatives
-- testing
-- trading-session
-- bolt-tws
+- derivatives
 - eti-api
+- mock-trading
+- trading-platform
+- trading-session
 title: Mock Trading on Saturday, November 08th, 2025 for Currency Derivatives Segment
 ---
 

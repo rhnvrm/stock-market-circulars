@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- asset-allocation
-- portfolio-rebalancing
 - aditya-birla
-- bse-star-mf
+- asset-allocation
+- mutual-fund
+- name-change
+- portfolio-rebalancing
 title: Change in Scheme name of ADITYA BIRLA MUTUAL FUND on BSE StAR MF Platform
 ---
 

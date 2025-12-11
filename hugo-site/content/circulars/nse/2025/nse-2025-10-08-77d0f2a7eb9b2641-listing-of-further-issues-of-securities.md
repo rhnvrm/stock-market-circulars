@@ -37,13 +37,13 @@ stocks:
 - SHRIRAMPROP
 - UNICOMERCE
 tags:
-- listing
-- equity-shares
-- further-issue
-- warrant-conversion
+- conversion
+- equity
 - esop
-- preferential-allotment
+- further-issue
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of Securities - 10 Companies Including Adani Green
   Energy, ICICI Bank
 ---

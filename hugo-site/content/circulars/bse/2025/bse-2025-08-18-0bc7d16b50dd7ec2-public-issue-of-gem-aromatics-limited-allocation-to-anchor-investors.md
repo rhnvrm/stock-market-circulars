@@ -23,13 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GEMAROMATICS
+- GEMAROMA
 tags:
-- public-issue
-- anchor-investors
+- allotment
+- anchor-investor
 - ipo
-- allocation
-- gem-aromatics
+- public-issue
 title: Public Issue of GEM AROMATICS LIMITED - Allocation to Anchor Investors
 ---
 

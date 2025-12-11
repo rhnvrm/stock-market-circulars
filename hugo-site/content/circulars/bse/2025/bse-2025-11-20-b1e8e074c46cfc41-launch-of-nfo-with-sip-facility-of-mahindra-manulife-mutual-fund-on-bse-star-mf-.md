@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- arbitrage-fund
+- debt-scheme
+- fund-of-funds
+- mahindra-manulife
 - mutual-fund
 - nfo
 - sip
-- mahindra-manulife
-- bse-star-mf
-- debt-scheme
-- arbitrage
-- fund-of-funds
 title: Launch of NFO with SIP facility of MAHINDRA MANULIFE Mutual Fund on BSE StAR
   MF Platform
 ---

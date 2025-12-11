@@ -25,11 +25,11 @@ source: bse
 stocks:
 - TATAGOLD
 tags:
+- e-group
 - etf
 - gold
+- listing
 - tata-mutual-fund
-- new-listing
-- e-group
 title: Trading of Units of Tata Mutual Fund - Tata Gold Exchange Traded Fund
 ---
 

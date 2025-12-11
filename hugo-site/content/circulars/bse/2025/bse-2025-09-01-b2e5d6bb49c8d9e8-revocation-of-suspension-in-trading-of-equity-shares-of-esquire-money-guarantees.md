@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ESQUIRE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
 - company-profile
+- equity
+- release
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Esquire Money Guarantees
   Ltd.
 ---

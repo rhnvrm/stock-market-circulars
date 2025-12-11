@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ACESOFTEX
 tags:
-- listing
-- equity-shares
-- rights-issue
-- conversion
 - ace-software-exports
+- conversion
+- equity
+- listing
+- rights-issue
 title: Listing of New Securities of Ace Software Exports Limited
 ---
 

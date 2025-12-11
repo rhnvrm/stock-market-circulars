@@ -27,14 +27,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - bandhan-mutual-fund
 - healthcare-fund
-- nse-mf-invest
-- scheme-reopening
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
+- trading-platform
 title: Availability of Bandhan Healthcare Fund for Ongoing Transactions on NSE MF
   Invest Platform
 ---

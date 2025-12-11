@@ -24,9 +24,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - axis-mutual-fund
-- equity-fund
+- equity
+- mutual-fund
 - reopening
 - sip
 - stp

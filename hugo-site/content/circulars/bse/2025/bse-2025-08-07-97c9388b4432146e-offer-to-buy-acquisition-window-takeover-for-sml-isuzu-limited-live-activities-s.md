@@ -27,10 +27,8 @@ source: bse
 stocks:
 - SMLISUZU
 tags:
+- otb
 - takeover
-- offer-to-buy
-- acquisition
-- otb-module
 - trading-schedule
 title: Offer to Buy - Acquisition Window (Takeover) for SML ISUZU LIMITED - Live Activities
   Schedule

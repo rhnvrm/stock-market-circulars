@@ -34,13 +34,11 @@ stocks:
 - ORTINGLOBE
 - OSELDEVICE
 tags:
-- surveillance
-- esm
-- enhanced-surveillance
-- margin-requirements
-- trade-for-trade
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Stage Changes for Multiple Securities
 ---
 

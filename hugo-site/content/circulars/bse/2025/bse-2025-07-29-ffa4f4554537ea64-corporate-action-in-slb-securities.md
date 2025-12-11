@@ -37,7 +37,7 @@ stocks:
 - TTKPRESTIG
 - PARASDEFENCE
 - INDIAGLYCO
-- JKBANK
+- J&KBANK
 - MASFIN
 - MANGCHEFER
 - CHAMBLFERT
@@ -46,13 +46,13 @@ stocks:
 - HINDPETRO
 - LTFOODS
 tags:
-- corporate-actions
-- dividends
-- bonus-issue
-- stock-split
-- slb-securities
-- record-dates
+- bonus
+- corporate-action
+- dividend
 - ex-dates
+- record-date
+- slb
+- split
 title: Corporate Action Schedule for SLB Securities - July-August 2025
 ---
 

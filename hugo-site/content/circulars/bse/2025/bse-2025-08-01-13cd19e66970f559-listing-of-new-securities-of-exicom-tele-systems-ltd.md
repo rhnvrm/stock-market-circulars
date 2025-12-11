@@ -26,10 +26,10 @@ source: bse
 stocks:
 - EXICOM
 tags:
-- equity-shares
-- rights-issue
-- new-listing
+- equity
 - exicom-tele-systems
+- listing
+- rights-issue
 title: Listing of new Securities of Exicom Tele-Systems Ltd
 ---
 

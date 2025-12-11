@@ -26,14 +26,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- fatf
-- compliance
 - aml
-- kyc
-- trading-members
 - client-verification
-- jurisdictions
+- compliance
 - due-diligence
+- fatf
+- jurisdictions
+- kyc
+- trading-member
 title: FATF Public Statements after October 2025 Plenary - User Manual for Declaration
   Process
 ---

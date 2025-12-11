@@ -26,12 +26,10 @@ source: bse
 stocks:
 - NACL
 tags:
-- takeover
-- settlement
-- acquisition-window
-- offer-to-buy
 - early-pay-in
-- NACL
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for NACL Industries Limited Takeover Offer - Acquisition
   Window
 ---

@@ -57,15 +57,14 @@ stocks:
 - STURDYIND
 - VIKASPROP
 tags:
-- surveillance
-- z-group
-- mt-group
-- trade-for-trade
-- sebi-lodr
-- regulation-34
 - annual-report
+- asm-stage
+- lodr
 - non-compliance
 - penal-action
+- regulation-34
+- surveillance
+- trade-for-trade
 title: Shifting of 30 Scrips to 'Z'/'MT' Group for Non-Compliance with Annual Report
   Filing Requirements
 ---

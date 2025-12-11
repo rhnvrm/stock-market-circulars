@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - JVSL
 tags:
-- rti-act
 - appeal
+- ncd
+- rti
+- scheme-of-arrangement
 - share-certificates
-- debentures
-- merger
-- stock-split
+- split
 title: RTI Appeal Dismissed - Yukti Sharma vs SEBI Regarding Jindal Vijaynagar Steel
   Shares
 ---

@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- compliance
-- recovery
 - attachment
+- compliance
 - defaulter
 - enforcement
+- recovery
 title: SEBI order for compliance - Notices of Attachment of Bank and Demat Accounts
   of In House Productions Limited LLP
 ---

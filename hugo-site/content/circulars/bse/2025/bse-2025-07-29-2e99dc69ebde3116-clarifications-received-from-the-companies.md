@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544176'
+- AADHARHFC
 - SUDARSCHEM
 tags:
-- volume-clarification
-- surveillance
-- open-offer
-- takeover
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
+- takeover
 title: Clarifications received from companies regarding volume increase
 ---
 

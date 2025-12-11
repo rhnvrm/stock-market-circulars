@@ -27,11 +27,10 @@ source: bse
 stocks:
 - GHUSHINE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
+- equity
 - market-operations
-- ghushine-fintrrade
+- release
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Ghushine Fintrrade
   Ocean Ltd.
 ---

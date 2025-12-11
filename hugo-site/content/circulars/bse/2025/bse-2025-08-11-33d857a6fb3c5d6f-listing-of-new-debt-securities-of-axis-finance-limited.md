@@ -25,11 +25,10 @@ source: bse
 stocks:
 - AXISFINANCE
 tags:
+- crisil-aaa
 - debt-securities
 - listing
-- axis-finance
 - private-placement
-- crisil-aaa
 title: Listing of new debt securities of Axis Finance Limited
 ---
 

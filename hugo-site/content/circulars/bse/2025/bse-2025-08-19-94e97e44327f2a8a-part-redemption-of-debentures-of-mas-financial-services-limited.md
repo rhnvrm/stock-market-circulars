@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MASFIN
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - mas-financial
+- ncd
+- redemption
 title: Part Redemption of Debentures of MAS Financial Services Limited
 ---
 

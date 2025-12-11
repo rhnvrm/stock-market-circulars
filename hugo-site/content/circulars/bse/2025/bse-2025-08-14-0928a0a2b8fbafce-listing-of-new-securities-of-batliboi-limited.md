@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BATLIBOI
 tags:
+- equity
 - listing
-- merger
-- amalgamation
-- equity-shares
-- batliboi
 - new-securities
+- scheme-of-arrangement
 title: Listing of new securities of Batliboi Limited following merger with BEEL
 ---
 

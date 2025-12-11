@@ -26,10 +26,10 @@ source: bse
 stocks:
 - STEPTWO
 tags:
-- equity-shares
-- preferential-allotment
+- equity
 - listing
 - lock-in
+- preferential-issue
 - step-two-corporation
 title: Listing of New Equity Shares of Step Two Corporation Ltd
 ---

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - OPAL
 tags:
+- aaa-rated
 - debt-securities
 - listing
-- ONGC-petro-additions
+- ncd
+- ongc-petro-additions
 - private-placement
-- debentures
-- AAA-rated
 title: Listing of New Debt Securities of ONGC Petro Additions Limited
 ---
 

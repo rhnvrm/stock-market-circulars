@@ -52,7 +52,7 @@ stocks:
 - SILINV
 - SODHANI
 - SWITCHING
-- TCM
+- TCMLMTD
 - TEAMGUARA
 - TECHGREEN
 - TRIDENT
@@ -64,11 +64,11 @@ stocks:
 - VIRATIND
 - VIVANZA
 tags:
-- price-band
-- trading-limits
-- surveillance
 - equity
-- market-regulation
+- market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 38 Securities Effective November 17, 2025
 ---
 

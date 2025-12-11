@@ -29,9 +29,9 @@ stocks:
 - MIEL
 - SILGO
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
 - trading-restrictions
 title: NSE Short-Term Additional Surveillance Measure (ST-ASM) - 4 Securities Added
   to Stage I

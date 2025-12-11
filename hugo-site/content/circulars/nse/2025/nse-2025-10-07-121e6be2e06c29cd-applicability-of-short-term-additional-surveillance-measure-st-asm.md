@@ -39,12 +39,10 @@ stocks:
 - OMINFRAL
 - SPCENET
 tags:
-- surveillance
-- asm
-- short-term-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - enhanced-monitoring
+- surveillance
+- trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

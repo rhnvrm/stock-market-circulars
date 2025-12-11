@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- trading-holiday
-- settlement
-- debt-funds
-- liquid-funds
+- debt-securities
 - eid-e-milad
+- holiday
+- liquid-fund
+- mutual-fund
+- settlement
 title: Transactions Acceptance on Eid-e-Milad Holiday for BSE StAR MF Platform
 ---
 

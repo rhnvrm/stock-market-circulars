@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- trading-suspension
-- debentures
-- interest-payment
-- redemption
-- record-date
 - debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of SHRIRAM FINANCE LIMITED
 ---
 

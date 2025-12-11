@@ -24,15 +24,15 @@ severity: low
 source: bse
 stocks: []
 tags:
+- fund-of-funds
 - mutual-fund
-- fof
-- zerodha
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- star-mf-platform
+- trading-platform
+- zerodha
 title: ZERODHA MULTI ASSET PASSIVE FOF Reopens for Ongoing Transactions on BSE StAR
   MF Platform
 ---

@@ -31,12 +31,11 @@ stocks:
 - NCC
 - TITAGARH
 tags:
-- derivatives
-- futures-and-options
-- equity-derivatives
 - contract-discontinuation
+- derivatives
 - eligibility-criteria
-- SEBI-circular
+- futures-options
+- sebi
 - trading-operations
 title: Exclusion of Futures and Options Contracts of 4 Securities from Equity Derivatives
   Segment

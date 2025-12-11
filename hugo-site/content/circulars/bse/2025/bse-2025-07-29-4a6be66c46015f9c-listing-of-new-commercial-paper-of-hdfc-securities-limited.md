@@ -24,11 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- HDFC Securities
+- HDFC SECURITIES
 tags:
 - commercial-paper
-- debt-listing
-- hdfc-securities
+- debt-securities
 - private-placement
 title: Listing of new Commercial Paper of HDFC Securities Limited
 ---

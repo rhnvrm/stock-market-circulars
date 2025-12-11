@@ -28,18 +28,18 @@ stocks:
 - STANDARDCHARTERED
 - IGHHOLDINGS
 - HDFCSEC
-- 360ONEWAM
+- 360ONE
 - MAHLIFE
 - BAJAJFINSEC
 - POONAWALLAFIN
 - RELIANCERETAIL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- debt-market
+- corporate-action
+- debt-securities
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

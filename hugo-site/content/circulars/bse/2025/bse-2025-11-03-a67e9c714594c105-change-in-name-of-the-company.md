@@ -25,9 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- company-name-change
-- corporate-affairs
 - administrative
+- corporate-affairs
+- name-change
 title: Change in Name of the Company
 ---
 

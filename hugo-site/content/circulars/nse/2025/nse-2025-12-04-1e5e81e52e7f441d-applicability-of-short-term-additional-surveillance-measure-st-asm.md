@@ -50,15 +50,9 @@ stocks:
 - VLSFINANCE
 - WOL3D
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- market-surveillance
+- asm-stage
 - securities-monitoring
-- gurunanak
-- greenleaf
-- integrity
-- jetfreight
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

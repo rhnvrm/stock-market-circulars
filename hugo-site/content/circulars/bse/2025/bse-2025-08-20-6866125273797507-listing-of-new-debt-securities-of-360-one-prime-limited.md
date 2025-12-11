@@ -25,10 +25,10 @@ source: bse
 stocks:
 - 360ONE
 tags:
+- 360-one-prime
 - debt-securities
 - listing
 - private-placement
-- 360-one-prime
 title: Listing of new debt securities of 360 ONE Prime Limited
 ---
 

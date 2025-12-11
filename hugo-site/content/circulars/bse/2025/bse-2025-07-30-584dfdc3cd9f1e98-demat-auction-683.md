@@ -26,14 +26,14 @@ source: bse
 stocks:
 - ABBOTT
 - ACME
-- INFOSYS
+- INFY
 - LARSEN
 - SPICEJET
 - TRENT
 tags:
-- demat-auction
-- settlement
+- demat
 - securities-auction
+- settlement
 - trading
 title: Demat Auction - Settlement No. 683
 ---

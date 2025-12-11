@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544563'
+- ZELIO
 tags:
+- asm-stage
 - group-change
-- sme
 - rolling-segment
+- sme
 - trade-for-trade
-- mt-group
-- m-group
 - zelio-e-mobility
 title: Change in Group of Equity Shares of Zelio E Mobility Ltd
 ---

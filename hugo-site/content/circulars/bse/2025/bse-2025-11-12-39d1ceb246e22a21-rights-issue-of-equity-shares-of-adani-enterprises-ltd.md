@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ADANIENT
 tags:
-- rights-issue
 - corporate-action
-- equity-shares
+- equity
 - record-date
-- adani-enterprises
+- rights-issue
 title: Rights Issue of Equity Shares of Adani Enterprises Ltd
 ---
 

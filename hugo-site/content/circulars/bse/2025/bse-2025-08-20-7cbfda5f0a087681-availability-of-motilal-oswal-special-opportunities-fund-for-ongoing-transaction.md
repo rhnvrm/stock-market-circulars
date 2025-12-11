@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
-- reopening
 - motilal-oswal
-- subscription
+- mutual-fund
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
 title: MOTILAL OSWAL SPECIAL OPPORTUNITIES FUND Reopening for Ongoing Transactions
   on BSE StAR MF Platform

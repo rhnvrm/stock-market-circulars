@@ -25,13 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- settlement
 - derivatives
-- f-and-o
-- futures
-- options
-- settlement-schedule
+- futures-options
 - november-2025
+- options
+- settlement
 title: Settlement Programme for F&O Segment - November 2025
 ---
 

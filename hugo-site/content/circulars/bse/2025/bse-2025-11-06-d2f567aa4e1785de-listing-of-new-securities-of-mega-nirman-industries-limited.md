@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MEGANIRMAN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Mega Nirman & Industries Limited
 ---
 

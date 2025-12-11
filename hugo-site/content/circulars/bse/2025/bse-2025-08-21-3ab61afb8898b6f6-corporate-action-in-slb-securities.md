@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PATANJALIFOODS
+- PATANJALI
 - GUJGAS
 - TVSMOTORS
 - GABRIEL
 - AGIGREENPACK
 - AARTIPHARMLAB
-- ROUTEMOBILE
+- ROUTE
 - LUXIND
 - PRESTIGE
 - EPLLTD
@@ -40,13 +40,12 @@ stocks:
 - GODFREY
 - GUJALKALI
 tags:
-- corporate-actions
+- bonus
+- book-closure
+- corporate-action
 - dividend
-- bonus-issue
-- slb-securities
 - record-date
-- ex-date
-- shut-period
+- slb
 title: Corporate Action Schedule for SLB Securities - Multiple Companies Dividend
   and Bonus Issues
 ---

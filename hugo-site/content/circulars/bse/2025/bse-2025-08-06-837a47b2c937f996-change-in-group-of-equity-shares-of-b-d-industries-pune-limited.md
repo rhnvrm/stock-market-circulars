@@ -26,12 +26,11 @@ source: bse
 stocks:
 - BDINDUSTRIES
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- mt-group
-- m-group
+- trade-for-trade
 title: B. D. Industries (Pune) Limited Equity Shares Transferred from Trade for Trade
   to Rolling Segment
 ---

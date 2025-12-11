@@ -28,13 +28,13 @@ stocks:
 - CONTI
 - PRAMARA
 tags:
-- listing
-- further-issues
-- preferential-issue
-- sme-emerge
-- equity-shares
 - continental-seeds
+- emerge-platform
+- equity
+- further-issue
+- listing
 - pramara-promotions
+- preferential-issue
 title: Listing of Further Issues of Continental Seeds and Chemicals Limited and Pramara
   Promotions Limited
 ---

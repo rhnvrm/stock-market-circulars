@@ -27,12 +27,11 @@ source: bse
 stocks:
 - GLOBALOFFS
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
-- global-offshore-services
+- preferential-issue
 title: Listing of New Equity Shares of Global Offshore Services Ltd on Preferential
   Basis
 ---

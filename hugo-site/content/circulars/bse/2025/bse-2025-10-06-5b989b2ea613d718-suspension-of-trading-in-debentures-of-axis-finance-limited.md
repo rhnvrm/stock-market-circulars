@@ -28,13 +28,11 @@ source: bse
 stocks:
 - AXISFINANCE
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
-- debt-market
-- axis-finance
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AXIS FINANCE LIMITED
 ---
 

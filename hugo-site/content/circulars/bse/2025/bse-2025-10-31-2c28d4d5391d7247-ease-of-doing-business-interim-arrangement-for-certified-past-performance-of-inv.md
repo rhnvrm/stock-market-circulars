@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
-- parrva
-- performance-disclosure
+- compliance
 - ease-of-doing-business
 - iaasb
-- raasb
-- compliance
 - interim-arrangement
+- investment-adviser
+- parrva
+- performance-disclosure
+- raasb
+- research-analyst
 title: Interim arrangement for certified past performance of Investment Advisers and
   Research Analysts prior to PaRRVA operationalisation
 ---

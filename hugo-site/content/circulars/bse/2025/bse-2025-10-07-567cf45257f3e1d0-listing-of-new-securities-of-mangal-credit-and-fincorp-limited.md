@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MANGCREDIT
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Mangal Credit and Fincorp Limited - Preferential
   Issue
 ---

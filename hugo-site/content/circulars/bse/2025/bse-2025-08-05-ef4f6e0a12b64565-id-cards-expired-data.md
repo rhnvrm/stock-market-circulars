@@ -26,8 +26,8 @@ source: bse
 stocks: []
 tags:
 - broker-compliance
-- id-cards
 - expiry
+- id-cards
 - renewal
 - trading-authorization
 title: BSE Broker ID Cards Expiry Data - July 2025

@@ -28,10 +28,10 @@ stocks:
 - IDEA
 tags:
 - clarification
+- disclosure
+- media-reports
 - news-verification
 - vodafone-idea
-- media-reports
-- disclosure
 title: Clarifications received from the companies on news articles
 ---
 

@@ -28,11 +28,10 @@ source: bse
 stocks:
 - BHARATRAS
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
-- bharat-rasayan
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for BHARAT RASAYAN LTD - Equity Share Sub-Division
 ---
 

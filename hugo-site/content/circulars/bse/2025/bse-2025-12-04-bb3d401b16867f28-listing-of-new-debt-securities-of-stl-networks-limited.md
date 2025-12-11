@@ -29,11 +29,11 @@ stocks:
 - STL
 tags:
 - debt-securities
+- fixed-income
 - listing
+- ncd
 - private-placement
 - stl-networks
-- debentures
-- fixed-income
 title: Listing of New Debt Securities of STL Networks Limited
 ---
 

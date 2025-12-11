@@ -26,12 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery
 - enforcement
-- illiquid-stock-options
 - huf
-- recovery-certificate
+- illiquid-stock-options
 - legal-proceedings
+- recovery
 title: Completion of Recovery Certificate No. RC 8098 of 2024 against Krishna Kumar
   Jhunjhunwala HUF
 ---

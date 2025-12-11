@@ -27,10 +27,10 @@ source: bse
 stocks:
 - SKIPPER
 tags:
+- equity
 - listing
-- equity-shares
+- partly-paid
 - rights-issue
-- partly-paid-conversion
 - skipper-ltd
 title: Listing of New Securities of Skipper Ltd - Conversion of Partly Paid Shares
 ---

@@ -28,11 +28,10 @@ stocks:
 - MUTHOOTFN
 tags:
 - debt-securities
-- private-placement
 - listing
 - muthoot-fincorp
-- non-convertible-debentures
-- debt-segment
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoot Fincorp Limited
 ---
 

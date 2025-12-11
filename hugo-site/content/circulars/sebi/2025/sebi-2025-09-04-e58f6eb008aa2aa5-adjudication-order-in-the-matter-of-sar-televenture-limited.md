@@ -28,12 +28,12 @@ stocks:
 - SAR
 tags:
 - adjudication
-- disclosure-violations
-- LODR
-- revenue-sharing-agreement
-- BSNL
-- NHAI
+- bsnl
+- information-disclosure
+- lodr
+- nhai
 - optical-fiber
+- revenue-sharing-agreement
 - telecom
 title: Adjudication Order Against SAR Televenture Limited for Disclosure Violations
 ---

@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
-- non-genuine-trades
+- adjudication
 - artificial-volume
-- BSE
-- PFUTP-regulations
-- reversal-trades
+- bse
 - illiquid-stocks
+- market-operations
+- non-genuine-trades
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Rudramukhi Infrastructure Pvt. Ltd in the
   matter of Illiquid Stock Options at BSE
 ---

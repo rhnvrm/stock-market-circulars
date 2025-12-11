@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MANAKCOAT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
 - manaksia
+- preferential-issue
 title: Listing of new Securities of Manaksia Coated Metals & Industries Ltd
 ---
 

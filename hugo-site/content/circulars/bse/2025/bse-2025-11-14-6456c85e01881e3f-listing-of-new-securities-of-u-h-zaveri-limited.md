@@ -27,11 +27,10 @@ source: bse
 stocks:
 - UHZAVERI
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- UHZAVERI
+- rights-issue
 title: Listing of New Securities of U. H. ZAVERI LIMITED - 20.39 Million Rights Issue
   Equity Shares
 ---

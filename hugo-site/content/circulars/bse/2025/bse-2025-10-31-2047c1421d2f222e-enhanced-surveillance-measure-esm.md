@@ -54,7 +54,7 @@ stocks:
 - TRIDENT
 - TRUSTEDGE
 - YURANUS
-- ACEALPHATECH
+- ACEALPHA
 - ADDI
 - AGIO
 - ARYAVAN
@@ -73,12 +73,10 @@ stocks:
 - PANTH
 - REFEX
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- market-regulation
-- trading-restrictions
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective November
   03, 2025
 ---

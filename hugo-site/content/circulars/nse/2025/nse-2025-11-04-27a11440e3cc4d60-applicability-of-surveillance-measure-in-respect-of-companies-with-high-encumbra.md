@@ -32,12 +32,12 @@ stocks:
 - NUVAMA
 - SHAREINDIA
 tags:
-- surveillance
+- compliance
+- derivatives
 - encumbrance
-- sebi-sast
-- margin-requirements
-- equity-derivatives
-- regulatory-compliance
+- margin
+- sast
+- surveillance
 title: Applicability of Surveillance Measure in respect of companies with high 'Encumbrance'
   as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

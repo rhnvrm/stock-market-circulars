@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- nirmal-bang
-- debentures
 title: Listing of new debt securities of NIRMAL BANG SECURITIES PRIVATE LIMITED
 ---
 

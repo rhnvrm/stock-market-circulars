@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- administrative
-- regional-office
 - address-change
+- administrative
 - ahmedabad
 - chennai
 - nse-clearing
+- regional-office
 title: Change in address for NSE Clearing Regional Office at Ahmedabad and Chennai
 ---
 

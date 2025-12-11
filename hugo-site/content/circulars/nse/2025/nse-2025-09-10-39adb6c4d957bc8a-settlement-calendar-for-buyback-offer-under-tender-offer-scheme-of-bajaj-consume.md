@@ -27,11 +27,10 @@ stocks:
 - BAJAJCON
 tags:
 - buyback
-- tender-offer
-- settlement-calendar
-- bajaj-consumer-care
-- early-pay-in
 - demat-shares
+- early-pay-in
+- settlement-calendar
+- tender-offer
 title: Settlement Calendar for Buyback Offer under Tender Offer scheme of Bajaj Consumer
   Care Limited
 ---

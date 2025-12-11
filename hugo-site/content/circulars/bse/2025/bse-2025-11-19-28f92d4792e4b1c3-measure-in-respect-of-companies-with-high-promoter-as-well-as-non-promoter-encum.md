@@ -30,12 +30,12 @@ stocks:
 - INDFIN
 - NRAGARW
 tags:
-- surveillance
 - encumbrance
-- promoter-holdings
+- enhanced-monitoring
 - sast
 - sebi-regulation
-- enhanced-monitoring
+- shareholding-pattern
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

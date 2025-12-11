@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ACAPL
 tags:
+- akara-capital
+- bond
 - debt-securities
 - listing
 - private-placement
-- akara-capital
-- corporate-bonds
 title: Listing of new debt securities of Akara Capital Advisors Private Limited
 ---
 

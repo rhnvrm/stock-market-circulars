@@ -66,12 +66,12 @@ stocks:
 - SBIN
 - SHRIRAMFIN
 tags:
-- margin-requirements
-- liquid-assets
-- securities-list
 - collateral
+- liquid-fund
+- margin
 - risk-management
-- slb-segment
+- securities-list
+- slb
 title: Revised List of Approved Securities and Banks for Non-Cash Component of Liquid
   Assets
 ---

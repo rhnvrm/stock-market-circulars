@@ -29,13 +29,10 @@ source: bse
 stocks:
 - SABTNL
 tags:
-- open-offer
+- draft-document
+- sast
+- shareholding-pattern
 - takeover
-- acquisition
-- sebi-sast
-- public-shareholders
-- letter-of-offer
-- sabtnl
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Sri Adhikari Brothers
   Television Network Limited
 ---

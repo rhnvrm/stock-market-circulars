@@ -26,10 +26,10 @@ source: bse
 stocks:
 - POWERINST
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Power & Instrumentation (Gujarat) Limited
 ---
 

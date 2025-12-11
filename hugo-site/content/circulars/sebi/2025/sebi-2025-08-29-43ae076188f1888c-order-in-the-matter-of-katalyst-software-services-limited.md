@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - KSSL
 tags:
-- enforcement-action
 - corporate-governance
+- enforcement
+- ncd
 - pledge-invocation
-- debentures
 - scheme-of-arrangement
-- KSSL
 title: Order in the matter of Katalyst Software Services Limited
 ---
 

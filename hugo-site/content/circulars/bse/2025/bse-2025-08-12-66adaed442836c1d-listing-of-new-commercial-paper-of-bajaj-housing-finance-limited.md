@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BAJAJHFL
 tags:
+- bajaj-housing-finance
 - commercial-paper
 - debt-securities
-- private-placement
 - listing
-- bajaj-housing-finance
+- private-placement
 title: Listing of new Commercial Paper of Bajaj Housing Finance Limited
 ---
 

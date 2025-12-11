@@ -26,12 +26,11 @@ source: nse
 stocks:
 - NESTLEIND
 tags:
-- position-limits
-- trading-limits
 - fii-fpi
-- mutual-funds
 - market-participants
-- NESTLEIND
+- mutual-fund
+- position-limits
+- trading-operations
 title: Revised MWPL, TM, FII/FPI & MF limits for NESTLE INDIA LIMITED
 ---
 

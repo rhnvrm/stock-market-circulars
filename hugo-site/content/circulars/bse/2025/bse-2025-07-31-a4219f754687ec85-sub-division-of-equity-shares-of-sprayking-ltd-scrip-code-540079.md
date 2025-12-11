@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SPRAYKING
 tags:
-- subdivision
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of SPRAYKING LTD (Scrip Code: 540079)'
 ---
 

@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- notice-of-demand
 - compliance-order
-- enforcement-action
+- demand-notice
+- enforcement
 - pressure-sensitive-systems
+- recovery
 title: SEBI Order for Compliance - Notice of Demand for Recovery Certificate No. 8841
   of 2025 against Purav Bharatbhai Patel & Hansaben Bharatkumar Patel in the matter
   of Pressure Sensitive Systems (India) Limited

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VIKRAN
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
-- mutual-funds
-- equity-shares
+- mutual-fund
 title: Public Issue of Vikran Engineering Limited - Allocation to Anchor Investors
 ---
 

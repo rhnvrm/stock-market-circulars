@@ -28,12 +28,9 @@ source: bse
 stocks:
 - VIPIND
 tags:
-- offer-to-buy
-- acquisition-window
+- otb
 - takeover
-- otb-module
 - trading-schedule
-- vipind
 title: Offer to Buy – Acquisition Window (Takeover) for VIP INDUSTRIES LTD - Live
   Activities Schedule
 ---

@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- SRGHOUSINGFINANCE
+- SRGHFL
 tags:
 - debt-securities
+- housing-finance
 - listing
 - private-placement
-- housing-finance
 - srg-housing-finance
 title: Listing of New Debt Securities of SRG Housing Finance Limited
 ---

@@ -29,11 +29,11 @@ source: nse
 stocks: []
 tags:
 - colocation
-- infrastructure
 - high-power-density
+- infrastructure
+- member-services
 - rack-conversion
 - technical-infrastructure
-- member-services
 title: Colocation - Request for Removal of Side Panel for High Power Density (HPD)
   Rack Conversion
 ---

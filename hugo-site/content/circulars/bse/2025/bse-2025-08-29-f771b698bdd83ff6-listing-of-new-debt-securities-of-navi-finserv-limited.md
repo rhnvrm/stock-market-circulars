@@ -26,10 +26,10 @@ stocks:
 - NAVINFIN
 tags:
 - debt-securities
-- private-placement
+- fixed-income
 - listing
 - navi-finserv
-- fixed-income
+- private-placement
 title: Listing of new debt securities of Navi Finserv Limited
 ---
 

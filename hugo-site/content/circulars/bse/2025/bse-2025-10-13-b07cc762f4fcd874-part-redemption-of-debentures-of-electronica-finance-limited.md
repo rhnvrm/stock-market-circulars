@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ELECTRONICA
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- face-value-change
 - interest-payment
+- ncd
 - record-date
-- reduced-face-value
-- non-convertible-debentures
-- corporate-actions
+- redemption
 title: Part Redemption of Debentures of ELECTRONICA FINANCE LIMITED
 ---
 

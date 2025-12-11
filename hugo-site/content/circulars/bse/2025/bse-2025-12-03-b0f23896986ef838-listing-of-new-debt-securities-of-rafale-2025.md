@@ -27,8 +27,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- pass-through-certificates
 - private-placement
+- ptc
 - rafale
 title: Listing of New Debt Securities of RAFALE - 2025
 ---

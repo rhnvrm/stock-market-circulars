@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- securitisation-trust
 - listing
 - receivable-securitisation-trust-7
+- securitisation-trust
 - trust-securities
 title: Update Regarding Debt Securities of Receivable Securitisation Trust 7
 ---

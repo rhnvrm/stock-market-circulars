@@ -28,12 +28,11 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- pre-open-session
-- futures
-- trading-mechanism
-- price-discovery
+- futures-options
 - market-operations
-- equity-derivatives
+- pre-open-session
+- price-discovery
+- trading-operations
 title: Introduction of Pre-Open Session in Equity Derivatives Segment – Update
 ---
 

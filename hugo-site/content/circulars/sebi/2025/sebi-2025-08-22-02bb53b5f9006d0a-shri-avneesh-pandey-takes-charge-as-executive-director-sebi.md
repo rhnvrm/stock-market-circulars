@@ -26,8 +26,8 @@ source: sebi
 stocks: []
 tags:
 - executive-appointment
-- leadership-change
 - information-technology
+- leadership-change
 - personnel
 title: Shri Avneesh Pandey takes charge as Executive Director, SEBI
 ---

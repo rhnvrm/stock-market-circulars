@@ -25,10 +25,10 @@ source: nse
 stocks:
 - MOSILVER
 tags:
-- etf-listing
+- etf
+- listing
 - motilal-oswal
-- silver-etf
-- new-listing
+- silver
 title: Listing of Motilal Oswal Silver ETF Units on NSE
 ---
 

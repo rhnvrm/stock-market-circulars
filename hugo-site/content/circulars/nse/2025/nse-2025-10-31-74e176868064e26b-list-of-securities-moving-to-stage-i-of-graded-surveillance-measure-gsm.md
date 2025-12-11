@@ -28,14 +28,11 @@ source: nse
 stocks:
 - EUROTEXIND
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- stage-1
-- trade-to-trade
-- margin-requirements
+- asm-stage
+- margin
 - price-band
-- EUROTEXIND
+- surveillance
+- trade-to-trade
 title: List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)
 ---
 

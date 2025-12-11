@@ -27,12 +27,11 @@ source: nse
 stocks:
 - ROLEXRINGS
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- settlement
+- early-pay-in
+- face-value-change
 - margin-exemption
-- rolex-rings
+- settlement
 title: Early Pay-in of Securities for Rolex Rings Limited (ROLEXRINGS)
 ---
 

@@ -29,13 +29,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - axis-mutual-fund
-- minimum-application-amount
-- sip
-- lumpsum
 - debt-schemes
-- bse-star-mf
+- lumpsum
+- minimum-application-amount
+- mutual-fund
+- sip
 title: Change in Minimum Application Amount for certain schemes of Axis Mutual Fund
   on BSE StAR MF platform
 ---

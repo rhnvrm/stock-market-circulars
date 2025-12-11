@@ -26,9 +26,9 @@ source: nse
 stocks:
 - GLOBE
 tags:
-- name-change
 - corporate-action
 - listing
+- name-change
 title: Change in name of Globe Textiles (India) Limited
 ---
 

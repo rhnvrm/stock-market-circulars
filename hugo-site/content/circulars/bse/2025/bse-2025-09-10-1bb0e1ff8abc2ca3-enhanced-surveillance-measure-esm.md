@@ -30,12 +30,9 @@ stocks:
 - REFEXREN
 - SEATV
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
-- bcc-fuba
 - pvp-ventures
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---
 

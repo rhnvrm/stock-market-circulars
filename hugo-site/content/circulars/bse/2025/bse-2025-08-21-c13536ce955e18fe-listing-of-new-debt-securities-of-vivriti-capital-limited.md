@@ -25,11 +25,11 @@ source: bse
 stocks:
 - VIVRITI
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - vivriti-capital
-- corporate-bonds
 title: Listing of new debt securities of VIVRITI CAPITAL LIMITED
 ---
 

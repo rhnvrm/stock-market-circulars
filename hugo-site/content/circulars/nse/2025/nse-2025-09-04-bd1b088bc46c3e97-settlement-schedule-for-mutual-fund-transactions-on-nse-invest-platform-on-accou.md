@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- settlement-schedule
 - clearing-holiday
-- nse-invest
 - id-e-milad
+- mutual-fund
+- nse-invest
+- settlement
 title: Settlement Schedule for Mutual Fund Transactions on NSE Invest Platform - Clearing
   Holiday September 8, 2025
 ---

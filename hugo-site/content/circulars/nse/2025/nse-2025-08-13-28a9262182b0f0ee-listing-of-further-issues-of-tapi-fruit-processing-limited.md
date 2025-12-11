@@ -27,11 +27,11 @@ stocks:
 - TAPIFRUIT
 - CANARYS
 tags:
-- listing
-- equity-shares
+- conversion
+- emerge-platform
+- equity
 - esop
-- warrant-conversion
-- sme-emerge
+- listing
 - lock-in
 title: Listing of Further Issues of Tapi Fruit Processing Limited and Canarys Automations
   Limited

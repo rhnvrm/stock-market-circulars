@@ -27,12 +27,9 @@ source: bse
 stocks:
 - HAGL
 tags:
-- open-offer
-- takeover
-- acquisition
-- substantial-acquisition
-- sebi-sast
 - hindustan-agrigenetics
+- sast
+- takeover
 title: Open Offer by Rajendra Naniwadekar for Hindustan Agrigenetics Limited - 26%
   Acquisition at ₹54 per Share
 ---

@@ -26,12 +26,11 @@ source: nse
 stocks:
 - PNB
 tags:
-- suspension
-- non-convertible-debenture
-- debt-market
-- redemption
+- debt-securities
+- ncd
 - punjab-national-bank
-- trading-suspension
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debenture of Punjab National Bank
 ---
 

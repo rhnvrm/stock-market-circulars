@@ -25,9 +25,9 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- stock-options
 - illiquid
 - penalty
+- stock-options
 - violation
 title: SEBI Certificate No. 8790 of 2025 - Puneet Sabharwal HUF - Illiquid Stock Options
   Matter

@@ -24,13 +24,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- compliance
-- recovery
 - bank-accounts
-- demat-accounts
-- mutual-fund
+- compliance
+- demat
 - enforcement
+- mutual-fund
 - nirmal-jain
+- recovery
 title: SEBI Order for Compliance - Order Releasing of Bank Accounts, Demat Accounts
   and Mutual Fund Folios of Mr. Nirmal Jain
 ---

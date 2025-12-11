@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ADVANCE
 tags:
-- listing
-- equity-shares
-- new-listing
 - advance-agrolife
+- equity
+- listing
 title: Listing of Equity Shares of Advance Agrolife Limited
 ---
 

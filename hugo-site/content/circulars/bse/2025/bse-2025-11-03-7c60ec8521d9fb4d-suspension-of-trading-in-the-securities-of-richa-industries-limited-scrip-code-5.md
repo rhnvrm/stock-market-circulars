@@ -28,11 +28,11 @@ source: bse
 stocks:
 - RICHA
 tags:
-- trading-suspension
+- equity
 - liquidation
-- nclt-order
+- nclt
 - richa-industries
-- equity-shares
+- suspension
 title: Suspension of Trading in Richa Industries Limited Due to Liquidation Proceedings
 ---
 

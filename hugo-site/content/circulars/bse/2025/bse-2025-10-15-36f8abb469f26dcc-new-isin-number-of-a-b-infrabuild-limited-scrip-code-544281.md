@@ -28,11 +28,11 @@ source: bse
 stocks:
 - ABINFRA
 tags:
-- isin-change
-- sub-division
 - corporate-action
-- equity-shares
+- equity
+- isin
 - scrip-544281
+- split
 title: New ISIN Number for A B INFRABUILD LIMITED - Sub-Division of Equity Shares
 ---
 

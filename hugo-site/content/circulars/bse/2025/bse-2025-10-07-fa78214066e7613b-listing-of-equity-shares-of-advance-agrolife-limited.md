@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ADVANCEAGRO
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
+- listing
 - lock-in
-- equity-shares
-- anchor-investors
 title: Listing of Equity Shares of Advance Agrolife Limited - Lock-in Details
 ---
 

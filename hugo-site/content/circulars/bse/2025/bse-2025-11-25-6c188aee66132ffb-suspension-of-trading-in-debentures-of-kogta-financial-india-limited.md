@@ -27,13 +27,13 @@ source: bse
 stocks:
 - KFIL
 tags:
-- debentures
-- suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
 - kogta-financial
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KOGTA FINANCIAL (INDIA) LIMITED
 ---
 

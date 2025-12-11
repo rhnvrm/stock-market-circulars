@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- allotment
+- extension
 - mutual-fund
 - nfo
-- extension
-- sbi-mutual-fund
-- bse-star-mf
 - payment-timeline
-- allotment
+- sbi-mutual-fund
 title: Extension of NFO of SBI Dynamic Asset Allocation Active FOF on BSE StAR MF
   Platform
 ---

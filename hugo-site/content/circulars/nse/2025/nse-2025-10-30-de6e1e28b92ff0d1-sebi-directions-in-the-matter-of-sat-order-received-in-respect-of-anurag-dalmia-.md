@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- appeal
 - debarment
-- SAT-order
-- SEBI-directions
-- penalty
 - investigation
+- penalty
+- sebi-order
 - securities-market-access
 title: SEBI Directions in Matter of SAT Order - Stay on Debarment for Anurag Dalmia
   and Ashok Kumar Joshi

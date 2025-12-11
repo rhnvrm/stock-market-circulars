@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - 360-one
 - hybrid-fund
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: 360 ONE Multi Asset Allocation Fund Available for Ongoing Transactions on BSE
   StAR MF Platform

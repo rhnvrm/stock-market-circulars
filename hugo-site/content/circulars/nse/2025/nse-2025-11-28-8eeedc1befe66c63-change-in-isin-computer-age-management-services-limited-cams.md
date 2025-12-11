@@ -26,11 +26,9 @@ source: nse
 stocks:
 - CAMS
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- cams
+- isin
+- split
 title: Change in ISIN - Computer Age Management Services Limited (CAMS)
 ---
 

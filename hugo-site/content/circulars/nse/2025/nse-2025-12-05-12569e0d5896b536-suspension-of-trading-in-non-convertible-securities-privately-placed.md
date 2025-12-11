@@ -29,14 +29,12 @@ stocks:
 - NTPC
 - ABCAPITAL
 tags:
-- debt-market
-- suspension
+- aditya-birla-capital
+- debt-securities
 - non-convertible-securities
 - privately-placed
 - redemption
-- powergrid
-- ntpc
-- aditya-birla-capital
+- suspension
 title: Suspension of Trading in Non-Convertible Securities (Privately Placed)
 ---
 

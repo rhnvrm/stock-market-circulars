@@ -27,12 +27,12 @@ source: bse
 stocks:
 - NOVELIX
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
 - novelix-pharmaceuticals
+- preferential-issue
 title: Listing of New Securities of Novelix Pharmaceuticals Limited - Preferential
   Allotment
 ---

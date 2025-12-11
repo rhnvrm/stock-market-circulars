@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- mahindra-manulife
 - idcw-option
-- nomenclature
+- mahindra-manulife
 - mf-invest-platform
+- mutual-fund
+- name-change
+- nomenclature
 title: Change in scheme name of Mahindra Manulife Mutual Fund on NSE MF Invest platform
 ---
 

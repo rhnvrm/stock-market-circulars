@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - bandhan-mutual-fund
 - index-fund
+- mutual-fund
+- nfo
 - sip
-- bse-star-mf
 title: Launch of Bandhan BSE India Sector Leaders Index Fund NFO with SIP facility
   on BSE StAR MF Platform
 ---

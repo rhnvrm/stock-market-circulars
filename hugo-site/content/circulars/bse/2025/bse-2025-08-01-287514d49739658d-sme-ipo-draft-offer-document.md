@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RAVELCARE
+- RAVEL
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
 - ravelcare-limited
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document for Ravelcare Limited Available for Public Comments
 ---
 

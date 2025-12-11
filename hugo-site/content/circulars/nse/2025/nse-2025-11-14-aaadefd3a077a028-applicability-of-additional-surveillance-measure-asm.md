@@ -27,11 +27,9 @@ source: nse
 stocks:
 - RAJRATAN
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- long-term-asm
-- margin-requirements
-- rajratan-global-wire
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

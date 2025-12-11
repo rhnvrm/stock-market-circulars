@@ -29,14 +29,12 @@ source: bse
 stocks:
 - FORTIS
 tags:
-- takeover
-- open-offer
-- acquisition
-- healthcare
-- cash-offer
-- fortis-healthcare
-- sebi-sast
+- cash-segment
 - cci-approval
+- fortis-healthcare
+- healthcare
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Fortis Healthcare
   Limited
 ---

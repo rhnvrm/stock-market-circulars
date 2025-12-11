@@ -27,10 +27,10 @@ source: nse
 stocks: []
 tags:
 - maintenance
-- system-downtime
-- mutual-funds
-- nse-mf-invest
+- mutual-fund
 - platform-unavailability
+- system-downtime
+- trading-platform
 title: Downtime due to maintenance activity on NSE MF Invest Platform
 ---
 

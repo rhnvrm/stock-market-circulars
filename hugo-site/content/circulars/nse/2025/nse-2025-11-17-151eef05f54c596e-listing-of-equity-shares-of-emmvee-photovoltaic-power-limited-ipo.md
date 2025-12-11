@@ -28,12 +28,10 @@ source: nse
 stocks:
 - EMMVEE
 tags:
-- listing
-- ipo
-- equity-shares
 - capital-market
-- new-listing
-- emmvee
+- equity
+- ipo
+- listing
 - photovoltaic
 - renewable-energy
 title: Listing of Equity Shares of Emmvee Photovoltaic Power Limited (IPO)

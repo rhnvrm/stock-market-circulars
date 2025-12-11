@@ -24,17 +24,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544487'
-- '544488'
-- '544490'
-- '544491'
-- '544489'
+- PATELRMART
+- VIKRAMSOLR
+- SHREEJISPG
+- GEMAROMA
+- LGT
 tags:
-- index-additions
+- addition
 - bse-ipo
 - bse-sme-ipo
-- new-listings
 - index-services
+- listing
 title: BSE Index Additions - Five New Companies to Join BSE IPO and BSE SME IPO Indices
 ---
 

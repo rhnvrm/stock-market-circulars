@@ -26,13 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- state-development-loans
-- sdl
-- government-securities
+- gsec
 - non-competitive-bidding
 - rbi-auction
-- ncb-gsec
-- ibbs-platform
+- sdl
+- trading-platform
 title: Non-Competitive Bidding for Auction of State Government Securities (SDL) on
   October 28, 2025
 ---

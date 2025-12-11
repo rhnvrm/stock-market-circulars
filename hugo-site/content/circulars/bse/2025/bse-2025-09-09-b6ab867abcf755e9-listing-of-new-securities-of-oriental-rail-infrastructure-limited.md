@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ORIENTRAIL
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Oriental Rail Infrastructure Limited
 ---
 

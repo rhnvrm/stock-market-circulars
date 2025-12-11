@@ -27,11 +27,11 @@ source: bse
 stocks:
 - GRMOVER
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- new-listing
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of GRM Overseas Ltd
 ---
 

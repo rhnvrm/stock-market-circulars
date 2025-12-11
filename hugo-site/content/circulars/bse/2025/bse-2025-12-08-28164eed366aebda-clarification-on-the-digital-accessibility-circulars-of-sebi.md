@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
+- digital-accessibility
 - investor-protection
-- technology
 - reporting-requirements
-- SCORES
-- accessibility-audit
+- scores
+- technology
 title: Clarification on SEBI Digital Accessibility Circulars - Revised Compliance
   Timeline
 ---

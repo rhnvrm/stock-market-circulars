@@ -25,10 +25,9 @@ source: bse
 stocks:
 - SKNINDUSTRIES
 tags:
+- daily-bulletin
 - exclusively-listed-company
-- dissemination-board
 - exit-option
-- skn-industries
 title: Removal of SKN Industries Limited from BSE Dissemination Board
 ---
 

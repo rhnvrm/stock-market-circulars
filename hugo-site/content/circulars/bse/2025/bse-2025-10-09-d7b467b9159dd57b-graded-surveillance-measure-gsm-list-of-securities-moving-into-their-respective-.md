@@ -28,11 +28,9 @@ stocks:
 - TAMILTEL
 - MSRINDIA
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- stage-movement
+- asm-stage
 - risk-management
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

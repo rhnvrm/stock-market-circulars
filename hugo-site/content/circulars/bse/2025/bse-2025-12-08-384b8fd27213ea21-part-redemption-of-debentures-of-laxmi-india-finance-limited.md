@@ -28,13 +28,13 @@ source: bse
 stocks:
 - LAXMIIND
 tags:
-- debentures
-- part-redemption
-- debt
 - corporate-action
-- interest-payment
-- record-date
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of LAXMI INDIA FINANCE LIMITED
 ---
 

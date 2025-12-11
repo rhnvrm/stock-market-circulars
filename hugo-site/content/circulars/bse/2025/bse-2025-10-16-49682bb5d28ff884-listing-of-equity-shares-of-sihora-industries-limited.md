@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SIHORA
 tags:
-- shareholding-pattern
-- listing
-- equity-shares
-- reg-31
 - disclosure
+- equity
+- listing
+- regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Sihora Industries Limited
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - HDBFSL
 tags:
-- debt-securities
 - bond-listing
-- zero-coupon-bonds
+- debt-securities
 - hdb-financial
 - private-placement
+- zero-coupon-bonds
 title: Listing of New Debt Securities of HDB Financial Services Limited
 ---
 

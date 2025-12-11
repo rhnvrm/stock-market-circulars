@@ -27,11 +27,11 @@ source: bse
 stocks:
 - INDAGIV
 tags:
-- equity-listing
-- preferential-issue
-- new-securities
+- equity
 - lock-in
-- promoter-allotment
+- new-securities
+- preferential-issue
+- promoter
 title: Listing of New Securities of Ind-Agiv Commerce Ltd.
 ---
 

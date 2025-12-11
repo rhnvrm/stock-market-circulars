@@ -30,17 +30,17 @@ stocks:
 - JYOTISTRUC
 - METROPOLIS
 - NIBE
-- NIIT
+- NIITLTD
 - PATANJALI
 - RAINBOW
 - SKYGOLD
 - URAVI
 tags:
-- listing
-- equity-shares
+- conversion
+- equity
 - esop
-- preferential-allotment
-- warrants-conversion
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - Multiple Companies
 ---
 

@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscriptions
 - fund-of-funds
+- investment-limits
+- mutual-fund
 - overseas-investment
 - pgim-india
 - sebi
-- investment-limits
+- subscription
 title: Resumption of subscriptions in certain schemes of PGIM India Mutual Fund
 ---
 

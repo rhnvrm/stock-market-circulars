@@ -49,13 +49,12 @@ stocks:
 - IT
 - SETFNN50
 tags:
-- etf
-- cross-margin
-- margin-benefit
 - capital-market
+- cross-margin
 - derivatives
+- etf
+- margin-benefit
 - nifty
-- bank-nifty
 - sectoral-etf
 title: Revised list of Cross Margin Eligible Exchange Traded Funds (ETFs)
 ---

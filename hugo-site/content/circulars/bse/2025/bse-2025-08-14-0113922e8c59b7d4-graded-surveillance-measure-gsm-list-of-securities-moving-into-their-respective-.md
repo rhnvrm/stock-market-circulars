@@ -34,11 +34,10 @@ stocks:
 - MIPCO
 - ACEEDU
 tags:
-- gsm
+- asm-stage
+- security-movement
 - surveillance
 - trading-restrictions
-- security-movement
-- esm-framework
 title: BSE Graded Surveillance Measure (GSM) - Securities Movement Update
 ---
 

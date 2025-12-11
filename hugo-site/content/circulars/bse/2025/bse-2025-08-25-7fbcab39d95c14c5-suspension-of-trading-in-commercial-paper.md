@@ -28,10 +28,10 @@ stocks:
 - ADANIENT
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-segment
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - Adani Enterprises and Kotak Mahindra
   Investments
 ---

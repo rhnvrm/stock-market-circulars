@@ -29,12 +29,12 @@ stocks:
 - KRISHCA
 - RNFI
 tags:
-- listing
-- sme-emerge
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- warrant-conversion
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issues of Krishca Strapping Solutions Limited and RNFI Services
   Limited
 ---

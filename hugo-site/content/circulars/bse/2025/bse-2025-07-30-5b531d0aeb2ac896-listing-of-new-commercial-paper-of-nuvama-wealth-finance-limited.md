@@ -26,10 +26,10 @@ stocks:
 - NWFL
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- nuvama-wealth-finance
+- debt-securities
 - listing
+- nuvama-wealth-finance
+- private-placement
 title: Listing of new Commercial Paper of Nuvama Wealth Finance Limited
 ---
 

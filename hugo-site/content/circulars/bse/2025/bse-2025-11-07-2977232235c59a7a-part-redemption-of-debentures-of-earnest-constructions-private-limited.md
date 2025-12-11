@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ECPL
 tags:
-- debentures
-- redemption
-- debt-segment
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
+- ncd
+- redemption
 title: Part Redemption of Debentures of EARNEST CONSTRUCTIONS PRIVATE LIMITED
 ---
 

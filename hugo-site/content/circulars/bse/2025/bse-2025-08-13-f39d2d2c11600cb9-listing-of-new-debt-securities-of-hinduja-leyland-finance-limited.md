@@ -25,11 +25,11 @@ source: bse
 stocks:
 - HLFL
 tags:
+- credit-rating
 - debt-securities
+- hinduja-leyland-finance
 - listing
 - private-placement
-- hinduja-leyland-finance
-- credit-rating
 title: Listing of new debt securities of Hinduja Leyland Finance Limited
 ---
 

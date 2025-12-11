@@ -28,11 +28,10 @@ source: bse
 stocks:
 - TATACONSUM
 tags:
+- equity
 - listing
-- equity-shares
-- tata-consumer-products
-- scheme-related
 - pari-passu
+- scheme-related
 title: Listing of New Securities of Tata Consumer Products Limited - 276 Equity Shares
 ---
 

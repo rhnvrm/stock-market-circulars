@@ -26,11 +26,9 @@ source: bse
 stocks:
 - LLOYDSE
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- lloydse
 - renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for LLOYDS ENTERPRISES LIMITED - August 25 to September
   2, 2025
 ---

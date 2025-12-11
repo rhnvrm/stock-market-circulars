@@ -24,17 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PHAARMASIA
+- PHRMASI
 - TIAAN
 - STARCOMIT
 - LCCINFOT
 tags:
-- gsm
-- graded-surveillance-measure
+- asm-stage
+- insolvency
 - surveillance
-- stage-movement
-- esm
-- ibc
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different Stages
 ---
 

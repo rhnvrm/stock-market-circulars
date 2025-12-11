@@ -25,14 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- SBECSUGAR
+- SBECSUG
 tags:
-- open-offer
+- compliance
+- regulatory-framework
+- sbec-sugar
 - takeover
-- acquisition
-- SBEC-Sugar
-- SAST-regulations
-- regulatory-compliance
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of SBEC Sugar Limited
 ---
 

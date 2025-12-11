@@ -26,14 +26,14 @@ source: nse
 stocks:
 - FLEXIADD
 tags:
-- etf-listing
-- mutual-fund
 - dsp-mutual-fund
-- nifty500
+- etf
 - flexicap
-- quality-etf
-- new-listing
+- listing
 - market-makers
+- mutual-fund
+- nifty500
+- quality-etf
 title: Listing of units issued by DSP Asset Managers Private Limited (DSP Nifty500
   Flexicap Quality 30 ETF)
 ---

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544558'
+- FABTECH
 tags:
-- group-change
-- trading-segment
-- trade-for-trade
-- rolling-segment
 - fabtech-technologies
+- group-change
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Fabtech Technologies Limited
 ---
 

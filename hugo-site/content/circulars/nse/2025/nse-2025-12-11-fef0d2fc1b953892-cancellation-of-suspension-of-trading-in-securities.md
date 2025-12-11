@@ -27,12 +27,11 @@ source: nse
 stocks:
 - DHARAN
 tags:
-- trading-suspension
 - cancellation
-- regulation-33
+- compliance
 - financial-results
-- listing-compliance
-- DHARAN
+- regulation-33
+- suspension
 title: Cancellation of Suspension of Trading in Dharan Infra-EPC Limited
 ---
 

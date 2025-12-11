@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MEHAI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of Securities - Mehai Technology Limited
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- abakkus-mutual-fund
+- equity-scheme
+- flexi-cap-fund
 - mutual-fund
 - nfo
-- abakkus-mutual-fund
-- flexi-cap-fund
-- nse-mf-invest
-- equity-scheme
+- trading-platform
 title: Launch of Abakkus Flexi Cap Fund NFO on NSE MF Invest Platform
 ---
 

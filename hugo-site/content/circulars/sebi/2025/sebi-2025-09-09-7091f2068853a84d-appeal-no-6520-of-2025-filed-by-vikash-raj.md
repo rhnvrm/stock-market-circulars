@@ -25,14 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- sip
-- nav-allocation
-- mutual-funds
 - investor-grievance
-- lic-mutual-fund
 - kfintech
-- bse-star-mf
+- lic-mutual-fund
+- mutual-fund
+- nav-allocation
+- rti
+- sip
 title: Appeal No. 6520 of 2025 filed by Vikash Raj - RTI Appeal on SIP NAV Allocation
 ---
 

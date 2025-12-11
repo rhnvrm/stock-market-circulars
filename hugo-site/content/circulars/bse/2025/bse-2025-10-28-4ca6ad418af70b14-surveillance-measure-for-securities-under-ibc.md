@@ -43,13 +43,9 @@ stocks:
 - BIRLACOT
 - BLOOMDEK
 tags:
-- surveillance
-- ibc
-- insolvency
-- bankruptcy
-- asm
-- additional-surveillance-measure
 - compliance
+- insolvency
+- surveillance
 title: Surveillance Measure for Securities Under IBC - October 29, 2025
 ---
 

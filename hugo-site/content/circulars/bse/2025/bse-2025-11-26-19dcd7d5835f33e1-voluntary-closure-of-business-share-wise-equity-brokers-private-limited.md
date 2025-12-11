@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
-- trading-member
-- membership
 - cash-segment
-- equity-derivatives
-- currency-derivatives
+- derivatives
+- membership
+- surrender
+- trading-member
 title: Voluntary Closure of Business – Share Wise Equity Brokers Private Limited
 ---
 

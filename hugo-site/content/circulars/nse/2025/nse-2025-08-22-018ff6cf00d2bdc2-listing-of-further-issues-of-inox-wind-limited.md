@@ -26,11 +26,10 @@ source: nse
 stocks:
 - INOXWIND
 tags:
+- capital-market
+- equity
 - listing
 - rights-issue
-- equity-shares
-- inox-wind
-- capital-market
 title: Listing of further issues of Inox Wind Limited - Rights Issue
 ---
 

@@ -27,11 +27,9 @@ source: nse
 stocks:
 - GICL
 tags:
-- isin-change
-- stock-split
-- sub-division
+- isin
 - share-restructuring
-- gicl
+- split
 title: Change in ISIN - Globe International Carriers Limited (GICL) due to Sub-Division
 ---
 

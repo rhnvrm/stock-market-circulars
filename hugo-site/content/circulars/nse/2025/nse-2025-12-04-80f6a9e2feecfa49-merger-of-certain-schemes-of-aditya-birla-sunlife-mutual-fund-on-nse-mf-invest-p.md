@@ -26,14 +26,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- aditya-birla-sunlife
+- debt-index-fund
+- exit-option
 - mutual-fund
 - scheme-merger
 - target-maturity-fund
-- debt-index-fund
-- aditya-birla-sunlife
-- nse-mf-invest
-- exit-option
 - tax-implications
+- trading-platform
 title: Merger of Aditya Birla Sunlife Mutual Fund Schemes on NSE MF Invest Platform
 ---
 

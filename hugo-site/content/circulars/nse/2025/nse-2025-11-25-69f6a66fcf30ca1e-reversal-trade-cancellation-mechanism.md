@@ -343,11 +343,11 @@ stocks:
 - CCHHL
 - COUNCODOS
 tags:
-- surveillance
-- trade-cancellation
-- rtcm
 - market-operations
 - risk-management
+- rtcm
+- surveillance
+- trade-cancellation
 title: Reversal Trade Cancellation Mechanism - December 2025
 ---
 

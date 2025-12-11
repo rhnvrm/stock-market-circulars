@@ -27,10 +27,9 @@ stocks:
 - JIOCREDIT
 tags:
 - commercial-paper
-- debt-listing
-- jio-credit
-- private-placement
+- debt-securities
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of Jio Credit Limited
 ---
 

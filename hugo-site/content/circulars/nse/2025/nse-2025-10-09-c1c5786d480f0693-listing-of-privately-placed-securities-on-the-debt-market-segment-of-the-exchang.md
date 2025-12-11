@@ -33,11 +33,11 @@ stocks:
 - L&TFH
 - KOTAKSEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- further-issue
 - listing
-- privately-placed-securities
-- fresh-issue
+- privately-placed
 - re-issue
 title: Listing of Privately Placed Securities on Debt Market Segment
 ---

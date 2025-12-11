@@ -28,13 +28,10 @@ source: sebi
 stocks:
 - DARSHANORN
 tags:
-- recovery-proceedings
-- attachment-notice
+- attachment
 - defaulter
 - enforcement
-- darshan-orna-limited
-- bank-account-attachment
-- demat-account-attachment
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts - Kevin Kapadia (Recovery
   Certificate No. 8908 of 2025)
 ---

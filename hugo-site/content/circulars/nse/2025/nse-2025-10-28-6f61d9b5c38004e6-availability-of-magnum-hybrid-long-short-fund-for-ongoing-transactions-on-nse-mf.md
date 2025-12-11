@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- sbi-mutual-fund
 - hybrid-fund
 - long-short-fund
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
+- sbi-mutual-fund
 - sip
 - stp
+- subscription
 - swp
-- nse-mf-invest
+- trading-platform
 title: Availability of Magnum Hybrid Long Short Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

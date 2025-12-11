@@ -27,11 +27,9 @@ source: bse
 stocks:
 - HERCULES
 tags:
-- name-change
-- certificate-of-incorporation
-- hercules-hoists
-- hercules-investments
+- certificate
 - corporate-action
+- name-change
 title: Change in Name of the Company - Hercules Hoists Ltd to Hercules Investments
   Limited
 ---

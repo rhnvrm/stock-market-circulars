@@ -28,13 +28,11 @@ stocks:
 - MUTHOOTFIN
 - MUTHOOTCAP
 tags:
+- bond
 - debt-securities
-- private-placement
 - listing
-- bonds
-- debentures
-- muthoot-finance
-- muthoot-capital
+- ncd
+- private-placement
 - profectus-capital
 title: Listing of Privately Placed Securities on Capital Market Segment - Four Debt
   Securities

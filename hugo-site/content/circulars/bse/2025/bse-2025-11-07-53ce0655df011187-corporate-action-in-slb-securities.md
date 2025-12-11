@@ -36,10 +36,10 @@ stocks:
 - BSOFT
 - ROUTE
 - NAVA
-- PRICOL
+- PRICOLLTD
 - NUVAMA
 - INFY
-- KPENERGY
+- KPEL
 - GPPL
 - CHAMBLFERT
 - CHALET
@@ -51,13 +51,13 @@ stocks:
 - PRECWIRE
 - KPIGREEN
 tags:
-- corporate-action
-- slb
-- dividend
 - buyback
-- spin-off
-- stock-split
-- securities-lending-borrowing
+- collateral
+- corporate-action
+- dividend
+- scheme-of-arrangement
+- slb
+- split
 title: Corporate Action in SLB Securities - November 2025
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - CANARAHSBC
 tags:
-- listing
-- ipo
-- lock-in
-- equity-shares
+- equity
 - insurance
-- canara-hsbc
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Canara HSBC Life Insurance Company Limited
 ---
 

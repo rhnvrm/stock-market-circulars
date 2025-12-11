@@ -29,12 +29,9 @@ source: nse
 stocks:
 - SABEVENTS
 tags:
+- corporate-action
+- insolvency
 - surveillance
-- asm
-- ibc
-- insolvency-bankruptcy-code
-- additional-surveillance-measure
-- corporate-announcement
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

@@ -29,11 +29,11 @@ stocks:
 - JYOTICNC
 tags:
 - clarification
-- volume-movement
-- surveillance
 - disclosure
+- lodr
+- price-movement
 - regulation-30
-- sebi-lodr
+- surveillance
 title: Clarifications received from the companies
 ---
 

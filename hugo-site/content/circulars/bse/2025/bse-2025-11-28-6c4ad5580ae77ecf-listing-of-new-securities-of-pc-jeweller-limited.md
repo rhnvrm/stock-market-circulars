@@ -27,11 +27,11 @@ source: bse
 stocks:
 - PCJEWELLER
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of New Securities of PC Jeweller Limited - Preferential Issue
 ---
 

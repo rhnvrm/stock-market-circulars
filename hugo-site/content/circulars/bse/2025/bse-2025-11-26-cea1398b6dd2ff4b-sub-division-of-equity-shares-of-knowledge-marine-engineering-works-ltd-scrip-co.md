@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '543273'
+- KMEW
 tags:
-- sub-division
-- stock-split
-- equity-shares
 - corporate-action
-- knowledge-marine
+- equity
 - face-value-change
+- knowledge-marine
+- split
 title: 'Sub-Division of Equity Shares of Knowledge Marine & Engineering Works Ltd
   (Scrip Code: 543273)'
 ---

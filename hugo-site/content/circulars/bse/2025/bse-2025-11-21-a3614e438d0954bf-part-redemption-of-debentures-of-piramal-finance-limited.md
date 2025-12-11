@@ -27,13 +27,12 @@ source: bse
 stocks:
 - PIRAMALFL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - face-value-reduction
-- non-convertible-debentures
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of PIRAMAL FINANCE LIMITED
 ---
 

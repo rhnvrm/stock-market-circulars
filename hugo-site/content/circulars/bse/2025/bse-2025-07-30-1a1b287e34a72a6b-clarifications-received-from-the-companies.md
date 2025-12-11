@@ -28,12 +28,11 @@ stocks:
 - VIMTA
 - BRIGHTCOM
 tags:
-- clarifications
-- volume-spurt
+- clarification
+- disclosure
+- market-operations
 - price-movement
 - surveillance
-- disclosure
-- market-driven
 title: Clarifications received from the companies
 ---
 

@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
 - bandhan-mutual-fund
-- sebi-compliance
-- fund-of-funds
 - bond-fund
+- fund-of-funds
 - gilt-fund
 - hybrid-fund
+- mutual-fund
+- name-change
+- sebi
 title: Change in Scheme Names of Bandhan Mutual Fund Plans on NSE MF Invest Platform
 ---
 

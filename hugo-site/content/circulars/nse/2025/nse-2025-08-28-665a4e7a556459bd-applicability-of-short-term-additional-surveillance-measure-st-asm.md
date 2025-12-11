@@ -28,10 +28,9 @@ stocks:
 - AFFORDABLE
 - TAPIFRUIT
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- margin-requirements
-- st-asm
 - trading-restrictions
 title: NSE Applies Short-Term Additional Surveillance Measure (ST-ASM) to Two Securities
 ---

@@ -39,26 +39,19 @@ stocks:
 - NORBEN
 - QUESS
 - THIRUMALAI
-- URBANCOMPANY
-- YUKENINDIA
+- URBANCO
+- YUKEN
 tags:
-- listing
-- equity-shares
-- esop
-- warrant-conversion
-- preferential-allotment
-- adani-green-energy
-- axis-bank
-- cg-power
+- conversion
 - dj-mediaprint
-- firstcry
-- indigo
+- equity
+- esop
 - larsen-toubro
-- manaksia
+- listing
 - moksh-ornaments
 - norben-tea
+- preferential-issue
 - quess-corp
-- thirumalai-chemicals
 - urban-company
 - yuken-india
 title: Listing of Further Issues of Securities - 14 Companies Including Adani Green

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - TALWALKAR
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- debentures
-- corporate-actions
+- ncd
+- suspension
 title: Suspension of Trading in Debt Scrips - Talwalkars Healthclubs Limited Debentures
   Maturity
 ---

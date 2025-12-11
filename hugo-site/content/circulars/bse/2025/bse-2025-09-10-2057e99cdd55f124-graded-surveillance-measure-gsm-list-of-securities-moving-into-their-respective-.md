@@ -28,11 +28,9 @@ stocks:
 - SPACEINC
 - SPARKLEGOLD
 tags:
-- gsm
-- surveillance
-- market-surveillance
-- trading-restrictions
 - compliance
+- surveillance
+- trading-restrictions
 title: GSM Stage Changes - Three Securities Move to Higher Surveillance Stages
 ---
 

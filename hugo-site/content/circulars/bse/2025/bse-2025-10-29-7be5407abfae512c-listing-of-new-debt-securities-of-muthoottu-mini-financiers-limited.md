@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- MMFL
 title: Listing of New Debt Securities of Muthoottu Mini Financiers Limited
 ---
 

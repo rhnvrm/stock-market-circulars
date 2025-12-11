@@ -31,12 +31,10 @@ stocks:
 - CHAMUNDA
 - GIRIRAJ
 tags:
+- margin
 - surveillance
-- esm
-- enhanced-surveillance
 - trade-for-trade
-- margin-requirements
-- periodic-call-auction
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Securities Addition and Movement
 ---
 

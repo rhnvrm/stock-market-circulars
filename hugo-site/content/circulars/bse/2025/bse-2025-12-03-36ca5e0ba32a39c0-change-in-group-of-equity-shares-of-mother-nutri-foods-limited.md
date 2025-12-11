@@ -29,10 +29,10 @@ stocks:
 - MOTHERNUTRI
 tags:
 - group-change
-- trading-segment
+- rolling-segment
 - sme
-- rolling-settlement
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of MOTHER NUTRI FOODS LIMITED
 ---
 

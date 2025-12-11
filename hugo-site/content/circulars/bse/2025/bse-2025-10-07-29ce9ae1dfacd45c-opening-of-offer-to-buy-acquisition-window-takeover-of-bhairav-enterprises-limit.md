@@ -27,13 +27,10 @@ source: bse
 stocks:
 - BHAIRAV
 tags:
-- takeover
-- open-offer
-- acquisition
-- SAST
 - bhairav-enterprises
-- substantial-acquisition
 - change-in-control
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Bhairav Enterprises
   Limited
 ---

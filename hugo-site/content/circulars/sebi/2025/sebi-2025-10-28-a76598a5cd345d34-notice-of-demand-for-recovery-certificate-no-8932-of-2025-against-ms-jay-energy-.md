@@ -27,12 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement-action
-- jay-energy
-- s-energies-limited
-- debt-recovery
 - defaulter
+- enforcement
+- jay-energy
+- recovery
+- s-energies-limited
 title: Notice of Demand for Recovery Certificate No. 8932 of 2025 against M/s. Jay
   Energy & S Energy
 ---

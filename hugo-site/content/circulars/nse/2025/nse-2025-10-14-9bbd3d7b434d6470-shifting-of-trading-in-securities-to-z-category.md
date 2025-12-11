@@ -55,16 +55,12 @@ stocks:
 - SKILINF
 - WINSOMYAR
 tags:
-- z-category
-- regulation-33
 - financial-results
+- lodr
 - non-compliance
-- listing-regulations
+- regulation-33
 - trade-for-trade
-- BFUTILITIE
-- GENSOL
-- SIMBHALS
-- SUPREMEENG
+- z-category
 title: Shifting of Trading in Securities to Z Category
 ---
 

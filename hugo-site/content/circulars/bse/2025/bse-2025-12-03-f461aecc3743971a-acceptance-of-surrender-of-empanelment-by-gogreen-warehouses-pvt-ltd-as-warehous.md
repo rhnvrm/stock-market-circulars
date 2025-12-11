@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- warehouse-service-provider
+- derivatives
 - empanelment
-- commodity-derivatives
-- settlement
 - gogreen-warehouses
+- settlement
+- warehouse-service-provider
 title: Acceptance of Surrender of Empanelment by Gogreen Warehouses Pvt Ltd as Warehouse
   Service Provider
 ---

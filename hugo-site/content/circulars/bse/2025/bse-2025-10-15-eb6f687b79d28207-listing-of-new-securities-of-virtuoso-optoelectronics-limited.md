@@ -27,12 +27,11 @@ source: bse
 stocks:
 - VIRTUOSO
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
-- virtuoso-optoelectronics
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Virtuoso Optoelectronics Limited
 ---
 

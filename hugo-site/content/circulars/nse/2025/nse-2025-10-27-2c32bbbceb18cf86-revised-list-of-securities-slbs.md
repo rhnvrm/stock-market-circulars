@@ -88,11 +88,10 @@ stocks:
 - CANBK
 - CANFINHOME
 tags:
-- securities-lending
-- borrowing-scheme
-- slbs
+- collateral
 - eligible-securities
 - monthly-update
+- slbs
 title: Revised List of Securities for Securities Lending & Borrowing Scheme - November
   2025
 ---

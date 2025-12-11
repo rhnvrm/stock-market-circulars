@@ -33,11 +33,9 @@ stocks:
 - SAFARI
 - SASKEN
 tags:
-- esop
-- esos
-- listing
-- employee-stock-options
 - equity
+- esop
+- listing
 title: Listing of ESOP/ESOS Securities for Eight Companies Effective August 11, 2025
 ---
 

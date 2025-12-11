@@ -26,10 +26,10 @@ source: bse
 stocks:
 - TAKYON
 tags:
-- public-issue
-- anchor-investors
+- allotment
+- anchor-investor
 - ipo
-- allocation
+- public-issue
 - takyon-networks
 title: Public Issue of TAKYON NETWORKS LIMITED - Allocation to Anchor Investors
 ---

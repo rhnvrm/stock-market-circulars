@@ -27,13 +27,11 @@ source: bse
 stocks:
 - HCC
 tags:
-- rights-entitlements
-- rights-issue
-- HCC
-- renunciation
+- demat
 - equity
+- renunciation
+- rights-issue
 - trading
-- dematerialized
 title: Rights Entitlements of Hindustan Construction Company Limited - Trading Commences
   December 12, 2025
 ---

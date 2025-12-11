@@ -27,12 +27,11 @@ source: nse
 stocks:
 - WEWORK
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- pre-open-session
+- listing
 - lock-in
+- pre-open-session
 title: Listing of Equity Shares of WeWork India Management Limited (IPO)
 ---
 

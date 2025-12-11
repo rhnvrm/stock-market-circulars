@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CMX
 tags:
-- name-change
-- corporate-action
 - certificate-incorporation
+- corporate-action
 - financial-services
+- name-change
 title: CMX Holdings Limited - Company Name Change from SIEL Financial Services Limited
 ---
 

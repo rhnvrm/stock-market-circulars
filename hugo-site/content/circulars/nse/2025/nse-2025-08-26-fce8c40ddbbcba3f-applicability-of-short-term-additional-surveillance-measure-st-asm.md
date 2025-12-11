@@ -34,10 +34,9 @@ stocks:
 - SABAR
 - SELLOWRAP
 tags:
-- surveillance
+- asm-stage
 - margins
-- st-asm
-- additional-surveillance-measure
+- surveillance
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

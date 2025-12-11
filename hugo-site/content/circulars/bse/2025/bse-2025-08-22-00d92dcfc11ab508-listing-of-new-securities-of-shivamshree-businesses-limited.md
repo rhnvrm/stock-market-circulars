@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SHIVAMSHREE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- shivamshree-businesses
+- preferential-issue
 title: Listing of new Securities of Shivamshree Businesses Limited
 ---
 

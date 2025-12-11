@@ -24,16 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540769'
-- '539148'
+- NIACL
+- SHIVALIK
 tags:
-- price-movement
-- volume-increase
-- surveillance
-- disclosure
 - compliance
-- '540769'
-- '539148'
+- disclosure
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding price/volume movements
 ---
 

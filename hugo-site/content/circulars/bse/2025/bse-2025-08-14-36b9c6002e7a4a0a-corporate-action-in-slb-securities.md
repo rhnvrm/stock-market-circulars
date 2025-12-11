@@ -59,12 +59,11 @@ stocks:
 - TIMETECHNO
 - GUJPIPAVAV
 tags:
-- corporate-actions
+- bonus
+- corporate-action
 - dividend
-- bonus-issue
-- rights-issue
 - record-date
-- ex-date
+- rights-issue
 title: Corporate Actions Schedule - Multiple Companies Including Dividends, Bonus
   Issues, and Rights
 ---

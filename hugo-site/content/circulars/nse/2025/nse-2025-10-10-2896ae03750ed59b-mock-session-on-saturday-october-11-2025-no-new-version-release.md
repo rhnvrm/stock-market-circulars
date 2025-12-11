@@ -26,11 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- commodity-derivatives
-- system-testing
-- neat-version
 - technical
+- trading-platform
 title: Mock Trading Session on Saturday, October 11, 2025 - No New Version Release
 ---
 

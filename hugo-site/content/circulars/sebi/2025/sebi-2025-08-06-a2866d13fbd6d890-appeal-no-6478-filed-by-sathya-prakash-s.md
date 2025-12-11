@@ -24,14 +24,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- titan-capital-market
-- registration-inquiry
 - investment-adviser
-- stockbroker
-- portfolio-manager
-- unauthorized-activities
 - kerala-complaint
+- portfolio-manager
+- registration-inquiry
+- rti
+- stockbroker
+- titan-capital-market
+- unauthorized-activities
 title: Appeal No. 6478 of 2025 filed by Sathya Prakash S - RTI Query on Titan Capital
   Market Registration Status
 ---

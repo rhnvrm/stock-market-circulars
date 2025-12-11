@@ -27,9 +27,9 @@ source: bse
 stocks:
 - UGROCP
 tags:
-- equity-listing
-- preferential-allotment
 - convertible-debentures
+- equity
+- preferential-issue
 - ugro-capital
 title: Listing of New Securities of Ugro Capital Limited
 ---

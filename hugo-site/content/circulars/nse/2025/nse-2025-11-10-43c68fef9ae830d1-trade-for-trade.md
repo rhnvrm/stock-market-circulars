@@ -35,11 +35,11 @@ stocks:
 - CURAA
 - SEYAIND
 tags:
-- trade-for-trade
-- surveillance
+- market-operations
 - price-band
-- market-safety
 - settlement
+- surveillance
+- trade-for-trade
 title: Trade for Trade Segment - Movement of Securities (Effective November 13, 2025)
 ---
 

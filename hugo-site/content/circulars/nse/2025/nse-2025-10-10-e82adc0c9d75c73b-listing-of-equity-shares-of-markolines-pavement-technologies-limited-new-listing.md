@@ -27,11 +27,11 @@ source: nse
 stocks:
 - MARKOLINES
 tags:
-- new-listing
-- equity-shares
-- ipo
 - capital-market
-- trading-commencement
+- equity
+- ipo
+- listing
+- trading-operations
 title: Listing of Equity Shares of Markolines Pavement Technologies Limited (New Listing)
 ---
 

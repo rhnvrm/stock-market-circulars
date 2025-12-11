@@ -26,12 +26,12 @@ source: bse
 stocks:
 - APTUS
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt-securities
 - aptus-finance
+- corporate-action
+- debt-securities
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of APTUS FINANCE INDIA PRIVATE LIMITED
 ---
 

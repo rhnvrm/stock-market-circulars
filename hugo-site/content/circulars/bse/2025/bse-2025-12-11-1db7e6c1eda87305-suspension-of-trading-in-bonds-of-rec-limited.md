@@ -28,9 +28,9 @@ stocks:
 - RECLTD
 tags:
 - bond-suspension
-- debt-market
-- redemption
+- debt-securities
 - rec-limited
+- redemption
 - trading-halt
 title: Suspension of Trading in Bonds of REC LIMITED
 ---

@@ -27,15 +27,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- cyber-security
-- audit
-- trading-members
-- compliance
-- sebi-framework
-- cyber-resilience
-- ibt
 - algo-trading
+- audit
 - cert-in
+- compliance
+- cyber-security
+- cybersecurity
+- ibt
+- regulatory-framework
+- trading-member
 title: Cyber Security and Cyber Resilience Audit of Trading Members
 ---
 

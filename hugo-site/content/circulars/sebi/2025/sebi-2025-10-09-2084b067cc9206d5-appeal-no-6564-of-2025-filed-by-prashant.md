@@ -26,13 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- fii
-- fpi
-- foreign-portfolio-investors
-- trading-data
-- right-to-information
 - appellate-order
+- fii
+- foreign-portfolio-investors
+- fpi
+- rti
+- trading-data
 title: Appeal No. 6564 of 2025 filed by Prashant - RTI Application regarding FII Trading
   Data
 ---

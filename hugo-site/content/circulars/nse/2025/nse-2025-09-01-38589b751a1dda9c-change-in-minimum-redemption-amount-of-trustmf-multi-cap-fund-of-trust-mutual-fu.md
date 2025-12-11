@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- minimum-amount
+- mutual-fund
+- nse-invest
 - redemption
 - trust-mutual-fund
-- nse-invest
-- minimum-amount
 title: Change in minimum redemption amount of TRUSTMF Multi Cap Fund of Trust Mutual
   Fund on NSE MF Invest Platform
 ---

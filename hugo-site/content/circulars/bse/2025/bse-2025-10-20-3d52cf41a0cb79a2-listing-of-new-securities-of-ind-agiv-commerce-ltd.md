@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INDAGIV
 tags:
-- listing
-- preferential-allotment
-- equity-shares
-- lock-in
+- equity
 - ind-agiv-commerce
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Ind-Agiv Commerce Ltd.
 ---
 

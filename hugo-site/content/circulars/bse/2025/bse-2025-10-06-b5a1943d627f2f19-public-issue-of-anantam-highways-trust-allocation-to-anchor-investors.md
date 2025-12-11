@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- ipo
-- invit
-- anchor-investor
-- allocation
-- infrastructure-investment-trust
+- allotment
 - anantam-highways-trust
+- anchor-investor
+- invit
+- ipo
 title: Public Issue of ANANTAM HIGHWAYS TRUST - Allocation to Anchor Investors
 ---
 

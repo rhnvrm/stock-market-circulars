@@ -28,11 +28,11 @@ source: bse
 stocks:
 - MAGNUS
 tags:
-- rights-issue
-- issue-extension
 - corporate-action
-- equity-shares
+- equity
+- extension
 - magnus-steel
+- rights-issue
 title: Magnus Steel and Infra Limited - Extension of Rights Issue Closing Date to
   November 21, 2025
 ---

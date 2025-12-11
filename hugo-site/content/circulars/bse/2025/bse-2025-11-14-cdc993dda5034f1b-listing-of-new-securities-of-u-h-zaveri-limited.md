@@ -26,11 +26,10 @@ source: bse
 stocks:
 - UHZAVERI
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- u-h-zaveri
+- rights-issue
 title: Listing of New Securities of U. H. ZAVERI LIMITED
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- trading-members
 - cash-segment
-- equity-derivatives
-- new-members
 - deposit-based-membership
+- derivatives
+- membership
+- new-members
+- trading-member
 title: Admission of Two New Deposit Based Trading Members - Finverse Platform and
   Religo Broking
 ---

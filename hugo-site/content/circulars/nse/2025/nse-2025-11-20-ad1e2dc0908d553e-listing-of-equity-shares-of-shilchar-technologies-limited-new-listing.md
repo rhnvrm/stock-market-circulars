@@ -26,9 +26,9 @@ source: nse
 stocks:
 - SHILCTECH
 tags:
-- new-listing
-- equity-shares
 - capital-market
+- equity
+- listing
 - shilchar-technologies
 title: Listing of Equity Shares of Shilchar Technologies Limited (New Listing)
 ---

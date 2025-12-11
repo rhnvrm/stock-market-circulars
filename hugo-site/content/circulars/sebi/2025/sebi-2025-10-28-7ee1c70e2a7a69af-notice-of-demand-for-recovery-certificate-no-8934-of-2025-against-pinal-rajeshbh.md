@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- enforcement
-- notice-of-demand
 - defaulter
+- demand-notice
+- enforcement
 - jay-energy
+- recovery
 - s-energies-limited
 title: Notice of Demand for Recovery Certificate No. 8934 of 2025 against Pinal Rajeshbhai
   Mehta

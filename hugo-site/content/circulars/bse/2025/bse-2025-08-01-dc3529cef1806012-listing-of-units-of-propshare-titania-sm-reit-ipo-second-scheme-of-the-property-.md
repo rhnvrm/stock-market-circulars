@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PROPSHARE-TITANIA
+- PSTITANIA
 tags:
-- listing
-- reit
 - ipo
-- propshare
-- titania
+- listing
 - property-investment-trust
+- propshare
+- reit
+- titania
 - units
 title: Listing of Units of Propshare Titania SM REIT - IPO (Second scheme of the Property
   Share Investment Trust)

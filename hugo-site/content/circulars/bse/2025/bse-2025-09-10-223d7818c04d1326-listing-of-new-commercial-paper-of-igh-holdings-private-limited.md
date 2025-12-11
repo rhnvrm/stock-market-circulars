@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IGHHP
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- igh-holdings
 - axis-bank
+- commercial-paper
+- debt-securities
+- igh-holdings
+- private-placement
 title: Listing of new Commercial Paper of IGH Holdings Private Limited
 ---
 

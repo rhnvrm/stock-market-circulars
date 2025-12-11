@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
+- corporate-action
+- debt-securities
+- face-value-change
+- india-universal-trust
 - ptc
 - redemption
-- india-universal-trust
-- face-value-change
-- corporate-action
 title: Part Redemption of PTCs of INDIA UNIVERSAL TRUST AL1 & AL2 - SERIES A1, A2
   & A3
 ---

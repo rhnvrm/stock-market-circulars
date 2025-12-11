@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- OMMETALLOGIC
+- OML
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
+- draft-document
+- icdr
 - om-metallogic
-- icdr-regulations
+- public-comments
+- sme
 title: SME IPO Draft Offer Document - OM METALLOGIC LIMITED
 ---
 

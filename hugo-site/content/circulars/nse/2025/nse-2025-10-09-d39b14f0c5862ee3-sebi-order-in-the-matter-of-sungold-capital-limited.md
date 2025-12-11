@@ -27,13 +27,13 @@ source: nse
 stocks:
 - SUNGOLD
 tags:
-- sebi-order
 - debarment
-- takeover-regulations
-- enforcement-action
-- market-access-restriction
-- sungold-capital
+- enforcement
 - investigation
+- market-access-restriction
+- sebi-order
+- sungold-capital
+- takeover-regulations
 title: SEBI Order in the matter of Sungold Capital Limited
 ---
 

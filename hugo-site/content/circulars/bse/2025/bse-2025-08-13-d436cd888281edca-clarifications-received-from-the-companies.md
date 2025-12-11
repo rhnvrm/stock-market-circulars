@@ -28,11 +28,11 @@ stocks:
 - SJVN
 - SONATA
 tags:
-- volume-movement
-- clarifications
-- surveillance
-- market-driven
+- clarification
 - disclosure
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

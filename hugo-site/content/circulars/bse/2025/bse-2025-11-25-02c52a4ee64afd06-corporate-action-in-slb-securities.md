@@ -29,12 +29,12 @@ stocks:
 - ENGINERSIN
 - MRSBECTORS
 tags:
-- corporate-action
-- slb
-- stock-split
-- dividend
 - book-closure
+- corporate-action
+- dividend
 - foreclosure
+- slb
+- split
 title: Corporate Action in SLB Securities - Stock Splits and Dividend
 ---
 

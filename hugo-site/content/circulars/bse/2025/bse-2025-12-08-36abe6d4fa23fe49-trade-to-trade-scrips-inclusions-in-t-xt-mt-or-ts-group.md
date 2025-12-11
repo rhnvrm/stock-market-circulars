@@ -40,7 +40,7 @@ stocks:
 - NECTARLIFE
 - ORTIN
 - SHYAMCENT
-- UMIYATUBES
+- UMIYA
 - VINAYAKPOLY
 - ARIGATO
 - CARNATION
@@ -49,12 +49,12 @@ stocks:
 - DECOROUS
 - EQUIPPP
 - FUTENT
-- GOPALiron
+- GOPALIRON
 - GUJARATRAFFIA
-- GVFILMS
+- GVFILM
 - KIRANSYN
 - NUTRICIRCLE
-- PHAARMASIA
+- PHRMASI
 - PROFIN
 - SHIKHARCONSULT
 - SRIKRISHNA
@@ -68,11 +68,11 @@ stocks:
 - UNIPRO
 - MILESTONE
 tags:
-- trade-to-trade
-- surveillance-measure
+- asm-stage
 - price-band
 - rolling-segment
-- market-surveillance
+- surveillance
+- trade-to-trade
 title: Trade-To-Trade Scrips – Inclusions in "T", "XT", "MT" or "TS" Group
 ---
 

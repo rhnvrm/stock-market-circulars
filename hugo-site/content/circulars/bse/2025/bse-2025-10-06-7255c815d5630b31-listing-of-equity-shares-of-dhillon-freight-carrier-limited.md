@@ -27,11 +27,10 @@ source: bse
 stocks:
 - DHILLON
 tags:
-- listing
-- equity-shares
-- sme
-- new-listing
 - dhillon-freight-carrier
+- equity
+- listing
+- sme
 title: Listing of Equity Shares of Dhillon Freight Carrier Limited
 ---
 

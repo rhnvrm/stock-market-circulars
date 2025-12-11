@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
+- compliance
 - enforcement
-- attachment-notice
-- investment-advisory
+- investment-adviser
+- recovery
 - unregistered-entity
-- recovery-certificate
-- compliance-action
 title: Notice of Attachment dated November 13, 2025 in RC No. 8789 of 2025 against
   Sarvesh Kumar - Unregistered Investment Advisory
 ---

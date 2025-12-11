@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MIDWESTLTD
 tags:
-- listing
-- equity-shares
-- new-listing
-- midwest-limited
 - company-related
+- equity
+- listing
+- midwest-limited
 title: Listing of Equity Shares of Midwest Limited
 ---
 

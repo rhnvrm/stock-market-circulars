@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MAPLE
 tags:
+- infrastructure-trust
+- invit
 - listing
+- lock-in
 - preferential-issue
 - units
-- infrastructure-trust
-- lock-in
-- invit
 title: Listing of New Securities of Maple Infrastructure Trust
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - HDFCSEC
 tags:
+- bse-debt-segment
 - commercial-paper
-- debt-listing
+- debt-securities
 - hdfc-securities
 - private-placement
-- bse-debt-segment
 title: Listing of new Commercial Paper of HDFC Securities Limited
 ---
 

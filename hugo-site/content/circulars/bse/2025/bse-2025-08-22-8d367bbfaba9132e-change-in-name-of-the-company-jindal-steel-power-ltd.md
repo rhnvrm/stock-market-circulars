@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JINDALSTEL
 tags:
-- name-change
-- incorporation-certificate
-- jindal-steel
+- certificate
+- company-related
 - corporate-affairs
-- company-registration
+- jindal-steel
+- name-change
 title: Change in Name of the Company - Jindal Steel & Power Ltd to Jindal Steel Limited
 ---
 

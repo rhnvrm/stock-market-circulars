@@ -27,12 +27,10 @@ source: bse
 stocks:
 - BHARATRAS
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
-- bharat-rasayan
+- equity
+- isin
+- split
 title: New ISIN Number for Bharat Rasayan Ltd - Stock Split from Rs.10 to Rs.5
 ---
 

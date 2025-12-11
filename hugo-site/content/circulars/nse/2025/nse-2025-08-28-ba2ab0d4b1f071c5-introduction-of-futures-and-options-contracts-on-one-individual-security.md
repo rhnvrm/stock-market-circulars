@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SAMMAANCAP
 tags:
-- futures-options
-- new-listing
 - derivatives
+- futures-options
+- listing
 - trading
-- sammaan-capital
 title: Introduction of Futures and Options Contracts on Sammaan Capital Limited
 ---
 

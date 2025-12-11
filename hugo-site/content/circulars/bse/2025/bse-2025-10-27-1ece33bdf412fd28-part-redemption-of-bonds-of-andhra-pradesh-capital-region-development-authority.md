@@ -26,13 +26,13 @@ source: bse
 stocks:
 - APCRDA
 tags:
-- bonds
-- part-redemption
-- interest-payment
-- debt-segment
-- corporate-actions
+- bond
+- corporate-action
+- debt-securities
 - face-value-reduction
-- government-bonds
+- gsec
+- interest-payment
+- redemption
 title: Part Redemption of Bonds of Andhra Pradesh Capital Region Development Authority
 ---
 

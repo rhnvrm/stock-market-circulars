@@ -29,10 +29,9 @@ tags:
 - clarification
 - defense
 - government-contract
-- bharat-forge
 - indian-army
-- weapons-manufacturing
 - l1-bidder
+- weapons-manufacturing
 title: Bharat Forge Clarification on Indian Army CQB Carbine Contract
 ---
 

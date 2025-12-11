@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MANGALCREDIT
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- new-listing
-- corporate-bonds
 title: Listing of new debt securities of Mangal Credit and Fincorp Limited
 ---
 

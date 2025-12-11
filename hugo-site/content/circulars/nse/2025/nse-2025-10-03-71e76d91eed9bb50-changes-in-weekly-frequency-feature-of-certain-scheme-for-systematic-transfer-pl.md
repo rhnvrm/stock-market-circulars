@@ -27,15 +27,14 @@ severity: low
 source: nse
 stocks: []
 tags:
+- frequency-changes
+- groww-mutual-fund
 - mutual-fund
+- operational-changes
+- smart-switch
 - stp
 - swp
-- systematic-transfer-plan
-- systematic-withdrawal-plan
-- groww-mutual-fund
-- nse-mf-invest
-- frequency-changes
-- operational-changes
+- trading-platform
 title: Changes in Weekly Frequency feature of certain scheme for Systematic Transfer
   Plan (STP) under Groww Mutual Fund on NSE MF Invest Platform
 ---

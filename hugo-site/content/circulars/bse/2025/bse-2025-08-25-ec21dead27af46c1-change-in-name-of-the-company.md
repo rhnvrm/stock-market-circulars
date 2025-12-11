@@ -25,9 +25,9 @@ source: bse
 stocks:
 - NEWTRAC
 tags:
-- company-name-change
-- incorporation
 - corporate-affairs
+- incorporation
+- name-change
 - newtrac-foods-beverages
 title: Change in Name of the Company - Markobenz Ventures Limited to Newtrac Foods
   & Beverages Limited

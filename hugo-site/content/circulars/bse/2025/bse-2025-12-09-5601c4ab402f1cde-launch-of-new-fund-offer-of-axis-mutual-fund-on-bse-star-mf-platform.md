@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - axis-mutual-fund
 - gold
-- silver
+- mutual-fund
+- nfo
 - passive-fof
-- bse-star-mf
+- silver
 title: Launch of New Fund Offer - AXIS Gold and Silver Passive FOF on BSE StAR MF
   Platform
 ---

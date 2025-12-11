@@ -28,8 +28,8 @@ stocks:
 tags:
 - debt-securities
 - embassy-property
-- update
 - listing
+- update
 title: Update Regarding Debt Securities of Embassy Property Developments Pvt Ltd
 ---
 

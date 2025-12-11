@@ -25,26 +25,23 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- '531608'
-- '539110'
-- '504132'
-- '530521'
-- '539939'
-- '526751'
-- '507180'
-- '524548'
+- GORANIN
+- NORTHLINK
+- PERMAGN
+- VIRAT
+- YASHCHEM
+- GRATEXI
+- KESARENT
+- SHARMEH
 tags:
-- esm
+- gorani
+- gratex
+- kesar
+- permanent
+- sharma
 - surveillance
 - trading-restrictions
-- GORANI
-- NORTHLINK
-- PERMANENT
-- VIRAT
-- YASH
-- GRATEX
-- KESAR
-- SHARMA
+- yash
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and Listing Updates
 ---
 

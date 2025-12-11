@@ -27,13 +27,12 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- debentures
-- trading-suspension
-- redemption
-- debt-market
 - corporate-action
+- debt-securities
 - ncd
 - no-dealings
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of NUVAMA WEALTH FINANCE LIMITED
 ---
 

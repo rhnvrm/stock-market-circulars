@@ -27,12 +27,11 @@ source: bse
 stocks:
 - MAHAMAYALIFE
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- public-issue
-- mahamaya-lifesciences
 - listing
-- allocation
+- public-issue
 title: Public Issue of MAHAMAYA LIFESCIENCES LIMITED - Allocation to Anchor Investors
 ---
 

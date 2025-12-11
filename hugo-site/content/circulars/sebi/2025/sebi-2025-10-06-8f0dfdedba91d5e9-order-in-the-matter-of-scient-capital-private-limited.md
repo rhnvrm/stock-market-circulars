@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- portfolio-manager
+- compliance-report
 - enforcement
+- intermediary
 - net-worth-violation
 - nism-certification
-- compliance-report
-- intermediaries
-- regulatory-action
+- portfolio-manager
+- regulatory
 title: Order in the matter of Scient Capital Private Limited
 ---
 

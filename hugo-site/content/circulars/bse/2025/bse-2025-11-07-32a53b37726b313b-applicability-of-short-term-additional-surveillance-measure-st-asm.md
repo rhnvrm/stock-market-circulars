@@ -50,10 +50,9 @@ stocks:
 - ANNA
 - ARAVALI
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- market-regulation
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

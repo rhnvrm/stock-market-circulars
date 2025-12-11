@@ -26,9 +26,9 @@ source: bse
 stocks:
 - TFCILTD
 tags:
-- corporate-actions
-- sub-division
-- equity-shares
+- corporate-action
+- equity
+- split
 - tourism-finance-corporation
 title: Sub-Division of Equity Shares of Tourism Finance Corporation of India Ltd
 ---

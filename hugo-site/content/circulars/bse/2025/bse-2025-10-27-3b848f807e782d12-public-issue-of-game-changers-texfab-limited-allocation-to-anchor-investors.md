@@ -27,11 +27,10 @@ source: bse
 stocks:
 - GAMECHANGER
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
 - public-issue
-- allocation
-- game-changers-texfab
 title: Public Issue of Game Changers Texfab Limited - Allocation to Anchor Investors
 ---
 

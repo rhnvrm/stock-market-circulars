@@ -26,13 +26,13 @@ source: bse
 stocks:
 - DLFHDL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-market
-- record-date
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of DLF HOME DEVELOPERS LIMITED
 ---
 

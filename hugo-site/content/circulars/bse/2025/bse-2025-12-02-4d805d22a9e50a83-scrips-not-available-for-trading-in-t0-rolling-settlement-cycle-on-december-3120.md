@@ -27,9 +27,9 @@ stocks:
 - UNIONBANK
 - YESBANK
 tags:
-- t+0-settlement
+- settlement-calendar
+- t0-settlement
 - trading-restrictions
-- settlement-cycle
 - year-end-trading
 title: Scrips Not Available for T+0 Trading on December 31, 2025
 ---

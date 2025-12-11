@@ -26,10 +26,10 @@ source: bse
 stocks:
 - TRITONVLV
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
+- preferential-issue
 - triton-valves
 title: Listing of New Securities of Triton Valves Ltd - Preferential Allotment
 ---

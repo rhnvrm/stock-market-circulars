@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- bse
 - compliance
-- BSE
-- stock-options
 - enforcement
+- recovery
+- stock-options
 title: SEBI Order for Compliance – Corrigendum to Release Order for Recovery Certificate
   No. 8728 of 2025 against Bhogilal Kubadia
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 3IINFOLTD
 tags:
-- listing
-- rights-issue
-- equity-shares
 - 3i-infotech
+- equity
+- listing
 - new-securities
+- rights-issue
 title: Listing of New Securities of 3i Infotech Limited - Rights Issue
 ---
 

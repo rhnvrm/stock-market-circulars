@@ -32,7 +32,6 @@ stocks:
 - HIMATSEIDE
 - TFCILTD
 - KDDL
-- IGL
 - TITAGARH
 - ISGEC
 - SJVN
@@ -45,10 +44,9 @@ stocks:
 tags:
 - corporate-action
 - dividend
-- stock-split
-- slb-securities
-- ex-date
 - record-date
+- slb
+- split
 title: Corporate Action in SLB Securities - Dividend and Stock Split Announcements
 ---
 

@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-holiday
-- currency-derivatives
+- derivatives
+- holiday
+- holiday-revision
 - id-e-milad
 - market-operations
-- holiday-revision
 title: Trading Holiday Update - Currency Derivatives Segment
 ---
 

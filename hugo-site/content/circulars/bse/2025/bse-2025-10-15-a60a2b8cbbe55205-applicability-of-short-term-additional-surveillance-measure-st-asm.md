@@ -27,7 +27,7 @@ source: bse
 stocks:
 - ABMKNOW
 - ADESHWAR
-- ANGELFIBERS
+- ANGEL
 - BONLON
 - CROISSANCE
 - GETALONG
@@ -50,11 +50,9 @@ stocks:
 - BHAGWATI
 - BILLWIN
 tags:
+- asm-stage
 - surveillance
-- ASM
-- short-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

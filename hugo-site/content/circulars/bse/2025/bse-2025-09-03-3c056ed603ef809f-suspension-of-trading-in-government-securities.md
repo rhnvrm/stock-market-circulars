@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- trading-suspension
+- corporate-action
 - debt-securities
+- gsec
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Government Securities - 823GUJ2025 and 823MH2025
 ---
 

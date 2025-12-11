@@ -29,11 +29,11 @@ stocks:
 - NUVAMA
 tags:
 - debt-securities
+- gold
 - listing
-- private-placement
+- ncd
 - nuvama-wealth-finance
-- gold-futures
-- debentures
+- private-placement
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - 360ONE
-- Aarnav
+- AARNAV
 - ACUTAAS
 - APOLLOMICRO
 - ASIANHOTEL
@@ -34,9 +34,9 @@ stocks:
 - AURO
 - AVONMORE
 - BEDMUTHA
-- BHARATSEATS
+- BHARATSE
 - BILLIONBRAIN
-- BIRLASOFT
+- BSOFT
 - CATVISION
 - CENTRALBANK
 - CIEAUTO
@@ -54,7 +54,7 @@ stocks:
 - HBDL
 - HDFCBANK
 - HEROMOTOCO
-- HINDUSTANCOPPER
+- HINDCOPPER
 - IDBI
 - INDIAGLYCO
 - INFY
@@ -73,11 +73,11 @@ stocks:
 - MOTISONSJEWEL
 - NBCC
 - NEWTRAC
-- NGLFINECHEM
+- NGLFINE
 - NIRLON
 - PACEDIGITAL
 - PARAGMILK
-- PATELRETAIL
+- PATELRMART
 - PGEL
 - PHYSICSWALLA
 - PINELABS
@@ -98,7 +98,7 @@ stocks:
 - SUNDRMFAST
 - TALBROS
 - TAMBOLI
-- TATAMOTORS
+- TMCV
 - TENNECO
 - RAMCOCEM
 - TVSMOTOR
@@ -111,10 +111,10 @@ stocks:
 - WESTERNCARR
 - ZEELEARN
 tags:
-- demat-auction
-- settlement
-- auction-list
+- demat
 - market-operations
+- securities-auction
+- settlement
 title: Demat Auction - Settlement No. 760
 ---
 

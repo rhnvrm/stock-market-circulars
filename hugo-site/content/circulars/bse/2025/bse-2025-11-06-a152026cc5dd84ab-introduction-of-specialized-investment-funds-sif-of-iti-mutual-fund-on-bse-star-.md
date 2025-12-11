@@ -27,15 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- sif
-- specialized-investment-funds
+- amc
+- compliance
+- investor-protection
 - iti-mutual-fund
 - minimum-investment-threshold
-- compliance
-- sebi-circular
-- amc
-- investor-protection
+- mutual-fund
+- sebi
+- sif
 title: Introduction of Specialized Investment Funds (SIF) of ITI Mutual Fund on BSE
   StAR MF Platform
 ---

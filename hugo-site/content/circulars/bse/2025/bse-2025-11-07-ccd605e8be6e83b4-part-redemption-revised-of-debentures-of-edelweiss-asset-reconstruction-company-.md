@@ -28,12 +28,12 @@ source: bse
 stocks:
 - EARCL
 tags:
-- debentures
-- part-redemption
-- debt-segment
-- corporate-actions
-- edelweiss
 - asset-reconstruction
+- corporate-action
+- debt-securities
+- edelweiss
+- ncd
+- redemption
 title: Part Redemption (Revised) of Debentures of Edelweiss Asset Reconstruction Company
   Limited
 ---

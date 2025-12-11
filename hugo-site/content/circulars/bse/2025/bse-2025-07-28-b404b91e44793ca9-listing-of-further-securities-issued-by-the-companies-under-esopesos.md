@@ -35,11 +35,9 @@ stocks:
 - POLYCAB
 - RBA
 tags:
+- equity
 - esop
-- esos
-- employee-stock-options
-- new-listing
-- equity-shares
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---
 

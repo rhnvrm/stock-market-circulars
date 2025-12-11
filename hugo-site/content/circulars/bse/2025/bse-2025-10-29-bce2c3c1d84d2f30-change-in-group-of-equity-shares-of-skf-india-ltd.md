@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SKFINDIA
 tags:
+- a-group
+- asm-stage
+- equity
 - group-change
 - trading
-- skf-india
-- t-group
-- a-group
-- equity-shares
 title: Change in Group of Equity Shares of SKF INDIA LTD.
 ---
 

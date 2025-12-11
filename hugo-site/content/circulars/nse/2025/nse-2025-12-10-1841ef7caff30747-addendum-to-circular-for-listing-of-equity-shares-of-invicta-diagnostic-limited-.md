@@ -28,12 +28,11 @@ source: nse
 stocks:
 - INVICTA
 tags:
-- shareholding-pattern
-- sme-ipo
-- listing
 - disclosure
-- promoter-holding
 - invicta-diagnostic
+- listing
+- shareholding-pattern
+- sme
 title: Addendum to Circular for Listing of Equity Shares of Invicta Diagnostic Limited
   (SME IPO)
 ---

@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
+- kotak-mahindra
 - mutual-fund
 - nfo
 - sip
-- kotak-mahindra
-- bse-star-mf
-- equity-fund
 title: Launch of NFO with SIP facility of KOTAK ACTIVE MOMENTUM FUND on BSE StAR MF
   Platform
 ---

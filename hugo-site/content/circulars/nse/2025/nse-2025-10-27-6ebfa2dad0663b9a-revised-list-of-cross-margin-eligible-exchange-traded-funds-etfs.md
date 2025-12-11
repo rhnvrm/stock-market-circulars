@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- etf
-- cross-margining
+- bank-nifty
 - capital-market
+- cross-margining
+- etf
 - margin-benefits
 - nifty
-- bank-nifty
 - sectoral-etf
 title: Revised list of Cross Margin Eligible Exchange Traded Funds (ETFs)
 ---

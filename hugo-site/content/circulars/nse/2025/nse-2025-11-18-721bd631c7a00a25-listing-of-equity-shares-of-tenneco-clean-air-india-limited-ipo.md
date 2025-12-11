@@ -27,10 +27,9 @@ source: nse
 stocks:
 - TENNIND
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of Tenneco Clean Air India Limited (IPO)
 ---
 

@@ -31,7 +31,7 @@ stocks:
 - ANGLIFE
 - ASHOKLEY
 - ATLANTA
-- AVROINDIA
+- AVROIND
 - BAMPSL
 - BANDARAM
 - BANKINDIA
@@ -74,14 +74,14 @@ stocks:
 - LTIM
 - MAFATIND
 - MAGELLANIC
-- MASTERTRUST
+- MASTERTR
 - MOBAVENUE
 - MOTORGEN
 - MULTICOM
 - NATIONAL
 - NECLIFE
 - NILA
-- OMINFRA
+- OMINFRAL
 - ORIENTELEC
 - ORIENTTEC
 - PANABYTE
@@ -116,11 +116,11 @@ stocks:
 - WAAREE
 - YESBANK
 tags:
-- demat-auction
+- demat
+- early-pay-in
+- securities-auction
 - settlement
 - trading
-- delivery-default
-- auction-securities
 title: Demat Auction - Settlement No. 766
 ---
 

@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- margin-trading
-- net-worth-certificate
-- stock-brokers
+- certificate
 - compliance-timeline
-- regulatory-relaxation
 - ease-of-business
+- margin
+- regulatory-relaxation
+- stock-broker
 title: Relaxation in Timeline to Submit Net Worth Certificate by Stock Brokers for
   Margin Trading Facility
 ---

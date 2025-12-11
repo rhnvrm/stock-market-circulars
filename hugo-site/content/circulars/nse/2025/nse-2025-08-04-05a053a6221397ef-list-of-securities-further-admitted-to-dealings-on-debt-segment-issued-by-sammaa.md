@@ -26,9 +26,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - sammaan-capital
-- debentures
-- debt-segment
 title: List of securities further admitted to dealings on Debt Segment issued by Sammaan
   Capital Limited
 ---

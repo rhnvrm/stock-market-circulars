@@ -26,12 +26,11 @@ source: nse
 stocks:
 - VIVIANA
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme
+- bonus
 - corporate-action
-- viviana
-- trading-parameters
+- market-lot
+- sme
+- trading-operations
 title: 'BONUS: Adjustment of Market Lot for Security VIVIANA in SME Platform'
 ---
 

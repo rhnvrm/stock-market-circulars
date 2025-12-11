@@ -27,14 +27,14 @@ stocks:
 - ABATE
 - ACEENG
 - AEROFLEX
-- ANANDRAYONS
+- ARL
 - APOORVALEASING
 - ARYAMAN
 - ASARFI
 - ASCENSIVE
 - BALAJITELE
 - CHECKPOINT
-- COUNTRYCONDOS
+- COUNCODOS
 - CRESSANDA
 - CURATECH
 - DESHRAKSHAK
@@ -84,10 +84,10 @@ stocks:
 - YARNSYN
 - YURANUS
 tags:
+- equity
 - price-band
-- trading
 - surveillance
-- equity-segment
+- trading
 title: Changes in Price Band for 59 Securities - Revised Levels Effective September
   8, 2025
 ---

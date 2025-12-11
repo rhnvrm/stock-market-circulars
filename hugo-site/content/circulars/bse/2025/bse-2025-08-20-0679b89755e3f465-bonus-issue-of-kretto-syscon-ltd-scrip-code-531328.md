@@ -27,10 +27,10 @@ source: bse
 stocks:
 - KRETTO
 tags:
-- bonus-issue
-- equity-shares
+- allotment
+- bonus
 - capital-structure
-- share-allotment
+- equity
 title: Bonus Issue of KRETTO SYSCON LTD - 8:10 Ratio Bonus Shares
 ---
 

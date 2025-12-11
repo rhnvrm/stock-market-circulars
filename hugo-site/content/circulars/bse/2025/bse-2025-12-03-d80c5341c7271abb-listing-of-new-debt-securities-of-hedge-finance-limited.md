@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HEDGEFIN
 tags:
-- debt-listing
-- hedge-finance
+- debt-securities
+- listing
+- ncd
 - private-placement
-- debentures
-- new-listing
 title: Listing of New Debt Securities of Hedge Finance Limited
 ---
 

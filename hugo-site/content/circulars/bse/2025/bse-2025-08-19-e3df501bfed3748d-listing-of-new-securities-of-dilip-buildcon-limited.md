@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DILIPBLD
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Dilip Buildcon Limited
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PURPLEWAVE
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- purple-wave-infocom
-- new-listing
-- allocation
+- listing
 title: Purple Wave Infocom Limited IPO - Anchor Investor Allocation
 ---
 

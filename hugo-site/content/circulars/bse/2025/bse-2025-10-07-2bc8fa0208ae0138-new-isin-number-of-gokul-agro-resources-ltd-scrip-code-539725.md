@@ -27,12 +27,10 @@ source: bse
 stocks:
 - GOKULAGRO
 tags:
-- isin-change
-- sub-division
 - corporate-action
-- equity-shares
-- gokul-agro
-- '539725'
+- equity
+- isin
+- split
 title: 'New ISIN Number of Gokul Agro Resources Ltd (Scrip Code: 539725)'
 ---
 

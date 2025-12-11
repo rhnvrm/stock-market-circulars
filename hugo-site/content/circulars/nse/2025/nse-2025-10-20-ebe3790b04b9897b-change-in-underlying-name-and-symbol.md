@@ -25,16 +25,15 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT70904.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 - TMPV
 tags:
-- symbol-change
-- futures-and-options
-- tata-motors
-- tmpv
-- tatamotors
 - clearing
+- futures-options
+- name-change
 - portfolio
+- tata-motors
+- tatamotors
 title: Change in Underlying Name and Symbol - TATAMOTORS to TMPV
 ---
 

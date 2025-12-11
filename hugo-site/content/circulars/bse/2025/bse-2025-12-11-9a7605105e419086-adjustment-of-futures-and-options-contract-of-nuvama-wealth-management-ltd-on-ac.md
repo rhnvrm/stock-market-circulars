@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NWML
 tags:
-- derivatives
-- corporate-action
-- stock-split
-- futures-and-options
 - adjustment
+- corporate-action
+- derivatives
+- futures-options
 - nuvama-wealth-management
+- split
 title: Adjustment of Futures and Options Contract of Nuvama Wealth Management Ltd
   on Account of Stock Split
 ---

@@ -25,11 +25,10 @@ source: bse
 stocks:
 - ILFS
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- ilfs
-- corporate-actions
+- suspension
 title: Suspension of Trading in ILFS Debt Securities Due to Maturity
 ---
 

@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- debt-securities
+- derivatives
 - membership
-- trading-members
-- equity-derivatives
-- debt-segment
 - new-admission
+- trading-member
 title: Admission of New Trading Members - Bansal Shares And Securities Private Limited
   and JRK Stock Broking Pvt.Ltd.
 ---

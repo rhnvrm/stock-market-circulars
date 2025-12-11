@@ -27,13 +27,12 @@ source: sebi
 stocks:
 - MASTEK
 tags:
-- adjudication-order
-- insider-trading
-- stock-broker
-- false-information
+- adjudication
 - call-recordings
+- false-information
 - investigation
 - penalty
+- stock-broker
 title: Adjudication Order against Integrated Master Securities for Insider Trading
   Violations in Mastek Ltd.
 ---

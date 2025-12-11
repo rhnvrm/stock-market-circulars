@@ -26,11 +26,11 @@ source: nse
 stocks: []
 tags:
 - etf
-- nfo
-- mutual-fund
 - manufacturing
+- mutual-fund
+- nfo
 - nippon-india
-- nse-mf-invest
+- trading-platform
 title: Launch of Nippon India Nifty India Manufacturing ETF NFO on NSE MF Invest Platform
 ---
 

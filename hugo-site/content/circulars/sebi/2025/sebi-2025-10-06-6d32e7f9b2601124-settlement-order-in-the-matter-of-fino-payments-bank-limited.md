@@ -28,14 +28,14 @@ source: sebi
 stocks:
 - FINOPB
 tags:
-- settlement-order
-- disclosure-violation
-- lodr-regulations
+- adjudication
 - employee-fraud
 - fino-payments-bank
-- regulation-30
+- information-disclosure
+- lodr
 - material-events
-- adjudication
+- regulation-30
+- settlement-order
 title: Settlement Order in the matter of Fino Payments Bank Limited
 ---
 

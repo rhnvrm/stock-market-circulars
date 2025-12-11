@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '517431'
+- NARMP
 tags:
-- stock-split
-- subdivision
 - corporate-action
-- equity-shares
+- equity
 - narmada-macplast
 - record-date
+- split
 title: 'Sub-Division of Equity Shares of NARMADA MACPLAST DRIP IRRIGATION SYSTEMS
   LTD (Scrip Code: 517431)'
 ---

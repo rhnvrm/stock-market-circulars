@@ -26,11 +26,9 @@ source: bse
 stocks:
 - DARSHANORNA
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- new-listing
-- DARSHANORNA
 title: Listing of Securities - Darshan Orna Limited Rights Issue
 ---
 

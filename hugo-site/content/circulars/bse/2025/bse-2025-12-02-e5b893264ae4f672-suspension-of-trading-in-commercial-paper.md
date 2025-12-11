@@ -34,7 +34,7 @@ stocks:
 - JKCL
 - MACMPL
 - NWFL
-- GFL
+- GFLLIMITED
 - HSL
 - RRVL
 - 360OWL
@@ -43,10 +43,10 @@ stocks:
 - TCL
 tags:
 - commercial-paper
-- debt-segment
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 16 Companies
 ---
 

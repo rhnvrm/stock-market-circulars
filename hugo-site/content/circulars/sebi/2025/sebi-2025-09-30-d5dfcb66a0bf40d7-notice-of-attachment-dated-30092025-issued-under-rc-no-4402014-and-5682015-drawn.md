@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement-action
+- enforcement
+- non-compliance
 - notice-of-attachment
-- recovery-proceedings
+- recovery
 - restoration-case
-- compliance-violation
 title: Notice of Attachment dated 30.09.2025 issued under RC No. 440/2014 and 568/2015
   drawn against Kolar Sharex Private Limited
 ---

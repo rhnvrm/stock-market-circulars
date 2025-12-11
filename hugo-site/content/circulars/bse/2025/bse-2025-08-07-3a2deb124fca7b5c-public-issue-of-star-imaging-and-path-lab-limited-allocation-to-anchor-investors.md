@@ -25,8 +25,8 @@ source: bse
 stocks:
 - STARIMG
 tags:
+- anchor-investor
 - ipo
-- anchor-investors
 - public-issue
 - star-imaging-path-lab
 title: Public Issue of STAR IMAGING AND PATH LAB LIMITED - Allocation to Anchor Investors

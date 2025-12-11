@@ -25,11 +25,10 @@ source: bse
 stocks:
 - KOSAMATTAM
 tags:
+- bond
 - debt-securities
 - listing
-- kosamattam-finance
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of Kosamattam Finance Limited
 ---
 

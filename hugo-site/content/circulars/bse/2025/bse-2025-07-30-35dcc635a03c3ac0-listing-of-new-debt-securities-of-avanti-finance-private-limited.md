@@ -25,10 +25,10 @@ source: bse
 stocks:
 - AFPL
 tags:
+- avanti-finance
 - debt-securities
 - listing
 - private-placement
-- avanti-finance
 title: Listing of new debt securities of Avanti Finance Private Limited
 ---
 

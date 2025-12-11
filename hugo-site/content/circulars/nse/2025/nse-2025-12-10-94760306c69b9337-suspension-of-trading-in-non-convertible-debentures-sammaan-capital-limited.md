@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- suspension
-- non-convertible-debentures
-- ncd
-- maturity
-- sammaan-capital
-- debt-securities
 - capital-market
+- debt-securities
+- maturity
+- ncd
+- sammaan-capital
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - Sammaan Capital Limited
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ICLFINCORP
 tags:
-- listing
+- bond
 - debt-securities
+- listing
+- ncd
 - private-placement
-- icl-fincorp
-- non-convertible-debentures
-- corporate-bonds
 title: Listing of New Debt Securities of ICL Fincorp Limited
 ---
 

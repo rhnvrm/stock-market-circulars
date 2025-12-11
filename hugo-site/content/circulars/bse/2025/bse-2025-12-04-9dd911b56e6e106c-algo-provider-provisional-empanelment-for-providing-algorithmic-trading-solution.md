@@ -26,10 +26,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
+- algo-trading
 - empanelment
-- trading-solutions
+- market-infrastructure
 - vendor-onboarding
 title: AlgoBulls Technologies Private Limited - Provisional Empanelment as Algo Provider
 ---

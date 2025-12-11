@@ -25,15 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- demerger
+- call-money
+- commercial-vehicles
 - corporate-action
+- listing
 - record-date
 - scheme-of-arrangement
-- commercial-vehicles
-- new-listing
-- special-pre-open-session
 title: Scheme of Arrangement (Demerger) of TATA MOTORS LTD - Record Date 14 October
   2025
 ---

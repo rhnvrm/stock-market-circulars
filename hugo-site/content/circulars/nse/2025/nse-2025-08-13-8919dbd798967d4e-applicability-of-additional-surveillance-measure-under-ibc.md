@@ -26,12 +26,9 @@ source: nse
 stocks:
 - LAKPRE
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
 - lakshmi-precision-screws
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC - Lakshmi Precision
   Screws Added to Stage I
 ---

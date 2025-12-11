@@ -25,11 +25,9 @@ source: bse
 stocks:
 - ALCHEMIST
 tags:
-- takeover
-- acquisition
-- settlement
 - otb
-- alchemist-corporation
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - Alchemist Corporation Limited
 ---
 

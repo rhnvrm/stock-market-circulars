@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VISHALFAB
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Vishal Fabrics Limited - 8.07 Crore Equity Shares
   from Warrant Conversion
 ---

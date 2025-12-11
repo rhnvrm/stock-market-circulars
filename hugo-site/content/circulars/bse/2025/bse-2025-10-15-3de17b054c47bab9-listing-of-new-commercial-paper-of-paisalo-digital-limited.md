@@ -28,9 +28,9 @@ stocks:
 - PAISALO
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - paisalo-digital
+- private-placement
 - short-term-debt
 title: Listing of New Commercial Paper of Paisalo Digital Limited
 ---

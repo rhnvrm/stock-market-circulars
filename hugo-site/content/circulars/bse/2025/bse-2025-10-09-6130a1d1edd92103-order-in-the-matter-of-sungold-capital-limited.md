@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SUNGOLD
 tags:
-- enforcement
-- takeover
-- open-offer
-- sast-regulations
-- penalty
 - compliance
+- enforcement
+- penalty
+- regulatory-framework
 - regulatory-order
+- takeover
 title: Order in the matter of Sungold Capital Limited
 ---
 

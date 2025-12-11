@@ -28,11 +28,11 @@ stocks:
 - HELLOJI
 tags:
 - group-change
-- trading-segment
-- sme
 - ipo
-- rolling-settlement
+- rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of HELLOJI HOLIDAYS LIMITED
 ---
 

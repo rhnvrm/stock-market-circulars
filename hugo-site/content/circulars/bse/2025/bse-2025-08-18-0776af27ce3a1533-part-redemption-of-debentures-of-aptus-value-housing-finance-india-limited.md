@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AVHFIL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-instruments
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of APTUS VALUE HOUSING FINANCE INDIA LIMITED
 ---
 

@@ -35,7 +35,7 @@ stocks:
 - EKENNIS
 - EXXARO
 - FONE4
-- GFL
+- GFLLIMITED
 - GHUSHINE
 - HB
 - HYPERSOFT
@@ -57,13 +57,13 @@ stocks:
 - SUPERTECH
 - TIERRA
 - TITANINT
-- TRADEWINGS
-- VTM
+- TRADWIN
+- VTMLTD
 tags:
+- equity
 - price-band
 - surveillance
-- trading-restriction
-- equity-segment
+- trading-restrictions
 - volatility-control
 title: Changes in Price Band - 34 Securities Revised Effective November 13, 2025
 ---

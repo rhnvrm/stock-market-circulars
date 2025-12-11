@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SPAND
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - renunciation
+- rights-issue
 - spandana-sphoorty
+- trading
 title: Rights Entitlements Trading for SPANDANA SPHOORTY FINANCIAL LIMITED
 ---
 

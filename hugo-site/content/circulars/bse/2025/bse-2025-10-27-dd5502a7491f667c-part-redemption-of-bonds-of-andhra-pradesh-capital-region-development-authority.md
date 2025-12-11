@@ -28,13 +28,12 @@ source: bse
 stocks:
 - APCRDA
 tags:
-- bonds
-- redemption
+- bond
+- corporate-action
 - debt-securities
-- interest-payment
-- corporate-actions
 - face-value-reduction
-- apcrda
+- interest-payment
+- redemption
 title: Part Redemption of Bonds of ANDHRA PRADESH CAPITAL REGION DEVELOPMENT AUTHORITY
 ---
 

@@ -30,10 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- kanakadurga-finance
 - ncd
 - private-placement
-- debentures
 title: Listing of new debt securities of Kanakadurga Finance Limited
 ---
 

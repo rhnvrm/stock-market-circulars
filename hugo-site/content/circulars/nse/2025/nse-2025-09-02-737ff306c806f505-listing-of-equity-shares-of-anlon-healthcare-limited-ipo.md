@@ -26,11 +26,10 @@ source: nse
 stocks:
 - AHCL
 tags:
-- listing
-- ipo
 - equity
 - healthcare
-- AHCL
+- ipo
+- listing
 title: Listing of Equity Shares of Anlon Healthcare Limited (IPO)
 ---
 

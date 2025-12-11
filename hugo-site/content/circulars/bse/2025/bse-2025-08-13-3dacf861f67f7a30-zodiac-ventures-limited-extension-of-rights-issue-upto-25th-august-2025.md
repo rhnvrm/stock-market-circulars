@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ZODIACVEN
 tags:
-- rights-issue
-- extension
-- equity-shares
 - allotment
+- equity
+- extension
+- rights-issue
 - subscription
 title: Zodiac Ventures Limited - Rights Issue Extension to August 25, 2025
 ---

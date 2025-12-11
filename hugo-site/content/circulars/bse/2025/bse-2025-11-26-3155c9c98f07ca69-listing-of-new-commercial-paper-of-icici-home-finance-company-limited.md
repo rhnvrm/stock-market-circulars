@@ -28,10 +28,10 @@ stocks:
 - ICICIHOMEL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - icici-home-finance
-- new-listing
+- listing
+- private-placement
 title: Listing of New Commercial Paper of ICICI Home Finance Company Limited
 ---
 

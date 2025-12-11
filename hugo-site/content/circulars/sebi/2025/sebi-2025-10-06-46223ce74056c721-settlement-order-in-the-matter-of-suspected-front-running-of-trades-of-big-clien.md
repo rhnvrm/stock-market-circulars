@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- front-running
+- enforcement
 - fraudulent-trade-practices
+- investigation
 - pfutp
-- enforcement-action
+- settlement-order
 - wrongful-gains
 title: Settlement Order in the matter of suspected front running of trades of Big
   Client- Societe Generale by Chaturvedi Group

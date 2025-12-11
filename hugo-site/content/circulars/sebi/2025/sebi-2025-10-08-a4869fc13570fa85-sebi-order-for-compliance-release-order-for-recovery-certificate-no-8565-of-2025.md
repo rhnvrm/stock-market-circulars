@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - MANAKSIA
 tags:
-- recovery-certificate
-- enforcement
 - compliance-order
-- release-order
-- manaksia-coated-metals
+- enforcement
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8565
   of 2025 against Ajaykumar Pujara and Natu Vegda in the matter of Manaksia Coated
   Metals and Industries Limited

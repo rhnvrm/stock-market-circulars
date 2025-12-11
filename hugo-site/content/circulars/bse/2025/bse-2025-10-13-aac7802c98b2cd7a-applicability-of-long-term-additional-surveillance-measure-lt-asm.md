@@ -26,12 +26,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- surveillance
-- lt-asm
+- asm-stage
 - margins
 - price-band
+- surveillance
 - trading-restrictions
-- additional-surveillance-measure
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -28,10 +28,10 @@ stocks:
 - DALMIAIND
 - NIHARINFO
 tags:
-- trading-suspension
 - annual-listing-fees
 - compliance
-- equity-segment
+- equity
+- suspension
 - trade-resumption
 title: Trading Suspension Revoked for Two Companies - ALF Compliance Update
 ---

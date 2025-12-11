@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HEALTHYAGRI
 tags:
+- equity
+- healthy-life-agritec
 - listing
 - rights-issue
-- equity-shares
-- healthy-life-agritec
-- new-listing
 title: Listing of 24.81 Million Rights Issue Equity Shares of Healthy Life Agritec
   Limited
 ---

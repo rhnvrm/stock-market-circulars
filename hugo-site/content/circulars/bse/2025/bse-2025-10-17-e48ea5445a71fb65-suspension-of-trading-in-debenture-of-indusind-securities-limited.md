@@ -28,13 +28,12 @@ source: bse
 stocks:
 - INDUSIND-SECURITIES
 tags:
-- debenture
-- suspension
-- redemption
+- debt-securities
+- ncd
 - put-option
 - record-date
-- debt-market
-- non-convertible-debenture
+- redemption
+- suspension
 title: Suspension of Trading in Debenture of INDUSIND SECURITIES LIMITED
 ---
 

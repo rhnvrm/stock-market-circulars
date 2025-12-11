@@ -26,10 +26,10 @@ source: bse
 stocks:
 - EXHICON
 tags:
+- conversion
+- equity
 - listing
 - new-securities
-- equity-shares
-- warrant-conversion
 - preferential-issue
 title: Listing of New Securities of Exhicon Events Media Solutions Limited
 ---

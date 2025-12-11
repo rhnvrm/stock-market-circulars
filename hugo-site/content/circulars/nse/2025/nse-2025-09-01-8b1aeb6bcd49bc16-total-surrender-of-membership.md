@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
 - membership
 - surrender
 - trading-member
-- compliance
 title: Total Surrender of Membership - STAR BULLS DERIVATIVE TRADING LLP
 ---
 

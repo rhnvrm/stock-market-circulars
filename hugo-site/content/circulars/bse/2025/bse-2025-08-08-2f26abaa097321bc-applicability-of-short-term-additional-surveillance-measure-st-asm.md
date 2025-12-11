@@ -36,11 +36,11 @@ stocks:
 - NEILIND
 - PONDYOXI
 tags:
-- surveillance
-- st-asm
-- trading
-- market-operations
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

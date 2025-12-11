@@ -24,15 +24,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '542904'
+- UJJIVANSFB
 tags:
 - capital-raising
-- qip
-- disclosure
 - clarification
-- ujjivan
-- small-finance-bank
+- disclosure
 - media-response
+- qip
+- small-finance-bank
+- ujjivan
 title: Ujjivan Small Finance Bank Clarifies Rs 2,000 Crore Capital Raising Plans
 ---
 

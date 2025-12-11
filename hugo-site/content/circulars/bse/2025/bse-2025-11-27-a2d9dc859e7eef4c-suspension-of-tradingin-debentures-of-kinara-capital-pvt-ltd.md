@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KINARA CAPITAL
 tags:
-- debt-market
-- debentures
-- trading-suspension
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Debentures of KINARA CAPITAL PVT LTD
 ---
 

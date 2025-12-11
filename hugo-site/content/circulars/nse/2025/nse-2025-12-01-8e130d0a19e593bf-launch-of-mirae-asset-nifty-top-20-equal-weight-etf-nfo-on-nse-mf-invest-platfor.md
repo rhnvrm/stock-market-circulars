@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
-- mirae-asset
 - equity
-- nse-mf-invest
+- etf
+- mirae-asset
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Mirae Asset Nifty Top 20 Equal Weight ETF NFO on NSE MF Invest Platform
 ---
 

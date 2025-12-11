@@ -27,12 +27,10 @@ stocks:
 - JAYENERGY
 - SENERGIES
 tags:
-- recovery-certificate
-- enforcement
-- jay-energy
-- s-energies-limited
-- demand-notice
 - defaulter
+- demand-notice
+- enforcement
+- recovery
 title: Notice of Demand for Recovery Certificate No. 8933 of 2025 against Rajesh Rajnikant
   Mehta
 ---

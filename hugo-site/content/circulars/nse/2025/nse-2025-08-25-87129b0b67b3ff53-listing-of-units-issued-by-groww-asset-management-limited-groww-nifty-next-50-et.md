@@ -26,11 +26,11 @@ source: nse
 stocks:
 - GROWWNXT50
 tags:
-- listing
 - etf
 - groww-mutual-fund
-- nifty-next-50
+- listing
 - market-maker
+- nifty-next-50
 title: Listing of Units Issued by Groww Asset Management Limited (Groww Nifty Next
   50 ETF)
 ---

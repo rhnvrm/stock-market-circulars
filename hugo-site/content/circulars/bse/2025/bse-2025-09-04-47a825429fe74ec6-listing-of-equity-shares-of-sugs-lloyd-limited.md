@@ -24,14 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SUGS LLOYD
+- SUGSLLOYD
 tags:
-- listing
-- equity-shares
-- shareholding-pattern
-- promoter-holding
-- public-holding
 - disclosure
+- equity
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of SUGS LLOYD LIMITED - Shareholding Pattern Filing
 ---
 

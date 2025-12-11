@@ -25,8 +25,7 @@ severity: low
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
+- algo-trading
 - empanelment
 - trading-member
 - vendor

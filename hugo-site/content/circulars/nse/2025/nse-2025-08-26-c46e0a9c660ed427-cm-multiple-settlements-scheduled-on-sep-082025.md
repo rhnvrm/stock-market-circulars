@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement
-- capital-market
-- trading
 - auction
-- mtf
+- capital-market
 - depository
+- mtf
+- settlement
+- trading
 title: CM - Multiple Settlements scheduled on Sep 08, 2025
 ---
 

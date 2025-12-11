@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- slbs
-- settlement
-- securities-lending
 - borrowing
 - clearing
+- collateral
 - holiday
+- settlement
+- slbs
 title: SLBS - Multiple settlements scheduled on September 08, 2025
 ---
 

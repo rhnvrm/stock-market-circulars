@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - caratlane
+- commercial-paper
+- debt-securities
 - icra-rating
+- private-placement
 title: Listing of new Commercial Paper of CaratLane Trading Private Limited
 ---
 

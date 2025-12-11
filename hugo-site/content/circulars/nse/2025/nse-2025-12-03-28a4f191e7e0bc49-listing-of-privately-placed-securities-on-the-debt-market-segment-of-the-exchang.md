@@ -34,12 +34,12 @@ stocks:
 - CANBK
 - BHARTI
 tags:
-- debt-market
+- bond
 - commercial-paper
+- debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- bonds
 title: Listing of Privately Placed Securities on Debt Market Segment - December 03,
   2025
 ---

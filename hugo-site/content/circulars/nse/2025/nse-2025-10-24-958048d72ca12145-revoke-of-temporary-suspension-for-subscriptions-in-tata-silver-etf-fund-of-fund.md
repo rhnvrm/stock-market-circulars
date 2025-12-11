@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- subscription-resumption
+- fund-of-funds
+- mutual-fund
+- silver
+- subscription-limit
 - tata-mutual-fund
-- nse-mf-invest
-- silver-etf
-- fund-of-fund
+- trading-platform
 title: Revoke of Temporary Suspension for Subscriptions in TATA Silver ETF Fund of
   Fund
 ---

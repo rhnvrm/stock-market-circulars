@@ -41,12 +41,11 @@ stocks:
 - SECURKLOUD
 - SKIL
 tags:
-- gsm
-- surveillance
 - additional-surveillance-deposit
-- price-monitoring
 - earnings
 - market-capitalization
+- price-monitoring
+- surveillance
 title: Graded Surveillance Measure (GSM) - Updated list of companies
 ---
 

@@ -26,14 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- front-running
-- fraudulent-trading
-- unfair-trade-practices
-- enforcement-action
-- marcellus-investment-managers
 - dealer-misconduct
-- pfutp-regulations
+- enforcement
+- investigation
+- marcellus-investment-managers
+- regulatory-framework
+- settlement-order
+- unfair-trade-practices
 title: Settlement Order in respect of Front Running of the Trades of Big Clients
 ---
 

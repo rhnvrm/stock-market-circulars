@@ -28,13 +28,12 @@ source: bse
 stocks:
 - EARLYSALARY
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
 - interest-payment
-- non-convertible-debentures
+- ncd
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debenture of EARLYSALARY SERVICES PRIVATE LIMITED
 ---
 

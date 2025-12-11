@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOYAL
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- equity-shares
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities of Goyal Associates Ltd - Preferential Issue
 ---
 

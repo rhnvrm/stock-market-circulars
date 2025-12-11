@@ -26,11 +26,10 @@ source: bse
 stocks:
 - AXISBANK
 tags:
-- debt-listing
+- bond
+- debt-securities
+- ncd
 - private-placement
-- bonds
-- axis-bank
-- debentures
 title: Listing of New Debt Securities of AXIS Bank Ltd.
 ---
 

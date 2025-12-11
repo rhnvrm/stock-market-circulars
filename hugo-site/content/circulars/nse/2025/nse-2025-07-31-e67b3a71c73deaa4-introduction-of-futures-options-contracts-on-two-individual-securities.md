@@ -28,9 +28,9 @@ stocks:
 - SUZLON
 tags:
 - derivatives
-- futures
+- futures-options
+- listing
 - options
-- new-listings
 - trading
 title: Introduction of Futures & Options Contracts on NUVAMA and SUZLON
 ---

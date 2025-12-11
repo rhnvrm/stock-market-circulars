@@ -28,13 +28,10 @@ source: bse
 stocks:
 - OCTAWARE
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
 - equity
+- otb
+- takeover
 - trading-schedule
-- octaware-technologies
-- '540416'
 title: Offer to Buy – Acquisition Window (Takeover) for OCTAWARE TECHNOLOGIES LTD
   – Live Activities Schedule
 ---

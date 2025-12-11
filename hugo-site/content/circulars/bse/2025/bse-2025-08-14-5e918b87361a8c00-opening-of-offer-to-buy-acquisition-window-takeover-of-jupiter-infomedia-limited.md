@@ -26,11 +26,9 @@ source: bse
 stocks:
 - JUPITER
 tags:
+- sast
 - takeover
-- open-offer
-- acquisition
 - voting-shares
-- substantial-acquisition
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Jupiter Infomedia
   Limited
 ---

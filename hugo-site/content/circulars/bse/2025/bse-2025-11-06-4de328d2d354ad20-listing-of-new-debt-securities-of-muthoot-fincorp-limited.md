@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MUTHOOTFIN
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- muthoot-fincorp
-- bonds
-- ncds
 title: Listing of New Debt Securities of Muthoot Fincorp Limited
 ---
 

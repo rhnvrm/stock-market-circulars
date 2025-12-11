@@ -49,10 +49,10 @@ stocks:
 - YASHTRADING
 - ZENITH
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 24 Securities Effective September 4, 2025
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- technical-support
 - communication
-- regulatory-compliance
-- trai
+- compliance
 - contact-numbers
 - member-services
+- technical-support
+- trai
 title: Implementation of New Numbers for Making Outbound Calls to Members for BSE
   Technical Queries
 ---

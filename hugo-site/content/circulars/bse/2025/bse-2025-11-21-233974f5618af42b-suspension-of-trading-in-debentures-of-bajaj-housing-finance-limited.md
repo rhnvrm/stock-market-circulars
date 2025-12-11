@@ -26,14 +26,13 @@ source: bse
 stocks:
 - BAJAJHFL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- debt-securities
-- redemption
-- interest-payment
 - bajaj-housing-finance
+- debt-securities
+- interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Bajaj Housing Finance Limited
 ---
 

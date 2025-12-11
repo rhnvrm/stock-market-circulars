@@ -26,11 +26,10 @@ source: nse
 stocks:
 - MANGCHEFER
 tags:
-- trading-suspension
-- amalgamation
 - delisting
-- equity-shares
-- MANGCHEFER
+- equity
+- scheme-of-arrangement
+- suspension
 title: Suspension of Trading in Equity Shares - Mangalore Chemicals & Fertilizers
   Limited
 ---

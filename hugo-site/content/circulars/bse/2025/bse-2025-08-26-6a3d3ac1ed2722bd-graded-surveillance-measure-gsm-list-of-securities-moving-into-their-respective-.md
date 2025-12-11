@@ -33,10 +33,9 @@ stocks:
 - SATIATE
 - TACENT
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

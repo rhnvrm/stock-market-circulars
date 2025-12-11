@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- regulations
-- registration
-- assets-under-advice
 - accredited-investors
+- assets-under-advice
 - change-in-control
 - compliance
+- investment-adviser
+- registration
+- regulations
 title: Securities and Exchange Board of India (Investment Advisers) Regulations, 2013
   [Last amended on August 7, 2025]
 ---

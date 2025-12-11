@@ -26,7 +26,7 @@ source: bse
 stocks:
 - APOLLOMICRO
 - CUPID
-- HEMOORGANIC
+- HEMORGANIC
 - KKALPANA
 - OXFORD
 - PRITISH
@@ -35,10 +35,10 @@ stocks:
 - ABAN
 - VAXFAB
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-safety
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

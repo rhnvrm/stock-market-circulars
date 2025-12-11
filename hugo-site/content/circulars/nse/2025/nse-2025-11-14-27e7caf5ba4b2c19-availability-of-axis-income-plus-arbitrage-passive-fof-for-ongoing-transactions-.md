@@ -27,17 +27,17 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- arbitrage-fund
 - axis-mutual-fund
+- debt-securities
 - fund-of-funds
-- arbitrage
-- debt-fund
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
-- nse-mf-invest
+- swp
+- trading-platform
 title: Availability of Axis Income Plus Arbitrage Passive FOF for Ongoing Transactions
   on NSE MF Invest Platform
 ---

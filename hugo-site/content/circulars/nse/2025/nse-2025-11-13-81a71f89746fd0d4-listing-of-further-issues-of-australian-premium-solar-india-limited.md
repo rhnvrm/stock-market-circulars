@@ -28,12 +28,12 @@ source: nse
 stocks:
 - APS
 tags:
-- listing
-- sme
-- emerge
-- preferential-allotment
-- equity-shares
+- emerge-platform
+- equity
 - further-issue
+- listing
+- preferential-issue
+- sme
 title: Listing of Further Issues of Australian Premium Solar (India) Limited
 ---
 

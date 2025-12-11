@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- call-option
 - debt-securities
 - listing
 - magnetron
 - private-placement
-- call-option
 title: Listing of New Debt Securities of Magnetron Aug 2025
 ---
 

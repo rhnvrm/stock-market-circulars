@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KOTAK MAHINDRA INVESTMENTS
 tags:
-- trading-suspension
-- debentures
 - interest-payment
-- redemption
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KOTAK MAHINDRA INVESTMENTS LIMITED
 ---
 

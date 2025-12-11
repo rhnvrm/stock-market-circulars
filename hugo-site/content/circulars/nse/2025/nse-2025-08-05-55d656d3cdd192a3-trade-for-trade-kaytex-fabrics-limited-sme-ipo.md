@@ -25,11 +25,10 @@ source: nse
 stocks:
 - KAYTEX
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
-- kaytex
+- sme
+- trade-for-trade
 title: Trade for Trade - Kaytex Fabrics Limited (SME IPO)
 ---
 

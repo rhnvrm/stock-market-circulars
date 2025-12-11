@@ -26,12 +26,12 @@ source: bse
 stocks:
 - EMBASSY
 tags:
-- trading-suspension
-- debentures
-- reit
-- redemption
-- interest-payment
 - embassy-office-parks
+- interest-payment
+- ncd
+- redemption
+- reit
+- suspension
 title: Suspension of Trading in Debentures of EMBASSY OFFICE PARKS REIT
 ---
 

@@ -26,7 +26,7 @@ stocks:
 - LODHA
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - lodha-developers
 - private-placement
 title: Listing of new Commercial Paper of Lodha Developers Limited

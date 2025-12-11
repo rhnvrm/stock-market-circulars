@@ -26,15 +26,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- risk-based-supervision
-- rbs
-- compliance
-- trading-members
-- reporting-requirements
-- faq
-- collateral-valuation
 - client-balances
+- collateral-valuation
+- compliance
+- faq
+- rbs
 - regulatory-disclosure
+- reporting-requirements
+- risk-based-supervision
+- trading-member
 title: Risk Based Supervision (RBS) - Submission of Information for April-September
   2025
 ---

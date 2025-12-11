@@ -27,11 +27,11 @@ stocks:
 - PCPL
 - PMPL
 tags:
-- debentures
-- part-redemption
-- face-value-reduction
-- corporate-actions
+- corporate-action
 - debt-securities
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Provident Cedar Private Limited and Provident
   Meryta Private Limited
 ---

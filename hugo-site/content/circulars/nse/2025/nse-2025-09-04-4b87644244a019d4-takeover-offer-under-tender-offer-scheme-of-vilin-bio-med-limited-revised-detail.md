@@ -26,11 +26,10 @@ source: nse
 stocks:
 - VILINBIO
 tags:
-- takeover-offer
-- tender-offer
-- vilin-bio-med
+- equity
 - revised-details
-- equity-shares
+- takeover
+- tender-offer
 title: Takeover offer under Tender Offer scheme of Vilin Bio Med Limited (Revised
   Details)
 ---

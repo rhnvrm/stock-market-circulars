@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GLOBALHEALTH
+- MEDANTA
 tags:
 - employee-benefits
+- equity
+- lock-in
+- regulatory-framework
 - share-incentive-plan
-- lock-in-requirements
-- sebi-regulations
-- equity-shares
 title: Lock-in Undertaking for Global Health Limited Employee Share Incentive Plan
   Securities
 ---

@@ -31,12 +31,9 @@ stocks:
 - IECEDU
 - PARSHWANATH
 tags:
-- surveillance
-- esm
-- enhanced-surveillance-measure
-- trading
-- market-surveillance
 - risk-management
+- surveillance
+- trading
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   10, 2025
 ---

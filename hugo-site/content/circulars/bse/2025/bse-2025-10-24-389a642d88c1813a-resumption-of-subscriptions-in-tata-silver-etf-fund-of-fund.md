@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - etf
-- fund-of-fund
-- subscriptions
-- tata-silver-etf
+- fund-of-funds
 - market-operations
+- subscription
+- tata-silver-etf
 title: Resumption of Subscriptions in Tata Silver ETF Fund of Fund
 ---
 

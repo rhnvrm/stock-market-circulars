@@ -27,10 +27,10 @@ stocks:
 - PATEL
 tags:
 - group-change
-- trading-segment
 - patel-retail
 - rolling-segment
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Patel Retail Limited
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SUVEN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Suven Life Sciences Ltd
 ---
 

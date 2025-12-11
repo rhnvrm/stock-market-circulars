@@ -26,11 +26,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- compliance
 - enforcement
 - illiquid-stock-options
-- compliance
-- debt-recovery
+- recovery
 title: Completion of Recovery Certificate No. RC8046 of 2025 in respect of Jyoti Patawari
   - Illiquid Stock Options
 ---

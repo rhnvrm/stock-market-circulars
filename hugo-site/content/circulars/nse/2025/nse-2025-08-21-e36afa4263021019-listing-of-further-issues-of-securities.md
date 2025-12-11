@@ -30,10 +30,10 @@ stocks:
 - ICICIPRULI
 - JBCHEPHARM
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 title: Listing of further issues of securities for 11 companies including HDFC Bank,
   ICICI Bank and others
 ---

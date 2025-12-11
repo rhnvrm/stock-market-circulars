@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MSFL
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
-- private-placement
 - marwadi-shares
-- bse-debt-segment
+- private-placement
 title: Listing of new debt securities of Marwadi Shares and Finance Limited
 ---
 

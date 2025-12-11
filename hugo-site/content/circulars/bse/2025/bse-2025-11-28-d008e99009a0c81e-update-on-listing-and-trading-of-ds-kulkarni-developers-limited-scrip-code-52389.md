@@ -28,13 +28,13 @@ source: bse
 stocks:
 - DSKULKARNI
 tags:
-- trading-resumption
+- capital-reduction
 - ibc-resolution-plan
 - minimum-public-shareholding
-- offer-for-sale
-- nclt-order
-- capital-reduction
-- preferential-allotment
+- nclt
+- ofs
+- preferential-issue
+- trading-resumption
 title: Update on listing and trading of DS Kulkarni Developers Limited (Scrip Code
   – 523890)
 ---

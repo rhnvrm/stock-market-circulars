@@ -26,12 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery
+- completed-proceedings
 - enforcement
 - illiquid-stocks
+- recovery
 - stock-options
-- recovery-certificate
-- completed-proceedings
 title: Completion of Recovery Certificate No. RC7968 of 2024 - Mani Marketing and
   Holdings Pvt. Ltd
 ---

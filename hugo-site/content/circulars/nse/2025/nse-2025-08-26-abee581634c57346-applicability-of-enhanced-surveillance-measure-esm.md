@@ -30,11 +30,9 @@ stocks:
 - AGSTRA
 - ORTINGLOBE
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- margin
+- surveillance
 - trade-for-trade
-- market-surveillance
 title: Enhanced Surveillance Measure (ESM) - Securities Addition and Stage Changes
 ---
 

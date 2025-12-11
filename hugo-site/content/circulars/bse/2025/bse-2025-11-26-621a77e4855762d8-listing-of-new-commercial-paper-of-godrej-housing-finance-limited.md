@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - godrej-housing-finance
-- private-placement
 - icici-bank
 - ipa
+- private-placement
 title: Listing of new Commercial Paper of Godrej Housing Finance Limited
 ---
 

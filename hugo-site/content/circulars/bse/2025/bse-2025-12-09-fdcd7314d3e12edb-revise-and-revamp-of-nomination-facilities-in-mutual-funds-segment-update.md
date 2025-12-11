@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
-- sebi-compliance
-- investor-protection
 - authentication
-- regulatory-requirement
+- investor-protection
+- mutual-fund
+- nomination
+- regulatory
+- sebi
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---
 

@@ -37,11 +37,10 @@ stocks:
 - RACHITPRNT
 - RESPONSEINFO
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-safety
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

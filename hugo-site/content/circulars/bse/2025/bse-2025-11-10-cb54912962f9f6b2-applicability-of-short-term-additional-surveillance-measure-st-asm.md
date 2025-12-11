@@ -41,11 +41,11 @@ stocks:
 - GKPPRINT
 - ONEGLOBAL
 tags:
-- surveillance
-- ST-ASM
-- trading-restrictions
+- asm-stage
 - market-operations
-- SME
+- sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

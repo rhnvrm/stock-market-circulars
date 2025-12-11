@@ -26,9 +26,9 @@ stocks:
 - JSWEL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - jsw-energy
+- private-placement
 title: Listing of new Commercial Paper of JSW Energy Limited
 ---
 

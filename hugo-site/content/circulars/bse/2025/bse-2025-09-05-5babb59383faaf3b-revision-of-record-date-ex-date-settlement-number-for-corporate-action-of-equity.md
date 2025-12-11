@@ -42,14 +42,13 @@ stocks:
 - RMDRIP
 - HISAR
 tags:
-- corporate-action
-- record-date
-- ex-date
-- settlement-holiday
-- dividend
 - bonus
+- corporate-action
+- dividend
+- record-date
 - rights-issue
-- stock-split
+- settlement-holiday
+- split
 title: Revision of Record Date - Ex-date, Settlement Number for Corporate Action of
   Equity Listed Companies due to change in Settlement Holiday from 05.09.2025 to 08.09.2025
 ---

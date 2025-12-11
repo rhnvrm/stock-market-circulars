@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NTPC
 tags:
-- debentures
-- suspension
-- redemption
-- ntpc
-- trading-halt
 - debt-securities
+- ncd
+- redemption
+- suspension
+- trading-halt
 title: Suspension of Trading in Debentures of NTPC LIMITED
 ---
 

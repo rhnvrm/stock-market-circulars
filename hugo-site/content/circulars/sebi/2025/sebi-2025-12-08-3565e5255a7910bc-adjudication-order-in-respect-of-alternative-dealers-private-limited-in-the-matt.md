@@ -28,15 +28,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- fraudulent-trading
-- pfutp-regulations
 - bse
-- reversal-trades
 - illiquid-options
+- investigation
+- market-operations
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Alternative Dealers Private Limited in the
   matter of trading in Illiquid Stock Options at BSE
 ---

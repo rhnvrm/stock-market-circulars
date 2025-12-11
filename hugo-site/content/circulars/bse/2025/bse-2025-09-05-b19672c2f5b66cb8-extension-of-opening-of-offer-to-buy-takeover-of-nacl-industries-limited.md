@@ -26,10 +26,9 @@ source: bse
 stocks:
 - NACL
 tags:
-- takeover
-- open-offer
-- acquisition-window
+- otb
 - schedule-extension
+- takeover
 title: Extension of Opening of Offer to Buy (Takeover) of NACL INDUSTRIES LIMITED
 ---
 

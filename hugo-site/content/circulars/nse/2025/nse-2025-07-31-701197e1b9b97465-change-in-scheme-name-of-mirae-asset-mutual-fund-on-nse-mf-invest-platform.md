@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
+- fund-of-funds
 - mirae-asset
-- fund-of-fund
-- nse-mf-invest
+- mutual-fund
+- name-change
+- trading-platform
 title: Change in scheme name of Mirae Asset Mutual Fund on NSE MF Invest platform
 ---
 

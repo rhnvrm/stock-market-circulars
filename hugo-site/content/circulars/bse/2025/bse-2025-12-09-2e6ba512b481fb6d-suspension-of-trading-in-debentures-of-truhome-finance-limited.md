@@ -28,12 +28,11 @@ source: bse
 stocks:
 - TRUHOME
 tags:
-- suspension
-- debentures
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- debt-market
+- suspension
 - truhome-finance
 title: Suspension of Trading in Debentures of TRUHOME FINANCE LIMITED
 ---

@@ -26,15 +26,14 @@ severity: low
 source: nse
 stocks: []
 tags:
+- choti-sip
+- investment-products
 - mutual-fund
-- systematic-investment-plan
+- retail-investor
 - sip
 - stp
 - swp
 - unifi-mutual-fund
-- investment-products
-- retail-investors
-- choti-sip
 title: Change in Minimum Number of Installments in Systematic Plans (SIP/STP/SWP)
   of UNIFI Mutual Fund Schemes
 ---

@@ -27,11 +27,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - defaulter
+- demand-notice
 - enforcement
 - fedders-electric
-- remittance-advice
+- recovery
 title: Remittance Advice against Sham Sunder Dhawan - Recovery Certificate No. 8821
   of 2025
 ---

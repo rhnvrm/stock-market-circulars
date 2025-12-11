@@ -26,7 +26,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- DIGJAM
+- DIGJAMLMTD
 - ECOBOARD
 - REVATI
 - SHAKTIPR
@@ -39,15 +39,14 @@ stocks:
 - BIJOYHANS
 - ASHOKAREF
 - HARMONY
-- ACEedutr
+- ACEEDUTR
 - OSCARGLO
 - GTECHIN
 tags:
-- gsm
+- compliance
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
-- compliance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

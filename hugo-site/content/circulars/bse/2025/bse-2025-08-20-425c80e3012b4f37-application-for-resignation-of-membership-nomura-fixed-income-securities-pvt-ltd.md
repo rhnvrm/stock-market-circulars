@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - membership
-- resignation
-- trading-member
 - nomura
 - objection-period
+- resignation
+- trading-member
 title: Application for Resignation of Membership - Nomura Fixed Income Securities
   Pvt. Ltd.
 ---

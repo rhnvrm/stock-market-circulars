@@ -26,11 +26,11 @@ source: nse
 stocks: []
 tags:
 - bank-guarantee
-- collateral
 - clearing-members
-- commodity-derivatives
-- risk-management
+- collateral
+- derivatives
 - net-worth-requirements
+- risk-management
 title: Revision in member wise bank wise limits and member wise limits prescribed
   for acceptance of Bank Guarantee towards collaterals
 ---

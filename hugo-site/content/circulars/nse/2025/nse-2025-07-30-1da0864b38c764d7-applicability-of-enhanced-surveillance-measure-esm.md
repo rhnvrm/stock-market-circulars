@@ -29,11 +29,10 @@ stocks:
 - TIMESGTY
 - VALIANTORG
 tags:
-- enhanced-surveillance
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
-- esm
 title: Enhanced Surveillance Measure (ESM) - Stage I Securities and Framework Updates
 ---
 

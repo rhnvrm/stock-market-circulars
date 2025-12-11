@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ARFL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - arka-fincap
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of ARKA FINCAP LIMITED
 ---
 

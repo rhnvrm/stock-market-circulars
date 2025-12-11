@@ -27,11 +27,10 @@ source: nse
 stocks:
 - NESTLEIND
 tags:
-- securities-lending-borrowing
-- position-limits
-- nestleind
-- slb-scheme
+- collateral
 - market-limits
+- position-limits
+- slb-scheme
 title: Revised MWPL, Participant, Institutional and Non Institutional Client Limits
   for NESTLEIND
 ---

@@ -38,7 +38,7 @@ stocks:
 - CURAA
 - DHARAN
 - EXCEL
-- IEL
+- INDXTRA
 - KAYA
 - MVKAGRO
 - NAVKARURB
@@ -64,11 +64,9 @@ stocks:
 - AGNI
 - AGROPHOS
 tags:
-- enhanced-surveillance
-- esm
+- segment-transfer
+- surveillance
 - trading-restrictions
-- market-surveillance
-- segment-change
 title: Enhanced Surveillance Measure (ESM) - Securities Shortlisted for Stages I and
   II
 ---

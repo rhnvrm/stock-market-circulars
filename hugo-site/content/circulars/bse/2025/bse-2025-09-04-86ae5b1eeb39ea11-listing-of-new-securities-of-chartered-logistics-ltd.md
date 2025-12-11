@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CHARTLOG
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- lock-in-period
 - chartered-logistics
+- conversion
+- equity
+- lock-in
+- preferential-issue
 title: Listing of new securities of Chartered Logistics Ltd - 2.09 crore equity shares
   from warrant conversion
 ---

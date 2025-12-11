@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ANNAPURNA_FINANCE
 tags:
-- debentures
-- redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
-- annapurna-finance
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Annapurna Finance Private Limited
 ---
 

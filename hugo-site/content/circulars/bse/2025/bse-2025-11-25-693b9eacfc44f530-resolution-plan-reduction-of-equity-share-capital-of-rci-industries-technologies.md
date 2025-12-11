@@ -29,13 +29,13 @@ stocks:
 - RCIIND
 tags:
 - capital-reduction
-- resolution-plan
 - nclt
-- trading-suspension
 - promoter-extinguishment
-- public-shareholding
-- corporate-restructuring
-- gsm
+- resolution-plan
+- scheme-of-arrangement
+- shareholding-pattern
+- surveillance
+- suspension
 title: Resolution Plan- Reduction of Equity Share Capital of RCI Industries & Technologies
   Limited
 ---

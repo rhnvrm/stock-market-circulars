@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- penalty-enforcement
-- trading-violations
+- adjudication
 - asset-attachment
-- adjudication-order
-- supreme-court
 - fraudulent-transfer
+- penalty-enforcement
+- recovery
+- supreme-court
+- trading-operations
 title: Order No. 002 of 2025 - Recovery Proceedings Against Shilpa Kotak in Sujit
   Karkera Trading Activity Matter
 ---

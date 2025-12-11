@@ -31,11 +31,11 @@ stocks:
 - MPKSTEELS
 - RUKMANIDEVI
 tags:
-- index
-- additions
+- addition
+- index-fund
 - ipo
-- sme
 - listing
+- sme
 title: Additions to the BSE Indices
 ---
 

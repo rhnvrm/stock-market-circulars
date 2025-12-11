@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analyst
-- adjudication-order
-- regulatory-violations
-- record-maintenance
+- adjudication
 - compliance
-- penalties
-- inspection
+- investigation
+- non-compliance
+- penalty
+- record-maintenance
+- research-analyst
 title: Adjudication Order in the matter of inspection of Amit Guruh Sachdeva – Research
   Analyst
 ---

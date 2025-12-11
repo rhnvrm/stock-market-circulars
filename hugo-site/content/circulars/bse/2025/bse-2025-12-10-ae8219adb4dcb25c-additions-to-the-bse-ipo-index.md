@@ -24,17 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544632'
-- '544633'
-- '544634'
+- MEESHO
+- VIDYAWIRES
+- AEQUS
 tags:
-- index
-- bse-ipo-index
-- new-listing
-- index-addition
-- meesho
-- vidya-wires
-- aequs
+- bse-index
+- index-change
+- index-fund
+- listing
 title: Additions to the BSE IPO Index
 ---
 

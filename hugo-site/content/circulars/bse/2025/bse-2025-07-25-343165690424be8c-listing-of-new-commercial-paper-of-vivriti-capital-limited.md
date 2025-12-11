@@ -26,11 +26,10 @@ stocks:
 - VCL
 tags:
 - commercial-paper
-- debt-segment
+- debt-securities
 - listing
 - private-placement
 - vivriti-capital
-- VCL
 title: Listing of new Commercial Paper of Vivriti Capital Limited
 ---
 

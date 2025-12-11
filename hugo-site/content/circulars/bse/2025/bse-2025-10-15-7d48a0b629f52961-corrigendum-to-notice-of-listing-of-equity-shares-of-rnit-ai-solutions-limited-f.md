@@ -28,12 +28,12 @@ source: bse
 stocks:
 - RNIT
 tags:
-- listing
-- equity-shares
-- trade-to-trade
-- xt-group
+- asm-stage
 - corrigendum
 - date-change
+- equity
+- listing
+- trade-to-trade
 title: Corrigendum to notice of Listing of Equity Shares of RNIT AI Solutions Limited
 ---
 

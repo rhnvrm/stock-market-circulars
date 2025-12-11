@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ZODIACVEN
 tags:
-- rights-issue
-- extension
-- equity-shareholders
 - application-deadline
-- zodiac-ventures
+- equity-shareholders
+- extension
+- rights-issue
 title: ZODIAC VENTURES LIMITED - Extension of Rights Issue Closing Date to 25th August
   2025
 ---

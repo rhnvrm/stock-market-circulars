@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - JAIGPOLYMERS
 tags:
-- rti-appeal
-- jaig-polymers
 - chit-fund
-- refund-process
 - investor-grievance
 - justice-talukdar-committee
+- refund-process
+- rti
 title: Appeal No. 6596 of 2025 filed by Soumitra Basak
 ---
 

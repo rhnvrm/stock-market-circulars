@@ -24,24 +24,24 @@ severity: medium
 source: bse
 stocks:
 - ABB
-- ADANI PORTS
-- ASHOK LEYLAND
+- ADANIPORTS
+- ASHOKLEY
 - BHARAT PETRO
-- FEDERAL BANK
-- FORCE MOTORS
-- HINDUSTAN UNILEVER
+- FEDERALBNK
+- FORCEMOT
+- HINDUNILVR
 - ITC
 - KOTAK MAHINDRA
-- MAHINDRA & MAHINDRA
+- M&M
 - NMDC
-- OIL INDIA
+- OIL
 - RELIANCE
 - STATE BANK
-- TATA MOTORS
+- TMCV
 tags:
-- demat-auction
-- settlement
+- demat
 - securities
+- settlement
 - trading
 title: Demat Auction Settlement No. 685
 ---

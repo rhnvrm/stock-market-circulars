@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CONCORDCS
 tags:
-- bonus-issue
-- equity-shares
-- record-date
 - allotment
+- bonus
 - concord-control-systems
-- trading-commencement
+- equity
+- record-date
+- trading-operations
 title: Bonus Issue of Concord Control Systems Limited - Record Date October 16, 2025
 ---
 

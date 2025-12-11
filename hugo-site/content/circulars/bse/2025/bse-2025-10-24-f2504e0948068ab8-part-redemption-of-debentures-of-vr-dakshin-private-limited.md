@@ -28,12 +28,12 @@ source: bse
 stocks:
 - VRDPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- reduced-face-value
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-change
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of VR DAKSHIN PRIVATE LIMITED
 ---
 

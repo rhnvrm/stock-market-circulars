@@ -28,12 +28,12 @@ source: bse
 stocks:
 - HARIGOVIND
 tags:
+- corporate-action
 - dematerialisation
-- trade-to-trade
 - group-change
-- market-lot-change
+- market-lot
 - settlement
-- corporate-actions
+- trade-to-trade
 title: Trading and Settlement of Trades in Dematerialised Securities of Hari Govind
   International Ltd
 ---

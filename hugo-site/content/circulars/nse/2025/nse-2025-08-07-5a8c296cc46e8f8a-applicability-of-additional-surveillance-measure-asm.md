@@ -27,12 +27,9 @@ stocks:
 - BGRENERGY
 - MIRCELECTR
 tags:
+- margin
 - surveillance
-- margin-requirements
 - trade-for-trade
-- asm
-- bgrenergy
-- mircelectr
 title: Additional Surveillance Measure (ASM) - Long Term Framework Implementation
 ---
 

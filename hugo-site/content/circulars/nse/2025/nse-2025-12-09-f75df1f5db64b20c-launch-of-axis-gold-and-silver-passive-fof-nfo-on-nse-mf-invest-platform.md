@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
 - axis-mutual-fund
-- gold-silver-fof
-- nse-mf-invest
 - debt-scheme
+- gold-silver-fof
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Axis Gold and Silver Passive FOF NFO on NSE MF Invest Platform
 ---
 

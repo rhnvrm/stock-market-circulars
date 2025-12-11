@@ -32,10 +32,8 @@ stocks:
 - REVATHI
 - GUJLEASE
 tags:
-- gsm
+- market-operations
 - surveillance
-- graded-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: GSM Framework - 7 Securities Moving to Stages I, II, and III
 ---

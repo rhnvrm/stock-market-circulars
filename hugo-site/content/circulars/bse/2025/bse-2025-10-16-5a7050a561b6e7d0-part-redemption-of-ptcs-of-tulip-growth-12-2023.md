@@ -27,12 +27,12 @@ source: bse
 stocks:
 - TG1223
 tags:
-- corporate-actions
+- corporate-action
+- face-value-reduction
+- interest-payment
+- ird-segment
 - ptc
 - redemption
-- interest-payment
-- face-value-reduction
-- ird-segment
 title: Part Redemption of PTCs of TULIP GROWTH 12 2023
 ---
 

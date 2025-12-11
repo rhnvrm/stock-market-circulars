@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- AGIINFRA
+- AGIIL
 tags:
-- isin-change
-- share-sub-division
-- corporate-action
-- equity-shares
 - agi-infra
+- corporate-action
+- equity
+- isin
+- share-sub-division
 title: New ISIN Number for AGI Infra Ltd Following Share Sub-Division
 ---
 

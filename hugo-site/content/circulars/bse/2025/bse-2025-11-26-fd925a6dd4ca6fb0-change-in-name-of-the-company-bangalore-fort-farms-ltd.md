@@ -26,12 +26,11 @@ source: bse
 stocks:
 - BANGALOREFORT
 tags:
-- name-change
+- certificate
 - corporate-action
-- certificate-of-incorporation
-- mca
 - grameva
-- bangalore-fort-farms
+- mca
+- name-change
 title: Change in Name of Bangalore Fort Farms Limited to Grameva Limited
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - ELIQUID
 tags:
-- etf
-- mutual-fund
-- listing
 - edelweiss-mutual-fund
+- etf
 - liquid-etf
+- listing
+- mutual-fund
 - nifty-1d-rate-index
-- new-listing
 title: Listing of Units Of Edelweiss Nifty 1D Rate Liquid ETF
 ---
 

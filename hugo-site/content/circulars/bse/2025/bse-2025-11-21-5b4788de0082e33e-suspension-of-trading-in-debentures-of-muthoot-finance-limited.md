@@ -27,14 +27,13 @@ source: bse
 stocks:
 - MUTHOOT
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
-- record-date
 - muthoot-finance
-- debt-segment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MUTHOOT FINANCE LIMITED
 ---
 

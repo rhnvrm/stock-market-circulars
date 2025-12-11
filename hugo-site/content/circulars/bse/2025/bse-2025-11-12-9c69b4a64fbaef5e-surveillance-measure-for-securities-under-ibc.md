@@ -29,13 +29,10 @@ stocks:
 - SABEVENT
 - AFENT
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
-- irp
 - insolvency-resolution-process
+- irp
+- surveillance
 title: Surveillance Measure for Securities under IBC - November 2025 Updates
 ---
 

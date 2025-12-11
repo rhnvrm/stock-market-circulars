@@ -41,7 +41,7 @@ stocks:
 tags:
 - price-band
 - surveillance
-- trading-parameters
+- trading-operations
 - volatility-control
 title: Changes in Price Band - 14 Scrips Revised Effective October 07, 2025
 ---

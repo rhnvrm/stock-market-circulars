@@ -27,11 +27,11 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- investment-adviser
-- regulatory-violations
-- penalties
 - compliance
-- inspection
+- investigation
+- investment-adviser
+- non-compliance
+- penalty
 title: Adjudication Order Against Capital Stroke Investment Services and Directors
   for Regulatory Violations
 ---

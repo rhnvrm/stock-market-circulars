@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comment
 - defrail-technologies
+- draft-document
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of DEFRAIL TECHNOLOGIES LIMITED
 ---
 

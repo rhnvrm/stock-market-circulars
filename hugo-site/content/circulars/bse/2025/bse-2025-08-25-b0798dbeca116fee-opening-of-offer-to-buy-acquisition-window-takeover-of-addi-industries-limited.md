@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ADDI
 tags:
-- takeover
-- open-offer
-- acquisition
 - addi-industries
-- sebi-sast
-- equity-shares
+- equity
+- sast
+- takeover
 title: Open Offer by Multiple Acquirers for Addi Industries Limited - Acquisition
   of 25.73% Equity Shares
 ---

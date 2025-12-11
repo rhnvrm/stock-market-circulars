@@ -27,12 +27,11 @@ source: nse
 stocks:
 - GICL
 tags:
-- early-pay-in
-- face-value-split
-- corporate-action
-- settlement
 - capital-market
-- GICL
+- corporate-action
+- early-pay-in
+- face-value-change
+- settlement
 title: Early Pay-in of Securities for Globe International Carriers Limited (GICL)
 ---
 

@@ -24,20 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '531673'
-- '544445'
-- '531364'
-- '522027'
-- '531259'
-- '530139'
-- '532124'
-- '539267'
-- '511559'
+- ANKIN
+- APL
+- EKANSH
+- ESHAMEDIA
+- KREONFIN
+- RELIABVEN
+- SAMSRITA
+- TEAMGTY
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 9 Securities Effective July 30, 2025
 ---
 

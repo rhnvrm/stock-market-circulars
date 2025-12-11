@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ASMTEC
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of New Securities of ASM Technologies Ltd - 549,698 Equity Shares
 ---
 

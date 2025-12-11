@@ -26,13 +26,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- information-disclosure
-- urban-infrastructure-trustees-ltd
-- scheme-wind-up
 - confidentiality
 - fiduciary-capacity
+- information-disclosure
+- rti
 - sat-appeal
+- scheme-wind-up
+- urban-infrastructure-trustees-ltd
 title: Appeal No. 6548 of 2025 filed by Bhavik Bhimjyani - RTI Application Denied
 ---
 

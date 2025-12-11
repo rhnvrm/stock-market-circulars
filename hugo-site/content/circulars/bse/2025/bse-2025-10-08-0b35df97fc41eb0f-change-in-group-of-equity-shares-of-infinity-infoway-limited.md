@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INFINITYINFOWAY
+- INFINITY
 tags:
 - group-change
-- segment-transfer
-- trade-for-trade
 - rolling-segment
+- segment-transfer
 - sme
-- infinity-infoway
+- trade-for-trade
 title: Change in Group of Equity Shares of Infinity Infoway Limited
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - COROMANDEL
 tags:
-- equity-shares
-- preferential-allotment
-- new-listing
-- lock-in-period
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Coromandel Engineering Company Limited
 ---
 

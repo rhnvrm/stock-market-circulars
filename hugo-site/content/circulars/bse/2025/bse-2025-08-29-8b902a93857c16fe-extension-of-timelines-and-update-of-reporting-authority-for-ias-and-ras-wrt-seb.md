@@ -26,13 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- investment-advisors
-- research-analysts
-- disability-rights
+- digital-accessibility
+- extension
+- investment-adviser
 - reporting-authority
-- timeline-extension
+- research-analyst
 title: Extension of Digital Accessibility Compliance Timelines for Investment Advisors
   and Research Analysts
 ---

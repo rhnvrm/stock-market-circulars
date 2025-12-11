@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KPIL
 tags:
-- takeover
-- settlement
-- acquisition
 - kolte-patil
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule for KOLTE-PATIL DEVELOPERS LTD Takeover Offer Extended
   to September 9, 2025
 ---

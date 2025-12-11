@@ -32,7 +32,7 @@ stocks:
 - SULA
 - FIVESTAR
 - EMUDHRA
-- ETHOS
+- ETHOSLTD
 - VENUS
 - ANAND
 - TEGA
@@ -44,12 +44,12 @@ stocks:
 - ERIS
 - STAR
 tags:
-- securities-lending-borrowing
-- position-limits
-- slbs
+- collateral
 - etf
 - market-limits
+- position-limits
 - september-2025
+- slbs
 title: Market Wide Position Limits for Securities Lending and Borrowing (SLBS) - September
   2025
 ---

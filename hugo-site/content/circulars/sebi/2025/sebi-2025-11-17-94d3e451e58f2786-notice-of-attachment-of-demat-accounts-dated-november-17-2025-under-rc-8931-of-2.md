@@ -28,13 +28,11 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
-- recovery-proceedings
-- demat-attachment
-- enforcement-action
-- recovery-certificate
-- prakash-constrowell
-- setubandhan-infrastructure
 - anup-karwa
+- attachment
+- enforcement
+- prakash-constrowell
+- recovery
 title: Notice of Attachment of Demat Accounts - RC 8931/2025 against Anup Karwa
 ---
 

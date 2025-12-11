@@ -28,13 +28,12 @@ source: nse
 stocks:
 - DENTALKART
 tags:
-- listing
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- warrant-conversion
-- preferential-allotment
-- sme-emerge
-- DENTALKART
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issues of Vasa Denticity Limited - 715,052 Equity Shares
   from Warrant Conversion
 ---

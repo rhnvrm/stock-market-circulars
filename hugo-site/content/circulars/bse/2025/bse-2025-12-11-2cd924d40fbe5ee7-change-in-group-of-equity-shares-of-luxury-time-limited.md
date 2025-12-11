@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- LUXURYTIME
+- LUXURY
 tags:
 - group-change
-- trade-for-trade
+- luxury-time-limited
 - rolling-segment
 - sme
-- luxury-time-limited
+- trade-for-trade
 title: Change in Group of Equity Shares of LUXURY TIME LIMITED
 ---
 

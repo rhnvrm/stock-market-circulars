@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bse-index
+- index-fund
 - mutual-fund
 - nfo
+- trading-platform
 - zerodha
-- bse-sensex
-- index-fund
-- nse-mf-invest
 title: Launch of Zerodha BSE SENSEX Index Fund NFO on NSE MF Invest Platform
 ---
 

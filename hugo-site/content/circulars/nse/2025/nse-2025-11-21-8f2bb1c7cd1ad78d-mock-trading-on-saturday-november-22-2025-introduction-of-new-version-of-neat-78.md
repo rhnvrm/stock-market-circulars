@@ -26,13 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
+- futures-options
 - mock-trading
-- neat-plus
-- software-upgrade
 - pre-open-session
-- futures-and-options
-- equity-derivatives
-- system-testing
+- system-update
+- trading-platform
 - version-migration
 title: Mock Trading Session on November 22, 2025 - NEAT+ 7.8.6 Release and Version
   7.8.5 Discontinuation Update

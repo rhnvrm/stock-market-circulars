@@ -26,15 +26,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- penalties
-- trading-limits
+- collateral
+- compliance
+- derivatives
+- penalty
 - position-limits
 - risk-management
-- compliance
-- equity-derivatives
-- currency-derivatives
-- securities-lending-borrowing
 - rrm-violation
+- trading-operations
 title: Consolidated Penalties for Trading Limit Violations and Position Limit Violations
   Across Segments
 ---

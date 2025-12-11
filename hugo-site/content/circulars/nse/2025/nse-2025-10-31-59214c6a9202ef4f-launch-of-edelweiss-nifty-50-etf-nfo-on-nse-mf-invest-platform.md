@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
-- nifty-50
 - edelweiss-mutual-fund
+- equity-scheme
+- etf
+- mutual-fund
+- nfo
+- nifty-50
 - nsemf-invest
-- equity-schemes
 title: Launch of Edelweiss Nifty 50 ETF NFO on NSE MF Invest Platform
 ---
 

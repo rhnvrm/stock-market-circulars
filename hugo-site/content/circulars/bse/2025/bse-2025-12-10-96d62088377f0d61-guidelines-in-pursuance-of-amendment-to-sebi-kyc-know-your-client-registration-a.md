@@ -27,14 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- kra
-- compliance
-- sebi-regulations
-- trading-restrictions
-- client-onboarding
 - aadhaar
+- compliance
+- kyc
 - ovd
+- regulatory-framework
+- trading-restrictions
 - ucc
 title: Guidelines in pursuance of amendment to SEBI KYC (Know Your Client) Registration
   Agency (KRA) Regulations, 2011

@@ -26,16 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
+- debt-securities
+- esop
+- lodr-regulation-31
+- regulatory-filing
 - shareholding-pattern
 - tata-motors
-- debt-securities
-- regulatory-filing
-- lodr-regulation-31
-- promoter-shareholding
-- public-shareholding
-- esop
 title: Update Regarding Debt Securities of Tata Motors Passenger Vehicles Ltd (Formerly
   Tata Motors Limited)
 ---

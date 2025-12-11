@@ -27,10 +27,10 @@ stocks:
 - SHLOKKA
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- trading-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of SHLOKKA DYES LIMITED
 ---
 

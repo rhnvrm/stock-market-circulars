@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
+- attachment
 - enforcement
-- bank-attachment
-- investment-advisor
+- investment-adviser
 - loftier-investment
+- recovery
 title: Notice of Attachment of Bank Account - RC No. 7760 of 2024 Against Loftier
   Investment Advisor and Research Pvt. Ltd. and Others
 ---

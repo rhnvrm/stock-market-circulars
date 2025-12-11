@@ -26,9 +26,8 @@ source: bse
 stocks:
 - STUDDS
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - studds-accessories
 title: Listing of Equity Shares of Studds Accessories Limited
 ---

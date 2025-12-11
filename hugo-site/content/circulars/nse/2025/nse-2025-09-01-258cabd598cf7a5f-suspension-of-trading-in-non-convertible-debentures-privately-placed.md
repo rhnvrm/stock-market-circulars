@@ -26,11 +26,11 @@ source: nse
 stocks:
 - PFC
 tags:
-- suspension
-- non-convertible-debentures
+- debt-securities
+- ncd
 - privately-placed
 - redemption
-- debt-market
+- suspension
 title: Suspension of Trading in Power Finance Corporation Limited Non-Convertible
   Debentures
 ---

@@ -35,10 +35,10 @@ stocks:
 - SIEMENS
 - UPL
 tags:
-- demat-auction
+- auction
+- demat
 - settlement
 - trading
-- auction
 title: Demat Auction Settlement No. 688
 ---
 

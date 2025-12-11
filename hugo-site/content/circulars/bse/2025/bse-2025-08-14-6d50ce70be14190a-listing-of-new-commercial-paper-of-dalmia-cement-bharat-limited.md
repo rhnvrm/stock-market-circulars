@@ -26,10 +26,10 @@ stocks:
 - DALMIABHA
 tags:
 - commercial-paper
-- private-placement
-- debt-listing
 - dalmia-cement
+- debt-securities
 - idbi-bank
+- private-placement
 title: Listing of new Commercial Paper of Dalmia Cement (Bharat) Limited
 ---
 

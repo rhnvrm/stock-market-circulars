@@ -25,12 +25,12 @@ source: bse
 stocks:
 - EIKO
 tags:
-- forfeiture
-- equity-shares
-- partly-paid-up
-- non-payment
 - allotment
 - call-money
+- equity
+- forfeiture
+- non-payment
+- partly-paid-up
 title: Forfeiture of Equity Shares of Eiko Lifesciences Ltd
 ---
 

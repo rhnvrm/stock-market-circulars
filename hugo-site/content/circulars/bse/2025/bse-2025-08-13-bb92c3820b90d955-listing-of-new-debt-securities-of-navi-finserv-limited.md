@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- navi-finserv
-- debentures
 title: Listing of new debt securities of Navi Finserv Limited
 ---
 

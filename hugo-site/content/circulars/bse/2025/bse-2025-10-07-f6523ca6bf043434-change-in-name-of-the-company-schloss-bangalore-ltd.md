@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SCHLOSS
 tags:
-- name-change
-- certificate-of-incorporation
+- certificate
 - corporate-action
-- hotels
 - hospitality
+- hotels
+- name-change
 title: Change in Name - SCHLOSS BANGALORE LIMITED to LEELA PALACES HOTELS & RESORTS
   LIMITED
 ---

@@ -25,10 +25,9 @@ source: nse
 stocks:
 - PAVNAIND
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
-- PAVNAIND
+- equity
+- face-value-change
 title: Face Value Split - Pavna Industries Limited (PAVNAIND)
 ---
 

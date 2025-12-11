@@ -26,12 +26,11 @@ source: bse
 stocks:
 - PURVAOAK
 tags:
+- bond
 - debt-securities
+- isin
 - ncd
-- purva-oak
 - trading-terms
-- isin-change
-- secured-bonds
 title: Update Regarding Debt Securities of Purva Oak Private Limited - Revised Terms
   Effective August 25, 2025
 ---

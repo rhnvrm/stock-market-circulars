@@ -27,12 +27,11 @@ source: nse
 stocks:
 - MUNISH
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- surveillance-segment
 title: Listing of Equity Shares of Munish Forge Limited (SME IPO)
 ---
 

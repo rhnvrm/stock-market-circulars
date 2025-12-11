@@ -26,11 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- franklin-mutual-fund
+- mutual-fund
 - nfo
 - smart-switch
-- franklin-mutual-fund
-- bse-star-mf
 title: Activation of SMART Switch Feature under Franklin India Multi-Factor Fund NFO
   on BSE StAR MF Platform
 ---

@@ -30,13 +30,9 @@ stocks:
 - MAXGROW
 - AXIS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
 - irp
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under IBC - October 2025 Update
 ---

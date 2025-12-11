@@ -27,10 +27,8 @@ stocks:
 - CES
 tags:
 - delisting
-- voluntary-delisting
-- trading-discontinuation
 - exit-option
-- CES
+- trading-discontinuation
 title: Discontinuation of Trading and Delisting of Equity shares of CES Limited
 ---
 

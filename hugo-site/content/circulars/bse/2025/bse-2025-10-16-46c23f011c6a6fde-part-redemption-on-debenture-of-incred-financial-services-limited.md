@@ -29,13 +29,12 @@ source: bse
 stocks:
 - IFSL
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
-- non-convertible-debentures
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption on Debenture of INCRED FINANCIAL SERVICES LIMITED
 ---
 

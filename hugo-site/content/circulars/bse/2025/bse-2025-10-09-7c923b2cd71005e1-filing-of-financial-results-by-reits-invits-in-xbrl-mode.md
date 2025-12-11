@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- reits
-- invits
-- xbrl
+- compliance
+- disclosure
 - financial-results
-- listing-compliance
+- invit
+- reit
 - sebi-master-circular
-- disclosure-requirements
+- xbrl
 title: Filing of Financial Results by REITs & InvITs in XBRL Mode
 ---
 

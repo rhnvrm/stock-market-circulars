@@ -29,13 +29,12 @@ source: sebi
 stocks:
 - GENENG
 tags:
-- enforcement
-- recovery-certificate
 - attachment-of-assets
 - bank-accounts
-- demat-accounts
-- recovery-proceedings
+- demat
+- enforcement
 - generic-engineering
+- recovery
 title: Notice of Attachment dated 27.10.2025 issued under RC No. 8915 of 2025 drawn
   against Saurabh Ashok Shinde in the matter of Generic Engineering Construction and
   Project Limited

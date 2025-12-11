@@ -24,16 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544494'
-- '544495'
+- GLOBTIER
+- NISMGMT
 tags:
-- index
-- sme-ipo
-- globtier-infotech
+- index-change
+- index-fund
 - nis-management
-- '544494'
-- '544495'
-- index-addition
+- sme
 title: Additions to the BSE SME IPO Index - GLOBTIER INFOTECH and NIS MANAGEMENT
 ---
 

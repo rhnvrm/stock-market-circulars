@@ -26,10 +26,9 @@ stocks:
 - DKGFSPL
 tags:
 - debt-securities
+- further-issue
 - listing
 - private-placement
-- dkgfspl
-- new-issuance
 title: Listing of new debt securities of DVARA KSHETRIYA GRAMIN FINANCIAL SERVICES
   PRIVATE LIMITED
 ---

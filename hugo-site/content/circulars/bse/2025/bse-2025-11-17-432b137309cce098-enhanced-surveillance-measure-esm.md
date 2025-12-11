@@ -30,10 +30,8 @@ stocks:
 - MRUGESH
 - SOMATEX
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
-- market-regulation
 - trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective November
   18, 2025

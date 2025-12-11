@@ -26,12 +26,10 @@ source: bse
 stocks:
 - MODERNINSUL
 tags:
+- asm-stage
+- equity
 - group-change
-- equity-shares
-- trading-transfer
-- modern-insulators
-- x-group
-- xt-group
+- trading
 title: Change in Group of Equity Shares of MODERN INSULATORS LTD.
 ---
 

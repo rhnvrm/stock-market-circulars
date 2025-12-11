@@ -26,10 +26,10 @@ stocks:
 - IFPL
 tags:
 - commercial-paper
-- listing
-- debt-instruments
-- private-placement
+- debt-securities
 - infina-finance
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Infina Finance Private Limited
 ---
 

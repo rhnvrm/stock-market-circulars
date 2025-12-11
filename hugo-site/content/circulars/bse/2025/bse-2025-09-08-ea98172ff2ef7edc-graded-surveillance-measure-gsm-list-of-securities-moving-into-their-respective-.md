@@ -25,16 +25,15 @@ severity: medium
 source: bse
 stocks:
 - VENLON
-- SCAGROTECH
+- SCAGRO
 - ACEENGI
 - NOIDATOLL
 - NIVAKA
 tags:
-- gsm
+- compliance
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- compliance
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

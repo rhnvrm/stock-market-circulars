@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ILFS
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- corporate-actions
-- ilfs
+- suspension
 title: Suspension of Trading in Debt Securities of Infrastructure Leasing and Financial
   Services Limited
 ---

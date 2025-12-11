@@ -27,12 +27,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- mutual-funds
-- expense-ratio
-- regulatory-violation
 - compliance
+- expense-ratio
+- mutual-fund
 - navi-mutual-fund
+- non-compliance
+- settlement-order
 - ter-limits
 title: Settlement Order in the matter of Navi Mutual Fund
 ---

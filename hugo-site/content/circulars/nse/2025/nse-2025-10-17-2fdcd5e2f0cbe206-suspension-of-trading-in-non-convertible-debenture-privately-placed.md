@@ -27,11 +27,10 @@ source: nse
 stocks:
 - TATACAPITALHF
 tags:
-- debentures
-- suspension
-- debt-market
+- debt-securities
 - ncd
 - redemption
+- suspension
 - tata-capital-housing-finance
 title: Suspension of Trading in Non-Convertible Debentures of Tata Capital Housing
   Finance Limited

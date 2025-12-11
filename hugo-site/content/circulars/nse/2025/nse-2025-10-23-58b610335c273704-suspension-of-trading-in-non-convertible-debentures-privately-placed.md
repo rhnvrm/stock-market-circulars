@@ -28,12 +28,11 @@ stocks:
 - L&TFH
 - LT
 tags:
-- suspension
-- non-convertible-debentures
-- redemption
-- debt-market
-- trading-suspension
+- debt-securities
+- ncd
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

@@ -41,12 +41,12 @@ stocks:
 - ONESOURCE
 - TRACXN
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
-- further-issue
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - 14 Companies
 ---
 

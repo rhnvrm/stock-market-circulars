@@ -25,12 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
 - esop
-- esos
-- employee-stock-options
 - listing
 - securities
-- equity
 title: Listing of further securities issued by the companies under ESOP/ESOS
 ---
 

@@ -70,7 +70,7 @@ stocks:
 - SONACOMS
 - TATACHEM
 - TATAINVEST
-- TATAMOTORS
+- TMCV
 - TATASTEEL
 - TECHM
 - TEJASNTWK
@@ -79,10 +79,10 @@ stocks:
 - TORNTPOWER
 - UTKARSH
 tags:
-- demat-auction
-- settlement
-- securities-auction
+- demat
 - market-operations
+- securities-auction
+- settlement
 title: Demat Auction Settlement No. 735
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544446'
+- ADVENTHTL
 tags:
-- group-change
-- equity-shares
-- trading
 - advent-hotels
+- equity
 - group-b
+- group-change
+- trading
 title: Change in Group of Equity Shares of Advent Hotels International Limited
 ---
 

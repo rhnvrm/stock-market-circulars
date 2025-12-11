@@ -37,13 +37,13 @@ stocks:
 - IGPETRO
 - INDIAGLC
 tags:
-- dividend
 - book-closure
-- record-date
+- commercial-paper
+- dividend
 - equity
-- debentures
-- commercial-papers
-- stock-split
+- ncd
+- record-date
+- split
 title: Daily Bulletin - Book Closure, Record Dates and Dividend Announcements
 ---
 

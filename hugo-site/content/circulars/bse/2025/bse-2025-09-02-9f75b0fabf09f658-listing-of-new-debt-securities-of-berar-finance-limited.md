@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '977068'
+- 1095BRFL27
 tags:
-- debt-securities
-- private-placement
 - berar-finance
+- debt-securities
 - listing
-- '977068'
+- private-placement
 title: Listing of new debt securities of Berar Finance Limited
 ---
 

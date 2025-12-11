@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MADHUSUDAN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- madhusudan-securities
+- preferential-issue
 title: Listing of New Securities of Madhusudan Securities Ltd
 ---
 

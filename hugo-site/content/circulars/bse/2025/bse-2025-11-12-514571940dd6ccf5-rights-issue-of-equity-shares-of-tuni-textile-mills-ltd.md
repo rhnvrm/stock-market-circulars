@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TUNITEXT
 tags:
-- rights-issue
-- equity-shares
-- record-date
 - corporate-action
-- tuni-textile
+- equity
+- record-date
+- rights-issue
 title: Rights Issue of Equity Shares of TUNI TEXTILE MILLS LTD.
 ---
 

@@ -27,17 +27,17 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- allotment
+- clearing
 - debt-securities
-- liquidity-window
-- put-option
-- trading-mechanism
-- sebi-circular
-- operational-guidelines
-- stock-exchange
 - early-pay-in
-- allocation
+- liquidity-window
+- operational-guidelines
+- put-option
 - rta
-- clearing-member
+- sebi
+- stock-exchange
+- trading-operations
 title: Operational Guidelines of Liquidity Window Facility for Investors in Debt Securities
   through Stock Exchange Mechanism
 ---

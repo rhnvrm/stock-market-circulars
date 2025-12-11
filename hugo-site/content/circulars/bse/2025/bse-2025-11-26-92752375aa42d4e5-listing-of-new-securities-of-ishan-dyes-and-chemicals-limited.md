@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ISHANDYE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- new-securities
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Ishan Dyes and Chemicals Limited
 ---
 

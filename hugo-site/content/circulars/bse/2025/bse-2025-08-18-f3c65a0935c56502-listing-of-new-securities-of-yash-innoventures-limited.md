@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '523650'
+- YASHINNO
 tags:
+- equity
 - listing
-- equity-shares
-- amalgamation
-- yash-innoventures
+- scheme-of-arrangement
 - yash-shelters
 title: Listing of new securities of Yash Innoventures Limited
 ---

@@ -27,13 +27,12 @@ source: nse
 stocks: []
 tags:
 - compliance
-- accessibility
-- disabilities-act
-- timeline-extension
+- digital-accessibility
 - digital-platforms
-- investment-advisors
-- research-analysts
-- audit-requirements
+- extension
+- investment-adviser
+- research-analyst
+- system-audit
 title: Extension of timelines w.r.t to SEBI Circular - Rights of Persons with Disabilities
   Act, 2016 and Rules made there under - Mandatory Compliance by all Regulated Entities
 ---

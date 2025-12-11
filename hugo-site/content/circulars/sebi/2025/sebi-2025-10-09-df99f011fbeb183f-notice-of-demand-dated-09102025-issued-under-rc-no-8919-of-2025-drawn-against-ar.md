@@ -30,12 +30,11 @@ source: sebi
 stocks:
 - GENENG
 tags:
-- recovery-certificate
-- notice-of-demand
-- enforcement-action
-- recovery-proceedings
+- demand-notice
+- enforcement
 - generic-engineering
 - individual-liability
+- recovery
 title: Notice of Demand issued under RC No. 8919 of 2025 against Arun Ramchandra Gole
   - Generic Engineering Construction and Projects Limited
 ---

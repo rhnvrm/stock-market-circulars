@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - VKSPROJECT
 tags:
-- recovery-certificate
 - completion
 - enforcement
-- vks-project-limited
+- recovery
 title: Certificate of Completion dated 28.08.2025 issued under RC No. 8448 of 2024
   drawn against Nelesh Devendra Vora in the matter of VKS Project Limited
 ---

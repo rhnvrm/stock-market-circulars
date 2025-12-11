@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - SATYAMCOMP
 tags:
-- recovery-certificate
+- corporate-fraud
 - demand-notice
 - enforcement
-- satyam-computer-services
-- corporate-fraud
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8943 of 2025 - B. Suryanarayana
   Raju (Satyam Computer Services Ltd)
 ---

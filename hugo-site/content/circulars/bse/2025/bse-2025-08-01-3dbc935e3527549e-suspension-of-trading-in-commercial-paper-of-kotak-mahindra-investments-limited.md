@@ -27,10 +27,10 @@ stocks:
 - KOTAKINVEST
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
 - debt-securities
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

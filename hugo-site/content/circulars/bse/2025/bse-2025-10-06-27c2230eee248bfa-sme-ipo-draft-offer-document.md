@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme
+- draft-document
+- icdr
 - ipo
-- draft-offer-document
 - public-comments
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document for KWICK FORENSIC SOLUTIONS LIMITED
 ---
 

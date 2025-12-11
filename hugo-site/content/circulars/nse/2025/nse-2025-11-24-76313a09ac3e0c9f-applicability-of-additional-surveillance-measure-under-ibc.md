@@ -32,12 +32,9 @@ stocks:
 - JPASSOCIAT
 - SEYAIND
 tags:
-- surveillance
-- asm
-- ibc
+- insolvency
 - insolvency-and-bankruptcy-code
-- additional-surveillance-measure
-- market-surveillance
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

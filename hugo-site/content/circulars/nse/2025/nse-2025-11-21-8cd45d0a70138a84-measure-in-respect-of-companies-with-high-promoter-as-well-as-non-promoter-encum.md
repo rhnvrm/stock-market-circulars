@@ -29,12 +29,12 @@ stocks:
 - BLKASHYAP
 - NRAIL
 tags:
-- surveillance
 - encumbrance
-- margin-requirements
-- sebi-sast
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 - trading-restrictions
-- promoter-holdings
 title: High Promoter and Non-Promoter Encumbrance Measure - November 2025 Update
 ---
 

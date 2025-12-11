@@ -29,11 +29,9 @@ stocks:
 - IDEALTECHO
 - MIRCELECTR
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Short-Term Additional Surveillance Measure (ST-ASM) Framework Updates - July
   30, 2025
 ---

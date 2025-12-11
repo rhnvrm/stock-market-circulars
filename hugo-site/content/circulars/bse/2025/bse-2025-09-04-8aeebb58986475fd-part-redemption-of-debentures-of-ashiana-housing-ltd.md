@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASHIANA
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Ashiana Housing Ltd - Reduced Face Value to
   Rs. 733,484.91
 ---

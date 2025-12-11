@@ -26,9 +26,9 @@ stocks:
 - IHFCL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - icici-home-finance
+- private-placement
 title: Listing of new Commercial Paper of ICICI Home Finance Company Limited
 ---
 

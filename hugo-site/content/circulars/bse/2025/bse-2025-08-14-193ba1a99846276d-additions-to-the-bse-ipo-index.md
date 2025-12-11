@@ -24,10 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544479'
-- '544480'
+- ALLTIME
+- JSWCEMENT
 tags:
-- index-addition
+- index-change
 - ipo-index
 - listing
 - market-operations

@@ -24,11 +24,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- remittance-order
-- recovery-certificate
-- investment-advisory
-- unregistered-services
+- demand-notice
 - enforcement
+- investment-adviser
+- recovery
+- unregistered-services
 title: 'Remittance Order dated 09.09.2025 issued under RC No. 8826/2025 drawn against
   Mr. Manish Bhardwaj (PAN: CEUPB0805G) in the matter of Unregistered Investment Advisory
   Services'

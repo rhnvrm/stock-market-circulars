@@ -31,17 +31,16 @@ stocks:
 - GBLOGISTICS
 - KANUNGOFIN
 - SHREEHCHEM
-- SPRIGHTAGRO
+- SPRIGHT
 - CONTAINE
 - KAIROSOFT
 - PANTHINFIN
 - SHIVAGRICO
 - TELOGICA
 tags:
-- st-asm
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
-- market-regulation
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

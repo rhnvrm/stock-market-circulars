@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MANGAL
 tags:
-- ipo
-- anchor-investors
-- equity-shares
-- allocation
-- public-issue
+- allotment
+- anchor-investor
 - book-building
+- equity
+- ipo
+- public-issue
 title: Public Issue of MANGAL ELECTRICAL INDUSTRIES LIMITED - Allocation to Anchor
   Investors
 ---

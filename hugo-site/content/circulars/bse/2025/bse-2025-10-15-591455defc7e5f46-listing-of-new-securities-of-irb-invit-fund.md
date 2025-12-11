@@ -27,12 +27,10 @@ source: bse
 stocks:
 - IRBINVIT
 tags:
+- invit
 - listing
 - new-securities
-- qualified-institutional-placement
 - qip
-- invit
-- infrastructure-investment-trust
 - units
 title: Listing of New Securities of IRB InvIT Fund - Qualified Institutional Placement
 ---

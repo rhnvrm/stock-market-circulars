@@ -27,13 +27,13 @@ source: bse
 stocks:
 - KANAKADURGA
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- reduced-face-value
 - corporate-action
-- debt-segment
+- debt-securities
+- face-value-change
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Kanakadurga Finance Limited
 ---
 

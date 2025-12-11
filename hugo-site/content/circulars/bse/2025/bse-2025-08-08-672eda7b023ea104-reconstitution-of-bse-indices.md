@@ -31,15 +31,14 @@ stocks:
 - BRAINBEES
 - UNICOMMERCE
 - AELEA
-- THREEMPAPERBOARDS
+- THREEMPAPE
 - VVIPINFRA
 - CLINITECH
-- KIZIAPPARELS
-- AFCOMHOLDINGS
+- KIZI
+- AFCOM
 tags:
-- index-reconstitution
-- bse-ipo-index
-- bse-sme-ipo-index
+- bse-index
+- index-change
 - stock-exclusion
 title: Reconstitution of BSE Indices - Monthly Updates for BSE IPO and BSE SME IPO
   Indices

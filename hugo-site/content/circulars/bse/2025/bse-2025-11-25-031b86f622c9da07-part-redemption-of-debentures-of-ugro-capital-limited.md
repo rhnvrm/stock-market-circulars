@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- UGROcap
+- UGROCAP
 tags:
+- corporate-action
 - debt-securities
-- debentures
-- part-redemption
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
-- non-convertible-debentures
+- redemption
 title: Part Redemption of Debentures of UGRO CAPITAL LIMITED
 ---
 

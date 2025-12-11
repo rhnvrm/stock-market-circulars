@@ -26,22 +26,21 @@ severity: medium
 source: bse
 stocks:
 - AAPLUSTRALINK
-- ARIGATOUNIVERSE
+- ARIGATO
 - FABTECH
 - SARUPIND
 - SHIVTEXCHEM
-- AMEENJIRUBBER
+- AMEENJI
 - CHANDNIMACH
 - GLOBALVECT
 - ONIXSOLAR
-- RACHITPRINTS
+- RACHIT
 - RESPONSEINF
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- st-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

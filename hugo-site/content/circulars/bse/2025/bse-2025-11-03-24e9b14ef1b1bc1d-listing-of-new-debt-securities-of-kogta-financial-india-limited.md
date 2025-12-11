@@ -29,10 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- kogta-financial
+- ncd
 - private-placement
-- debentures
-- new-listing
 title: Listing of New Debt Securities of Kogta Financial (India) Limited
 ---
 

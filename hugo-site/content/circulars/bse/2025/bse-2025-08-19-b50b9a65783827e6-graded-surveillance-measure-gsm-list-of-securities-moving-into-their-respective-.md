@@ -35,11 +35,10 @@ stocks:
 - RAYMEDLAB
 - GOLDCARPET
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - compliance
 - market-operations
+- surveillance
+- trading-restrictions
 title: GSM Framework Updates - 10 Securities Move to Different Surveillance Stages
 ---
 

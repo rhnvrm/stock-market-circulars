@@ -26,15 +26,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- AURUMPROPTECH
+- AURUM
 tags:
+- aurumproptech
+- conversion
+- equity
 - listing
 - new-securities
-- equity-shares
-- rights-issue
-- conversion
 - partly-paid-to-fully-paid
-- AURUMPROPTECH
+- rights-issue
 title: Listing of New Securities of Aurum PropTech Ltd
 ---
 

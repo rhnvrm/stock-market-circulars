@@ -26,12 +26,10 @@ source: sebi
 stocks:
 - PARICHAY
 tags:
-- recovery
 - attachment
-- enforcement
-- parichay-investment
 - compliance
-- debt-recovery
+- enforcement
+- recovery
 title: Notices of Attachment dated 29.08.2025 issued in Recovery Certificate No. 8847
   of 2025 issued against Sanjay Jethalal Soni, Krupa Sanjay Soni and J M Soni Consultancy
   in the matter of Parichay Investment Limited

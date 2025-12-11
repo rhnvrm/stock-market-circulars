@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl-refund
 - information-access
 - investor-grievance
 - lodha-committee
+- pacl-refund
+- rti
 title: Appeal No. 6516 of 2025 filed by Vishal Bansal - RTI Appeal regarding PACL
   Refund Portal Information
 ---

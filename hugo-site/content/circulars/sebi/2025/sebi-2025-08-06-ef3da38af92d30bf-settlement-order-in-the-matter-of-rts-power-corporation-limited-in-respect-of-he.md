@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - RTS
 tags:
-- settlement
-- enforcement
-- trading-violations
-- pay-in-obligations
 - debarment
-- fraudulent-practices
+- enforcement
+- investigation
+- pay-in-obligations
+- settlement
+- trading-operations
 title: Settlement Order - Hetal Rajesh Patel in RTS Power Corporation Limited Matter
 ---
 

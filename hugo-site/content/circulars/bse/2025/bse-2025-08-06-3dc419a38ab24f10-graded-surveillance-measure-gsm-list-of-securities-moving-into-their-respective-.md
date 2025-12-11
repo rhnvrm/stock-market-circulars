@@ -29,11 +29,10 @@ stocks:
 - GSL
 - HFL
 tags:
-- gsm
+- enhanced-monitoring
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
-- enhanced-monitoring
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

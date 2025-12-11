@@ -25,12 +25,12 @@ source: bse
 stocks:
 - AMANTA
 tags:
-- public-issue
-- anchor-investors
-- equity-shares
+- allotment
+- anchor-investor
+- equity
 - ipo
-- allocation
-- mutual-funds
+- mutual-fund
+- public-issue
 title: Public Issue of AMANTA HEALTHCARE LIMITED - Allocation to Anchor Investors
 ---
 

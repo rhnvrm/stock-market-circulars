@@ -27,12 +27,12 @@ source: nse
 stocks: []
 tags:
 - auction
-- internal-shortage
-- settlement
+- auction-mechanism
 - capital-market
 - clearing
 - close-out
-- auction-mechanism
+- internal-shortage
+- settlement
 title: 'Auction for Internal Shortage - Update: Close-out Process for Unsuccessful
   Auctions'
 ---

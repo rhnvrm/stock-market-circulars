@@ -28,14 +28,12 @@ source: nse
 stocks:
 - DIGJAMLMTD
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-3
-- trade-for-trade
-- surveillance
 - additional-surveillance-deposit
 - asd
 - price-band
+- stage-3
+- surveillance
+- trade-for-trade
 - trading-restrictions
 title: DIGJAM Limited Moved to Stage III of Graded Surveillance Measure (GSM)
 ---

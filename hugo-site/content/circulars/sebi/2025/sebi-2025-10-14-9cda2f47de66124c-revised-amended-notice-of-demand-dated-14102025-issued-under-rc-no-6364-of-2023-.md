@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-proceedings
-- demand-notice
-- refund-order
 - collective-investment-scheme
+- demand-notice
 - dolphin-universal
+- enforcement
+- recovery
+- refund-order
 title: Revised Notice of Demand for Rs. 2.99 Crore Against Dolphin Universal Rural
   Development Limited and Associates
 ---

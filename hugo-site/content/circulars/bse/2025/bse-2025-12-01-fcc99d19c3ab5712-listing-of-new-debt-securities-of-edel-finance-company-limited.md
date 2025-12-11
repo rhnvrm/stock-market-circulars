@@ -26,11 +26,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
 - edel-finance
-- debentures
-- new-listing
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Edel Finance Company Limited
 ---
 

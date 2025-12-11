@@ -25,13 +25,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- market-manipulation
 - debarment
-- sebi-order
-- zee-business
-- stock-recommendations
-- trading-violations
 - guest-experts
+- market-operations
+- sebi-order
+- stock-recommendations
+- trading-operations
+- zee-business
 title: 'SEBI Order: Two-year debarment for entities involved in Zee Business stock
   recommendations trading'
 ---

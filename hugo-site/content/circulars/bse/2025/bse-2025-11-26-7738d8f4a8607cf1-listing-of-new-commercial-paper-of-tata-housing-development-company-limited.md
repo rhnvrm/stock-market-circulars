@@ -28,10 +28,10 @@ stocks:
 - THDC
 tags:
 - commercial-paper
-- debt-listing
-- tata-housing
+- debt-securities
 - private-placement
 - short-term-debt
+- tata-housing
 title: Listing of new Commercial Paper of Tata Housing Development Company Limited
 ---
 

@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- derivatives
+- extension
 - liquidity-enhancement-scheme
 - silver-options
-- commodity-derivatives
 - trading-scheme
-- extension
 title: Extension of Liquidity Enhancement Scheme (LES) on Silver Options on Goods
 ---
 

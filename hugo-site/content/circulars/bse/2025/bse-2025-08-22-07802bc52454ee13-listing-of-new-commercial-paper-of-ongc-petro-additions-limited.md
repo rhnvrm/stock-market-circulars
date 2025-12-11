@@ -26,10 +26,10 @@ stocks:
 - OPAL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icici-bank
 - ongc-petro
 - private-placement
-- icici-bank
 title: Listing of new Commercial Paper of ONGC Petro additions Limited
 ---
 

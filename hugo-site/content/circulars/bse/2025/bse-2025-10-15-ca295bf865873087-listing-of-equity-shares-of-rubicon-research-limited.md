@@ -26,10 +26,10 @@ source: bse
 stocks:
 - RUBICON
 tags:
-- equity-listing
-- new-listing
-- ipo
 - company-related
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of RUBICON RESEARCH LIMITED
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VIVOBIO
 tags:
+- conversion
+- equity
 - listing
-- new-securities
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of new securities of Vivo Bio tech Ltd.
 ---
 

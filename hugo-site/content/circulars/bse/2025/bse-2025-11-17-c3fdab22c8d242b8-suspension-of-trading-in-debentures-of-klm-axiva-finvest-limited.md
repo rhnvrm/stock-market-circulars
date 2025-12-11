@@ -28,14 +28,13 @@ source: bse
 stocks:
 - KLMAXIVA
 tags:
-- debentures
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
 - suspension
 - trading-halt
-- non-convertible-debentures
-- redemption
-- interest-payment
-- record-date
-- debt-market
 title: Suspension of Trading in Debentures of KLM AXIVA FINVEST LIMITED
 ---
 

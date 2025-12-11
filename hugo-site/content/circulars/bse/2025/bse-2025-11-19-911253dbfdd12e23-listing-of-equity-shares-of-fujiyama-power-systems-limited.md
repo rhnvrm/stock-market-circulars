@@ -27,11 +27,10 @@ source: bse
 stocks:
 - UTLSOLAR
 tags:
-- listing
-- equity-shares
-- new-listing
-- ipo
+- equity
 - fujiyama-power-systems
+- ipo
+- listing
 title: Listing of Equity Shares of Fujiyama Power Systems Limited
 ---
 

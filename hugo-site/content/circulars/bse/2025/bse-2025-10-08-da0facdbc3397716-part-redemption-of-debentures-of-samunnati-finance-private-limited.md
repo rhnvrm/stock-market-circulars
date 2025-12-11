@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SFPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
 - debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 - samunnati-finance
 title: Part Redemption of Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---

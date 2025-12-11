@@ -27,11 +27,11 @@ stocks:
 - STYLAM
 tags:
 - clarification
-- media-report
-- acquisition
 - disclosure
+- media-report
 - regulation-30
 - stylam-industries
+- takeover
 title: Stylam Industries Clarification on AICA Kogyo Acquisition News Report
 ---
 

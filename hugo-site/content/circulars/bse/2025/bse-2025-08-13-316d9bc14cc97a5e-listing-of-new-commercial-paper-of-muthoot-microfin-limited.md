@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MUTHOOTMICROFIN
+- MUTHOOTMF
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- muthoot-microfin
+- debt-securities
 - federal-bank
+- muthoot-microfin
+- private-placement
 title: Listing of New Commercial Paper of Muthoot Microfin Limited
 ---
 

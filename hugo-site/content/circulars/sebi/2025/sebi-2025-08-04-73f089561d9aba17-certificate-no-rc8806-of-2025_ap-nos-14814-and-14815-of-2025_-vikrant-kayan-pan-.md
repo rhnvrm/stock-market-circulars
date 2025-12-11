@@ -24,10 +24,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - individual-proceedings
 - newever-trade-wings
+- recovery
 title: Recovery Certificate No. RC8806 of 2025 - Vikrant Kayan in matter of Newever
   Trade Wings Ltd
 ---

@@ -32,12 +32,9 @@ stocks:
 - NOIDATOLL
 - YAARI
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
 - relaxation
 - stage-reduction
-- market-surveillance
+- surveillance
 title: Graded Surveillance Measure (GSM) - Periodic Relaxation of Surveillance Action
 ---
 

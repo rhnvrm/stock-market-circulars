@@ -28,7 +28,7 @@ stocks:
 - AARNAV
 - ACUTAAS
 - ADANIPORTS
-- ALEMBIC
+- ALEMBICLTD
 - ASHAPURA
 - ASHOKLEY
 - ASIANERGY
@@ -108,11 +108,11 @@ stocks:
 - WEBSOLENER
 - ZYDUSLIFE
 tags:
-- demat-auction
+- demat
+- multi-scrip
+- securities-auction
 - settlement
 - trading
-- securities-auction
-- multi-scrip
 title: Demat Auction -769
 ---
 

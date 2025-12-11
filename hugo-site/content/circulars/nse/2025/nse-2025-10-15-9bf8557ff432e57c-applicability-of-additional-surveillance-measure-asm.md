@@ -32,11 +32,9 @@ stocks:
 - XELPMOC
 - MOXSH
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirements
-- long-term-asm
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - October 2025
 ---

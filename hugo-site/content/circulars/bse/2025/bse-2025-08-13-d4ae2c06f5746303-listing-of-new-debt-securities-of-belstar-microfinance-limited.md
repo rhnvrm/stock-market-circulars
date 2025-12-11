@@ -28,10 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - microfinance
-- belstar
-- debentures
+- ncd
+- private-placement
 title: Listing of new debt securities of BELSTAR MICROFINANCE LIMITED
 ---
 

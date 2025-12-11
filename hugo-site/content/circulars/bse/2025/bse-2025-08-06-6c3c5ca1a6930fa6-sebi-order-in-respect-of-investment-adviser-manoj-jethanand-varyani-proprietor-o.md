@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- investment-adviser
-- sebi-order
 - compliance
-- registration
 - enquiry-disposed
+- investment-adviser
+- registration
+- sebi-order
 title: SEBI Order - Investment Adviser Manoj Jethanand Varyani Disposed Without Adverse
   Action
 ---

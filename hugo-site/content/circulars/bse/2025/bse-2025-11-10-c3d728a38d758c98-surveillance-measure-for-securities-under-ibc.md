@@ -38,16 +38,12 @@ stocks:
 - AXIS
 - BARON
 - BIRLACOTSYN
-- BLOOMDEKOR
+- BLOOM
 - BODHTREE
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
-- additional-surveillance-measure
 - monitoring
+- surveillance
 title: Surveillance Measure for Securities under IBC - November 11, 2025
 ---
 

@@ -27,9 +27,9 @@ stocks:
 - IMTSONS
 tags:
 - compliance
-- recovery-order
+- demand-notice
 - enforcement
-- remittance-order
+- recovery
 - violations
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 4806
   of 2022 against Imtiyazhusain Siayed in the matter of Imtsons Investments limited

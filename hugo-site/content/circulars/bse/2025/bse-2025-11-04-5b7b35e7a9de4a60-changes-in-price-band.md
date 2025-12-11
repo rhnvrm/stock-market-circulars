@@ -34,7 +34,7 @@ stocks:
 - ESHAMEDIA
 - GOLKONDA
 - GTNTEX
-- JAYUSHIN
+- JAYUSH
 - KEYNOTE
 - KIDUJA
 - LANCER
@@ -45,16 +45,16 @@ stocks:
 - ONELIFE
 - STARHOUSI
 - TNSTEEL
-- TCM
+- TCMLMTD
 - THANGAMAYI
 - TIERRA
 - VANICOM
 tags:
-- price-band
-- surveillance
 - circuit-limits
-- trading-restrictions
+- price-band
 - risk-management
+- surveillance
+- trading-restrictions
 title: Changes in Price Band for 23 Securities
 ---
 

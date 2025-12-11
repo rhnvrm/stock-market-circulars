@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '531971'
+- HARIGOV
 tags:
-- new-listing
-- equity-shares
-- preferential-issue
-- non-promoter
+- equity
+- listing
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Hari Govind International Ltd.
 ---
 

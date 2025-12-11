@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - corporate-debt
-- settlement-schedule
+- debt-securities
 - icdm
-- debt-segment
-- trading-programme
+- settlement
+- trading-operations
 title: Trading and Settlement Programme for Corporate Debt Segment - December 2025
 ---
 

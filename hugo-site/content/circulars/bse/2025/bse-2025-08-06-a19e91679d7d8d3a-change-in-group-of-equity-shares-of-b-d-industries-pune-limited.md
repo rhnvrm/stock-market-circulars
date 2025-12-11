@@ -23,13 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544468'
+- BDI
 tags:
+- equity
 - group-change
-- trading-segment
-- equity-shares
+- rolling-segment
 - sme
-- rolling-settlement
+- trading
 title: B. D. Industries (Pune) Limited Moves from Trade for Trade to Rolling Segment
 ---
 

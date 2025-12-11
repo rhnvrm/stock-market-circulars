@@ -26,10 +26,8 @@ source: bse
 stocks:
 - LOTUSDEV
 tags:
-- equity-listing
-- new-listing
-- sri-lotus-developers
-- lotusdev
+- equity
+- listing
 title: Listing of Equity Shares of Sri Lotus Developers and Realty Limited
 ---
 

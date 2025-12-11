@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SAMMAANCAP
 tags:
-- position-limits
-- individual-security
-- futures-options
 - fii-fpi
-- mutual-funds
+- futures-options
+- individual-security
+- mutual-fund
+- position-limits
 title: Position Limits for SAMMAANCAP Introduction as Individual Security
 ---
 

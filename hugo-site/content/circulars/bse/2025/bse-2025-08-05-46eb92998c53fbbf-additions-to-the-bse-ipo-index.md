@@ -23,14 +23,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544465'
-- '544466'
+- LAXMIINDIA
+- CPPLUS
 tags:
-- index
+- bse-index
+- equity
+- index-fund
 - ipo
 - listing
-- equity
-- bse-ipo-index
 title: BSE IPO Index Additions - Laxmi India Finance and Aditya Infotech
 ---
 

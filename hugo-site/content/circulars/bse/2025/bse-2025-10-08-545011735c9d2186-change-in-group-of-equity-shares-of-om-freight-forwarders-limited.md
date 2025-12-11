@@ -28,12 +28,11 @@ source: bse
 stocks:
 - OMFREIGHT
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
-- rolling-settlement
-- t-group
-- b-group
+- rolling-segment
 - segment-transfer
+- trade-for-trade
 title: Change in Group of Equity Shares of Om Freight Forwarders Limited
 ---
 

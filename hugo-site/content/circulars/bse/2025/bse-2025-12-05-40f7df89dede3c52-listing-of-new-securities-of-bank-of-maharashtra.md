@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MAHABANK
 tags:
-- equity-listing
-- esps
-- employee-share-scheme
-- lock-in
 - bank-of-maharashtra
+- employee-share-scheme
+- equity
+- esps
+- lock-in
 title: Listing of New Equity Shares of Bank of Maharashtra Under ESPS 2018
 ---
 

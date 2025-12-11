@@ -32,13 +32,11 @@ stocks:
 - MCLEODRUSS
 - SALSTEEL
 tags:
-- enhanced-surveillance-measure
-- esm
+- margin
+- price-band
 - surveillance
 - trade-for-trade
-- margin-requirements
-- price-band
-- periodic-call-auction
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

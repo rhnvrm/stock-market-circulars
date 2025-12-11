@@ -39,10 +39,10 @@ stocks:
 - UMIYA
 - UNIVERSAL
 tags:
-- price-band
-- trading-limits
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: BSE Price Band Revisions for 14 Securities Effective August 19, 2025
 ---
 

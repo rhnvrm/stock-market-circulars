@@ -72,7 +72,7 @@ stocks:
 - PEARL
 - PIOTEX
 - PREMIER
-- PRIYA
+- PRIYALT
 - RAMA
 - RELIC
 - ROSE
@@ -80,11 +80,9 @@ stocks:
 - SANGHVI
 - SHREE
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective September
   1, 2025
 ---

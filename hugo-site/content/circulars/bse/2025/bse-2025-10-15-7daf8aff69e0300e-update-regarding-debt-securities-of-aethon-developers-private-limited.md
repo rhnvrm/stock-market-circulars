@@ -28,9 +28,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- trading-suspension
-- restructuring
 - market-operations
+- restructuring
+- suspension
 title: Suspension of Trading for Aethon Developers Private Limited Debt Securities
   Due to Restructuring
 ---

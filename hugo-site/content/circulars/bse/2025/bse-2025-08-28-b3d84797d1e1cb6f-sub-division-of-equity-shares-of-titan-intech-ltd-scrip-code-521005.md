@@ -26,11 +26,9 @@ source: bse
 stocks:
 - TITANINT
 tags:
-- stock-split
-- subdivision
-- equity-shares
 - corporate-action
-- titan-intech
+- equity
+- split
 title: 'Sub-Division of Equity Shares of TITAN INTECH LTD (Scrip Code: 521005)'
 ---
 

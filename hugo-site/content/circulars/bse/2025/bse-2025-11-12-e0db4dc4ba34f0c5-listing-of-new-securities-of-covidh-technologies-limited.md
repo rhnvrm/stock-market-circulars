@@ -27,11 +27,11 @@ source: bse
 stocks:
 - COVIDH
 tags:
-- listing
-- rights-issue
-- equity-shares
-- new-securities
 - covidh-technologies
+- equity
+- listing
+- new-securities
+- rights-issue
 title: Listing of New Securities of COVIDH TECHNOLOGIES LIMITED - Rights Issue
 ---
 

@@ -24,12 +24,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- invit
 - infrastructure-investment-trusts
+- invit
+- public-definition
 - regulatory-amendment
 - reporting-requirements
 - valuation-reports
-- public-definition
 title: Securities and Exchange Board of India (Infrastructure Investment Trusts) (Third
   Amendment) Regulations, 2025
 ---

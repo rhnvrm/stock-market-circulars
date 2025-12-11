@@ -25,11 +25,11 @@ source: nse
 stocks: []
 tags:
 - etf
-- nfo
-- mutual-fund
 - groww
+- mutual-fund
+- nfo
 - nifty-next-50
-- nse-mf-invest
+- trading-platform
 title: Launch of Groww Nifty Next 50 ETF NFO on NSE MF Invest Platform
 ---
 

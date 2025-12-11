@@ -66,11 +66,11 @@ stocks:
 - SHRIRAMFIN
 tags:
 - collateral
-- margin-requirements
-- slb-segment
-- approved-securities
-- liquid-assets
-- var-haircut
+- empanelment
+- liquid-fund
+- margin
+- slb
+- volatility-control
 title: Revised List of Approved Securities and Banks for Non-Cash Component of Liquid
   Assets
 ---

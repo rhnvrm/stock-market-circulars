@@ -26,13 +26,12 @@ source: bse
 stocks:
 - DSMFRESH
 tags:
-- listing
+- equity
 - ipo
-- shareholding-pattern
-- dsm-fresh-foods
-- equity-shares
-- sebi-lodr
+- listing
+- lodr
 - regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of DSM Fresh Foods Limited
 ---
 

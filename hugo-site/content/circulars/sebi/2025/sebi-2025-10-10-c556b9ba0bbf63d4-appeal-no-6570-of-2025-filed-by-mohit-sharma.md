@@ -26,15 +26,15 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - derivatives
-- futures
-- options
+- futures-options
 - nifty
-- sensex
-- trading-limits
+- options
 - risk-management
+- rti
 - section-8-exemption
+- sensex
+- trading-operations
 title: Appeal No. 6570 of 2025 filed by Mohit Sharma - RTI Application on Derivatives
   Trading Limits
 ---

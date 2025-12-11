@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
 - earlysalary
-- non-convertible-debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of EARLYSALARY SERVICES PRIVATE LIMITED
 ---
 

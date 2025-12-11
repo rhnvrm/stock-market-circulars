@@ -70,7 +70,7 @@ stocks:
 - PVVINFRA
 - QUINT
 - REETECH
-- ROSEMERC
+- ROSEMER
 - SHIVANSH
 - SHREEKRI
 - SHREEMANUF
@@ -89,11 +89,11 @@ stocks:
 - WSINDUSTRIES
 - WILLIAMSON
 tags:
-- price-band
-- trading-parameters
-- equity-segment
-- surveillance
+- equity
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: BSE Price Band Revisions for 64 Scrips Effective July 28, 2025
 ---
 

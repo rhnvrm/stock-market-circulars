@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GALLARD
 tags:
+- equity
+- gallard-steel
 - ipo
 - listing
-- equity-shares
-- lock-in-period
-- gallard-steel
+- lock-in
 title: Listing of Equity Shares of Gallard Steel Limited - IPO
 ---
 

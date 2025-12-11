@@ -27,10 +27,9 @@ source: bse
 stocks:
 - CHANDRIMA
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
-- chandrima-mercantiles
+- equity
 title: Bonus Issue of 11,10,56,500 Equity Shares by Chandrima Mercantiles Limited
 ---
 

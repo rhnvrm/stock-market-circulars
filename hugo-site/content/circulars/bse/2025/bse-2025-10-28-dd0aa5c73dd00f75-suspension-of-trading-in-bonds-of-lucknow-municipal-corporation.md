@@ -26,13 +26,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- bonds
+- bond
+- corporate-action
+- debt-securities
+- interest-payment
 - municipal-bonds
 - redemption
-- interest-payment
-- debt-segment
-- corporate-actions
+- suspension
 title: Suspension of Trading in Bonds of Lucknow Municipal Corporation
 ---
 

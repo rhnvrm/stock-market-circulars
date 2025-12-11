@@ -28,12 +28,10 @@ source: nse
 stocks:
 - WEBELSOLAR
 tags:
-- securities-lending-borrowing
-- position-limits
-- mwpl
-- webelsolar
-- slb-scheme
+- collateral
 - market-operations
+- position-limits
+- slb-scheme
 title: Revised MWPL, Participant, Institutional & Non-Institutional Client Limits
   for WEBELSOLAR
 ---

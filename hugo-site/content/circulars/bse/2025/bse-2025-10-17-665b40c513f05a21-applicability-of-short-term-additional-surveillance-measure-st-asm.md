@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- APTUSPHARMA
+- APPL
 - BITS
 - EARKART
 - ENVAIR
 - GLOBALVECT
 - LYONSCORPMAR
 - ONIXSOLAR
-- RACHITPRINTS
+- RACHIT
 - SOLVEXED
 - TWAMEV
 - AMARNATHSEC
@@ -42,15 +42,15 @@ stocks:
 - RITAFINANCE
 - GMDCLTD
 - HARSHILAGRO
-- SEJALGLASS
+- SEJALLTD-BE
 - AIKPIPES
 - ZINEMAMEDIA
 - ZENITHSTEEL
 - SHREEVATSAA
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- ST-ASM
-- market-regulation
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

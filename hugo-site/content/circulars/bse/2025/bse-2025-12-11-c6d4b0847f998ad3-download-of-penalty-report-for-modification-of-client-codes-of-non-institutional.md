@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- penalty-report
-- client-code-modification
-- non-institutional-trades
-- compliance
-- trading-members
-- extranet
 - all-segments
+- client-code-modification
+- compliance
+- non-institutional-trades
+- penalty
+- trading-member
+- trading-platform
 title: Download of Penalty Report for Client Code Modification - November 2025
 ---
 

@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- cd-segment
+- compliance
+- irf-segment
 - membership
 - surrender
 - trading-member
-- compliance
-- cd-segment
-- irf-segment
 title: Segmental Surrender of Trading Membership - Vishwas Fincap Services Private
   Limited
 ---

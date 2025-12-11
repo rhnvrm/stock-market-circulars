@@ -29,13 +29,10 @@ stocks:
 - HEMIPROP
 tags:
 - clarification
-- volume-movement
+- disclosure
+- market-operations
 - price-movement
 - surveillance
-- market-driven
-- disclosure
-- THYROCARE
-- HEMIPROP
 title: Clarifications received from the companies
 ---
 

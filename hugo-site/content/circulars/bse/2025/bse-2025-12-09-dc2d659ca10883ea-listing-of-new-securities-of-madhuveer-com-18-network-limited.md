@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MADHUVEER
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-issue
 - lock-in
-- equity-shares
+- preferential-issue
+- promoter
 title: Listing of New Securities of Madhuveer Com 18 Network Limited
 ---
 

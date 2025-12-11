@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - 360-one
+- debt-securities
+- mutual-fund
 - sip
 - stp
 - swp
-- debt-fund
 title: 360 ONE Multi Asset Allocation Fund Available for Ongoing Transactions on NSE
   MF Invest Platform
 ---

@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - EXCELCAST
 tags:
-- compliance
-- recovery-certificate
-- enforcement
-- excel-castronics
 - blink-share
+- compliance
 - comtrade
+- enforcement
+- recovery
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 5204
   of 2022 against Blink Share and Comtrade Pvt. Ltd.
 ---

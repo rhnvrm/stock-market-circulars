@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- IDBIBANK
+- IDBI
 tags:
-- trading-suspension
-- debentures
-- debt-market
-- early-redemption
-- record-date
+- debt-securities
 - idbi-bank
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of IDBI BANK LTD
 ---
 

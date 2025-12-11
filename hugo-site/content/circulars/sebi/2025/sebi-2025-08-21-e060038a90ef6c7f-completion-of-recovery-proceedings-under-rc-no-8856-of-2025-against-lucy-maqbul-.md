@@ -26,11 +26,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
 - enforcement
-- family-care-hospitals
 - lucy-maqbul-massey
-- debt-recovery
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8856 of 2025 against Lucy Maqbul
   Massey in the matter of Family Care Hospitals Limited
 ---

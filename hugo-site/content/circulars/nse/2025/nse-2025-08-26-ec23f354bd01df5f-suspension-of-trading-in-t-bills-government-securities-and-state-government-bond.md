@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-suspension
-- government-securities
-- t-bills
+- debt-securities
+- gsec
 - redemption
-- debt-market
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-Bills, Government Securities and State Government
   Bonds Due to Redemption
 ---

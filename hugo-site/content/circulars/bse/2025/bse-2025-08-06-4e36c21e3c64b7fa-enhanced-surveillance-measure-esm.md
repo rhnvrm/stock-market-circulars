@@ -24,14 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ARISINTERNATIONAL
+- ARISINT
 - KREONFINNANCIAL
-- SKYLINEMILLARS
+- SKYLMILAR
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
 - risk-management
+- surveillance
 - trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---

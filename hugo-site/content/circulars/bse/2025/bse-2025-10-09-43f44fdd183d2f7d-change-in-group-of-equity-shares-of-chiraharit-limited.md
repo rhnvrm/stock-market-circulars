@@ -27,11 +27,10 @@ stocks:
 - CHIRAHARIT
 tags:
 - group-change
-- trade-for-trade
+- market-segment
 - rolling-segment
 - sme
-- market-segment
-- CHIRAHARIT
+- trade-for-trade
 title: Change in Group of Equity Shares of CHIRAHARIT LIMITED
 ---
 

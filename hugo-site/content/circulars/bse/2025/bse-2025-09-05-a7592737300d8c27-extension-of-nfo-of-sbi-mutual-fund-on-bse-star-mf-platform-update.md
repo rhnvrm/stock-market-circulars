@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- allotment
+- extension
+- fund-payment
 - mutual-fund
 - nfo
-- extension
 - sbi-mutual-fund
-- bse-star-mf
-- fund-payment
-- allotment
 title: Extension of NFO of SBI Mutual Fund on BSE StAR MF Platform - UPDATE
 ---
 

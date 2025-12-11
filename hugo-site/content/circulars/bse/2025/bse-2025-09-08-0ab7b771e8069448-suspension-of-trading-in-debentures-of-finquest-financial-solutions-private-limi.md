@@ -27,12 +27,11 @@ source: bse
 stocks:
 - FINQUEST
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 - suspension
-- early-redemption
-- corporate-actions
-- debt-segment
-- finquest-financial
 title: Suspension of Trading in Debentures of FINQUEST FINANCIAL SOLUTIONS PRIVATE
   LIMITED
 ---

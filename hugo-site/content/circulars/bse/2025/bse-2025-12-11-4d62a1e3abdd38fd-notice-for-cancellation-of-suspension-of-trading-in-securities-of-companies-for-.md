@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '541161'
-- '539110'
+- DHARAN
+- NORTHLINK
 tags:
-- trading-suspension
-- suspension-cancellation
-- sebi-lodr
 - compliance
+- lodr
+- release
 - resumption-of-trading
+- suspension
 title: Cancellation of Trading Suspension for Dharan Infra-EPC Ltd and Northlink Fiscal
 ---
 

@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- inspection
-- cyber-security
-- cyber-resilience
-- compliance-violation
-- penalty-proceedings
+- adjudication
 - choice-equity-broking
+- cyber-security
+- cybersecurity
+- investigation
+- non-compliance
+- penalty-proceedings
+- stock-broker
 title: Adjudication order in the matter of inspection of Choice Equity Broking Private
   Limited
 ---

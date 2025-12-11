@@ -25,11 +25,11 @@ source: bse
 stocks:
 - EQUITAS
 tags:
+- bond
 - debt-securities
+- equitas-small-finance-bank
 - listing
 - private-placement
-- equitas-small-finance-bank
-- corporate-bonds
 title: Listing of new debt securities of Equitas Small Finance Bank Limited
 ---
 

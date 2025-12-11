@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543916'
+- HSIL
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- lock-in
+- equity
 - hemant-surgical
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Hemant Surgical Industries Limited
 ---
 

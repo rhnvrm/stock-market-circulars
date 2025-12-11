@@ -27,10 +27,10 @@ stocks:
 - NST
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- nexus-select-trust
+- debt-securities
 - icici-bank
+- nexus-select-trust
+- private-placement
 title: Listing of new Commercial Paper of Nexus Select Trust
 ---
 

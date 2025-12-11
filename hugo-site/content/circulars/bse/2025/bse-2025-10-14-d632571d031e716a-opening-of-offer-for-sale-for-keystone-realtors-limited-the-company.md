@@ -28,14 +28,12 @@ source: bse
 stocks:
 - RUSTOMJEE
 tags:
-- offer-for-sale
+- equity
+- keystone-realtors
 - ofs
 - promoter-stake-sale
-- public-shareholding
-- equity-shares
-- sebi-regulations
-- keystone-realtors
-- rustomjee
+- regulatory-framework
+- shareholding-pattern
 title: Opening of Offer for Sale for Keystone Realtors Limited (Rustomjee)
 ---
 

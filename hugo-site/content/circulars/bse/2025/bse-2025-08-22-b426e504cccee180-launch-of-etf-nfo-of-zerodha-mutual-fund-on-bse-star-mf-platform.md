@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - etf
-- nfo
-- zerodha
 - mutual-fund
-- smallcap
+- nfo
 - nifty
+- smallcap
+- zerodha
 title: Launch of ZERODHA NIFTY SMALLCAP 100 ETF NFO on BSE StAR MF Platform
 ---
 

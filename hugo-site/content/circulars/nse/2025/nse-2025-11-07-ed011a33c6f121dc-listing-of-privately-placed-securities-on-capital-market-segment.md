@@ -24,17 +24,15 @@ published_date: '2025-11-07T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML71192.pdf
 severity: low
 source: nse
-stocks:
-- 805AIFL32
-- 711SDIL30
+stocks: []
 tags:
-- listing
-- debt-securities
-- privately-placed
-- capital-market
 - aseem-infrastructure-finance
+- capital-market
+- debt-securities
+- listing
+- ncd
+- privately-placed
 - summit-digitel-infrastructure
-- non-convertible-debentures
 title: Listing of Privately Placed Securities on Capital Market Segment - November
   2025
 ---

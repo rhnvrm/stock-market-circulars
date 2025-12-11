@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for KOLTE-PATIL
   DEVELOPERS LTD
 ---

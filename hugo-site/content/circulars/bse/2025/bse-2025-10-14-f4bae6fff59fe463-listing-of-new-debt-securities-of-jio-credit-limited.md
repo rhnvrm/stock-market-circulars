@@ -26,12 +26,11 @@ source: bse
 stocks:
 - JIOCREDIT
 tags:
+- bond
 - debt-securities
 - listing
-- jio-credit-limited
+- ncd
 - private-placement
-- debentures
-- corporate-bonds
 title: Listing of new debt securities of Jio Credit Limited
 ---
 

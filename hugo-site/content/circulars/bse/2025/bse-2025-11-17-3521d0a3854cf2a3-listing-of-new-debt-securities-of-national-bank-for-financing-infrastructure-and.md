@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aaa-rated
 - debt-securities
+- infrastructure-finance
 - listing
 - nbfid
 - private-placement
-- aaa-rated
-- infrastructure-finance
 title: Listing of New Debt Securities of National Bank for Financing Infrastructure
   and Development
 ---

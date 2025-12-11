@@ -23,13 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GLOBALHEALTH
+- MEDANTA
 tags:
-- equity-shares
-- employee-stock-plan
-- listing
-- lock-in-period
+- equity
+- esop
 - global-health
+- listing
+- lock-in
 title: Listing of New Securities of Global Health Ltd Under Employee Incentive Plan
 ---
 

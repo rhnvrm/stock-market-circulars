@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
+- bond
 - debt-securities
 - listing
-- sammaan-capital
 - private-placement
-- corporate-bonds
+- sammaan-capital
 title: Listing of new debt securities of Sammaan Capital Limited
 ---
 

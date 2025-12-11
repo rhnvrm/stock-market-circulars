@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- collateral
-- fixed-deposit-receipts
-- electronic-form
-- approved-banks
-- currency-derivatives
 - clearing
+- collateral
+- derivatives
+- electronic-form
+- empanelment
+- fixed-income
 title: JP Morgan Chase Bank Added as Approved Bank for Electronic Fixed Deposit Receipts
 ---
 

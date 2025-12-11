@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540492'
+- STARLENT
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
+- rights-issue
 - starlineps-enterprises
 title: Listing of New Securities of STARLINEPS ENTERPRISES LIMITED
 ---

@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- debt-instruments
+- debt-securities
+- gsec
 - listing
-- government-securities
+- treasury-bills
 title: Listing of new Treasury Bills (T-Bills) effective August 22, 2025
 ---
 

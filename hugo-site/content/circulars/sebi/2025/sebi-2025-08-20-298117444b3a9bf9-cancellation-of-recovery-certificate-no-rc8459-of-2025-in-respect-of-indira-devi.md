@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - cancellation
-- stock-options
-- illiquid-securities
 - enforcement
+- illiquid-securities
+- recovery
+- stock-options
 title: 'Cancellation of Recovery Certificate No. RC8459 of 2025 in respect of Indira
   Devi Jain (PAN: ACPPJ2461H) in the matter of Illiquid Stock Options'
 ---

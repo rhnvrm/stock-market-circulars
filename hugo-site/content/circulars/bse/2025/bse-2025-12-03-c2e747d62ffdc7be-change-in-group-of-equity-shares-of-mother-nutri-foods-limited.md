@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544623'
+- MNFL
 tags:
+- asm-stage
 - group-change
-- segment-transfer
-- sme-ipo
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
+- segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of MOTHER NUTRI FOODS LIMITED
 ---
 

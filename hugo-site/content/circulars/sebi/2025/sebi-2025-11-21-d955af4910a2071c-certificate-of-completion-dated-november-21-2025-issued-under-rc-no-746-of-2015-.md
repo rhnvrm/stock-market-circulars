@@ -29,14 +29,11 @@ stocks:
 - AARTIDRUGS
 - HAVELLS
 tags:
-- recovery-certificate
-- enforcement
-- recovery-proceedings
 - certificate-of-completion
-- aarti-industries
-- aarti-drugs
+- enforcement
 - havells-india
 - lyka-labs
+- recovery
 - tasc-pharmaceuticals
 title: Certificate of Completion - Recovery Certificate No. 746 of 2015 against Bela
   H. Kayastha

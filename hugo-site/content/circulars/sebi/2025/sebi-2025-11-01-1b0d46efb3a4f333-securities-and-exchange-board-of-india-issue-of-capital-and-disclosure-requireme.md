@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- icdr-regulations
-- anchor-investor
-- ipo
-- mutual-funds
-- pension-funds
-- life-insurance
-- capital-issue
-- disclosure-requirements
 - allocation-norms
+- anchor-investor
+- capital-market
+- disclosure
+- icdr
+- ipo
+- life-insurance
+- mutual-fund
+- pension-funds
 title: Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements)
   (Third Amendment) Regulations, 2025
 ---

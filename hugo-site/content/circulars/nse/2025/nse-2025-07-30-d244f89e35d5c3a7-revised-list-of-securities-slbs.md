@@ -206,11 +206,10 @@ stocks:
 - CONCORDBIO
 - COROMANDEL
 tags:
-- securities-lending
-- borrowing-scheme
-- slbs
+- collateral
 - eligible-securities
 - revised-list
+- slbs
 title: Revised List of Securities - SLBS
 ---
 

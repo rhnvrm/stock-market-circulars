@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
 - compliance
-- enforcement
-- recovery-proceedings
-- sms-techsoft
 - defaulter
+- enforcement
+- recovery
 title: SEBI Compliance Order - Recovery Certificate No. 5554 of 2022 Against Keval
   Kirtikumr Shah
 ---

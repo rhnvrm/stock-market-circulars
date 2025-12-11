@@ -36,11 +36,10 @@ stocks:
 - PERMAGNET
 - SHIKHCONS
 tags:
-- surveillance
-- esm
-- trading-restrictions
-- market-integrity
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Stage Updates Effective December 3, 2025
 ---
 

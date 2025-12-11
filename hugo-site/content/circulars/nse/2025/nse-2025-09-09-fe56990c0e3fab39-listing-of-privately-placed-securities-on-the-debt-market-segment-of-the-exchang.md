@@ -26,11 +26,10 @@ stocks:
 - KOTAKSEC
 - AXISSEC
 tags:
-- debt-market
-- commercial-paper
-- listing
-- kotak-securities
 - axis-securities
+- commercial-paper
+- debt-securities
+- listing
 title: Listing of privately placed securities on debt market segment
 ---
 

@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - microfinance
-- asirvad
+- private-placement
 title: Listing of new debt securities of Asirvad Microfinance Limited
 ---
 

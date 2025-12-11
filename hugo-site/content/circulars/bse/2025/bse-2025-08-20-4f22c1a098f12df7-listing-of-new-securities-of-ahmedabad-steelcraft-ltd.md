@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AHMEDSTL
 tags:
-- new-listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Ahmedabad Steelcraft Ltd.
 ---
 

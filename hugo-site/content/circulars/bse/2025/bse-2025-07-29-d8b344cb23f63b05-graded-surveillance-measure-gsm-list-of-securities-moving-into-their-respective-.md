@@ -31,11 +31,10 @@ stocks:
 - SHRINIWAS
 - JYOTIRGAMYA
 tags:
-- gsm
+- compliance
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- compliance
 title: GSM Framework Updates - 5 Securities Moving to Higher Surveillance Stages
 ---
 

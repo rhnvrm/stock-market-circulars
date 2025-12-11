@@ -26,10 +26,9 @@ source: bse
 stocks:
 - PRAXIS
 tags:
+- equity
 - listing
 - rights-issue
-- equity
-- PRAXIS
 title: Listing of new Securities of Praxis Home Retail Limited
 ---
 

@@ -30,11 +30,11 @@ stocks:
 - ICICIBANK
 - LODHA
 tags:
-- listing
-- esop
-- bonus-shares
-- equity-shares
+- bonus
 - capital-market
+- equity
+- esop
+- listing
 title: Listing of Further Issues of Securities - ESOP and Bonus Shares
 ---
 

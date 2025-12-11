@@ -26,11 +26,9 @@ source: nse
 stocks:
 - LOTUSDEV
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- LOTUSDEV
+- listing
 title: Listing of Equity Shares of Sri Lotus Developers and Realty Limited (IPO)
 ---
 

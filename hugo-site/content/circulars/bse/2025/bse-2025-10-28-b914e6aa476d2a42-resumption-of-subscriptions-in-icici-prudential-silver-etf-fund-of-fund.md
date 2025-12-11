@@ -25,14 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- silver-etf
-- fund-of-fund
-- subscriptions
+- fund-of-funds
+- icici-prudential
+- mutual-fund
+- silver
 - sip
 - stp
-- icici-prudential
+- subscription
 title: Resumption of Subscriptions in ICICI Prudential Silver ETF Fund of Fund
 ---
 

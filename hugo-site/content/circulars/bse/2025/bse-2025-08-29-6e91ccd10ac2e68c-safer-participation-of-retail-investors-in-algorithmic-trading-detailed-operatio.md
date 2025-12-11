@@ -25,13 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
 - algo-providers
+- algo-trading
+- compliance
 - empanelment
 - registration
-- API-trading
-- compliance
+- retail-investor
 title: Safer participation of Retail investors in Algorithmic trading – Detailed Operational
   Modalities Update
 ---

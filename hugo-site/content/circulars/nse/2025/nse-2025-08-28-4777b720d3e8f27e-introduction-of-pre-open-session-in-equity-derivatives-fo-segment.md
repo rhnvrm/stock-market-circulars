@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- pre-open-session
-- equity-derivatives
-- futures-and-options
-- trading-hours
+- derivatives
+- futures-options
 - market-operations
+- pre-open-session
+- trading-hours
 title: Introduction of Pre-Open Session in Equity Derivatives (F&O) Segment
 ---
 

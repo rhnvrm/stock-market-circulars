@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SHARAT
 tags:
+- equity
 - forfeiture
-- equity-shares
-- share-capital
-- partly-paid-shares
 - non-payment
+- partly-paid
+- share-capital
 title: Forfeiture of Equity Shares of Sharat Industries Ltd.
 ---
 

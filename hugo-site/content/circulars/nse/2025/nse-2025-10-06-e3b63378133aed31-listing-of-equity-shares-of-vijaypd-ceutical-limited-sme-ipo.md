@@ -26,12 +26,11 @@ source: nse
 stocks:
 - VIJAYPD
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
-- trade-for-trade
+- listing
+- sme
 - surveillance
+- trade-for-trade
 title: Listing of Equity Shares of Vijaypd Ceutical Limited (SME IPO)
 ---
 

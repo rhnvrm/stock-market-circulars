@@ -34,10 +34,10 @@ stocks:
 - 360ONE
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 7 Securities
 ---
 

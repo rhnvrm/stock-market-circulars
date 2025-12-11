@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BILLIONBRAINS
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
+- equity
 - esop
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Billionbrains Garage Ventures Limited
 ---
 

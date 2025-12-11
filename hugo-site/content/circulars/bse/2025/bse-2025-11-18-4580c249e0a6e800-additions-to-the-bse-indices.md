@@ -24,19 +24,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544608'
-- '544609'
-- '544610'
-- '544611'
+- EMMVEE
+- PWL
+- WORKMATES
+- MAHALIFE
 tags:
-- index
-- ipo
-- sme-ipo
-- listing
 - emmvee-photovoltaic
-- physicswallah
-- workmates-core2cloud
+- index-fund
+- ipo
+- listing
 - mahamaya-lifesciences
+- physicswallah
+- sme
 title: Additions to the BSE Indices
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - FRIEZA
 tags:
-- part-redemption
-- ptc
-- pass-through-certificates
-- debt
 - corporate-action
-- interest-payment
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ptc
+- redemption
 title: Part Redemption of PTCs of FRIEZA 06 2025
 ---
 

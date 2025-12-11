@@ -64,12 +64,10 @@ stocks:
 - BHAGYANGR
 - BHARATGEAR
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Enhanced Surveillance Measure (ESM) - December 2025
 ---
 

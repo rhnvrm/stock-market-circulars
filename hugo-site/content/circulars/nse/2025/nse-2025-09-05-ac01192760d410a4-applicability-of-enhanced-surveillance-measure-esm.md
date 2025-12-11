@@ -32,11 +32,10 @@ stocks:
 - ENSER
 - GPECO
 tags:
-- enhanced-surveillance
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trading-restrictions
-- surveillance-measure
-- esm
 title: Applicability of Enhanced Surveillance Measure (ESM) - September 2025
 ---
 

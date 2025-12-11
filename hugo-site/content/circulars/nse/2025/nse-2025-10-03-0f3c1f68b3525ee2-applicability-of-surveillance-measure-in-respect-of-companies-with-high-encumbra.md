@@ -36,11 +36,11 @@ stocks:
 - STEELXIND
 - AAVAS
 tags:
-- surveillance
-- margin-requirement
 - encumbrance
-- sast-regulation
-- promoter-shareholding
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 - trading-restrictions
 title: Applicability of Surveillance Measure for Companies with High Encumbrance under
   SEBI SAST Regulation 28(3)

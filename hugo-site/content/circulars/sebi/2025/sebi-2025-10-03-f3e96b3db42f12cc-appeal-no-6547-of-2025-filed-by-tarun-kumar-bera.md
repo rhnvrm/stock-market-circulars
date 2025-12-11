@@ -27,13 +27,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- investment-advisor
+- appeal
+- investment-adviser
+- investor-protection
+- rti
+- social-media
 - unregistered-entities
 - whatsapp-fraud
-- social-media
-- investor-protection
-- appellate-authority
 title: Appeal No. 6547 of 2025 - RTI Appeal by Tarun Kumar Bera regarding unregistered
   WhatsApp investment advisory group
 ---

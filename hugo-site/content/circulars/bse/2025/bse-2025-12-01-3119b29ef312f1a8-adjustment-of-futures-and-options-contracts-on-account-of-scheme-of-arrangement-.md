@@ -28,14 +28,13 @@ source: bse
 stocks:
 - HULL
 tags:
-- derivatives
-- corporate-action
-- scheme-of-arrangement
-- demerger
-- futures
-- options
 - contract-adjustment
+- corporate-action
+- derivatives
+- futures-options
 - hindustan-unilever
+- options
+- scheme-of-arrangement
 title: Adjustment of Futures and Options Contracts - Hindustan Unilever Ltd Scheme
   of Arrangement
 ---

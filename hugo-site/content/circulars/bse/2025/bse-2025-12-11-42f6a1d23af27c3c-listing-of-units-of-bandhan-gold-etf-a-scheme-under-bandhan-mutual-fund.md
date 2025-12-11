@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bandhan-mutual-fund
 - etf
+- gold
 - listing
 - mutual-fund
-- gold-etf
-- bandhan-mutual-fund
-- new-listing
 title: Listing of Units of Bandhan Gold ETF on BSE
 ---
 

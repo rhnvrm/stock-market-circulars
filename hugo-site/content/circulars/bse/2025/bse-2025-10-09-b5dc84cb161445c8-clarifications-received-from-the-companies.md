@@ -30,11 +30,10 @@ stocks:
 - APOLLOHOSP
 tags:
 - clarification
-- price-movement
-- volume-increase
-- surveillance
-- regulation-30
 - lodr
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

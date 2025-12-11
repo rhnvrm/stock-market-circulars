@@ -28,11 +28,11 @@ stocks:
 - MUTHOOTMF
 tags:
 - debt-securities
-- listing
-- private-placement
-- muthoot-microfin
-- debentures
 - fixed-income
+- listing
+- muthoot-microfin
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoot Microfin Limited
 ---
 

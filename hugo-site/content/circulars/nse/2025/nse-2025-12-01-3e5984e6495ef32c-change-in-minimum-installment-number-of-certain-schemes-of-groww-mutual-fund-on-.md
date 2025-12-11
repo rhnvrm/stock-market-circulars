@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- systematic-transfer-plan
-- systematic-withdrawal-plan
 - groww-mutual-fund
+- installment-changes
+- mutual-fund
 - nse-invest-platform
+- smart-switch
 - stp
 - swp
-- installment-changes
 title: Change in Minimum Installment Number of Certain Schemes of Groww Mutual Fund
   on NSE Invest Platform
 ---

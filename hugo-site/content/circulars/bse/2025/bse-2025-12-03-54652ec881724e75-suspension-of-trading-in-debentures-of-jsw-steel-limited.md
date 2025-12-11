@@ -28,13 +28,11 @@ source: bse
 stocks:
 - JSWSTEEL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
 - call-option
 - debt-securities
-- jsw-steel
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JSW Steel Limited
 ---
 

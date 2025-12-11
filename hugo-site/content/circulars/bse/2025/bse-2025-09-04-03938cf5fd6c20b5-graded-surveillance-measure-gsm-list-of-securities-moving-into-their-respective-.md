@@ -29,12 +29,9 @@ stocks:
 - SPARKLE
 - YAARI
 tags:
-- gsm
-- surveillance
-- quadrant-televentures
 - sparkle-gold-rock
+- surveillance
 - yaari-digital
-- market-surveillance
 title: GSM Framework Updates - Three Securities Move to Different Surveillance Stages
 ---
 

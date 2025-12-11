@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ACESOFT
 tags:
-- equity-shares
+- ace-software
+- call-monies
+- equity
 - forfeiture
 - partly-paid-up
-- call-monies
-- ace-software
 title: Forfeiture of Equity Shares of ACE Software Exports Ltd
 ---
 

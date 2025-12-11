@@ -32,11 +32,9 @@ stocks:
 - IRIS
 - SHRIRAMPROP
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- new-shares
-- employee-stock-options
+- new-securities
 title: Listing of Further Securities Under ESOP/ESOS - Six Companies
 ---
 

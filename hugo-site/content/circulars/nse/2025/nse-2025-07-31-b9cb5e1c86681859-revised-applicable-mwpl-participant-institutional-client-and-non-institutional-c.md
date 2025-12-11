@@ -36,11 +36,10 @@ stocks:
 - ABB
 - ABBOTINDIA
 tags:
-- securities-lending-borrowing
+- collateral
+- participant-limits
 - position-limits
 - slb
-- market-wide-limits
-- participant-limits
 title: Revised Market Wide Position Limits and Client Limits for Securities Lending
   & Borrowing Scheme - August 2025
 ---

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - MCSL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- corporate-actions
-- debt-market
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Muthoot Capital Services Ltd.
 ---
 

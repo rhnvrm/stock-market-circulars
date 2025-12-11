@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analyst
-- enquiry-order
-- non-cooperation
-- license-misuse
-- inspection
-- third-party-outsourcing
 - code-of-conduct
+- enquiry-order
+- investigation
+- license-misuse
+- non-cooperation
+- research-analyst
+- third-party-outsourcing
 title: Enquiry Order Against Research Analyst Nikhil Dayanand Baljekar for Non-Cooperation
   and License Misuse
 ---

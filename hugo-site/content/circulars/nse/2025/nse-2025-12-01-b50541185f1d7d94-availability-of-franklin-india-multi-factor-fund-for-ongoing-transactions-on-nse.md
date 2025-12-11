@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- franklin-mutual-fund
 - equity-scheme
+- franklin-mutual-fund
+- mutual-fund
+- nmf-platform
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
-- nmf-platform
 title: Availability of Franklin India Multi-Factor Fund for Ongoing Transactions on
   NSE MF Invest Platform
 ---

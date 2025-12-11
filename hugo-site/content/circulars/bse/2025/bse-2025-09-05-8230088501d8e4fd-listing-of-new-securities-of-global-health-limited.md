@@ -28,13 +28,12 @@ source: bse
 stocks:
 - GLOBALHLTH
 tags:
+- compliance
+- equity
+- esop
 - listing
-- employee-stock-plan
 - lock-in
-- equity-shares
-- ESOP
 - sweat-equity
-- regulatory-compliance
 title: Listing of New Securities of Global Health Limited - Employee Stock Plan Lock-in
   Undertaking
 ---

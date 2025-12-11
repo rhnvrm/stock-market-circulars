@@ -27,11 +27,10 @@ source: bse
 stocks:
 - DAVAN
 tags:
+- demat
 - rights-issue
-- rights-entitlements
-- trading
 - settlement
-- dematerialized
+- trading
 title: Rights Entitlements Trading for Davangere Sugar Company Limited - August 14-25,
   2025
 ---

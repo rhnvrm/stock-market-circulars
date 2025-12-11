@@ -26,12 +26,12 @@ source: bse
 stocks:
 - FORTIS
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- fortis-healthcare
-- demat-delivery
+- demat
 - early-pay-in
+- fortis-healthcare
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for Fortis Healthcare Limited Takeover Offer
 ---
 

@@ -25,9 +25,9 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- investment-advisory
+- enforcement
+- investment-adviser
 - unregistered
 - violation
 title: Notice of Attachment dated August 11, 2025 in RC no 8799 of 2025 against V

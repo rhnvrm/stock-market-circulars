@@ -30,11 +30,9 @@ stocks:
 - GCSL
 - SWARAJ
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- st-asm
-- margin-requirements
-- additional-surveillance-measure
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

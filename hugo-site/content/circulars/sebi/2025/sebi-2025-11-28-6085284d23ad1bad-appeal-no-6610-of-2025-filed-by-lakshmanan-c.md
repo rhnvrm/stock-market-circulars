@@ -25,11 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl
+- appeal
 - investor-protection
-- right-to-information
-- appeal-dismissed
+- pacl
+- rti
 title: Appeal No. 6610 of 2025 filed by Lakshmanan C
 ---
 

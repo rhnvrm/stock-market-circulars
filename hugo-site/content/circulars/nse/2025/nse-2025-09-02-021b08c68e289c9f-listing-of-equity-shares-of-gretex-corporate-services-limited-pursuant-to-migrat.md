@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GCSL
 tags:
+- equity
 - listing
 - migration
 - sme-to-mainboard
-- GCSL
-- equity-shares
 title: Listing of Gretex Corporate Services Limited on NSE Main Board from BSE SME
   Platform
 ---

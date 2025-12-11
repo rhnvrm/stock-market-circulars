@@ -28,17 +28,17 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enquiry-order
-- stock-broker
+- bse
 - client-funds-misuse
+- compliance-order
+- enquiry-order
+- intermediary
+- investigation
 - margin-reporting
-- compliance-violations
-- intermediary-regulations
+- mcx
+- nse
 - prabhudas-lilladher
-- NSE
-- BSE
-- MCX
-- inspection
+- stock-broker
 title: Enquiry Order in the matter of Prabhudas Lilladher Private Limited
 ---
 

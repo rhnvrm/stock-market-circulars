@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
 - dsp-mutual-fund
-- nifty-smallcap-250
-- bse-star-mf
 - equity
+- etf
+- mutual-fund
+- nfo
+- nifty-smallcap-250
 title: Launch of DSP NIFTY SMALLCAP 250 ETF NFO on BSE StAR MF Platform
 ---
 

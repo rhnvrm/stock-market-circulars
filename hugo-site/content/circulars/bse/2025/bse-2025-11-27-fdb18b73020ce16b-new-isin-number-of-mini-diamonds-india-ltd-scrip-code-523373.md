@@ -28,11 +28,11 @@ source: bse
 stocks:
 - MINIDIA
 tags:
-- isin-change
-- equity-share-subdivision
 - corporate-action
-- scrip-523373
+- equity-share-subdivision
+- isin
 - mini-diamonds-india
+- scrip-523373
 title: New ISIN Number for MINI DIAMONDS INDIA LTD - Equity Share Sub-Division
 ---
 

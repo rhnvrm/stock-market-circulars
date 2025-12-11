@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- futures-contracts
 - base-price
 - calculation-methodology
-- trading-parameters
+- derivatives
+- futures-contracts
 - price-determination
+- trading-operations
 title: Calculation of Base Price for Futures Contracts in Commodity Derivatives Segment
   - Update
 ---

@@ -34,11 +34,11 @@ stocks:
 - SRIADH
 - TCMLTD
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
-- market-integrity
+- asm-stage
+- market-operations
 - regulatory-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

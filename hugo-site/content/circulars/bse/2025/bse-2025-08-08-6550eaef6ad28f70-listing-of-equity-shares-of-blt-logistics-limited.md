@@ -26,11 +26,9 @@ source: bse
 stocks:
 - BLTLOG
 tags:
-- shareholding-pattern
-- equity-listing
+- equity
 - post-issue-disclosure
-- promoter-holding
-- public-shareholding
+- shareholding-pattern
 title: Listing of Equity Shares of BLT Logistics Limited
 ---
 

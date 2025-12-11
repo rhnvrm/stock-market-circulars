@@ -27,13 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- attachment-order
+- attachment
 - defaulter
-- superior-finlease
-- bank-account-attachment
-- demat-account-attachment
 - enforcement
+- recovery
+- superior-finlease
 title: 'Notice of Attachment of Bank Accounts and Demat Accounts 14948 & 14949 of
   2025 against ASHISH KUMAR SINGH (PAN: CNKPS7612D) [Defaulter] in the matter of Superior
   Finlease Ltd: under Recovery Certificate No. 8334 of 2024'

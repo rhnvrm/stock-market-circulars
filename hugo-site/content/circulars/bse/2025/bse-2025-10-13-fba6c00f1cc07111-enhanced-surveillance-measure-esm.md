@@ -34,11 +34,9 @@ stocks:
 - ROTOGRAPH
 - VASHUBHA
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
+- asm-stage
+- surveillance
 - trading-restrictions
-- stage-movement
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   14, 2025
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SPRAYKING
 tags:
-- corporate-actions
-- isin-change
-- share-subdivision
-- equity-shares
-- sprayking
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for SPRAYKING LTD - Sub-Division of Equity Shares from Rs.2
   to Re.1
 ---

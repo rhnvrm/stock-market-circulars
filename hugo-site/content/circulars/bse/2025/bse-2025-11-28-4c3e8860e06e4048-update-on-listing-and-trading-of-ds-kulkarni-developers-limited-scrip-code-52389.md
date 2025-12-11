@@ -28,17 +28,15 @@ source: bse
 stocks:
 - DSKULKARNI
 tags:
-- trading-resumption
-- insolvency-bankruptcy-code
-- ibc
-- resolution-plan
+- capital-reduction
+- equity
+- insolvency
 - minimum-public-shareholding
 - mps
-- offer-for-sale
-- ofs
-- capital-reduction
 - nclt
-- equity-shares
+- ofs
+- resolution-plan
+- trading-resumption
 title: Update on listing and trading of DS Kulkarni Developers Limited (Scrip Code
   – 523890)
 ---

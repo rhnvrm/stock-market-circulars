@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- STLNETWORKS
+- STLNETWORK
 tags:
+- equity
 - group-change
-- equity-shares
 - trading-group
-- stl-networks
 title: Change in Group of Equity Shares of STL Networks Limited
 ---
 

@@ -26,12 +26,11 @@ source: sebi
 stocks: []
 tags:
 - final-order
-- insider-trading
 - guest-experts
-- zee-business
-- stock-recommendations
-- market-manipulation
 - investigation
+- market-operations
+- stock-recommendations
+- zee-business
 title: Final Order in matter of trading based on stock recommendations by Guest Experts
   on Zee Business Channel
 ---

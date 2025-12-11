@@ -27,10 +27,10 @@ stocks:
 - LODHA
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icra-a1-rating
 - lodha-developers
 - private-placement
-- icra-a1-rating
 title: Listing of new Commercial Paper of Lodha Developers Limited
 ---
 

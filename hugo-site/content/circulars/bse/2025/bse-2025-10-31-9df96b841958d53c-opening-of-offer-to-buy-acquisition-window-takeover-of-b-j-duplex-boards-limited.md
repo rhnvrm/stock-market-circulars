@@ -28,12 +28,10 @@ source: bse
 stocks:
 - BJDUP
 tags:
-- takeover
-- open-offer
-- acquisition
-- sast-regulations
-- substantial-acquisition
 - bjduplexboard
+- regulatory-framework
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of B J DUPLEX BOARDS
   LIMITED
 ---

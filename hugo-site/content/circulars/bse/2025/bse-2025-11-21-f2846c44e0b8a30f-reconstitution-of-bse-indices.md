@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - INDIGO
-- TATAMOTORS
+- TMCV
 - IDFCFIRSTB
 - ADANIGREEN
 - MAXHEALTH
@@ -36,14 +36,14 @@ stocks:
 - PNB
 - UNIONBANK
 tags:
-- index
+- bse-100
+- bse-index
+- index-change
+- index-fund
 - reconstitution
 - sensex
-- bse-100
 - sensex-50
 - sensex-next-50
-- bankex
-- index-changes
 title: Reconstitution of BSE Indices - December 2025 Changes
 ---
 

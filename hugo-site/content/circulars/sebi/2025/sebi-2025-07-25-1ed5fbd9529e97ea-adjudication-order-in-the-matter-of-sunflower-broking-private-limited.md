@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- regulatory-violations
+- adjudication
 - authorized-person
 - enforcement
-- penalties
+- non-compliance
+- penalty
+- stock-broker
 title: Adjudication Order Against Sunflower Broking Private Limited for Regulatory
   Violations
 ---

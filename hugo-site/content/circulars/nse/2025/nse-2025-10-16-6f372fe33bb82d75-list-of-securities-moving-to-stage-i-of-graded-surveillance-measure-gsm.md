@@ -27,14 +27,11 @@ source: nse
 stocks:
 - GLFL
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-1
-- margin-requirements
+- asm-stage
+- margin
 - price-band
 - surveillance
 - trading-restrictions
-- GLFL
 title: Gujarat Lease Financing Limited Moved to Stage I of Graded Surveillance Measure
   (GSM)
 ---

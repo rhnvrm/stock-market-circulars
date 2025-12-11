@@ -28,10 +28,9 @@ stocks:
 - ADANIENT
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat
 - private-placement
-- adani-enterprises
-- dematerialised-trading
 title: Listing of New Commercial Paper of Adani Enterprises Ltd
 ---
 

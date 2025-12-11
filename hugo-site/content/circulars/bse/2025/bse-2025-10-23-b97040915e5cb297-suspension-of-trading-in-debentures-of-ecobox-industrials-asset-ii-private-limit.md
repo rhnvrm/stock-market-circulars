@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
-- early-redemption
 - corporate-action
-- debt-market
+- debt-securities
 - ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ECOBOX INDUSTRIALS ASSET II PRIVATE
   LIMITED
 ---

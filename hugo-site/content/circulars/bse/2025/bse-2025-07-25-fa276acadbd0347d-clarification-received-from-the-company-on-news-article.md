@@ -26,14 +26,12 @@ stocks:
 - JKLC
 - DECCANCE
 tags:
+- cement-sector
 - clarification
-- acquisition
+- disclosure-obligations
 - media-reports
 - regulation-30
-- disclosure-obligations
-- JKLC
-- DECCANCE
-- cement-sector
+- takeover
 title: 'BSE Clarification: JK Lakshmi Cement and Deccan Cements on Acquisition Reports'
 ---
 

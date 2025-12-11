@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- ppfas
-- parag-parikh
+- capital-withdrawal
 - flexi-cap-fund
 - idcw
 - income-distribution
-- capital-withdrawal
+- mutual-fund
+- parag-parikh
+- ppfas
 - scheme-launch
+- trading-platform
 title: Availability of Income Distribution & Capital Withdrawals option of Parag Parikh
   Flexi Cap Fund on NSE MF Invest Platform
 ---

@@ -26,13 +26,13 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
-- mutual-fund
 - bajaj-finserv
 - equity-savings-fund
+- mutual-fund
 - sip
+- star-mf
 - stp
 - swp
-- star-mf
 title: Availability of BAJAJ FINSERV EQUITY SAVINGS FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

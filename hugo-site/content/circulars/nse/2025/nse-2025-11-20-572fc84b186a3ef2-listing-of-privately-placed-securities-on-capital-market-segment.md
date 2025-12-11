@@ -26,11 +26,10 @@ source: nse
 stocks:
 - JIOCREDIT
 tags:
-- listing
-- debt-securities
-- private-placement
-- jio-credit-limited
 - capital-market
+- debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities on Capital Market Segment - Jio Credit
   Limited
 ---

@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- timeline-extension
-- stock-brokers
+- algo-trading
+- extension
 - implementation
+- retail-investor
+- stock-broker
 title: Extension of timeline for implementation of SEBI Circular on Safer participation
   of retail investors in Algorithmic trading
 ---

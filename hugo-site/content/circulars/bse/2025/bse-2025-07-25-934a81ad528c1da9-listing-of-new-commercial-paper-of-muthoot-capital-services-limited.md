@@ -26,11 +26,11 @@ stocks:
 - MCSL
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- muthoot-capital
-- new-listing
 - crisil-a1-plus
+- debt-securities
+- listing
+- muthoot-capital
+- private-placement
 title: Listing of Commercial Paper by Muthoot Capital Services Limited
 ---
 

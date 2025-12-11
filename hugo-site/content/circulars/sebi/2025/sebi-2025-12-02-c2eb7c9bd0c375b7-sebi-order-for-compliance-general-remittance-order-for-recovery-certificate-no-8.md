@@ -28,13 +28,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-order
-- portfolio-management
-- investment-advisory
-- unregistered-activities
 - compliance
-- recovery-certificate
+- enforcement
+- investment-adviser
+- portfolio-management
+- recovery
+- unregistered-activities
 title: General Remittance Order for Recovery Certificate No. 8839 of 2025 - Unregistered
   Portfolio and Investment Advisory Services
 ---

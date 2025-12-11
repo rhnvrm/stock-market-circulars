@@ -27,8 +27,7 @@ stocks:
 - NUVAMA
 tags:
 - commercial-paper
-- debt-listing
-- nuvama
+- debt-securities
 - private-placement
 - short-term-debt
 title: Listing of New Commercial Paper of NUVAMA CLEARING SERVICES LIMITED

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADDI
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for ADDI Industries Limited Takeover Offer - August to
   September 2025
 ---

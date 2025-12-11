@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - CEMANTIC
-- IEL
+- INDXTRA
 - NIHAR
 - SAL
 - SAYAJI
@@ -38,11 +38,9 @@ stocks:
 - KEMISTAR
 - OXFORD
 tags:
+- asm-stage
 - surveillance
-- lt-asm
 - trading-restrictions
-- stage-movement
-- market-surveillance
 title: Long Term Additional Surveillance Measure (LT-ASM) Framework Updates - September
   2025
 ---

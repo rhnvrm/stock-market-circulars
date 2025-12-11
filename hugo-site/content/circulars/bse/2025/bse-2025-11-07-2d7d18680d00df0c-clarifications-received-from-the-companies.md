@@ -30,13 +30,13 @@ stocks:
 - CCLPROD
 - PIPAVAV
 tags:
-- volume-movement
-- surveillance
 - clarification
-- market-driven
-- disclosure
 - compliance
-- SEBI-LODR
+- disclosure
+- lodr
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

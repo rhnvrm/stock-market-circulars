@@ -27,10 +27,10 @@ source: bse
 stocks:
 - QUALITEK
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
+- equity
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Qualitek Labs Limited
 ---
 

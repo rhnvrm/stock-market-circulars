@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BHATIACOLOR
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- lock-in
 - new-securities
-- lock-in-period
+- preferential-issue
 title: Listing of New Securities of Bhatia Colour Chem Limited - 42,132 Equity Shares
 ---
 

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '543515'
+- SEML
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 - sunrise-efficient-marketing
 title: Listing of 3,495,000 Equity Shares of Sunrise Efficient Marketing Limited
 ---

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BONDADA
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - bondada-engineering
+- conversion
+- equity
+- listing
+- preferential-issue
 title: Listing of New Securities of Bondada Engineering Limited
 ---
 

@@ -27,11 +27,9 @@ source: nse
 stocks:
 - LGEINDIA
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- LGEINDIA
+- listing
 title: Listing of Equity Shares of LG Electronics India Limited (IPO)
 ---
 

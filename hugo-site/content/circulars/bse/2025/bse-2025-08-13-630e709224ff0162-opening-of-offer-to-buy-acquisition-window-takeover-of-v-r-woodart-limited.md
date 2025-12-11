@@ -24,13 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- VRWOODART
+- VRWODAR
 tags:
-- takeover
-- open-offer
-- acquisition
-- substantial-acquisition
 - change-in-control
+- sast
+- takeover
 title: Open Offer for Acquisition of V. R. Woodart Limited by Mrs. Minal Patil and
   Ms. Maddukuri Mounica
 ---

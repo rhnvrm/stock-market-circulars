@@ -25,13 +25,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement
-- holidays
 - cash-segment
-- slbm
-- derivatives
-- trading
 - clearing
+- derivatives
+- holidays
+- settlement
+- slbm
+- trading
 title: Change in Settlement Dates for Cash and SLBM Segments Due to September 2025
   Holidays
 ---

@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
 - api
 - compliance
-- sebi-guidelines
-- bse-star-mf
 - investor-protection
 - kyc
+- mutual-fund
+- nomination
+- sebi-guidelines
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---
 

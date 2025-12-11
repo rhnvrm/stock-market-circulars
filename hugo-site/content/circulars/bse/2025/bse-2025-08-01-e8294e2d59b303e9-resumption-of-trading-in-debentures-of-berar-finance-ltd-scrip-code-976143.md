@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BERARFIN
 tags:
-- trading-resumption
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- face-value-revision
+- face-value-change
+- ncd
+- trading-resumption
 title: Resumption of Trading in Debentures of BERAR FINANCE LTD (Scrip Code 976143)
 ---
 

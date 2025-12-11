@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SUVEN
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
 - suven-life-sciences
 title: Listing of New Securities of Suven Life Sciences Ltd - 91.86 Lakh Equity Shares
 ---

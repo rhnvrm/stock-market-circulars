@@ -26,9 +26,9 @@ stocks:
 - MAFSIP
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - mirae-asset
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Mirae Asset Financial Services (India) Private
   Limited

@@ -23,14 +23,13 @@ published_date: '2025-08-22T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML69795.pdf
 severity: medium
 source: nse
-stocks:
-- 894HFL25
+stocks: []
 tags:
-- trading-suspension
-- non-convertible-debentures
+- debt-securities
 - hero-fincorp
 - maturity
-- debt-securities
+- ncd
+- suspension
 title: Suspension of trading in Non-Convertible Debentures - Hero FinCorp Limited
 ---
 

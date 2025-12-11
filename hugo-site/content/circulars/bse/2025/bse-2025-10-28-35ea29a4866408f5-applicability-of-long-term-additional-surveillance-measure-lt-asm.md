@@ -31,11 +31,10 @@ stocks:
 - BINNYMILL
 - BOMTALKIE
 tags:
-- surveillance
-- lt-asm
-- additional-surveillance-measure
-- trading
+- asm-stage
 - market-operations
+- surveillance
+- trading
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -27,10 +27,10 @@ stocks:
 - MUFIN
 tags:
 - debt-securities
-- new-listing
-- private-placement
+- listing
 - mufin-green-finance
-- debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of MUFIN GREEN FINANCE LIMITED
 ---
 

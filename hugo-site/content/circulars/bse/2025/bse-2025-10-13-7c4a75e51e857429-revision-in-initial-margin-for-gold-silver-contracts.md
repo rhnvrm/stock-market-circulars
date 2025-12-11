@@ -26,13 +26,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-requirements
+- derivatives
 - gold
-- silver
-- risk-management
-- initial-margin
 - iccl
+- initial-margin
+- margin
+- risk-management
+- silver
 title: Revision in Initial Margin for Gold & Silver Contracts
 ---
 

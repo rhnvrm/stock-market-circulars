@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - sbicap-securities
-- debt-market
 title: Listing of New Commercial Paper of SBICAP Securities Limited
 ---
 

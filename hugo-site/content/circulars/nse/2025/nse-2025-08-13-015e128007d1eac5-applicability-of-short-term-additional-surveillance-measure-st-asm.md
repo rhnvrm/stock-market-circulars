@@ -30,10 +30,9 @@ stocks:
 - NDLVENTURE
 - YATRA
 tags:
-- surveillance
+- asm-stage
 - margin
-- st-asm
-- additional-surveillance
+- surveillance
 - trading-restrictions
 title: Short-Term Additional Surveillance Measure (ST-ASM) - Stage I Implementation
   for 4 Securities

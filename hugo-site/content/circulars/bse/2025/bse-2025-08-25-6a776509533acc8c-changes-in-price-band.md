@@ -35,9 +35,9 @@ stocks:
 - VENMAX
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Price Band Revisions for 9 Securities Effective August 26, 2025
 ---
 

@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- morgan-stanley
+- appeal
 - financial-fraud
-- time-barred-appeal
 - information-requests
+- morgan-stanley
+- rti
+- time-barred-appeal
 title: RTI Appeal No. 6521 of 2025 - Nitin Prabhakar Deshpande dismissed as time barred
 ---
 

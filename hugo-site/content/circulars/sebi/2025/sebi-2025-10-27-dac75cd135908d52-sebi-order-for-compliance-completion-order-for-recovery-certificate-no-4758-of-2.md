@@ -27,11 +27,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- compliance
-- recovery-certificate
-- enforcement
 - brijlaxmi-leasing
-- debt-recovery
+- compliance
+- enforcement
+- recovery
 title: SEBI Compliance Completion Order for Recovery Certificate No. 4758 of 2022
   against Mr. Ankur J. Chaturvedi
 ---

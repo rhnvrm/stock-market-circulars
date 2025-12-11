@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - truhome-finance
-- debentures
 title: Listing of new debt securities of Truhome Finance Limited
 ---
 

@@ -25,9 +25,9 @@ source: bse
 stocks:
 - CES
 tags:
-- delisting
-- reverse-book-building
+- book-building
 - ces-limited
+- delisting
 - regulation-173
 title: Outcome of Reverse Book Building Process under regulation 17(3) of the Delisting
   Regulations of CES LIMITED

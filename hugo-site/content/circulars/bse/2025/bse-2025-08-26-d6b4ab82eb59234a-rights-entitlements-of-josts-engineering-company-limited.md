@@ -26,11 +26,10 @@ source: bse
 stocks:
 - JOSTS
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - equity
 - josts-engineering
+- rights-issue
+- trading
 title: Rights Entitlements Trading for JOSTS Engineering Company Limited
 ---
 

@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- debt-securities
+- fixed-income
 - mutual-fund
-- merger
-- fixed-maturity-plan
-- debt-fund
-- sebi-approval
+- scheme-of-arrangement
+- sebi-order
 - tax-efficiency
 title: Merger of HDFC FMP 1158D July 2022 - Series 46 into HDFC Banking and PSU Debt
   Fund

@@ -26,7 +26,7 @@ severity: low
 source: nse
 stocks:
 - NABARD
-- GODREJAGROVET
+- GODREJAGRO
 - 5PAISACAP
 - GODREJIND
 - KOTAKSEC
@@ -34,11 +34,11 @@ stocks:
 - ABFRL
 - RELIANCE
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
 title: Listing of privately placed securities on the debt market segment of the exchange
 ---
 

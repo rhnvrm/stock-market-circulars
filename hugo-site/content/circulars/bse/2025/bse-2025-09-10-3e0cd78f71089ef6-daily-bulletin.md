@@ -25,21 +25,21 @@ severity: low
 source: bse
 stocks:
 - 3BBLACKBIO
-- AGRIBIOSPIRITS
-- ASHOKABUILDCON
-- BAJAJHEALTHCARE
+- AGRIBIO
+- ASHOKA
+- BAJAJHCARE
 - BEML
-- BHARATPARENTERALS
+- BPLPHARMA
 - BONDADAENG
 - CYBERTECH
 - EDELWEISS
 tags:
-- daily-bulletin
-- dividends
-- record-dates
 - book-closure
-- corporate-actions
-- interest-payments
+- corporate-action
+- daily-bulletin
+- dividend
+- interest-payment
+- record-date
 title: Daily Bulletin - Book Closure and Record Dates for Dividends and Corporate
   Actions
 ---

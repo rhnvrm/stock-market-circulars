@@ -28,12 +28,11 @@ stocks:
 - ARIHANT
 - BANCOINDIA
 tags:
-- price-movement
-- surveillance
 - clarification
-- market-driven
+- market-operations
+- price-movement
 - regulation-30
-- volume-increase
+- surveillance
 title: Clarifications received from the companies
 ---
 

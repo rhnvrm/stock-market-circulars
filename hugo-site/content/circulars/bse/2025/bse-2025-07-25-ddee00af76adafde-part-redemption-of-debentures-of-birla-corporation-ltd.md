@@ -25,14 +25,14 @@ source: bse
 stocks:
 - BIRLACRP
 tags:
-- corporate-actions
-- debentures
-- part-redemption
-- debt-securities
 - birla-corporation
+- corporate-action
+- debt-securities
 - face-value-reduction
-- record-date
 - interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of BIRLA CORPORATION LTD.
 ---
 

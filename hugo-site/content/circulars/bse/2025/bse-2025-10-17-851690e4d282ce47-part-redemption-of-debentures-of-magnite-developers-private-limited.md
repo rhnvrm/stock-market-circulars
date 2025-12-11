@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MAGNITE
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- debt-market
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Magnite Developers Private Limited
 ---
 

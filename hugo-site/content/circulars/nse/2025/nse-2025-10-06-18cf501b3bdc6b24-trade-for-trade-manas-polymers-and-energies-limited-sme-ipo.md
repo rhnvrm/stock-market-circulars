@@ -26,11 +26,11 @@ source: nse
 stocks:
 - MPEL
 tags:
-- trade-for-trade
-- segment-transfer
-- sme-ipo
 - listing
 - manas-polymers
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Manas Polymers and Energies Limited (SME IPO)
 ---
 

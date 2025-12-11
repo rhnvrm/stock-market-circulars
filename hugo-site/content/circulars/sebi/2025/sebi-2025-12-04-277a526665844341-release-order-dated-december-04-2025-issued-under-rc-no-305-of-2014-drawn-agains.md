@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- recovery-certificate
 - enforcement
-- release-order
 - jugnu-securities
-- kolar-biotech
+- recovery
+- release
 title: Release Order dated December 04, 2025 issued under RC No. 305 of 2014 drawn
   against M/s Jugnu Securities Private Limited in the matter of Kolar Biotech Limited
 ---

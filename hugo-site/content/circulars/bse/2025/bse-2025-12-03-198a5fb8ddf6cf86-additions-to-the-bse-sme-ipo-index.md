@@ -24,15 +24,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544623'
-- '544624'
+- MNFL
+- KKSILK
 tags:
-- index
-- sme-ipo
+- index-change
+- index-fund
+- kk-silk-mills
 - listing
 - mother-nutri-foods
-- kk-silk-mills
-- index-addition
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

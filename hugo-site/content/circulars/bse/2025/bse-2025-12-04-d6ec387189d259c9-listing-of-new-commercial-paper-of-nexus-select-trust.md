@@ -27,9 +27,9 @@ stocks:
 - NST
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - nexus-select-trust
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Nexus Select Trust
 ---

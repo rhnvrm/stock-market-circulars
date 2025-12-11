@@ -27,11 +27,10 @@ stocks:
 - HINDSTNGL
 - STEELCOGUJ
 tags:
-- surveillance
-- ibc
-- insolvency
 - exclusions
-- trading-measures
+- insolvency
+- surveillance
+- trading-operations
 title: Surveillance Measure for securities under IBC - August 19, 2025
 ---
 

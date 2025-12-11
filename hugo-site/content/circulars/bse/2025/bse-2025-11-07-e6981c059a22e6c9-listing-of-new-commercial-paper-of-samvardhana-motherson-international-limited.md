@@ -28,10 +28,9 @@ stocks:
 - MOTHERSON
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- samvardhana-motherson
+- debt-securities
 - icra-rated
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Samvardhana Motherson International Limited
 ---

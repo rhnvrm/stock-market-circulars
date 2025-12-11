@@ -25,24 +25,22 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GVFILMS
+- GVFILM
 - TRUECOLORS
 - UNIPRO
 - STARLINEPS
 - ATHENACONS
 - JETSOLAR
-- VTM
+- VTMLTD
 - NACL
 - KIOCL
 - AADIIND
 - CUPID
 - ESAAR
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- trading-measures
-- market-surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

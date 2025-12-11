@@ -28,12 +28,11 @@ source: bse
 stocks:
 - IEX
 tags:
-- insider-trading
-- enforcement-action
-- sebi-order
-- pit-regulations
+- enforcement
 - interim-order
 - investigation
+- pit-regulations
+- sebi-order
 title: Ex-Parte Interim Order in the matter of Insider Trading by certain entities
   in the scrip of IEX
 ---

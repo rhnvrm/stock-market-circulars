@@ -81,11 +81,10 @@ stocks:
 - SHESH
 - SPL
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- surveillance-measure
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
   Across Stages
 ---

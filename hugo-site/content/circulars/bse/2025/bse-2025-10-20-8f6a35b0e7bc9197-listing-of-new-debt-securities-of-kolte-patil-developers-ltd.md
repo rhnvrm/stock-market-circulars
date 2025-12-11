@@ -27,12 +27,10 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- kolte-patil-developers
-- corporate-bonds
-- debt-segment
 title: Listing of New Debt Securities of Kolte-Patil Developers Ltd
 ---
 

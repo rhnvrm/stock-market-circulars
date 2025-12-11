@@ -27,12 +27,12 @@ source: nse
 stocks:
 - FELIX
 tags:
-- listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
-- sme-emerge
+- conversion
+- emerge-platform
+- equity
 - further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Felix Industries Limited - Conversion of Warrants
 ---
 

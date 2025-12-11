@@ -26,13 +26,11 @@ source: bse
 stocks:
 - KANAKADURGA
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
-- debt-market
-- kanakadurga-finance
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KANAKADURGA FINANCE LIMITED
 ---
 

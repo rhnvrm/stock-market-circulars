@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SPANDANA
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- spandana-sphoorty
-- corporate-bonds
-- non-convertible-debentures
 title: Listing of New Debt Securities of Spandana Sphoorty Financial Limited
 ---
 

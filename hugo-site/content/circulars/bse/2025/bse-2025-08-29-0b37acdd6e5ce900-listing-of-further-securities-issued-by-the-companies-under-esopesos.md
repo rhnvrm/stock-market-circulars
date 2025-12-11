@@ -32,11 +32,9 @@ stocks:
 - TRIVENI
 - BAJFINANCE
 tags:
+- equity
 - esop
-- esos
-- employee-stock-options
 - listing
-- equity-shares
 title: Listing of New Securities Under ESOP/ESOS - 8 Companies
 ---
 

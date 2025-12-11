@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - cnh-industrial-capital
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of CNH Industrial Capital (India) Private Limited
 ---
 

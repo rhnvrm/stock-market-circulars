@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aditya-birla
 - mutual-fund
 - settlement-type
-- aditya-birla
-- bse-star-mf
 title: Changes in settlement type of ADITYA BIRLA Mutual Fund on BSE StAR MF platform
 ---
 

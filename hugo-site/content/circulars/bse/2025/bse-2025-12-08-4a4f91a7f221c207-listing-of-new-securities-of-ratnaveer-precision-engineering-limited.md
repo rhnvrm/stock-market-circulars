@@ -27,12 +27,10 @@ source: bse
 stocks:
 - RATNAVEER
 tags:
+- equity
 - listing
-- qip
-- equity-shares
-- qualified-institutional-placement
 - new-securities
-- ratnaveer-precision-engineering
+- qip
 title: Listing of New Securities of Ratnaveer Precision Engineering Limited
 ---
 

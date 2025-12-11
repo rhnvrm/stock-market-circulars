@@ -26,12 +26,11 @@ source: bse
 stocks:
 - DHFL
 tags:
-- sebi-order
-- dhfl
-- fund-diversion
 - financial-fraud
+- fund-diversion
 - promoter-violations
 - related-party-transactions
+- sebi-order
 - securities-fraud
 title: SEBI Final Order Against DHFL Promoters for Fund Diversion and Financial Misstatements
 ---

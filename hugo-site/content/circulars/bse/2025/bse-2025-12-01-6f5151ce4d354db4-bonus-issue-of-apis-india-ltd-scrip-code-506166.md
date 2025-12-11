@@ -27,9 +27,9 @@ source: bse
 stocks:
 - APIS
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
+- equity
 - listing
 - record-date
 title: Bonus Issue of APIS India Limited - Record Date December 05, 2025

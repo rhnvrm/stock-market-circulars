@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PATELCHEM
 tags:
+- equity
 - group-change
-- trading-segment
-- sme
-- equity-shares
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of PATEL CHEM SPECIALITIES LIMITED
 ---
 

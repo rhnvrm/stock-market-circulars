@@ -29,12 +29,9 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- equity-derivatives
-- market-wide-limits
-- adani-enterprises
-- settlement
-- rms
 - risk-management
+- rms
+- settlement
 title: Market Wide Position Limits for Equity Derivatives Segment - Adani Enterprises
   Ltd
 ---

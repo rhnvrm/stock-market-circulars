@@ -29,11 +29,10 @@ stocks:
 - SMCGS
 tags:
 - debt-securities
-- ncd
-- listing
-- smc-global-securities
-- debentures
 - fixed-income
+- listing
+- ncd
+- smc-global-securities
 title: Listing of Secured Redeemable Non-Convertible Debentures of SMC Global Securities
   Limited
 ---

@@ -46,13 +46,12 @@ stocks:
 - TUTICHEM
 - VERITAS
 tags:
+- asm-stage
+- exclusively-listed
 - group-change
+- market-segmentation
 - x-segment
 - xt-segment
-- b-group
-- t-group
-- market-segmentation
-- exclusively-listed
 title: Group Change for Exclusively Listed Companies - December 2025
 ---
 

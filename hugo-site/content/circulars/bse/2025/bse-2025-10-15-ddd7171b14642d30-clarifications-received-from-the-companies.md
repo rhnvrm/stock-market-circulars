@@ -29,14 +29,10 @@ stocks:
 - FOSECOIND
 - KERNEX
 tags:
-- surveillance
-- price-movement
-- volume-increase
 - clarification
 - disclosure
-- NIRAJCEM
-- FOSECOIND
-- KERNEX
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -29,12 +29,11 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
-- recovery-proceedings
-- attachment-order
+- attachment
 - bank-accounts
 - enforcement
 - prakash-constrowell
-- setubandhan-infrastructure
+- recovery
 title: Notice of Attachment of Bank Accounts dated November 17, 2025 under RC 8929
   of 2025 against Prafulla Subhash Chandra Bhat (PAN - AMEPB0155F) in the matter of
   Prakash Constrowell Limited (now Setubandhan Infrastructure Limited)

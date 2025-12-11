@@ -28,11 +28,10 @@ stocks:
 - ABANS
 - DATAMATICS
 tags:
-- price-movement
-- volume-increase
-- surveillance
 - compliance
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from companies on price/volume movements
 ---
 

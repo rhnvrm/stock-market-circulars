@@ -26,9 +26,9 @@ source: nse
 stocks: []
 tags:
 - futures-options
-- settlement-schedule
-- trading-calendar
 - september-2025
+- settlement
+- trading-calendar
 title: F&O Monthly Settlement Schedule for September 2025
 ---
 

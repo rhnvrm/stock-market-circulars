@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
 - bandhan-mutual-fund
-- us-treasury-bond
-- fund-of-fund
+- fund-of-funds
+- holiday
+- mutual-fund
 - transaction-suspension
+- us-treasury-bond
 title: Non-Business Day for Bandhan Mutual Fund US Treasury Bond Schemes on NSE MF
   Invest Platform
 ---

@@ -28,11 +28,10 @@ source: nse
 stocks:
 - BHALCHANDR
 tags:
-- voluntary-delisting
-- equity-shares
+- delisting
+- equity
 - institutional-trading-platform
 - suspension
-- bhalchandram-clothing
 title: Voluntary Delisting of Equity Shares of Bhalchandram Clothing Limited w.e.f.
   November 03, 2025
 ---

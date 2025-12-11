@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- scores-portal
+- appeal
 - complaint-status
-- appellate-authority
 - information-access
+- rti
+- scores-portal
 title: RTI Appeal No. 6476 of 2025 - Ankit Sharma vs CPIO SEBI Mumbai - Dismissed
 ---
 

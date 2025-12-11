@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-schedule
 - clearing
+- derivatives
 - rbi-directive
+- settlement
 title: Commodity Derivative Segment - Clarification on Settlement Schedule Changes
   for September 2025
 ---

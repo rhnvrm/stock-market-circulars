@@ -26,13 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- sovereign-gold-bond
-- trading-suspension
-- debt-market
-- redemption
+- debt-securities
+- gold
 - maturity
+- redemption
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills
 ---
 

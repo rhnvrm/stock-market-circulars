@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GDPL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
+- ncd
 - record-date
+- suspension
 title: Suspension of Trading in Debentures of GERA DEVELOPMENTS PRIVATE LIMITED
 ---
 

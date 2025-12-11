@@ -25,13 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - delisting
-- uttam-value-steels
 - evonith-value-steels
 - nclt
 - resolution-plan
+- rti
 - shareholder-rights
+- uttam-value-steels
 title: Appeal No. 6584 of 2025 filed by Kumar Gautam
 ---
 

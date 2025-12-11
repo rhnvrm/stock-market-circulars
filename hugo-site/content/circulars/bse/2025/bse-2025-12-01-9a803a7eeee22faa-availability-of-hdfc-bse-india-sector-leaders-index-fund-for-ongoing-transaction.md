@@ -26,16 +26,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
+- equity-scheme
 - hdfc-mutual-fund
 - index-fund
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-scheme
 title: HDFC BSE India Sector Leaders Index Fund Reopening for Transactions on BSE
   StAR MF Platform
 ---

@@ -27,12 +27,12 @@ source: nse
 stocks:
 - UNIHEALTH
 tags:
-- listing
+- conversion
+- emerge-platform
+- equity
 - further-issue
-- warrant-conversion
-- preferential-allotment
-- sme-emerge
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issues of Unihealth Hospitals Limited - Warrant Conversion
 ---
 

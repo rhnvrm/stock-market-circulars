@@ -24,11 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fof
+- fund-of-funds
 - gold-silver
 - mirae-asset
-- bse-star-mf
+- mutual-fund
 - sip
 - stp
 - swp

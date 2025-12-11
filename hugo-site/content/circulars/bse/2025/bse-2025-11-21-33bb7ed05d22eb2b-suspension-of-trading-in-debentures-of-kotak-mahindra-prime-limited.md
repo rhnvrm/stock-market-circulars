@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KMPRIME
 tags:
-- suspension
-- debentures
-- redemption
+- debt-securities
 - interest-payment
 - kotak-mahindra-prime
-- debt-securities
+- ncd
+- redemption
+- suspension
 - trading-halt
 title: Suspension of Trading in Debentures of Kotak Mahindra Prime Limited
 ---

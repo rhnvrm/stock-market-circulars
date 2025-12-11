@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- investment-advisory
-- enforcement-action
 - compliance
 - defaulter
+- enforcement
+- investment-adviser
+- recovery
 title: SEBI Release Order for Recovery Certificate No. 8638 of 2025 against Pinnacle
   Market Investment Advisory Pvt. Ltd.
 ---

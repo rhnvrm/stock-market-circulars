@@ -26,13 +26,13 @@ source: nse
 stocks:
 - ABC
 tags:
-- equity-derivatives
-- risk-monitoring
 - delta-neutral
-- position-limits
-- penalties
-- futures
+- derivatives
+- futures-options
 - options
+- penalty
+- position-limits
+- risk-monitoring
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

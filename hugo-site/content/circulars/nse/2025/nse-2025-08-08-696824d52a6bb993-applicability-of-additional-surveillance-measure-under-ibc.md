@@ -32,12 +32,8 @@ stocks:
 - FLFL
 - FSC
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
+- surveillance
 title: Additional Surveillance Measure under IBC - Security Updates
 ---
 

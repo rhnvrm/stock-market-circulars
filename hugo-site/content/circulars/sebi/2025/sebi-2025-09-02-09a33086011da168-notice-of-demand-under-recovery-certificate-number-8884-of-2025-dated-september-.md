@@ -24,11 +24,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- bse
 - enforcement
 - illiquid-stocks
-- bse
 - penalty
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8884 - Mrinal Verma
 ---
 

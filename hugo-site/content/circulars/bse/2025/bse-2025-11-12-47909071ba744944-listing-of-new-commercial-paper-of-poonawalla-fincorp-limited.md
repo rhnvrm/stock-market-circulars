@@ -28,11 +28,9 @@ stocks:
 - POONAWALLA
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- poonawalla-fincorp
+- debt-securities
 - icici-bank
-- debt-segment
+- private-placement
 title: Listing of Commercial Paper of Poonawalla Fincorp Limited
 ---
 

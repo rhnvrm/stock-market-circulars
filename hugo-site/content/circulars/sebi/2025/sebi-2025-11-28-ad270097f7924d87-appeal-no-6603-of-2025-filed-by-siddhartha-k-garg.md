@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- technical-glitch
 - bse
-- transparency
 - fiduciary-capacity
 - information-disclosure
+- rti
+- technical-glitch
+- transparency
 title: Appeal No. 6603 of 2025 filed by Siddhartha K Garg
 ---
 

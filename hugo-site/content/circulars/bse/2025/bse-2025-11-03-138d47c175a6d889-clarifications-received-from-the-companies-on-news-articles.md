@@ -29,12 +29,12 @@ stocks:
 - SHRIRAMFIN
 - IDEA
 tags:
-- rumour-verification
 - clarification
-- regulation-30-11
+- disclosure
 - media-reports
 - price-movement
-- disclosure
+- regulation-30-11
+- rumour-verification
 title: Clarifications received from the companies on news articles
 ---
 

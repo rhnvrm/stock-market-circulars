@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks:
 - ANNVRRIDHHI
+- ANVRDHI
 tags:
-- rights-issue
-- issue-extension
-- equity-shares
 - corporate-action
-- annvrridhhi-ventures
-- '538539'
+- equity
+- extension
+- rights-issue
 title: Annvrridhhi Ventures Limited - Rights Issue Closing Date Extended to December
   16, 2025
 ---

@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
+- bilaspur-pathrapali-road
+- debt-securities
+- infrastructure
 - ncd
 - private-placement
-- bilaspur-pathrapali-road
-- infrastructure
 title: Listing of New Debt Securities of Bilaspur Pathrapali Road Private Limited
 ---
 

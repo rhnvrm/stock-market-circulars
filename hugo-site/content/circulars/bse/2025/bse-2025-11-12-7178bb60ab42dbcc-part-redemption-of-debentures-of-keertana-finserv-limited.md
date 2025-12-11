@@ -27,13 +27,13 @@ source: bse
 stocks:
 - KFPL
 tags:
-- debt
-- corporate-actions
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- record-date
 - keertana-finserv
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Keertana Finserv Limited
 ---
 

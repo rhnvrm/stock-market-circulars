@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AZADMOBIL
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- lock-in
 - azad-india-mobility
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of Securities - AZAD INDIA MOBILITY LIMITED
 ---
 

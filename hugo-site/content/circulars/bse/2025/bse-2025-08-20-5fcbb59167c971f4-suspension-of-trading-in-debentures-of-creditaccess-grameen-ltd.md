@@ -26,12 +26,12 @@ source: bse
 stocks:
 - CREDITACCESS
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of CREDITACCESS GRAMEEN LTD
 ---
 

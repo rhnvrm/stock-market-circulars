@@ -28,10 +28,10 @@ stocks:
 - NIHARINFO
 tags:
 - annual-listing-fees
-- trading-suspension
 - compliance
-- equity-segment
-- sebi-lodr
+- equity
+- lodr
+- suspension
 title: Action Against Defaulting Companies for Non-Payment of Annual Listing Fees
   - Equity Segment
 ---

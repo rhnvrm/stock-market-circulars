@@ -28,10 +28,10 @@ stocks:
 - POWERGRID
 - SUNDARAMHOME
 tags:
-- trading-suspension
-- debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
 title: Suspension of trading in Non-Convertible Debenture (Privately Placed)
 ---
 

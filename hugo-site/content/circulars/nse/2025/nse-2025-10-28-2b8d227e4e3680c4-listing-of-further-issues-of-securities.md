@@ -37,12 +37,12 @@ stocks:
 - SEQUENT
 - TIRUFORGE
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
-- warrants-conversion
 - capital-market
+- conversion
+- equity
+- esop
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - Nine Companies
 ---
 

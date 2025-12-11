@@ -26,10 +26,10 @@ source: bse
 stocks:
 - PATEL
 tags:
-- public-issue
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - ipo
+- public-issue
 - retail
 title: Public Issue of Patel Retail Limited - Allocation to Anchor Investors
 ---

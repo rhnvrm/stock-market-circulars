@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- algorithmic-trading
-- trading-platforms
-- regulatory-oversight
+- algo-trading
 - investor-protection
+- market-infrastructure
+- regulatory-oversight
+- rti
 title: Appeal No. 6485 of 2025 filed by Mohit Goyal - RTI Appeal on Algorithmic Trading
   Platforms
 ---

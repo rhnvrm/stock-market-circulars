@@ -42,11 +42,10 @@ stocks:
 - ADHATA
 - SHIVAMSH
 tags:
-- surveillance
-- gsm
-- trading-restrictions
-- market-regulation
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

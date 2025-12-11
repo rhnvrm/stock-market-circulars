@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - employee-information
 - grievance-redressal
-- appellate-authority
 - information-access
+- rti
 title: Appeal No. 6468 of 2025 filed by Nitin Goradia - RTI Appeal Dismissed
 ---
 

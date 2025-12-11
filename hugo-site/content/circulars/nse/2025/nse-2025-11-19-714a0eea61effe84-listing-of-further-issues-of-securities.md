@@ -38,14 +38,14 @@ stocks:
 - NORBENEXP
 - PRIMESEC
 - WIPRO
-- PRIMEFOCUS
+- PFOCUS
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
-- securities-admission
 - capital-market
+- equity
+- esop
+- listing
+- preferential-issue
+- securities-admission
 title: Listing of Further Issues of Securities - 13 Companies
 ---
 

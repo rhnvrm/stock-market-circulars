@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- currency
+- derivatives
 - membership
 - surrender
-- derivatives
-- currency
 - trading-member
-- compliance
 title: Segmental Surrender of Membership - Krchouksey Share and Securities Private
   Limited
 ---

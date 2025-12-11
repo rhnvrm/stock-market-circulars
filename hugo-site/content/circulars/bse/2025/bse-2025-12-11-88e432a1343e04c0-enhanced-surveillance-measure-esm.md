@@ -32,12 +32,10 @@ stocks:
 - RAMGOPAL
 - WARDWIZ
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-monitoring
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective December
   12, 2025
 ---

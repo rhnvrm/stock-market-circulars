@@ -27,10 +27,10 @@ source: bse
 stocks:
 - VERANDALEARNING
 tags:
-- equity-listing
-- preferential-issue
+- equity
+- lock-in
 - new-securities
-- lock-in-period
+- preferential-issue
 title: Listing of New Securities of Veranda Learning Solutions Limited
 ---
 

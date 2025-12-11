@@ -35,7 +35,7 @@ stocks:
 - GODREJ
 - HDFC
 - IOCL
-- L&T
+- LT
 - RJIL
 - RRVL
 - AXIS
@@ -44,10 +44,10 @@ stocks:
 - RAMCO
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
-- redemption
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

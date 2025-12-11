@@ -28,11 +28,10 @@ source: sebi
 stocks:
 - RKDAGRI
 tags:
-- recovery-certificate
-- notice-of-demand
-- enforcement-action
+- demand-notice
+- enforcement
+- recovery
 - rkd-agri-retail
-- recovery-proceedings
 title: Notice of Demand under Recovery Certificate No. 8923 of 2025 against Nilesh
   Malshi Savla and Meena Nilesh Savla - RKD Agri & Retail Limited
 ---

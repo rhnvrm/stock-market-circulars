@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SHREEGAN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - rights-issue
-- share-conversion
-- shree-ganesh-remedies
 title: Listing of New Securities of Shree Ganesh Remedies Ltd
 ---
 

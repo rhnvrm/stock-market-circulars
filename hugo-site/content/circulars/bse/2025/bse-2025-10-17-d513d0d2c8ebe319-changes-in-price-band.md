@@ -28,8 +28,8 @@ stocks:
 - AGIOPAPER
 - AMAL
 - AMEENJIRUBB
-- ANANDRAYONS
-- ANKAINDIA
+- ARL
+- ANKIN
 - ASHNISHA
 - BEMCO
 - BHAVIKENT
@@ -41,7 +41,7 @@ stocks:
 - DMRENG
 - ELANGO
 - FLORA
-- GAGANGASES
+- GAGAN
 - GHVINFRA
 - GUJRAFFIA
 - ISOC
@@ -52,7 +52,7 @@ stocks:
 - MILESTONE
 - NORBENTEA
 - PARSVNATH
-- RAPCORP
+- RAP
 - REFEX
 - REGENT
 - RSCINTL
@@ -69,11 +69,11 @@ stocks:
 - UPSURGE
 - VASWANI
 tags:
+- asm-stage
+- circuit-filters
 - price-band
 - trading-restrictions
 - volatility-control
-- surveillance-measure
-- circuit-filters
 title: Changes in Price Band for 43 Securities Effective October 20, 2025
 ---
 

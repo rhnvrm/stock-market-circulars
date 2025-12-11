@@ -24,10 +24,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- trading-suspension
 - debt-securities
-- non-convertible-debenture
+- ncd
 - redemption
+- suspension
 title: Suspension of trading in Non-Convertible Debenture (Privately Placed)
 ---
 

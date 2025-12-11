@@ -28,13 +28,10 @@ source: bse
 stocks:
 - HGIL
 tags:
-- open-offer
+- preferential-issue
+- sast
+- shareholding-pattern
 - takeover
-- acquisition
-- sebi-sast
-- public-shareholders
-- preferential-allotment
-- HGIL
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Hari Govind International
   Limited
 ---

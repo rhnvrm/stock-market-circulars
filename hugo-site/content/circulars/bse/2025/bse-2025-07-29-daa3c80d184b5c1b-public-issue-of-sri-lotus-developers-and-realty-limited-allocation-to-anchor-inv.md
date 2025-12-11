@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SRILOTUS
 tags:
-- ipo
-- anchor-investors
-- allocation
-- fresh-issue
-- real-estate
+- allotment
+- anchor-investor
 - developers
+- further-issue
+- ipo
+- real-estate
 title: Public Issue of Sri Lotus Developers and Realty Limited - Allocation to Anchor
   Investors
 ---

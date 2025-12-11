@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription-suspension
+- fund-of-funds
+- market-operations
+- mutual-fund
+- silver
+- suspension
 - tata-mutual-fund
-- silver-etf
-- fund-of-fund
-- market-conditions
 title: Temporary Suspension of Subscription in Tata Silver ETF Fund of Fund
 ---
 

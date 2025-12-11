@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - WELLPACK
 tags:
-- remittance-order
-- enforcement
-- recovery-certificate
 - anand-finstock-services
-- well-pack-papers
+- demand-notice
+- enforcement
+- recovery
 title: General Remittance Order dated 30.09.2025 - RC No. 1160/2017 - Anand Finstock
   Services Limited - Well Pack Papers and Containers Limited
 ---

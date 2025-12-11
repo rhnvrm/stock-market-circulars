@@ -26,12 +26,12 @@ source: bse
 stocks:
 - UGROCAP
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
 - ugro-capital
-- bonds
-- debentures
 title: Listing of New Debt Securities of UGRO Capital Limited
 ---
 

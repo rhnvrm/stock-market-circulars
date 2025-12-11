@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOYAL
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- new-securities
+- conversion
+- equity
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of Securities of Goyal Associates Ltd. - Preferential Issue of 60 Lakh
   Equity Shares
 ---

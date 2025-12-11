@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MINIDIA
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
+- equity
 - mini-diamonds-india
 - record-date
+- split
 title: 'Sub-Division of Equity Shares of Mini Diamonds India Ltd (Scrip Code: 523373)'
 ---
 

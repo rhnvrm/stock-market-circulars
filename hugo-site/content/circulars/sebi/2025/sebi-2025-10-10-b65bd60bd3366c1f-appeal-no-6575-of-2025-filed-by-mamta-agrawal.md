@@ -28,13 +28,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
-- duplicate-shares
-- rta
 - court-injunction
-- investor-services
+- duplicate-shares
 - information-exemption
+- investor-services
+- rta
+- rti
 title: Appeal No. 6575 of 2025 filed by Mamta Agrawal
 ---
 

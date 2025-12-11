@@ -26,11 +26,10 @@ source: bse
 stocks:
 - AUTORIDERS
 tags:
-- bonus-issue
-- equity-shares
+- bonus
 - corporate-action
+- equity
 - listing
-- autoriders-international
 title: 'Bonus Issue of Autoriders International Ltd (Scrip Code: 512277)'
 ---
 

@@ -38,10 +38,10 @@ stocks:
 - SHARMAEI
 - TITANBI
 tags:
-- price-band
-- trading
 - equity
+- price-band
 - surveillance
+- trading
 title: BSE Revises Price Bands for 13 Securities Effective September 3, 2025
 ---
 

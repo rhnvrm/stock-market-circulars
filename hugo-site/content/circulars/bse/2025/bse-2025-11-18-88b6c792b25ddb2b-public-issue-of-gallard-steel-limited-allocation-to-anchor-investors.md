@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GALLARDSTEEL
+- GALLARD
 tags:
-- ipo
-- anchor-investors
+- allotment
+- anchor-investor
 - gallard-steel
-- public-issue
-- allocation
+- ipo
 - listing
+- public-issue
 title: Public Issue of Gallard Steel Limited - Allocation to Anchor Investors
 ---
 

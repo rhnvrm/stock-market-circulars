@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
+- attachment
+- compliance
 - enforcement
-- recovery-proceedings
-- bank-account-attachment
-- compliance-notice
-- sms-techsoft
+- recovery
 title: SEBI Order for Compliance – Notice of Attachment of Bank Account for Recovery
   Certificate No. 5552 of 2022 against Mitesh Kaniyalal Thakkar
 ---

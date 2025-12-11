@@ -28,10 +28,10 @@ stocks:
 - NUVAMA
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
+- debt-securities
+- listing
 - nuvama-wealth
-- new-listing
+- private-placement
 title: Listing of new Commercial Paper of Nuvama Wealth Management Limited
 ---
 

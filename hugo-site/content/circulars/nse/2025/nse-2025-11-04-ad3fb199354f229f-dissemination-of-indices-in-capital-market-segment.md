@@ -28,16 +28,16 @@ severity: low
 source: nse
 stocks: []
 tags:
+- dissemination
+- flexicap
+- fpi
 - indices
 - market-data
-- trading-system
-- dissemination
+- market-infrastructure
 - nifty-indices
-- fpi
-- flexicap
 - quality
-- sme
 - sectoral-indices
+- sme
 - thematic-indices
 title: Dissemination of Nine New Indices in Capital Market Segment
 ---

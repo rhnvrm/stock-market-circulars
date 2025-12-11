@@ -27,11 +27,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery
 - enforcement
+- gromo-trade
 - prohibitory-order
 - property-release
-- gromo-trade
+- recovery
 title: Order Releasing Property Attached Under Prohibitory Order in Matter of Gromo
   Trade & Consultancy Ltd - Pradeep Dhanuka
 ---

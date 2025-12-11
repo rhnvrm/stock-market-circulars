@@ -41,7 +41,7 @@ stocks:
 - PROCLB
 - QUADTEL
 - RAMGOPOL
-- RAPCORP
+- RAP
 - SABRIMALA
 - SADBHAV
 - SANCODE
@@ -52,10 +52,10 @@ stocks:
 - TRILPOLY
 - VALLABH
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 27 Securities Effective August 21, 2025
 ---
 

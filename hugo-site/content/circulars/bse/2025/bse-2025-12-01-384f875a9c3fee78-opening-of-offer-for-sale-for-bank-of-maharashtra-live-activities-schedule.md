@@ -29,14 +29,13 @@ source: bse
 stocks:
 - MAHABANK
 tags:
-- offer-for-sale
-- ofs
-- public-offering
-- institutional-investors
-- retail-investors
 - disinvestment
-- government-stake-sale
 - equity
+- government-stake-sale
+- institutional-investor
+- ipo
+- ofs
+- retail-investor
 title: Opening of Offer for Sale for Bank of Maharashtra - Live Activities Schedule
 ---
 

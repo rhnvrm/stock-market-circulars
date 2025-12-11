@@ -33,11 +33,10 @@ stocks:
 - SAMBHV
 - SARDAEN
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
 - trading-restrictions
-- st-asm
-- additional-surveillance
 title: Short-Term Additional Surveillance Measure (ST-ASM) Applied to 6 Securities
 ---
 

@@ -35,11 +35,10 @@ stocks:
 - GRAVITA
 - SPACEBIT
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

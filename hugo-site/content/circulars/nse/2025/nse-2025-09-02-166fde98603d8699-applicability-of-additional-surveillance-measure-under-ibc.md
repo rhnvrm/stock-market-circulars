@@ -27,12 +27,9 @@ source: nse
 stocks:
 - AGSTRA
 tags:
-- surveillance
-- ibc
-- insolvency
-- agstra
 - ags-transact
-- market-surveillance
+- insolvency
+- surveillance
 title: NSE Implements Additional Surveillance Measure for AGS Transact Technologies
   Under IBC Framework
 ---

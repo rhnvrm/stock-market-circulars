@@ -28,11 +28,9 @@ stocks:
 - MSR
 - SWITCHTECH
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - investor-protection
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Additions and Updates
 ---
 

@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- ptc
-- pass-through-certificates
-- redemption
+- corporate-action
 - debt-securities
-- india-universal-trust
 - face-value-reduction
-- corporate-actions
+- india-universal-trust
+- ptc
+- redemption
 title: Part Redemption of PTCs of India Universal Trust AL1 & AL2 - Series A1, A2
   & A3
 ---

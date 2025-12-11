@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
-- nse-mf-invest
 - aditya-birla-sun-life
-- bse-500
+- bse-index
+- index-fund
 - momentum
+- mutual-fund
 - sip
 - stp
 - swp
+- trading-platform
 title: Availability of Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund for ongoing
   transactions on NSE MF Invest Platform
 ---

@@ -25,17 +25,15 @@ severity: medium
 source: bse
 stocks:
 - BHARATROHAN
-- HANMANFIT
+- HANMAN
 - MPKSTEELS
 - VIRATLEA
 - OMNIPOTENT
 - GISCGUJ
 tags:
+- asm-stage
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-surveillance
-- additional-surveillance-measure
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

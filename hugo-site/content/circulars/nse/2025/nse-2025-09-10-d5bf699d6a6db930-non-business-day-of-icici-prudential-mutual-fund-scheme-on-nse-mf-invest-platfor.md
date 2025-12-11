@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- icici-prudential
-- nse-mf-invest
 - global-advantage-fund
+- holiday
+- icici-prudential
+- mutual-fund
+- trading-platform
 - transactions-suspended
 title: Non-Business Day of ICICI Prudential Mutual Fund scheme on NSE MF Invest Platform
 ---

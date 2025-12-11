@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SEYA
 tags:
-- surveillance
+- asm-stage
 - insolvency
-- ibc
-- additional-surveillance-measure
-- stage-1
 - seya-industries
+- surveillance
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

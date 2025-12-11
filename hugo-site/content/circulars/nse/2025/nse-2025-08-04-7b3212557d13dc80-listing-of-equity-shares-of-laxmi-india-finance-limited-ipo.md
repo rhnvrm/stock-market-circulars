@@ -26,11 +26,10 @@ source: nse
 stocks:
 - LAXMIINDIA
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
 - trading
-- laxmi-india-finance
 title: Listing of Equity Shares of Laxmi India Finance Limited (IPO)
 ---
 

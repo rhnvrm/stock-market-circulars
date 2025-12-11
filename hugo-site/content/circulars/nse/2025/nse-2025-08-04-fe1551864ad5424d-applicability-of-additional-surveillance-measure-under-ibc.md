@@ -44,12 +44,9 @@ stocks:
 - EON
 - EQUIPPP
 tags:
-- asm
-- surveillance
-- ibc
-- insolvency
-- bankruptcy
 - compliance
+- insolvency
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

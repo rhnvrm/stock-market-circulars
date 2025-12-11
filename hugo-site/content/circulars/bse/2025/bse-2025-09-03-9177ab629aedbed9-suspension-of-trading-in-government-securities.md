@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- trading-suspension
-- debt-segment
-- maturity
+- debt-securities
+- gsec
 - gujarat-bonds
 - maharashtra-bonds
+- maturity
+- suspension
 title: Suspension of Trading in Government Securities - Gujarat and Maharashtra 2025
   Bonds
 ---

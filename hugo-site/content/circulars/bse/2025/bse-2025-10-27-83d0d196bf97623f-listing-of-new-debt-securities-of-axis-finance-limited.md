@@ -27,10 +27,9 @@ stocks:
 - AXISFINANCE
 tags:
 - debt-securities
+- further-issue
 - listing
 - private-placement
-- axis-finance
-- new-issuance
 title: Listing of New Debt Securities of Axis Finance Limited
 ---
 

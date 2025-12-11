@@ -37,13 +37,13 @@ stocks:
 - NETWEB
 - SAURASHTR
 - VINTRON
-- VIPUL
+- VIPULLTD
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-regulation
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

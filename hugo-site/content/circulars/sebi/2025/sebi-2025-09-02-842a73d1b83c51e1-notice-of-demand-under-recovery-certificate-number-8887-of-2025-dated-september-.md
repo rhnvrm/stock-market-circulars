@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
 - divine-commodity
+- enforcement
 - madhav-tiwari
+- recovery
 title: SEBI Recovery Certificate Notice to Madhav Tiwari - Divine Commodity
 ---
 

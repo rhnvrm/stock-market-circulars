@@ -28,11 +28,10 @@ stocks:
 - NETWORK18
 tags:
 - commercial-paper
-- debt-listing
-- network-18
-- private-placement
+- debt-securities
 - icra-a1-plus
 - ind-a1-plus
+- private-placement
 title: Listing of new Commercial Paper of Network 18 Media & Investments Limited
 ---
 

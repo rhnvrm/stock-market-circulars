@@ -49,11 +49,10 @@ stocks:
 - HUBTOWN
 - IIRM
 tags:
-- surveillance
-- asm
-- trading-restrictions
-- market-regulation
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Framework Update -
   August 2025
 ---

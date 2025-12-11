@@ -28,16 +28,16 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- online-bond-platform-provider
-- obpp
-- inspection
-- regulatory-violations
-- fourdegreewater-services
-- non-convertible-securities
+- adjudication
 - code-of-conduct
-- penalties
+- fourdegreewater-services
+- investigation
+- non-compliance
+- non-convertible-securities
+- obpp
+- online-bond-platform-provider
+- penalty
+- stock-broker
 title: Adjudication Order in the matter of inspection of Fourdegreewater Services
   Private Limited as stock broker acting as an Online Bond Platform Provider
 ---

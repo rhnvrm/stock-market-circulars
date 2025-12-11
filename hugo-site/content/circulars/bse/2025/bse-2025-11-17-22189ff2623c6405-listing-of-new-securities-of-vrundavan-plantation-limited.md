@@ -28,11 +28,10 @@ source: bse
 stocks:
 - VRUNDAVAN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- vrundavan-plantation
+- preferential-issue
 title: Listing of New Securities of Vrundavan Plantation Limited
 ---
 

@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- ambium-finserve
 - debt-securities
 - listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- ambium-finserve
 title: Listing of New Debt Securities of AMBIUM FINSERVE LIMITED
 ---
 

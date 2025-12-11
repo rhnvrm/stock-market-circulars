@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - audit
-- trading-members
-- system-audit
-- empanelment
 - compliance
+- empanelment
+- system-audit
+- trading-member
 title: Online Portal for Empanelment of Auditors for System Audit of Trading Members
 ---
 

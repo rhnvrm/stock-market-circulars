@@ -34,11 +34,10 @@ stocks:
 - MAHIP
 - RAJPACK
 tags:
-- surveillance
-- esm
-- trading-restrictions
-- market-operations
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - November 2025
 ---
 

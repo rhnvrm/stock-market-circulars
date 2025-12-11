@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- commodity-derivatives
-- testing
-- trading-session
 - software-testing
+- trading-session
 title: Mock Trading Session for Commodity Derivatives - August 02, 2025
 ---
 

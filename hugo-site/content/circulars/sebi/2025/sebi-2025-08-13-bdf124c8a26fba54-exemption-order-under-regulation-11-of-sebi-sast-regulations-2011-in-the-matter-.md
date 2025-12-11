@@ -27,12 +27,11 @@ stocks:
 - NDRAUTOLTD
 tags:
 - exemption-order
-- sast-regulations
-- acquisition
 - family-trust
-- takeover
 - ndr-auto
+- regulatory-framework
 - rohit-relan
+- takeover
 title: SEBI Exemption Order for Rohit Relan Family Trust Acquisition in NDR Auto Components
   Limited
 ---

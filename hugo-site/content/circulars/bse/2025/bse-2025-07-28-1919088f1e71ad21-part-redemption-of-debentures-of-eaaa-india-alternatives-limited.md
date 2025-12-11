@@ -27,12 +27,12 @@ source: bse
 stocks:
 - EAAL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-instruments
+- corporate-action
+- debt-securities
 - face-value-reduction
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of EAAA India Alternatives Limited - Reduced
   Face Value Effective July 30, 2025
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - crs-portal
-- maintenance
 - downtime
-- system-maintenance
-- bse-starmf
+- maintenance
+- system-update
+- trading-platform
 title: Downtime for CRS Portal
 ---
 

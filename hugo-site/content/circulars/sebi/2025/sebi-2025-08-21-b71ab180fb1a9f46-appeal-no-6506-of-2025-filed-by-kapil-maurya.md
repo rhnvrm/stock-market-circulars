@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - complaint-handling
+- enforcement
 - money-market-manthan
+- rti
 - scores-portal
-- enforcement-action
 title: Appeal No. 6506 of 2025 filed by Kapil Maurya regarding complaint against Money
   Market Manthan Financial Services
 ---

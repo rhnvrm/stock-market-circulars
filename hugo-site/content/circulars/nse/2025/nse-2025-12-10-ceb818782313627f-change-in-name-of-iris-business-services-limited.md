@@ -26,9 +26,9 @@ source: nse
 stocks:
 - IRIS
 tags:
-- name-change
 - corporate-action
 - listing
+- name-change
 title: Change in name of Iris Business Services Limited to IRIS RegTech Solutions
   Limited
 ---

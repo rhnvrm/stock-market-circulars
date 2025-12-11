@@ -26,10 +26,8 @@ source: bse
 stocks:
 - MEESHO
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- meesho
 title: Listing of Equity Shares of Meesho Limited
 ---
 

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - KNOWLEDGEM
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- ISIN-change
+- split
 title: 'Sub-Division of Equity Shares of Knowledge Marine & Engineering Works Ltd
   (Scrip Code: 543273)'
 ---

@@ -26,11 +26,9 @@ source: bse
 stocks: []
 tags:
 - esop
-- esos
 - listing
-- securities
-- employee-stock-options
 - new-securities
+- securities
 title: Listing of further securities issued by companies under ESOP/ESOS
 ---
 

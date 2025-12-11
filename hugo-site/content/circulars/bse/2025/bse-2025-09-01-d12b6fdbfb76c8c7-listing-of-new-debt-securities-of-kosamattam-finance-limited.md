@@ -26,10 +26,10 @@ stocks:
 - KFL
 tags:
 - debt-securities
-- listing
-- private-placement
 - kosamattam-finance
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Kosamattam Finance Limited
 ---
 

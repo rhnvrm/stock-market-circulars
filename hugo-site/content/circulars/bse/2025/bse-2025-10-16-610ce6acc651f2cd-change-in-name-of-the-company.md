@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- name-change
+- certificate
 - corporate-action
-- tata-motors
-- certificate-of-incorporation
 - mca
+- name-change
+- tata-motors
 title: TATA MOTORS LIMITED Changes Name to TATA MOTORS PASSENGER VEHICLES LIMITED
 ---
 

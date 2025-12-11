@@ -28,11 +28,11 @@ source: nse
 stocks:
 - PFCL
 tags:
-- listing
-- debt-securities
-- private-placement
 - capital-market
+- debt-securities
+- listing
 - power-finance-corporation
+- private-placement
 title: Listing of privately placed securities on capital market segment - Power Finance
   Corporation Limited
 ---

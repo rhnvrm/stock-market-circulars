@@ -27,10 +27,10 @@ stocks:
 - AMEENJI
 tags:
 - group-change
-- trading-segment
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
+- trading
 title: Change in Group of Equity Shares of AMEENJI RUBBER LIMITED
 ---
 

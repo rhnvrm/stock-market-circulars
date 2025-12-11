@@ -28,13 +28,12 @@ source: bse
 stocks:
 - ABCL
 tags:
-- trading-suspension
-- debentures
-- redemption
+- debt-securities
 - interest-payment
-- non-convertible-debentures
-- debt-market
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Aditya Birla Capital Ltd
 ---
 

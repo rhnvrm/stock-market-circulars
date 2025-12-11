@@ -28,13 +28,12 @@ source: bse
 stocks:
 - TRUCAP
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- trustedge-capital
 - equity
-- t+1-settlement
+- renunciation
+- rights-issue
+- t1-settlement
 - trade-for-trade
+- trustedge-capital
 title: Rights Entitlements of TRUSTEDGE CAPITAL LIMITED
 ---
 

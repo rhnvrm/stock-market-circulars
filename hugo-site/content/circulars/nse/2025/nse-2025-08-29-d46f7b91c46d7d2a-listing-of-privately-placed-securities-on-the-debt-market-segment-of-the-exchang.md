@@ -27,16 +27,15 @@ source: nse
 stocks:
 - ANGELONE
 - GODREJPROP
-- GODREJAGROVET
+- GODREJAGRO
 - PIRAMALENT
 - ABCAPITAL
 - IIFL
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- debt-securities
 title: Listing of Privately Placed Securities on Debt Market Segment - August 29,
   2025
 ---

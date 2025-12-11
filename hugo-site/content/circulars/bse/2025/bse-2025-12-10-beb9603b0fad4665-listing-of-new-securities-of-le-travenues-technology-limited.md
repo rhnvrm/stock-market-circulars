@@ -28,12 +28,12 @@ source: bse
 stocks:
 - LETRAV
 tags:
-- listing
-- preferential-issue
-- equity-shares
-- lock-in
-- le-travenues
+- equity
 - ixigo
+- le-travenues
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Le Travenues Technology Limited - 4.63 Crore Preferential
   Shares
 ---

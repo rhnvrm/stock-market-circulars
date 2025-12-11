@@ -27,7 +27,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INFINITYINFOWAY
+- INFINITY
 - RAPIDMULTIMODAL
 - WORKMATESCORE2CLOUD
 - MAYURLEATHER
@@ -36,15 +36,15 @@ stocks:
 - ATISHAY
 - BAMPSL
 - BATLIBOI
-- BESTAGROLIFE
+- BESTAGRO
 - BIGBLOC
-- CAPITALTRUST
+- CAPTRUST
 - CLASSICLEASING
 - CONTAINERWAY
 - DHANASHREE
 - DHILLONFREIGHT
 - ERAAYA
-- HALDERVENTURE
+- HALDER
 - JAYANTINFRA
 - JDCABLES
 - JETFREIGHT
@@ -52,12 +52,11 @@ stocks:
 - KANUNGO
 - KBSINDIA
 tags:
-- surveillance
-- asm
-- short-term-asm
+- asm-stage
 - risk-management
-- trading-restrictions
 - sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

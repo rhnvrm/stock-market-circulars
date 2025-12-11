@@ -27,10 +27,10 @@ source: nse
 stocks:
 - BHARATRAS
 tags:
-- face-value-split
-- stock-split
-- equity-shares
 - corporate-action
+- equity
+- face-value-change
+- split
 title: Face Value Split - Bharat Rasayan Limited (BHARATRAS)
 ---
 

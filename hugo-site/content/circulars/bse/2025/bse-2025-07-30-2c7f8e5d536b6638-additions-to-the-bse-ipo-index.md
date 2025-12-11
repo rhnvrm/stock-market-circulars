@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544454'
-- '544455'
+- INDIQUBE
+- EBGNG
 tags:
-- index
+- gng-electronics
+- index-fund
 - ipo
 - listing
-- indiqube-spaces
-- gng-electronics
 title: Additions to the BSE IPO Index - INDIQUBE SPACES and GNG ELECTRONICS
 ---
 

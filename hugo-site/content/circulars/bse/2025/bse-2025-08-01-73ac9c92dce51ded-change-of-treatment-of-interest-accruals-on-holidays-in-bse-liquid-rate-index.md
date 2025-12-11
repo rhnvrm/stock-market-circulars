@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology-change
-- interest-accruals
 - bse-liquid-rate-index
 - calculation-methodology
+- index-fund
+- interest-accruals
+- methodology-change
 title: Change of treatment of interest accruals on Holidays in BSE Liquid Rate Index
 ---
 

@@ -26,8 +26,8 @@ source: bse
 stocks: []
 tags:
 - membership
-- resignation
 - nomura
+- resignation
 - trading-member
 title: Application for Resignation of Membership - Nomura Fixed Income Securities
   Pvt. Ltd. (Member no. 4064)

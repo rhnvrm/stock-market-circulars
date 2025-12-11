@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- margin
+- rolling-segment
 - surveillance
-- additional-surveillance-measure
-- margin-requirements
 - trade-for-trade
-- rolling-settlement
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

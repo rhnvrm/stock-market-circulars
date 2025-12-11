@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- consumption-fund
+- equity-scheme
+- lic-mutual-fund
 - mutual-fund
 - nfo
-- lic-mutual-fund
-- consumption-fund
-- nse-mf-invest
-- equity-scheme
+- trading-platform
 title: Launch of LIC MF Consumption Fund NFO on NSE MF Invest Platform
 ---
 

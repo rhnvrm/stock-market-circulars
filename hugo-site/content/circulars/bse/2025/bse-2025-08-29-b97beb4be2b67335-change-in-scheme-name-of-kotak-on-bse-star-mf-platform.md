@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fund-of-fund
-- scheme-name-change
+- fund-of-funds
 - kotak
-- bse-star-mf
-- sebi-compliance
+- mutual-fund
+- name-change
+- sebi
 title: Change in Scheme Names of KOTAK Mutual Fund on BSE StAR MF Platform
 ---
 

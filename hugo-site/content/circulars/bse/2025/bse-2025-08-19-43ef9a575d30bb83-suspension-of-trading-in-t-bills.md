@@ -25,10 +25,9 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- trading-suspension
-- maturity
 - debt-securities
+- maturity
+- suspension
 - treasury-bills
 title: Suspension of Trading in T-Bills - 182TB22825 Maturity
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MEDIASSIST
 tags:
-- equity-listing
-- preferential-issue
-- new-securities
-- medi-assist
+- equity
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Medi Assist Healthcare Services Limited
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - JOSTS
 tags:
-- rights-issue
-- extension
 - closing-date
-- equity-shares
+- equity
+- extension
+- rights-issue
 - subscription
 title: JOSTS ENGINEERING COMPANY LIMITED - Extension of Rights Issue Closing Date
   to September 10, 2025

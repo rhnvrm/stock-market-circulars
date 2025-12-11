@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- business-closure
-- trading-member
-- currency-derivatives
-- rikhav-securities
+- derivatives
+- maintenance
 - membership
+- rikhav-securities
+- trading-member
 title: Voluntary Closure of Business – Rikhav Securities Ltd
 ---
 

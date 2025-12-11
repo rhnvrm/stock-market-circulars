@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ZODIAC
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - renunciation
+- rights-issue
+- trading
 - zodiac-ventures
 title: Rights Entitlements Trading for Zodiac Ventures Limited
 ---

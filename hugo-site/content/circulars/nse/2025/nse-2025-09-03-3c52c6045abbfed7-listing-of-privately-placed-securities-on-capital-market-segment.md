@@ -27,10 +27,10 @@ stocks:
 - ABCL
 - TPREL
 tags:
-- listing
-- debt-securities
-- privately-placed
 - capital-market
+- debt-securities
+- listing
+- privately-placed
 - trading
 title: Listing of privately placed securities on capital market segment
 ---

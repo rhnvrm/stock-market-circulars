@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TWAMEV
 tags:
-- offer-for-sale
-- ofs
-- twamev-construction
-- share-trading
 - market-operations
+- ofs
+- share-trading
+- twamev-construction
 title: Opening of Offer for Sale for Twamev Construction and Infrastructure Limited
 ---
 

@@ -26,12 +26,9 @@ source: nse
 stocks:
 - DHARIWAL
 tags:
+- margin
 - surveillance
-- enhanced-surveillance-measure
-- esm
 - trade-for-trade
-- margin-requirements
-- DHARIWAL
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

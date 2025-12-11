@@ -25,11 +25,9 @@ source: bse
 stocks:
 - GLOBTIER
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- globtier-infotech
 title: Listing of Equity Shares of Globtier Infotech Limited
 ---
 

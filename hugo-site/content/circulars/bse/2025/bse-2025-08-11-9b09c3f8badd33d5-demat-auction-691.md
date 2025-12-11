@@ -40,7 +40,7 @@ stocks:
 - GHCL
 - GUJARAT
 - IDEAFORGE
-- INDIANBANK
+- INDIANB
 - JAIPRAKASH
 - JAYBHARAT
 - JINDALDRILL
@@ -53,7 +53,7 @@ stocks:
 - MAHINDRA
 - MINIDIAMOND
 - MOIL
-- MUKAND
+- MUKANDLTD
 - NAGPUR
 - NAPEROL
 - NATIONAL
@@ -66,7 +66,7 @@ stocks:
 - OSWALGREEN
 - PIONEER
 - PNBHOUSING
-- PTCINDIA
+- PTC
 - QUALITY
 - RATTANINDIA
 - RELIANCE
@@ -93,15 +93,15 @@ stocks:
 - UDAY
 - VINTAGE
 - VINTRON
-- VINYOFLEX
+- VINYOFL
 - VISHAL
 - VIVO
 - VUENOW
 - WAAREE
 - WENDT
-- WOCKHARDT
+- WOCKPHARMA
 tags:
-- demat-auction
+- demat
 - settlement
 - trading
 title: Demat Auction - Settlement No. 691

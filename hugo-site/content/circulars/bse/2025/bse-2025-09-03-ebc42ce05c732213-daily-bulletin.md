@@ -27,13 +27,13 @@ stocks:
 - AARTIIND
 - ADANIENT
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
 - commercial-paper
+- corporate-action
+- daily-bulletin
 - debt-securities
-- corporate-actions
+- dividend
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

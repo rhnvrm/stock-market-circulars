@@ -28,10 +28,10 @@ stocks:
 - SOLARINDS
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icra-rating
 - private-placement
 - solar-industries
-- icra-rating
 title: Listing of new Commercial Paper of Solar Industries India Limited
 ---
 

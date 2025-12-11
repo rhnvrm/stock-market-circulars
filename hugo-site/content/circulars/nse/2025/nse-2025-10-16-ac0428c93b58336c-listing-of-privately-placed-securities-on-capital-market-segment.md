@@ -24,18 +24,15 @@ published_date: '2025-10-16T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML70880.pdf
 severity: low
 source: nse
-stocks:
-- 730SIHF28
-- 84AIL28
-- 758CIFL30
+stocks: []
 tags:
-- listing
-- debt-securities
-- privately-placed-securities
-- capital-market
-- smfg-india-home-finance
 - afcons-infrastructure
+- capital-market
 - cholamandalam-investment
+- debt-securities
+- listing
+- privately-placed
+- smfg-india-home-finance
 title: Listing of Privately Placed Securities on Capital Market Segment - Three New
   Debt Securities
 ---

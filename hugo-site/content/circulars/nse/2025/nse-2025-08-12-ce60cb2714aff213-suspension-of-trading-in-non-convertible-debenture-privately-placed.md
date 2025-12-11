@@ -27,12 +27,11 @@ stocks:
 - SUNDARAM
 - NUVOCO
 tags:
-- trading-suspension
-- non-convertible-debentures
-- debt-market
-- redemption
-- sundaram-finance
+- debt-securities
+- ncd
 - nuvoco-vistas
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures of Sundaram Finance and
   Nuvoco Vistas
 ---

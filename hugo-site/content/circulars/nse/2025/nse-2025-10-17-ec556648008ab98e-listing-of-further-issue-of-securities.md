@@ -26,11 +26,11 @@ source: nse
 stocks:
 - LEMERITE
 tags:
-- listing
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issue of Le Merite Exports Limited
 ---
 

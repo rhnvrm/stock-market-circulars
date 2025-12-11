@@ -25,10 +25,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- scheme-name-change
-- bse-star-mf
+- name-change
 - quantum
-- platform-update
+- system-update
 title: Change in Scheme name of QUANTUM on BSE StAR MF Platform
 ---
 

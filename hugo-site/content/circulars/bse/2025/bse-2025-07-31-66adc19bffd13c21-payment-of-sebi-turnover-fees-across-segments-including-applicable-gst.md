@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-turnover-fees
-- gst
-- trading-members
-- settlement
 - compliance
+- gst
+- sebi-turnover-fees
+- settlement
+- trading-member
 title: SEBI Turnover Fees Payment with 18% GST Across All Segments
 ---
 

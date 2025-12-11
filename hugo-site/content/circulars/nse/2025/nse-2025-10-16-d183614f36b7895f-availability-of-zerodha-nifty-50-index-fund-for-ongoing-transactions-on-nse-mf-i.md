@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- zerodha
-- nifty-50
 - index-fund
-- nse-mf-invest
-- subscriptions
-- redemptions
+- mutual-fund
+- nifty-50
+- redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
+- zerodha
 title: Availability of Zerodha Nifty 50 Index Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

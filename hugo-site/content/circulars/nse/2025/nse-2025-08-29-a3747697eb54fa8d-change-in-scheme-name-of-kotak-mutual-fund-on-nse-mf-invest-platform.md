@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- fund-of-fund
+- fund-of-funds
 - kotak-mutual-fund
-- nse-mf-invest
+- mutual-fund
+- name-change
+- trading-platform
 title: Change in scheme name of Kotak Mutual Fund on NSE MF Invest platform
 ---
 

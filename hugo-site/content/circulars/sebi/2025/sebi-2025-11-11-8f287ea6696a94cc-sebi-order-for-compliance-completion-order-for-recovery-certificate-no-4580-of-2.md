@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
 - compliance
-- enforcement
-- sms-techsoft
-- recovery-proceedings
 - defaulters
+- enforcement
+- recovery
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 4580
   of 2022 against Karan Kirtibhai Shah, Keval Kirtikumar Shah, Alkaben Kirtibhai Shah,
   Kirtibhai Rasiklal Shah

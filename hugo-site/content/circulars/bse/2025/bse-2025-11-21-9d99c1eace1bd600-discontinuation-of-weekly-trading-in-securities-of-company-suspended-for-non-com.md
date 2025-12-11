@@ -27,12 +27,12 @@ source: bse
 stocks:
 - NEOGEM
 tags:
-- trading-suspension
+- asm-stage
 - compliance
-- trade-for-trade
-- z-group
-- sebi-lodr
+- lodr
 - neogem-india
+- suspension
+- trade-for-trade
 title: Discontinuation of Weekly Trading in Securities of Neogem India Ltd
 ---
 

@@ -26,16 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-platform
-- bolt-pro
-- tws
-- software-update
-- technical-enhancement
-- equity
-- derivatives
-- currency
 - commodity
+- currency
+- derivatives
 - egr
+- equity
+- system-update
+- technical-enhancement
+- trading-platform
 title: Release of BOLT Pro TWS Version 12.30
 ---
 

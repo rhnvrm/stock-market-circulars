@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - completion-order
-- enforcement
 - compliance
+- enforcement
 - jay-energy-s-energies-limited
+- recovery
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 8937
   of 2025 against Bhrugesh Pankaj Mehta
 ---

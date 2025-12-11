@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544616'
+- GALLARD
 tags:
-- group-change
-- trading-segment
-- sme
+- asm-stage
 - gallard-steel
-- mt-group
-- m-group
+- group-change
 - rolling-segment
+- sme
+- trading
 title: GALLARD STEEL LIMITED - Transfer from Trade for Trade to Rolling Segment
 ---
 

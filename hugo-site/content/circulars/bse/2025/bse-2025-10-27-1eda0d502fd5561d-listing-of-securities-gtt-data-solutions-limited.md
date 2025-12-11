@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GTTDATA
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- lock-in
+- equity
 - gtt-data-solutions
+- listing
+- lock-in
+- preferential-issue
 title: Listing of Securities - GTT Data Solutions Limited
 ---
 

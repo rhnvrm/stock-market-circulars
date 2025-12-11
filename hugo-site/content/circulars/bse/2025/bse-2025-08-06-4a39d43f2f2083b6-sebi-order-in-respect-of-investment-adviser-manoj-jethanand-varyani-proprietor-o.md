@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- compliance
+- enquiry-proceedings
 - investment-adviser
 - sebi-order
-- regulatory-compliance
-- enquiry-proceedings
 - smart-financial
 title: SEBI Enquiry Order - Investment Adviser Manoj Jethanand Varyani Disposed Without
   Adverse Action

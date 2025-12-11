@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- holiday-trading
-- settlement
-- debt-funds
-- liquid-funds
+- debt-securities
 - eid-e-milad
+- holiday-trading
+- liquid-fund
+- mutual-fund
+- settlement
 title: Transactions acceptance of September 05, 2025 (Eid-e-Milad) on BSE StAR MF
   Platform
 ---

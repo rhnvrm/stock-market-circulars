@@ -25,12 +25,12 @@ source: bse
 stocks:
 - EMBASSY
 tags:
-- debt-securities
-- reit
-- listing
-- embassy-office-parks
-- private-placement
 - aaa-rating
+- debt-securities
+- embassy-office-parks
+- listing
+- private-placement
+- reit
 title: Listing of new debt securities of Embassy Office Parks REIT
 ---
 

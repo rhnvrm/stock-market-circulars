@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SHREEJISHIPPING
 tags:
-- public-issue
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - ipo
+- public-issue
 title: Public Issue of SHREEJI SHIPPING GLOBAL LIMITED - Allocation to Anchor Investors
 ---
 

@@ -31,11 +31,10 @@ stocks:
 - SPARKL
 - HARMON
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

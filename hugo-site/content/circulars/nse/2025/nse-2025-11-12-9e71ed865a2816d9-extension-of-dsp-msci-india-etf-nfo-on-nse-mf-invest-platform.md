@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
 - dsp-mutual-fund
-- msci-india-index
-- nse-mf-invest
+- etf
 - extension
+- msci-india-index
+- mutual-fund
+- nfo
+- trading-platform
 title: Extension of DSP MSCI India ETF NFO on NSE MF Invest Platform
 ---
 

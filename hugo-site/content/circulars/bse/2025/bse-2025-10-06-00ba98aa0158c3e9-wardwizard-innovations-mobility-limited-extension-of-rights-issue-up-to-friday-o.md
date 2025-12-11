@@ -26,11 +26,11 @@ source: bse
 stocks:
 - WARDINMOBI
 tags:
-- rights-issue
-- extension
 - corporate-action
-- wardwizard
+- extension
 - offer-period
+- rights-issue
+- wardwizard
 title: Wardwizard Innovations & Mobility Limited - Extension of Rights Issue Closure
   to October 24, 2025
 ---

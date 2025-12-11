@@ -31,10 +31,9 @@ stocks:
 - SNS
 tags:
 - otb
+- sebi-holiday
 - takeover
 - trading-closure
-- sebi-holiday
-- acquisition-window
 title: Bidding Closed for Offer to Buy (OTB) Issues on September 8, 2025
 ---
 

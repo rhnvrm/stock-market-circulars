@@ -28,13 +28,12 @@ source: bse
 stocks:
 - HARIGOVIND
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- obligation-download
+- demat
 - early-pay-in
-- demat-delivery
-- hari-govind-international
+- obligation-download
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   HARI GOVIND INTERNATIONAL LIMITED
 ---

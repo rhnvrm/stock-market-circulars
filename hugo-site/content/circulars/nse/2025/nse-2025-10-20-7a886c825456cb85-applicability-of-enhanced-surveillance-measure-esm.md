@@ -30,15 +30,9 @@ stocks:
 - MASKINVEST
 - TARAPUR
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirement
+- margin
 - surveillance
-- gujraffia
-- hybridfin
-- maskinvest
-- tarapur
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM) - October 2025
 ---
 

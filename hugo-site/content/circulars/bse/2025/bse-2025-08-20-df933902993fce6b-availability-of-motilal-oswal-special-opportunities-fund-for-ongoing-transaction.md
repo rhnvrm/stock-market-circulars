@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- trading
-- bse-star-mf
 - motilal-oswal
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
+- trading
 title: Availability of MOTILAL OSWAL SPECIAL OPPORTUNITIES FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

@@ -29,12 +29,11 @@ stocks:
 - ISEC
 - KOTAKSEC
 tags:
-- debt-market
 - commercial-paper
-- private-placement
-- listing
 - debt-securities
+- listing
 - pass-through-certificate
+- private-placement
 title: Listing of privately placed securities on the debt market segment of the Exchange
 ---
 

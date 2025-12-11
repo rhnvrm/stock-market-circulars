@@ -27,11 +27,9 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- nse-mf-invest
 - axis-mutual-fund
 - holiday
+- mutual-fund
 - trading-platform
 title: Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform
   for December 2025

@@ -25,12 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- capitalmind-liquid-fund
+- liquid-fund
 - mutual-fund
 - nfo
-- capitalmind-liquid-fund
-- bse-star-mf
-- liquid-fund
-- new-fund-offer
 title: Launch of NFO of CAPITALMIND LIQUID FUND on BSE StAR MF Platform
 ---
 

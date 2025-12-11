@@ -29,9 +29,9 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
+- godrej-housing-finance
 - listing
 - private-placement
-- godrej-housing-finance
 title: Listing of new Commercial Paper of Godrej Housing Finance Limited
 ---
 

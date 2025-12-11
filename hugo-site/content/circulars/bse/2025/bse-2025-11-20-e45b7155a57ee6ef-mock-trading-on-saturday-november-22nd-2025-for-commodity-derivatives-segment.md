@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
-- testing
-- trading-platforms
+- derivatives
 - etf-api
-- bolt-tws
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, November 22nd, 2025 for Commodity Derivatives Segment
 ---
 

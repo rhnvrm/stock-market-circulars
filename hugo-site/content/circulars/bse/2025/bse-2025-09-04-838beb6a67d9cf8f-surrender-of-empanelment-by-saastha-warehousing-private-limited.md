@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- warehouse-service-provider
+- clearing-corporation
+- derivatives
 - empanelment
 - surrender
-- commodity-derivatives
-- clearing-corporation
+- warehouse-service-provider
 title: Surrender of empanelment by Saastha Warehousing Private Limited
 ---
 

@@ -26,8 +26,7 @@ source: bse
 stocks:
 - PATANJALI
 tags:
-- bonus-issue
-- patanjali-foods
+- bonus
 - corporate-action
 - depository
 - trading

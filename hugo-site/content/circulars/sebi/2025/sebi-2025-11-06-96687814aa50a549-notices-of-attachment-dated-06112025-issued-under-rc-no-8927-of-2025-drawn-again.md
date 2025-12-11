@@ -28,12 +28,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- attachment-order
-- recovery-proceedings
-- bank-account-attachment
-- demat-account-attachment
 - individuals
+- recovery
 title: Attachment Notices Against Four Individuals in Royal Twinkle Star Club Private
   Limited Matter
 ---

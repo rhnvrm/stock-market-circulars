@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PRACHAY
 tags:
-- trading-suspension
-- debentures
 - debt-securities
-- redemption
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of PRACHAY CAPITAL LIMITED
 ---
 

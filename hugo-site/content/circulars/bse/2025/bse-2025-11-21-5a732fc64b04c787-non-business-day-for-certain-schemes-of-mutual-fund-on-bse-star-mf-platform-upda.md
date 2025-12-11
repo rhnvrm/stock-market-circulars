@@ -25,11 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
-- bse-star-mf
+- holiday
 - icici-prudential
-- trading-holiday
+- mutual-fund
 title: Non-Business Day for ICICI Prudential Global Advantage Fund on BSE StAR MF
   Platform - November 24, 2025
 ---

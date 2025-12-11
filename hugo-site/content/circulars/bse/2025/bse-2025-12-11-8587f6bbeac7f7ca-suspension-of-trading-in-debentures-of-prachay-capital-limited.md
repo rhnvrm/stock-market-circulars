@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- prachay-capital
+- redemption
 - suspension
 - trading-halt
-- early-redemption
-- interest-payment
-- corporate-action
-- debt-market
-- prachay-capital
 title: Suspension of Trading in Debentures of Prachay Capital Limited
 ---
 

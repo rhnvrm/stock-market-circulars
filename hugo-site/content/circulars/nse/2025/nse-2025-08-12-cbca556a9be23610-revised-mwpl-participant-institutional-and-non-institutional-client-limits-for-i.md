@@ -26,12 +26,11 @@ source: nse
 stocks:
 - INDIAGLYCO
 tags:
-- securities-lending-borrowing
-- position-limits
-- mwpl
-- participant-limits
-- institutional-limits
+- collateral
+- institutional-investor
 - non-institutional-limits
+- participant-limits
+- position-limits
 title: Revised MWPL, Participant, Institutional and Non Institutional Client Limits
   for INDIAGLYCO
 ---

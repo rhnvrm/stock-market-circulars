@@ -25,11 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- government-securities
-- listing
 - capital-market
 - debt-securities
-- g-sec
+- gsec
+- listing
 title: Listing of Government Securities on Capital Market Segment - 6.48% GOI Loan
   2035
 ---

@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SANMITRA
 tags:
-- equity-listing
+- conversion
+- equity
+- lock-in
 - new-securities
-- preferential-allotment
-- share-swap
-- lock-in-period
-- sanmitra-commercial
+- preferential-issue
 title: Listing of New Securities of Sanmitra Commercial Ltd.
 ---
 

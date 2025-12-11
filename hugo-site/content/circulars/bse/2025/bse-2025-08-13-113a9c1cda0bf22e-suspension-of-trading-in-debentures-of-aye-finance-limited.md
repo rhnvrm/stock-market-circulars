@@ -26,12 +26,12 @@ source: bse
 stocks:
 - AYE FINANCE
 tags:
-- debentures
+- corporate-action
+- interest-payment
+- ncd
+- redemption
 - suspension
 - trading-halt
-- redemption
-- interest-payment
-- corporate-actions
 title: Suspension of Trading in Debentures of AYE FINANCE LIMITED
 ---
 

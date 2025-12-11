@@ -27,13 +27,12 @@ source: bse
 stocks:
 - COVIDH
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - covidh-technologies
+- demat
+- equity
+- renunciation
+- rights-issue
 - trading
-- dematerialized
 title: Rights Entitlements Trading for COVIDH TECHNOLOGIES LIMITED
 ---
 

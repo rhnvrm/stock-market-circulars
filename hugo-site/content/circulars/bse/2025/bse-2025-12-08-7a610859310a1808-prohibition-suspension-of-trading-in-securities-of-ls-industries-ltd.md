@@ -28,10 +28,10 @@ source: bse
 stocks:
 - LSINDS
 tags:
-- trading-suspension
+- equity
 - interim-measure
 - investor-protection
-- equity-segment
+- suspension
 title: Prohibition/Suspension of Trading in LS Industries Ltd
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - STANBIK
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
+- sme
 - stanbik-agro
 title: SME IPO - Draft Offer Document for Stanbik Agro Limited Available for Public
   Comments

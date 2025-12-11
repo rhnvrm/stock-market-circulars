@@ -27,13 +27,13 @@ source: bse
 stocks:
 - WAKEFIT
 tags:
+- allotment
+- anchor-investor
+- equity
+- further-issue
 - ipo
-- anchor-investors
-- allocation
+- ofs
 - wakefit-innovations
-- fresh-issue
-- offer-for-sale
-- equity-shares
 title: Public Issue of Wakefit Innovations Limited - Allocation to Anchor Investors
 ---
 

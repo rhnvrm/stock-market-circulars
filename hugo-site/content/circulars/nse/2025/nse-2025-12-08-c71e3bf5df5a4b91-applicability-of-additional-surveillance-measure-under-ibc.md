@@ -42,11 +42,8 @@ stocks:
 - BANSAL
 - BILVYAPAR
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
+- surveillance
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure under IBC
 ---

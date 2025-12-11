@@ -29,11 +29,11 @@ stocks:
 - IDEA
 tags:
 - clarification
+- disclosure
 - media-reports
-- rumour-verification
 - price-movement
 - regulation-30
-- disclosure
+- rumour-verification
 title: Clarifications from Shriram Finance and Vodafone Idea on Media Reports
 ---
 

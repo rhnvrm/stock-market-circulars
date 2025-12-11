@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- system-audit
-- compliance
-- auditor
-- reporting
-- BEFS
-- cymmetri
-- XBRL
 - algo-mis
+- auditor
+- compliance
+- cymmetri
+- reporting
+- system-audit
+- trading-platform
+- xbrl
 title: Reminder for Submission of System Audit Report for the Period Ended September
   30, 2025
 ---

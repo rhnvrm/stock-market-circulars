@@ -38,11 +38,9 @@ stocks:
 - TDPOWERSYS
 - YESBANK
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 13 Companies
 ---
 

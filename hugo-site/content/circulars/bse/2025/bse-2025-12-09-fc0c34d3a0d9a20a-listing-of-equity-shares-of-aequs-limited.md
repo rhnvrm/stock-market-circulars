@@ -27,10 +27,9 @@ source: bse
 stocks:
 - AEQUS
 tags:
-- listing
-- equity-shares
-- new-listing
 - aequs-limited
+- equity
+- listing
 title: Listing of Equity Shares of Aequs Limited
 ---
 

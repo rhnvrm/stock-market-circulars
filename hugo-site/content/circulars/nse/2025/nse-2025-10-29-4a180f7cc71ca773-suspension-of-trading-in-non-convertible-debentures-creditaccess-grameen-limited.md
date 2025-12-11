@@ -27,11 +27,11 @@ source: nse
 stocks:
 - CREDITACC
 tags:
-- trading-suspension
-- non-convertible-debentures
+- capital-market
 - debt-securities
 - maturity
-- capital-market
+- ncd
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - CreditAccess Grameen
   Limited
 ---

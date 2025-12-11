@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- unregistered-investment-advisor
-- recovery
+- enforcement
 - flipcoin-financial
+- recovery
+- unregistered-investment-advisor
 title: 'Notice of Attachment - RC No. 8826/2025 - Manish Bhardwaj (PAN: CEUPB0805G)'
 ---
 

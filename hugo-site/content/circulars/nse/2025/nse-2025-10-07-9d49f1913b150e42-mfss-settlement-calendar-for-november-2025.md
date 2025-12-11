@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- settlement-calendar
+- liquid-fund
 - mfss
-- subscription
+- mutual-fund
 - redemption
-- liquid-funds
+- settlement-calendar
+- subscription
 title: MFSS Settlement Calendar for November 2025
 ---
 

@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - ncd
-- vishal-papertech
+- private-placement
 title: Listing of new debt securities of Vishal Papertech (India) Ltd.
 ---
 

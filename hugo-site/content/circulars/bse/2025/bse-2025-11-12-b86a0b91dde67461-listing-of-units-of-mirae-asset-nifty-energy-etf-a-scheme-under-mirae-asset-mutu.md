@@ -30,11 +30,9 @@ stocks:
 tags:
 - etf
 - listing
-- mutual-fund
 - mirae-asset
+- mutual-fund
 - nifty-energy
-- exchange-traded-fund
-- new-listing
 title: Listing of Units Of Mirae Asset Nifty Energy ETF a scheme under Mirae Asset
   Mutual Fund
 ---

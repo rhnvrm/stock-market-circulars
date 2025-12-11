@@ -27,10 +27,9 @@ stocks:
 - HIGHWAY
 tags:
 - group-change
-- trading-segment
-- trade-for-trade
 - rolling-segment
-- HIGHWAY
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Highway Infrastructure Limited
 ---
 

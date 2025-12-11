@@ -27,7 +27,7 @@ severity: low
 source: bse
 stocks:
 - ABCAPITAL
-- ATHERENERGY
+- ATHERENERG
 - AXISBANK
 - AXISCADES
 - DCBBANK
@@ -39,11 +39,9 @@ stocks:
 - RAMRATNA
 - VIMTALABS
 tags:
-- listing
+- equity
 - esop
-- esos
-- equity-shares
-- employee-stock-options
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 12 Companies
 ---
 

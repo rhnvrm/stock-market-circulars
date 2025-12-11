@@ -25,10 +25,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - julius-baer
 - private-placement
-- debt-segment
 - short-term-borrowing
 title: BSE Lists Julius Baer Capital Commercial Paper Worth Rs. 100 Crores
 ---

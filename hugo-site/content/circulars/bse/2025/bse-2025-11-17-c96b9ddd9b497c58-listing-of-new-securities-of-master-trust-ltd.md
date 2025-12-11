@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MASTERTRUST
+- MASTERTR
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- master-trust
+- preferential-issue
 title: Listing of New Securities of Master Trust Ltd.
 ---
 

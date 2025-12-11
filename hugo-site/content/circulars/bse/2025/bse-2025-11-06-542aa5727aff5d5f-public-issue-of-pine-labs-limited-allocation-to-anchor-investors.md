@@ -27,11 +27,10 @@ source: bse
 stocks:
 - PINELABS
 tags:
+- allotment
+- anchor-investor
 - ipo
 - public-issue
-- anchor-investors
-- pine-labs
-- allocation
 title: Public Issue of Pine Labs Limited - Allocation to Anchor Investors
 ---
 

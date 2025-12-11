@@ -28,13 +28,13 @@ source: sebi
 stocks: []
 tags:
 - enforcement
-- unregistered-investment-adviser
 - interim-order
-- show-cause-notice
-- fraudulent-practices
-- misleading-claims
-- trading-academy
+- investigation
 - investor-protection
+- misleading-claims
+- show-cause-notice
+- trading-academy
+- unregistered-investment-adviser
 title: Interim Order in the matter of Avadhut Sathe Trading Academy Private Limited
 ---
 

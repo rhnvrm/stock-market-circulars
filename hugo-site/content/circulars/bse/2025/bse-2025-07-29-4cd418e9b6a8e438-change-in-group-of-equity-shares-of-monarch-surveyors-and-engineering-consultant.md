@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MONARCH
 tags:
+- asm-stage
 - group-change
-- trading-segment
 - monarch-surveyors
-- mt-group
-- m-group
 - rolling-segment
+- trading
 title: Change in Group of Equity Shares of MONARCH SURVEYORS AND ENGINEERING CONSULTANTS
   LIMITED
 ---

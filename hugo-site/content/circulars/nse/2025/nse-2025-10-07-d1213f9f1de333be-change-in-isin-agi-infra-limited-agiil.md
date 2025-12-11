@@ -26,11 +26,10 @@ source: nse
 stocks:
 - AGIIL
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
-- AGIIL
+- equity
+- face-value-change
+- isin
 title: Change in ISIN - Agi Infra Limited (AGIIL)
 ---
 

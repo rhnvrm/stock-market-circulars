@@ -30,13 +30,11 @@ stocks:
 - NPCIL
 - LICHSGFIN
 tags:
-- debt-market
+- debt-securities
 - ncd
-- suspension
-- redemption
-- non-convertible-debentures
-- trading-suspension
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

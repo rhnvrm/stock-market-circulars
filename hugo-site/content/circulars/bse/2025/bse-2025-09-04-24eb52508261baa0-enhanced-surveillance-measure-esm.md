@@ -28,16 +28,14 @@ stocks:
 - EKENNIS
 - SAHARA
 - A2ZINFRA
-- INDIABULLS
+- IBULLSLTD
 - INDOKEM
-- SVSVENTURES
-- UMIYATUBES
+- SVS
+- UMIYA
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Updates - Securities Movement Between Stages
 ---
 

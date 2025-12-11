@@ -37,13 +37,9 @@ stocks:
 - BALCO
 - BANKA
 tags:
+- asm-stage
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
 - trade-for-trade
-- kiocl
-- sumeetinds
 title: Applicability of Additional Surveillance Measure (ASM) - October 08, 2025
 ---
 

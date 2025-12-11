@@ -27,12 +27,10 @@ source: nse
 stocks:
 - FABTECH
 tags:
-- listing
-- ipo
-- equity-shares
 - capital-market
-- new-listing
-- FABTECH
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of Fabtech Technologies Limited (IPO)
 ---
 

@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- t-bills
-- trading-suspension
-- debt-market
+- debt-securities
+- gsec
 - maturity
+- suspension
+- treasury-bills
 title: Suspension of Trading in Government Securities
 ---
 

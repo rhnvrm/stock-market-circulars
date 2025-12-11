@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PATANJALI
 tags:
-- bonus-issue
+- bonus
+- equity
 - listing
 - trading
-- equity-shares
-- patanjali-foods
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Patanjali Foods
   Limited
 ---

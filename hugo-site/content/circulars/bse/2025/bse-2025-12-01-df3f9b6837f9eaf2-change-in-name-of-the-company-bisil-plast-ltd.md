@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BISILPLT
 tags:
-- name-change
-- corporate-action
-- certificate-of-incorporation
 - bisil-plast
+- certificate
+- corporate-action
 - karnawati-innovation
+- name-change
 title: Change in Name of Bisil Plast Limited to Karnawati Innovation Limited
 ---
 

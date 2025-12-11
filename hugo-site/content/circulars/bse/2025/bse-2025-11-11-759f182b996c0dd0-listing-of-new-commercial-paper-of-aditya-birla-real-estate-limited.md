@@ -28,10 +28,10 @@ source: bse
 stocks:
 - ABRE
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - aditya-birla-real-estate
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of New Commercial Paper of Aditya Birla Real Estate Limited
 ---

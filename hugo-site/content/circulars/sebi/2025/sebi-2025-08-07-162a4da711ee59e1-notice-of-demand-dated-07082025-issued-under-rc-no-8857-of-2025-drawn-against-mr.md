@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- investment-advisory
-- unregistered-activities
-- recovery-proceedings
 - demand-notice
+- enforcement
+- investment-adviser
+- recovery
+- unregistered-activities
 title: Notice of Demand against Mr. Niraj Thakur for Unregistered Investment Advisory
   Activities
 ---

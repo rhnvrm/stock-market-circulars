@@ -26,14 +26,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- aditya-birla-sun-life
+- debt-securities
+- exit-load-waiver
+- index-fund
+- interval-fund
 - mutual-fund
 - scheme-merger
-- aditya-birla-sun-life
-- debt-fund
-- interval-fund
-- index-fund
-- exit-load-waiver
-- nse-mf-invest
+- trading-platform
 title: Merger of Aditya Birla Sun Life Interval Income Fund - Quarterly Plan - Series
   I with CRISIL-IBX Financial Services 3 to 6 Months Debt Index Fund
 ---

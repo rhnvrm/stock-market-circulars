@@ -26,11 +26,10 @@ stocks:
 - TIMETECHNO
 tags:
 - commercial-paper
-- debt-listing
-- time-technoplast
-- private-placement
 - crisil-a1
+- debt-securities
 - icra-a1
+- private-placement
 title: Listing of new Commercial Paper of Time Technoplast Limited
 ---
 

@@ -27,11 +27,9 @@ source: bse
 stocks:
 - WORKMATES
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- workmates
 title: Listing of Equity Shares of WORKMATES CORE2CLOUD SOLUTION LIMITED
 ---
 

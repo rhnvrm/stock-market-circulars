@@ -24,10 +24,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
 - icici-prudential
 - mf-invest-platform
+- mutual-fund
+- name-change
 title: Change in scheme name of ICICI Prudential Mutual Fund on NSE MF Invest platform
 ---
 

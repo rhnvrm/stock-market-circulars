@@ -25,11 +25,11 @@ source: nse
 stocks:
 - AARADHYA
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- tfts
+- listing
 - market-maker
+- sme
+- trading-platform
 title: Listing of Equity Shares of Aaradhya Disposal Industries Limited (SME IPO)
 ---
 

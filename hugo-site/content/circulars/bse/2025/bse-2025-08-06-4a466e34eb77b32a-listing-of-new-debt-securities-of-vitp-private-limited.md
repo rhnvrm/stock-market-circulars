@@ -25,11 +25,11 @@ source: bse
 stocks:
 - VITPPL
 tags:
+- bond
 - debt-securities
-- private-placement
 - listing
+- private-placement
 - vitp-private-limited
-- corporate-bonds
 title: Listing of New Debt Securities of VITP Private Limited
 ---
 

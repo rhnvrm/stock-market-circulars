@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SHAHMET
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of SHAH METACORP LIMITED
 ---
 

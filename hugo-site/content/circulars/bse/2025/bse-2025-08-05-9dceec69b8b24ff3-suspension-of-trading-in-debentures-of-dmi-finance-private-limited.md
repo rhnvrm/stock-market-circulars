@@ -26,13 +26,13 @@ source: bse
 stocks:
 - DMIFFPL
 tags:
-- debentures
-- trading-suspension
-- corporate-actions
-- debt-market
-- record-date
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of DMI Finance Private Limited
 ---
 

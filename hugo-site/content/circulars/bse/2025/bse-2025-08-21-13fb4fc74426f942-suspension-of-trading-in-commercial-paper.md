@@ -50,10 +50,10 @@ stocks:
 - NETWORK18
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-segment
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies Record Date
   Redemption
 ---

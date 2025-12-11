@@ -27,13 +27,11 @@ source: nse
 stocks:
 - FINBUD
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- finbud
-- surveillance-segment
 title: Listing of Equity Shares of Finbud Financial Services Limited (SME IPO)
 ---
 

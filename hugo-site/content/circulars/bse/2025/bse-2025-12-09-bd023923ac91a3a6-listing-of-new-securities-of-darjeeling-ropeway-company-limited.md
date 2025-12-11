@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DARJEELING
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Darjeeling Ropeway Company Limited
 ---
 

@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- compliance
-- financial-reporting
-- audit
-- networth-certificate
-- trading-members
-- clearing-members
-- deadline-extension
 - annual-accounts
+- audit
+- certificate
+- clearing-members
+- compliance
+- extension
+- financial-reporting
 - regulatory-filing
+- trading-member
 title: Extension of Time for Submission of Annual Audited Networth Certificate, Auditor's
   Report & Audited Annual Accounts for FY 2024-25
 ---

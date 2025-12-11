@@ -26,10 +26,9 @@ stocks:
 - 360ONE
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
+- debt-securities
 - listing
-- 360ONE
+- private-placement
 tags_extracted:
 - commercial-paper
 - debt-segment

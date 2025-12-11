@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CONCORDC
 tags:
-- bonus-issue
-- equity-shares
-- listing
-- concord-control-systems
+- bonus
 - corporate-action
+- equity
+- listing
 title: 'Bonus Issue of Concord Control Systems Limited (Scrip Code: 543619)'
 ---
 

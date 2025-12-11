@@ -25,10 +25,10 @@ source: bse
 stocks:
 - STLNETW
 tags:
+- equity
 - group-change
-- equity-shares
-- trading
 - stl-networks
+- trading
 title: Change in Group of Equity Shares of STL Networks Limited
 ---
 

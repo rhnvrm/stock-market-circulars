@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CANDOUR
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-allotment
-- lock-in
 - candour-techtex
+- conversion
+- equity
+- lock-in
+- preferential-issue
 title: Listing of New Securities of CANDOUR TECHTEX LIMITED - 8 Lakh Equity Shares
   from Warrant Conversion
 ---

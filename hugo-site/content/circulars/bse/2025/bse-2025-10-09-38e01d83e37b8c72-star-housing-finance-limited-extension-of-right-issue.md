@@ -27,10 +27,10 @@ source: bse
 stocks:
 - STARHFL
 tags:
-- rights-issue
-- timeline-extension
 - corporate-action
 - equity
+- extension
+- rights-issue
 title: STAR Housing Finance Limited - Extension of Rights Issue Timeline
 ---
 

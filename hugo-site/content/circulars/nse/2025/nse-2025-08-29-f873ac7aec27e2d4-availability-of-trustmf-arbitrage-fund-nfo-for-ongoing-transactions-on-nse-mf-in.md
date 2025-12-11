@@ -26,14 +26,14 @@ severity: low
 source: nse
 stocks: []
 tags:
+- arbitrage-fund
 - mutual-fund
 - nfo
-- arbitrage-fund
-- trust-mutual-fund
 - ongoing-transactions
 - sip
 - stp
 - swp
+- trust-mutual-fund
 title: Availability of Trustmf Arbitrage Fund NFO for ongoing transactions on NSE
   MF Invest Platform
 ---

@@ -25,11 +25,11 @@ source: sebi
 stocks:
 - VIKAS-PROPPANT
 tags:
-- recovery-proceedings
 - defaulter
-- trading-violations
-- remittance-advice
-- enforcement-action
+- demand-notice
+- enforcement
+- recovery
+- trading-operations
 title: 'Remittance Advice against Gaurav (PAN: BULPG4710P) - Recovery Certificate
   No. 8475 of 2024'
 ---

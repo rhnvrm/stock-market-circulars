@@ -26,13 +26,12 @@ source: bse
 stocks:
 - SBICPSL
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- non-convertible-debentures
-- debt-market
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of SBI Cards and Payment Services Limited
 ---
 

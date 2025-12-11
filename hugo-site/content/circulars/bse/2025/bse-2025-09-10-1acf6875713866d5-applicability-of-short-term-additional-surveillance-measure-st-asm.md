@@ -30,16 +30,15 @@ stocks:
 - HALDER
 - JTEKT
 - LASA
-- PRIMEFOCUS
+- PFOCUS
 - ZODIAC
 - KARNAVATI
 - FLEXITUFF
 tags:
-- surveillance
-- asm
+- market-operations
 - short-term
+- surveillance
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

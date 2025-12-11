@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SATYAMICRO
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-segment
-- satya-microcapital
+- ncd
+- redemption
 title: Part Redemption of Debentures of SATYA MICROCAPITAL LIMITED
 ---
 

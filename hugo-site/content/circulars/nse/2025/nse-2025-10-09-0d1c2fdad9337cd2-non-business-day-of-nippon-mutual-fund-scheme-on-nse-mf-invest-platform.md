@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
+- holiday
 - mutual-fund
-- non-business-day
 - nippon-mutual-fund
-- taiwan-equity-fund
-- nse-mf-invest
-- subscriptions
-- redemptions
+- redemption
 - sip
 - stp
+- subscription
 - swp
+- taiwan-equity-fund
+- trading-platform
 title: Non-Business Day of Nippon Mutual Fund scheme on NSE MF Invest Platform
 ---
 

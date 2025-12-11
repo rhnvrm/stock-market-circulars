@@ -27,10 +27,9 @@ stocks:
 - KOGTAFIN
 tags:
 - debt-securities
+- further-issue
 - listing
 - private-placement
-- kogta-financial
-- new-issuance
 title: Listing of New Debt Securities of Kogta Financial (India) Limited
 ---
 

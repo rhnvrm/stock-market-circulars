@@ -48,13 +48,13 @@ stocks:
 - HDFCAMC
 - BSE
 tags:
-- index-changes
-- nifty-50
-- nifty-next-50
-- nifty-midcap-select
-- nifty-financial-services
 - constituents
 - futures-options
+- index-change
+- nifty-50
+- nifty-financial-services
+- nifty-midcap-select
+- nifty-next-50
 title: Change in the Constituents of Indices - Nifty 50, Nifty Next 50, Nifty Midcap
   Select, and Nifty Financial Services
 ---

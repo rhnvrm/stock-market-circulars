@@ -25,14 +25,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- zerodha
 - fund-of-funds
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
+- zerodha
 title: Availability of Zerodha Multi Asset Passive FOF Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

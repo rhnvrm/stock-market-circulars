@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-suspension
-- mutual-funds
+- fmp
+- mutual-fund
 - redemption
 - sbi-mutual-fund
-- fmp
+- suspension
 title: Suspension of trading in SBI Mutual Fund FMP Series 48 units due to redemption
 ---
 

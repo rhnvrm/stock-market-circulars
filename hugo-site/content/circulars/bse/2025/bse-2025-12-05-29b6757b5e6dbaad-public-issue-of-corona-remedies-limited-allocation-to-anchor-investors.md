@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CORONA
 tags:
-- ipo
-- public-issue
-- anchor-investors
-- listing
+- anchor-investor
 - corona-remedies
+- ipo
+- listing
+- public-issue
 title: Public Issue of Corona Remedies Limited - Allocation to Anchor Investors
 ---
 

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - PWL
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
+- listing
 - physicswallah
 title: Listing of Equity Shares of Physicswallah Limited
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ARIHANT
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Arihant Superstructures Limited
 ---
 

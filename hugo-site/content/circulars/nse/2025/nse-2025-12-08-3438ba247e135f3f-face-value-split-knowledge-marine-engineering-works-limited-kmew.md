@@ -27,11 +27,10 @@ source: nse
 stocks:
 - KMEW
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- equity-shares
-- KMEW
+- equity
+- face-value-change
+- split
 title: Face Value Split - Knowledge Marine & Engineering Works Limited (KMEW)
 ---
 

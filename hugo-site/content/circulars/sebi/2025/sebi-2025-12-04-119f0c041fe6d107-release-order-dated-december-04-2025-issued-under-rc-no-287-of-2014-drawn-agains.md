@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- recovery-order
-- enforcement
-- kolar-biotech-limited
 - albeli-trading
-- recovery-certificate
+- enforcement
+- recovery
 title: Release Order for Recovery Certificate No. 287 of 2014 - M/s Albeli Trading
   Private Limited
 ---

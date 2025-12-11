@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- befs-portal
 - colocation
+- compliance
 - data-center
 - equipment-declaration
 - visitor-management
-- BEFS-portal
-- compliance
 title: Revised Guidelines for Co-location Facility and Related Services
 ---
 

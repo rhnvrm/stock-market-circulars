@@ -239,10 +239,10 @@ stocks:
 - COROMANDEL
 - COSMOFIRST
 tags:
-- slbs
-- securities-lending
 - borrowing
+- collateral
 - eligible-securities
+- slbs
 - trading
 title: Revised List of Securities - SLBS
 ---

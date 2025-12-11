@@ -26,10 +26,9 @@ stocks:
 - AGRIXCHNG4
 tags:
 - debt-securities
+- icra-rating
 - listing
 - private-placement
-- agri-xchng4
-- icra-rating
 title: Listing of new debt securities of AGRI XCHNG4 2025
 ---
 

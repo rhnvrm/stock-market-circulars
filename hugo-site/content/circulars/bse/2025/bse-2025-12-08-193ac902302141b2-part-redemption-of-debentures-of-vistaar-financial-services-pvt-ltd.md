@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- debt
-- corporate-actions
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 - vistaar-financial
 title: Part Redemption of Debentures of VISTAAR FINANCIAL SERVICES PVT LTD
 ---

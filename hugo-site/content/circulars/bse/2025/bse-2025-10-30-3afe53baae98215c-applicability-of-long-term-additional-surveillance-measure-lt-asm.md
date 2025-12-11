@@ -45,11 +45,10 @@ stocks:
 - AELEA
 - AHASOLAR
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- long-term-asm
 - trading-restrictions
-- market-safety
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

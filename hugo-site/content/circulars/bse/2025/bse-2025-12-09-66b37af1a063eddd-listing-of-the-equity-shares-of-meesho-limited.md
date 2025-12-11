@@ -26,14 +26,13 @@ source: bse
 stocks:
 - MEESHO
 tags:
+- aif
+- anchor-investor
+- equity
+- esop
 - ipo
 - listing
 - lock-in
-- equity-shares
-- meesho
-- esop
-- anchor-investors
-- aif
 title: Listing of the Equity Shares of Meesho Limited
 ---
 

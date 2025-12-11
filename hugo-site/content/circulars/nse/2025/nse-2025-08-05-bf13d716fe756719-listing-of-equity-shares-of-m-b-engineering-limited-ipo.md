@@ -26,11 +26,9 @@ source: nse
 stocks:
 - MBEL
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- mbel
-- new-listing
+- listing
 title: Listing of Equity Shares of M & B Engineering Limited (IPO)
 ---
 

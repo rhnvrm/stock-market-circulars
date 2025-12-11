@@ -29,10 +29,10 @@ stocks:
 - IDEA
 tags:
 - agr-dues
-- supreme-court
 - clarification
 - news-article
 - regulatory-disclosure
+- supreme-court
 - telecommunication
 - vodafone-idea
 title: Vodafone Idea Clarification on Supreme Court AGR Dues Order

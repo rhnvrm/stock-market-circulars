@@ -29,11 +29,11 @@ stocks:
 - JYOTHYLAB
 tags:
 - exemption-order
-- takeover
-- substantial-acquisition
 - family-trust
 - promoter-restructuring
-- sast-regulations
+- regulatory-framework
+- sast
+- takeover
 title: Exemption Order in the matter of Jyothi Labs Limited - Acquisition by M. P.
   Ramachandran Family Trusts
 ---

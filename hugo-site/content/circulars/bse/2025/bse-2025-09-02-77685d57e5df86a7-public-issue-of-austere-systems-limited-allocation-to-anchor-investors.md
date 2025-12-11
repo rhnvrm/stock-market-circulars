@@ -26,10 +26,10 @@ source: bse
 stocks:
 - AUSTERE
 tags:
-- ipo
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - austere-systems
+- ipo
 title: Public Issue of AUSTERE SYSTEMS LIMITED - Allocation to Anchor Investors
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ORKLA
 tags:
-- public-issue
-- anchor-investors
+- allotment
+- anchor-investor
+- ipo
 - listing
 - orkla-india
-- ipo
-- allocation
+- public-issue
 title: Public Issue of Orkla India Limited - Allocation to Anchor Investors
 ---
 

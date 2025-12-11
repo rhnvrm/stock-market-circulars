@@ -27,12 +27,12 @@ source: bse
 stocks:
 - OBEROI
 tags:
-- debentures
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
-- interest-payment
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Oberoi Realty Limited
 ---
 

@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- amendment
 - delisting
+- equity
 - psu
 - public-sector-undertaking
-- equity-shares
 - regulations
-- amendment
 - special-provisions
 title: SEBI (Delisting of Equity Shares) (Amendment) Regulations, 2025 - Special Provisions
   for PSU Delisting

@@ -27,10 +27,9 @@ source: nse
 stocks:
 - DALMIASUG
 tags:
-- trade-for-trade
 - rolling-segment
 - segment-transfer
-- DALMIASUG
+- trade-for-trade
 title: Trade for Trade - Dalmia Bharat Sugar and Industries Limited (DALMIASUG)
 ---
 

@@ -27,13 +27,13 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- penalty
-- stockbroker
-- it-systems
+- capacity-monitoring
 - compliance
 - cybersecurity
+- it-systems
+- penalty
+- stockbroker
 - vapt-audit
-- capacity-monitoring
 - zebu
 title: Adjudication Order Against Zebu Share and Wealth Management Pvt. Ltd. for IT
   System Violations

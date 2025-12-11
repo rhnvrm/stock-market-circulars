@@ -28,14 +28,13 @@ source: nse
 stocks:
 - KEYSTONREAL
 tags:
-- offer-for-sale
-- settlement
+- clearing
+- institutional-settlement
 - keystone-realtors
 - ofs
-- clearing
-- settlement-calendar
-- institutional-settlement
 - retail-settlement
+- settlement
+- settlement-calendar
 title: Settlement Calendar for Offer for Sale of shares of Keystone Realtors Limited
 ---
 

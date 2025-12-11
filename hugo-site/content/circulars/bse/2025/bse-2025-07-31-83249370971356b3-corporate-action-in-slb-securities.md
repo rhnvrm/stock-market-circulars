@@ -46,12 +46,11 @@ stocks:
 - TFCILTD
 - HYUNDAI
 tags:
-- corporate-actions
-- dividend
-- bonus-issue
-- ex-date
-- record-date
+- bonus
 - book-closure
+- corporate-action
+- dividend
+- record-date
 title: Corporate Action Schedule - Dividend and Bonus Issues for August 2025
 ---
 

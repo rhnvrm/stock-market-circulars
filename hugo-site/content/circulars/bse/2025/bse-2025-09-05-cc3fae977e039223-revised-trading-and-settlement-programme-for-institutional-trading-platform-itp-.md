@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-schedule
-- settlement
+- institutional-investor
 - itp
-- sme
-- institutional-trading
 - rms
+- settlement
+- sme
+- trading-schedule
 title: Revised Trading and Settlement Programme for Institutional Trading Platform
   (ITP) - SME Segment for September 2025
 ---

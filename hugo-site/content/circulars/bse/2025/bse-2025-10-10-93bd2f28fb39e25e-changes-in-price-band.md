@@ -43,16 +43,16 @@ stocks:
 - DREAMFOLK
 - EXCELREAL
 - EXHICON
-- FLUIDOMAT
+- FLUIDOM
 - GARNETCON
 - GRATEX
-- INDIABULLS
+- IBULLSLTD
 - INDOKEM
 - INDSWFTLAB
 - JAINEXAAM
 - KALPACOM
 - KESARENT
-- KUBERUDYOG
+- KUBERJI
 - LANDMARC
 - LYONSCORP
 - MAGNAELEC
@@ -87,11 +87,11 @@ stocks:
 - YASHTRFIN
 - ZINEMA
 tags:
+- asm-stage
+- circuit-limits
+- equity
 - price-band
 - trading
-- surveillance-measure
-- circuit-limits
-- equity-segment
 title: Revision of Price Bands for 61 Securities Effective October 13, 2025
 ---
 

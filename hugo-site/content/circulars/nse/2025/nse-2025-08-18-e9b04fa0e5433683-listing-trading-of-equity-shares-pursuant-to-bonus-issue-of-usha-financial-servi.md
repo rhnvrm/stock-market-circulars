@@ -26,11 +26,11 @@ source: nse
 stocks:
 - USHAFIN
 tags:
-- bonus-issue
-- listing
-- equity-shares
-- trading
+- bonus
 - capital-market
+- equity
+- listing
+- trading
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Usha Financial
   Services Limited
 ---

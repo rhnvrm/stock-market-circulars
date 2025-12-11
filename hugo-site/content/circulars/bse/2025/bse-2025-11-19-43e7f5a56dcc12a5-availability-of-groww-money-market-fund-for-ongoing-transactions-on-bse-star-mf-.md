@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- debt-securities
 - groww-money-market-fund
-- bse-star-mf
-- debt-fund
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 - trading-platform
 title: GROWW MONEY MARKET FUND Reopening for Ongoing Transactions on BSE StAR MF Platform

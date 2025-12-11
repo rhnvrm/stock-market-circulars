@@ -29,14 +29,13 @@ source: sebi
 stocks:
 - ANGELONE
 tags:
-- settlement-order
-- disclosure-violation
-- lodr-regulations
 - delayed-disclosure
-- scheme-of-arrangement
+- information-disclosure
+- lodr
 - penalty
-- angel-one
 - regulation-30
+- scheme-of-arrangement
+- settlement-order
 title: Settlement Order in the matter of Angel One Limited
 ---
 

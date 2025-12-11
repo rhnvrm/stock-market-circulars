@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-holiday
-- debt-segment
-- trading-holiday
+- debt-securities
+- holiday
 - id-e-milad
 - negotiable-instruments-act
+- settlement-holiday
 title: Change in Settlement Holiday - September 2025
 ---
 

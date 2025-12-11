@@ -27,12 +27,11 @@ source: bse
 stocks:
 - NORBEN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- NORBEN
+- preferential-issue
 title: Listing of New Securities of Norben Tea & Exports Ltd - Preferential Allotment
 ---
 

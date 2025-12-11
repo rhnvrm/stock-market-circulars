@@ -30,10 +30,9 @@ stocks:
 - KRBL
 - USASEEDS
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
 - trading
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

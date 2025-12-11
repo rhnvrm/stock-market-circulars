@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BFL
 tags:
-- debentures
-- trading-suspension
-- maturity
 - debt-securities
-- bfl
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in BFL Debentures Due to Maturity
 ---
 

@@ -23,14 +23,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- JSWcement
+- JSWCEMENT
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
-- anchor-investors
+- anchor-investor
+- equity
 - esop
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of JSW Cement Limited with Lock-in Details
 ---
 

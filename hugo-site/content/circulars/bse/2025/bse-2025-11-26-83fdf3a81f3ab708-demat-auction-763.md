@@ -29,7 +29,7 @@ stocks:
 - 360ONE
 - ANANDRATHI
 - APOLLOMICRO
-- ASKAUTOMOTIVE
+- ASKAUTOLTD
 - ASTRAL
 - ATISHAY
 - AUBANK
@@ -47,7 +47,7 @@ stocks:
 - CROMPTON
 - DATAPATTERNS
 - DELTA
-- DILIPBUILDCON
+- DBL
 - EMERALD
 - ERAAYA
 - ESAFSFB
@@ -86,24 +86,24 @@ stocks:
 - MUTHOOTFIN
 - NATIONALSEC
 - NIPPOINDIA
-- NMDCSTEEL
+- NSLNISP
 - NRBBEARING
 - OLATECH
 - ORIENTELEC
 - ORIENTTRADE
 - PBM
-- PDS
+- PDSL
 - PEECEECOSM
 - PGEL
-- PHYSICSWALLAH
+- PWL
 - RVNL
 - RAIN
-- REPROINDIA
+- REPRO
 - RIRPOWER
 - RITCO
 - ROOPA
-- ROUTEMOBILE
-- SBFCFINANCE
+- ROUTE
+- SBFC
 - SBILIFE
 - SHILPAMED
 - SHLOKKA
@@ -117,7 +117,7 @@ stocks:
 - SYNERGY
 - TANFAC
 - TAPARIA
-- TATACAPITAL
+- TATACAP
 - TATAPOWER
 - TATATECH
 - TECHKNOW
@@ -136,10 +136,10 @@ stocks:
 - WEWORK
 - YESBANK
 tags:
-- demat-auction
-- settlement
-- securities-auction
+- demat
 - market-operations
+- securities-auction
+- settlement
 title: Demat Auction - Settlement No. 763
 ---
 

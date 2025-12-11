@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- alternative-investment-funds
-- regulatory-violation
 - 360-one
+- alternative-investment-funds
 - compliance
+- non-compliance
+- settlement-order
 title: Summary Settlement Order - 360 One Private Equity Fund AIF Regulation Violations
 ---
 

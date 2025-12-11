@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- 3IINFOTECH
+- 3IINFOLTD
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - 3iinfotech
-- demat-only
+- demat
+- equity
+- renunciation
+- rights-issue
 - trade-for-trade
 title: Rights Entitlements Trading for 3I INFOTECH LIMITED
 ---

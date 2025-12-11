@@ -66,10 +66,10 @@ stocks:
 - SHRIRAMFIN
 tags:
 - collateral
-- margin-requirements
-- approved-securities
+- empanelment
+- liquid-fund
+- margin
 - risk-management
-- liquid-assets
 title: Revised List of Approved Securities and Banks for Collateral Deposits
 ---
 

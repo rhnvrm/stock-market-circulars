@@ -26,8 +26,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- private-placement
 - pahal-financial-services
+- private-placement
 title: Listing of new debt securities of Pahal Financial Services Private Limited
 ---
 

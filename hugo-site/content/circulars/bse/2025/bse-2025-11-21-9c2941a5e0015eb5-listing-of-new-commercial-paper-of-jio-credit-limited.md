@@ -28,10 +28,8 @@ stocks:
 - JIOCREDIT
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- jio-credit-limited
-- debt-segment
 title: Listing of New Commercial Paper of Jio Credit Limited
 ---
 

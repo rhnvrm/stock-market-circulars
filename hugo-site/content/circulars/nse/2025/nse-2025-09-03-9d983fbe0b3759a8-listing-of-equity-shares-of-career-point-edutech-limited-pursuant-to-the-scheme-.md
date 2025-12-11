@@ -27,12 +27,12 @@ source: nse
 stocks:
 - CPEDU
 tags:
+- career-point-edutech
+- equity
 - listing
-- equity-shares
 - scheme-of-arrangement
 - shareholding-pattern
 - xbrl-filing
-- career-point-edutech
 title: Listing of Equity Shares of Career Point Edutech Limited pursuant to the Scheme
   of Arrangement
 ---

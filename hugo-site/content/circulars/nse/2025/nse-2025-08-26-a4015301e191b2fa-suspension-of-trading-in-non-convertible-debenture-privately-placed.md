@@ -24,11 +24,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- suspension
-- non-convertible-debenture
-- debt-market
-- redemption
 - clix-capital
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Clix Capital Services Private Limited Non-Convertible
   Debenture
 ---

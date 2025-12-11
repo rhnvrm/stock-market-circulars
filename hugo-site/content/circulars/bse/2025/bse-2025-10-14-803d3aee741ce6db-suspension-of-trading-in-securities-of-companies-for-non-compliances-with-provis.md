@@ -28,12 +28,11 @@ source: bse
 stocks:
 - RAMASIGNS
 tags:
-- trading-suspension
 - lodr-compliance
+- promoter-freezing
 - regulation-31
 - shareholding-disclosure
-- promoter-freezing
-- ramasigns-industries
+- suspension
 title: Suspension of Trading in Ramasigns Industries Ltd for Non-Compliance with LODR
   Regulations
 ---

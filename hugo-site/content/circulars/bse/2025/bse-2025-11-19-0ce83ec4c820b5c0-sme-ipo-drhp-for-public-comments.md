@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ENSENTERPRISES
 tags:
-- sme-ipo
-- drhp
+- draft-document
+- icdr
 - public-comments
-- ens-enterprises
-- draft-offer-document
-- icdr-regulations
+- sme
 title: ENS Enterprises Limited - SME IPO DRHP Available for Public Comments
 ---
 

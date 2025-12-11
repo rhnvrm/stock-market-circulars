@@ -27,7 +27,7 @@ stocks:
 - IIFL
 - TATACONSUM
 - GODREJPROP
-- CEAT
+- CEATLTD
 - SUNDARMFIN
 - ANGELONE
 - PEL
@@ -35,10 +35,10 @@ stocks:
 - GODREJAGRO
 - PIRAMALENT
 tags:
-- listing
-- debt-market
 - commercial-paper
-- privately-placed-securities
+- debt-securities
+- listing
+- privately-placed
 title: Listing of Privately Placed Securities on NSE Debt Market Segment
 ---
 

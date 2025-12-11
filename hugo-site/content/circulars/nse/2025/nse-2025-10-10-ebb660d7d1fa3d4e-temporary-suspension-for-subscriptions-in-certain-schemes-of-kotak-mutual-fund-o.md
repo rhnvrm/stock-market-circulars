@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- suspension
+- fund-of-funds
 - kotak-mutual-fund
-- silver-etf
-- fund-of-fund
+- market-operations
+- mutual-fund
+- silver
 - subscription
-- nse-mf-invest
-- market-conditions
+- suspension
+- trading-platform
 title: Temporary Suspension for subscriptions in certain schemes of Kotak Mutual Fund
   on NSE MF Invest Platform
 ---

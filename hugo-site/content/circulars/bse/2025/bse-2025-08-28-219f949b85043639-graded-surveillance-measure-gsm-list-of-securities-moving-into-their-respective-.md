@@ -30,14 +30,11 @@ stocks:
 - INTLDATA
 - ANSIND
 tags:
-- gsm
+- ans-industries
+- international-data-management
 - surveillance
 - trading-restrictions
-- setubandhan-infrastructure
-- explicit-finance
 - venmax-drugs
-- international-data-management
-- ans-industries
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

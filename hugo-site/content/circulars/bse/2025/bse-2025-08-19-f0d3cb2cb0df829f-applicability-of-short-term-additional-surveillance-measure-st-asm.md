@@ -35,11 +35,11 @@ stocks:
 - DATAMATICS
 - PATELS
 tags:
+- asm-stage
+- market-operations
+- sme
 - surveillance
-- ST-ASM
 - trading-restrictions
-- market-regulation
-- SME
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

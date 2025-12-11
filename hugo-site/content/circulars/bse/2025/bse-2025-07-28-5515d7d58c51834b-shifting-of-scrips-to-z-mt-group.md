@@ -27,13 +27,12 @@ source: bse
 stocks:
 - BENARABEAR
 tags:
-- regulatory-compliance
-- sebi-lodr
+- asm-stage
+- compliance
 - financial-disclosure
+- financial-results
+- lodr
 - trading-restrictions
-- z-group
-- mt-group
-- quarterly-results
 title: Shifting of scrips to "Z"/"MT" group for non-compliance with SEBI LODR Regulations
 ---
 

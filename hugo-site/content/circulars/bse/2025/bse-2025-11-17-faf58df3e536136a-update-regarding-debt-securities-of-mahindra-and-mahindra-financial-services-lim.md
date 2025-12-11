@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MMFSL
 tags:
-- debt-securities
-- debentures
-- isin-change
-- mahindra-finance
 - call-money
-- paid-up-value
+- debt-securities
+- face-value-change
+- isin
+- mahindra-finance
+- ncd
 title: Update Regarding Debt Securities of Mahindra And Mahindra Financial Services
   Limited
 ---

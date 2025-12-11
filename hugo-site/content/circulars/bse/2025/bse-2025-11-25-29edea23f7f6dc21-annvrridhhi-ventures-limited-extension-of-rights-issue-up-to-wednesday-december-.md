@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ANNVRRIDHHI
 tags:
-- rights-issue
-- extension
-- corporate-action
 - capital-raising
+- corporate-action
+- extension
 - issue-timeline
+- rights-issue
 title: ANNVRRIDHHI VENTURES LIMITED - Extension of Rights Issue up to Wednesday, December
   10, 2025
 ---

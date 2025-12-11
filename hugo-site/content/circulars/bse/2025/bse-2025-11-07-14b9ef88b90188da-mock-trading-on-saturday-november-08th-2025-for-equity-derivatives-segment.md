@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-derivatives
-- trading-session
-- testing
+- derivatives
 - etf-apis
-- bolt-tws
+- mock-trading
+- trading-platform
+- trading-session
 title: Mock Trading on Saturday November 08th, 2025 for Equity Derivatives segment
 ---
 

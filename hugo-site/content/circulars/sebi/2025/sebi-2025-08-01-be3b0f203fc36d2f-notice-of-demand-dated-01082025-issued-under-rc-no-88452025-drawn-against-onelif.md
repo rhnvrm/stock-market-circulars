@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- demand-notice
-- recovery-certificate
 - capital-advisors
 - compliance
+- demand-notice
+- enforcement
+- recovery
 title: Notice of Demand dated 01.08.2025 issued under RC No. 8845/2025 drawn against
   Onelife Capital Advisors Limited
 ---

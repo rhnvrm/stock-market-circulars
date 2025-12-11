@@ -28,13 +28,9 @@ stocks:
 - SHANTHALA
 - SIGNPOST
 tags:
-- surveillance
+- asm-stage
 - margin
-- st-asm
-- additional-surveillance-measure
-- BCG
-- SHANTHALA
-- SIGNPOST
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -26,16 +26,14 @@ source: bse
 stocks:
 - CLINITECH
 - RAMCHANDRALEAS
-- RETINAPAINTS
+- RETINA
 - ALANSCOTT
-- SHREEPACETRONIX
+- SHREEPAC
 - VASHUBHAGNANI
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - August 20, 2025
 ---
 

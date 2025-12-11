@@ -27,9 +27,9 @@ stocks: []
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
 - julius-baer-capital
-- new-listing
+- listing
+- private-placement
 title: Listing of Commercial Paper of Julius Baer Capital (India) Private Limited
 ---
 

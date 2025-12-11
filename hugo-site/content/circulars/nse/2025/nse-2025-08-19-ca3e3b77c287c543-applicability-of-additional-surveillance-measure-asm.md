@@ -26,10 +26,8 @@ source: nse
 stocks:
 - JSLL
 tags:
+- asm-stage
 - surveillance
-- asm
-- additional-surveillance-measure
-- stage-movement
 - trade-for-trade
 title: Applicability of Additional Surveillance Measure (ASM)
 ---

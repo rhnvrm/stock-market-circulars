@@ -29,10 +29,10 @@ stocks:
 tags:
 - etf
 - listing
-- motilal-oswal
-- nifty-mnc
-- mutual-fund
 - market-maker
+- motilal-oswal
+- mutual-fund
+- nifty-mnc
 title: Listing of Motilal Oswal Nifty MNC ETF Units on NSE
 ---
 

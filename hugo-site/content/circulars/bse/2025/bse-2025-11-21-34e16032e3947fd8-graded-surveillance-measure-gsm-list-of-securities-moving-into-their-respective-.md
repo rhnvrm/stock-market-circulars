@@ -31,11 +31,9 @@ stocks:
 - PASUPTFC
 - SHAHFOODS
 tags:
-- gsm
-- graded-surveillance-measure
-- surveillance
-- stage-movement
+- asm-stage
 - enhanced-monitoring
+- surveillance
 title: GSM Stage Movement - 4 Securities Moved to Higher Surveillance Stages
 ---
 

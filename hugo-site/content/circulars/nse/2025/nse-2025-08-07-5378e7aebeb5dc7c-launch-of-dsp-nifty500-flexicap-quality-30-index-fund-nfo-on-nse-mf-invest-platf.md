@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- index-fund
 - dsp-mutual-fund
 - equity
-- nse-mf-invest
+- index-fund
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of DSP Nifty500 Flexicap Quality 30 Index Fund NFO on NSE MF Invest
   Platform
 ---

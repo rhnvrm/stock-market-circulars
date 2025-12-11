@@ -26,9 +26,9 @@ stocks:
 - KSPL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - krazybee-services
+- private-placement
 title: Listing of new Commercial Paper of Krazybee Services Private Limited
 ---
 

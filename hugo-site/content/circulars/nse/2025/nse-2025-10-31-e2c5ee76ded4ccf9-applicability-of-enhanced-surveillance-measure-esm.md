@@ -33,13 +33,11 @@ stocks:
 - KAYA
 - MVKAGRO
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
-- surveillance
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

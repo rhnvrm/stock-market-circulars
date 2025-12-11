@@ -27,13 +27,12 @@ source: nse
 stocks:
 - JAYESH
 tags:
-- sme-ipo
-- listing
-- equity-shares
 - emerge-platform
-- trade-for-trade
+- equity
+- listing
 - market-maker
-- ipo-listing
+- sme
+- trade-for-trade
 title: Listing of Equity Shares of Jayesh Logistics Limited (SME IPO)
 ---
 

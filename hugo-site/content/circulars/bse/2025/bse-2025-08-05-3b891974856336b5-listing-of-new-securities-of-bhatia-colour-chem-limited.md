@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BHATIA
 tags:
-- listing
-- new-securities
-- equity-shares
-- lock-in
 - bhatia-colour-chem
+- equity
+- listing
+- lock-in
+- new-securities
 title: Listing of New Securities of Bhatia Colour Chem Limited
 ---
 

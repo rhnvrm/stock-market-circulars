@@ -26,11 +26,9 @@ source: bse
 stocks:
 - INFINITY
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- infinity-infoway
 title: Listing of Equity Shares of Infinity Infoway Limited
 ---
 

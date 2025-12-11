@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- signatureglobal
 title: Listing of New Debt Securities of SIGNATUREGLOBAL (INDIA) LIMITED
 ---
 

@@ -25,14 +25,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- market-data
-- trading-systems
-- nfcast
-- eobi
 - emdi
+- eobi
+- market-data
+- market-infrastructure
 - mdi
 - multicast
-- system-upgrade
+- nfcast
+- system-update
 title: Enhancement in Market Data Streams – Update with Parallel Run Implementation
 ---
 

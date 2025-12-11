@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
+- investment-platform
+- market-operations
+- mutual-fund
 - silver
 - subscription
 - uti-mutual-fund
-- investment-platform
-- market-operations
 title: Revoke of Temporary Suspension for subscriptions in UTI Silver ETF Fund of
   Fund on NSE MF Invest Platform
 ---

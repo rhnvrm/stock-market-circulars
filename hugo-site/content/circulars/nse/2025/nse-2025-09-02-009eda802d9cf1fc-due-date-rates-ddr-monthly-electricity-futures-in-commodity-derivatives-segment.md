@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
+- ddr
+- derivatives
 - electricity-futures
 - settlement
-- DDR
 title: Due Date Rates for Monthly Electricity Futures - August 2025 Expiry
 ---
 

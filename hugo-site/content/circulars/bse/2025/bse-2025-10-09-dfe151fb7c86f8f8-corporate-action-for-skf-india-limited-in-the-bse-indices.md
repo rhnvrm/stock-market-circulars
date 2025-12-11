@@ -27,15 +27,12 @@ severity: high
 source: bse
 stocks:
 - SKFINDIA
-- '500472'
 tags:
-- demerger
+- call-money
 - corporate-action
-- index-inclusion
-- scheme-of-arrangement
-- special-pre-open-session
+- index-change
 - price-discovery
-- SKFINDIA
+- scheme-of-arrangement
 title: Corporate Action for SKF India Limited in the BSE Indices - Demerger and Index
   Addition
 ---

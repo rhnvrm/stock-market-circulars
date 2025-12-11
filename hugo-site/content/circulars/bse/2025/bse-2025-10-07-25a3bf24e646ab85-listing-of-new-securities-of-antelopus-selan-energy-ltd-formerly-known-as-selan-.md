@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SELAN
 tags:
+- composite-scheme
+- equity
 - listing
 - new-securities
-- equity-shares
 - scheme-of-arrangement
-- merger
-- composite-scheme
 title: Listing of new securities of Antelopus Selan Energy Ltd (formerly known as
   Selan Exploration Technology Ltd)
 ---

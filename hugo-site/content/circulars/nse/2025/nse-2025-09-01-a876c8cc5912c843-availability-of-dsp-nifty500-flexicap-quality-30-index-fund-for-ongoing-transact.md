@@ -26,14 +26,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - dsp-mutual-fund
+- equity
 - index-fund
+- mutual-fund
 - nifty500
 - sip
 - stp
 - swp
-- equity-fund
 title: DSP Nifty500 Flexicap Quality 30 Index Fund Available for Ongoing Transactions
   on NSE MF Invest Platform
 ---

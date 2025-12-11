@@ -26,15 +26,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '940523'
+- 95KAFL26
 tags:
-- debentures
-- trading-resumption
-- klm-axiva-finvest
-- record-date
+- corporate-action
+- debt-securities
 - interest-payment
-- debt-segment
-- corporate-actions
+- klm-axiva-finvest
+- ncd
+- record-date
+- trading-resumption
 title: Resumption of Trading in Debentures of KLM AXIVA FINVEST LTD (Scrip Code 940523)
 ---
 

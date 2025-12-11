@@ -27,11 +27,11 @@ stocks:
 - TATASTEEL
 - JUBLINGREVIA
 - ACEL
-- GODREJAGROVET
-- CEAT
+- GODREJAGRO
+- CEATLTD
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
 - securities

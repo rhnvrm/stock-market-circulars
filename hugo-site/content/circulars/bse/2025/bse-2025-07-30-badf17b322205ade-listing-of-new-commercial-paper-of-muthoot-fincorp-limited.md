@@ -26,10 +26,8 @@ stocks:
 - MUTHOOTFIN
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- muthoot-fincorp
-- debt-segment
 title: Listing of new Commercial Paper of MUTHOOT FINCORP LIMITED
 ---
 

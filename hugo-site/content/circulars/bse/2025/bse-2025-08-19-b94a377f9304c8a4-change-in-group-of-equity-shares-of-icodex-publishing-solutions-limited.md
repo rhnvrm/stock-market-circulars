@@ -27,11 +27,10 @@ stocks:
 - ICODEX
 tags:
 - group-change
-- trading-segment
-- sme
-- icodex
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of ICODEX Publishing Solutions Limited
 ---
 

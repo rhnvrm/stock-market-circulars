@@ -25,11 +25,11 @@ source: bse
 stocks:
 - HSCL
 tags:
-- debt-segment
 - commercial-paper
-- private-placement
-- new-listing
+- debt-securities
 - himadri-speciality
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Himadri Speciality Chemical Ltd.
 ---
 

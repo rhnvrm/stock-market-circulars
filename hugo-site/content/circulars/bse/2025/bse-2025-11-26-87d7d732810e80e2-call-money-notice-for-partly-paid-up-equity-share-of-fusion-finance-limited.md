@@ -29,12 +29,12 @@ stocks:
 - FUSIONPP
 tags:
 - call-money
-- partly-paid-shares
 - equity
 - fusion-finance
-- ibbs
-- scsb
+- partly-paid
 - rights-issue
+- scsb
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of Fusion Finance Limited
 ---
 

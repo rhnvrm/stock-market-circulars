@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
+- care-b-rating
+- conmin-projects
 - debt-securities
 - listing
 - private-placement
-- CONMIN-Projects
-- corporate-bonds
-- CARE-B-rating
 title: Listing of New Debt Securities of CONMIN Projects India Private Limited
 ---
 

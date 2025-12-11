@@ -26,11 +26,11 @@ source: bse
 stocks:
 - EDELFINANCE
 tags:
-- trading-suspension
-- debentures
-- early-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of EDEL FINANCE COMPANY LIMITED
 ---
 

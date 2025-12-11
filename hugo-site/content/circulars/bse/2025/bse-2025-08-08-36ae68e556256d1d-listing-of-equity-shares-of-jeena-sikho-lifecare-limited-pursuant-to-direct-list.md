@@ -27,11 +27,10 @@ stocks:
 - JSLL
 tags:
 - direct-listing
+- equity
+- mainboard-migration
 - shareholding-pattern
 - sme
-- mainboard-migration
-- jsll
-- equity-shares
 title: Listing of equity shares of Jeena Sikho Lifecare Limited pursuant to Direct
   Listing from Emerge Platform of NSE to BSE Mainboard Platform
 ---

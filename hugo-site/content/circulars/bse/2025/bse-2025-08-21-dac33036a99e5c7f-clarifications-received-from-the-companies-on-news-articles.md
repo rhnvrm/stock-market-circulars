@@ -27,12 +27,12 @@ stocks:
 - CLEAN
 - SULA
 tags:
-- clarifications
-- news-articles
-- trading-error
 - acquisition-rumors
+- clarification
 - disclosure
+- news-articles
 - regulation-30
+- trading-error
 title: Clarifications from Clean Science and Technology Limited and Sula Vineyards
   Limited on news articles
 ---

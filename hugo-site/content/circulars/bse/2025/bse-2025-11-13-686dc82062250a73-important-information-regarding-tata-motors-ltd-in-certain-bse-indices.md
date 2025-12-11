@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- index
-- exclusion
-- demerger
-- tata-motors
-- sensex
-- scheme-of-arrangement
+- addition
 - corporate-action
+- index-fund
+- scheme-of-arrangement
+- sensex
+- tata-motors
 title: Tata Motors Ltd Exclusion from BSE Indices Effective November 17, 2025
 ---
 

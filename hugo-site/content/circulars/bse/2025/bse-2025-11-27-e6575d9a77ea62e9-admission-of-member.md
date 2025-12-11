@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- cash-segment
+- derivatives
 - membership
 - new-member
 - trading-rights
-- equity-derivatives
-- cash-segment
 title: Admission of Member - Eklingji Broking LLP
 ---
 

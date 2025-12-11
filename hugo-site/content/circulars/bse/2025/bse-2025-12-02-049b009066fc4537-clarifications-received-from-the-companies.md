@@ -30,12 +30,11 @@ stocks:
 - WOCKPHARMA
 - BPPL
 tags:
-- volume-movement
-- price-movement
 - clarification
-- surveillance
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

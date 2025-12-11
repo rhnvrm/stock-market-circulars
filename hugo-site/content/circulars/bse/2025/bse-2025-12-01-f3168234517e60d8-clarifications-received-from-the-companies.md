@@ -28,11 +28,10 @@ stocks:
 - KSB
 - BESTAGRO
 tags:
-- price-movement
-- volume-increase
-- surveillance
-- disclosure
 - clarification
+- disclosure
+- price-movement
+- surveillance
 title: Clarifications received from companies on price/volume movements
 ---
 

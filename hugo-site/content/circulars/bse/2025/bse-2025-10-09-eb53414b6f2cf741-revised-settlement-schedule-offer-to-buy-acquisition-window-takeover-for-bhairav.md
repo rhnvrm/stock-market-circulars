@@ -28,12 +28,11 @@ source: bse
 stocks:
 - BHAIRAV
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
+- demat
 - early-pay-in
-- demat-delivery
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   BHAIRAV ENTERPRISES LIMITED
 ---

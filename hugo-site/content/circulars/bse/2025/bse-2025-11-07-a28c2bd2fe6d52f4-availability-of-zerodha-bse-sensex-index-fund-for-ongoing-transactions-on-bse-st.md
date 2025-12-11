@@ -25,14 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- zerodha
 - bse-sensex-index-fund
+- equity-scheme
+- mutual-fund
 - ongoing-transactions
 - sip
 - stp
 - swp
-- equity-scheme
+- zerodha
 title: Availability of ZERODHA BSE SENSEX INDEX FUND for ongoing transactions on BSE
   StAR MF Platform
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - BODHTREE
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
+- rights-issue
 title: Listing of New Securities of Bodhtree Consulting Limited
 ---
 

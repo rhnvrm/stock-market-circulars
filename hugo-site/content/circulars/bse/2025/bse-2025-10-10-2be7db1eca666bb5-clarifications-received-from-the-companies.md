@@ -29,13 +29,12 @@ stocks:
 - MOTILALOSWL
 - PALREDTEC
 tags:
-- price-movement
-- volume-movement
-- surveillance
 - disclosure
+- lodr
+- market-operations
+- price-movement
 - regulation-30
-- sebi-lodr
-- market-driven
+- surveillance
 title: Clarifications received from the companies
 ---
 

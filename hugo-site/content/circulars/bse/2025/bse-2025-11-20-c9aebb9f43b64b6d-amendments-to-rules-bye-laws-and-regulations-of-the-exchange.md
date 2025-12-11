@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- rules-amendment
-- dispute-resolution
 - arbitration
-- trade-annulment
-- governance
+- corporate-governance
+- dispute-resolution
 - member-obligations
 - misconduct-rules
+- rules-amendment
+- trade-annulment
 title: Amendments to Rules, Bye-laws and Regulations - Dispute Resolution Mechanism
   and Trade Annulment Authority
 ---

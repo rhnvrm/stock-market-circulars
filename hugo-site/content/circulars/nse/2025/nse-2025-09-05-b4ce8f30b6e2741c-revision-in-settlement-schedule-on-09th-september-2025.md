@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-schedule
 - capital-market
+- clearing
+- settlement
 - t-plus-1
 - trading-operations
-- clearing
 title: Revision in Settlement Schedule on 09th September 2025
 ---
 

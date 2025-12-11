@@ -28,12 +28,9 @@ source: nse
 stocks:
 - EUROTEXIND
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
 - surveillance
-- eurotex-industries
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

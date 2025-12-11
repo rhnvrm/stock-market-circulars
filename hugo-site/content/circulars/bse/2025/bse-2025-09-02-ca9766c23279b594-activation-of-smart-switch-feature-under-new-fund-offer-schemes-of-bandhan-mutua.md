@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - bandhan-mutual-fund
+- liquid-fund
+- mutual-fund
 - smart-switch
-- bse-star-mf
-- overnight-fund
 title: Activation of SMART Switch Feature for BANDHAN Overnight Fund on BSE StAR MF
   Platform
 ---

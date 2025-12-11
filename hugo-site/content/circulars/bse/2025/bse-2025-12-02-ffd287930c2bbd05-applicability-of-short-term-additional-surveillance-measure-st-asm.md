@@ -34,7 +34,7 @@ stocks:
 - ATISHAY
 - BAMPSL
 - BATLIBOI
-- BESTAGROLIFE
+- BESTAGRO
 - BIGBLOC
 - CAPTRUST
 - CLASSIC
@@ -44,11 +44,9 @@ stocks:
 - HALDER
 - JDCABLES
 tags:
+- asm-stage
 - surveillance
-- ST-ASM
 - trading-restrictions
-- market-surveillance
-- additional-surveillance-measure
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -29,9 +29,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- debentures
 - midland-microfin
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Midland Microfin Limited
 ---
 

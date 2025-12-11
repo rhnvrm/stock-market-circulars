@@ -27,10 +27,10 @@ stocks:
 - PIICL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- pilani-investment
+- debt-securities
 - icici-bank
+- pilani-investment
+- private-placement
 title: Listing of new Commercial Paper of Pilani Investment and Industries Corporation
   Limited
 ---

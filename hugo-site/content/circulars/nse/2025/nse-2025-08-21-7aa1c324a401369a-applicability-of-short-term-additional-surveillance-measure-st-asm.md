@@ -33,10 +33,9 @@ stocks:
 - PGEL
 - USASEEDS
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
 title: Short-Term Additional Surveillance Measure (ST-ASM) Applied to 5 Securities
 ---

@@ -27,16 +27,16 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- reversal-trades
-- pfutp-regulations
 - bse
+- investigation
+- market-operations
 - non-genuine-trades
 - penalty
-- fraudulent-trading
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order Against Parasmani Tradelink Private Limited for Manipulative
   Trading in Illiquid Stock Options
 ---

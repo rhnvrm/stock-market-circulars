@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
+- liquid-fund
+- mutual-fund
 - nfo
 - sbi-mutual-fund
-- liquid-fund
-- bse-star-mf
 title: Launch of SBI NIFTY 1D RATE LIQUID ETF NFO on BSE StAR MF Platform
 ---
 

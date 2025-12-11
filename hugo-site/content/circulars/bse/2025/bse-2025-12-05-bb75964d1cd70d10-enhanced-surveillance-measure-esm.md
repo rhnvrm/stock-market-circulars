@@ -34,7 +34,7 @@ stocks:
 - CUBICALFIN
 - DUGARHOU
 - EMAINDIA
-- HAMPSBIO
+- HAMPS
 - JAINCO
 - KALPACOM
 - KKALPANA
@@ -50,11 +50,10 @@ stocks:
 - TRADEWELL
 - TRITONCOR
 tags:
-- enhanced-surveillance
-- esm-framework
-- market-surveillance
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Updates to Security Classifications Effective
   December 8, 2025
 ---

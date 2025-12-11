@@ -27,11 +27,10 @@ stocks:
 - HYPERSOFT
 tags:
 - adjudication
-- penalty
-- disclosure-violation
-- takeover-regulations
-- hypersoft-technologies
 - delayed-disclosure
+- information-disclosure
+- penalty
+- takeover-regulations
 title: Adjudication Order Against Dadabhoy Bothe in Hypersoft Technologies Limited
   Matter
 ---

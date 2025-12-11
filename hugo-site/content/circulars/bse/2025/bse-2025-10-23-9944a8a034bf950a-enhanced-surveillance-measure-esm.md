@@ -47,12 +47,10 @@ stocks:
 - VJTF
 - YASH
 tags:
-- surveillance
-- esm
-- enhanced-surveillance-measure
-- trading-restrictions
-- market-integrity
 - investor-protection
+- market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   24, 2025
 ---

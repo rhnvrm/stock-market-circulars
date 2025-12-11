@@ -35,19 +35,9 @@ stocks:
 - GFSTEELS
 - UNIVAFOODS
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
 - periodic-review
 - stage-relaxation
-- lccinfotec
-- noidatoll
-- infomedia
-- supremeeng
-- bluechip
-- gayaproj
-- gfsteels
-- univafoods
+- surveillance
 title: Graded Surveillance Measure (GSM) - Periodic Relaxation of Surveillance Action
 ---
 

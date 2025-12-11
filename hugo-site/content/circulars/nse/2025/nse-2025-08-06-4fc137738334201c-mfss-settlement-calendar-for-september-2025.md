@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- liquid-fund
 - mfss
-- settlement-calendar
-- mutual-funds
-- subscription
+- mutual-fund
 - september-2025
-- t+1-settlement
-- liquid-funds
+- settlement-calendar
+- subscription
+- t1-settlement
 title: MFSS Settlement Calendar for September 2025
 ---
 

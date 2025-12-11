@@ -28,11 +28,10 @@ stocks:
 - NEWJAISA
 - PVP
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
 title: Enhanced Surveillance Measure (ESM) - Two Securities Added to Stage I
 ---
 

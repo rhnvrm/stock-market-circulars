@@ -33,17 +33,15 @@ stocks:
 - IDEAFORGE
 - INFY
 - JBCHEPHARM
-- PRIMEFOCUS
+- PFOCUS
 - RBLBANK
 - SBILIFE
 - SIS
 - UTIAMC
 tags:
-- listing
-- esop
-- esos
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS by 13 Companies
 ---

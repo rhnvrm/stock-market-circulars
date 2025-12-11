@@ -26,11 +26,11 @@ source: nse
 stocks:
 - LLOYDS
 tags:
-- listing
-- further-issue
+- emerge-platform
+- equity
 - esop
-- sme-emerge
-- equity-shares
+- further-issue
+- listing
 title: Listing of further issues of Lloyds Luxuries Limited
 ---
 

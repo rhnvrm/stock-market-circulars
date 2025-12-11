@@ -25,12 +25,12 @@ source: sebi
 stocks:
 - BAJFINANCE
 tags:
-- rti-appeal
-- scores-complaint
+- appeal
 - bajaj-finance
 - fiduciary-information
 - information-disclosure
-- appellate-authority
+- rti
+- scores-complaint
 - section-8-exemption
 title: RTI Appeal No. 6461 of 2025 - SEBI Denies Information Access on SCORES Complaint
 ---

@@ -31,10 +31,9 @@ stocks:
 - NRAGARWAL
 tags:
 - encumbrance
-- surveillance
-- promoter-encumbrance
-- sebi-sast
 - regulation-28-3
+- sast
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

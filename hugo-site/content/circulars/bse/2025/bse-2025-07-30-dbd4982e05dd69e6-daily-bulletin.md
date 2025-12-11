@@ -25,7 +25,7 @@ severity: low
 source: bse
 stocks:
 - AAYUSHWELL
-- ANUHPHARMA
+- ANUHPHR
 - BALRAMCHIN
 - BRIGADE
 - CANFINHOME
@@ -35,12 +35,12 @@ stocks:
 - GOLKUNDA
 - HALDER
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
-- corporate-actions
 - interest-payment
+- record-date
 - redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---

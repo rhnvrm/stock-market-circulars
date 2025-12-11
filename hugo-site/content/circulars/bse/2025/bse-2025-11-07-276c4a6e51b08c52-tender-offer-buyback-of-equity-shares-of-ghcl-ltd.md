@@ -28,11 +28,10 @@ stocks:
 - GHCL
 tags:
 - buyback
-- tender-offer
-- record-date
 - corporate-action
-- equity-shares
-- GHCL
+- equity
+- record-date
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of GHCL LTD.
 ---
 

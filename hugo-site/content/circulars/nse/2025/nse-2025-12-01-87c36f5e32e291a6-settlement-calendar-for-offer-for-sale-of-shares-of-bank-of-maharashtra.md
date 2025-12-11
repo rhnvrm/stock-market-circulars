@@ -27,15 +27,14 @@ source: nse
 stocks:
 - MAHABANK
 tags:
-- ofs
-- offer-for-sale
-- settlement
 - bank-of-maharashtra
 - clearing
-- institutional-investors
-- retail-investors
-- stt
+- institutional-investor
+- ofs
+- retail-investor
+- settlement
 - stamp-duty
+- stt
 title: Settlement Calendar for Offer for Sale of shares of Bank of Maharashtra
 ---
 

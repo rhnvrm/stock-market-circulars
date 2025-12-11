@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544621'
+- SSMD
 tags:
+- asm-stage
 - group-change
+- rolling-segment
+- segment-transfer
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
-- segment-transfer
 title: Change in Group of Equity Shares of SSMD AGROTECH INDIA LIMITED
 ---
 

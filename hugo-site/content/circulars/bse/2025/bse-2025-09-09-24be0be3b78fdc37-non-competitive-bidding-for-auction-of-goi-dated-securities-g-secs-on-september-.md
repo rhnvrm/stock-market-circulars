@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
 - auction
-- non-competitive-bidding
-- debt-segment
-- rbi
+- debt-securities
 - g-secs
+- gsec
+- non-competitive-bidding
+- rbi
 title: Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on September
   12, 2025
 ---

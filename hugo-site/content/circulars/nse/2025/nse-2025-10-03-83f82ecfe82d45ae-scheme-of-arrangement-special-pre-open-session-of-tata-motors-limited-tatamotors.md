@@ -24,14 +24,13 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMTR70614.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- special-pre-open-session
-- scheme-of-arrangement
-- corporate-action
-- call-auction
 - block-deal
+- call-money
+- corporate-action
 - price-discovery
+- scheme-of-arrangement
 title: 'Scheme of Arrangement: Special Pre-Open Session of Tata Motors Limited (TATAMOTORS)'
 ---
 

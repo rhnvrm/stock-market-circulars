@@ -26,9 +26,9 @@ stocks:
 - SCSL
 tags:
 - commercial-paper
-- debt-listing
-- standard-chartered
+- debt-securities
 - private-placement
+- standard-chartered
 title: Listing of new Commercial Paper of Standard Chartered Securities (India) Limited
 ---
 

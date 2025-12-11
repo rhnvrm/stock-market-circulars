@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - SUNCITY
 tags:
-- recovery-certificate
-- enforcement
-- suncity-infracon
 - abhijit-dhar
-- release-order
+- enforcement
+- recovery
+- release
+- suncity-infracon
 title: Release Order - Recovery Certificate No. RC2651 of 2019 in respect of Abhijit
   Dhar for Suncity Infracon Corporation (India) Ltd.
 ---

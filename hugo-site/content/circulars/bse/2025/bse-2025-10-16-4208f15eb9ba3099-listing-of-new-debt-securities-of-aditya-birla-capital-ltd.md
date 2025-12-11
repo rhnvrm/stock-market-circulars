@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ABCAPITAL
 tags:
+- aditya-birla-capital
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- aditya-birla-capital
-- corporate-bonds
-- debentures
 title: Listing of New Debt Securities of Aditya Birla Capital Ltd
 ---
 

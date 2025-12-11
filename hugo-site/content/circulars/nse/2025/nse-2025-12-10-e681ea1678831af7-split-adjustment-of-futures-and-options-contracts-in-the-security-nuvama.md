@@ -26,12 +26,11 @@ source: nse
 stocks:
 - NUVAMA
 tags:
-- futures-and-options
-- stock-split
-- corporate-action
 - contract-adjustment
+- corporate-action
 - derivatives
-- NUVAMA
+- futures-options
+- split
 title: Split Adjustment of Futures and Options Contracts in NUVAMA
 ---
 

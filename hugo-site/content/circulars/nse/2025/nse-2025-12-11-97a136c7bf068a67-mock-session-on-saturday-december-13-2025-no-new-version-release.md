@@ -27,13 +27,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
+- algo-trading
+- derivatives
 - encryption
-- neat-version
-- algorithmic-trading
-- retail-investors
-- testing
+- mock-trading
+- retail-investor
+- trading-platform
 title: Mock Session on Saturday, December 13, 2025 - No New Version Release
 ---
 

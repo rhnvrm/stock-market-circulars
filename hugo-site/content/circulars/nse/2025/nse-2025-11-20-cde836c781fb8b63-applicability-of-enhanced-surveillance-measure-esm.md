@@ -29,12 +29,9 @@ stocks:
 - SAMBHAAV
 - UNIHEALTH
 tags:
+- margin
 - surveillance
-- esm
-- enhanced-surveillance-measure
-- margin-requirements
 - trade-for-trade
-- market-surveillance
 title: Applicability of Enhanced Surveillance Measure (ESM) - November 2025
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - KUSHALTL
 tags:
-- recovery-certificate
 - cancellation-order
 - compliance
-- enforcement-action
+- enforcement
 - kushal-tradelink
+- recovery
 title: SEBI Order for Compliance - Cancellation Order for Recovery Certificate No.
   2869 of 2020 against Ilesh Madhusudan Patel
 ---

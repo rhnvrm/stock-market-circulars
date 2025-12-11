@@ -32,10 +32,8 @@ stocks:
 - DRONEACHARYA
 - CIAN
 tags:
-- lt-asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TITANI
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
 - equity
-- trading
+- renunciation
+- rights-issue
 - titan-intech
+- trading
 title: Rights Entitlements of TITAN INTECH LIMITED
 ---
 

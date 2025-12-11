@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bank-of-america
+- bondconnect-securities
+- compliance
 - membership
 - surrender
 - trading-member
-- compliance
-- bank-of-america
-- bondconnect-securities
 title: Total Surrender of Membership - Bank of America N.A. and Bondconnect Securities
   Private Limited
 ---

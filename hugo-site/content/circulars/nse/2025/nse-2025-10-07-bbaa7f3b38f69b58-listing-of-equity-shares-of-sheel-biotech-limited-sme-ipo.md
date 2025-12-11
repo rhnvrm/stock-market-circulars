@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SHEEL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- trade-for-trade
+- listing
+- sme
 - surveillance
-- new-listing
+- trade-for-trade
 title: Listing of Equity Shares of Sheel Biotech Limited (SME IPO)
 ---
 

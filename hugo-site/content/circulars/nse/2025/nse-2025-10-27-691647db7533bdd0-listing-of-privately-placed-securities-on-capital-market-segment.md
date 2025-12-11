@@ -29,11 +29,11 @@ stocks:
 - SUNDARMFIN
 - SIHF
 tags:
-- listing
-- debt-securities
-- private-placement
-- bonds
+- bond
 - capital-market
+- debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities on Capital Market Segment - Three Debt
   Securities
 ---

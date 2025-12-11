@@ -35,18 +35,8 @@ stocks:
 - BHL
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
 - listing
-- AOL
-- HIFSIL
-- ISEC
-- PFL
-- WCL
-- ABCL
-- GPL
-- MOFS
-- TPL
-- BHL
 title: Listing of Commercial Papers on NSE Debt Market Segment
 ---
 

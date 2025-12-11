@@ -30,8 +30,8 @@ tags:
 - debt-securities
 - listing
 - ncd
-- private-placement
 - nuvama-wealth-finance
+- private-placement
 title: Listing of New Debt Securities of Nuvama Wealth Finance Limited
 ---
 

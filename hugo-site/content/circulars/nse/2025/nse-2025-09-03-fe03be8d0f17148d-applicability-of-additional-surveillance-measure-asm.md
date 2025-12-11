@@ -28,13 +28,9 @@ stocks:
 - CUPID
 - PNC
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- additional-surveillance-measure
-- long-term-asm
-- apollo
-- cupid
-- pnc
 title: Additional Surveillance Measure (ASM) - Long Term Framework Application
 ---
 

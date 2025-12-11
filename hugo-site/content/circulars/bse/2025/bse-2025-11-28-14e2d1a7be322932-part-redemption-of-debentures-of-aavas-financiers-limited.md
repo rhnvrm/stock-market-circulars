@@ -26,12 +26,11 @@ source: bse
 stocks:
 - AAVAS
 tags:
-- debt
-- debentures
-- redemption
-- interest-payment
 - corporate-action
-- non-convertible-debentures
+- debt-securities
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of AAVAS FINANCIERS LIMITED
 ---
 

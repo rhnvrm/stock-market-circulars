@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SAIL
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- corporate-actions
-- SAIL
+- suspension
 title: Suspension of Trading in Debt Securities - SAIL 8.80% Bonds Maturing October
   26, 2025
 ---

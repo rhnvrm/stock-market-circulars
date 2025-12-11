@@ -27,14 +27,14 @@ source: bse
 stocks:
 - CANARAROBECO
 tags:
-- ipo
-- anchor-investors
-- allocation
-- public-issue
+- allotment
+- anchor-investor
 - asset-management
-- mutual-funds
-- insurance
 - foreign-investors
+- insurance
+- ipo
+- mutual-fund
+- public-issue
 title: Public Issue of Canara Robeco Asset Management Company Limited - Allocation
   to Anchor Investors
 ---

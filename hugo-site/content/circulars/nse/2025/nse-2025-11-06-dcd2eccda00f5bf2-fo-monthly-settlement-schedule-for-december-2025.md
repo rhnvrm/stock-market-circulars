@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- futures-and-options
-- settlement-schedule
-- f-and-o
-- derivatives
-- clearing
 - calendar
+- clearing
+- derivatives
+- futures-options
+- settlement
 title: F&O Monthly Settlement Schedule for December 2025
 ---
 

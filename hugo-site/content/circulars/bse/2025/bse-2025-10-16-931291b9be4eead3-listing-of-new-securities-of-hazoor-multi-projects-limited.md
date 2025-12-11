@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '532467'
+- HAZOOR
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - hazoor-multi-projects
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Hazoor Multi Projects Limited
 ---
 

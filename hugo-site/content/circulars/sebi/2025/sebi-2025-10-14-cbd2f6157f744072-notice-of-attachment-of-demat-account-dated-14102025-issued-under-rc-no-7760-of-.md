@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
+- demat
 - enforcement
-- demat-account
-- attachment-order
-- investment-advisor
-- recovery-proceedings
+- investment-adviser
+- recovery
 title: Notice of Attachment of Demat Account in the Matter of Loftier Investment Advisor
   and Research Pvt. Ltd.
 ---

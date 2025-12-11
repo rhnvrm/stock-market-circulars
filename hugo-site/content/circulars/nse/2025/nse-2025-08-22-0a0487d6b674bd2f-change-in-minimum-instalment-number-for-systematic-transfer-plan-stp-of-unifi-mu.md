@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- stp
-- systematic-transfer-plan
-- unifi-mutual-fund
-- nse-mf-invest
 - liquid-fund
+- mutual-fund
+- smart-switch
+- stp
+- trading-platform
+- unifi-mutual-fund
 title: Change in Minimum Instalment Number for Systematic Transfer Plan (STP) of Unifi
   Mutual Fund
 ---

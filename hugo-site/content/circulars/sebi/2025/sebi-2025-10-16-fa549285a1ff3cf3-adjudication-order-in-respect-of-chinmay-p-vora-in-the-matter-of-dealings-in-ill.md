@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
-- reversal-trades
+- adjudication
 - artificial-volume
 - bse
-- pfutp-regulations
+- market-operations
 - penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Chinmay P Vora in the matter of dealings in
   Illiquid Stock Options on BSE
 ---

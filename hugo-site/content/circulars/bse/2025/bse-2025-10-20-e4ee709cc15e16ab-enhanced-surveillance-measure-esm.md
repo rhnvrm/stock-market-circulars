@@ -35,14 +35,14 @@ stocks:
 - VENMAXDRUGS
 - GDLLEASE
 - PRIMAIND
-- VRWOODART
+- VRWODAR
 - A2ZINFRA
 - AAPLUSTRADE
 - AAATECH
 - AARVEEDEN
 - AASTAMAN
 - ABATEIND
-- ABRAMFOOD
+- ABRFL
 - ACEALPHA
 - ACHYUT
 - ADCIND
@@ -60,12 +60,10 @@ stocks:
 - ANIRIVENT
 - ANKAIND
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- market-surveillance
-- securities-monitoring
 - compliance
+- securities-monitoring
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective October
   21, 2025
 ---

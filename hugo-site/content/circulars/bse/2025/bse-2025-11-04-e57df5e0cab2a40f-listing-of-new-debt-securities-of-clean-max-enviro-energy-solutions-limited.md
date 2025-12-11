@@ -28,11 +28,9 @@ stocks:
 - CLEANMAX
 tags:
 - debt-securities
+- listing
 - ncd
 - private-placement
-- listing
-- clean-max-enviro
-- debentures
 title: Listing of New Debt Securities of Clean Max Enviro Energy Solutions Limited
 ---
 

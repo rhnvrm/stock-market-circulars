@@ -26,9 +26,9 @@ source: sebi
 stocks: []
 tags:
 - compliance
-- recovery-certificate
-- release-order
 - enforcement
+- recovery
+- release
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 4242
   of 2021
 ---

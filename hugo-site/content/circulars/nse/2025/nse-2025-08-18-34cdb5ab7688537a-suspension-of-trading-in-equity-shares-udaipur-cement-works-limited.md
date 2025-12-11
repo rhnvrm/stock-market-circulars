@@ -26,10 +26,10 @@ source: nse
 stocks:
 - UDAICEMENT
 tags:
-- trading-suspension
-- amalgamation
-- equity-shares
 - cement-sector
+- equity
+- scheme-of-arrangement
+- suspension
 title: Suspension of trading in equity shares - Udaipur Cement Works Limited
 ---
 

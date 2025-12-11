@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
 - embassy-property
-- listing-update
+- listing
 - real-estate
-- bonds
 title: Update Regarding Debt Securities of Embassy Property Developments Pvt Ltd
 ---
 

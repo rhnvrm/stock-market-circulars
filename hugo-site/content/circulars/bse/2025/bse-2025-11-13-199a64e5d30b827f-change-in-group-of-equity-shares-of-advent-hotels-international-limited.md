@@ -27,9 +27,8 @@ stocks:
 - ADVENTHOTEL
 tags:
 - group-change
-- trading-group-b
-- advent-hotels
 - scrip-reclassification
+- trading-group-b
 title: Change in Group of Equity Shares of Advent Hotels International Limited
 ---
 

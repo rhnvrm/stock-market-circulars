@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '514414'
+- OXFORDIN
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- oxford-industries
-- equity-shares
 - trading
 title: Oxford Industries Ltd. moved to X group effective August 21, 2025
 ---

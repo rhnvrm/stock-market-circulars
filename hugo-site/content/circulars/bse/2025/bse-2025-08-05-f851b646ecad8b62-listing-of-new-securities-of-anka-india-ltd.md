@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ANKA
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
-- lock-in
 - anka-india
+- equity
+- lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Anka India Ltd - 3.62 Crore Equity Shares
 ---
 

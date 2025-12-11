@@ -31,18 +31,15 @@ stocks:
 - L&TFH
 - AXISSEC
 tags:
-- debt-market
-- listing
-- commercial-paper
-- debentures
-- private-placement
-- angel-one
-- godrej-industries
-- godrej-properties
-- lt-finance
 - axis-securities
-- vedika-credit-capital
+- commercial-paper
+- debt-securities
+- listing
+- lt-finance
+- ncd
+- private-placement
 - smfg-india-credit
+- vedika-credit-capital
 title: Listing of Privately Placed Securities on Debt Market Segment - October 08,
   2025
 ---

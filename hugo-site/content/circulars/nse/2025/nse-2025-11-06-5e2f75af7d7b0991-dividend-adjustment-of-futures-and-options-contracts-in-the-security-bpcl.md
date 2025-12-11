@@ -28,10 +28,10 @@ source: nse
 stocks:
 - BPCL
 tags:
-- dividend
-- futures-and-options
 - corporate-action
 - derivatives
+- dividend
+- futures-options
 - strike-price-adjustment
 title: Dividend Adjustment of Futures and Options Contracts in BPCL
 ---

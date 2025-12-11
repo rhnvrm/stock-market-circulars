@@ -28,11 +28,9 @@ source: nse
 stocks:
 - SKFINDUS
 tags:
-- listing
-- demerger
-- scheme-of-arrangement
-- new-listing
 - corporate-action
+- listing
+- scheme-of-arrangement
 - skf-india
 - trade-for-trade
 title: Listing of Equity Shares of SKF India (Industrial) Limited pursuant to Scheme

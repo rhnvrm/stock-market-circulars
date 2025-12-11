@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mock-trading
-- disaster-recovery
-- currency-derivatives
-- bolt-plus
-- trading-system
-- dr-site
 - connectivity
+- derivatives
+- disaster-recovery
+- dr-site
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading from Disaster Recovery Site on Saturday, August 09, 2025 for Currency
   Derivative Segment
 ---

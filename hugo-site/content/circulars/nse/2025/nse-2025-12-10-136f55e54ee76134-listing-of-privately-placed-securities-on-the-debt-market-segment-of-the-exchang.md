@@ -31,12 +31,12 @@ stocks:
 - MOTILALOFS
 - NIRMA
 tags:
-- debt-market
 - commercial-paper
-- private-placement
+- debt-securities
 - listing
-- debentures
 - market-linked-securities
+- ncd
+- private-placement
 title: Listing of Privately Placed Debt Securities - December 10, 2025
 ---
 

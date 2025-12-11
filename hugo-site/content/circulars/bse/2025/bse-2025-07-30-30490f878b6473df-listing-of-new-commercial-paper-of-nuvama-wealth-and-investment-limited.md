@@ -26,10 +26,10 @@ stocks:
 - NWIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icici-bank
 - nuvama-wealth
 - private-placement
-- icici-bank
 title: Listing of new Commercial Paper of Nuvama Wealth and Investment Limited
 ---
 

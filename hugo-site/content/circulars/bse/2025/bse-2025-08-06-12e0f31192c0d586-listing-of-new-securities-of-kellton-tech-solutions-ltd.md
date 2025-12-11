@@ -26,10 +26,10 @@ source: bse
 stocks:
 - KELLTON
 tags:
-- listing
-- equity-shares
-- fccb-conversion
+- conversion
+- equity
 - kellton-tech
+- listing
 - new-securities
 title: Listing of New Securities of Kellton Tech Solutions Ltd - 56.33 Lakh Equity
   Shares

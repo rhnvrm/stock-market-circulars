@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GEEKAYWIRE
 tags:
-- isin-change
-- sub-division
-- equity-shares
-- geekaywire
+- equity
+- isin
 - listing
+- split
 title: Change in ISIN - Geekay Wires Limited (GEEKAYWIRE)
 ---
 

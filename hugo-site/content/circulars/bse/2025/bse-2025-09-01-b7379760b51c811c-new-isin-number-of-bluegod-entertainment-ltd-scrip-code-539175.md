@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BLUEGOD
 tags:
-- isin-change
-- subdivision
-- equity-shares
-- corporate-action
 - bluegod-entertainment
+- corporate-action
+- equity
+- isin
+- split
 title: New ISIN Number for BLUEGOD ENTERTAINMENT LTD Following Subdivision
 ---
 

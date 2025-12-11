@@ -28,13 +28,13 @@ stocks:
 - ERFL
 - ECL
 tags:
-- debt-securities
-- name-change
 - corporate-action
-- ncd
-- perpetual-bonds
+- debt-securities
 - ecl-finance
 - edelweiss-retail-finance
+- name-change
+- ncd
+- perpetual-bonds
 title: Update Regarding Debt Securities of Edelweiss Retail Finance Limited - Name
   Change to ECL Finance Limited
 ---

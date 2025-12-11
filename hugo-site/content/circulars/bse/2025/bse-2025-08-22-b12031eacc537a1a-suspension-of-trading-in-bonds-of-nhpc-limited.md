@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NHPC
 tags:
-- bond-suspension
-- trading-halt
-- record-date
-- interest-payment
 - bond-redemption
-- NHPC
+- bond-suspension
+- interest-payment
+- record-date
+- trading-halt
 title: Suspension of Trading in Bonds of NHPC LIMITED
 ---
 

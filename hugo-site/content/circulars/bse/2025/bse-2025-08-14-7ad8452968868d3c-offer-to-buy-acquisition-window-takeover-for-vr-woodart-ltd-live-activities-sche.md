@@ -26,11 +26,9 @@ source: bse
 stocks:
 - VRWODAR
 tags:
-- takeover
-- acquisition
 - otb
+- takeover
 - trading-schedule
-- vrwodar
 title: Offer to Buy – Acquisition Window (Takeover) for VR WOODART LTD - Live Activities
   Schedule
 ---

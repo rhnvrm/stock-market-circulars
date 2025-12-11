@@ -36,12 +36,12 @@ stocks:
 - ISEC
 - LICHSGFIN
 tags:
-- debt-market
-- listing
 - commercial-paper
-- debentures
+- debt-securities
+- further-issue
+- listing
+- ncd
 - private-placement
-- fresh-issue
 - re-issue
 title: Listing of Privately Placed Securities on Debt Market Segment - October 2025
 ---

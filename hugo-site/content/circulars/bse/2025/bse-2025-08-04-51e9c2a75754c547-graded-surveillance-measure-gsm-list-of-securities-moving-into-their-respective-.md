@@ -27,11 +27,10 @@ stocks:
 - PMTEL
 - ADHATA
 tags:
-- gsm
-- surveillance
-- stage-i
-- pm-telelinnks
 - adhata-global
+- asm-stage
+- pm-telelinnks
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Stage I
 ---
 

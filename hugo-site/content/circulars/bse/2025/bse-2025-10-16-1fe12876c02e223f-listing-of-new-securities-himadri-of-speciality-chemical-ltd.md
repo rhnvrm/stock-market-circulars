@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HIMADRI
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - himadri-speciality-chemical
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Himadri Speciality Chemical Ltd
 ---
 

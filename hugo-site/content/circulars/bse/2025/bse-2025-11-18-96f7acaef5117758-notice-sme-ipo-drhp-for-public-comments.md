@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BLACKOPAL
 tags:
-- sme
+- draft-document
 - ipo
-- drhp
 - public-comments
-- black-opal-consultants
-- draft-offer-document
+- sme
 title: 'SME IPO DRHP for Public Comments: Black Opal Consultants Limited'
 ---
 

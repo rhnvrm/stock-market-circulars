@@ -26,11 +26,9 @@ source: nse
 stocks:
 - NELCAST
 tags:
-- surveillance
-- asm
-- long-term-asm
+- asm-stage
 - stage-adjustments
-- nelcast
+- surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - Stage Adjustments
 ---
 

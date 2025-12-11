@@ -35,13 +35,13 @@ stocks:
 - SHANKAR
 - STARLINEPS
 - SVSVENT
-- UMIYATUBES
+- UMIYA
 - ZUARIAGRO
 tags:
+- market-operations
 - price-band
-- trading
 - surveillance
-- market-regulation
+- trading
 title: Price Band Revisions for 13 Securities Effective September 5, 2025
 ---
 

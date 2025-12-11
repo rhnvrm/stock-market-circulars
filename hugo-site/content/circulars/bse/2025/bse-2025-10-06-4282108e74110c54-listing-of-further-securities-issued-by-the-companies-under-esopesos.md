@@ -32,11 +32,9 @@ stocks:
 - KEYSTONE
 - RBA
 tags:
+- equity
 - esop
-- esos
-- equity-listing
 - further-issue
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - Five Companies
 ---
 

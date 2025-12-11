@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- maintenance
 - downtime
+- maintenance
 - mf-invest-platform
-- system-unavailability
 - scheduled-maintenance
+- system-unavailability
 title: Downtime due to maintenance activity on NSE MF Invest Platform
 ---
 

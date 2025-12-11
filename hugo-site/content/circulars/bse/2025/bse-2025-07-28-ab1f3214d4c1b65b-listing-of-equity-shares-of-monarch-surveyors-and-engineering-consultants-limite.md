@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MSECL
 tags:
+- equity
 - listing
-- equity-shares
-- sme
-- new-listing
 - monarch-surveyors
+- sme
 title: Listing of Equity Shares of Monarch Surveyors and Engineering Consultants Limited
 ---
 

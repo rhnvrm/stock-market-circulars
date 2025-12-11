@@ -26,11 +26,10 @@ source: nse
 stocks:
 - ICICIBANK
 tags:
+- distinctive-number-correction
+- equity
 - esop
 - listing
-- icici-bank
-- distinctive-number-correction
-- equity-shares
 title: Modification in Distinctive Number Range of Equity Shares of ICICI Bank Limited
   - ESOP Listing
 ---

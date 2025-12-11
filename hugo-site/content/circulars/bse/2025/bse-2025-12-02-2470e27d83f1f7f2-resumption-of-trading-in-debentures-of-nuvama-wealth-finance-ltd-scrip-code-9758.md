@@ -27,13 +27,13 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- debentures
-- trading-resumption
+- corporate-action
 - debt-securities
-- nuvama-wealth-finance
-- corporate-actions
 - interest-payment
+- ncd
+- nuvama-wealth-finance
 - redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of Nuvama Wealth Finance Ltd (Scrip Code
   975892)
 ---

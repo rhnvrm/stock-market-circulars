@@ -24,11 +24,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
+- derivatives
 - disaster-recovery
+- mock-trading
 - trading-session
-- system-testing
 title: Mock Trading on Saturday, August 09, 2025 - No New Version Release
 ---
 

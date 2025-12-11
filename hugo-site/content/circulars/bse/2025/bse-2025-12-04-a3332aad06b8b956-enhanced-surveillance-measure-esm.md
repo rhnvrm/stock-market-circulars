@@ -26,24 +26,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GVFILMS
+- GVFILM
 - JETFREIGHT
 - OLATECH
-- PFLINFOTECH
+- PFLINFOTC
 - AMBITIOUS
 - CRIMSON
 - CURATECH
 - ZELIO
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- market-surveillance
+- gv-films
+- olatech-solutions
+- pfl-infotech
 - risk-management
-- GV-Films
-- Jet-Freight-Logistics
-- Olatech-Solutions
-- PFL-Infotech
+- surveillance
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) - Securities Classification Update
 ---
 

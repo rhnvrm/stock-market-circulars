@@ -27,10 +27,10 @@ stocks:
 - KMIL
 tags:
 - commercial-paper
-- trading-suspension
-- debt-segment
+- debt-securities
 - kotak-mahindra
 - maturity
+- suspension
 title: Suspension of Trading in Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

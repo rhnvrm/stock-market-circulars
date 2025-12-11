@@ -25,7 +25,7 @@ severity: medium
 source: bse
 stocks:
 - GLEN
-- HAMPSBIO
+- HAMPS
 - ICONFA
 - INDOBORAX
 - KESAR
@@ -37,10 +37,10 @@ stocks:
 - VJTF
 - YARNSYN
 tags:
+- equity
 - price-band
-- trading-restrictions
 - surveillance
-- equity-trading
+- trading-restrictions
 title: BSE Revises Price Bands for 13 Securities Effective July 29, 2025
 ---
 

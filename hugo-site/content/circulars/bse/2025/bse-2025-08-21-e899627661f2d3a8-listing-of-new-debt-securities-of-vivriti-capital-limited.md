@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - vivriti-capital
-- debentures
 title: Listing of New Debt Securities of Vivriti Capital Limited
 ---
 

@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- conmin-projects
 - debt-securities
 - listing
 - ncd
 - private-placement
-- conmin-projects
 title: Listing of New Debt Securities of CONMIN PROJECTS INDIA PRIVATE LIMITED
 ---
 

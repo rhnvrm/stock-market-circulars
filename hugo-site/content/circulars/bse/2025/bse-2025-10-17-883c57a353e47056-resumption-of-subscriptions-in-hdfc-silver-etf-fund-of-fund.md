@@ -27,13 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fund-of-fund
-- subscription
-- silver-etf
+- fund-of-funds
 - hdfc-mutual-fund
-- market-conditions
+- market-operations
+- mutual-fund
+- silver
+- subscription
 title: Resumption of Subscriptions in HDFC Silver ETF Fund of Fund
 ---
 

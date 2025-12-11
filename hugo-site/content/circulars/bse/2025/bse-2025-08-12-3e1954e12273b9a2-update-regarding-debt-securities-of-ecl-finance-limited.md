@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ECLF
 tags:
-- debt-securities
-- ncd
 - cash-flow
-- interest-rate-revision
+- debt-securities
 - ecl-finance
+- interest-rate-revision
+- ncd
 title: Cash Flow Updates for ECL Finance Limited NCDs - Three ISIN Series
 ---
 

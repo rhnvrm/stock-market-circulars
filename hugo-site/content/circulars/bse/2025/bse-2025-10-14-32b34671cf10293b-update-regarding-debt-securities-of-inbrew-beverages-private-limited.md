@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- trading-suspension
-- restructuring
 - inbrew-beverages
+- restructuring
+- suspension
 title: Update Regarding debt securities of Inbrew Beverages Private Limited
 ---
 

@@ -26,12 +26,11 @@ source: nse
 stocks:
 - NESTLEIND
 tags:
-- futures
-- options
 - adjustment
-- bonus-issue
-- nestleind
+- bonus
 - corporate-action
+- futures-options
+- options
 title: Adjustment of Futures and Options Contracts in NESTLE INDIA LIMITED (NESTLEIND)
   due to Bonus Issue
 ---

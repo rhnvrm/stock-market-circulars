@@ -26,13 +26,11 @@ source: bse
 stocks:
 - ROLEXRINGS
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
-- rolex-rings
+- equity
 - face-value-change
-- isin-change
+- isin
+- split
 title: Sub-Division of Equity Shares of Rolex Rings Ltd (1:10 Stock Split)
 ---
 

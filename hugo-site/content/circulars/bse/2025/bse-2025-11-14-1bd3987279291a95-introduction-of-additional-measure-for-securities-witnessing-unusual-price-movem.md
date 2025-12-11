@@ -37,10 +37,10 @@ stocks:
 - RRRDEFENS
 - RRPSEMI
 tags:
-- surveillance
+- market-operations
 - price-movement
+- surveillance
 - trading-restrictions
-- market-safety
 - unusual-activity
 title: Introduction of Additional Measure for Securities Witnessing Unusual Price
   Movement

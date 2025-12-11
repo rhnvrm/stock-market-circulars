@@ -29,16 +29,14 @@ stocks:
 - DHANASHREE
 - HALDERVEN
 - MULTIPUR
-- YUGDECOR
+- YUG
 - FRUITION
 - GALLOPS
 - OLATECH
-- GVFILMS
+- GVFILM
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- stage-movement
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

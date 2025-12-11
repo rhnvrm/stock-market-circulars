@@ -26,10 +26,10 @@ source: bse
 stocks:
 - DEEP
 tags:
-- rights-entitlements
-- renunciation
-- trading
 - deep-diamond-india
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Deep Diamond India Limited
 ---
 

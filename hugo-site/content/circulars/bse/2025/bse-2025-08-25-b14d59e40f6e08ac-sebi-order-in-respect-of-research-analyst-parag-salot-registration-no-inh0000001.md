@@ -26,12 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
+- intermediary
+- investigation
+- non-compliance
 - research-analyst
 - sebi-order
-- regulatory-violation
-- fraudulent-practices
-- compliance
-- intermediaries
 title: SEBI Order Against Research Analyst Parag Salot - Registration No. INH000000115
 ---
 

@@ -27,9 +27,9 @@ stocks:
 - OXFORD
 tags:
 - group-change
-- trading-category
-- oxford-industries
 - group-x
+- oxford-industries
+- trading-category
 title: Oxford Industries Ltd. Moved to Group 'X' Trading Category
 ---
 

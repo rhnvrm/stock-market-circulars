@@ -35,12 +35,12 @@ stocks:
 - VHL
 - WELINV
 tags:
-- call-auction
-- price-discovery
+- call-money
 - investment-companies
 - investment-holding-companies
+- price-discovery
 - special-auction
-- trading-mechanism
+- trading-operations
 title: List of Investment Companies (ICs) and Investment Holding Companies (IHCs)
   eligible for special call-auction mechanism for price discovery
 ---

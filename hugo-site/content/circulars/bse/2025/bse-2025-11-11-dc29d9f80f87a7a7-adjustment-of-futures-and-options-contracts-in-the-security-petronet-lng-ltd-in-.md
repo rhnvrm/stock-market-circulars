@@ -26,13 +26,12 @@ source: bse
 stocks:
 - PLNG
 tags:
-- derivatives
-- futures
-- options
-- corporate-action
-- dividend
 - contract-adjustment
-- equity-derivatives
+- corporate-action
+- derivatives
+- dividend
+- futures-options
+- options
 title: Adjustment of Futures and Options Contracts for Petronet LNG Ltd - Interim
   Dividend
 ---

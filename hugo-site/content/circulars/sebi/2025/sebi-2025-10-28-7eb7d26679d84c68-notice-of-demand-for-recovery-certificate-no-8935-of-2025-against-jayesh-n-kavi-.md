@@ -27,12 +27,10 @@ source: sebi
 stocks:
 - JAYENERGY
 tags:
-- recovery-certificate
-- enforcement
 - demand-notice
-- jay-energy
-- compliance-failure
-- debt-recovery
+- enforcement
+- non-compliance
+- recovery
 title: Notice of Demand for Recovery Certificate No. 8935 of 2025 against Jayesh N
   Kavi in the matter of Jay Energy and S. Energies Limited
 ---

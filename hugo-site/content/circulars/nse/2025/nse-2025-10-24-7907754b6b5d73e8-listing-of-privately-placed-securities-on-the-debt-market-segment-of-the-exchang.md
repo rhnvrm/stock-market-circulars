@@ -33,11 +33,10 @@ stocks:
 - ISEC
 - KOTAKSEC
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- debt-securities
 title: Listing of Privately Placed Debt Securities - Commercial Papers
 ---
 

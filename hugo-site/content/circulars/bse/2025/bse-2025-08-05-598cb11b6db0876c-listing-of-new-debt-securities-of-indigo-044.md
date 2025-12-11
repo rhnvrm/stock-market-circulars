@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- INDIGO044
 - monthly-interest
+- private-placement
 title: Listing of New Debt Securities of INDIGO 044
 ---
 

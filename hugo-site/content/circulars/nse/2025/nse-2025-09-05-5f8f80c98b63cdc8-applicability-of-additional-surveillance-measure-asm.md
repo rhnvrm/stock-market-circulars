@@ -38,11 +38,10 @@ stocks:
 - MMTC
 - SRM
 tags:
-- surveillance
-- asm
-- long-term-asm
-- trading-restrictions
+- asm-stage
 - compliance
+- surveillance
+- trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
   Updates
 ---

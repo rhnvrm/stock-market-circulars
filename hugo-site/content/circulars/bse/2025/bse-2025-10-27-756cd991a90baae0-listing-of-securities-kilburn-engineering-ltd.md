@@ -27,11 +27,11 @@ source: bse
 stocks:
 - KILBURN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - Kilburn Engineering Ltd
 ---
 

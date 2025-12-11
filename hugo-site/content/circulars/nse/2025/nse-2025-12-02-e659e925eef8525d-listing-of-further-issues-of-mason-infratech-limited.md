@@ -26,11 +26,11 @@ source: nse
 stocks:
 - MASON
 tags:
-- listing
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-shares
+- listing
+- preferential-issue
 title: Listing of Further Issues of Mason Infratech Limited
 ---
 

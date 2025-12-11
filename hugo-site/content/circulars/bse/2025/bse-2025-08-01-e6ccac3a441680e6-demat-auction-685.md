@@ -40,11 +40,11 @@ stocks:
 - ONGC
 - RELIANCE
 - SBI
-- TATAMOTORS
+- TMCV
 tags:
-- demat-auction
-- settlement
 - delivery
+- demat
+- settlement
 - trading
 title: BSE Demat Auction Settlement No. 685
 ---

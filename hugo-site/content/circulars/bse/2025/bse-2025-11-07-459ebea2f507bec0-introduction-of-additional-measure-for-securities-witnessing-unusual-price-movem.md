@@ -34,10 +34,10 @@ stocks:
 - RRPDEF
 - RRPSEMI
 tags:
-- surveillance
 - price-movement
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Additional Surveillance Measure for 9 Securities with Unusual Price Movement
 ---
 

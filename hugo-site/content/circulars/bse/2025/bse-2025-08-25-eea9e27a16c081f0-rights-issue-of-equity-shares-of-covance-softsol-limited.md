@@ -26,11 +26,11 @@ source: bse
 stocks:
 - COVANCE
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
+- corporate-action
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - Covance Softsol Limited
 ---
 

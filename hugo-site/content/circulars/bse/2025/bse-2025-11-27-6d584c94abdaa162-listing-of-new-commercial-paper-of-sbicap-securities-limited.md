@@ -28,10 +28,10 @@ stocks:
 - SBICAP
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat-trading
 - private-placement
 - sbicap-securities
-- demat-trading
 title: Listing of new Commercial Paper of SBICAP Securities Limited
 ---
 

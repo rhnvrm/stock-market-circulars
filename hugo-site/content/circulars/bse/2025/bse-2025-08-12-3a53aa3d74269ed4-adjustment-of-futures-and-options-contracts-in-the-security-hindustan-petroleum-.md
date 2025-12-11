@@ -26,12 +26,11 @@ source: bse
 stocks:
 - HPCL
 tags:
+- corporate-action
 - derivatives
-- corporate-actions
 - dividend
-- futures
+- futures-options
 - options
-- HPCL
 title: Adjustment of Futures and Options contracts in HPCL for Final Dividend
 ---
 

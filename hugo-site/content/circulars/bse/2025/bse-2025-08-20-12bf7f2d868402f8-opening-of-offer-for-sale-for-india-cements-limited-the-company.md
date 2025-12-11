@@ -25,10 +25,8 @@ source: bse
 stocks:
 - INDIACEM
 tags:
+- equity
 - ofs
-- offer-for-sale
-- india-cements
-- equity-shares
 - trading
 title: Opening of Offer for Sale for India Cements Limited
 ---

@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl
-- investor-refund
-- appellate-authority
+- appeal
 - information-disclosure
+- investor-refund
+- pacl
+- rti
 title: Appeal No. 6595 of 2025 filed by Sharda Jangir
 ---
 

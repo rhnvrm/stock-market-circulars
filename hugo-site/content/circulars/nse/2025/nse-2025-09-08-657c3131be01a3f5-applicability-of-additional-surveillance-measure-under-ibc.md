@@ -43,10 +43,8 @@ stocks:
 - ARTEDZ
 - BANSAL
 tags:
+- insolvency
 - surveillance
-- additional-surveillance-measure
-- insolvency-bankruptcy-code
-- ibc
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure under IBC
 ---

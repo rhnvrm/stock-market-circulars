@@ -27,11 +27,10 @@ stocks:
 - GODFREY
 - NEIL
 tags:
-- price-movement
-- volume-increase
-- market-surveillance
-- regulation-30
 - clarification
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from companies regarding price and volume movements
 ---
 

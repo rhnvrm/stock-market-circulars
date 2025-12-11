@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- sat-complaint
-- appellate-authority
-- information-access
+- appeal
 - cpgrams
+- information-access
+- rti
+- sat-complaint
 title: RTI Appeal No. 6452 of 2025 - Complaint Against SAT Presiding Officer Dismissed
 ---
 

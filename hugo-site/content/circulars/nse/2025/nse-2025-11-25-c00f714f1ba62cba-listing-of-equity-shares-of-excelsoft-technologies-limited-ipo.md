@@ -27,12 +27,10 @@ source: nse
 stocks:
 - EXCELSOFT
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- capital-market
-- new-listing
-- excelsoft
 title: Listing of Equity Shares of Excelsoft Technologies Limited (IPO)
 ---
 

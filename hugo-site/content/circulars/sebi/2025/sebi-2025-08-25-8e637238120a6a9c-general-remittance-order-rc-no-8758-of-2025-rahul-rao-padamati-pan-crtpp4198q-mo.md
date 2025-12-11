@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisory
+- demand-notice
 - enforcement
-- unregistered-activities
-- remittance-order
+- investment-adviser
 - penalty
+- unregistered-activities
 title: General Remittance Order – RC No. 8758 of 2025 against Rahul Rao Padamati,
   Mohammad Nasiruddin Ansari, and Golden Syndicate Ventures for Unregistered Investment
   Advisory Activities

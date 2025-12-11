@@ -24,15 +24,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544474'
-- '544475'
+- BLT
+- ESSEX
 tags:
-- index-addition
-- sme
-- ipo
 - blt-logistics
 - essex-marine
+- index-change
+- ipo
 - listing
+- sme
 title: BSE SME IPO Index Additions - BLT Logistics and Essex Marine
 ---
 

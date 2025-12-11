@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- multi-asset
 - mutual-fund
 - nfo
 - pgim-india
-- multi-asset-allocation
-- nse-mf-invest
+- trading-platform
 title: Launch of PGIM India Multi Asset Allocation Fund NFO on NSE MF Invest Platform
 ---
 

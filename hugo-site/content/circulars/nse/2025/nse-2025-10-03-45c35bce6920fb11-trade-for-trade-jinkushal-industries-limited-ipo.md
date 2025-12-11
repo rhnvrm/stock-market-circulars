@@ -26,11 +26,10 @@ source: nse
 stocks:
 - JKIPL
 tags:
-- trade-for-trade
-- segment-transfer
 - ipo
 - rolling-segment
-- JKIPL
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade - Jinkushal Industries Limited (IPO)
 ---
 

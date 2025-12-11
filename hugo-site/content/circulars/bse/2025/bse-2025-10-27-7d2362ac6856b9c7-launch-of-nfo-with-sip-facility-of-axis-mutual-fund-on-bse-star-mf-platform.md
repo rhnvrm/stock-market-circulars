@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- arbitrage-fof
+- axis-mutual-fund
+- debt-scheme
 - mutual-fund
 - nfo
 - sip
-- axis-mutual-fund
-- debt-scheme
-- bse-star-mf
-- new-fund-offer
-- arbitrage-fof
 title: Launch of NFO with SIP facility of AXIS MUTUAL FUND on BSE StAR MF Platform
 ---
 

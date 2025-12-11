@@ -40,11 +40,10 @@ stocks:
 - UNIPARTS
 - UTIAMC
 tags:
-- listing
-- esop
-- esos
 - equity
+- esop
 - further-issue
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS by 13 Companies
 ---

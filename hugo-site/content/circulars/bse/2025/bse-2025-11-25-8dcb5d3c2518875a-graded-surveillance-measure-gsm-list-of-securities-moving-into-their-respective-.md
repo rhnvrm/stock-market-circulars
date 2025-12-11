@@ -37,11 +37,10 @@ stocks:
 - JPTSEC
 - BHARTEXT
 tags:
-- gsm
+- market-operations
+- regulatory
 - surveillance
 - trading-restrictions
-- market-operations
-- regulatory-action
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

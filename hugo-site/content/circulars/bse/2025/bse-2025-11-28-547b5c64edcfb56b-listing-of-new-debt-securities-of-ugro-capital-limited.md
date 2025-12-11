@@ -27,12 +27,12 @@ source: bse
 stocks:
 - UGROCAP
 tags:
+- bond
 - debt-securities
+- further-issue
 - listing
 - private-placement
 - ugro-capital
-- corporate-bonds
-- new-issuance
 title: Listing of New Debt Securities of UGRO Capital Limited
 ---
 

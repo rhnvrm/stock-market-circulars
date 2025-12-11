@@ -28,15 +28,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- nomination-facilities
-- mutual-funds
+- amc
 - compliance
-- sebi-circular
+- depository
 - investor-protection
 - kyc
+- mutual-fund
+- nomination-facilities
 - rta
-- amc
-- depository-participants
+- sebi
 title: Implementation of Revised Nomination Facilities for Opt-Out on NSE MF Invest
   Platform
 ---

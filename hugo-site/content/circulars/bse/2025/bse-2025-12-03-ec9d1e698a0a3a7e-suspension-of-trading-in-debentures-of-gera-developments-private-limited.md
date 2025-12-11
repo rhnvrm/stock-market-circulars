@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
-- record-date
-- non-convertible-debentures
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of GERA DEVELOPMENTS PRIVATE LIMITED
 ---
 

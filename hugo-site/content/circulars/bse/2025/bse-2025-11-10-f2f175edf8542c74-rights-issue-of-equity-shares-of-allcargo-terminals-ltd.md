@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ALLCARGO
 tags:
-- rights-issue
-- equity-shares
-- corporate-action
 - capital-raising
-- ex-rights
-- allcargo-terminals
+- corporate-action
+- equity
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of ALLCARGO TERMINALS LTD
 ---
 

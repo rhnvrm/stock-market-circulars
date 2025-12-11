@@ -28,13 +28,12 @@ source: bse
 stocks:
 - PFSPL
 tags:
-- suspension
-- debentures
-- debt-market
-- early-redemption
 - call-option
+- debt-securities
 - interest-payment
-- non-convertible-debentures
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of PAHAL FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

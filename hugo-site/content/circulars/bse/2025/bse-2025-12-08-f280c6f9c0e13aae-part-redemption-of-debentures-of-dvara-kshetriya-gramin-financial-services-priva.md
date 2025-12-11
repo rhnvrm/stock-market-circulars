@@ -28,12 +28,12 @@ source: bse
 stocks:
 - DKGFSPL
 tags:
-- debentures
-- redemption
 - corporate-action
 - debt-securities
-- interest-payment
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of DVARA KSHETRIYA GRAMIN FINANCIAL SERVICES
   PRIVATE LIMITED
 ---

@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - BIOCON
 tags:
-- recovery-certificate
 - cancellation-order
 - compliance
-- biocon
 - enforcement
+- recovery
 title: SEBI Cancellation Order for Recovery Certificate No. 8578 of 2025 against Mohd
   Faisal in Biocon Limited Matter
 ---

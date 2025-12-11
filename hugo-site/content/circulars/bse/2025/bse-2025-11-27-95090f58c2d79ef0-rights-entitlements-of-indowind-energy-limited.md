@@ -27,12 +27,10 @@ source: bse
 stocks:
 - INDOWIND
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- trading
 - equity
-- INDOWIND
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for INDOWIND ENERGY LIMITED
 ---
 

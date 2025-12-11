@@ -28,12 +28,11 @@ source: nse
 stocks:
 - IIFL
 tags:
-- futures-and-options
-- derivatives
 - contract-exclusion
-- IIFL
+- derivatives
+- futures-options
+- sebi
 - stock-derivatives
-- sebi-circular
 title: Exclusion of Futures and Options Contract on IIFL Finance Limited
 ---
 

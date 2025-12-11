@@ -26,12 +26,12 @@ source: nse
 stocks:
 - WEIRD
 tags:
-- sebi-order
-- prohibition
-- enforcement
 - debarment
-- non-convertible-debentures
+- enforcement
 - fund-mobilization
+- ncd
+- prohibition
+- sebi-order
 title: SEBI order in the matter of M/s. Weird Infrastructure Corporation Limited
 ---
 

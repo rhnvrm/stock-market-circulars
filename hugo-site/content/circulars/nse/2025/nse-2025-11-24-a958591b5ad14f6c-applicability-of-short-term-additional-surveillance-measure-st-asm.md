@@ -36,11 +36,9 @@ stocks:
 - INDIGOPNTS
 - UTSSAV
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- short-term-asm
-- margin-requirements
-- additional-surveillance-measure
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

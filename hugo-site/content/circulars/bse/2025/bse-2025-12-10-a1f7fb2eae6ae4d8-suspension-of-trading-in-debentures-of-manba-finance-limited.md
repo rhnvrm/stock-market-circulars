@@ -26,13 +26,12 @@ source: bse
 stocks:
 - MANBA
 tags:
-- trading-suspension
-- debentures
-- debt-segment
-- redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- non-convertible-debentures
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MANBA FINANCE LIMITED
 ---
 

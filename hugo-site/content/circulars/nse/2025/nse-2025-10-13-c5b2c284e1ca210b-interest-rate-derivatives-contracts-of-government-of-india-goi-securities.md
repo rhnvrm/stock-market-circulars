@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- interest-rate-derivatives
-- futures
-- options
-- government-securities
-- currency-derivatives-segment
-- new-contracts
+- 648gs2035
+- derivatives
+- futures-options
 - goi-securities
-- 648GS2035
+- gsec
+- interest-rate-derivatives
+- new-contracts
+- options
 title: Introduction of Interest Rate Derivatives Contracts on 6.48% GOI Securities
   Maturing October 2035
 ---

@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- illiquid-stock-options
-- bse
-- market-manipulation
-- reversal-trades
+- adjudication
 - artificial-volume
-- pfutp-regulations
-- fraudulent-trading
+- bse
+- illiquid-stock-options
+- investigation
+- market-operations
 - non-genuine-trades
+- regulatory-framework
+- reversal-trades
 title: Adjudication Order in respect of Shyam Sunder Vyas HUF in the matter of dealings
   in Illiquid Stock Options on BSE
 ---

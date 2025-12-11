@@ -25,10 +25,8 @@ source: bse
 stocks:
 - NSDL
 tags:
+- equity
 - listing
-- equity-shares
-- nsdl
-- new-listing
 title: Listing of Equity Shares of National Securities Depository Limited
 ---
 

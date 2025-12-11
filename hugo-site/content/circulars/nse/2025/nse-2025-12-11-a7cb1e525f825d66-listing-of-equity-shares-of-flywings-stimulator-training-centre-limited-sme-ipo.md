@@ -27,12 +27,11 @@ source: nse
 stocks:
 - FWSTC
 tags:
-- listing
-- sme-ipo
-- shareholding-pattern
+- equity
 - flywings
-- new-listing
-- equity-shares
+- listing
+- shareholding-pattern
+- sme
 title: Listing of Equity Shares of Flywings Simulator Training Centre Limited (SME
   IPO)
 ---

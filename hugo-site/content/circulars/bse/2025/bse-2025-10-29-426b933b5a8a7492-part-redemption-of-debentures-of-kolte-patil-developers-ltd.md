@@ -28,12 +28,11 @@ source: bse
 stocks:
 - KOLTPATIL
 tags:
-- debentures
-- part-redemption
+- corporate-action
 - debt-securities
-- corporate-actions
-- reduced-face-value
-- non-convertible-debentures
+- face-value-change
+- ncd
+- redemption
 title: Part Redemption of Debentures of KOLTE-PATIL DEVELOPERS LTD
 ---
 

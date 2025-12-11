@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - PAISALO
 tags:
-- takeover
 - exemption-order
-- sast-regulations
-- acquisition
-- promoter-restructuring
 - paisalo-digital
+- promoter-restructuring
+- regulatory-framework
+- takeover
 title: Exemption Order in the matter of Paisalo Digital Limited
 ---
 

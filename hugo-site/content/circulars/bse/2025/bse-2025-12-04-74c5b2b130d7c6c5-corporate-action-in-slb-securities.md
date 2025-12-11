@@ -29,12 +29,12 @@ stocks:
 - HINDCONST
 - DECGOLD
 tags:
-- slb
-- securities-lending-borrowing
-- right-issue
+- book-closure
+- collateral
 - corporate-action
 - foreclosure
-- shut-period
+- right-issue
+- slb
 title: Corporate Action in SLB Securities - Right Issue Foreclosure Dates
 ---
 

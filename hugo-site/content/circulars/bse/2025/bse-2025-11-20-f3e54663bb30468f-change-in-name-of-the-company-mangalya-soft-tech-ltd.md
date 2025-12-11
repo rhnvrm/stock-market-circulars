@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MANGALYA
 tags:
-- name-change
+- certificate
 - corporate-action
+- name-change
 - ratnakar-securities
-- mangalya-soft-tech
-- incorporation-certificate
 title: Change in Name of the Company - Mangalya Soft-Tech Limited to Ratnakar Securities
   Limited
 ---

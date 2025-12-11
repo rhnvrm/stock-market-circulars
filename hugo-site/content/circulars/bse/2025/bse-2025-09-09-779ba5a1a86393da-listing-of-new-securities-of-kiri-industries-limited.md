@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KIRI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of KIRI INDUSTRIES LIMITED
 ---
 

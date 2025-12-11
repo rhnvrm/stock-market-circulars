@@ -25,12 +25,11 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
+- aaa-rated
 - debt-securities
 - listing
+- ncd
 - private-placement
-- poonawalla-fincorp
-- aaa-rated
-- debentures
 title: Listing of new debt securities of POONAWALLA FINCORP LIMITED
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - POCL
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
 - pocl-enterprises
+- preferential-issue
 title: Listing of New Securities of POCL ENTERPRISES LTD
 ---
 

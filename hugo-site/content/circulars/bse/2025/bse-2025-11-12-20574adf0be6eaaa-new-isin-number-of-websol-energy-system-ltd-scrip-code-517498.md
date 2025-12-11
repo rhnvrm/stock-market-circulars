@@ -27,10 +27,10 @@ source: bse
 stocks:
 - WEBELSOLAR
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 - websol-energy
 title: 'New ISIN Number of WEBSOL ENERGY SYSTEM LTD (Scrip Code: 517498)'
 ---

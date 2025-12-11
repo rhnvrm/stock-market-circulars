@@ -27,10 +27,10 @@ source: nse
 stocks:
 - VIVIANA
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - capital-market
+- equity
+- listing
 - securities-admission
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Viviana Power
   Tech Limited

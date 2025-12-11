@@ -54,7 +54,7 @@ stocks:
 - INDLEASE
 - INDIANLINK
 - INDOBORAX
-- JAYUSHIN
+- JAYUSH
 - JAYANTINFRA
 - KAYA
 - KESAR
@@ -63,7 +63,7 @@ stocks:
 - KRUPALU
 - LSINDUSTRIES
 - MAXHEIGHTS
-- MIDWESTGOLD
+- MIDWEST
 - MISH
 - OMAX
 - OMEGA
@@ -85,10 +85,10 @@ stocks:
 - TRUSTEDGE
 - YURANUS
 tags:
+- equity
 - price-band
 - surveillance
 - trading-restrictions
-- equity
 title: Revision of Price Bands for 60 Securities Effective November 3, 2025
 ---
 

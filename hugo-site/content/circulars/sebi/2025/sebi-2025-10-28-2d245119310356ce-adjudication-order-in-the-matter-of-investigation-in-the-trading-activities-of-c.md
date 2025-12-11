@@ -28,13 +28,13 @@ source: sebi
 stocks:
 - VINNY
 tags:
-- adjudication-order
-- substantial-acquisition
-- disclosure-violation
-- sast-regulations
+- adjudication
+- enforcement
+- information-disclosure
 - regulation-29
+- regulatory-framework
+- sast
 - shareholding-disclosure
-- enforcement-action
 - vinny-overseas
 title: Adjudication Order in the matter of investigation in the trading activities
   of certain entities in the scrip of Vinny Overseas Ltd.

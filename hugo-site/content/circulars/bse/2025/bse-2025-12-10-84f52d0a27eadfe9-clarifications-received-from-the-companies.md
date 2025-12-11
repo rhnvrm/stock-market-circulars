@@ -28,11 +28,11 @@ stocks:
 - ERIS
 - INOXGREEN
 tags:
-- volume-increase
-- surveillance
-- disclosure
-- market-driven
 - compliance
+- disclosure
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

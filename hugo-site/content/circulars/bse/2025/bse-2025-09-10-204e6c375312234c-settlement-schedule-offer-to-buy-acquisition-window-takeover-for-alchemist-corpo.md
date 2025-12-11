@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ALCHEMIST
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for Alchemist Corporation Limited Takeover Offer
 ---
 

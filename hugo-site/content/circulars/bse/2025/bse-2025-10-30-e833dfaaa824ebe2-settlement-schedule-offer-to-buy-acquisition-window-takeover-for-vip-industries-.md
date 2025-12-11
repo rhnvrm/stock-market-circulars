@@ -27,13 +27,12 @@ source: bse
 stocks:
 - VIPIND
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
+- demat
 - early-pay-in
-- VIP-INDUSTRIES
-- offer-to-buy
-- demat-delivery
+- otb
+- settlement
+- takeover
+- vip-industries
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for V.I.P.
   INDUSTRIES LIMITED
 ---

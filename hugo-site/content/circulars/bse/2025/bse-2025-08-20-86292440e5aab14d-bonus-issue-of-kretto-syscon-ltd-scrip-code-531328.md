@@ -26,10 +26,10 @@ source: bse
 stocks:
 - KRETTOSYS
 tags:
-- bonus-issue
-- equity-shares
 - allotment
+- bonus
 - corporate-action
+- equity
 title: Bonus Issue of KRETTO SYSCON LTD - 8:10 Bonus Shares Approved
 ---
 

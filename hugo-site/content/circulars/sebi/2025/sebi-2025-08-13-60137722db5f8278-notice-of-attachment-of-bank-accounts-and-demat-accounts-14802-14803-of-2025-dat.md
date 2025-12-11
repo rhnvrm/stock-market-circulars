@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- defaulters
 - attachment
 - bank-accounts
-- demat-accounts
-- recovery-certificate
-- regulatory-action
+- defaulters
+- demat
+- enforcement
+- recovery
+- regulatory
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Alka Jain
   & Gaurav Singhal - Defaulters
 ---

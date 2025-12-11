@@ -25,11 +25,10 @@ source: nse
 stocks:
 - CONNPLEX
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- equity-shares
-- connplex
+- equity
+- listing
+- sme
 title: Listing of Equity Shares of Connplex Cinemas Limited (SME IPO)
 ---
 

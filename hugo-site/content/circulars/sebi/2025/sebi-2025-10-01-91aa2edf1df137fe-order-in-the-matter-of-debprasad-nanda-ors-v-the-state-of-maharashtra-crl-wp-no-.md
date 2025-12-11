@@ -27,14 +27,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- cbi
 - court-order
 - criminal-proceedings
-- investigation
-- investment-advisor
 - fraud
-- cbi
-- sit
 - highbrow-market-research
+- investigation
+- investment-adviser
+- sit
 title: Order in the matter of Debprasad Nanda & Ors. v. The State of Maharashtra -
   Crl. W.P. No. 4101 of 2022
 ---

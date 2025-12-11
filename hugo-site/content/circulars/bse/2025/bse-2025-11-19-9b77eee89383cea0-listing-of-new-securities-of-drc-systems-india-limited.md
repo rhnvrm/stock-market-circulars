@@ -27,11 +27,10 @@ source: bse
 stocks:
 - DRCSYSTEMS
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
 - lock-in
-- drc-systems
+- preferential-issue
 title: Listing of New Securities of DRC Systems India Limited - 1 Crore Equity Shares
 ---
 

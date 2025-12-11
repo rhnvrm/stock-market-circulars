@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- payment-facility
 - axis-bank
-- hdfc-bank
 - cheque-collection
-- bse-star-mf
+- hdfc-bank
+- mutual-fund
+- payment-facility
 title: Discontinuation of Axis Bank Cheque Collection Facility w.e.f. 27th November
   2025
 ---

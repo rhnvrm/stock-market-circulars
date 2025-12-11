@@ -24,10 +24,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - capitalmind
 - flexi-cap
+- mutual-fund
 - reopening
 - sip
 - stp

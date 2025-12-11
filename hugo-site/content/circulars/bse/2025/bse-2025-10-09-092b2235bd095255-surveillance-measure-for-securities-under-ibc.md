@@ -27,17 +27,14 @@ severity: high
 source: bse
 stocks:
 - EASTSIL
-- INDOSOLAR
+- WAAREEINDO-BE
 - JAIPRAKASH
 - UJAAS
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- stage-1
 - stage-0
+- surveillance
 title: Surveillance Measure for Securities under Insolvency and Bankruptcy Code (IBC)
 ---
 

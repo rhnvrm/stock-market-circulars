@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544564'
+- OMFREIGHT
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- t-group
-- b-group
 - segment-transfer
+- trade-for-trade
 title: Om Freight Forwarders Limited - Transfer from Trade for Trade to Rolling Segment
 ---
 

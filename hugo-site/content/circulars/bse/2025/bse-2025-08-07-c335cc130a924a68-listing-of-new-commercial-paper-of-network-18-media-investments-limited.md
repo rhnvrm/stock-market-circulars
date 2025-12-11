@@ -25,11 +25,10 @@ source: bse
 stocks:
 - NETWORK18
 tags:
-- commercial-paper
-- debt-listing
-- network18
-- private-placement
 - bse-debt
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of New Commercial Paper of Network 18 Media & Investments Limited
 ---
 

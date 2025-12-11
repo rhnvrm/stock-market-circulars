@@ -25,12 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- slbm
-- securities-lending
 - borrowing-market
-- system-testing
+- collateral
+- mock-trading
 - neat-1.3.3
+- slbm
 title: Mock Trading Session for SLBM on Saturday, August 23, 2025 - No New Version
   Release
 ---

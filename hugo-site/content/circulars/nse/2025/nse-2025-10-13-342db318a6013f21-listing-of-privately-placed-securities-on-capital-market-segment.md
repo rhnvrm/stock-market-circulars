@@ -27,13 +27,12 @@ stocks:
 - LTFH
 - ASEEMINFRA
 tags:
-- listing
-- debt-securities
-- debentures
-- privately-placed
 - capital-market
-- L&T-Finance
-- Aseem-Infrastructure-Finance
+- debt-securities
+- l&t-finance
+- listing
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities - L&T Finance and Aseem Infrastructure
   Finance Debentures
 ---

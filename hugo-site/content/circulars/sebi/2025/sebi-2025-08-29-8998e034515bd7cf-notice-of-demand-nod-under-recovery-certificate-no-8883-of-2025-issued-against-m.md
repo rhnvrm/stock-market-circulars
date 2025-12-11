@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- notice-of-demand
-- recovery-certificate
-- unregistered-services
-- investment-advisory
-- portfolio-management
+- demand-notice
 - enforcement
+- investment-adviser
 - maxx-innovation
+- portfolio-management
+- recovery
+- unregistered-services
 title: SEBI Notice of Demand against Mr. Jitendra Bharbhuja for Unregistered Investment
   Advisory and Portfolio Management Services
 ---

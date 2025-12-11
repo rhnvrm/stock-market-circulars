@@ -34,15 +34,9 @@ stocks:
 - SIDDHICOTS
 - VIJAYPD
 tags:
+- asm-stage
 - surveillance
-- asm
-- short-term-asm
-- market-surveillance
 - trading-restrictions
-- ARSSBL
-- IPHL
-- MEDISTEP
-- SATECH
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

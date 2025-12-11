@@ -37,9 +37,7 @@ stocks:
 - VAIBHAVGBL
 tags:
 - esop
-- esos
 - listing
-- employee-stock-options
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---

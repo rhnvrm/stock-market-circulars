@@ -27,9 +27,9 @@ stocks:
 - TV18BRDCST
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - network18
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Network 18 Media & Investments Limited
 ---

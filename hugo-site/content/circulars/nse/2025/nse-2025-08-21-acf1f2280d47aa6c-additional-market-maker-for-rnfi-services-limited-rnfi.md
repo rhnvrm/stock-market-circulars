@@ -28,7 +28,6 @@ tags:
 - market-maker
 - sme
 - trading
-- rnfi
 title: Additional Market Maker Appointed for RNFI Services Limited
 ---
 

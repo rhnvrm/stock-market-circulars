@@ -26,10 +26,9 @@ stocks:
 - JKCEMENT
 tags:
 - commercial-paper
+- debt-securities
 - listing
-- debt-segment
 - private-placement
-- jk-cement
 title: Listing of new Commercial Paper of J.K. CEMENT LTD
 ---
 

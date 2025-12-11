@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GROWWCAPM
 tags:
+- capital-market
 - etf
-- listing
 - groww-mutual-fund
-- capital-markets
-- new-listing
+- listing
 title: Listing of Groww Nifty Capital Markets ETF Units
 ---
 

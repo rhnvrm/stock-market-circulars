@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - axis-mutual-fund
-- sip
-- bse-star-mf
 - fund-of-funds
 - multi-asset
+- mutual-fund
+- nfo
+- sip
 title: Launch of NFO with SIP facility of AXIS MULTI-ASSET ACTIVE FOF on BSE StAR
   MF Platform
 ---

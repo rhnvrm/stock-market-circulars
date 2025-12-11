@@ -29,11 +29,11 @@ stocks:
 - ZEEL
 tags:
 - clarification
-- workforce-optimization
-- organizational-restructuring
-- zee-entertainment
-- layoffs
 - disclosure
+- layoffs
+- organizational-restructuring
+- workforce-optimization
+- zee-entertainment
 title: Zee Entertainment Clarifies Layoffs Following Failed Sony Merger
 ---
 

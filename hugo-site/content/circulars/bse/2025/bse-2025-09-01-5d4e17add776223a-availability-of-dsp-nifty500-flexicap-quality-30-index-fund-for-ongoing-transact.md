@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - dsp
-- index-fund
-- bse-star-mf
 - equity
+- index-fund
+- mutual-fund
 - reopening
 - sip
 - stp

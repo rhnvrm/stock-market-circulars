@@ -27,13 +27,13 @@ source: bse
 stocks:
 - ACHIIEVERS
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ACHIIEVERS FINANCE INDIA LIMITED
 ---
 

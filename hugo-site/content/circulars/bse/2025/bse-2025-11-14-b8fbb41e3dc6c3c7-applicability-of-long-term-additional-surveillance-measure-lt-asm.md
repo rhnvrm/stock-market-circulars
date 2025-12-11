@@ -30,7 +30,7 @@ stocks:
 - EPUJA
 - INFOBEANS
 - SABTV
-- TCM
+- TCMLMTD
 - ARIHANT
 - IRONWOOD
 - AMBO
@@ -57,10 +57,9 @@ stocks:
 - TIERRA
 - TYPHOON
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-regulation
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

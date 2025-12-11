@@ -27,10 +27,9 @@ stocks:
 - AMCL
 - BHARATSE
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
 title: Short-Term Additional Surveillance Measure (ST-ASM) Applicability - September
   2025

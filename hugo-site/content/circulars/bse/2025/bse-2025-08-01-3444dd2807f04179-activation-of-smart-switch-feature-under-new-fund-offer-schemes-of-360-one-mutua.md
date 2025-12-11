@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- 360-one-mutual-fund
+- mutual-fund
 - nfo
 - smart-switch
-- 360-one-mutual-fund
-- bse-star-mf
 title: Activation of SMART Switch Feature for 360 ONE Multi Asset Allocation Fund
   NFO on BSE StAR MF Platform
 ---

@@ -26,13 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- persons-with-disabilities
-- regulated-entities
-- audit-requirements
-- IAAP-certification
+- digital-accessibility
+- iaap-certification
+- intermediary
 - investor-protection
+- system-audit
 title: Compliance Guidelines for Digital Accessibility - Rights of Persons with Disabilities
   Act, 2016
 ---

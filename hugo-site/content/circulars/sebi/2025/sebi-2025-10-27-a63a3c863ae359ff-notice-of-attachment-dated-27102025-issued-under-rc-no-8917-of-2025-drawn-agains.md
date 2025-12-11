@@ -27,11 +27,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- recovery-certificate
-- attachment-notice
 - generic-engineering
-- recovery-proceedings
+- recovery
 title: Notice of Attachment dated 27.10.2025 issued under RC No. 8917 of 2025 drawn
   against Subhash Vithoba Dongre in the matter of Generic Engineering Construction
   and Project Limited

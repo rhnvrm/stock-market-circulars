@@ -27,13 +27,10 @@ source: bse
 stocks:
 - INDELMONEY
 tags:
-- ncd
-- debentures
-- listing
 - debt-securities
-- indel-money
-- secured-debentures
 - ivr-rating
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of INDEL MONEY LIMITED
 ---
 

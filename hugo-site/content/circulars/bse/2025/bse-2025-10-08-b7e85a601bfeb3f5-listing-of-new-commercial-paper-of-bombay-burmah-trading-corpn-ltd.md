@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BBTC
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - bombay-burmah-trading
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Bombay Burmah Trading Corpn. Ltd.
 ---
 

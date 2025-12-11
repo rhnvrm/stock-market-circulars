@@ -25,10 +25,10 @@ severity: high
 source: nse
 stocks: []
 tags:
-- disability-rights
 - compliance
-- trading-members
+- digital-accessibility
 - mandatory-submission
+- trading-member
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance Confirmation
   Required
 ---

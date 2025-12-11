@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MUTHOOTFIN
 tags:
+- crisil-aa-
 - debt-securities
 - listing
+- ncd
 - private-placement
-- muthoot-fincorp
-- non-convertible-debentures
-- CRISIL-AA-
 title: Listing of New Debt Securities of Muthoot Fincorp Limited
 ---
 

@@ -27,7 +27,7 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - julius-baer-capital
 - private-placement
 - short-term-debt

@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trade-api
-- clearing-members
-- equity-cash
-- equity-derivatives
-- technology
 - api
+- clearing-members
+- derivatives
+- equity-cash
+- technology
 - token-authorization
+- trade-api
 - trade-inquiry
 title: Availability of Trade API Facility for Clearing Members in Equity Cash & Equity
   Derivatives Segments

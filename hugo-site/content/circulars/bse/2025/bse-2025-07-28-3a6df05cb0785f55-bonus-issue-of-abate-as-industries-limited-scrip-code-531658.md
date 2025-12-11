@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ABATE
 tags:
-- bonus-issue
-- equity-shares
-- record-date
-- depository-system
+- bonus
 - corporate-action
+- depository
+- equity
+- record-date
 title: Bonus Issue of Abate AS Industries Limited - 7.88 Crore Bonus Shares
 ---
 

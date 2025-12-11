@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KPDL
 tags:
-- takeover
-- open-offer
-- acquisition-window
-- schedule-revision
 - kolte-patil
+- otb
+- schedule-revision
+- takeover
 title: Extension of Opening of Offer to Buy (Takeover) of KOLTE-PATIL DEVELOPERS LIMITED
 ---
 

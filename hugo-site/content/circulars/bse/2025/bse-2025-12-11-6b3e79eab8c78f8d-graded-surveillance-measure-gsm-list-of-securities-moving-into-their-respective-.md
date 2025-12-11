@@ -32,11 +32,9 @@ stocks:
 - TACENTPROJ
 - WOODSVILLA
 tags:
-- gsm
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-surveillance
 title: GSM Framework - Five Securities Moving to Higher Surveillance Stages
 ---
 

@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
+- connectivity
+- derivatives
 - disaster-recovery
 - dr-site
-- bolt-plus
-- technical-connectivity
-- testing
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, December 13, 2025 for Commodity Derivatives Segment
 ---
 

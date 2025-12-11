@@ -27,10 +27,10 @@ stocks:
 - PATELCHEM
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- trading-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of PATEL CHEM SPECIALITIES LIMITED
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - DELPHI
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
-- record-date
-- ex-rights
+- corporate-action
 - delphi-world-money
+- equity
+- record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Delphi World Money Limited
 ---
 

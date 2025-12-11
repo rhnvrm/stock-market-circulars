@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- invit
+- follow-on-offer
 - infrastructure-investment-trusts
-- public-conversion
+- invit
+- lock-in
+- public-issue
 - regulatory-framework
 - sebi
 - unitholding-requirements
-- lock-in
-- follow-on-offer
 title: Review of Framework for conversion of Private Listed InvIT into Public InvIT
 ---
 

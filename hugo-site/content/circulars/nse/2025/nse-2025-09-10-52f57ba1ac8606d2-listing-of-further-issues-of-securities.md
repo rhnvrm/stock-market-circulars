@@ -41,11 +41,10 @@ stocks:
 - TEJASNET
 - VTL
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
-- employee-stock-options
+- further-issue
+- listing
 title: Listing of Further Securities Under ESOP for 17 Companies
 ---
 

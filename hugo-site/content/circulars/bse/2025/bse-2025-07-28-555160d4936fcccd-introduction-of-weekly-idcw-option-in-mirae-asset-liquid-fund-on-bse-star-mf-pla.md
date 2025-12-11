@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - idcw
 - liquid-fund
 - mirae-asset
+- mutual-fund
 - weekly-option
-- bse-star-mf
 title: Introduction of Weekly IDCW option in MIRAE ASSET LIQUID FUND on BSE StAR MF
   platform
 ---

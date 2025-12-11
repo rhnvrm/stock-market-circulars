@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- invesco
+- investment-frequency
 - mutual-fund
 - sip
-- systematic-investment-plan
-- invesco
-- nse-mf-invest
-- investment-frequency
+- trading-platform
 title: Introduction of Weekly Frequency under Systematic Investment Plan (SIP) for
   Invesco India Consumption Fund
 ---

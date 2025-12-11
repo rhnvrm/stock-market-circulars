@@ -26,10 +26,10 @@ stocks:
 - IGIT
 tags:
 - debt-securities
-- listing
-- private-placement
 - infrastructure-trust
 - invit
+- listing
+- private-placement
 title: Listing of new debt securities of IndiGrid Infrastructure Trust
 ---
 

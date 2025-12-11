@@ -33,12 +33,12 @@ stocks:
 - MANCREDIT
 - RPPL
 tags:
-- listing
-- esop
-- warrants
-- preferential-issue
-- equity-shares
 - capital-market
+- equity
+- esop
+- listing
+- preferential-issue
+- warrant
 title: Listing of Further Issues of Securities - Nine Companies
 ---
 

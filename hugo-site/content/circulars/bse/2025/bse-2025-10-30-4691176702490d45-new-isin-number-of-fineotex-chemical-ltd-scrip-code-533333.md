@@ -26,11 +26,10 @@ source: bse
 stocks:
 - FINEOTEX
 tags:
-- isin-change
-- sub-division
-- equity-shares
 - corporate-action
-- fineotex-chemical
+- equity
+- isin
+- split
 title: New ISIN Number for Fineotex Chemical Ltd Following Sub-Division of Equity
   Shares
 ---

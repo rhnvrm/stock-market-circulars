@@ -31,12 +31,10 @@ stocks:
 - SHREE
 - VASHU
 tags:
-- enhanced-surveillance
-- esm
-- trading
-- market-surveillance
-- securities
 - compliance
+- securities
+- surveillance
+- trading
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
   and Consolidation
 ---

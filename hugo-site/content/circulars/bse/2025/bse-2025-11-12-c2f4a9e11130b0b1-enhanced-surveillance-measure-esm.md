@@ -41,12 +41,10 @@ stocks:
 - MAHAMAYA
 - RAMCHANDRA
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Across Stages Effective
   November 13, 2025
 ---

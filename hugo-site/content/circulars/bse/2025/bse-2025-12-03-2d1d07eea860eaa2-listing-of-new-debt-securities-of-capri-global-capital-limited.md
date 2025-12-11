@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CAPRIGLOBL
 tags:
+- capri-global-capital
 - debt-securities
 - listing
+- ncd
 - private-placement
-- capri-global-capital
-- debentures
 title: Listing of New Debt Securities of Capri Global Capital Limited
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NACL
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for Offer to Buy - Acquisition Window (Takeover) for NACL
   Industries Limited
 ---

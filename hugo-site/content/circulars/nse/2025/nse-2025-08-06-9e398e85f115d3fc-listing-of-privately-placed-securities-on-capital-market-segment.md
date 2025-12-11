@@ -27,10 +27,10 @@ stocks:
 - IHFL
 - SDIL
 tags:
-- listing
-- debt-securities
-- privately-placed
 - capital-market
+- debt-securities
+- listing
+- privately-placed
 - trading-regulations
 title: Listing of Privately Placed Securities on Capital Market Segment - IIFL Home
   Finance and Summit Digitel Infrastructure

@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- '531033'
+- REGAL
 tags:
+- asm-stage
 - group-change
-- x-group
-- trading-restrictions
 - regal-entertainment
-- '531033'
+- trading-restrictions
 title: Change in Group of Equity Shares of Regal Entertainment & Consultants Ltd.
 ---
 

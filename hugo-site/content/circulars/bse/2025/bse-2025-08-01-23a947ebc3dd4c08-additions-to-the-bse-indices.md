@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544459'
-- '544458'
-- '544460'
+- SHANTIGOLD
+- SHREEREF
+- PATELCHEM
 tags:
-- index-additions
-- new-listings
-- bse-ipo-index
-- bse-sme-ipo-index
-- corporate-actions
+- addition
+- bse-index
+- corporate-action
+- listing
 title: Additions to BSE Indices - Three Companies Added to IPO and SME IPO Indices
 ---
 

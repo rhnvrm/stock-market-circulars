@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- debentures
 - embassy-property-developments
 - listing
+- ncd
 - update
 title: Update Regarding Debt Securities of Embassy Property Developments Pvt Ltd
 ---

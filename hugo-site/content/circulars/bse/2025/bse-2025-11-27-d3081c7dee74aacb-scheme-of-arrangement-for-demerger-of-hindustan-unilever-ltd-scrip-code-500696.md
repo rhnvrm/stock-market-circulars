@@ -28,14 +28,13 @@ source: bse
 stocks:
 - HINDUNILVR
 tags:
-- demerger
-- scheme-of-arrangement
+- call-money
 - corporate-action
-- record-date
 - ice-cream-business
-- nclt-approval
-- special-pre-open-session
-- new-listing
+- listing
+- nclt
+- record-date
+- scheme-of-arrangement
 title: Scheme of Arrangement for Demerger of Hindustan Unilever Ltd - Ice Cream Business
 ---
 

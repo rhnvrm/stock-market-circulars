@@ -26,11 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- demand-notice
 - enforcement
-- remittance-order
-- debt-recovery
 - generic-engineering
+- recovery
 title: General Remittance Order in Recovery Certificate No. 8919 of 2025 Against Arun
   Ramachandra Gole
 ---

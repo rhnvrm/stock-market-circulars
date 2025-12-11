@@ -27,13 +27,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- portfolio-managers
-- pms
 - business-transfer
-- registration
 - ease-of-doing-business
-- regulatory-approval
 - investment-approach
+- pms
+- portfolio-managers
+- registration
+- regulatory-approval
 title: Transfer of Portfolios of Clients (PMS Business) by Portfolio Managers
 ---
 

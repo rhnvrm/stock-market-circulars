@@ -25,36 +25,36 @@ severity: medium
 source: bse
 stocks:
 - ACROW
-- ADANI POWER
-- ASHOK LEYLAND
+- ADANIPOWER
+- ASHOKLEY
 - BAJAJ STEEL
-- BGR ENERGY
+- BGRENERGY
 - CHENNAI PETR
 - DHAMPUR SUGA
-- ESAB INDIA
-- ETHOS
+- ESABINDIA
+- ETHOSLTD
 - FIRSTSOURCE
 - GODFREY PHIL
 - HERO MOTOCOR
-- ICICI BANK
-- JSW STEEL
-- JSW CEMENT
+- ICICIBANK
+- JSWSTEEL
+- JSWCEMENT
 - MAHINDRA
 - MARICO
 - NHPC
 - NTPC
 - OLA ELECTRIC
 - ORIENTAL RAI
-- PARAG MILK
-- RICO AUTO
+- PARAGMILK
+- RICOAUTO
 - SADBHAV ENGI
 - TIMEX GROUP
 - ZUARI AGRO
 tags:
-- demat-auction
-- settlement
-- trading-suspension
+- demat
 - market-operations
+- settlement
+- suspension
 title: Demat Auction Settlement No. 698 - Securities List for Trading Suspension
 ---
 

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - JIGARCABLE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- jigar-cables
+- preferential-issue
 title: Listing of New Securities of Jigar Cables Limited - Preferential Allotment
 ---
 

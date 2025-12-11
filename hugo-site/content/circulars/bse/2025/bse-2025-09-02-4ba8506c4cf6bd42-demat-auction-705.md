@@ -35,13 +35,13 @@ stocks:
 - HINDALCO
 - ICICIPRULI
 - JINDALPOLY
-- LTFINANCE
+- LTF
 - MAHINDRA
 - MANKIND
 - MPHASIS
 - NESTLE
 - OBEROI
-- OILINDIA
+- OIL
 - OLAMOBIKWI
 - ORIENTCEM
 - SJVN
@@ -49,10 +49,10 @@ stocks:
 - SUZLON
 - TVSMOTOR
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: BSE Demat Auction - Settlement No. 705
 ---
 

@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - interval-fund
-- uti
+- mutual-fund
 - new-launch
 - trading
-- bse-star-mf
+- uti
 title: Activation of UTI Annual Interval Fund - I on BSE StAR MF Platform
 ---
 

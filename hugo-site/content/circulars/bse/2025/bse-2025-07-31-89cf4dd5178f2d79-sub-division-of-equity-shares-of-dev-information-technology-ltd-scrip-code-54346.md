@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DEVIT
 tags:
-- corporate-actions
-- subdivision
-- equity-shares
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: Sub-Division of Equity Shares of DEV INFORMATION TECHNOLOGY LTD
 ---
 

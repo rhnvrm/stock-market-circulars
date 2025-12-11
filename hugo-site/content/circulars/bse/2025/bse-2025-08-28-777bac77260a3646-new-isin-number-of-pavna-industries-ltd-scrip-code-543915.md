@@ -26,9 +26,9 @@ source: bse
 stocks:
 - PAVNA
 tags:
-- corporate-actions
-- isin-change
+- corporate-action
 - equity-subdivision
+- isin
 - pavna-industries
 title: 'New ISIN Number for PAVNA INDUSTRIES LTD (Scrip Code: 543915) - Equity Share
   Sub-Division'

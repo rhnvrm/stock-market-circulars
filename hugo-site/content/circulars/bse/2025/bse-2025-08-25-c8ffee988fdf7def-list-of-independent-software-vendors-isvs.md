@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- isv
-- software-vendors
-- trading-technology
 - front-end-services
+- isv
+- market-infrastructure
+- software-vendors
+- trading-member
 - vendor-registry
-- trading-members
 title: List of Independent Software Vendors (ISVs) - Updated Registry
 ---
 

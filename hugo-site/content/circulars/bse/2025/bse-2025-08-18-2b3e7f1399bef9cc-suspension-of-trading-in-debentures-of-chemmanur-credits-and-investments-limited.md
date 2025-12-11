@@ -25,12 +25,12 @@ source: bse
 stocks:
 - CCIL
 tags:
-- debentures
-- trading-suspension
-- corporate-actions
-- debt-segment
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of CHEMMANUR CREDITS AND INVESTMENTS LIMITED
 ---
 

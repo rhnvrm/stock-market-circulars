@@ -27,12 +27,11 @@ source: bse
 stocks:
 - AMEENJI
 tags:
+- asm-stage
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-settlement
-- mt-group
-- m-group
 title: Change in Group of Equity Shares of AMEENJI RUBBER LIMITED
 ---
 

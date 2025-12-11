@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- old-bridge-mutual-fund
 - arbitrage-fund
+- mutual-fund
+- old-bridge-mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
+- trading-platform
 title: Availability of Old Bridge Arbitrage Fund for Ongoing Transactions on NSE MF
   Invest Platform
 ---

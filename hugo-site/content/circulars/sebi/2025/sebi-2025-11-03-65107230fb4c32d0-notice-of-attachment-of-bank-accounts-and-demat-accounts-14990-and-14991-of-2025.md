@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - attachment
-- defaulter
-- iso
-- bse
 - bank-account
-- demat-account
+- bse
+- defaulter
+- demat
+- enforcement
+- iso
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Pawan Kumar
   Verma - Recovery Certificate No. 8013 of 2024
 ---

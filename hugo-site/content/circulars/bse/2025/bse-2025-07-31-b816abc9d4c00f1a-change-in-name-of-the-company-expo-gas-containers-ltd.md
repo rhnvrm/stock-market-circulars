@@ -26,10 +26,10 @@ source: bse
 stocks:
 - EXPO
 tags:
-- name-change
-- corporate-action
 - certificate-incorporation
+- corporate-action
 - expo-gas-containers
+- name-change
 title: Change in Company Name - Expo Gas Containers Ltd to Expo Engineering and Projects
   Limited
 ---

@@ -36,12 +36,10 @@ stocks:
 - SHRIRAMFIN
 - STARHEALTH
 tags:
-- esop
-- esos
 - equity
+- esop
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 9 Companies
 ---
 

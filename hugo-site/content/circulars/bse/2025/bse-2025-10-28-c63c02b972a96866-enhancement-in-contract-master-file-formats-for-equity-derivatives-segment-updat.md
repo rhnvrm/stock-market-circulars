@@ -27,15 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- derivatives
-- equity-derivatives
 - contract-master
+- derivatives
+- eti
 - file-format
-- technical-specification
-- futures
+- futures-options
+- market-infrastructure
 - options
-- trading-system
-- ETI
+- technical-specification
 title: Enhancement in Contract Master File Formats for Equity Derivatives Segment
   - Update
 ---

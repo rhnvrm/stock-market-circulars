@@ -29,12 +29,10 @@ stocks:
 - ABMINTLLTD
 - AKSHAR
 tags:
-- additional-surveillance-measure
-- asm-framework
-- long-term-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Applicability of Additional Surveillance Measure (ASM) - Long-Term Framework
   Updates
 ---

@@ -27,7 +27,7 @@ stocks:
 - ISPD
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-securities
 - private-placement
 - short-term-debt

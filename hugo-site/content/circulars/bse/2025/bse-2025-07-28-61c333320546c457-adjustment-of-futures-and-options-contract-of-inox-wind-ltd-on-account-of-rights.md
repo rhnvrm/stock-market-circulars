@@ -26,13 +26,13 @@ source: bse
 stocks:
 - INOX
 tags:
+- contract-adjustment
+- corporate-action
 - derivatives
-- futures
+- futures-options
+- inox-wind
 - options
 - rights-issue
-- contract-adjustment
-- inox-wind
-- corporate-actions
 title: Adjustment of Futures and Options contract of Inox Wind Ltd on account of Rights
   issue
 ---

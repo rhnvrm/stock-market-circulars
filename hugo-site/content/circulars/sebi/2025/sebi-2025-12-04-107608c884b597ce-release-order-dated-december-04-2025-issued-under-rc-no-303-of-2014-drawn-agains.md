@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - KOLARBIOTE
 tags:
-- release-order
-- recovery-certificate
-- million-investrade-limited
-- kolar-biotech-limited
 - enforcement
-- recovery-proceedings
+- million-investrade-limited
+- recovery
+- release
 title: Release Order for Recovery Certificate No. 303 of 2014 against M/s Million
   Investrade Limited - Kolar Biotech Limited Matter
 ---

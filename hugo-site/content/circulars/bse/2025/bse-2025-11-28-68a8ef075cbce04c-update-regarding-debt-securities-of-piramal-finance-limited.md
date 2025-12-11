@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
-- debt-securities
-- trading-suspension
 - coupon-restructuring
-- piramal-finance
-- debentures
+- debt-securities
+- ncd
+- suspension
 title: Update Regarding Debt Securities of Piramal Finance Limited - Trading Suspension
   Due to Coupon Rate Restructuring
 ---

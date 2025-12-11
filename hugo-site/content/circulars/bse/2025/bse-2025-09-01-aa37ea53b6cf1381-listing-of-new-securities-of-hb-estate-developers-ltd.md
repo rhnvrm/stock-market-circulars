@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HBESTATE
 tags:
-- new-listing
+- conversion
+- equity
+- listing
+- lock-in
 - preferential-issue
-- warrant-conversion
-- lock-in-period
-- equity-shares
 title: Listing of New Securities of HB Estate Developers Ltd.
 ---
 

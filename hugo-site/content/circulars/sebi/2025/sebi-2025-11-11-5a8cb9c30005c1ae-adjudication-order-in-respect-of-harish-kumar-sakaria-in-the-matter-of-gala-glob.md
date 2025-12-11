@@ -28,13 +28,13 @@ source: sebi
 stocks:
 - GGPL
 tags:
-- adjudication-order
+- adjudication
+- enforcement
+- gala-global-products
+- market-operations
 - penalty
 - price-manipulation
-- pfutp-regulations
-- market-manipulation
-- enforcement-action
-- gala-global-products
+- regulatory-framework
 title: Adjudication Order in respect of Harish Kumar Sakaria in the matter of Gala
   Global Products Limited
 ---

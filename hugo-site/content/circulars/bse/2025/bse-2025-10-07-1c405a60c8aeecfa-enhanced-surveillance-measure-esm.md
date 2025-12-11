@@ -39,12 +39,10 @@ stocks:
 - AASTAMAN
 - ABATEAS
 tags:
-- esm
-- enhanced-surveillance
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - sme
-- stage-migration
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Across Stages Effective
   October 8, 2025
 ---

@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-certificate
-- enforcement
 - defaulter
-- continental-seeds-chemicals
+- enforcement
+- penalty
+- recovery
 - vijay-pujara
-- penalty-recovery
 title: Notice of Demand under Recovery Certificate No. 8874 of 2025 against Vijay
   Pujara in Continental Seeds and Chemicals Limited matter
 ---

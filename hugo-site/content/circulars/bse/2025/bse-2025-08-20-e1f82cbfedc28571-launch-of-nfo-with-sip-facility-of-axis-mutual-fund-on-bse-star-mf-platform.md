@@ -24,13 +24,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- nfo
-- mutual-fund
-- sip
 - axis-mutual-fund
 - index-fund
+- mutual-fund
+- nfo
 - nifty500
 - quality-50
+- sip
 title: Launch of NFO with SIP facility of AXIS MUTUAL FUND on BSE StAR MF Platform
 ---
 

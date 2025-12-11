@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDIAGLYCOLS
+- INDIAGLYCO
 tags:
-- equity-shares
-- sub-division
-- isin-number
-- corporate-actions
-- india-glycols
+- corporate-action
+- equity
+- isin
+- split
 title: New ISIN Number for India Glycols Ltd - Equity Share Sub-Division
 ---
 

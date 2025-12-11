@@ -25,11 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- ncd-violation
-- public-issue
 - compliance
 - enforcement
+- ncd-violation
+- public-issue
+- sebi-order
 title: Order in the matter of Sarvoday Agro Power Limited
 ---
 

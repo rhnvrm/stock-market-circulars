@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '501425'
+- BBTC
 tags:
-- name-change
-- corporate-action
 - bombay-burmah
 - company-name-amendment
+- corporate-action
+- name-change
 title: 'Amendment in the Name of Bombay Burmah Trading Corporation Ltd (Scrip Code:
   501425)'
 ---

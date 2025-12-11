@@ -28,10 +28,9 @@ stocks:
 - SCCL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - standard-chartered
-- sccl
 title: Listing of new Commercial Paper of Standard Chartered Capital Limited
 ---
 

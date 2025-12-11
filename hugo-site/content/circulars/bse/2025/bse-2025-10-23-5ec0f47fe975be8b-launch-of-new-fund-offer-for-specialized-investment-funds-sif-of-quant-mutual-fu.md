@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
+- long-short-fund
 - mutual-fund
 - nfo
-- specialized-investment-fund
 - quant-mutual-fund
-- equity-fund
-- long-short-fund
-- bse-star-mf
+- sif
 title: Launch of New Fund Offer for Specialized Investment Funds (SIF) of QUANT MUTUAL
   FUND on BSE StAR MF Platform
 ---

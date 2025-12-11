@@ -35,13 +35,13 @@ stocks:
 - SIMBHAO
 - VINTRON
 tags:
-- z-group
+- asm-stage
+- financial-results
+- lodr
 - non-compliance
 - regulation-33
-- financial-results
-- sebi-lodr
-- trade-for-trade
 - suspension
+- trade-for-trade
 title: Shifting of Scrips to 'Z' Group for Non-Compliance with Financial Results Filing
 ---
 

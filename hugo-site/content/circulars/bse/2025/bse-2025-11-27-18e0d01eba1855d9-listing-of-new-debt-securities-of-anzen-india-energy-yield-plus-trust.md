@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-securities
-- listing
-- invit
-- private-placement
 - anzen-india-energy-yield-plus-trust
+- debt-securities
+- invit
+- listing
+- private-placement
 title: Listing of New Debt Securities of Anzen India Energy Yield Plus Trust
 ---
 

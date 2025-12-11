@@ -28,17 +28,17 @@ severity: high
 source: bse
 stocks: []
 tags:
-- derivatives
-- equity-index-derivatives
-- position-limits
-- intraday-monitoring
 - additional-surveillance-deposit
 - asd
 - delta-based-positions
+- derivatives
+- equity-index-derivatives
 - futures-equivalent
+- intraday-monitoring
 - options-expiry
-- surveillance
+- position-limits
 - risk-management
+- surveillance
 title: Standard Operating Procedure for Future Equivalent (FutEq)/(Delta) Intraday
   Position Limits Monitoring for Equity Index Derivatives – Update
 ---

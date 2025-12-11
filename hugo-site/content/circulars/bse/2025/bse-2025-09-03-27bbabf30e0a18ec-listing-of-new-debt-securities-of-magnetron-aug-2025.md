@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
-- magnetron
 - icra-rating
+- listing
+- magnetron
+- private-placement
 title: Listing of new debt securities of Magnetron Aug 2025
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - FFSL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
-- interest-payment
+- corporate-action
+- debt-securities
 - fedbank-financial-services
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of FEDBANK FINANCIAL SERVICES LIMITED
 ---
 

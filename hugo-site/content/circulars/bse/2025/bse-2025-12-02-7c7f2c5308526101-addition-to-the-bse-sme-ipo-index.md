@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544621'
+- SSMD
 tags:
-- index
-- bse-sme-ipo-index
-- listing
+- bse-index
 - equity
-- index-addition
+- index-change
+- index-fund
+- listing
 title: Addition to the BSE SME IPO INDEX
 ---
 

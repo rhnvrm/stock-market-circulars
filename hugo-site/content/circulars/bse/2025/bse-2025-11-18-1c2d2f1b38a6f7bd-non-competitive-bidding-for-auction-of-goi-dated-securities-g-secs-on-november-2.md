@@ -28,15 +28,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- g-sec
+- 601gs30n25
+- 709gs74n25
 - auction
+- gsec
 - non-competitive-bidding
 - rbi
-- ncb-gsec
 - trading
-- 601GS30N25
-- 709GS74N25
 title: Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on November
   21, 2025
 ---

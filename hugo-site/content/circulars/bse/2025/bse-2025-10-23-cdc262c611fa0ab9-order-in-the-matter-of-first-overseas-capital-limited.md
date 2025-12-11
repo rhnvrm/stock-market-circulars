@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- merchant-banker
-- regulatory-action
-- net-worth-violation
 - compliance
+- debarment
 - first-overseas-capital
 - intermediary
-- debarment
+- merchant-banker
+- net-worth-violation
+- regulatory
+- sebi-order
 title: Order in the matter of First Overseas Capital Limited
 ---
 

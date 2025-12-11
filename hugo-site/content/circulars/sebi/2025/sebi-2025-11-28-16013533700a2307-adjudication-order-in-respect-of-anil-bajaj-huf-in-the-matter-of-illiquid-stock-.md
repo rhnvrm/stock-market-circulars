@@ -26,14 +26,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- non-genuine-trades
-- pfutp-regulations
 - bse
+- market-operations
+- non-genuine-trades
 - penalty
+- regulatory-framework
+- stock-options
 title: Adjudication Order in respect of Anil Bajaj HUF in the matter of Illiquid Stock
   Options at BSE
 ---

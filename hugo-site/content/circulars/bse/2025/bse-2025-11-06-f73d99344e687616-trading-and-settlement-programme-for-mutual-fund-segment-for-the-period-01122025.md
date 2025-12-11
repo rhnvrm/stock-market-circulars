@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- settlement-schedule
-- trading-programme
-- bse-star-mf
-- subscription
+- liquid-fund
+- mutual-fund
 - redemption
-- liquid-funds
+- settlement
+- subscription
+- trading-operations
 title: Trading and Settlement Programme for Mutual Fund Segment for December 2025
 ---
 

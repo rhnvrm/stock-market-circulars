@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- KPENERGY
+- KPEL
 - POWERMECH
 - MASTEK
 - GLENMARK
@@ -47,10 +47,10 @@ stocks:
 - HITECHPIPE
 - TECHNO
 tags:
-- corporate-actions
-- dividend
 - buyback
-- record-dates
+- corporate-action
+- dividend
+- record-date
 - shut-periods
 title: Corporate Action in SLB Securities - Dividend and Buyback Updates
 ---

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - FONE4
 tags:
+- equity
 - listing
-- preferential-issue
-- equity-shares
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Fone4 Communications (India) Limited
 ---
 

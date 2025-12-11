@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
+- debt-securities
 - listing
 - muthoottu-mini-financiers
 - ncd
-- debt-securities
 title: Listing of Secured Redeemable Non-Convertible Debentures of Muthoottu Mini
   Financiers Limited
 ---

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - VIKRAN
 tags:
-- ipo
-- equity-listing
-- vikran
-- new-listing
 - capital-market
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of Vikran Engineering Limited (IPO)
 ---
 

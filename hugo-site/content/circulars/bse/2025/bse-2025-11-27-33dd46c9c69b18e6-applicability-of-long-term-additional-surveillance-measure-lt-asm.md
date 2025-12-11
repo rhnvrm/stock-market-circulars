@@ -30,11 +30,9 @@ stocks:
 - CAPITT
 - SVPGTL
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- asm-framework
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- hdfc-bank-paying-agent
 - private-placement
 - standard-chartered-capital
-- hdfc-bank-paying-agent
 title: Listing of new Commercial Paper of Standard Chartered Capital Limited
 ---
 

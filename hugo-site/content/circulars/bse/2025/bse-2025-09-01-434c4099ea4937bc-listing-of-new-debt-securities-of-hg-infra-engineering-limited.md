@@ -26,10 +26,10 @@ stocks:
 - HGIEL
 tags:
 - debt-securities
-- listing
-- private-placement
 - h-g-infra-engineering
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of H.G. Infra Engineering Limited
 ---
 

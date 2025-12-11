@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VERANDA
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- non-promoters
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Veranda Learning Solutions Limited
 ---
 

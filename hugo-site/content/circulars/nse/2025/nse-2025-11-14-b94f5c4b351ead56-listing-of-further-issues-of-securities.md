@@ -41,11 +41,10 @@ stocks:
 - VIPIND
 - KSHITIJ
 tags:
-- listing
+- equity
 - esop
-- equity-shares
 - further-issue
-- employee-stock-options
+- listing
 title: Listing of Further Issues of Securities for 13 Companies
 ---
 

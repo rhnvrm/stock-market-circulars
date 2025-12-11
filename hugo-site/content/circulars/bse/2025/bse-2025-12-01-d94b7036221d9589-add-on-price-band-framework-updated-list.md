@@ -65,11 +65,11 @@ stocks:
 - TIRTHPLA
 - VEGA
 tags:
+- add-on-framework
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-regulation
-- add-on-framework
 title: Add-on Price Band Framework - Updated List of 39 Securities
 ---
 

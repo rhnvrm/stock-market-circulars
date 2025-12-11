@@ -27,10 +27,10 @@ stocks:
 - GROWWPOWER
 tags:
 - etf
+- groww
 - listing
 - mutual-fund
 - power-sector
-- groww
 - trading
 title: Listing of Units of Groww BSE Power ETF on BSE
 ---

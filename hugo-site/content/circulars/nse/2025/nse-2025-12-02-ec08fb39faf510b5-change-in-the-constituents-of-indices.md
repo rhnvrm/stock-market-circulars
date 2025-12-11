@@ -29,14 +29,14 @@ stocks:
 - UNIONBANK
 - YESBANK
 tags:
-- index-rebalancing
+- derivatives
+- futures-options
+- index-change
+- index-constituents
+- methodology-revision
 - nifty-bank
 - nifty-financial-services
-- methodology-revision
-- sebi-compliance
-- f-and-o
-- derivatives
-- index-constituents
+- sebi
 title: Change in the Constituents of Indices - Nifty Bank Index Revisions and New
   Inclusions
 ---

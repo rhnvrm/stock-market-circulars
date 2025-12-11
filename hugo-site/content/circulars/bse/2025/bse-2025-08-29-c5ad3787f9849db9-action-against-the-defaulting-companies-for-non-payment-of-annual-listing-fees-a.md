@@ -25,15 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539900'
-- '531083'
+- DIDL
+- NIHARINF
 tags:
 - annual-listing-fees
-- trading-suspension
 - compliance
-- equity-segment
 - dalmia-industrial
-- nihar-info-global
+- equity
+- suspension
 title: Revocation of Trading Suspension for Two Companies - Annual Listing Fees Compliance
 ---
 

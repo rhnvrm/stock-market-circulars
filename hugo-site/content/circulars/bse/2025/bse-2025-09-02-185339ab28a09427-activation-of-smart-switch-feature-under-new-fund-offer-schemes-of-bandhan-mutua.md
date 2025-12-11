@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - bandhan-mutual-fund
-- smart-switch
-- bse-star-mf
+- mutual-fund
 - nfo
+- smart-switch
 title: Activation of SMART Switch Feature for Bandhan Mutual Fund NFO Schemes on BSE
   StAR MF Platform
 ---

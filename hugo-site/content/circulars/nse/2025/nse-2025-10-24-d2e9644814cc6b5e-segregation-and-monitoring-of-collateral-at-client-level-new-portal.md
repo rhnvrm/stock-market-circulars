@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- collateral
 - client-segregation
+- collateral
 - compliance
 - portal
-- system-enhancement
 - reporting
+- system-enhancement
 title: Segregation and Monitoring of Collateral at Client Level - New Portal Extended
   Until October 28, 2025
 ---

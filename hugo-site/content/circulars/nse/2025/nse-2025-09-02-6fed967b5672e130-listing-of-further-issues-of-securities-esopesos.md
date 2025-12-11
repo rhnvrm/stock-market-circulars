@@ -43,10 +43,9 @@ stocks:
 - TCIEXP
 - TRACXN
 tags:
-- esop
-- esos
-- equity-listing
 - capital-market
+- equity
+- esop
 title: Listing of further issues of securities - ESOP/ESOS
 ---
 

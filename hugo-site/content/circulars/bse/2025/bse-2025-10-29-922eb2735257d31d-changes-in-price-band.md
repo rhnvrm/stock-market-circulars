@@ -30,7 +30,7 @@ stocks:
 - CARTRADE
 - CHANDNIMAC
 - DELPHIWML
-- HAMPSBIO
+- HAMPS
 - INFOBEANS
 - JAINCOPRJ
 - KALPACOM
@@ -50,10 +50,10 @@ stocks:
 - SYMBIOX
 - TREJHARA
 tags:
-- price-band
-- trading
-- surveillance
 - circuit-limits
+- price-band
+- surveillance
+- trading
 - volatility-control
 title: Price Band Revisions for 24 Securities Effective October 30, 2025
 ---

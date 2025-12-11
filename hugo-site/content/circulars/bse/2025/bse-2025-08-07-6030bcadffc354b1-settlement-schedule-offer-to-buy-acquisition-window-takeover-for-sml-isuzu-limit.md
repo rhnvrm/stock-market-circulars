@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SMLISUZU
 tags:
-- takeover
-- settlement
-- acquisition
-- otb
-- early-payin
 - demat-shares
+- early-payin
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SML ISUZU
   LIMITED
 ---

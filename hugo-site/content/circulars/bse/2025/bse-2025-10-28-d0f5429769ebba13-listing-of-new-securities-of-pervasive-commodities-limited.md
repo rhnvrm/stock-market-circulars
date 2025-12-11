@@ -28,12 +28,11 @@ source: bse
 stocks:
 - PERVASIVE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
-- pervasive-commodities
+- preferential-issue
 title: Listing of New Securities of Pervasive Commodities Limited
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - EUROASIA
 tags:
-- name-change
-- corporate-action
 - certificate-incorporation
 - company-law
+- corporate-action
+- name-change
 title: Change in Name of the Company - Euro Asia Exports Ltd to RRP Defense Limited
 ---
 

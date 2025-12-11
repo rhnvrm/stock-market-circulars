@@ -28,12 +28,10 @@ source: bse
 stocks:
 - ADANIENT
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- adani-enterprises
+- demat
 - equity
-- dematerialized-trading
+- renunciation
+- rights-issue
 - t-plus-1-settlement
 title: Rights Entitlements of ADANI ENTERPRISES LIMITED
 ---

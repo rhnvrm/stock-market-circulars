@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GOLDENTOB
 tags:
-- sebi-order
 - debarment
-- golden-tobacco
-- market-access-restriction
 - investigation
+- market-access-restriction
+- sebi-order
 - securities-violation
 title: SEBI Order Debarring Three Entities in Golden Tobacco Limited Matter
 ---

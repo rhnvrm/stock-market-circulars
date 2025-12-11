@@ -29,11 +29,9 @@ stocks:
 - MSRINDIA
 - SWITCHTECH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Addition of 2 Securities and Consolidated
   List
 ---

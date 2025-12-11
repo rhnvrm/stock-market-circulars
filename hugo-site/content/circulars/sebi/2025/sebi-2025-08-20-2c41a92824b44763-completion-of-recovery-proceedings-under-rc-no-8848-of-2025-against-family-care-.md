@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
-- enforcement
-- family-care-hospitals
 - compliance
+- enforcement
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8848 of 2025 against Family
   Care Hospitals Limited
 ---

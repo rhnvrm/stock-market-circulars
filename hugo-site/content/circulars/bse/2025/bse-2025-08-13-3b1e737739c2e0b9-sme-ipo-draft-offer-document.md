@@ -25,10 +25,10 @@ source: bse
 stocks:
 - LIOTECH
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
+- draft-document
 - liotech-industries
+- public-comments
+- sme
 title: SME IPO Draft Offer Document - LIOTECH INDUSTRIES LIMITED
 ---
 

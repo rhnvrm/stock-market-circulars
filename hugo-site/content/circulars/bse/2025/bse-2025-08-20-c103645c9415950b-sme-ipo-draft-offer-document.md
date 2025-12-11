@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SAKHIYA
 tags:
-- sme
+- draft-document
 - ipo
-- draft-offer-document
 - public-comments
 - sakhiya-skin-clinic
+- sme
 title: SME IPO Draft Offer Document - Sakhiya Skin Clinic Limited
 ---
 

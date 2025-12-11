@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- subscription-suspension
-- overseas-investment-limits
+- mutual-fund
+- overseas-investment
 - reit-funds
-- sebi-compliance
+- sebi
+- suspension
 title: Temporary Suspension of Fresh Subscriptions in Mahindra Manulife Asia Pacific
   REITs FOF
 ---

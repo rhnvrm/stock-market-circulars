@@ -27,12 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
 - aditya-birla-sun-life
-- medium-term-plan
 - credit-risk-fund
-- investment-restriction
+- medium-term-plan
+- mutual-fund
+- overseas-investment
+- subscription-limit
 title: Removal of Restriction on Subscription in Aditya Birla Sun Life Mutual Fund
   Schemes
 ---

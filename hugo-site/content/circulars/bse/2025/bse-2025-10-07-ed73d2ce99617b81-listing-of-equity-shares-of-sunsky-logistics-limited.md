@@ -26,10 +26,9 @@ source: bse
 stocks:
 - SUNSKY
 tags:
+- equity
 - listing
 - sme
-- new-listing
-- equity-shares
 - sunsky-logistics
 title: Listing of Equity Shares of SUNSKY LOGISTICS LIMITED
 ---

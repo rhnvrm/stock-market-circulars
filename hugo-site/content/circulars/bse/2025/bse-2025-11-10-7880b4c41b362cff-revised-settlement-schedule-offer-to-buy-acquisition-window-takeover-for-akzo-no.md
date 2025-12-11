@@ -27,13 +27,13 @@ source: bse
 stocks:
 - AKZONOBEL
 tags:
-- takeover
-- settlement
-- acquisition-window
-- revised-schedule
 - demat-shares
 - early-pay-in
+- otb
+- revised-schedule
+- settlement
 - stamp-duty
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   AKZO NOBEL INDIA LIMITED
 ---

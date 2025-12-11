@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-securities
 - additional-security
-- mortgage
-- property
 - century-joint-developments
 - century-living
+- debt-securities
+- mortgage
+- property
 title: Update Regarding Debt Securities of Century Joint Developments Private Limited
 ---
 

@@ -26,37 +26,35 @@ severity: medium
 source: bse
 stocks:
 - GARNETINTL
-- PARMESHWARMETAL
-- PHAARMASIA
+- PARMESHWAR
+- PHRMASI
 - REGALENT
 - SHANTIEDU
-- UNIVERSALCABLES
+- UNIVCABLES
 - VLEGOV
 - VLSFINANCE
-- AVIPOLYMERS
-- SOLVEXEDIBLES
+- AVI
+- SOLVEX
 - DANUBEIND
 - MADHUVEER
 - PACEECOM
 - SHIVTEXCHEM
 - SKMINERALS
-- SUPERTECHEV
+- SEVL
 - AMANAYAVENT
 - ANANDRATHI
 - ANJANIFOODS
 - ANSALBUILD
-- ARCLORGANICS
+- ARCL
 - ATISHAY
 - BATLIBOI
 - BHAGWATIAUTO
 - BHASKARAGRO
 tags:
-- surveillance
-- asm
-- short-term-asm
-- market-surveillance
-- trading-restrictions
+- asm-stage
 - sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

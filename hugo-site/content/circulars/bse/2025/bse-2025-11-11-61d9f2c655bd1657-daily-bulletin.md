@@ -31,23 +31,23 @@ stocks:
 - ASHIANA
 - AUTORIDERS
 - AXISBANK
-- BAIDFINSERV
+- BAIDFIN
 - BALRAMCHIN
 - CAPITALNUMBERS
 - CONCOR
 - EPLLTD
-- HBPORTFOLIO
+- HBPOR
 - HCPPLAST
 - ISEC
 tags:
+- bonus
 - book-closure
-- record-date
+- corporate-action
 - dividend
-- rights-issue
-- bonus-issue
-- ncd-redemption
-- corporate-actions
 - interest-payment
+- ncd
+- record-date
+- rights-issue
 title: Daily Bulletin No. 152/2025-2026 - Book Closure, Record Dates and Corporate
   Actions
 ---

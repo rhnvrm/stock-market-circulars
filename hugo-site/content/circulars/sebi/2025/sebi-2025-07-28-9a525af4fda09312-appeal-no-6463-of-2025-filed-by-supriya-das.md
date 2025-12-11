@@ -26,13 +26,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - extreme-loss-margin
-- options-trading
 - hedged-positions
-- margin-requirements
+- margin
+- options
+- rti
 - trader-education
-- appellate-authority
 title: RTI Appeal No. 6463 of 2025 by Supriya Das - Request for Information on Extreme
   Loss Margin and Trading Support Measures
 ---

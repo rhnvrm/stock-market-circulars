@@ -25,10 +25,9 @@ source: bse
 stocks:
 - OVAL
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
 title: Listing of Equity Shares of OVAL PROJECTS ENGINEERING LIMITED
 ---
 

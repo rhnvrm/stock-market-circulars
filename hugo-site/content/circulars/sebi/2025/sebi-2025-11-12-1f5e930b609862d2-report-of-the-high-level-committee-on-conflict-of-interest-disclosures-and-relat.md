@@ -28,10 +28,10 @@ source: sebi
 stocks: []
 tags:
 - conflict-of-interest
-- disclosures
-- governance
-- sebi-officials
+- corporate-governance
+- disclosure
 - regulatory-framework
+- sebi-officials
 - transparency
 title: Report of the High Level Committee on Conflict of Interest, Disclosures and
   related matters in respect of Members and Officials of SEBI

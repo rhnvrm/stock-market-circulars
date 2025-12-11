@@ -27,11 +27,11 @@ source: bse
 stocks:
 - AZADMOBIL
 tags:
-- listing
-- equity-shares
-- new-securities
-- lock-in
 - allotment
+- equity
+- listing
+- lock-in
+- new-securities
 title: Listing of New Securities of Azad India Mobility Limited
 ---
 

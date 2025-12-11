@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '531521'
+- DESHRAK
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- lock-in
 - desh-rakshak-aushdhalaya
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Desh Rakshak Aushdhalaya Ltd.
 ---
 

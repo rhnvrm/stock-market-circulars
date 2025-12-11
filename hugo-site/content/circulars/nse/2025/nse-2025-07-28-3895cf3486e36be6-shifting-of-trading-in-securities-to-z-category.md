@@ -26,12 +26,12 @@ source: nse
 stocks:
 - PERFECT
 tags:
-- z-category
 - financial-results
-- regulation-33
+- lodr
 - non-compliance
+- regulation-33
 - trading-restrictions
-- sebi-lodr
+- z-category
 title: Shifting of trading in Securities to Z Category
 ---
 

@@ -26,10 +26,9 @@ source: nse
 stocks:
 - OMFREIGHT
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of Om Freight Forwarders Limited (IPO)
 ---
 

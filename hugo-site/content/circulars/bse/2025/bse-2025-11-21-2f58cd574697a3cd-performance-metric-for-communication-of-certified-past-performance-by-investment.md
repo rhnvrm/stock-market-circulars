@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- performance-metrics
-- sebi-circular
-- disclosure
+- certification
 - compliance
+- disclosure
 - icai
 - icmai
-- certification
+- investment-adviser
+- performance-metrics
+- sebi
 title: Performance Metric for Communication of Certified Past Performance by Investment
   Advisers
 ---

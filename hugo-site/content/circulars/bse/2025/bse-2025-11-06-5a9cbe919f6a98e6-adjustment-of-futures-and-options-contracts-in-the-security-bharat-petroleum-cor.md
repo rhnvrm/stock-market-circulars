@@ -27,12 +27,11 @@ source: bse
 stocks:
 - BPCL
 tags:
-- derivatives
-- futures-and-options
+- contract-adjustment
 - corporate-action
-- dividend-adjustment
-- interim-dividend
-- equity-derivatives
+- derivatives
+- dividend
+- futures-options
 title: Adjustment of Futures and Options Contracts in BPCL for Interim Dividend
 ---
 

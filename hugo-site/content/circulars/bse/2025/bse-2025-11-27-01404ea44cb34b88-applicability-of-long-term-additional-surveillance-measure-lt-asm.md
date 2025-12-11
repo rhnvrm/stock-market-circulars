@@ -30,12 +30,11 @@ stocks:
 - CAPLINK
 - SVPGLOBAL
 tags:
-- surveillance
-- lt-asm
-- market-safety
-- trading-restrictions
+- asm-stage
 - asston-pharmaceuticals
-- mega-nirman
+- market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

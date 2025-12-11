@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DJML
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of new Securities of DJ Mediaprint & Logistics Limited
 ---
 

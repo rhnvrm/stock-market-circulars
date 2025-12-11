@@ -26,10 +26,9 @@ source: nse
 stocks:
 - EASTERNSILK
 tags:
-- offer-for-sale
-- settlement-calendar
-- eastern-silk-industries
 - capital-market
+- ofs
+- settlement-calendar
 - trading-schedule
 title: Settlement Calendar for Offer for Sale of shares of Eastern Silk Industries
   Limited

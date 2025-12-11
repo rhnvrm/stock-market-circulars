@@ -27,9 +27,9 @@ stocks:
 - IFSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- incred-financial-services
 - private-placement
-- InCred-Financial-Services
 title: Listing of new Commercial Paper of InCred Financial Services Limited
 ---
 

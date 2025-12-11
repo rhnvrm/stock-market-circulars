@@ -26,8 +26,8 @@ source: bse
 stocks:
 - DHANSAFAL
 tags:
+- equity
 - listing
-- equity-shares
 - lock-in
 - new-securities
 title: Listing of new securities of Dhansafal Finserve Limited

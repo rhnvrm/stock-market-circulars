@@ -26,16 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544595'
-- '544596'
+- ORKLAINDIA
+- SAFECURE
 tags:
-- index
+- bse-index
+- index-fund
 - ipo
 - listing
-- orkla-india
-- safecure-services
-- bse-ipo-index
-- bse-sme-ipo-index
 title: Additions to the BSE Indices - Orkla India Limited and Safecure Services Limited
 ---
 

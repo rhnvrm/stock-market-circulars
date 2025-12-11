@@ -27,13 +27,13 @@ stocks:
 - ENERGY
 - SMALL250
 tags:
+- capital-market
 - etf
 - listing
 - mirae-asset
+- mutual-fund
 - nifty-energy
 - nifty-smallcap-250
-- mutual-fund
-- capital-market
 title: Listing of units issued by Mirae Asset Investment Managers (India) Private
   Limited (Mirae Asset Nifty Energy ETF) (Mirae Asset Nifty Smallcap 250 ETF)
 ---

@@ -26,10 +26,9 @@ stocks:
 - ILFS
 tags:
 - debt-securities
-- trading-suspension
 - maturity
-- ilfs
-- debentures
+- ncd
+- suspension
 title: Suspension of Trading in ILFS Debt Securities Due to Maturity
 ---
 

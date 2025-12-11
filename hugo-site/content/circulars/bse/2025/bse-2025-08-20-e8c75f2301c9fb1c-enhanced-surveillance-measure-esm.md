@@ -39,11 +39,10 @@ stocks:
 - TRILIANCE
 - VALLABH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- surveillance-measures
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective August
   21, 2025
 ---

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544572'
+- SKFINDUS
 tags:
-- group-change
-- b-group
-- skf-india-industrial
-- trading-segment
+- asm-stage
 - equity
+- group-change
+- skf-india-industrial
+- trading
 title: Change in Group of Equity Shares of SKF India (Industrial) Limited
 ---
 

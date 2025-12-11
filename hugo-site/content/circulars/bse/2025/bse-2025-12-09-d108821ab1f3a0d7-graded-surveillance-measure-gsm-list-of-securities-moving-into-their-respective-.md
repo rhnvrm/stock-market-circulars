@@ -34,16 +34,9 @@ stocks:
 - INTEGRA
 - MONIND
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
-- N2N
-- WOODSVILLA
-- VIKALP
-- KCD
-- INTEGRA
-- MONIND
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

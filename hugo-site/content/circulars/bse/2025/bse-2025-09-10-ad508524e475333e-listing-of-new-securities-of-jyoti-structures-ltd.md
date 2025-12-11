@@ -25,13 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '513250'
+- JYOTISTRUC
 tags:
-- new-listing
-- equity-shares
+- conversion
+- equity
+- listing
 - preferential-issue
-- warrant-conversion
-- jyoti-structures
 title: Listing of New Securities of Jyoti Structures Ltd.
 ---
 

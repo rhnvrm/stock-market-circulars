@@ -38,15 +38,15 @@ stocks:
 - GLOBAL
 - GOLDCOIN
 - GUJINJECT
-- GVFILMS
+- GVFILM
 - HALEOS
 - ISHWARSHAKTI
-- JINDALLEASEFIN
-- KABRADRUGS
-- KIRANSYNTEX
+- JLL
+- KABRADG
+- KIRANSY-B
 - LS
 - MEGANIRMAN
-- PHAARMASIA
+- PHRMASI
 - PIONEER
 - RAPICUT
 - RISHABSPECIAL
@@ -71,15 +71,13 @@ stocks:
 - SOLVEX
 - VANDAN
 tags:
-- trade-to-trade
-- surveillance
-- trading-restrictions
+- asm-stage
 - scrip-transfer
-- T-group
-- XT-group
-- MT-group
-- TS-group
-- SME
+- sme
+- surveillance
+- trade-to-trade
+- trading-restrictions
+- ts-group
 title: Revision of Scrips in Trade to Trade Segment
 ---
 

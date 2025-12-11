@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
+- compliance
 - demand-notice
 - enforcement
-- family-care-hospitals
-- regulatory-action
-- compliance
+- regulatory
 title: Notice of Demand dated 07.08.2025 issued under RC no. 8850 of 2025 against
   Sowmya Gautam Deshpande and others in the matter of Family Care Hospitals Limited
 ---

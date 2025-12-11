@@ -26,24 +26,23 @@ source: bse
 stocks:
 - ASIANHOTEL
 - CLEDUCATE
-- HBLENGINEERING
+- HBLENGINE
 - KRBL
 - PENTOKEYORGANY
 - SUPIRONFOUND
 - TECHNICHEMORG
-- FIRSTFINTEC
+- FIRSTFIN
 - INTERGLOBEFI
 - KKALPAIND
 - LADDUGOPALONL
-- NDLVENTURES
+- NDLVENTURE
 - SAHARAMARI
 - ZIMLABS
 tags:
-- surveillance
-- asm
-- short-term
-- trading-restrictions
 - market-operations
+- short-term
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

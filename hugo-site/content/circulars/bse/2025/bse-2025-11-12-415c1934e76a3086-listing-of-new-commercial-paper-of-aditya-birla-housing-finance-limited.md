@@ -27,10 +27,9 @@ stocks:
 - ABHF
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
+- listing
 - private-placement
-- new-listing
-- abhf
 title: Listing of new Commercial Paper of Aditya Birla Housing Finance Limited
 ---
 

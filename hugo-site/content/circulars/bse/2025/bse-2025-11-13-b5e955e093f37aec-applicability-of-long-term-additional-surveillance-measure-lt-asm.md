@@ -32,14 +32,12 @@ stocks:
 - SAMSRITA
 - SWATI
 - STARLINEPS
-- VTM
+- VTMLTD
 - SWITCHING
 tags:
-- lt-asm
+- asm-stage
 - surveillance
-- asm-framework
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

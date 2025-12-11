@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology-change
-- information-technology
+- bse-focused-it
+- bse-index
 - derivatives
+- index-fund
+- information-technology
 - market-capitalization
-- BSE-500
-- BSE-Focused-IT
+- methodology-change
 title: Change in BSE Focused IT Methodology
 ---
 

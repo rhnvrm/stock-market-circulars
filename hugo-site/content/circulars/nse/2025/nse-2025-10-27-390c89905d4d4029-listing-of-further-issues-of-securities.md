@@ -37,12 +37,12 @@ stocks:
 - ICICIBANK
 - GANESHA
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - 11 Companies Including ICICI Bank,
   UNO Minda, Tata Elxsi
 ---

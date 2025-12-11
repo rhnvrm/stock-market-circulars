@@ -37,11 +37,11 @@ stocks:
 - KRISHCAP
 - XELPMOC
 tags:
-- long-term-asm
+- asm-stage
+- market-operations
+- regulatory-framework
 - surveillance
 - trading-restrictions
-- market-safety
-- regulatory-framework
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

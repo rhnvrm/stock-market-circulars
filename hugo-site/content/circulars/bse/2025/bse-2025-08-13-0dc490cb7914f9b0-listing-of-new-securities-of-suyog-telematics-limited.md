@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SUYOG
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoters
-- warrant-conversion
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Suyog Telematics Limited
 ---
 

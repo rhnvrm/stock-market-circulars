@@ -26,10 +26,9 @@ source: bse
 stocks:
 - TIMESGRE
 tags:
-- equity-listing
-- rights-issue
+- equity
 - new-securities
-- times-green-energy
+- rights-issue
 title: Listing of New Securities of Times Green Energy (India) Limited
 ---
 

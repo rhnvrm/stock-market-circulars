@@ -27,12 +27,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- futures-and-options
-- pre-open-session
-- mock-trading
-- trading-session
+- futures-options
 - market-operations
+- mock-trading
+- pre-open-session
 - technical-update
+- trading-session
 title: Introduction of Pre-Open Session in Equity Derivatives (F&O) Segment - Update
 ---
 

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ALLTIMEPLASTICS
+- ALLTIME
 tags:
+- aif
+- anchor-investor
+- equity
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- anchor-investors
-- aif
 title: Listing of Equity Shares of ALL TIME PLASTICS LIMITED with Lock-in Details
 ---
 

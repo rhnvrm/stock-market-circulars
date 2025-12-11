@@ -25,10 +25,10 @@ source: bse
 stocks:
 - CHT
 tags:
-- debt-securities
-- listing
 - cube-highways-trust
+- debt-securities
 - invit
+- listing
 - private-placement
 title: Listing of new debt securities of Cube Highways Trust
 ---

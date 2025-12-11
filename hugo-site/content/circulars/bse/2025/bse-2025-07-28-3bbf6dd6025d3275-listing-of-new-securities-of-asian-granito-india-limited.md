@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ASGRANITO
 tags:
-- new-listing
-- equity-shares
-- scheme-of-arrangement
 - asian-granito
+- equity
+- listing
+- scheme-of-arrangement
 title: Listing of new securities of Asian Granito India Limited
 ---
 

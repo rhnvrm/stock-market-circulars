@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
-- bse-star-mf
 - aditya-birla
 - equity
-- subscription
+- index-fund
+- mutual-fund
 - redemption
 - sip
+- subscription
 title: ADITYA BIRLA SUN LIFE BSE 500 QUALITY 50 INDEX FUND Reopening for Transactions
 ---
 

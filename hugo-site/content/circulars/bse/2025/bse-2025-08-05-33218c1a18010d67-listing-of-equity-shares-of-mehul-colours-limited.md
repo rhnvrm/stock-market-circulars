@@ -23,13 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MEHULCOLOURS
+- MEHUL
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- anchor-investors
 title: Listing of Equity Shares of MEHUL COLOURS LIMITED
 ---
 

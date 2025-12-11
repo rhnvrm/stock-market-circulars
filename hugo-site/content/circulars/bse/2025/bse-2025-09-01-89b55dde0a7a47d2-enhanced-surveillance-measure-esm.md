@@ -28,11 +28,10 @@ stocks:
 - KUBERUDO
 - TNSTEEL
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- surveillance-measures
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---
 

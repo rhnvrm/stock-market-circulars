@@ -26,12 +26,11 @@ source: nse
 stocks:
 - WAAREEINDO
 tags:
-- offer-for-sale
-- ofs
+- equity
 - indosolar
-- eofs-platform
+- ofs
 - trading
-- equity-shares
+- trading-platform
 title: Proposed Offer for Sale of Indosolar Limited
 ---
 

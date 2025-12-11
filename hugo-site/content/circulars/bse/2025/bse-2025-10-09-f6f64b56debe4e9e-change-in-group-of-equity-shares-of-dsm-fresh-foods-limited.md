@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544568'
+- ZAPPFRESH
 tags:
-- group-change
-- trading-segment
-- sme
-- rolling-segment
-- trade-for-trade
 - dsm-fresh-foods
+- group-change
+- rolling-segment
+- sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of DSM Fresh Foods Limited
 ---
 

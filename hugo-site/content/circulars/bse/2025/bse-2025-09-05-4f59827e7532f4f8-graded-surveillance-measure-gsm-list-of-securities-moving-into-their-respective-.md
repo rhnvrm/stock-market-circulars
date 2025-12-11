@@ -30,10 +30,7 @@ stocks:
 - GOLECHHA
 - PHOTONCAP
 tags:
-- gsm
 - surveillance
-- graded-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: GSM Framework - Four Securities Moving to Stage I and II
 ---

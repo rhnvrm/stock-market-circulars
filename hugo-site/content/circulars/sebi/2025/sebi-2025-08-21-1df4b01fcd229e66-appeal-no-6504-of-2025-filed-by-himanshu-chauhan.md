@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- jurisdiction
-- fund-raising
-- rbi-regulations
 - business-entities
+- fund-raising
+- jurisdiction
 - profit-loss-sharing
+- rbi-regulations
+- rti
 title: Appeal No. 6504 of 2025 filed by Himanshu Chauhan - RTI Request regarding Business
   Entity Fund Raising Regulations
 ---

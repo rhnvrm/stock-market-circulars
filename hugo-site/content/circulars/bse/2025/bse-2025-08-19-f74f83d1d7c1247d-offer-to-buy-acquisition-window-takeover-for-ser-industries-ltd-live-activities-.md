@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SERIND
 tags:
-- takeover
-- acquisition
+- equity
 - otb
 - ser-industries
-- equity
+- takeover
 - trading-schedule
 title: Offer to Buy (Takeover) for SER Industries Ltd - Live Activities Schedule
 ---

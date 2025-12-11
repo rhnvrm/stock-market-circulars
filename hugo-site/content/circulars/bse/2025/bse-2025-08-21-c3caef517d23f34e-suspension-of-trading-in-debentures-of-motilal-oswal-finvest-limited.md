@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MOFL
 tags:
-- debentures
-- trading-suspension
 - interest-payment
-- redemption
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MOTILAL OSWAL FINVEST LIMITED
 ---
 

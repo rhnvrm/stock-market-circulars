@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ASIRVAD
 tags:
+- asirvad-microfinance
+- bond
 - debt-securities
 - listing
-- asirvad-microfinance
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of Asirvad Microfinance Limited
 ---
 

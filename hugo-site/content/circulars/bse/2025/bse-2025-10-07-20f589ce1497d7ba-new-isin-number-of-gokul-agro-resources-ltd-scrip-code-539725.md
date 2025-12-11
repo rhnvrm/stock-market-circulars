@@ -26,13 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539725'
+- GOKULAGRO
 tags:
-- isin-change
 - corporate-action
-- share-subdivision
-- equity-shares
-- gokul-agro-resources
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for Gokul Agro Resources Ltd - Equity Share Sub-Division
 ---
 

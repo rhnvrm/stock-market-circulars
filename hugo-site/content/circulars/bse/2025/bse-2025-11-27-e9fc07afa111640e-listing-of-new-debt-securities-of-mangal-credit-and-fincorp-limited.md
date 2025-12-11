@@ -28,10 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- mangal-credit-fincorp
-- ncds
-- new-listing
 title: Listing of New Debt Securities of Mangal Credit and Fincorp Limited
 ---
 

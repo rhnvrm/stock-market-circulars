@@ -26,15 +26,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- fatf
 - aml
+- anti-money-laundering
 - cft
 - compliance
-- anti-money-laundering
 - counter-terrorist-financing
-- sebi
+- fatf
 - jurisdictions
 - monitoring
+- sebi
 title: FATF Public Statement on Jurisdictions - October 2025 Plenary Update
 ---
 

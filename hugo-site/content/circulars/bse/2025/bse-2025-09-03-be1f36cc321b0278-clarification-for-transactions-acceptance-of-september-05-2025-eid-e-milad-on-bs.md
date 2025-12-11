@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- holiday-schedule
-- transaction-processing
+- holiday
+- mutual-fund
 - nav-applicability
 - settlement
+- transaction-processing
 title: Clarification for transactions acceptance of September 05, 2025 (Eid-e-Milad)
   on BSE StAR MF Platform
 ---

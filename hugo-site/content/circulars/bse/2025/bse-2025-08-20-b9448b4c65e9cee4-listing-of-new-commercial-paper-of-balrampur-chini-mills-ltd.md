@@ -26,10 +26,10 @@ source: bse
 stocks:
 - BALRAMCHIN
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - balrampur-chini
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Balrampur Chini Mills Ltd.
 ---

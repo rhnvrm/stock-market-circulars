@@ -73,11 +73,10 @@ stocks:
 - SAMYAK
 - MIDEAST
 tags:
-- registrar-transfer-agents
-- rta
+- adroit-corporate
 - august-2025
 - company-visits
-- adroit-corporate
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for the month of August 2025
 ---
 

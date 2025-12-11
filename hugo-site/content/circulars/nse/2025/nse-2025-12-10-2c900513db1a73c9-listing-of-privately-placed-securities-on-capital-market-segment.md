@@ -27,11 +27,11 @@ stocks:
 - AAFS
 - SCL
 tags:
-- listing
-- debt-securities
-- privately-placed
-- capital-market
 - alpha-alternatives
+- capital-market
+- debt-securities
+- listing
+- privately-placed
 - sammaan-capital
 title: Listing of Privately Placed Securities - Three Debt Securities
 ---

@@ -30,14 +30,13 @@ source: sebi
 stocks:
 - FOURSEASONFARMS
 tags:
-- recovery-order
 - collective-investment-schemes
-- refund-proceedings
-- prohibitory-order
 - defaulter
-- four-season-farms
-- enforcement-action
+- enforcement
 - investor-protection
+- prohibitory-order
+- recovery
+- refund-proceedings
 title: Order No. 007 of 2025 dated 10.11.2025 issued under RC No. 0436 of 2014 in
   the matter of M/s Four Season Farms Limited
 ---

@@ -28,14 +28,13 @@ source: sebi
 stocks:
 - MEDIAONE
 tags:
-- adjudication-order
-- sast-regulations
+- adjudication
 - merchant-bankers
-- open-offer
-- takeover
-- substantial-acquisition
+- non-compliance
 - penalty
-- compliance-violation
+- regulatory-framework
+- sast
+- takeover
 title: Adjudication Order in the matter of Mediaone Global Entertainment Limited
 ---
 

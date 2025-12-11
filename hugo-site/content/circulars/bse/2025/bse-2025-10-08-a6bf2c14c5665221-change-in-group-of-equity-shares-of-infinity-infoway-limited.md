@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544567'
+- INFINITY
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- mt-group
-- m-group
+- trade-for-trade
 title: Change in Group of Equity Shares of Infinity Infoway Limited
 ---
 

@@ -74,11 +74,10 @@ stocks:
 - PEARL
 - PRAXIS
 tags:
-- esm
-- surveillance
-- trading
 - framework-update
 - risk-management
+- surveillance
+- trading
 title: Enhanced Surveillance Measure (ESM) Framework Updates - October 2025
 ---
 

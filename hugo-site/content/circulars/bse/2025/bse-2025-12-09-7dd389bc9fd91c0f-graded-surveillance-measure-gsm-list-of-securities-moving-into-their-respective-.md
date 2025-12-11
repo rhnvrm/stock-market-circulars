@@ -33,11 +33,8 @@ stocks:
 - INTEGRA
 - MONIND
 tags:
-- gsm
 - surveillance
 - trading-restrictions
-- market-surveillance
-- graded-surveillance-measure
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages II and
   IV
 ---

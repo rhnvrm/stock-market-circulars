@@ -28,13 +28,12 @@ source: bse
 stocks:
 - POWERGRID
 tags:
-- bonds
-- part-redemption
+- bond
+- debt-securities
+- face-value-change
 - interest-payment
-- debt-market
-- power-grid
-- reduced-face-value
 - record-date
+- redemption
 title: Part Redemption of Bonds of POWER GRID CORPORATION OF INDIA LIMITED
 ---
 

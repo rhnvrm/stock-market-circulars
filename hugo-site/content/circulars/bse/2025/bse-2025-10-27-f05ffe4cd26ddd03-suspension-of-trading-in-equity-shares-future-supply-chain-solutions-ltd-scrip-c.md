@@ -28,12 +28,12 @@ source: bse
 stocks:
 - FUTURESL
 tags:
-- trading-suspension
-- nclt-order
-- insolvency
-- share-cancellation
-- resolution-plan
 - ibc-2016
+- insolvency
+- nclt
+- resolution-plan
+- share-cancellation
+- suspension
 title: 'Suspension of Trading in Future Supply Chain Solutions Ltd. (Scrip Code: 540798)'
 ---
 

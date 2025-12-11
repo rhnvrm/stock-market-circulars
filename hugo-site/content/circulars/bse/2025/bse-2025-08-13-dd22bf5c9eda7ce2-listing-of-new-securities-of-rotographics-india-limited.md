@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ROTOGRAPHICS
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- rotographics
+- preferential-issue
 title: Listing of New Securities of Rotographics (India) Limited
 ---
 

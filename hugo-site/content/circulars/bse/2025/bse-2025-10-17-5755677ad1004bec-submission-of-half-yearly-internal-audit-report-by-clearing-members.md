@@ -28,12 +28,11 @@ source: bse
 stocks: []
 tags:
 - clearing-members
-- internal-audit
-- compliance
-- margin-collection
 - client-funds
-- audit-report
+- compliance
 - half-yearly
+- margin-collection
+- system-audit
 title: Submission of Half Yearly Internal Audit Report by Clearing Members
 ---
 

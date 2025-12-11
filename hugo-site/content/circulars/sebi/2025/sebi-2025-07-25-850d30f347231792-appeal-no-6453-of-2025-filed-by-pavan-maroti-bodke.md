@@ -24,12 +24,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- scores-system
-- pan-blocking
+- appeal
 - email-blocking
-- appellate-authority
 - information-disclosure
+- pan-blocking
+- rti
+- scores-system
 title: RTI Appeal No. 6453 of 2025 - Pavan Maroti Bodke vs CPIO SEBI Mumbai
 ---
 

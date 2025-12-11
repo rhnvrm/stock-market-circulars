@@ -24,33 +24,26 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '730006'
-- '506248'
-- '590006'
-- '973220'
-- '533227'
-- '727781'
-- '727796'
-- '975348'
-- '524824'
-- '522650'
-- '500052'
-- '729492'
-- '729536'
-- '542866'
-- '973405'
-- '532365'
-- '544239'
+- AMNPLST
+- AMRUTANJAN
+- 8AHL41
+- AHLEAST
+- 1160AFL26
+- BALPHARMA
+- BEMHY
+- BEPL
+- DSSL
+- ECOSMOBLTY
 tags:
-- daily-bulletin
+- bonus
 - book-closure
-- record-date
-- dividend
-- corporate-actions
 - commercial-paper
+- corporate-action
+- daily-bulletin
+- dividend
+- record-date
 - redemption
-- stock-split
-- bonus-issue
+- split
 title: Daily Bulletin - Book Closure/Record Dates and Corporate Actions
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TVSMOTOR
 tags:
-- scheme-of-arrangement
-- bonus-issue
-- non-convertible-preference-shares
-- tvs-motor
+- bonus
 - corporate-action
+- non-convertible-preference-shares
+- scheme-of-arrangement
 title: Scheme of Arrangement - Bonus Issue of Non Convertible Preference Shares by
   TVS Motor Company Ltd
 ---

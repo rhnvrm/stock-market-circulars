@@ -40,7 +40,7 @@ stocks:
 - DARJEELINGR
 - DAVIN
 - DHRUVA
-- DIGJAM
+- DIGJAMLMTD
 - DIKSHA
 - ESCORP
 - EUREKA
@@ -49,7 +49,7 @@ stocks:
 - FRATELLI
 - GGENG
 - GALADA
-- GVFILMS
+- GVFILM
 - HMELECTRO
 - INDUCTO
 - INLAND
@@ -90,13 +90,13 @@ stocks:
 - TAKE
 - TEAMO
 - VARDHMAN
-- VTM
+- VTMLTD
 - YAMINI
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: BSE Revises Price Bands for 68 Securities Effective August 18, 2025
 ---
 

@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- suspension
-- debentures
+- debt-securities
+- india-infradebt-limited
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- debt-market
-- india-infradebt-limited
+- suspension
 title: Suspension of Trading in Debentures of India Infradebt Limited
 ---
 

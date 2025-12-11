@@ -25,12 +25,12 @@ source: bse
 stocks:
 - THDCL
 tags:
+- care-rating
 - commercial-paper
-- debt-listing
+- debt-securities
+- ind-rating
 - private-placement
 - tata-housing
-- care-rating
-- ind-rating
 title: Listing of new Commercial Paper of Tata Housing Development Company Limited
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - OXFORD
 tags:
+- asm-stage
 - group-change
-- x-group
-- trading-classification
 - oxford-industries
+- trading-classification
 title: Oxford Industries Ltd moved to 'X' group effective August 21, 2025
 ---
 

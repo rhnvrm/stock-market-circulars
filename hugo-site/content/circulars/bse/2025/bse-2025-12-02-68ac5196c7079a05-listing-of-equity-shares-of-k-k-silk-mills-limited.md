@@ -26,11 +26,9 @@ source: bse
 stocks:
 - KKSILK
 tags:
+- equity
 - listing
-- equity-shares
-- sme-segment
-- new-listing
-- KKSILK
+- sme
 title: Listing of Equity Shares of K K SILK MILLS LIMITED
 ---
 

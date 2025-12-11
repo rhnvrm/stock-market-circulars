@@ -28,13 +28,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- t+0-settlement
-- qualified-stock-brokers
-- settlement-cycle
-- timeline-extension
 - equity-cash-market
-- sebi-circular
+- extension
+- sebi
+- settlement-calendar
+- stock-broker
 - system-implementation
+- t0-settlement
 title: Further Extension of Timeline for Mandatory Implementation of T+0 Settlement
   Systems by Qualified Stock Brokers
 ---

@@ -27,11 +27,9 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- enforcement
 - compliance-completion
-- sms-techsoft
-- recovery-proceedings
+- enforcement
+- recovery
 title: SEBI Completion Order - Recovery Certificate No. 5548/2022 Against Mr. Kirtikumar
   Rasiklal Shah in SMS Techsoft (India) Ltd. Matter
 ---

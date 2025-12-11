@@ -28,14 +28,10 @@ source: bse
 stocks:
 - OMANSH
 tags:
-- offer-to-buy
-- acquisition-window
+- equity
+- otb
 - takeover
-- OTB
-- OMANSH
-- equity-shares
-- iBBS
-- RTRMS
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for OMANSH ENTERPRISES LTD - Live
   Activities Schedule
 ---

@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDIAGLYCOLS
+- INDIAGLYCO
 tags:
-- share-split
-- sub-division
 - corporate-action
-- equity-shares
+- equity
 - record-date
+- split
 title: Sub-division of Equity Shares of India Glycols Ltd - Share Split from Rs.10
   to Rs.5
 ---

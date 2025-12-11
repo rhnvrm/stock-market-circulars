@@ -29,10 +29,9 @@ stocks:
 - SINNAR
 - OSCAR
 tags:
-- gsm
-- surveillance
+- asm-stage
 - enhanced-monitoring
-- stage-migration
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

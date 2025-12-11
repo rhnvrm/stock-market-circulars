@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- nse
-- data-outsourcing
 - client-code-modification
-- insider-trading
-- compliance-violations
-- penalty-waiver
+- compliance-order
+- data-outsourcing
 - error-trades
+- investigation
+- nse
+- penalty-waiver
+- settlement-order
 title: Settlement Order for NSE - Inspection Violations (2021-2022)
 ---
 

@@ -28,14 +28,12 @@ source: bse
 stocks:
 - AXISBANK
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- debt-market
-- axis-bank
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AXIS BANK LTD.
 ---
 

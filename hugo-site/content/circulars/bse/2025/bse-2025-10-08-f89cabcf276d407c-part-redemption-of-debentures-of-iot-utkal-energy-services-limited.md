@@ -27,12 +27,12 @@ source: bse
 stocks:
 - IOTUTKAL
 tags:
-- debentures
-- debt
-- redemption
-- interest-payment
-- corporate-actions
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of IOT UTKAL ENERGY SERVICES LIMITED
 ---
 

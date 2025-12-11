@@ -27,12 +27,10 @@ source: sebi
 stocks:
 - TIMBORHOME
 tags:
-- recovery-certificate
 - cancellation-order
-- enforcement
-- timbor-home-ltd
 - compliance
-- recovery-proceedings
+- enforcement
+- recovery
 title: SEBI Order for Compliance - Cancellation of Recovery Certificate No. 2247 of
   2019 against Abhijeet Dwarkadas Daga in Timbor Home Ltd. Matter
 ---

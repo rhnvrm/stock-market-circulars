@@ -27,10 +27,10 @@ stocks:
 - TPRPL
 tags:
 - bond-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
 - trading-halt
-- corporate-actions
 title: Suspension of Trading in Bonds of TULSI PALACE RESORT PRIVATE LTD
 ---
 

@@ -37,10 +37,10 @@ stocks:
 - TREEHOUSE
 - VASHU
 tags:
-- price-band
-- trading-parameters
 - market-operations
+- price-band
 - surveillance
+- trading-operations
 title: Price Band Revisions for 12 Listed Companies - Effective August 20, 2025
 ---
 

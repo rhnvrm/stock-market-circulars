@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks:
 - UNIPRO
+- UPROTECH
 tags:
-- trading-suspension
-- revocation
-- equity-shares
+- equity
+- release
+- suspension
 - unipro-technologies
-- '540189'
 title: Revocation of Suspension in trading of equity shares of Unipro Technologies
   Ltd.
 ---

@@ -26,13 +26,12 @@ source: bse
 stocks:
 - SAMUNNATI
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- debt-segment
+- debt-securities
+- interest-payment
+- ncd
 - record-date
 - redemption
-- interest-payment
+- suspension
 title: Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl
-- land-allotment
-- appeal-dismissed
+- appeal
 - information-not-available
+- land-allotment
+- pacl
+- rti
 title: RTI Appeal No. 6491 of 2025 by Anita Devi regarding PACL land allotment records
   - Appeal dismissed
 ---

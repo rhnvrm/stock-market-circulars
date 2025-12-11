@@ -28,8 +28,8 @@ stocks: []
 tags:
 - executive-appointment
 - leadership-change
-- sebi-management
 - organizational-structure
+- sebi-management
 title: Shri Sanjay Chandrakant Purao takes charge as Executive Director, SEBI
 ---
 

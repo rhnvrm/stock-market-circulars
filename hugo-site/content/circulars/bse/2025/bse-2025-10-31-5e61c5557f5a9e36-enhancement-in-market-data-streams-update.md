@@ -26,16 +26,16 @@ severity: high
 source: bse
 stocks: []
 tags:
+- commodities
+- currency
+- derivatives
+- egr
+- equity
+- extension
 - market-data
+- market-infrastructure
 - nfcast
 - technology
-- trading-systems
-- deadline-extension
-- equity
-- derivatives
-- currency
-- commodities
-- egr
 title: Extension of NFCAST Market Data Stream Format Transition to November 10, 2025
 ---
 

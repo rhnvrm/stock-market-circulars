@@ -27,10 +27,8 @@ stocks:
 - JINDALSAW
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- jindal-saw
-- debt-market
 title: Listing of new Commercial Paper of Jindal Saw Limited
 ---
 

@@ -25,11 +25,11 @@ source: bse
 stocks:
 - NAVIFIN
 tags:
+- bond-listing
 - debt-securities
 - listing
 - navi-finserv
 - private-placement
-- bond-listing
 title: Listing of new debt securities of Navi Finserv Limited
 ---
 

@@ -24,18 +24,16 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PANTHINFINITY
-- ANKAINDIA
-- EKANSHCONCEPTS
+- PANTH
+- ANKIN
+- EKANSH
 - EMAINDIA
 - RELIABLEVENTURES
-- SAMSRITALABS
+- SAMSRITA
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Moving In
   and Out
 ---

@@ -37,11 +37,9 @@ stocks:
 - TRUSTWAVE
 - YASH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ARSS
 tags:
-- trading-suspension
 - insolvency
 - nclt
-- ibc
 - resolution-plan
+- suspension
 title: Suspension of trading in equity shares - ARSS Infrastructure Projects Limited
 ---
 

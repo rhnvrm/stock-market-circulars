@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity-scheme
+- kotak-mutual-fund
 - mutual-fund
 - nfo
-- kotak-mutual-fund
-- equity-scheme
-- nse-mf-invest
-- new-fund-offer
+- trading-platform
 title: Launch of Kotak Rural Opportunities Fund NFO on NSE MF Invest Platform
 ---
 

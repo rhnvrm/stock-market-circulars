@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- arbitrage-fund
 - mutual-fund
 - nfo
-- trust-mutual-fund
-- arbitrage-fund
 - sip
-- bse-star-mf
+- trust-mutual-fund
 title: Launch of TRUSTMF ARBITRAGE FUND NFO with SIP facility on BSE StAR MF Platform
 ---
 

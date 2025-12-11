@@ -27,13 +27,12 @@ source: bse
 stocks:
 - HDBFSL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- debt-market
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of HDB Financial Services Limited
 ---
 

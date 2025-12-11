@@ -26,12 +26,12 @@ source: nse
 stocks:
 - HEUBACH
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- heubach-colorants
 - capital-market
 - clearing
+- heubach-colorants
+- settlement-calendar
+- takeover
+- tender-offer
 title: Settlement Calendar for Takeover Offer under Tender Offer scheme of Heubach
   Colorants India Limited
 ---

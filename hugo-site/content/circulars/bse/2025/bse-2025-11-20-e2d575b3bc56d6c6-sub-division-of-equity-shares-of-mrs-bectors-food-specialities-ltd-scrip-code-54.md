@@ -28,12 +28,11 @@ source: bse
 stocks:
 - MRSB
 tags:
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
-- mrs-bectors
+- equity
 - face-value-change
+- mrs-bectors
+- split
 title: Sub-Division of Equity Shares of Mrs. Bectors Food Specialities Ltd (1:5 Stock
   Split)
 ---

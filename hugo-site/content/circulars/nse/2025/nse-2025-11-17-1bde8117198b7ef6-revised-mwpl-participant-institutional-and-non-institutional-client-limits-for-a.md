@@ -28,12 +28,10 @@ source: nse
 stocks:
 - ADANIENT
 tags:
-- securities-lending-borrowing
-- position-limits
-- ADANIENT
-- market-wide-position-limit
-- institutional-limits
+- collateral
+- institutional-investor
 - participant-limits
+- position-limits
 title: Revised MWPL, Participant, Institutional and Non-Institutional Client Limits
   for ADANIENT
 ---

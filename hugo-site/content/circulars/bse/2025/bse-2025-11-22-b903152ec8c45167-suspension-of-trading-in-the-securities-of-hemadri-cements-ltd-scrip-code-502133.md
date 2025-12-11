@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HEMADRI
 tags:
-- trading-suspension
-- voluntary-liquidation
-- insolvency-bankruptcy-code
-- hemadri-cements
 - delisting
+- hemadri-cements
+- insolvency
+- suspension
+- voluntary-liquidation
 title: Suspension of Trading in Hemadri Cements Ltd. due to Voluntary Liquidation
 ---
 

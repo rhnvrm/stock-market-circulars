@@ -26,10 +26,10 @@ source: nse
 stocks: []
 tags:
 - mock-trading
-- neat-plus
-- system-upgrade
-- trading-hours
 - pre-trade-risk-controls
+- system-update
+- trading-hours
+- trading-platform
 title: Mock Trading Session August 02, 2025 - NEAT+ 7.8.3 Release
 ---
 

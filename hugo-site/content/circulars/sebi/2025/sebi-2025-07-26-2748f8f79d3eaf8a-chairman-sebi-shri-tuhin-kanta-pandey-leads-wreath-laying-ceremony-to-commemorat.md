@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- press-release
-- kargil-vijay-diwas
 - ceremony
-- veterans
 - commemoration
+- kargil-vijay-diwas
+- press-release
+- veterans
 title: Chairman SEBI Leads Wreath Laying Ceremony for Kargil Vijay Diwas
 ---
 

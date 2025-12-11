@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- conglomerate-fund
+- equity
 - icici-prudential
-- subscriptions
-- redemptions
+- mutual-fund
+- nmf-invest
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
-- conglomerate-fund
-- nmf-invest
 title: Availability of ICICI Prudential Conglomerate Fund for Ongoing Transactions
   on NSE MF Invest Platform
 ---

@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- nri
-- futures-and-options
-- cp-code
 - clearing-members
+- cp-code
+- futures-options
+- nri
 - operational-guidelines
 title: Operational Guidelines for Non-Resident Indians (NRI) in F&O Segment
 ---

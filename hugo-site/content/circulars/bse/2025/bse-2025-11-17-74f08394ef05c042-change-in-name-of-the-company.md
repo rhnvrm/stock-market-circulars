@@ -26,10 +26,10 @@ source: bse
 stocks:
 - IKOMA
 tags:
-- name-change
-- incorporation-certificate
+- certificate
 - company-affairs
 - corporate-action
+- name-change
 title: IKOMA Technologies Limited - Company Name Change Certificate
 ---
 

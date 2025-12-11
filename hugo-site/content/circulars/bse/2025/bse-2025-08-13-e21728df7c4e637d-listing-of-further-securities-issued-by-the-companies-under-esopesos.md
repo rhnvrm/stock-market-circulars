@@ -26,7 +26,7 @@ source: bse
 stocks:
 - ABCAPITL
 - APLAPOLLO
-- BOROSIL
+- BOROLTD
 - CIPLA
 - DELHIVERY
 - FEDERALBNK
@@ -38,9 +38,7 @@ stocks:
 - VMART
 tags:
 - esop
-- esos
 - listing
-- employee-stock-options
 - securities
 - trading
 title: Listing of Further Securities Issued Under ESOP/ESOS - August 14, 2025

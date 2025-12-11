@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SCOOBEE
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - equity
 - renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for SCOOBEE DAY GARMENTS (INDIA) LIMITED
 ---
 

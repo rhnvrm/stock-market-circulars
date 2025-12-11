@@ -26,11 +26,9 @@ source: bse
 stocks:
 - REPONO
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- repono
 title: Listing of Equity Shares of Repono Limited
 ---
 

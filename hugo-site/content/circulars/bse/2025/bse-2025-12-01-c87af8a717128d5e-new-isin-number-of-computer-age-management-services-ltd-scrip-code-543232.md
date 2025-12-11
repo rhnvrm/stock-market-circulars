@@ -28,12 +28,11 @@ source: bse
 stocks:
 - CAMS
 tags:
-- isin-change
-- share-subdivision
-- corporate-action
-- equity-shares
-- cams
 - computer-age-management-services
+- corporate-action
+- equity
+- face-value-change
+- isin
 title: New ISIN Number for Computer Age Management Services Ltd - Sub-Division of
   Equity Shares
 ---

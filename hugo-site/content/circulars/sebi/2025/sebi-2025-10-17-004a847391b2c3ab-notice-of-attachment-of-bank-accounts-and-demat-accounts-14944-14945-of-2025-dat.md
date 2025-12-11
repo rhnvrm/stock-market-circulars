@@ -28,14 +28,14 @@ source: sebi
 stocks:
 - ECOFOOD
 tags:
-- attachment-notice
+- attachment
 - bank-accounts
-- demat-accounts
 - defaulter
-- recovery-proceedings
-- ipo-related
+- demat
 - eco-friendly-food-processing-park-limited
-- enforcement-action
+- enforcement
+- ipo-related
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Prakash Gupta
   and Shri Trading Co (Defaulter) - Recovery Certificate No. 8080 of 2024
 ---

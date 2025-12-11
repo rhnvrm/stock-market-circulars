@@ -26,13 +26,12 @@ source: bse
 stocks:
 - METHODHUB
 tags:
-- listing
+- equity
 - ipo
-- shareholding-pattern
-- equity-shares
-- methodhub-software
+- listing
+- lodr
 - regulation-31
-- sebi-lodr
+- shareholding-pattern
 title: Listing of Equity Shares of METHODHUB SOFTWARE LIMITED
 ---
 

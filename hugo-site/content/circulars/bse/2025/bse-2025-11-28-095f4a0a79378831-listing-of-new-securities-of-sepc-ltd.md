@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SEPC
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
-- SEPC
+- equity
+- listing
+- rights-issue
 title: Listing of New Securities of SEPC Ltd.
 ---
 

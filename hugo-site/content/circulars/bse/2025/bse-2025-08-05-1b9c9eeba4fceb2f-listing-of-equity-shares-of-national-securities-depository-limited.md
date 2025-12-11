@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NSDL
 tags:
-- equity-listing
-- lock-in
-- ipo
-- anchor-investors
 - aif-category-ii
-- nsdl
+- anchor-investor
+- equity
+- ipo
+- lock-in
 title: Listing of Equity Shares of National Securities Depository Limited - Lock-in
   Details
 ---

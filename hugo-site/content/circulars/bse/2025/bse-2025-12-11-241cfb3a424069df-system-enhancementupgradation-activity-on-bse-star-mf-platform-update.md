@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
-- system-enhancement
-- bse-star-mf
 - platform-maintenance
-- schedule-change
+- revised-schedule
+- system-enhancement
 title: System Enhancement Activity on BSE StAR MF Platform Deferred
 ---
 

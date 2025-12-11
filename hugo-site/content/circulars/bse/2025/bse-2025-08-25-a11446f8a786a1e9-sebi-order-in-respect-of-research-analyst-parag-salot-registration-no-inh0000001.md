@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- intermediary-sanctions
+- investigation
+- non-compliance
+- regulatory
 - research-analyst
 - sebi-order
-- fraudulent-practices
-- compliance-violation
-- regulatory-action
-- intermediary-sanctions
 title: SEBI Order Against Research Analyst Parag Salot for Fraudulent Practices and
   Regulatory Violations
 ---

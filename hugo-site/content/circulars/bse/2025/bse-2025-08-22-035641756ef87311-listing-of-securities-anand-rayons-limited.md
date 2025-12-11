@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ANANDRAYONS
+- ARL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-issue
 - lock-in
+- preferential-issue
 title: Listing of Securities - Anand Rayons Limited (1,836,333 Equity Shares)
 ---
 

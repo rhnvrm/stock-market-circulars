@@ -33,13 +33,12 @@ stocks:
 - JPTSEC
 - SHREMANU
 - ACEEDU
-- RAPCORP
+- RAP
 tags:
-- gsm
-- surveillance
+- market-operations
 - monitoring
-- market-regulation
 - price-volatility
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

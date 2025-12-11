@@ -27,12 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
+- compliance
 - enforcement
 - recovery
-- attachment
 - unregistered-investment-adviser
-- bank-attachment
-- compliance
 title: SEBI Order for Compliance – Notice of Attachment for Bank Recovery Certificate
   No. 8491 of 2025 against INSIGHT RESEARCH Proprietor Anil Gurjar in the matter of
   unregistered investment adviser

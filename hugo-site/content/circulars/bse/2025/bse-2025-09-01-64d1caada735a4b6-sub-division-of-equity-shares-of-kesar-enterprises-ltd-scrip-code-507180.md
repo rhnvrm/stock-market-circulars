@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KESAR
 tags:
-- subdivision
 - corporate-action
-- equity-shares
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: Sub-Division of Equity Shares of Kesar Enterprises Ltd
 ---
 

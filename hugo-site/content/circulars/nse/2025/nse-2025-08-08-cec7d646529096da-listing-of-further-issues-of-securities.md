@@ -31,11 +31,11 @@ stocks:
 - ICICIBANK
 - RBLBANK
 tags:
-- listing
-- equity-shares
+- equity
 - esop
+- further-issue
+- listing
 - preferential-issue
-- further-issues
 title: Listing of Further Issues of Securities - Multiple Companies
 ---
 

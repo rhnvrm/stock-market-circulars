@@ -25,12 +25,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544011'
+- VPL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- preferential-issue
 - vrundavan-plantation
 title: Listing of New Securities of Vrundavan Plantation Limited
 ---

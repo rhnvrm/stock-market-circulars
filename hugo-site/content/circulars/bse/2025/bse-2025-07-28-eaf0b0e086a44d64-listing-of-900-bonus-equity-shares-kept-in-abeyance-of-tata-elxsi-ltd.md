@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TATAELXSI
 tags:
-- bonus-shares
-- listing
-- equity-shares
-- tata-elxsi
 - abeyance
+- bonus
+- equity
+- listing
 title: Listing of 900 Bonus Equity Shares kept in abeyance of Tata Elxsi Ltd
 ---
 

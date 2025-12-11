@@ -28,11 +28,11 @@ stocks:
 - ECAP
 tags:
 - debenture-suspension
-- redemption
-- debt-market
-- trading-halt
+- debt-securities
 - ecap-equities
-- non-convertible-debentures
+- ncd
+- redemption
+- trading-halt
 title: Suspension of Trading in Debentures of ECAP EQUITIES LIMITED
 ---
 

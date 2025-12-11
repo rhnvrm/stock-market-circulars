@@ -24,14 +24,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- nfo
-- mutual-fund
-- kotak-mutual-fund
+- equity
 - index-fund
+- kotak-mutual-fund
+- mutual-fund
+- nfo
 - nifty-alpha-50
 - sip
-- bse-star-mf
-- equity-fund
 title: Launch of NFO with SIP facility of KOTAK NIFTY ALPHA 50 INDEX FUND on BSE StAR
   MF Platform
 ---

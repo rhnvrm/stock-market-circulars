@@ -32,14 +32,13 @@ stocks:
 - BAJFINANCE
 tags:
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
-- interest-payment
-- amalgamation
-- spin-off
-- corporate-actions
 - commercial-paper
+- corporate-action
+- dividend
+- interest-payment
+- ncd
+- record-date
+- scheme-of-arrangement
 title: 'Daily Bulletin No. 148/2025-2026: Book Closure, Record Dates and Corporate
   Actions'
 ---

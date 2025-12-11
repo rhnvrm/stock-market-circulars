@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544607'
+- SHTL
 tags:
 - group-change
-- segment-transfer
-- trade-for-trade
 - rolling-segment
-- sme-ipo
+- segment-transfer
 - shining-tools
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SHINING TOOLS LIMITED
 ---
 

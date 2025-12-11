@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
 - corporate-debt
+- icdm
+- settlement
+- t+0
+- t+1
+- t+2
 - trading-schedule
-- ICDM
-- T+0
-- T+1
-- T+2
 title: Trading and Settlement Programme for Corporate Debt Segment - September 2025
 ---
 

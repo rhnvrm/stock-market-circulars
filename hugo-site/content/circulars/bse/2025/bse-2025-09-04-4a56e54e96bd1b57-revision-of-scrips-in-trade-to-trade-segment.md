@@ -56,16 +56,14 @@ stocks:
 - WILLIAMSON
 - ALPHALOGIC
 - CARGOSOL
-- CRYOGENICOGS
+- CRYOGENIC
 - MONARCH
 - SPINAROO
 tags:
-- trade-to-trade
+- asm-stage
 - scrip-transfer
 - surveillance
-- t-group
-- xt-group
-- mt-group
+- trade-to-trade
 - ts-group
 title: Revision of Scrips in Trade to Trade Segment
 ---

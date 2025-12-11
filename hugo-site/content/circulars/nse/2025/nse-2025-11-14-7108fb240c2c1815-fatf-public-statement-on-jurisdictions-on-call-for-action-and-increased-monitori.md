@@ -27,15 +27,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- FATF
-- AML
-- CFT
+- aml
 - anti-money-laundering
-- counter-terrorism-financing
+- cft
 - compliance
+- counter-terrorism-financing
+- fatf
 - international-standards
-- regulatory-update
-- SEBI
+- regulatory
+- sebi
 title: FATF Public Statement on Jurisdictions on Call for Action and Increased Monitoring
   - October 2025 Plenary
 ---

@@ -27,12 +27,10 @@ source: nse
 stocks:
 - PETRONET
 tags:
-- futures-and-options
-- corporate-action
-- dividend-adjustment
+- clearing
 - contract-adjustment
-- clearing-settlement
-- PETRONET
+- corporate-action
+- futures-options
 title: Adjustment of Futures and Options Contracts in PETRONET LNG LIMITED
 ---
 

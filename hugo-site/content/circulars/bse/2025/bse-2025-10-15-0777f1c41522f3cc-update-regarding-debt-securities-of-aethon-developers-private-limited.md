@@ -25,10 +25,10 @@ severity: high
 source: bse
 stocks: []
 tags:
-- debt-securities
-- trading-suspension
-- restructuring
 - aethon-developers
+- debt-securities
+- restructuring
+- suspension
 title: Trading Suspension of Aethon Developers Private Limited Debt Securities Due
   to Restructuring
 ---

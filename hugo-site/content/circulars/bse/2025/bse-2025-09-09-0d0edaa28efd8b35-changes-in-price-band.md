@@ -38,17 +38,17 @@ stocks:
 - OXFORD
 - PATEL
 - PRECISION
-- PRIMEFOCUS
+- PFOCUS
 - RITESH
 - SHAH
 - SHREE
 - STARCOM
 - ZODIAC
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 20 Securities
 ---
 

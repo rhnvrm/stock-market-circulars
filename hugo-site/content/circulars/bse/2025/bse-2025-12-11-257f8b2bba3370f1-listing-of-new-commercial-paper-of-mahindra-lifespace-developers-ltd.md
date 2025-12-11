@@ -29,9 +29,9 @@ stocks:
 - MAHLIFE
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - mahindra-lifespace
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper by Mahindra Lifespace Developers Ltd
 ---

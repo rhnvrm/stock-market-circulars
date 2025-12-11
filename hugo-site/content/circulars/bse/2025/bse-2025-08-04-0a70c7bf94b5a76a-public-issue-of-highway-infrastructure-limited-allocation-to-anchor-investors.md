@@ -26,10 +26,10 @@ source: bse
 stocks:
 - HIGHWAY
 tags:
-- public-issue
-- anchor-investors
-- ipo
+- anchor-investor
 - highway-infrastructure
+- ipo
+- public-issue
 title: Public Issue of Highway Infrastructure Limited - Allocation to Anchor Investors
 ---
 

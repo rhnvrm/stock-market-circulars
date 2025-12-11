@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- market-data
-- trading-systems
 - implementation-delay
-- technology-upgrade
-- trading-members
+- market-data
+- market-infrastructure
+- system-update
+- trading-member
 title: Enhancement in Market Data Streams - Go-Live Dates Extended
 ---
 

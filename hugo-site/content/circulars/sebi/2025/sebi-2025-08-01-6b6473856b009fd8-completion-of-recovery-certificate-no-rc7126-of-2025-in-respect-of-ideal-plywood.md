@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
-- stock-options
 - ideal-plywood-traders
-- pan-aacci5171p
 - illiquid-instruments
+- pan-aacci5171p
+- recovery
+- stock-options
 title: 'Completion of Recovery Certificate No. RC7126 of 2025 in respect of Ideal
   Plywood Traders Pvt Ltd (PAN: AACCI5171P) in the matter of Illiquid Stock Options'
 ---

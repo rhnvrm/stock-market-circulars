@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi
-- research-analysts
-- regulatory-amendment
-- compliance
 - certification
-- qualification-requirements
+- compliance
 - nism
+- qualification-requirements
+- regulatory-amendment
+- research-analyst
+- sebi
 title: SEBI Second Amendment to Securities and Exchange Board of India (Research Analysts)
   Regulations, 2014
 ---

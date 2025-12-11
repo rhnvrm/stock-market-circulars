@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- hdfc-mutual-fund
 - equity-scheme
+- hdfc-mutual-fund
+- index-fund
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
-- index-fund
 title: Availability of HDFC BSE India Sector Leaders Index Fund for Ongoing Transactions
   on NSE MF Invest Platform
 ---

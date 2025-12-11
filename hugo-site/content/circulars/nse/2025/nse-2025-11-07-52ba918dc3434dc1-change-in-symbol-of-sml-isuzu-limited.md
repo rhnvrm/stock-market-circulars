@@ -28,11 +28,11 @@ stocks:
 - SMLISUZU
 - SMLMAH
 tags:
-- symbol-change
-- securities-lending-borrowing
+- administrative
+- collateral
+- name-change
 - slbs
 - trading-symbol
-- administrative
 title: Change in Symbol of SML Isuzu Limited to SMLMAH
 ---
 

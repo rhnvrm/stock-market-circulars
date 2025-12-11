@@ -36,12 +36,12 @@ stocks:
 - HDFC
 - SBICAP
 tags:
-- suspension
 - commercial-paper
-- debt-market
+- corporate-action
+- debt-securities
 - redemption
+- suspension
 - trading-halt
-- corporate-actions
 title: Suspension of Trading in Commercial Paper - 21 Companies
 ---
 

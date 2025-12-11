@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- bond
+- compliance
 - debenture-trustees
-- recovery-expense-fund
 - debt-securities
 - default-proceedings
 - enforcement
-- compliance
-- corporate-bonds
-- reimbursement
 - legal-proceedings
+- recovery-expense-fund
+- reimbursement
 title: Modifications to Chapter IV of the Master Circular for Debenture Trustees -
   Recovery Expense Fund Utilization
 ---

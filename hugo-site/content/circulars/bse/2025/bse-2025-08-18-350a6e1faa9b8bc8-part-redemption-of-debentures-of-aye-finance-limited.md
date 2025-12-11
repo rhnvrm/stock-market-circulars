@@ -27,12 +27,11 @@ source: bse
 stocks:
 - AYEFINANCE
 tags:
-- corporate-actions
-- debentures
-- part-redemption
+- corporate-action
 - face-value-reduction
 - interest-payment
-- aye-finance
+- ncd
+- redemption
 title: Part Redemption of Debentures of AYE FINANCE LIMITED - Reduced Face Value Effective
   August 29, 2025
 ---

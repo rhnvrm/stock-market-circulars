@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- promoter-disclosures
-- icdr-regulations
+- icdr
 - merchant-bankers
+- promoter-disclosures
 - regulatory-interpretation
+- rti
 title: 'RTI Appeal 6487/2025: SEBI Advisory on Promoter Group Disclosures Under ICDR
   Regulations'
 ---

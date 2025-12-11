@@ -27,13 +27,13 @@ source: bse
 stocks:
 - MRHFL
 tags:
-- debentures
-- suspension
-- mahindra-rural-housing-finance
-- redemption
+- debt-securities
 - interest-payment
+- mahindra-rural-housing-finance
+- ncd
 - record-date
-- debt-segment
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Mahindra Rural Housing Finance Limited
 ---
 

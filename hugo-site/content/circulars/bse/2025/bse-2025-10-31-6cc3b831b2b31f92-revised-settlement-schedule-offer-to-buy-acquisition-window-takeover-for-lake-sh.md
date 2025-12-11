@@ -28,13 +28,12 @@ source: bse
 stocks:
 - LAKESHOREREAL
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- lake-shore-realty
-- revised-timeline
+- demat
 - early-pay-in
-- demat-delivery
+- otb
+- revised-timeline
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   LAKE SHORE REALTY LIMITED
 ---

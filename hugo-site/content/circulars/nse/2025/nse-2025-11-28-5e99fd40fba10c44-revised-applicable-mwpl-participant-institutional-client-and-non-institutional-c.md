@@ -95,13 +95,11 @@ stocks:
 - BAJAJELEC
 - BAJAJHIND
 tags:
+- collateral
+- institutional-investor
+- participant-limits
 - position-limits
 - slbs
-- securities-lending
-- borrowing-scheme
-- mwpl
-- institutional-limits
-- participant-limits
 title: Revised MWPL, Participant, Institutional Client and Non-Institutional Client
   Limits for Securities and ETFs - SLBS
 ---

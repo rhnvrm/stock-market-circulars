@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SIMPLEX
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
 - preferential-issue
-- SIMPLEX
 title: Listing of New Securities - Simplex Infrastructures Limited
 ---
 

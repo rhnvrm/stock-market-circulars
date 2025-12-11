@@ -27,11 +27,10 @@ source: bse
 stocks:
 - HUBTOWN
 tags:
-- equity-listing
-- preferential-issue
 - convertible-debentures
+- equity
 - new-securities
-- hubtown
+- preferential-issue
 title: Listing of New Securities of Hubtown Limited
 ---
 

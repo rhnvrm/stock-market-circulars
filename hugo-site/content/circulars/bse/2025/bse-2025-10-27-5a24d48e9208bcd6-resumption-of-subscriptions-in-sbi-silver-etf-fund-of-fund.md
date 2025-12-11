@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
-- silver-etf
-- sbi
-- fund-of-fund
-- subscriptions
+- fund-of-funds
+- mutual-fund
 - resumption
+- sbi
+- silver
+- subscription
 title: Resumption of Subscriptions in SBI SILVER ETF FUND OF FUND
 ---
 

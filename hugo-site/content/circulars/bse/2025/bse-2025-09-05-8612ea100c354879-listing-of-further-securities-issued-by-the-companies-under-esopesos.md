@@ -40,15 +40,13 @@ stocks:
 - PRIMESEC
 - RATEINDIA
 - SBFC
-- TATAMOTORS
+- TMCV
 - TVSSCS
 - ZAGGLE
 tags:
+- equity
 - esop
-- esos
-- employee-stock-options
 - listing
-- equity-shares
 title: Listing of Further Securities Issued by Companies under ESOP/ESOS
 ---
 

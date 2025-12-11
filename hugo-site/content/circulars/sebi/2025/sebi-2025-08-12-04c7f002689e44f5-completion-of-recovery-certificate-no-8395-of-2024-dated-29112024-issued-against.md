@@ -24,11 +24,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- bse
 - enforcement
 - illiquid-stock-options
-- bse
-- trading-violations
+- recovery
+- trading-operations
 title: Completion of Recovery Certificate No. 8395 of 2024 against Mr. Nemichand Kasturchand
   Jain
 ---

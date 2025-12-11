@@ -27,11 +27,10 @@ source: nse
 stocks:
 - TATAINVEST
 tags:
-- isin-change
-- sub-division
-- face-value-split
 - corporate-action
-- tatainvest
+- face-value-change
+- isin
+- split
 title: Change in ISIN - Tata Investment Corporation Limited (TATAINVEST)
 ---
 

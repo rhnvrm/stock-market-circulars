@@ -28,7 +28,7 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- non-convertible-debentures
+- ncd
 - private-placement
 - sadbhav-gadag-highway
 title: Listing of New Debt Securities of Sadbhav Gadag Highway Private Limited

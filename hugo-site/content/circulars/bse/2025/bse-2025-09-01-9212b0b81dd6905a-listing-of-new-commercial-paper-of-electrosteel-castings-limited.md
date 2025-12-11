@@ -26,10 +26,10 @@ stocks:
 - ELECTSTL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- electrosteel-castings
 - crisil-a1-plus
+- debt-securities
+- electrosteel-castings
+- private-placement
 title: Listing of new Commercial Paper of Electrosteel Castings Limited
 ---
 

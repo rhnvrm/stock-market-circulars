@@ -26,10 +26,8 @@ severity: low
 source: bse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- equity-derivatives
-- testing
-- bolt-pro-tws
 - pre-open-session
 - risk-management
 - trading-platform

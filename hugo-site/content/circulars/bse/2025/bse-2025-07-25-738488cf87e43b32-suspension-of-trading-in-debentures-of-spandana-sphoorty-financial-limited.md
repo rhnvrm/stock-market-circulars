@@ -25,13 +25,12 @@ source: bse
 stocks:
 - SSFL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- redemption
 - interest-payment
-- SSFL
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of SPANDANA SPHOORTY FINANCIAL LIMITED
 ---
 

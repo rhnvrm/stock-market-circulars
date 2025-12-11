@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- lic-mf
 - consumption-fund
-- subscription
+- lic-mf
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- bse-star-mf
 title: Availability of LIC MF CONSUMPTION FUND for ongoing transactions on BSE StAR
   MF Platform
 ---

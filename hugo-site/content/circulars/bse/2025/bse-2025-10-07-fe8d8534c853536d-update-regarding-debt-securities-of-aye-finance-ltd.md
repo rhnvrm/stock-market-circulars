@@ -27,11 +27,11 @@ source: bse
 stocks:
 - AYEFINLTD
 tags:
+- covenant-modification
 - debt-securities
 - financial-covenants
-- debentures
+- ncd
 - par-90
-- covenant-modification
 title: Update Regarding Debt Securities of Aye Finance Ltd
 ---
 

@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- tata-mutual-fund
 - index-fund
+- mutual-fund
 - nifty-next-50
+- nmf-segment
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
-- nmf-segment
+- tata-mutual-fund
 title: Availability of Tata Nifty Next 50 Index Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

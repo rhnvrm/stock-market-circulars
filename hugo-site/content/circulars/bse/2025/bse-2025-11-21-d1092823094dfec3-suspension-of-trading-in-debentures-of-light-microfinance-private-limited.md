@@ -27,14 +27,13 @@ source: bse
 stocks:
 - LMPL
 tags:
-- trading-suspension
-- debentures
 - debt-securities
+- interest-payment
+- light-microfinance
+- ncd
 - record-date
 - redemption
-- interest-payment
-- non-convertible-debentures
-- light-microfinance
+- suspension
 title: Suspension of Trading in Debentures of LIGHT MICROFINANCE PRIVATE LIMITED
 ---
 

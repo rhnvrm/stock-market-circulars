@@ -31,11 +31,11 @@ stocks:
 - VENUSREM
 tags:
 - clarification
-- volume-increase
-- market-surveillance
+- disclosure
+- it-sector
+- price-movement
 - regulation-30
-- disclosure-requirements
-- IT-sector
+- surveillance
 title: Clarifications from L&T Technology Services, LTIMindtree, and Venus Remedies
   on Volume Increase
 ---

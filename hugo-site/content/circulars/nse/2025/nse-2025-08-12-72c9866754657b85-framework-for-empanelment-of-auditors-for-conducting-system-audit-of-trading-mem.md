@@ -25,12 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- system-audit
 - auditor-empanelment
-- trading-members
 - compliance
-- inspection
-- sebi-framework
+- investigation
+- regulatory-framework
+- system-audit
+- trading-member
 title: Framework for Empanelment of Auditors for conducting System Audit of Trading
   Members
 ---

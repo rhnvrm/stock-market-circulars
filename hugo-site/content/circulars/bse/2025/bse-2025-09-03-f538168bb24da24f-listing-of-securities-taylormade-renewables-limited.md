@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TAYLORMADE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- taylormade-renewables
+- preferential-issue
 title: Listing of Securities - Taylormade Renewables Limited (225,248 Equity Shares)
 ---
 

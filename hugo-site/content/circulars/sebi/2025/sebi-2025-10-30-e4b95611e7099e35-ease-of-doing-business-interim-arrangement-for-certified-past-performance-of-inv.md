@@ -28,14 +28,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
-- parrva
-- past-performance
 - certification
-- ease-of-doing-business
 - compliance
 - disclosure
+- ease-of-doing-business
+- investment-adviser
+- parrva
+- past-performance
+- research-analyst
 title: Ease of Doing Business – Interim Arrangement for Certified Past Performance
   of Investment Advisers and Research Analysts Prior to Operationalisation of PaRRVA
 ---

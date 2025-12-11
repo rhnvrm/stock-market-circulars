@@ -29,10 +29,10 @@ stocks:
 - SRGHFL
 tags:
 - debt-securities
+- housing-finance
 - listing
 - private-placement
-- housing-finance
-- SRG-Housing-Finance
+- srg-housing-finance
 title: Listing of New Debt Securities of SRG Housing Finance Limited
 ---
 

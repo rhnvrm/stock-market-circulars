@@ -29,12 +29,12 @@ stocks:
 - ENGINERSIN
 - MRS.BECTOR
 tags:
-- corporate-action
-- slb
-- stock-split
-- dividend
-- securities-lending-borrowing
 - book-closure
+- collateral
+- corporate-action
+- dividend
+- slb
+- split
 title: Corporate Action in SLB Securities - Stock Splits and Dividend
 ---
 

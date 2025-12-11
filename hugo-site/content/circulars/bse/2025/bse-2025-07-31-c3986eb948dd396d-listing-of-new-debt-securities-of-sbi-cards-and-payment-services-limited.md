@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SBICARD
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - sbi-cards
-- corporate-bonds
 title: Listing of new debt securities of SBI Cards and Payment Services Limited
 ---
 

@@ -26,15 +26,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
-- mahindra-manulife
-- fund-reopening
 - arbitrage-fof
+- debt-securities
+- mahindra-manulife
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- debt-fund
+- trading-platform
 title: Availability of Mahindra Manulife Income Plus Arbitrage Active FOF for ongoing
   transactions on NSE MF Invest Platform
 ---

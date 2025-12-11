@@ -26,10 +26,8 @@ stocks:
 - CAPRIGLOBAL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- capri-global
-- debt-segment
 title: Listing of new Commercial Paper of Capri Global Capital Limited
 ---
 

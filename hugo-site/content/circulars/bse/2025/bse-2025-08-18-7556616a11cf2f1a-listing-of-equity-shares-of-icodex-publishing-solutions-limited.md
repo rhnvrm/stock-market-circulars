@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ICODEX
 tags:
+- disclosure
+- equity
+- further-issue
 - listing
 - shareholding-pattern
-- post-issue
-- equity-shares
-- disclosure
 title: Listing of Equity Shares of ICODEX PUBLISHING SOLUTIONS LIMITED
 ---
 

@@ -26,15 +26,14 @@ source: bse
 stocks:
 - MMFSL
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
+- mahindra
+- ncd
+- redemption
 - suspension
 - trading-halt
-- corporate-actions
-- debt
-- mahindra
-- mmfsl
-- redemption
-- interest-payment
 title: Suspension of Trading in Debentures of MAHINDRA & MAHINDRA FINANCIAL SERVICES
   LIMITED
 ---

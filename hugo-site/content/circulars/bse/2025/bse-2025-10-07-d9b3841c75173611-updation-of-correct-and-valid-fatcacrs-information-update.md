@@ -26,14 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- fatca
-- crs
-- mutual-fund
-- star-mf-platform
-- rta
-- document-id
-- postponement
 - compliance
+- crs
+- document-id
+- fatca
+- mutual-fund
+- postponement
+- rta
+- trading-platform
 title: Postponement of Revised FATCA/CRS Document ID Type Implementation on BSE StAR
   MF Platform
 ---

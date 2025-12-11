@@ -26,12 +26,11 @@ source: nse
 stocks:
 - RUSTOMJEE
 tags:
-- offer-for-sale
-- eofs-platform
-- trading
-- keystone-realtors
-- rustomjee
 - interoperability
+- keystone-realtors
+- ofs
+- trading
+- trading-platform
 title: Proposed Offer for Sale of Keystone Realtors Limited
 ---
 

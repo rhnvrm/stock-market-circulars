@@ -48,8 +48,8 @@ stocks:
 - CIE
 - COCHINMINERALS
 - COFORGE
-- CREATIVEEYE
-- DALMIABHARAT
+- CREATIVEYE
+- DALBHARAT
 - DCX
 - DEE
 - DELTA
@@ -67,7 +67,7 @@ stocks:
 - EXCELSOFT
 - FORBES
 - GAYATRIBIO
-- GMRAIRPORTS
+- GMRAIRPORT
 - GNG
 - GRASIM
 - GTT
@@ -114,14 +114,14 @@ stocks:
 - SABOO
 - SAFECURE
 - SAMVARDHANA
-- SGFINSERVE
+- SGFIN
 - SHRIRAMPISTON
 - SIEMENS
 - SMARTWORKS
 - SML
 - SPICEJET
 - SPRIGHT
-- TATACAPITAL
+- TATACAP
 - TAYLORMADE
 - TIMEX
 - VARUN
@@ -130,10 +130,10 @@ stocks:
 - WESTERNCARR
 - WORTH
 tags:
-- demat-auction
-- settlement
-- securities-shortage
+- demat
 - market-operations
+- securities-shortage
+- settlement
 title: Demat Auction Settlement No. 773
 ---
 

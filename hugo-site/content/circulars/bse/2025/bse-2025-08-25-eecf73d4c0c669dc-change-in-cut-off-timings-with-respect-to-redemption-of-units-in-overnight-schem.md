@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- cut-off-timings
+- mutual-fund
 - overnight-schemes
 - redemption
-- cut-off-timings
 - trading
 title: Change in cut-off timings with respect to redemption of units in overnight
   schemes of Mutual Funds-Update

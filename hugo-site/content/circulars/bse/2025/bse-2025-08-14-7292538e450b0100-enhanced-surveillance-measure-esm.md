@@ -27,7 +27,7 @@ stocks:
 - ASHUTOSHPAPER
 - AVIPRODUCTS
 - INTERGLOBEFI
-- NDLVENTURES
+- NDLVENTURE
 - POLYMAC
 - RSSOFTWARE
 - AGSTRANSACT
@@ -38,7 +38,7 @@ stocks:
 - CONTAINERWAY
 - DARJEELINGROP
 - DHRUVCAP
-- DIGJAM
+- DIGJAMLMTD
 - ESCORPASS
 - FRASER
 - FRATELLI
@@ -70,19 +70,17 @@ stocks:
 - SONI
 - SPARC
 - SRIGEE
-- SVSVENTURES
+- SVS
 - SYBLY
 - TAKESOL
 - TEAMO
 - VARDHMAN
-- VTM
+- VTMLTD
 - YAMINI
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
 - risk-management
-- market-surveillance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective August
   18, 2025
 ---

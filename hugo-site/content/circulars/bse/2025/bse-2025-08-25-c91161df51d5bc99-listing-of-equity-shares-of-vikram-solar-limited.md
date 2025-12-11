@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- VIKRAM SOLAR
+- VIKRAMSOLR
 tags:
-- shareholding-pattern
-- listing
-- equity-shares
 - disclosure
-- sebi-lodr
+- equity
+- listing
+- lodr
 - regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Vikram Solar Limited - Shareholding Pattern Disclosure
 ---
 

@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aliens-developers
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
 - zero-coupon
-- aliens-developers
 title: Listing of New Debt Securities of Aliens Developers Private Limited
 ---
 

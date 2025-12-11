@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
-- debentures
-- sadbhav-gadag-highway
 - infrastructure
+- listing
+- ncd
+- private-placement
+- sadbhav-gadag-highway
 title: Listing of New Debt Securities of Sadbhav Gadag Highway Private Limited
 ---
 

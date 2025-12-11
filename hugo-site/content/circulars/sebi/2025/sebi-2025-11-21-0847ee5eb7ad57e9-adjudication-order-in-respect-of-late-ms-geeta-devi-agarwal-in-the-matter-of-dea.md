@@ -27,16 +27,16 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- illiquid-trading
-- fraudulent-trading
-- reversal-trades
-- bse
-- pfutp-regulations
+- adjudication
 - artificial-volume
-- proceedings-terminated
+- bse
 - deceased-noticee
+- illiquid-trading
+- investigation
+- proceedings-terminated
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Late Ms. Geeta Devi Agarwal in the matter
   of dealings in Illiquid Stock Options at BSE
 ---

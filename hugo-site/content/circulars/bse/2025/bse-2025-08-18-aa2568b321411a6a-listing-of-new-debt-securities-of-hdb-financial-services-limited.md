@@ -25,10 +25,10 @@ source: bse
 stocks:
 - HDBFSL
 tags:
-- debt-listing
-- private-placement
+- debt-securities
 - hdb-financial
 - new-securities
+- private-placement
 title: Listing of new debt securities of HDB FINANCIAL SERVICES LIMITED
 ---
 

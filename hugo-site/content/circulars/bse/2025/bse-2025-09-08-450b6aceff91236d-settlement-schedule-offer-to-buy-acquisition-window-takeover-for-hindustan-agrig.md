@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- HINDUSTAN-AGRIGENETICS
+- HINDUST
 tags:
-- takeover
-- acquisition
-- settlement
-- early-pay-in
 - demat-shares
-- otb-platform
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for Offer to Buy - Acquisition Window (Takeover) for Hindustan
   Agrigenetics Limited
 ---

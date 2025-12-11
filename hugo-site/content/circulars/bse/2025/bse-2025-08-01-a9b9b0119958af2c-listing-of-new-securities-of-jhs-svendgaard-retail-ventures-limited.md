@@ -26,12 +26,12 @@ source: bse
 stocks:
 - JHSSL
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of JHS Svendgaard Retail Ventures Limited
 ---
 

@@ -36,10 +36,8 @@ stocks:
 - SBFC
 tags:
 - esop
-- esos
 - listing
 - securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---
 

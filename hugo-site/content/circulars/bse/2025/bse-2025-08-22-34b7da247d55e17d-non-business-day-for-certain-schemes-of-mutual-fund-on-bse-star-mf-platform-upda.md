@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
 - bandhan
+- fund-of-funds
+- holiday
+- mutual-fund
 - treasury-bond
-- fund-of-fund
 title: Non-Business Day for Bandhan US Treasury Bond Fund on BSE StAR MF Platform
   - August 25, 2025
 ---

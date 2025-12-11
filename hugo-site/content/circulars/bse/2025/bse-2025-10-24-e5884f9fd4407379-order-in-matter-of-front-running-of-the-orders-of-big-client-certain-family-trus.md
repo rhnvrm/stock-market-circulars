@@ -28,15 +28,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- front-running
-- pfutp-regulations
-- market-manipulation
-- enforcement-action
-- fraudulent-trading
-- unfair-trade-practices
+- enforcement
 - family-trusts
+- investigation
+- market-operations
+- regulatory-framework
+- sebi-order
 - settlement-proceedings
+- unfair-trade-practices
 title: SEBI Order in Matter of Front Running of Big Client Orders by Multiple Entities
 ---
 

@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
+- maintenance
 - membership
 - obpp-segment
+- surrender
 - trading-member
-- business-closure
 title: Voluntary Closure of Business – Sunrise Gilts & Securities Pvt. Ltd
 ---
 

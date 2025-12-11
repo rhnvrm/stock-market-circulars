@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- currency-segment
 - membership
 - surrender
-- currency-segment
-- compliance
 title: Segmental Surrender of Membership - ACML Capital Markets Limited
 ---
 

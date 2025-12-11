@@ -30,13 +30,13 @@ stocks:
 - ARIHANT
 - BANCOINDIA
 tags:
-- price-movement
-- volume-surveillance
 - clarification
+- lodr
+- market-operations
+- price-movement
 - regulation-30
-- sebi-lodr
-- market-driven
 - surveillance
+- volume-surveillance
 title: Clarifications received from the companies
 ---
 

@@ -29,7 +29,7 @@ stocks:
 - PIIL
 - NALWA
 - KALYANI
-- GFL
+- GFLLIMITED
 - TVSHLTD
 - NAPEROL
 - MAHSCOOTER
@@ -41,12 +41,12 @@ stocks:
 - HARCAP
 - EASYFIN
 tags:
+- call-money
 - group-change
 - investment-companies
 - investment-holding-companies
-- trade-for-trade
 - segment-transfer
-- call-auction
+- trade-for-trade
 title: Change in Group Classification for Investment Companies and Investment Holding
   Companies
 ---

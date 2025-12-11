@@ -27,14 +27,14 @@ source: bse
 stocks:
 - GARMENT
 tags:
-- no-dealings
-- partly-paid-shares
-- rights-issue
-- record-date
-- garment-mantra-lifestyle
-- corporate-actions
-- second-call
+- corporate-action
 - final-call
+- garment-mantra-lifestyle
+- no-dealings
+- partly-paid
+- record-date
+- rights-issue
+- second-call
 title: No Dealings in Partly Paid Equity Shares - Garment Mantra Lifestyle Limited
 ---
 

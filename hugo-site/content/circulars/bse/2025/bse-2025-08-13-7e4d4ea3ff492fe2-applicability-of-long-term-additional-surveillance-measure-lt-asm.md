@@ -25,15 +25,15 @@ severity: medium
 source: bse
 stocks:
 - JAYASWALNECO
-- SPRIGHTAGRO
+- SPRIGHT
 - VINTRON
 - AMBITIOUSPLASTO
 - SPICEISLANDS
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

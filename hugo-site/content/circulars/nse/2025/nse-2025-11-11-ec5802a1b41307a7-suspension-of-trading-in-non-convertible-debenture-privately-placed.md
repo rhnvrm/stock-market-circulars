@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- suspension
-- non-convertible-debentures
-- ncd
-- privately-placed
-- debt-market
-- redemption
 - bharti-telecom
+- debt-securities
+- ncd
 - niif-infrastructure-finance
+- privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed) - Bharti
   Telecom and NIIF Infrastructure Finance
 ---

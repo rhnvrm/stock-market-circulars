@@ -28,11 +28,10 @@ stocks:
 - TECHLABS
 - TEMBO
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trade-for-trade
+- margin
 - market-operations
+- surveillance
+- trade-for-trade
 title: Additional Surveillance Measure (ASM) - Long Term Framework Implementation
 ---
 

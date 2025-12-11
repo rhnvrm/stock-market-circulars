@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SUNRISE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of new securities of Sunrise Efficient Marketing Limited
 ---
 

@@ -28,10 +28,10 @@ stocks:
 - KMIL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
 - debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Adani Enterprises and Kotak Mahindra
   Investments
 ---

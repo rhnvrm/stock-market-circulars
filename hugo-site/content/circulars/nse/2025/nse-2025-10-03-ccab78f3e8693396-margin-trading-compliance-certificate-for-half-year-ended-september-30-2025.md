@@ -27,12 +27,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- margin-trading
-- compliance-certificate
 - audit-requirement
-- trading-members
-- sebi-regulation
+- compliance-certificate
 - half-yearly-reporting
+- margin
+- sebi-regulation
+- trading-member
 title: Margin Trading Compliance Certificate for Half Year Ended September 30, 2025
 ---
 

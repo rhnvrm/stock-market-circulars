@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
+- conmin-projects
 - debt-securities
 - listing
 - private-placement
-- new-listing
-- corporate-bonds
-- conmin-projects
 title: Listing of New Debt Securities of CONMIN Projects India Private Limited
 ---
 

@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- derivatives
 - digital-gold
+- egr
+- etf
+- gold-investments
 - investor-protection
 - public-caution
 - unregulated-products
-- gold-investments
-- etf
-- commodity-derivatives
-- egr
 title: Caution to public regarding dealing in 'Digital Gold'
 ---
 

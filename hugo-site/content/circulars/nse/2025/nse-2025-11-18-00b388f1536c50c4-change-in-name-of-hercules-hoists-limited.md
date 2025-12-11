@@ -26,10 +26,9 @@ source: nse
 stocks:
 - HERCULES
 tags:
-- name-change
 - corporate-action
 - listing
-- hercules
+- name-change
 title: Change in name of Hercules Hoists Limited to Hercules Investments Limited
 ---
 

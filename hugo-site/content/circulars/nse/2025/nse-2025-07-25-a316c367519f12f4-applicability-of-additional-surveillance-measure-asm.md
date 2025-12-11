@@ -25,12 +25,9 @@ source: nse
 stocks:
 - FORCEMOT
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- asm
-- margin-requirements
-- FORCEMOT
-- long-term-asm
 title: Additional Surveillance Measure (ASM) - Force Motors Added to Long-Term ASM
   Stage I
 ---

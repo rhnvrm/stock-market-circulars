@@ -25,13 +25,11 @@ source: bse
 stocks:
 - MANAPPURAM
 tags:
-- commercial-paper
-- debt-segment
-- private-placement
-- listing
-- manappuram-finance
 - axis-bank
+- commercial-paper
 - debt-securities
+- listing
+- private-placement
 title: BSE Lists Manappuram Finance Limited Commercial Paper Worth ₹30 Crores
 ---
 

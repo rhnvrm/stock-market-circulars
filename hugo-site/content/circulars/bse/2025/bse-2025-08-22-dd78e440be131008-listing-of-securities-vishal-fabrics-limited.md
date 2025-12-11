@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VISHAL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Equity Shares - Vishal Fabrics Limited
 ---
 

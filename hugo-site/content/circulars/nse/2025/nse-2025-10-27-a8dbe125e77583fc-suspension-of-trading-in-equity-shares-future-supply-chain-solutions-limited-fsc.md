@@ -27,13 +27,11 @@ source: nse
 stocks:
 - FSC
 tags:
-- trading-suspension
 - delisting
 - insolvency
-- nclt-order
+- nclt
 - share-cancellation
-- ibc
-- FSC
+- suspension
 title: Suspension of Trading in Future Supply Chain Solutions Limited (FSC)
 ---
 

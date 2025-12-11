@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GEMAROMATICS
+- GEMAROMA
 tags:
+- anchor-investor
+- equity
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- anchor-investors
 title: Listing of Equity Shares of Gem Aromatics Limited - Lock-in Details
 ---
 

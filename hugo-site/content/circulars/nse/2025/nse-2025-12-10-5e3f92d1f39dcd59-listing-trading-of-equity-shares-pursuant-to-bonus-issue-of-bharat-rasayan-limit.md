@@ -26,11 +26,10 @@ source: nse
 stocks:
 - BHARATRAS
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - capital-market
-- BHARATRAS
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Bharat Rasayan
   Limited
 ---

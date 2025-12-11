@@ -28,12 +28,9 @@ stocks:
 - KIOCL
 tags:
 - clarification
-- price-movement
-- volume-movement
-- surveillance
 - disclosure
-- DAVIN
-- KIOCL
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt-securities
-- debentures
-- isin-change
 - call-money
+- debt-securities
 - infinity-fincorp-solutions
+- isin
+- ncd
 - paid-up-value-change
 title: Update Regarding Debt Securities of Infinity Fincorp Solutions Pvt Ltd - Call
   Money Received

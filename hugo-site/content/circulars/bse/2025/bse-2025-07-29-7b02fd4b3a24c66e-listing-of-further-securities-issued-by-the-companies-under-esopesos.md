@@ -35,13 +35,11 @@ stocks:
 - OFSS
 - UJJIVAN
 - ZINKA
-- ZODIACENERGY
+- ZODIAC
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of New Securities Under ESOP/ESOS - 13 Companies
 ---
 

@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - AVG
 tags:
-- insider-trading
-- settlement-order
-- designated-person
-- code-of-conduct
-- pit-regulations
 - avg-logistics
+- code-of-conduct
+- designated-person
+- investigation
+- pit-regulations
+- settlement-order
 title: Settlement Order - Ankit Jain for Insider Trading in AVG Logistics Limited
 ---
 

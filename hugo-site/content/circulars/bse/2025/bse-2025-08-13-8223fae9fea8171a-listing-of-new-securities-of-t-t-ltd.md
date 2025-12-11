@@ -26,10 +26,10 @@ source: bse
 stocks:
 - TTL
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
+- rights-issue
 title: Listing of New Securities of T T Ltd
 ---
 

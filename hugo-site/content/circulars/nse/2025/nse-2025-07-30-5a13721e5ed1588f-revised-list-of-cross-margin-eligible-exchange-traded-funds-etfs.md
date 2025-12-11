@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- cross-margin
-- etf
-- derivatives
 - clearing
+- cross-margin
+- derivatives
+- etf
 - risk-management
 title: Revised List of Cross Margin Eligible Exchange Traded Funds (ETFs)
 ---

@@ -28,12 +28,10 @@ stocks:
 - RECLTD
 tags:
 - debt-securities
-- suspension
 - non-convertible-securities
 - redemption
+- suspension
 - trading-halt
-- INDIANB
-- RECLTD
 title: Suspension of Trading in Non-Convertible Securities - Indian Bank and REC Limited
 ---
 

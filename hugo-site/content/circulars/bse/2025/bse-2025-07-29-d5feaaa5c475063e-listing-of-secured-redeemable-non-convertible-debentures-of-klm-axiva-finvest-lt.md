@@ -27,10 +27,9 @@ stocks:
 - KLM
 tags:
 - debt-securities
-- ncd
-- listing
 - klm-axiva-finvest
-- debentures
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of KLM Axiva Finvest
   Ltd
 ---

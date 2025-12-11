@@ -27,13 +27,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- appeal
 - cancellation
-- disgorgement
-- sat-order
 - compliance
-- kuber-udyog-limited
+- disgorgement
 - generic-engineering-construction
+- kuber-udyog-limited
+- recovery
 title: Certificate of Cancellation dated 30.10.2025 issued under RC No. 8921 of 2025
   drawn against Kuber Udyog Limited in the matter of Generic Engineering Construction
   and Projects Limited

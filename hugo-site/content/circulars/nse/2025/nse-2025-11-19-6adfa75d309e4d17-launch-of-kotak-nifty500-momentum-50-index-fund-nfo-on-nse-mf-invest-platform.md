@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- equity-fund
+- equity
 - index-fund
 - kotak-mutual-fund
-- nse-mf-invest
+- mutual-fund
+- nfo
 - nifty500-momentum-50
+- trading-platform
 title: Launch of Kotak Nifty500 Momentum 50 Index Fund NFO on NSE MF Invest Platform
 ---
 

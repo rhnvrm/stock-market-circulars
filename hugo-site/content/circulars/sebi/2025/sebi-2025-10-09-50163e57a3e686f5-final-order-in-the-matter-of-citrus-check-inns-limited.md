@@ -29,11 +29,11 @@ stocks:
 - CITRUS
 tags:
 - collective-investment-scheme
+- director-liability
+- enforcement
 - ponzi-scheme
-- enforcement-action
 - refund-order
 - unregistered-scheme
-- director-liability
 title: Final Order in the matter of Citrus Check Inns Limited
 ---
 

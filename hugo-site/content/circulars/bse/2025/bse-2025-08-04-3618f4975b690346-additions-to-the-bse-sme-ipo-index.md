@@ -23,13 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544463'
-- '544464'
+- REPONO
+- UML
 tags:
-- index-addition
-- sme-ipo
+- index-change
 - listing
 - repono-limited
+- sme
 - umiya-mobile-limited
 title: Additions to the BSE SME IPO INDEX - REPONO LIMITED and UMIYA MOBILE LIMITED
 ---

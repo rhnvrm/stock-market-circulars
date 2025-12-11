@@ -25,11 +25,11 @@ source: bse
 stocks:
 - VENUSPIPES
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-issue
+- preferential-issue
+- promoter
 title: Listing of New Securities Venus Pipes & Tubes Limited
 ---
 

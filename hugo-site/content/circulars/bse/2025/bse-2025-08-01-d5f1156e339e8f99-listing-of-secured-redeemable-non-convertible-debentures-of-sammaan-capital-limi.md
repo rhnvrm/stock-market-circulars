@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
+- bond
 - debt-securities
-- ncds
-- sammaan-capital
 - listing
-- debentures
-- secured-bonds
+- ncd
+- sammaan-capital
 title: Listing of Secured Redeemable Non-Convertible Debentures of Sammaan Capital
   Limited
 ---

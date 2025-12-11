@@ -26,11 +26,11 @@ source: bse
 stocks:
 - RAMRATNA
 tags:
+- equity
 - listing
 - new-securities
-- equity-shares
-- amalgamation
 - scheme-of-amalgamation
+- scheme-of-arrangement
 title: Listing of new securities of Ram Ratna Wires Limited
 ---
 

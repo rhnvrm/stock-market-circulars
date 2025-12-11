@@ -31,12 +31,12 @@ stocks:
 - MOBIKWIK
 - NIVABUPA
 tags:
-- listing
-- further-issues
-- esop
-- preferential-issue
-- equity-shares
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues - Multiple Companies Including AXISBANK, HDFCBANK,
   MOBIKWIK
 ---

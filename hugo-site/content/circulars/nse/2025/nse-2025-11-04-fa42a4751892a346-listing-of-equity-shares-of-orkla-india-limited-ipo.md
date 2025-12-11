@@ -28,11 +28,10 @@ source: nse
 stocks:
 - ORKLAINDIA
 tags:
-- listing
-- ipo
-- equity-shares
-- new-listing
 - capital-market
+- equity
+- ipo
+- listing
 title: Listing of Equity Shares of Orkla India Limited (IPO)
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 360ONE
 tags:
-- commercial-paper
-- debt-segment
-- private-placement
 - 360-one-wam
-- new-listing
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of new Commercial Paper of 360 ONE WAM LIMITED
 ---
 

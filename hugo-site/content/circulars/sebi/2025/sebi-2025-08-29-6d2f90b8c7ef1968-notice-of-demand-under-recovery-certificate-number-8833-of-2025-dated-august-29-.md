@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-notice
-- illiquid-options
 - bse
-- enforcement
 - defaulter
+- enforcement
+- illiquid-options
+- recovery
 title: Notice of Demand under Recovery Certificate - Manish Kumar Kanodia HUF
 ---
 

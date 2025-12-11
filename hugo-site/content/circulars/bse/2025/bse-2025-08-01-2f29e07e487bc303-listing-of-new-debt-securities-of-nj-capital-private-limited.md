@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- njcpl
 title: Listing of new debt securities of NJ Capital Private Limited
 ---
 

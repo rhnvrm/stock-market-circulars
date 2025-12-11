@@ -27,14 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
-- mirae-asset
+- bse-index
 - dividend-etf
-- bse-500
 - equity
+- etf
+- mirae-asset
+- mutual-fund
+- nfo
 title: Launch of Mirae Asset BSE 500 Dividend Leaders 50 ETF NFO on NSE MF Invest
   Platform
 ---

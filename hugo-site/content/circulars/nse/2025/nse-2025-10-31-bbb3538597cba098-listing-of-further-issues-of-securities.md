@@ -41,12 +41,12 @@ stocks:
 - VARDMNSTL
 - VATECHW
 tags:
-- listing
-- further-issues
-- esop
-- equity-shares
-- preferential-allotment
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of 14 Companies Including Axis Bank, Kotak Mahindra
   Bank and Others
 ---

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - BAJAJHFL
 tags:
+- bajaj-housing-finance
+- bhfl
+- bond
 - debt-securities
 - listing
 - private-placement
-- bajaj-housing-finance
-- corporate-bonds
-- bhfl
 title: Listing of New Debt Securities of Bajaj Housing Finance Limited
 ---
 

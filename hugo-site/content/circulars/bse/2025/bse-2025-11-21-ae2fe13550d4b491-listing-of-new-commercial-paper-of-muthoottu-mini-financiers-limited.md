@@ -28,11 +28,10 @@ stocks:
 - MMFL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
+- listing
 - muthoottu-mini-financiers
-- mmfl
-- new-listing
+- private-placement
 title: Listing of new Commercial Paper of Muthoottu Mini Financiers Limited
 ---
 

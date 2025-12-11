@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - TCS
 tags:
-- rti-appeal
+- appeal
 - information-disclosure
-- tcs
-- amalgamation
-- appellate-authority
+- rti
+- scheme-of-arrangement
 title: Appeal No. 6483 of 2025 - RTI Appeal by Dhanraj Bagrecha
 ---
 

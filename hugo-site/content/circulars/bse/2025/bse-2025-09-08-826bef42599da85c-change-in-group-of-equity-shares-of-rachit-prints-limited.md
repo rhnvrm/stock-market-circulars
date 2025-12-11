@@ -26,12 +26,11 @@ source: bse
 stocks:
 - RACHIT
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
 - rachit-prints
+- rolling-segment
+- trade-for-trade
 title: Change in Group of Equity Shares of RACHIT PRINTS LIMITED
 ---
 

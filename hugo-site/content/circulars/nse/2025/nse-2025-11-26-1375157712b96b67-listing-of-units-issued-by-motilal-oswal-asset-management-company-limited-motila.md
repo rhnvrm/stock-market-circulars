@@ -29,9 +29,8 @@ tags:
 - etf
 - listing
 - motilal-oswal
-- nifty-services-sector
 - mutual-fund
-- new-listing
+- nifty-services-sector
 title: Listing of Motilal Oswal Nifty Services Sector ETF Units on NSE
 ---
 

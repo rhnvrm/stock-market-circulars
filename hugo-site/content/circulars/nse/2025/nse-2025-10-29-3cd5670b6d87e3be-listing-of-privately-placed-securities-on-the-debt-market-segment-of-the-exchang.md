@@ -30,15 +30,15 @@ stocks:
 - ABML
 - KSL
 - GODREJIND
-- CEAT
+- CEATLTD
 - ANGELONE
 - PNBHOUSING
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- fixed-income
 - listing
 - private-placement
-- fixed-income
 title: Listing of Privately Placed Securities on Debt Market Segment - October 29,
   2025
 ---

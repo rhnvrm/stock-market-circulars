@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- approved-banks
-- fdr
 - bank-guarantee
-- debt-segment
 - collateral
-- security-deposit
+- debt-securities
+- empanelment
+- fdr
 - margin-deposit
+- security-deposit
 title: Revision in List of Approved Banks for the issuance of FDRs and BGs
 ---
 

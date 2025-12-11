@@ -28,13 +28,11 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
-- recovery-certificate
+- anup-karwa
 - enforcement
-- debt-recovery
 - legal-proceedings
 - prakash-constrowell
-- setubandhan-infrastructure
-- anup-karwa
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8931 of 2025 against Anup Karwa
   in the matter of Prakash Constrowell Limited (now Setubandhan Infrastructure Limited)
 ---

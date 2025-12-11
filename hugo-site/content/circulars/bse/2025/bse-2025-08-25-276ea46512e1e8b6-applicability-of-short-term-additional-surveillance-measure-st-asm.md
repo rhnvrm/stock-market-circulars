@@ -32,12 +32,12 @@ stocks:
 - NTCIND
 - PACHELI
 - PROSPECT
-- ROYALSENSE
+- ROYAL
 tags:
-- st-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

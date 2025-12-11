@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GUJARATPEANUT
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- gujarat-peanut-agri-products
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document for Gujarat Peanut and Agri Products Limited
 ---
 

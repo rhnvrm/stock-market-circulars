@@ -28,15 +28,13 @@ source: bse
 stocks:
 - SKFINDIA
 tags:
-- demerger
-- scheme-of-arrangement
-- record-date
+- allotment
+- call-money
 - corporate-action
-- nclt-approval
-- skf-india
-- share-allotment
+- nclt
+- record-date
+- scheme-of-arrangement
 - t-group-transfer
-- special-pre-open-session
 title: Scheme of Arrangement (Demerger) of SKF India Ltd - Record Date Set for October
   15, 2025
 ---

@@ -26,10 +26,8 @@ stocks:
 - TATASTEEL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- tata-steel
-- debt-segment
 title: Listing of New Commercial Paper of Tata Steel Limited
 ---
 

@@ -28,9 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- reit
-- private-placement
 - mindspace-business-parks
+- private-placement
+- reit
 title: Listing of New Debt Securities of Mindspace Business Parks REIT
 ---
 

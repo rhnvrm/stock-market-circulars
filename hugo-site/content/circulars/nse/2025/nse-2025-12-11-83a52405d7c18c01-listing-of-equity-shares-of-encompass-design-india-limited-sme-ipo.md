@@ -27,12 +27,11 @@ source: nse
 stocks:
 - ENCOMPAS
 tags:
-- listing
-- sme-ipo
 - emerge-platform
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- new-listing
-- surveillance-segment
 title: Listing of Equity Shares of Encompass Design India Limited (SME IPO)
 ---
 

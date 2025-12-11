@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ARUNIS
 tags:
-- rights-issue
-- corporate-actions
+- corporate-action
+- equity
 - ex-rights-trading
-- equity-shares
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares of ARUNIS ABODE LIMITED - Ex-Rights Trading from
   August 26, 2025
 ---

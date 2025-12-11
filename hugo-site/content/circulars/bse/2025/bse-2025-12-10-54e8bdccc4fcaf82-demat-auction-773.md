@@ -112,14 +112,14 @@ stocks:
 - SABOO
 - SAFECURE
 - SAMVARD
-- SGFINSERVE
+- SGFIN
 - SHRIRAMPI
 - SIEMENS
 - SMARTWORKS
 - SMLMANUF
 - SPICEJET
 - SPRIGHT
-- TATACAPITAL
+- TATACAP
 - TAYLORMADE
 - TIMEX
 - VBL
@@ -128,10 +128,10 @@ stocks:
 - WESTERNCARR
 - WORTH
 tags:
-- demat-auction
-- settlement
-- delivery-obligations
 - auction-773
+- demat
+- early-pay-in
+- settlement
 title: Demat Auction Settlement No. 773
 ---
 

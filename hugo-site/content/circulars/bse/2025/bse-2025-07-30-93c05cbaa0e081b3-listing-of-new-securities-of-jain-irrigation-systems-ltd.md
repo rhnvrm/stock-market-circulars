@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JISLJALEQS
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- equity-shares
-- promoters
-- warrant-conversion
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Jain Irrigation Systems Ltd
 ---
 

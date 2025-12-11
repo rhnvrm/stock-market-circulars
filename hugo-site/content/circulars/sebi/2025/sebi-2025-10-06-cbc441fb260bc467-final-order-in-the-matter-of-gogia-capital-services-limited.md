@@ -28,13 +28,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- stock-broker
-- intermediary-regulations
-- net-worth-violation
-- compliance-failure
 - client-funds
+- enforcement
 - gogia-capital
+- intermediary
+- net-worth-violation
+- non-compliance
+- stock-broker
 title: Final Order in the matter of Gogia Capital Services Limited
 ---
 

@@ -29,12 +29,12 @@ stocks:
 - AKZOINDIA
 - BKT
 tags:
-- volume-movement
-- surveillance
 - clarification
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
-- market-driven
+- surveillance
 title: Clarifications received from the companies
 ---
 

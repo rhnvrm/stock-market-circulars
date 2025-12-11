@@ -28,11 +28,10 @@ stocks:
 - NRAGARWAL
 - INDIAFIN
 tags:
+- compliance
 - encumbrance
+- sast
 - surveillance
-- promoter-pledging
-- SEBI-SAST
-- regulatory-compliance
 title: Measure for Companies with High Promoter and Non-Promoter Encumbrance under
   SEBI SAST Regulation
 ---

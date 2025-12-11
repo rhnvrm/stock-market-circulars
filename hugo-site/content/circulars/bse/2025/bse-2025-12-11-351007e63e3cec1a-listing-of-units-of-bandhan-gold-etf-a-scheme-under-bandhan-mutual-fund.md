@@ -26,12 +26,11 @@ source: bse
 stocks:
 - GOLDBND
 tags:
-- etf
-- mutual-fund
-- listing
-- gold-etf
 - bandhan-mutual-fund
-- exchange-traded-fund
+- etf
+- gold
+- listing
+- mutual-fund
 title: Listing of Units of Bandhan Gold ETF a scheme under Bandhan Mutual Fund
 ---
 

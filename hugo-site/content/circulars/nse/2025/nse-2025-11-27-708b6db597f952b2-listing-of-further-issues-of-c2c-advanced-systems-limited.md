@@ -28,12 +28,11 @@ source: nse
 stocks:
 - C2C
 tags:
-- listing
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-shares
-- C2C
+- listing
+- preferential-issue
 title: Listing of Further Issues of C2C Advanced Systems Limited
 ---
 

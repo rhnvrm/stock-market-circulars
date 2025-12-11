@@ -28,13 +28,12 @@ source: bse
 stocks:
 - EMMVEE
 tags:
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- public-issue
 - listing
-- emmvee
+- public-issue
 - solar-energy
-- equity-shares
 title: Public Issue of EMMVEE Photovoltaic Power Limited - Allocation to Anchor Investors
 ---
 

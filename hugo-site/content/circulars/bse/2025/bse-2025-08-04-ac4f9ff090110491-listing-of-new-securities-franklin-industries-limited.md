@@ -23,12 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '540190'
+- FRANKLININD
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- franklin-industries
 title: Listing of New Securities - Franklin Industries Limited Rights Issue
 ---
 

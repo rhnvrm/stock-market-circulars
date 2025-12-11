@@ -26,12 +26,11 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
-- front-running
-- market-manipulation
 - debarment
-- enforcement-action
+- enforcement
 - investigation
+- market-operations
+- sebi-order
 - securities-fraud
 title: SEBI Order in the matter of front running of the orders of Big Client (certain
   family trusts) by certain entities

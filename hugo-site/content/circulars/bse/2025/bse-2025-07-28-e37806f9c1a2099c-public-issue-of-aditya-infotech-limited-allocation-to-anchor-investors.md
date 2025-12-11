@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADITYAINFO
 tags:
-- public-issue
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - ipo
 - listing
+- public-issue
 title: Public Issue of ADITYA INFOTECH LIMITED - Allocation to Anchor Investors
 ---
 

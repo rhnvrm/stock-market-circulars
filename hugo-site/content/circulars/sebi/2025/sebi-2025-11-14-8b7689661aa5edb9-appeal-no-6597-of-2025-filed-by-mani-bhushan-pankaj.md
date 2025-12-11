@@ -27,10 +27,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - delhi-stock-exchange
 - information-disclosure
-- appellate-authority
+- rti
 - stock-exchange-exit
 title: Appeal No. 6597 of 2025 filed by Mani Bhushan Pankaj
 ---

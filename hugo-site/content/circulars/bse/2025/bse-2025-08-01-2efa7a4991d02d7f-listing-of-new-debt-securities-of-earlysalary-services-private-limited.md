@@ -25,11 +25,9 @@ source: bse
 stocks:
 - EARLYSALARY
 tags:
-- debt-listing
-- private-placement
-- earlysalary
 - debt-securities
 - ncd
+- private-placement
 title: Listing of new debt securities of EARLYSALARY SERVICES PRIVATE LIMITED
 ---
 

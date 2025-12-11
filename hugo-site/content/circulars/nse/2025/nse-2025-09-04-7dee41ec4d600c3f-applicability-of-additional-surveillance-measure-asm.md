@@ -26,12 +26,9 @@ source: nse
 stocks:
 - VIMTALABS
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- margin-requirements
-- vimta-labs
-- long-term-asm
-- stage-1
 title: NSE Implements Additional Surveillance Measure (ASM) on Vimta Labs Limited
 ---
 

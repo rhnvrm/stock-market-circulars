@@ -27,13 +27,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- algorithmic-trading
-- neat-adapter
+- algo-trading
+- derivatives
 - encryption
+- mock-trading
 - retail-investor-protection
-- testing
+- trading-platform
 title: Mock Trading Session on Saturday, December 13, 2025 - Currency Derivatives
   Segment
 ---

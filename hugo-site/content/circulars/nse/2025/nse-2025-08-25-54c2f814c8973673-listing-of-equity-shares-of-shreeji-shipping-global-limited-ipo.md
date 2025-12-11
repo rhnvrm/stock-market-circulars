@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SHREEJISPG
 tags:
+- equity
+- gujarat
 - ipo
 - listing
-- equity-shares
 - shipping
-- gujarat
 title: Listing of Equity Shares of Shreeji Shipping Global Limited (IPO)
 ---
 

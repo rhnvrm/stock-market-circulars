@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- KOLTE-PATIL
+- KOLTEPATIL
 tags:
-- takeover
-- settlement
-- acquisition-window
-- kolte-patil
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for KOLTE-PATIL DEVELOPERS LTD Takeover Offer
 ---
 

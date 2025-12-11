@@ -28,12 +28,12 @@ source: bse
 stocks:
 - YUKEN
 tags:
+- equity
 - listing
-- new-securities
-- preferential-allotment
-- promoter-shareholding
-- equity-shares
 - lock-in
+- new-securities
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Yuken India Ltd
 ---
 

@@ -40,10 +40,10 @@ stocks:
 - WARDWIZ
 - YASHCHEM
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band - 15 Scrips Revised Effective September 2, 2025
 ---
 

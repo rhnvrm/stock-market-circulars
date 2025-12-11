@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- notice-of-demand
-- recovery-certificate
+- compliance
+- demand-notice
 - enforcement
 - onelife-capital-advisors
-- compliance
+- recovery
 title: 'Notice of Demand dated 01.08.2025 issued under RC No. 8846/2025 drawn against
   Pandoo Prabhakar Naig (PAN: ACNPN2800J) in the matter of Onelife Capital Advisors
   Limited'

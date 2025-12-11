@@ -41,10 +41,10 @@ stocks:
 - CARATLANE
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 13 Companies Redemption on November
   27-28, 2025
 ---

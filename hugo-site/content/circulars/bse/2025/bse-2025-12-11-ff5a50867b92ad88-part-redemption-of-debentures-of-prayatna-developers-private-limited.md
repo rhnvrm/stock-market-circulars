@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- debt-market
 - corporate-action
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Prayatna Developers Private Limited
 ---
 

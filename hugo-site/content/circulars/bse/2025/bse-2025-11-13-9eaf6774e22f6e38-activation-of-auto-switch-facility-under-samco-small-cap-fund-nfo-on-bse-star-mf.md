@@ -27,14 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- auto-switch
-- samco-mutual-fund
-- bse-star-mf
-- small-cap-fund
-- overnight-fund
 - arbitrage-fund
+- auto-switch
+- liquid-fund
+- mutual-fund
+- nfo
+- samco-mutual-fund
+- small-cap-fund
 title: Activation of Auto Switch Facility under SAMCO SMALL CAP FUND - NFO on BSE
   StAR MF Platform
 ---

@@ -25,15 +25,15 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- fpi
-- foreign-portfolio-investors
-- regulatory-amendment
-- single-window-access
-- mutual-funds
 - aif
 - alternative-investment-funds
-- investment-limits
 - compliance
+- foreign-portfolio-investors
+- fpi
+- investment-limits
+- mutual-fund
+- regulatory-amendment
+- single-window-access
 title: Securities and Exchange Board of India (Foreign Portfolio Investors) (Second
   Amendment) Regulations, 2025
 ---

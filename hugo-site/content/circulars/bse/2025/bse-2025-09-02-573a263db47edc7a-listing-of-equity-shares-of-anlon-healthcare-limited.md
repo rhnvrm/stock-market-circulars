@@ -25,11 +25,9 @@ source: bse
 stocks:
 - AHCL
 tags:
-- listing
-- equity
 - anlon-healthcare
-- AHCL
-- new-listing
+- equity
+- listing
 title: Listing of Equity Shares of Anlon Healthcare Limited
 ---
 

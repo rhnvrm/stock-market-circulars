@@ -25,9 +25,9 @@ source: nse
 stocks:
 - INDIAGLYCO
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
+- equity
+- face-value-change
 - listing
 title: Face Value Split - India Glycols Limited (INDIAGLYCO)
 ---

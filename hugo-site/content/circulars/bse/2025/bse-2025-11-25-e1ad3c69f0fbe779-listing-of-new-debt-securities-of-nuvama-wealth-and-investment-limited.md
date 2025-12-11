@@ -30,10 +30,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- nuvama
-- non-convertible-debentures
+- ncd
 - nwil
+- private-placement
 title: Listing of New Debt Securities of Nuvama Wealth and Investment Limited
 ---
 

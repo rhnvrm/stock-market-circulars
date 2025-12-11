@@ -28,11 +28,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
 - iinspira-springdale
-- debentures
-- debt-segment
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of IINSPIRA SPRINGDALE PRIVATE LIMITED
 ---
 

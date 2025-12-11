@@ -26,10 +26,9 @@ source: bse
 stocks:
 - HRSALUGLAZE
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
-- hrs-aluglaze
 - public-issue
 title: Public Issue of HRS Aluglaze Limited - Allocation to Anchor Investors
 ---

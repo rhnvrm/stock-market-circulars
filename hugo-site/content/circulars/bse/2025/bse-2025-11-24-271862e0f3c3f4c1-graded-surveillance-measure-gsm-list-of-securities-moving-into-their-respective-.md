@@ -31,11 +31,10 @@ stocks:
 - POLYMAC
 - SONIMED
 tags:
-- gsm
+- market-operations
+- securities-movement
 - surveillance
 - trading-restrictions
-- market-regulation
-- securities-movement
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

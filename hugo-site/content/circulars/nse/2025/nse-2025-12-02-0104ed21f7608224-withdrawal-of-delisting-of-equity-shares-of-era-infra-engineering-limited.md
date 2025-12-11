@@ -27,11 +27,9 @@ stocks:
 - ERAINFRA
 tags:
 - delisting
-- suspension
-- status-change
-- era-infra-engineering
-- ERAINFRA
 - listing-status
+- status-change
+- suspension
 title: Withdrawal of Delisting of Equity Shares of Era Infra Engineering Limited
 ---
 

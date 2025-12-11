@@ -64,9 +64,9 @@ stocks:
 - VUENOW
 tags:
 - add-on-price-band
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Add-on Price Band Framework - Updated List of Securities
 ---
 

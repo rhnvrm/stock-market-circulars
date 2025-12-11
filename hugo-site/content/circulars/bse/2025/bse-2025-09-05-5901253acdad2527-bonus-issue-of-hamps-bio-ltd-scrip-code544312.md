@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- HAMPSBIO
+- HAMPS
 tags:
-- bonus-issue
-- share-crediting
+- bonus
 - corporate-action
-- trading-commencement
-- sebi-compliance
+- sebi
+- share-crediting
+- trading-operations
 title: Bonus Issue of Hamps Bio Limited - Revised Undertaking for Share Crediting
 ---
 

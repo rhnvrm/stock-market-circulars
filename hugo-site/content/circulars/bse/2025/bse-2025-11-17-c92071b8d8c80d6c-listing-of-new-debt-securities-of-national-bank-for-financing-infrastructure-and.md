@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
+- infrastructure-finance
 - listing
 - nbfid
 - private-placement
-- infrastructure-finance
-- bonds
 title: Listing of New Debt Securities of National Bank for Financing Infrastructure
   and Development
 ---

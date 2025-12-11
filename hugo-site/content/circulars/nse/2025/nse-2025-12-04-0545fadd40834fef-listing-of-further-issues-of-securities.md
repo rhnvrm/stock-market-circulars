@@ -45,11 +45,11 @@ stocks:
 - VMART
 - WIPRO
 tags:
-- listing
-- equity-shares
-- esop
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 18 Companies Including ICICI Bank,
   Wipro, Federal Bank
 ---

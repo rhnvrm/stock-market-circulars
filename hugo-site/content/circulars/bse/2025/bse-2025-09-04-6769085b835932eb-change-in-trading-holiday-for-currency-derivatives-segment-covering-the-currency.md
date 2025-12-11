@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trading-holiday
-- currency-derivatives
-- government-securities
+- derivatives
 - forex
-- money-markets
+- gsec
+- holiday
 - interest-rate-derivatives
-- settlement
-- rbi
 - maharashtra
+- money-markets
+- rbi
+- settlement
 title: Change in Trading Holiday for Currency Derivatives Segment - September 08,
   2025 Declared Public Holiday
 ---

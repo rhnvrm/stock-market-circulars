@@ -24,17 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- '530131'
 - JKLAKSHMI
 tags:
-- amalgamation
-- merger
+- conversion
 - corporate-action
-- share-exchange
-- nclt-approval
+- nclt
 - record-date
+- scheme-of-arrangement
 - udaipur-cement
-- jk-lakshmi-cement
 title: Amalgamation of Udaipur Cement Works Limited with JK Lakshmi Cement Ltd
 ---
 

@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- collateral-management
-- nmass
 - cim
-- platform-migration
-- debt-segment
 - clearing
+- collateral
+- debt-securities
 - operational-change
+- platform-migration
+- trading-platform
 title: Migration of Services from CIM to NMASS
 ---
 

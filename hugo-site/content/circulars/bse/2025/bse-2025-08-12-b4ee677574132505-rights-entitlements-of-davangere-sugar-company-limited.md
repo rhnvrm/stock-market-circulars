@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DAVAN
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
 - davangere-sugar
+- renunciation
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Davangere Sugar Company Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ABRIL
 tags:
-- listing
-- equity-shares
-- shareholding-pattern
-- disclosure
 - compliance
+- disclosure
+- equity
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of ABRIL PAPER TECH LIMITED
 ---
 

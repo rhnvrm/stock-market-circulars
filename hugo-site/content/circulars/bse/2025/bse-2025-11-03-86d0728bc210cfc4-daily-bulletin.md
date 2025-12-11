@@ -28,15 +28,15 @@ source: bse
 stocks:
 - AJANTPHARM
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- corporate-actions
-- redemption
-- interest-payment
 - commercial-paper
-- debentures
+- corporate-action
+- daily-bulletin
+- dividend
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

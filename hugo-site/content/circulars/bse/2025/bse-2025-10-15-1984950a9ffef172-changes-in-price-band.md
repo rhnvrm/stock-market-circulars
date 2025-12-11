@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - AKSHARSPIN
-- BMWVENTURES
+- BMWVENTLTD
 - CUBICALFIN
 - DEEPDIAIND
 - GMBREW
@@ -53,11 +53,11 @@ stocks:
 - ZENITHSTEEL
 - ZINEMAMEDIA
 tags:
-- price-band
-- trading
-- surveillance
-- volatility-limits
 - equity
+- price-band
+- surveillance
+- trading
+- volatility-limits
 title: Revised Price Bands for 27 Securities Effective October 16, 2025
 ---
 

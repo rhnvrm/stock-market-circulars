@@ -26,17 +26,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- zerodha
-- nifty-50
 - index-fund
-- bse-star-mf
-- scheme-reopening
-- subscription
+- mutual-fund
+- nifty-50
 - redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
+- zerodha
 title: Availability of ZERODHA NIFTY 50 INDEX FUND for ongoing transactions on BSE
   StAR MF Platform
 ---

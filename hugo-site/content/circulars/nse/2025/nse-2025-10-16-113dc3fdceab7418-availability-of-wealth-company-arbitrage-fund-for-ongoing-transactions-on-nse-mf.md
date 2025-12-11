@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- wealth-company
 - arbitrage-fund
-- subscriptions
-- redemptions
+- mutual-fund
+- platform-availability
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- platform-availability
+- wealth-company
 title: Availability of Wealth Company Arbitrage Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

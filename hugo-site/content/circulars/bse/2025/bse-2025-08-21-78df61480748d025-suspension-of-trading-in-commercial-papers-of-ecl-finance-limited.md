@@ -27,9 +27,9 @@ stocks:
 - ECL
 tags:
 - commercial-paper
-- suspension
-- debt-market
+- debt-securities
 - ecl-finance
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Papers of ECL Finance Limited
 ---

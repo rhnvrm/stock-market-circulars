@@ -28,15 +28,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- illiquid-stock-options
-- market-manipulation
-- reversal-trades
-- fraudulent-trading
-- bse
-- pfutp-regulations
+- adjudication
 - artificial-volume
+- bse
+- illiquid-stock-options
+- investigation
+- market-operations
 - penalty
+- regulatory-framework
+- reversal-trades
 title: Adjudication Order Against Nimisha Hemani for Non-Genuine Trading in Illiquid
   Stock Options
 ---

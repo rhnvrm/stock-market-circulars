@@ -27,10 +27,9 @@ stocks:
 - CHANDISTEELIN
 tags:
 - delisting
-- acquisition-window
-- settlement-schedule
 - early-pay-in
-- offer-to-buy
+- otb
+- settlement
 title: Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for CHANDI
   STEEL INDUSTRIES LIMITED
 ---

@@ -27,11 +27,11 @@ source: nse
 stocks:
 - FABTECH
 tags:
-- trade-for-trade
-- segment-transfer
 - ipo
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade - Fabtech Technologies Limited (IPO)
 ---
 

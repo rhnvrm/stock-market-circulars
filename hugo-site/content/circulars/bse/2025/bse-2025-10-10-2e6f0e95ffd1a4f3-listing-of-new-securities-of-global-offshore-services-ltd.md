@@ -28,12 +28,12 @@ source: bse
 stocks:
 - GOSL
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - global-offshore-services
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Global Offshore Services Ltd - Preferential Issue
 ---
 

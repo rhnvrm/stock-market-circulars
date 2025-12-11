@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GABION
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
-- icdr-regulations
+- draft-document
 - gabion-technologies
+- icdr
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of GABION TECHNOLOGIES INDIA LIMITED
 ---
 

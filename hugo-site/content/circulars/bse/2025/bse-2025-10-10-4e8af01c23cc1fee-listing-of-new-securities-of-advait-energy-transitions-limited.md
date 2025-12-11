@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ADVAIT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- new-securities
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of ADVAIT ENERGY TRANSITIONS LIMITED
 ---
 

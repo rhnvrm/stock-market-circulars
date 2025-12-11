@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ADANIPOWER
 tags:
-- subdivision
-- equity-shares
-- adani-power
-- corporate-actions
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of ADANI POWER LTD (Scrip Code: 533096)'
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SWASTIK
 tags:
-- name-change
-- certificate-of-incorporation
+- certificate
 - corporate-action
-- swastik-safe-deposit
 - e-and-e-enterprises
+- name-change
+- swastik-safe-deposit
 title: Change in Name of The Swastik Safe Deposit and Investments Ltd to E & E Enterprises
   Limited
 ---

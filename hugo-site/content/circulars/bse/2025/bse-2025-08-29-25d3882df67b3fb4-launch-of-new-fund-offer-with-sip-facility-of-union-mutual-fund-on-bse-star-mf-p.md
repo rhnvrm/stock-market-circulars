@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
+- fund-of-funds
 - mutual-fund
 - nfo
 - sip
 - union-mutual-fund
-- equity
-- fund-of-funds
 title: Launch of New Fund Offer with SIP facility of UNION Mutual Fund on BSE StAR
   MF Platform
 ---

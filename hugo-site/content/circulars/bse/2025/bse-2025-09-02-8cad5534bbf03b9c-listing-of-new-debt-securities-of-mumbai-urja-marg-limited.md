@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MUML
 tags:
+- bond
 - debt-securities
-- private-placement
-- mumbai-urja-marg
-- corporate-bonds
 - listing
+- mumbai-urja-marg
+- private-placement
 title: Listing of new debt securities of Mumbai Urja Marg Limited
 ---
 

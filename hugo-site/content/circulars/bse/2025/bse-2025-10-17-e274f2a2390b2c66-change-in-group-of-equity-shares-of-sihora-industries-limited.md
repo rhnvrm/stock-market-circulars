@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SIHORA
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- sme
 - segment-transfer
-- mt-group
-- m-group
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SIHORA INDUSTRIES LIMITED
 ---
 

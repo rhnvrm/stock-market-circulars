@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- muhurat-trading
-- location-id
 - algo-mismatch
-- trading-operations
-- file-download
 - compliance
+- file-download
+- location-id
+- trading-operations
+- trading-session
 title: Download of Unregistered Location ID and ALGO Mismatch Files on Account of
   Muhurat Trading Session on October 21, 2025
 ---

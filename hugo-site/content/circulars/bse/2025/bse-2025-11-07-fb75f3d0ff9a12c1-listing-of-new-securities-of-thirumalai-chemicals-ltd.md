@@ -28,11 +28,10 @@ source: bse
 stocks:
 - THIRUMALAI
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
 - lock-in
-- thirumalai-chemicals
+- preferential-issue
 title: Listing of New Securities of Thirumalai Chemicals Ltd.
 ---
 

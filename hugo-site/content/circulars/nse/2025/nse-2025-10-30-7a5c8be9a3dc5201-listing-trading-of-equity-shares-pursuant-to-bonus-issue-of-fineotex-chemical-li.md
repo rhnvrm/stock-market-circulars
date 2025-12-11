@@ -27,11 +27,10 @@ source: nse
 stocks:
 - FCL
 tags:
-- listing
-- bonus-issue
-- equity-shares
-- FCL
+- bonus
+- equity
 - fineotex-chemical
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Fineotex Chemical
   Limited
 ---

@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- release-order
-- defaulter
-- recovery
-- enforcement
 - continental-seeds
+- defaulter
+- enforcement
+- recovery
+- release
 title: 'Release Order – Vivek Kumar Varshney [Defaulter] PAN: AWTPV7908B in the matter
   of Continental Seeds and Chemicals Limited'
 ---

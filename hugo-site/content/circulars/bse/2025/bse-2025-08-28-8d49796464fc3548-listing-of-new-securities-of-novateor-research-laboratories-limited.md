@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NOVATEOR
 tags:
-- new-listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
-- lock-in-period
+- conversion
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Novateor Research Laboratories Limited
 ---
 

@@ -28,8 +28,6 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- mwpl
-- inox-wind
 - risk-management
 - settlement
 title: Revised MWPL Position Limits for Inox Wind Limited

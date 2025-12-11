@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PAVNA
 tags:
-- corporate-actions
-- sub-division
-- equity-shares
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of PAVNA INDUSTRIES LTD (Scrip Code: 543915)'
 ---
 

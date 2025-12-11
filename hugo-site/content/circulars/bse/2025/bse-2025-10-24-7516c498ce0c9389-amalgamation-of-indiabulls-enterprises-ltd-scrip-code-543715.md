@@ -26,16 +26,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- INDIABULLS
+- IBULLSLTD
 - YAARI
 tags:
-- amalgamation
-- merger
-- nclt
-- trading-suspension
+- conversion
 - corporate-action
-- share-swap
+- nclt
 - record-date
+- scheme-of-arrangement
+- suspension
 title: 'Amalgamation of Indiabulls Enterprises Ltd (Scrip Code: 543715)'
 ---
 

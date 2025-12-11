@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- government-securities
-- g-sec
 - auction
-- non-competitive-bidding
+- debt-securities
+- gsec
 - ncb
-- debt-market
+- non-competitive-bidding
 - rbi
 - trading
 title: Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on October

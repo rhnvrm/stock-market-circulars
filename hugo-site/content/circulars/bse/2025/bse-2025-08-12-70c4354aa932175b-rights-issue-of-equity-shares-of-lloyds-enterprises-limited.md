@@ -26,10 +26,10 @@ source: bse
 stocks:
 - LLOYDS
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
+- corporate-action
+- equity
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares - LLOYDS ENTERPRISES LIMITED
 ---
 

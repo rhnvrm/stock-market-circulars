@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- fund-of-funds
-- scheme-changes
-- sebi-framework
-- hdfc
 - benchmark-changes
+- fund-of-funds
+- hdfc
+- mutual-fund
+- regulatory-framework
+- scheme-changes
 title: Change in Scheme name of HDFC on BSE StAR MF Platform
 ---
 

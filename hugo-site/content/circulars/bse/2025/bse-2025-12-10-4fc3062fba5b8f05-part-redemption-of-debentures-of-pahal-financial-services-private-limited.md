@@ -27,14 +27,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt
-- corporate-actions
-- debentures
-- part-redemption
-- non-convertible-debentures
+- corporate-action
+- debt-securities
 - interest-payment
-- record-date
+- ncd
 - pahal-financial-services
+- record-date
+- redemption
 title: Part Redemption of Debentures of PAHAL FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

@@ -29,12 +29,12 @@ stocks:
 - MANGALAMIND
 - OMNITEX
 - PRABHHANS
-- SHININGTOOLS
+- SHTL
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band - Five Scrips Revised
 ---
 

@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544500'
-- '544501'
+- ABRIL
+- SUGSLLOYD
 tags:
-- index-addition
-- sme-ipo-index
-- sme-platform
+- index-change
 - listing
-- index-rebalancing
+- sme
+- sme-ipo-index
 title: Additions to the BSE SME IPO INDEX - ABRIL PAPER TECH LIMITED and SUGS LLOYD
   LIMITED
 ---

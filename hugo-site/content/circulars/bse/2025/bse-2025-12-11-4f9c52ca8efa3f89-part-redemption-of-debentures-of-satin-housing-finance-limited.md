@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SATINHF
 tags:
-- debentures
-- redemption
+- corporate-action
 - debt-securities
-- corporate-actions
 - interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of SATIN HOUSING FINANCE LIMITED
 ---
 

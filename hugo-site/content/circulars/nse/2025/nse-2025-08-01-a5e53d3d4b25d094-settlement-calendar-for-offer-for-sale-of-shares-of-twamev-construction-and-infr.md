@@ -26,11 +26,11 @@ source: nse
 stocks:
 - TWAMEV
 tags:
-- offer-for-sale
+- clearing
+- ofs
+- secondary-market
 - settlement-calendar
 - twamev-construction
-- clearing
-- secondary-market
 title: Settlement Calendar for Offer for Sale of shares of Twamev Construction and
   Infrastructure Limited
 ---

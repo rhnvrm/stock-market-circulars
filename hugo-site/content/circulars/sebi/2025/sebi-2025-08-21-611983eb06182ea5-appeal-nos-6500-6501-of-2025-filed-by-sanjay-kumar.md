@@ -26,11 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- mutual-funds
+- appeal
 - information-disclosure
-- appellate-authority
+- mutual-fund
 - repetitive-applications
+- rti
 title: RTI Appeals 6500 & 6501 of 2025 - Rejection of Repetitive Mutual Fund Information
   Requests
 ---

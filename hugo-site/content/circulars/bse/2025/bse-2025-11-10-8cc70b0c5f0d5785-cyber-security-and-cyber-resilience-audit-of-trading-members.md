@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- cyber-security
 - audit
-- trading-members
+- ciso
 - compliance
-- CISO
-- cyber-resilience
-- CSCRF
-- governance
-- IT-security
+- corporate-governance
+- cscrf
+- cyber-security
+- cybersecurity
+- it-security
+- trading-member
 title: Cyber Security and Cyber Resilience Audit of Trading Members
 ---
 

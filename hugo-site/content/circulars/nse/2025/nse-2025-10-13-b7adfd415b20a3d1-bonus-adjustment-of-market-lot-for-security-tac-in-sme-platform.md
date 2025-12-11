@@ -26,11 +26,10 @@ source: nse
 stocks:
 - TAC
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme-platform
+- bonus
 - corporate-action
-- TAC
+- market-lot
+- sme
 title: 'BONUS: Adjustment of Market Lot for Security TAC in SME Platform'
 ---
 

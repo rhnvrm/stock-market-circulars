@@ -25,11 +25,11 @@ source: bse
 stocks:
 - JAYKAY
 tags:
-- new-securities
-- preferential-allotment
-- equity-shares
-- listing
+- equity
 - jaykay-enterprises
+- listing
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Jaykay Enterprises Limited
 ---
 

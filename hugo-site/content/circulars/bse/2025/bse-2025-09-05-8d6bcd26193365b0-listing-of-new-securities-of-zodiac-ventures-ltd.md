@@ -25,8 +25,8 @@ source: bse
 stocks:
 - ZODIAC
 tags:
+- equity
 - listing
-- equity-shares
 - rights-issue
 - zodiac-ventures
 title: Listing of New Securities of Zodiac Ventures Ltd.

@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
+- ifci
 - membership
 - surrender
-- currency-derivatives
-- ifci
-- compliance
 title: Segmental Surrender of Membership - IFCI Financial Services Limited
 ---
 

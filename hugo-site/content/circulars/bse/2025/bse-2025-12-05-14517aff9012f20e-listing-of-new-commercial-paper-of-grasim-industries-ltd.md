@@ -27,10 +27,10 @@ stocks:
 - GRASIM
 tags:
 - commercial-paper
-- debt-segment
+- debt-securities
 - grasim-industries
-- private-placement
 - listing
+- private-placement
 title: Listing of Commercial Paper of Grasim Industries Ltd
 ---
 

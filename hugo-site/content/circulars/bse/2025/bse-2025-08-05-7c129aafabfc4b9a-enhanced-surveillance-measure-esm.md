@@ -32,10 +32,9 @@ stocks:
 - VIJI
 - VINEET
 tags:
+- market-operations
 - surveillance
-- esm
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---
 

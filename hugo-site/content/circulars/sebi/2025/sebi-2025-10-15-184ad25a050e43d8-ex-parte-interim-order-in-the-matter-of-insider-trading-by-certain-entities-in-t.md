@@ -28,15 +28,13 @@ source: sebi
 stocks:
 - IEX
 tags:
-- insider-trading
+- cerc
 - enforcement
-- prohibition-of-insider-trading
 - ex-parte-order
 - interim-order
 - investigation
-- IEX
-- CERC
-- UPSI
+- prohibition-of-insider-trading
+- upsi
 title: Ex-Parte Interim Order in the matter of Insider Trading by certain entities
   in the scrip of IEX
 ---

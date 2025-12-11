@@ -23,14 +23,13 @@ published_date: '2025-08-26T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML69826.pdf
 severity: low
 source: nse
-stocks:
-- 10NFL25
+stocks: []
 tags:
-- trading-suspension
-- non-convertible-debentures
 - debt-securities
 - maturity
 - navi-finserv
+- ncd
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - Navi Finserv Limited
 ---
 

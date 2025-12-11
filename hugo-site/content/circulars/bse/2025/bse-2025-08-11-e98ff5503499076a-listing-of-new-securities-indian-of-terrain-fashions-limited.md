@@ -27,11 +27,11 @@ source: bse
 stocks:
 - INDTERRAIN
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - indian-terrain-fashions
+- lock-in
+- preferential-issue
 title: Listing of New Securities Indian of Terrain Fashions Limited
 ---
 

@@ -26,11 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
-- personal-information
 - employee-assets
 - fiduciary-capacity
+- personal-information
+- rti
 - section-8-exemption
 title: Appeal No. 6591 of 2025 filed by Padamkumar Jain
 ---

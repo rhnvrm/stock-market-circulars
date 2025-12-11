@@ -26,9 +26,9 @@ stocks:
 - HDFCAMC
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - hdfc-securities
+- private-placement
 title: Listing of new Commercial Paper of HDFC Securities Limited
 ---
 

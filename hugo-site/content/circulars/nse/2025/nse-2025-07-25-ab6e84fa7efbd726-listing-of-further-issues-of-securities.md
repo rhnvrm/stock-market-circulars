@@ -32,16 +32,9 @@ stocks:
 - MUFIN
 - YESBANK
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- CREDITACC
-- GPIL
-- HDFCAMC
-- JBCHEPHARM
-- LODHA
-- MUFIN
-- YESBANK
+- listing
 title: Listing of Further Issues - Multiple Companies ESOP Allotments
 ---
 

@@ -33,14 +33,14 @@ stocks:
 - PARMESHWAR
 - PERMANENTM
 - SHIKHARCONSULT
-- SHININGTOOLS
+- SHTL
 - SHREESHAY
 - SWPINNACLE
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-operations
 title: Changes in Price Band for 11 Securities Effective December 3, 2025
 ---
 

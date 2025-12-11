@@ -28,11 +28,10 @@ stocks:
 - INCON
 - INDOFARM
 tags:
-- volume-movement
 - clarification
-- surveillance
 - disclosure
-- price-sensitive-information
+- price-movement
+- surveillance
 title: Clarifications received from the companies on volume movement queries
 ---
 

@@ -26,12 +26,12 @@ source: nse
 stocks: []
 tags:
 - bank-guarantee
-- collateral
 - clearing-limits
-- pcm
+- collateral
 - custodian
+- debt-securities
 - net-worth
-- debt-segment
+- pcm
 title: Revision in Member-wise Bank-wise Limits for Bank Guarantee Acceptance as Collaterals
 ---
 

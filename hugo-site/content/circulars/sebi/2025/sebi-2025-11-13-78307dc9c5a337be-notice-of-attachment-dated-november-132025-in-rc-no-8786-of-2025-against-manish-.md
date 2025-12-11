@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- investment-advisory
-- unregistered-activity
-- recovery-certificate
+- enforcement
+- investment-adviser
 - legal-action
+- recovery
+- unregistered-activity
 title: Notice of Attachment dated November 13, 2025 in RC no 8786 of 2025 against
   Manish Kumar Mahaseth
 ---

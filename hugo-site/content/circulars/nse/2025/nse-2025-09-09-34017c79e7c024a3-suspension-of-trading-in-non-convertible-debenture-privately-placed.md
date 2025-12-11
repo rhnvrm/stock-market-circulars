@@ -25,11 +25,11 @@ source: nse
 stocks:
 - TMF
 tags:
-- suspension
-- non-convertible-debenture
-- trading-halt
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
+- trading-halt
 title: Suspension of trading in Non-Convertible Debenture of TMF Holdings Limited
 ---
 

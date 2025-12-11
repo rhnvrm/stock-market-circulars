@@ -26,9 +26,8 @@ source: bse
 stocks:
 - TENNIND
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - tenneco-clean-air
 title: Listing of Equity Shares of Tenneco Clean Air India Limited
 ---

@@ -25,11 +25,11 @@ source: nse
 stocks:
 - JINDALSTEL
 tags:
-- name-change
+- company-name
 - corporate-action
 - jindal-steel
-- company-name
 - listing
+- name-change
 title: Change in name of Jindal Steel & Power Limited to Jindal Steel Limited
 ---
 

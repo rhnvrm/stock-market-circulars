@@ -35,12 +35,12 @@ stocks:
 - TREJHARA
 - MOXSH
 tags:
-- trade-for-trade
-- surveillance
+- market-operations
 - price-band
-- market-safety
-- settlement
 - rolling-segment
+- settlement
+- surveillance
+- trade-for-trade
 title: 'Trade for Trade: 8 Securities Shifted to T2T Segment with 5% Price Band'
 ---
 

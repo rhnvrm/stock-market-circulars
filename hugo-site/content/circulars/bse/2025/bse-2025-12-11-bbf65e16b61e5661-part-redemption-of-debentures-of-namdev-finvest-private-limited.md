@@ -28,14 +28,13 @@ source: bse
 stocks:
 - NFPL
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- interest-payment
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
-- debt-segment
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of NAMDEV FINVEST PRIVATE LIMITED
 ---
 

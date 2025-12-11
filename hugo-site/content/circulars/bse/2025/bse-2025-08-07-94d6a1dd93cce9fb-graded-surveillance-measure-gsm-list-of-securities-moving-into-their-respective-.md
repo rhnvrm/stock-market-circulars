@@ -28,10 +28,9 @@ stocks:
 - INDIARAD
 - AARSHYAM
 tags:
-- gsm
-- surveillance
 - monitoring
 - risk-management
+- surveillance
 - trading
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages

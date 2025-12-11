@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HDBFIN
 tags:
-- debt-listing
-- private-placement
+- bond
+- debt-securities
 - hdb-financial-services
-- corporate-bonds
-- new-listing
+- listing
+- private-placement
 title: Listing of New Debt Securities of HDB Financial Services Limited
 ---
 

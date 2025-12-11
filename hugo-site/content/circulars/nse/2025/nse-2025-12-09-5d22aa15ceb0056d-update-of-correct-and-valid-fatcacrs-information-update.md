@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- fatca
-- crs
-- tax-compliance
 - client-master
+- crs
 - data-upload
+- fatca
 - kyc
+- mutual-fund
 - reporting
+- tax-compliance
 title: Update of Correct and Valid FATCA/CRS Information - Update
 ---
 

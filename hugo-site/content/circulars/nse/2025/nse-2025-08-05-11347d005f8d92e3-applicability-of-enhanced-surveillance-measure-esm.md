@@ -30,11 +30,10 @@ stocks:
 - VINEETLAB
 - ABMINTLLTD
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measures
 title: Applicability of Enhanced Surveillance Measure (ESM) - August 2025 Updates
 ---
 

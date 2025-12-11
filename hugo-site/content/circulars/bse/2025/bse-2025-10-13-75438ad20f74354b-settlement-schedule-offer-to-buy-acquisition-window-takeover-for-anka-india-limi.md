@@ -27,12 +27,10 @@ source: bse
 stocks:
 - ANKA
 tags:
+- demat
+- early-pay-in
 - settlement
 - takeover
-- acquisition
-- early-pay-in
-- demat
-- ANKA
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for ANKA INDIA
   LIMITED
 ---

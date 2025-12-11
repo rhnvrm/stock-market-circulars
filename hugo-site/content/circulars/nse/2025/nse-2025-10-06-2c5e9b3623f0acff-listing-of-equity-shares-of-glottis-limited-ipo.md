@@ -26,11 +26,9 @@ source: nse
 stocks:
 - GLOTTIS
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
-- glottis
-- new-listing
 - lock-in
 title: Listing of Equity Shares of Glottis Limited (IPO)
 ---

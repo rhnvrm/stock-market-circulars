@@ -27,12 +27,11 @@ source: bse
 stocks:
 - EMBASSYDEV
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- embassy-developments
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Embassy Developments Limited
 ---
 

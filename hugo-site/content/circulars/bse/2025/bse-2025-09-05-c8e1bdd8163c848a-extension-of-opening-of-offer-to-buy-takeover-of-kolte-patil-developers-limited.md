@@ -24,13 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- KOLTE-PATIL
+- KOLTEPATIL
 tags:
-- takeover
-- open-offer
-- acquisition
-- kolte-patil
 - schedule-extension
+- takeover
 title: Extension of Opening of Offer to Buy (Takeover) of KOLTE-PATIL DEVELOPERS LIMITED
 ---
 

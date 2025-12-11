@@ -27,14 +27,13 @@ source: nse
 stocks:
 - HINDUNILVR
 tags:
-- cross-margin
-- demerger
-- hindunilvr
-- nifty-index
-- spread-margin
-- risk-management
-- futures-and-options
 - clearing
+- cross-margin
+- futures-options
+- nifty-index
+- risk-management
+- scheme-of-arrangement
+- spread-margin
 title: Adjustment in Cross Margin Weightages on Account of Demerger in HINDUNILVR
   Limited
 ---

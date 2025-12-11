@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- qualified-stockbrokers
-- it-committee
-- cybersecurity
-- governance
 - compliance
-- sebi-circular
+- corporate-governance
+- cybersecurity
+- it-committee
+- qualified-stockbrokers
+- sebi
 title: Clarification on Information Technology / Cybersecurity Committee at QSBs
 ---
 

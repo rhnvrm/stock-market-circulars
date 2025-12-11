@@ -25,10 +25,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- portfolio-managers
 - amendment
-- disclosure-requirements
 - client-agreements
+- disclosure
+- portfolio-managers
 - regulations
 title: Securities and Exchange Board of India (Portfolio Managers) (Amendment) Regulations,
   2025

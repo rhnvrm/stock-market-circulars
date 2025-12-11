@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DEEPDIA
 tags:
-- rights-issue
-- equity-shares
-- corporate-actions
+- corporate-action
+- equity
 - record-date
-- ex-rights
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - Deep Diamond India Ltd
 ---
 

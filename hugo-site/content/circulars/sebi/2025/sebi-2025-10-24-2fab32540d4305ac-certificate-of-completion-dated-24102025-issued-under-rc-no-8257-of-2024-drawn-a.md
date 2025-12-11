@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- penalty-collection
-- illiquid-stock-options
+- adjudication
 - bse
-- enforcement-action
-- adjudication-order
+- enforcement
+- illiquid-stock-options
+- penalty
+- recovery
 title: Certificate of Completion dated 24.10.2025 issued under RC No. 8257 of 2024
   drawn against VS Shah in the matter of ISO at BSE
 ---

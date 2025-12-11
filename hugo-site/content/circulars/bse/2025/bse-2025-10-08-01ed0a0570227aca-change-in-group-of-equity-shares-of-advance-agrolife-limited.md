@@ -28,11 +28,11 @@ source: bse
 stocks:
 - ADVAGRO
 tags:
+- advance-agrolife
 - group-change
-- trade-for-trade
 - rolling-segment
 - segment-transfer
-- advance-agrolife
+- trade-for-trade
 title: Change in Group of Equity Shares of ADVANCE AGROLIFE LIMITED
 ---
 

@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- BLACKBOX
+- BBOX
 - CREDITACCESS
 - DRREDDY
 - EDELWEISS
@@ -34,11 +34,9 @@ stocks:
 - PARADEEP
 - PRATAAP
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---
 

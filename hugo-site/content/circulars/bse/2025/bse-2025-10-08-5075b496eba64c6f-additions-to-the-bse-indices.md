@@ -32,11 +32,11 @@ stocks:
 - INFINITY INFOWAY LIMITED
 - SUNSKY LOGISTICS LIMITED
 tags:
-- index
+- index-change
+- index-fund
 - ipo
-- sme-ipo
 - listing
-- index-addition
+- sme
 title: Additions to the BSE Indices
 ---
 

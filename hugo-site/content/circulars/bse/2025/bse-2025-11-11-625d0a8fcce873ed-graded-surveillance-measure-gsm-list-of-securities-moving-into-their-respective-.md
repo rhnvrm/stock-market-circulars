@@ -74,11 +74,10 @@ stocks:
 - BLUECHIP
 - UNIVA
 tags:
-- gsm
-- surveillance
-- market-regulation
-- trading-restrictions
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

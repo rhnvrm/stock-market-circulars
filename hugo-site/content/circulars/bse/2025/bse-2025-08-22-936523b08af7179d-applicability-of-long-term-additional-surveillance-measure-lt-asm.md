@@ -48,11 +48,10 @@ stocks:
 - SADBHAV
 - TRISHAKTI
 tags:
-- surveillance
-- asm
-- long-term-asm
-- trading-measures
+- asm-stage
 - risk-management
+- surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

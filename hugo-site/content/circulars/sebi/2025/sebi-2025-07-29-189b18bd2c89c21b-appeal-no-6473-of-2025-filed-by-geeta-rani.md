@@ -25,13 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
-- trading-records
+- appeal
 - audit-trail
 - bonanza-portfolio
 - investor-complaint
 - regulatory-enforcement
+- rti
+- trading-records
 title: Appeal No. 6473 of 2025 filed by Geeta Rani - RTI Request for Trading Account
   Records Denied
 ---

@@ -80,7 +80,7 @@ stocks:
 - LYKALABS
 - MARKSANS
 - MEERA
-- METALcoat
+- METALCOAT
 - MIRAEASSET
 - MONEYBOXX
 - MOSCHIP
@@ -125,10 +125,10 @@ stocks:
 - WALLFORT
 - WELSPUNLIV
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
 - securities
+- settlement
 title: Demat Auction - 764
 ---
 

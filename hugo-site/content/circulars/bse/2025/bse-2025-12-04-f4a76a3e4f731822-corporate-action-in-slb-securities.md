@@ -28,12 +28,12 @@ stocks:
 - HINDCON
 - DECCAN
 tags:
-- slb
-- securities-lending-borrowing
-- rights-issue
+- book-closure
+- collateral
 - corporate-action
 - foreclosure
-- shut-period
+- rights-issue
+- slb
 title: Corporate Action in SLB Securities - Rights Issues for Two Companies
 ---
 

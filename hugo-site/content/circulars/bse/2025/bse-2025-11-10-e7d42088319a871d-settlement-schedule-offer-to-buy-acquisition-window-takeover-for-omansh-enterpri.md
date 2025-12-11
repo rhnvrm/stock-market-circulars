@@ -26,13 +26,11 @@ source: bse
 stocks:
 - OMANSH
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
-- early-pay-in
 - demat-shares
-- OMANSH
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for OMANSH
   ENTERPRISES LIMITED
 ---

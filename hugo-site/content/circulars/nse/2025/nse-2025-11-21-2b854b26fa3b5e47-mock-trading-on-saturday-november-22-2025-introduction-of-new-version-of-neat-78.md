@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- neat-plus
-- system-upgrade
-- trading-platform
 - capital-market
+- mock-trading
+- system-update
+- trading-platform
 title: Mock Trading on Saturday, November 22, 2025 - Introduction of NEAT+ 7.8.6 &
   Discontinuation of NEAT+ 7.8.5 - Update
 ---

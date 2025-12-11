@@ -29,13 +29,9 @@ stocks:
 - NECLIFE
 - ORTINGLOBE
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trade-to-trade
-- ARENTERP
-- NECLIFE
-- ORTINGLOBE
 title: Applicability of Additional Surveillance Measure (ASM) - December 2025
 ---
 

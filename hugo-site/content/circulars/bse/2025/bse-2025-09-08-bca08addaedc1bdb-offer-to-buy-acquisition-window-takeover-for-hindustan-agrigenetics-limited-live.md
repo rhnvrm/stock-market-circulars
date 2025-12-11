@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HINDUST
 tags:
-- takeover
-- offer-to-buy
-- acquisition-window
-- trading-schedule
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for HINDUSTAN AGRIGENETICS LIMITED
   - Live Activities Schedule
 ---

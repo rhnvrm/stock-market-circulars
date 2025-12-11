@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- exit-load-waiver
+- hdfc-amc
 - mutual-fund
 - scheme-merger
-- hdfc-amc
-- exit-load-waiver
 - sip
 - swp
 title: Merger of certain schemes of HDFC Mutual Fund on NSE MF Invest Platform

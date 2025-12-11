@@ -25,10 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- angel-funds
 - aif
-- alternative-investment-funds
 - allocation-methodology
+- alternative-investment-funds
+- angel-funds
 - compliance-timeline
 - ppms
 title: Relaxation in timeline for disclosure of allocation methodology by Angel Funds

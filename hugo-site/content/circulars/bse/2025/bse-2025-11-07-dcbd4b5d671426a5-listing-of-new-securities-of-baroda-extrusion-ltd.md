@@ -28,11 +28,11 @@ source: bse
 stocks:
 - BARODAEXT
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- promoter-allotment
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Baroda Extrusion Ltd.
 ---
 

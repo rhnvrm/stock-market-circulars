@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - etf
+- fund-operations
+- mutual-fund
+- silver
 - subscription
 - tata-mutual-fund
-- silver-etf
-- fund-operations
 title: Resumption of Subscriptions in Tata Silver ETF Fund of Fund
 ---
 

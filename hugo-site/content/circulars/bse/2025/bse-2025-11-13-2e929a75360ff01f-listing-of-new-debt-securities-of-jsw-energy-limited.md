@@ -27,12 +27,10 @@ source: bse
 stocks:
 - JSWENERGY
 tags:
+- bond
 - debt-securities
+- listing
 - private-placement
-- new-listing
-- jsw-energy
-- bonds
-- debt-market
 title: Listing of New Debt Securities of JSW Energy Limited
 ---
 

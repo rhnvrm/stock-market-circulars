@@ -28,13 +28,12 @@ source: bse
 stocks:
 - IDBI
 tags:
-- suspension
-- debentures
-- early-redemption
-- non-convertible-debentures
+- corporate-action
 - debt-securities
 - idbi-bank
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of IDBI BANK LTD
 ---
 

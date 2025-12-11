@@ -25,10 +25,10 @@ source: bse
 stocks:
 - OXYZO
 tags:
-- debt-listing
-- private-placement
+- debt-securities
+- ncd
 - oxyzo-financial
-- debentures
+- private-placement
 title: Listing of new debt securities of OXYZO Financial Services Limited
 ---
 

@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mock-trading
-- business-continuity
-- interoperable-segments
-- equity-segment
 - alternate-trading-venue
 - bse-exclusive-securities
 - disaster-recovery
+- equity
+- interoperable-segments
+- mock-trading
 title: Special Mock Trading Session for Business Continuity for Interoperable Segments
   of Stock Exchanges
 ---

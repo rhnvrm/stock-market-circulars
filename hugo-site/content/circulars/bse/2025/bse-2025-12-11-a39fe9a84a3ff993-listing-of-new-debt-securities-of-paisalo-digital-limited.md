@@ -30,9 +30,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- paisalo-digital
 - new-securities
+- paisalo-digital
+- private-placement
 title: Listing of New Debt Securities of Paisalo Digital Limited
 ---
 

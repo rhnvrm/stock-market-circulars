@@ -44,11 +44,11 @@ stocks:
 - INDOKEM
 - KALPACOMM
 - KESAR
-- KUBERUDYOG
+- KUBERJI
 - LANDMARC
-- NIDHIGRANITES
+- NIDHGRN
 - OMNIAXS
-- OSWALYARNS
+- OSWAYRN
 - PANTHER
 - RAPICUT
 - SADHANA
@@ -58,16 +58,14 @@ stocks:
 - SPICELOUNGE
 - STELLANT
 - TRUSTWAVE
-- UMIYATUBES
+- UMIYA
 - WELSPUNIN
 - YASHTRADING
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- market-regulation
-- trading-restrictions
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - October 2025
 ---
 

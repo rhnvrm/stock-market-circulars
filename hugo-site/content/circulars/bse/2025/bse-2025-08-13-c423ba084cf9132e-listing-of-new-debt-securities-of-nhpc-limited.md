@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- nhpc
-- debentures
 title: Listing of new debt securities of NHPC Limited
 ---
 

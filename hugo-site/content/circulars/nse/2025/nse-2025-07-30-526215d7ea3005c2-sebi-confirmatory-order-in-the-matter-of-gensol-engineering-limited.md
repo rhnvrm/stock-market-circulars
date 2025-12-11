@@ -26,12 +26,12 @@ source: nse
 stocks:
 - GENSOL
 tags:
-- sebi-order
-- market-restraint
-- gensol-engineering
-- securities-ban
-- investigation
 - confirmatory-order
+- gensol-engineering
+- investigation
+- market-restraint
+- sebi-order
+- securities-ban
 title: SEBI Confirmatory Order in the matter of Gensol Engineering Limited
 ---
 

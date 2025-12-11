@@ -27,9 +27,8 @@ stocks:
 - MANAPPURAM
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- manappuram-finance
 - short-term-debt
 title: Listing of New Commercial Paper of Manappuram Finance Limited
 ---

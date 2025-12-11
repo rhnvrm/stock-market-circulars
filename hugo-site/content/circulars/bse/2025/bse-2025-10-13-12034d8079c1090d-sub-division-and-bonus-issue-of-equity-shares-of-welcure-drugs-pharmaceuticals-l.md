@@ -27,11 +27,11 @@ source: bse
 stocks:
 - WELCURE
 tags:
-- bonus-issue
-- sub-division
-- equity-shares
-- listing
+- bonus
 - corporate-action
+- equity
+- listing
+- split
 - welcure-drugs
 title: Sub-Division and Bonus Issue of Equity Shares of Welcure Drugs & Pharmaceuticals
   Ltd

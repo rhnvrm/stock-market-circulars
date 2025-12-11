@@ -27,12 +27,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- scores
-- investor-grievances
+- appeal
 - chronic-complainant
-- right-to-information
-- appellate-authority
+- investor-grievances
+- rti
+- scores
 title: Appeal No. 6579 of 2025 filed by Pavan Maroti Bodke - RTI Appeal Decision
 ---
 

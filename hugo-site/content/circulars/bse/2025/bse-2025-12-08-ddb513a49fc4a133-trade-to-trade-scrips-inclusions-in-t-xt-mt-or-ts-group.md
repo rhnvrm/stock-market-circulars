@@ -42,11 +42,11 @@ stocks:
 - UMIYATUBE
 - VINPOLY
 tags:
-- trade-for-trade
-- surveillance
-- price-band
-- trading-restrictions
 - market-segment
+- price-band
+- surveillance
+- trade-for-trade
+- trading-restrictions
 title: Trade-To-Trade Scrips – Inclusions in T, XT, MT or TS Group
 ---
 

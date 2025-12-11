@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ADANIENT
 tags:
-- derivatives
-- futures-and-options
-- corporate-action
-- rights-issue
 - contract-adjustment
-- adani-enterprises
+- corporate-action
+- derivatives
+- futures-options
+- rights-issue
 title: Adjustment of Futures and Options Contract of Adani Enterprises Ltd on account
   of Rights Issue
 ---

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - RRVUN
 tags:
-- bonds
-- debt
-- part-redemption
-- interest-payment
-- corporate-actions
+- bond
+- corporate-action
+- debt-securities
 - face-value-reduction
-- RRVUN
+- interest-payment
+- redemption
 title: Part Redemption on Bonds of RAJASTHAN RAJYA VIDYUT UTPADAN NIGAM LIMITED
 ---
 

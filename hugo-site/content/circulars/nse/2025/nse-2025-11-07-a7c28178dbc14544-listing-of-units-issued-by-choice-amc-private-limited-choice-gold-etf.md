@@ -26,12 +26,11 @@ source: nse
 stocks:
 - CHOICEGOLD
 tags:
-- listing
-- etf
-- gold-etf
-- choice-mutual-fund
-- new-listing
 - capital-market
+- choice-mutual-fund
+- etf
+- gold
+- listing
 title: Listing of Choice Gold ETF Units on NSE
 ---
 

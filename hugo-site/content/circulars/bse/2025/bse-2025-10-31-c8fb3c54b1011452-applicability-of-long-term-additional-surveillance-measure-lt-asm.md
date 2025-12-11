@@ -47,17 +47,17 @@ stocks:
 - NURECA
 - SELMC
 - SHARDACROP
-- SHETRON
+- SHETR
 - SILVEROAK
 - STLTECH
 - STRATMONT
 - VINTRON
 tags:
-- surveillance
-- lt-asm
-- trading-restrictions
-- market-safety
+- asm-stage
+- market-operations
 - regulatory-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

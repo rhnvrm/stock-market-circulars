@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- index-fund
+- manufacturing
 - mutual-fund
 - nfo
-- sip
-- manufacturing
-- index-fund
 - nippon-india
+- sip
 title: Launch of NIPPON INDIA NIFTY INDIA MANUFACTURING INDEX FUND NFO on BSE StAR
   MF Platform
 ---

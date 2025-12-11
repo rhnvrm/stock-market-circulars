@@ -44,14 +44,14 @@ stocks:
 - MILGREY
 - BOMTALKIE
 - YASHMAN
-- SCANSTEELS
+- SCANSTL
 - NILKANTH
 - BANGANGA
 - DHANSAFAL
 - KAJALSYN
 - SECUREKLOUD
-- BAJAJGLOBAL
-- TASHIINDIA
+- BAJGLOB
+- TASHIND
 - CHAMBAL
 - MANSOON
 - STARTECK
@@ -60,7 +60,7 @@ stocks:
 - MEENAKSHI
 - ACROW
 - MAHALAXMI
-- SHARDAISPAT
+- SHRDAIS
 - OMNITEX
 - SOMAPAPER
 - RIRPOWER
@@ -77,13 +77,13 @@ stocks:
 - RESONANCE
 - UNIMERS
 - ASIANPETRO
-- BERYLDRUGS
+- BERLDRG
 tags:
-- rta
-- registrar-transfer-agent
-- investor-services
 - adroit-corporate
 - december-2025
+- investor-services
+- registrar-transfer-agent
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for December 2025
 ---
 

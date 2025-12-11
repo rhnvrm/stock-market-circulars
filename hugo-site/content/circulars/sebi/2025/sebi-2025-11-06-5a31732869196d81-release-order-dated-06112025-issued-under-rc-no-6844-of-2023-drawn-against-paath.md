@@ -28,11 +28,11 @@ source: sebi
 stocks:
 - BAGFILMS
 tags:
-- recovery-certificate
-- enforcement
-- release-order
-- paath-financial-services
 - bhageria-industries
+- enforcement
+- paath-financial-services
+- recovery
+- release
 title: Release Order dated 06.11.2025 issued under RC No. 6844 of 2023 drawn against
   Paath Financial Services Private Limited in the matter of Bhageria Industries Limited
 ---

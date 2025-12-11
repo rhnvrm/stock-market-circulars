@@ -26,11 +26,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - defaulter
 - enforcement
-- debt-recovery
 - priyadarshini-spinning-mills
+- recovery
 title: Completion of Recovery Proceedings against Pardeep Aggarwal (Defaulter) in
   Priyadarshini Spinning Mills Ltd Matter
 ---

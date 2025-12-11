@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- APTUSPHARMA
+- APPL
 - BITS
 - EARKART
 - ENVAIR
@@ -49,11 +49,9 @@ stocks:
 - ZENITHSTL
 - SHREEVATSAA
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- short-term-asm
-- market-safety
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

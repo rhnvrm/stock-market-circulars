@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - JAYENERGY
 tags:
-- recovery-certificate
-- enforcement
-- compliance-order
-- jay-energy
 - completion-order
+- compliance-order
+- enforcement
+- recovery
 title: SEBI Order for Compliance - Completion Order for Recovery Certificate No. 8934
   of 2025 against Pinal Rajeshbhai Mehta in the matter of Jay Energy & S. Energies
   Limited

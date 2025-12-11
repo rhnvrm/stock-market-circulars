@@ -25,10 +25,10 @@ source: bse
 stocks:
 - INDSOYA
 tags:
-- listing
-- equity-shares
-- rights-issue
+- equity
 - indsoya-limited
+- listing
+- rights-issue
 title: Listing of new Securities of Indsoya Limited
 ---
 

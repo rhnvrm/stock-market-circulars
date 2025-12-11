@@ -50,13 +50,13 @@ stocks:
 - BANCOINDIA
 - SURYA
 tags:
-- slb
-- securities-lending-borrowing
-- dividend
-- rights-issue
-- foreclosure
-- corporate-action
 - book-closure
+- collateral
+- corporate-action
+- dividend
+- foreclosure
+- rights-issue
+- slb
 title: Corporate Action Updates - SLB Securities Foreclosure Schedule
 ---
 

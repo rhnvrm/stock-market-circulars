@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
+- derivatives
+- maintenance
 - member-exit
-- currency-derivatives
+- surrender
 - trading-member
-- business-closure
 title: Voluntary Closure of Business – DB (International) Stock Brokers Ltd
 ---
 

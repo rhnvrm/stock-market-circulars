@@ -37,12 +37,10 @@ stocks:
 - VAIBHAVGBL
 - WIPRO
 tags:
-- esop
-- esos
-- employee-stock-options
-- listing
-- new-shares
 - equity
+- esop
+- listing
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 11 Companies
 ---
 

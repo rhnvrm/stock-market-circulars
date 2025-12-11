@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PARAG
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- fccb-conversion
-- parag-milk-foods
 - new-securities
+- parag-milk-foods
 title: Listing of New Securities of Parag Milk Foods Ltd
 ---
 

@@ -28,13 +28,13 @@ source: bse
 stocks:
 - SBIN
 tags:
-- trading-suspension
-- bonds
-- debt-securities
-- redemption
-- interest-payment
 - at1-bonds
+- bond
+- debt-securities
+- interest-payment
+- redemption
 - state-bank-of-india
+- suspension
 title: Suspension of Trading in Bonds of State Bank of India
 ---
 

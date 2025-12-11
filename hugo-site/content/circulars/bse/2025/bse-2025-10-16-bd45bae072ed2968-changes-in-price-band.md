@@ -46,10 +46,10 @@ stocks:
 - TRITON
 - TWAMEV
 tags:
-- price-band
-- trading
-- surveillance
 - market-restrictions
+- price-band
+- surveillance
+- trading
 - volatility-control
 title: Changes in Price Band for 20 Securities Effective October 17, 2025
 ---

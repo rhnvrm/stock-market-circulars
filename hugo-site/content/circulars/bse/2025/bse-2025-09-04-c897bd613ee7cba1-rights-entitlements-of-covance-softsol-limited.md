@@ -26,11 +26,11 @@ source: bse
 stocks:
 - COVAN
 tags:
-- rights-entitlements
+- demat
 - renunciation
-- trading
-- dematerialized
+- rights-issue
 - t-plus-one-settlement
+- trading
 title: Rights Entitlements Trading for COVANCE SOFTSOL LIMITED
 ---
 

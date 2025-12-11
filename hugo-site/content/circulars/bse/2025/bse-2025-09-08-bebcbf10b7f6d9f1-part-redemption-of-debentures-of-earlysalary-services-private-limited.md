@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ESPLD
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of EARLYSALARY SERVICES PRIVATE LIMITED
 ---
 

@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- OMMETALLOGIC
+- OML
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- new-listing
 title: Listing of Equity Shares of OM Metallogic Limited
 ---
 

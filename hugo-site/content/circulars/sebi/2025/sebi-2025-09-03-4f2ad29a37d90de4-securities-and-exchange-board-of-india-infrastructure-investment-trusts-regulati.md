@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- infrastructure-investment-trusts
-- invit
-- regulations
-- registration
 - amendment
 - framework
+- infrastructure-investment-trusts
+- invit
+- registration
+- regulations
 title: Securities and Exchange Board of India (Infrastructure Investment Trusts) Regulations,
   2014 [Last amended on September 3, 2025]
 ---

@@ -27,10 +27,10 @@ stocks: []
 tags:
 - colocation
 - ip-requests
-- sla-changes
+- market-infrastructure
 - message-rate-change
 - processing-fees
-- trading-infrastructure
+- sla-changes
 title: Colocation Update - Changes in SLA for processing of IP requests
 ---
 

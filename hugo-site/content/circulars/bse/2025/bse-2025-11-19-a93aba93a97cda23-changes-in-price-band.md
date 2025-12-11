@@ -39,9 +39,9 @@ stocks:
 - SHREYASINT
 - VARDHOLD
 tags:
+- asm-stage
 - price-band
-- trading-parameters
-- surveillance-measure
+- trading-operations
 - trading-restrictions
 title: Price Band Revisions for 13 Securities Effective November 20, 2025
 ---

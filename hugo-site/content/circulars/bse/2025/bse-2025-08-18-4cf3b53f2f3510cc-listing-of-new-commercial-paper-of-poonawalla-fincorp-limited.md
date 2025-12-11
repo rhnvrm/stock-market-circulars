@@ -25,11 +25,10 @@ source: bse
 stocks:
 - POONAWALLA
 tags:
-- commercial-paper
-- debt-listing
-- poonawalla-fincorp
-- private-placement
 - bse-debt
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Poonawalla Fincorp Limited
 ---
 

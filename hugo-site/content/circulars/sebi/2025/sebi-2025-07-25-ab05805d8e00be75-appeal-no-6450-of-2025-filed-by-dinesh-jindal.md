@@ -27,11 +27,11 @@ stocks:
 - SHICL
 - SIRECL
 tags:
-- rti-appeal
-- sahara-housing-investment
-- refund-process
-- appellate-authority
+- appeal
 - investor-protection
+- refund-process
+- rti
+- sahara-housing-investment
 title: RTI Appeal Dismissed in Sahara Housing Investment Corporation Refund Query
 ---
 

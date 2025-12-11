@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
-- listing
-- interise-trust
-- private-placement
-- bonds
 - icra-aaa
 - ind-aaa
+- interise-trust
+- listing
+- private-placement
 title: Listing of New Debt Securities of INTERISE TRUST
 ---
 

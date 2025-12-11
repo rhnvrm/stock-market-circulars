@@ -27,16 +27,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
+- depository
+- digital-accessibility
+- intermediary
 - investor-protection
-- disability-rights
+- mutual-fund
 - regulatory-clarification
-- intermediaries
-- stock-exchanges
-- depositories
-- mutual-funds
 - scores
+- stock-exchanges
 title: Clarification on the Digital Accessibility - Rights of Persons with Disabilities
   Act, 2016 circulars of SEBI
 ---

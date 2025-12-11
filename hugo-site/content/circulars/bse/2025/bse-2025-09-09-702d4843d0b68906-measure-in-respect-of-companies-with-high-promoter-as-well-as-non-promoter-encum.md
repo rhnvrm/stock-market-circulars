@@ -32,12 +32,12 @@ stocks:
 - TFCILTD
 - TULSYAN
 tags:
-- surveillance
 - encumbrance
 - promoter
-- SAST
 - regulation-28
-- SEBI
+- sast
+- sebi
+- surveillance
 title: High Promoter and Non-Promoter Encumbrance Surveillance Measure Implementation
 ---
 

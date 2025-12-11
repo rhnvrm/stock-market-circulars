@@ -26,13 +26,12 @@ source: bse
 stocks:
 - DEVINSU
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
+- demat-shares
 - devinsu-trading
 - early-pay-in
-- demat-shares
-- otb-platform
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for DEVINSU
   TRADING LIMITED
 ---

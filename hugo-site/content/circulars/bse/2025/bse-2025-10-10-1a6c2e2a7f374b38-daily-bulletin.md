@@ -29,12 +29,12 @@ stocks:
 - ELECON
 tags:
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
-- ncd-redemption
-- corporate-actions
-- daily-bulletin
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

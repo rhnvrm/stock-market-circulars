@@ -27,13 +27,13 @@ source: bse
 stocks:
 - AAVAS
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - debt-securities
-- reduced-face-value
-- corporate-actions
+- face-value-change
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of AAVAS FINANCIERS LIMITED
 ---
 

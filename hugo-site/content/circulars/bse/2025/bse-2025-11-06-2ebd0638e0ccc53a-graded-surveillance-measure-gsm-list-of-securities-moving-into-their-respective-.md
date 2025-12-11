@@ -30,11 +30,10 @@ stocks:
 - HARIGCRK
 - EUROTEXIND
 tags:
-- gsm
+- asm-stage
+- market-operations
 - surveillance
-- stage-movement
 - trading-restrictions
-- market-regulation
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

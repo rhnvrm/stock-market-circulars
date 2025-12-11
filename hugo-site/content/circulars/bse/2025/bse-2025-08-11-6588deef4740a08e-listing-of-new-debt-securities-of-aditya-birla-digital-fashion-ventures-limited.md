@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ABDFVL
 tags:
+- aditya-birla
 - debt-securities
+- fixed-income
 - listing
 - private-placement
-- aditya-birla
-- fixed-income
 title: Listing of New Debt Securities of Aditya Birla Digital Fashion Ventures Limited
 ---
 

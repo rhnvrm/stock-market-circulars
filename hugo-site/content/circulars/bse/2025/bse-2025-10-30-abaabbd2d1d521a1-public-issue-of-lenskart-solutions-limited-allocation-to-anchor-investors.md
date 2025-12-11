@@ -28,12 +28,10 @@ source: bse
 stocks:
 - LENSKART
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
-- lenskart
-- equity-shares
-- initial-public-offering
 title: Public Issue of Lenskart Solutions Limited - Allocation to Anchor Investors
 ---
 

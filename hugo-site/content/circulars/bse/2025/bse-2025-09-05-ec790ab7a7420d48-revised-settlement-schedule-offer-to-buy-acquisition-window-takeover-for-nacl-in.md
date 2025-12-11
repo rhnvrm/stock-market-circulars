@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NACL
 tags:
+- nacl-industries
+- otb
 - settlement
 - takeover
-- acquisition
-- otb
-- nacl-industries
 title: Revised Settlement Schedule for NACL Industries Limited Takeover Offer
 ---
 

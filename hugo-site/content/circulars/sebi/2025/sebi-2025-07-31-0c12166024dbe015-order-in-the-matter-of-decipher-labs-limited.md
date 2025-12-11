@@ -26,13 +26,11 @@ source: sebi
 stocks:
 - DECIPHER
 tags:
-- investigation
-- pfutp
-- insider-trading
-- lodr
-- decipher-labs
-- securities-violations
 - directors
+- investigation
+- lodr
+- pfutp
+- securities-violations
 - shareholding
 title: Order in the matter of Decipher Labs Limited
 ---

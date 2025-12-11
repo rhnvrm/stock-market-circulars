@@ -28,11 +28,9 @@ source: nse
 stocks:
 - HDFCAMC
 tags:
-- securities-lending-borrowing
+- collateral
 - position-limits
-- HDFCAMC
-- SLBS
-- market-wide-position-limit
+- slbs
 title: Revised MWPL, Participant, Institutional & Non-Institutional Client Limits
   for HDFCAMC
 ---

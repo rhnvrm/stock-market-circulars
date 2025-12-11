@@ -27,11 +27,9 @@ source: bse
 stocks:
 - CAPILLARY
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
-- capillary-technologies
+- listing
 title: Listing of Equity Shares of Capillary Technologies India Limited
 ---
 

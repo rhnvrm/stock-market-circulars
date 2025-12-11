@@ -28,12 +28,11 @@ source: bse
 stocks:
 - CAMS
 tags:
-- derivatives
-- stock-split
-- corporate-action
-- futures-and-options
 - contract-adjustment
-- CAMS
+- corporate-action
+- derivatives
+- futures-options
+- split
 title: Adjustment of Futures and Options Contract of Computer Age Management Services
   Ltd on account of Stock Split
 ---

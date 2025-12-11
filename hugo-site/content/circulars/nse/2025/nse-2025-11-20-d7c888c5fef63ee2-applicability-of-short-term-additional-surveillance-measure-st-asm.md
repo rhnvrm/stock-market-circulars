@@ -34,11 +34,10 @@ stocks:
 - VLEGOV
 - VLSFINANCE
 tags:
-- surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
+- asm-stage
+- margin
 - risk-management
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

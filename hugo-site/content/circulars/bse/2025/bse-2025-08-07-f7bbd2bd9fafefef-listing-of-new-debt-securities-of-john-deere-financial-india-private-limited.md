@@ -25,11 +25,11 @@ source: bse
 stocks:
 - JDFIPL
 tags:
+- bond
 - debt-securities
-- private-placement
-- listing
 - john-deere-financial
-- corporate-bonds
+- listing
+- private-placement
 title: Listing of new debt securities of John Deere Financial India Private Limited
 ---
 

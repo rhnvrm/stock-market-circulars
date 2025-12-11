@@ -128,10 +128,10 @@ stocks:
 - WAAREE
 - 'YES'
 tags:
-- demat-auction
-- settlement
-- securities
 - auction
+- demat
+- securities
+- settlement
 title: Demat Auction - 697
 ---
 

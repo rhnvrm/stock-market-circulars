@@ -26,12 +26,10 @@ source: bse
 stocks:
 - SKFININD
 tags:
-- shareholding-pattern
+- equity
+- lodr
 - regulation-31
-- sebi-lodr
-- promoter-holding
-- public-holding
-- equity-shares
+- shareholding-pattern
 title: 'Listing of Equity Shares of SKF India (Industrial) Limited (Scrip Code: 544572)'
 ---
 

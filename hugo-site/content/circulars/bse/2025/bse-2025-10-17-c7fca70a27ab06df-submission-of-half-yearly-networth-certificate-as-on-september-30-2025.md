@@ -26,12 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- networth-certificate
-- compliance
+- certificate
 - clearing-members
-- iefs-portal
+- compliance
 - half-yearly-submission
 - iccl
+- iefs-portal
 - regulatory-filing
 title: Submission of Half Yearly Networth Certificate as on September 30, 2025
 ---

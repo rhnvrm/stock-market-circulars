@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- icici-home-finance
-- debentures
 title: Listing of new debt securities of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

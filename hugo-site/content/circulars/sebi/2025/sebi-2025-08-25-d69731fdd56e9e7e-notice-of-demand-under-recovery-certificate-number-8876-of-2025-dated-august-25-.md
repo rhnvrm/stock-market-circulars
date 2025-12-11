@@ -25,11 +25,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-certificate
-- demand-notice
-- trading-violation
-- continental-seeds
 - defaulter
+- demand-notice
+- recovery
+- trading-violation
 title: Notice of Demand under Recovery Certificate number 8876 of 2025 - Heena Khatoon
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - SECUR
 tags:
-- adjudication-order
-- market-manipulation
-- enforcement-action
+- adjudication
+- enforcement
+- market-operations
+- regulatory-framework
 - securities-fraud
-- PFUTP-regulations
 title: Adjudication Order in the matter of manipulation in the scrip of SecUR Credentials
   Limited
 ---

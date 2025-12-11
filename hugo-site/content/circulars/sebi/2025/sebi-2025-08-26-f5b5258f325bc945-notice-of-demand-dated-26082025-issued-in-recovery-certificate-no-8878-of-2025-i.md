@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- investment-advisor
-- portfolio-manager
-- enforcement
-- unregistered-services
 - demand-notice
+- enforcement
+- investment-adviser
+- portfolio-manager
+- recovery
+- unregistered-services
 title: Notice of Demand dated 26.08.2025 issued in Recovery Certificate No. 8878 of
   2025 against Vipin Sharma for Unregistered Investment Advisor and Portfolio Manager
   Services

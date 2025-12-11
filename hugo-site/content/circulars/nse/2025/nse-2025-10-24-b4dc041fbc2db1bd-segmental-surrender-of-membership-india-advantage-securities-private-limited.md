@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
+- india-advantage-securities
+- irf
 - membership
 - surrender
-- currency-derivatives
-- IRF
-- compliance
-- india-advantage-securities
 title: Segmental Surrender of Membership - India Advantage Securities Private Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - APTUS
 tags:
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
 - face-value-reduction
-- corporate-actions
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of APTUS VALUE HOUSING FINANCE INDIA LIMITED
 ---
 

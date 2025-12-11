@@ -27,10 +27,9 @@ stocks:
 - BARBEQUE
 - UFBL
 tags:
-- name-change
-- symbol-change
 - corporate-action
 - listing
+- name-change
 title: Change in Name and Symbol of Barbeque Nation Hospitality Limited
 ---
 

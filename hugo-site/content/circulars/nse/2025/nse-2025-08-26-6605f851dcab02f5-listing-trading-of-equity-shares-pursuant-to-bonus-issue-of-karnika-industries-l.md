@@ -26,11 +26,11 @@ source: nse
 stocks:
 - KARNIKA
 tags:
-- bonus-issue
+- bonus
+- equity
+- karnika-industries
 - listing
 - trading
-- equity-shares
-- karnika-industries
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Karnika Industries
   Limited
 ---

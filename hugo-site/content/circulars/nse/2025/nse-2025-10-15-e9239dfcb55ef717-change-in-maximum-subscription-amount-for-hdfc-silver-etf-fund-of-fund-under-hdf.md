@@ -27,15 +27,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- hdfc-mutual-fund
 - etf
-- silver-etf
-- subscription-limit
+- fund-of-funds
+- hdfc-mutual-fund
 - investor-protection
+- mutual-fund
+- silver
+- subscription-limit
+- trading-platform
 - volatility
-- fund-of-fund
-- nse-mf-invest
 title: Change in Maximum Subscription Amount for HDFC Silver ETF Fund of Fund on NSE
   MF Invest Platform
 ---

@@ -32,9 +32,9 @@ stocks:
 - RAMCHAND
 - SNSPROP
 tags:
+- book-building
 - otb
 - takeover
-- bidding
 - trading
 title: OTB Segment Bidding Open for 7 Companies on September 5, 2025
 ---

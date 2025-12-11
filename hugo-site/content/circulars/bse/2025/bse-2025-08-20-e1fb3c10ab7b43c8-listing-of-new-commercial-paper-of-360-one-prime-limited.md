@@ -25,11 +25,11 @@ source: bse
 stocks:
 - 360ONE
 tags:
-- commercial-paper
-- debt-listing
 - 360-one-prime
-- private-placement
+- commercial-paper
+- debt-securities
 - hdfc-bank
+- private-placement
 title: Listing of new Commercial Paper of 360 ONE Prime Limited
 ---
 

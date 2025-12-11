@@ -28,11 +28,11 @@ source: bse
 stocks:
 - LASTMILE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Last Mile Enterprises Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOEL
 tags:
-- index
-- sme
+- goel-construction
+- index-fund
 - ipo
 - listing
-- goel-construction
+- sme
 title: Addition of Goel Construction Company Limited to BSE SME IPO Index
 ---
 

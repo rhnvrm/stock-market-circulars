@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-certificate
-- trading-investigation
-- continental-seeds
-- defaulter-notice
+- defaulter
 - enforcement
+- recovery
+- trading-investigation
 title: Notice of Demand under Recovery Certificate No. 8872 of 2025 against Hari Om
   Singh
 ---

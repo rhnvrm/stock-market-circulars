@@ -26,10 +26,9 @@ source: bse
 stocks:
 - DEVACCEL
 tags:
-- ipo
+- allotment
 - anchor-investor
-- allocation
-- dev-accelerator
+- ipo
 - public-issue
 title: Dev Accelerator Limited IPO - Anchor Investor Allocation Finalized
 ---

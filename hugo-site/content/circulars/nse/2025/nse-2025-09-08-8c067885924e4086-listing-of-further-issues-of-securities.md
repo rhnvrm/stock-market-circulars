@@ -31,11 +31,11 @@ stocks:
 - ATHERENERG
 - AVALON
 tags:
+- equity
+- esop
+- further-issue
 - listing
 - securities
-- esop
-- equity-shares
-- further-issues
 title: Listing of Further Issues of Securities - 15 Companies Including 3i Infotech,
   Aditya Birla Capital, Angel One
 ---

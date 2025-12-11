@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- regulations
-- deposit
-- lien
 - amendment
+- deposit
+- investment-adviser
+- lien
+- regulations
 title: Securities and Exchange Board of India (Investment Advisers) (Amendment) Regulations,
   2025
 ---

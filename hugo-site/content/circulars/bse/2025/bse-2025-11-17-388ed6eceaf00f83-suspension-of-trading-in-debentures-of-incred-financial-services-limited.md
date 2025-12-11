@@ -27,13 +27,12 @@ source: bse
 stocks:
 - INCRED
 tags:
-- debentures
-- trading-suspension
-- debt-market
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- INCRED
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of INCRED FINANCIAL SERVICES LIMITED
 ---
 

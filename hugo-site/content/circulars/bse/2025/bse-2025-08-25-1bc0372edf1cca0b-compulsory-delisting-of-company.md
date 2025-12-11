@@ -27,11 +27,10 @@ stocks:
 - ASAHI
 tags:
 - delisting
-- compulsory-delisting
-- suspension
-- equity-shares
-- sebi-regulations
+- equity
 - market-access-ban
+- regulatory-framework
+- suspension
 title: Compulsory Delisting of Asahi Infrastructure & Projects Ltd
 ---
 

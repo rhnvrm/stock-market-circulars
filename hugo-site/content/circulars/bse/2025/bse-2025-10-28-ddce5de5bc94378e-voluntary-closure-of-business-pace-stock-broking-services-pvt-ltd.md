@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
+- derivatives
 - member-exit
-- commodity-derivatives
 - membership
+- surrender
 title: Voluntary Closure of Business – Pace Stock Broking Services Pvt. Ltd.
 ---
 

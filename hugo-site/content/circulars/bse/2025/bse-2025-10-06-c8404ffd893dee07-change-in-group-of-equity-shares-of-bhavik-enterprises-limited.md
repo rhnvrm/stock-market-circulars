@@ -28,11 +28,10 @@ stocks:
 - BHAVIKENT
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- bhavik-enterprises
-- trading-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Bhavik Enterprises Limited
 ---
 

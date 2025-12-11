@@ -27,10 +27,9 @@ stocks:
 - NGEL
 tags:
 - debt-securities
-- debentures
-- new-listing
+- listing
+- ncd
 - privately-placed
-- NGEL
 title: Listing of privately placed securities on capital market segment - NTPC Green
   Energy Limited
 ---

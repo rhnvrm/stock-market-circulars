@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ECL
 tags:
-- debt-securities
-- ncd
 - cash-flow
-- interest-rate-changes
+- debt-securities
 - ecl-finance
+- interest-rate-changes
+- ncd
 title: Update Regarding Debt Securities of ECL Finance Limited - Cash Flow Details
 ---
 

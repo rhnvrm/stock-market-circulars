@@ -25,10 +25,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- derivatives
 - mock-trading
-- currency-derivatives
-- neat-adapter
-- system-testing
+- trading-platform
 - trading-session
 title: Mock Trading Session for Currency Derivatives - September 06, 2025
 ---

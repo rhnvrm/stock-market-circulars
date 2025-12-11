@@ -27,11 +27,11 @@ source: bse
 stocks:
 - GOEL CONSTRUCTION COMPANY LIMITED
 tags:
-- trading-segment
 - group-change
+- rolling-segment
 - sme
-- rolling-settlement
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of GOEL CONSTRUCTION COMPANY LIMITED
 ---
 

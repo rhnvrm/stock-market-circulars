@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544497'
+- AHCL
 tags:
-- group-change
-- trading-segment
-- equity-shares
 - anlon-healthcare
+- equity
+- group-change
+- trading
 title: Change in Group of Equity Shares of Anlon Healthcare Limited
 ---
 

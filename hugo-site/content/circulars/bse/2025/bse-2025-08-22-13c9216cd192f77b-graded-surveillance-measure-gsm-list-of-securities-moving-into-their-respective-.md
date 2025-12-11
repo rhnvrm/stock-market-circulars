@@ -28,11 +28,10 @@ stocks:
 - IYKOT
 - ADLINE
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - compliance
 - monitoring
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

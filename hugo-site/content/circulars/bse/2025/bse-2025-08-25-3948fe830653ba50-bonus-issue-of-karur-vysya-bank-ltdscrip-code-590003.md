@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KARURVYSYA
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- equity-shares
-- record-date
+- equity
 - ex-bonus
+- record-date
 title: Bonus Issue of Karur Vysya Bank - 1:5 Ratio with Ex-Bonus Date August 26, 2025
 ---
 

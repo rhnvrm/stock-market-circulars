@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UNIGOLD
 tags:
-- debentures
-- part-redemption
-- face-value-reduction
-- debt-securities
 - corporate-action
+- debt-securities
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of UNIGOLD FINANCE LTD
 ---
 

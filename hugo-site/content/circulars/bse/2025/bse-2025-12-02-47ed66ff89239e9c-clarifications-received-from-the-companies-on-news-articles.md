@@ -27,10 +27,10 @@ stocks:
 - IDEA
 tags:
 - clarification
+- company-disclosure
+- media-reports
 - news-verification
 - surveillance
-- media-reports
-- company-disclosure
 title: Clarifications received from the companies on news articles
 ---
 

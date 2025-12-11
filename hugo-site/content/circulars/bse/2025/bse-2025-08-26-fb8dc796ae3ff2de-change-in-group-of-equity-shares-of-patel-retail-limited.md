@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PATEL
 tags:
-- trading-segment
 - group-change
-- trade-for-trade
-- rolling-segment
 - patel-retail
+- rolling-segment
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Patel Retail Limited
 ---
 

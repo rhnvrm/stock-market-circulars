@@ -30,12 +30,9 @@ stocks:
 - LOKESHMACH
 - VISASTEEL
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- market-surveillance
 - trade-for-trade
-- enhanced-surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

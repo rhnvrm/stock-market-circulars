@@ -27,12 +27,10 @@ source: nse
 stocks:
 - YASHOPTICS
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
-- yashoptics
 title: Applicability of Enhanced Surveillance Measure (ESM) - September 2025 Update
 ---
 

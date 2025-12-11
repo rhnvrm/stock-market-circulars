@@ -28,12 +28,11 @@ stocks:
 - GODREJPHIL
 - NEIL
 tags:
-- price-movement
-- volume-increase
 - clarification
-- surveillance
-- market-driven
 - lodr-regulation-30
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding price and volume movements
 ---
 

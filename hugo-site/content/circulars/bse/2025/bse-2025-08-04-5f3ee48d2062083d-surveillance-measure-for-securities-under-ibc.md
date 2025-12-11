@@ -25,12 +25,10 @@ source: bse
 stocks:
 - OMKAR
 tags:
-- surveillance
-- ibc
-- insolvency
-- asm
 - compliance
+- insolvency
 - omkar-speciality
+- surveillance
 title: Surveillance Measure for Securities Under IBC - August 2025 Update
 ---
 

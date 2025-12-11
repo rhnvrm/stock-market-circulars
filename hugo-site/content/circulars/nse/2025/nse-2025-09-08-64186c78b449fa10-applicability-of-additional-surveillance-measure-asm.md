@@ -35,12 +35,9 @@ stocks:
 - APOLLO
 - ARCHIDPLY
 tags:
+- asm-stage
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
 - trade-monitoring
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - September 2025 Updates
 ---
 

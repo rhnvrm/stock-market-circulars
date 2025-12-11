@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CGCL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - capri-global-capital
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Capri Global Capital Limited
 ---
 

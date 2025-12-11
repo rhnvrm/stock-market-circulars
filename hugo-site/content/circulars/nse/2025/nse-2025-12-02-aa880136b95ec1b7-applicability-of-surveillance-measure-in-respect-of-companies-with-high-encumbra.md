@@ -31,13 +31,13 @@ stocks:
 - VIKRAMSOLR
 - SHAREINDIA
 tags:
-- surveillance
-- encumbrance
-- margin-requirements
-- sebi-sast
-- trading-restrictions
-- equity
 - derivatives
+- encumbrance
+- equity
+- margin
+- sast
+- surveillance
+- trading-restrictions
 title: Surveillance Measure for Companies with High Encumbrance - Four Securities
   Added
 ---

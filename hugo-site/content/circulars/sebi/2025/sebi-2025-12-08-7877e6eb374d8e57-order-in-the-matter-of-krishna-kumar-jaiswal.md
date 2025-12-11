@@ -28,12 +28,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisers
 - enforcement
-- inspection
-- regulatory-action
+- investigation
+- investment-adviser
 - non-compliance
 - registration
+- regulatory
 title: Order in the matter of Krishna Kumar Jaiswal
 ---
 

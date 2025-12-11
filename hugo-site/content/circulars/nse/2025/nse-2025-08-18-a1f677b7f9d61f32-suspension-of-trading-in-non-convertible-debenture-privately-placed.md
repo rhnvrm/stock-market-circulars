@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-suspension
-- non-convertible-debenture
-- debt-market
-- redemption
 - alpha-alternatives
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of trading in Non-Convertible Debenture of Alpha Alternatives Financial
   Services Private Limited
 ---

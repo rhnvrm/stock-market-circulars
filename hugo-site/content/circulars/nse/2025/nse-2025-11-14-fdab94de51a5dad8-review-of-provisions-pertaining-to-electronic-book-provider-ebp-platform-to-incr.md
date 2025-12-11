@@ -26,17 +26,16 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- debt-segment
-- electronic-book-provider
-- ebp-platform
-- private-placement
 - debt-securities
-- ncrps
+- electronic-book-provider
 - municipal-debt
-- qib
+- ncrps
 - non-qib
-- sebi-regulations
 - operating-guidelines
+- private-placement
+- qib
+- regulatory-framework
+- trading-platform
 title: Review of provisions pertaining to Electronic Book Provider (EBP) platform
   to increase its efficacy and utility
 ---

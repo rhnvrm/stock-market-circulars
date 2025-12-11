@@ -84,10 +84,10 @@ stocks:
 - YARNSYN
 - YURANUS
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 60 Securities Effective September 8, 2025
 ---
 

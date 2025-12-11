@@ -25,17 +25,17 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-framework
-- risk-management
-- initial-margin
-- SOMM
-- MPOR
-- VSR
 - brent-crude
-- wti-crude
+- derivatives
 - gold
+- initial-margin
+- margin-framework
+- mpor
+- risk-management
 - silver
+- somm
+- vsr
+- wti-crude
 title: Review of Margin Framework for Commodity Derivatives Segment
 ---
 

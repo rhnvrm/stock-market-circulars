@@ -29,8 +29,8 @@ tags:
 - etf
 - listing
 - manufacturing
-- nippon-india
 - mutual-fund
+- nippon-india
 title: Listing of units issued by Nippon Life India Asset Management Limited (Nippon
   India Nifty India Manufacturing ETF)
 ---

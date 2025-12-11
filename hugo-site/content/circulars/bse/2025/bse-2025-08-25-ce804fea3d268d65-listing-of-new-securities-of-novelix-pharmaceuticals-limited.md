@@ -26,10 +26,10 @@ source: bse
 stocks:
 - NOVELIX
 tags:
+- equity
 - listing
-- new-securities
-- equity-shares
 - lock-in
+- new-securities
 - novelix-pharmaceuticals
 title: Listing of New Securities of NOVELIX PHARMACEUTICALS LIMITED
 ---

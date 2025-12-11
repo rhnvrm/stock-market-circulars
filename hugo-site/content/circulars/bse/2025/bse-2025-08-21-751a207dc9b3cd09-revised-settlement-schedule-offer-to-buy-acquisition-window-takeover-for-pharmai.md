@@ -26,12 +26,11 @@ source: bse
 stocks:
 - PHARMAIDS
 tags:
-- takeover
-- settlement
-- pharmaids
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for PHARMAIDS PHARMACEUTICALS LIMITED Takeover
   Offer
 ---

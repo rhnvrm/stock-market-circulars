@@ -27,11 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat
 - private-placement
 - tata-realty
-- debt-segment
-- dematerialised-trading
 title: Listing of New Commercial Paper of Tata Realty and Infrastructure Limited
 ---
 

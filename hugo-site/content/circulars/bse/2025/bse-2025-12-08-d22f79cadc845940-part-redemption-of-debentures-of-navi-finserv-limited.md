@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NAVIFIN
 tags:
-- debentures
-- redemption
-- debt
-- corporate-actions
-- navi-finserv
+- corporate-action
+- debt-securities
 - face-value-reduction
+- navi-finserv
+- ncd
+- redemption
 title: Part Redemption of Debentures of NAVI FINSERV LIMITED
 ---
 

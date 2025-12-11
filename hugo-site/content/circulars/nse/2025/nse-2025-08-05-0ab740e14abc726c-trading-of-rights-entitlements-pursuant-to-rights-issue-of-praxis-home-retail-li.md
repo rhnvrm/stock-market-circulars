@@ -26,12 +26,11 @@ source: nse
 stocks:
 - PRAXIS
 tags:
-- rights-issue
-- trading
-- praxis-home-retail
-- rights-entitlements
-- trade-to-trade
 - demat
+- praxis-home-retail
+- rights-issue
+- trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Praxis Home Retail
   Limited
 ---

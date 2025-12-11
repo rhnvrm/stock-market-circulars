@@ -28,11 +28,10 @@ stocks:
 - INFY
 tags:
 - buyback
-- acquisition-window
-- settlement-schedule
 - early-pay-in
 - infosys
-- offer-to-buy
+- otb
+- settlement
 title: Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for INFOSYS
   LIMITED
 ---

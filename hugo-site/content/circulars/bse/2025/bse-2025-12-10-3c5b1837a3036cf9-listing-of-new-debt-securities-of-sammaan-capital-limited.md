@@ -27,9 +27,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - sammaan-capital
-- debentures
 title: Listing of New Debt Securities of Sammaan Capital Limited
 ---
 

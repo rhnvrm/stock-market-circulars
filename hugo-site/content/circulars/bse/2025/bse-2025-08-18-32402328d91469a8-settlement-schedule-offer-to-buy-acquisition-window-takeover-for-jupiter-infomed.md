@@ -25,12 +25,11 @@ source: bse
 stocks:
 - JUPITER
 tags:
-- takeover
-- acquisition
-- settlement
+- demat
 - jupiter-infomedia
 - otb
-- demat-delivery
+- settlement
+- takeover
 title: Settlement Schedule for Jupiter Infomedia Limited Takeover Offer to Buy
 ---
 

@@ -27,12 +27,12 @@ source: nse
 stocks:
 - QSIFHRR
 tags:
+- capital-market
+- hybrid-fund
 - listing
 - mutual-fund
-- units
 - quant-mutual-fund
-- hybrid-fund
-- capital-market
+- units
 title: Listing of Units Issued by Quant Money Managers Limited (QSIF Hybrid Long-Short
   Fund)
 ---

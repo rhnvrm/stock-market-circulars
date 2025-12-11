@@ -32,7 +32,7 @@ stocks:
 - RESONANCE
 - ARYAMAN
 - ASIANPETRO
-- BAJAJGLOBAL
+- BAJGLOB
 - BAJAJSTEEL
 - VISAGAR
 - BEEELEC
@@ -76,11 +76,11 @@ stocks:
 - MAPLLE
 - SAMYAK
 tags:
-- registrar
-- transfer-agents
-- rta-visit
 - adroit-corporate
+- registrar
+- rta-visit
 - september-2025
+- transfer-agents
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for September 2025
 ---
 

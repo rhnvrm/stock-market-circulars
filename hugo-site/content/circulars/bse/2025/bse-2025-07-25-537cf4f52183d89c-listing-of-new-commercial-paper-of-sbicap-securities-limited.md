@@ -26,10 +26,8 @@ stocks:
 - SBICAPSL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- SBICAPSL
-- debt-market
 - short-term-instrument
 title: BSE Lists New Commercial Paper of SBICAP Securities Limited
 ---

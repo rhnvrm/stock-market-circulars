@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JKCL
 tags:
-- debentures
-- redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of J.K. CEMENT LTD
 ---
 

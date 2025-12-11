@@ -27,12 +27,11 @@ stocks:
 - KIRLOSENG
 - AJMERA
 tags:
-- price-movement
-- volume-movement
 - clarification
-- surveillance
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from companies on price/volume movements
 ---
 

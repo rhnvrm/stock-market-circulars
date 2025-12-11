@@ -27,10 +27,9 @@ source: bse
 stocks:
 - ZELIO
 tags:
+- equity
 - listing
 - sme
-- new-listing
-- equity-shares
 title: Listing of Equity Shares of Zelio E-Mobility Limited
 ---
 

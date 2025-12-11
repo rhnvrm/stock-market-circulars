@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- compliance-order
-- release-order
 - brijlaxmi-leasing-finance
+- compliance-order
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 4756 of 2022 - Siddharth J
   Chaturvedi - Brijlaxmi Leasing and Finance Limited
 ---

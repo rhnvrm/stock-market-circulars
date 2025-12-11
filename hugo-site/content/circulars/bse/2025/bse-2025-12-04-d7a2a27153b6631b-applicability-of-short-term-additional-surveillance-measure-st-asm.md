@@ -32,7 +32,7 @@ stocks:
 - HALDERVEN
 - JETFREIGHT
 - LSINDS
-- YUGDECOR
+- YUG
 - AKCAPIT
 - ATISHAY
 - BAMPSL
@@ -50,10 +50,9 @@ stocks:
 - KBS
 - MANINFO
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

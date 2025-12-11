@@ -25,11 +25,10 @@ source: bse
 stocks:
 - HTMEDIA
 tags:
-- listing
-- equity-shares
-- scheme-of-arrangement
-- ht-media
 - companies-act
+- equity
+- listing
+- scheme-of-arrangement
 title: Listing of new securities of HT Media Ltd
 ---
 

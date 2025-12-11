@@ -28,11 +28,10 @@ source: bse
 stocks:
 - SUNRAKSHAKK
 tags:
-- isin-change
-- equity-shares
-- sub-division
 - corporate-action
-- sunrakshakk-industries
+- equity
+- isin
+- split
 title: 'New ISIN Number of SUNRAKSHAKK INDUSTRIES INDIA LIMITED (Scrip Code: 539300)'
 ---
 

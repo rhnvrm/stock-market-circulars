@@ -28,15 +28,13 @@ source: bse
 stocks:
 - DBSIL
 tags:
-- demerger
+- call-money
 - corporate-action
+- nclt
 - record-date
 - scheme-of-arrangement
-- nclt-order
 - share-entitlement
 - trading-group-change
-- call-auction
-- special-pre-open-session
 title: Scheme of Arrangement (Demerger) of Dalmia Bharat Sugar and Industries Limited
 ---
 

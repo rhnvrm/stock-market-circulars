@@ -26,12 +26,11 @@ source: nse
 stocks:
 - IOC
 tags:
-- dividend
-- futures
-- options
 - corporate-action
 - derivatives
-- IOC
+- dividend
+- futures-options
+- options
 title: 'DIVIDEND: Adjustment of Futures and Options contracts in the security IOC'
 ---
 

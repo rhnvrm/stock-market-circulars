@@ -27,10 +27,10 @@ source: sebi
 stocks: []
 tags:
 - appointment
-- whole-time-member
 - leadership-change
 - organizational-announcement
 - sebi-management
+- whole-time-member
 title: Shri Sandip Pradhan takes charge as Whole Time Member, SEBI
 ---
 

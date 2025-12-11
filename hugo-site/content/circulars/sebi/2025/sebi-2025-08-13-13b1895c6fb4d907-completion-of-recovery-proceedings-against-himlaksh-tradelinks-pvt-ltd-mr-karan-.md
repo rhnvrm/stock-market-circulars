@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- completion
+- defaulter
 - enforcement
 - pacl
-- defaulter
-- completion
+- recovery
 title: Completion of Recovery Proceedings against Himlaksh Tradelinks Pvt Ltd., Mr.
   Karan Singh Shekhawat and Ms. Meena Shekhavat in the matter of PACL Ltd.
 ---

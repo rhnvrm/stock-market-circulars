@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ORGANIC
 tags:
-- equity-listing
+- conversion
+- equity
+- lock-in
 - new-securities
-- warrant-conversion
-- preferential-allotment
-- lock-in-period
-- ORGANIC
+- preferential-issue
 title: Listing of New Securities of ORGANIC RECYCLING SYSTEMS LIMITED
 ---
 

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - LGT
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- LGT
 title: Listing of Equity Shares of LGT Business Connextions Limited
 ---
 

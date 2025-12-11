@@ -26,27 +26,26 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- CAPITALTRUST
+- CAPTRUST
 - MANGALAMDRUGS
 - REFEX
 - SPECTRUMELE
-- VARDHMANCONCRETE
+- VARDHMAN
 - KBSINDIA
-- AMANAYAVENTURES
-- ANSALBUILDWELL
+- AMANAYA
+- ANSALBU
 - HCPPLASTENE
-- INDIGOPAINTS
+- INDIGOPNTS
 - JDCABLES
-- MITTALSECTIONS
-- PREMIERSYNTHETICS
-- RACHITPRINTS
+- MITTALSTL
+- PREMSYN
+- RACHIT
 - TECHNOPACK
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - regulatory-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

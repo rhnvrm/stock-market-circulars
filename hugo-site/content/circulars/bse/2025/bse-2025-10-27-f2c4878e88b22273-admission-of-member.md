@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- trading-member
-- new-admission
 - cash-segment
-- equity-derivatives
+- derivatives
+- membership
+- new-admission
+- trading-member
 title: Admission of Member - Thar Share Brokers Private Limited
 ---
 

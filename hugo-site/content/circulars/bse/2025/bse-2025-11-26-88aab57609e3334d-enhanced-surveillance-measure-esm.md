@@ -28,11 +28,9 @@ source: bse
 stocks:
 - KHANEX
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Update
 ---
 

@@ -24,24 +24,23 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '751041'
-- '539175'
-- '535279'
-- '511710'
-- '539697'
-- '531840'
-- '544524'
-- '543643'
-- '511176'
-- '511533'
-- '544458'
-- '505650'
-- '514211'
+- BLUEGOD
+- BMAL
+- CUBIFIN
+- HILIKS
+- IECEDU
+- JDCABLES
+- NARMADA
+- PARSHWANA
+- SAHARAHOUS
+- SHREEREF
+- SKYLMILAR
+- SUMEETINDS
 tags:
+- equity
 - price-band
 - surveillance
 - trading-restrictions
-- equity
 title: Changes in Price Band for 13 Securities
 ---
 

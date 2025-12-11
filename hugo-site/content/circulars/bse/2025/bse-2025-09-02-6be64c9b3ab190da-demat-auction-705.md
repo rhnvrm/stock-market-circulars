@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- 360ONEWAM
+- 360ONE
 - ASIANPAINT
 - ATLANTAA
 - BANKBAHRAT
@@ -56,10 +56,10 @@ stocks:
 - TVSMOTOR
 - ZENSAR
 tags:
-- demat-auction
+- demat
+- securities-auction
 - settlement
 - trading
-- securities-auction
 title: BSE Demat Auction Settlement No. 705 - September 2, 2025
 ---
 

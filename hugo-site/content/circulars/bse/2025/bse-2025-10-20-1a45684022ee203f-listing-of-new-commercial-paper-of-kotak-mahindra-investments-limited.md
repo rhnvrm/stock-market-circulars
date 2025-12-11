@@ -28,10 +28,10 @@ stocks:
 - KOTAKINVEST
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kotak-mahindra
 - money-market-instruments
+- private-placement
 title: Listing of New Commercial Paper of Kotak Mahindra Investments Limited
 ---
 

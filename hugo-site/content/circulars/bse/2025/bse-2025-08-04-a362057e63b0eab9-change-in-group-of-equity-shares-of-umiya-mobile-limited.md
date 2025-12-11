@@ -27,9 +27,9 @@ stocks:
 - UMIYA
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
+- trade-for-trade
 - umiya-mobile
 title: Change in Group of Equity Shares of UMIYA MOBILE LIMITED
 ---

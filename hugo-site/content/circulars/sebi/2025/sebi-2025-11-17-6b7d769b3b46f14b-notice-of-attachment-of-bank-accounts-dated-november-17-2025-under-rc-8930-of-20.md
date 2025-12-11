@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
+- attachment
 - enforcement
-- recovery
-- bank-account-attachment
-- setubandhan-infrastructure
 - prakash-constrowell
+- recovery
 title: Notice of Attachment of Bank Accounts dated November 17, 2025 under RC 8930
   of 2025 against Anup Karwa
 ---

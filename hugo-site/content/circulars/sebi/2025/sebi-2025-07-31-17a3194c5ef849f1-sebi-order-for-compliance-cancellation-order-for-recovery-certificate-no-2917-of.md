@@ -24,13 +24,13 @@ rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2025/sebi-
 severity: medium
 source: sebi
 stocks:
-- KUBERUDYOG
+- KUBERJI
 tags:
-- recovery-certificate
-- compliance
 - cancellation-order
+- compliance
 - enforcement
 - kuber-udyog
+- recovery
 title: SEBI Order for Compliance - Cancellation Order for Recovery Certificate No.
   2917 of 2020 against Ilesh Madhusudan Patel
 ---

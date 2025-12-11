@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - dsp-finance
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper of DSP Finance Private Limited
 ---

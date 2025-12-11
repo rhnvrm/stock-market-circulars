@@ -28,14 +28,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
-- regulated-entities
+- digital-accessibility
+- intermediary
 - investor-protection
-- scores
-- disability-rights
-- accessibility-audit
 - rpwd-act-2016
+- scores
 title: Clarification on Digital Accessibility Requirements for Regulated Entities
   under Rights of Persons with Disabilities Act, 2016
 ---

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - WINDOWGLAS
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- window-glass-limited
 - delisting
+- otb
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Window Glass Limited
 ---
 

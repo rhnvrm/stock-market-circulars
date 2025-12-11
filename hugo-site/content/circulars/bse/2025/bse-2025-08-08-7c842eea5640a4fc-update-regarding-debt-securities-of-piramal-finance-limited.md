@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
-- debt-securities
 - coupon-rate
-- rating-downgrade
+- debt-securities
 - mandatory-redemption
-- debentures
-- piramal-finance
+- ncd
+- rating-downgrade
 title: Update Regarding Debt Securities of Piramal Finance Limited - Modified Coupon
   Step Up/Down and Mandatory Redemption Terms
 ---

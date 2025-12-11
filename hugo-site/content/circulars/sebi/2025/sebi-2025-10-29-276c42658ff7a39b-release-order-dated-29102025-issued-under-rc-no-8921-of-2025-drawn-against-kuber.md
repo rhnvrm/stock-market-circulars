@@ -25,12 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- debt-recovery
-- kuber-udyog-limited
-- generic-engineering
 - defaulter
+- enforcement
+- generic-engineering
+- kuber-udyog-limited
+- recovery
 title: Release Order dated 29.10.2025 issued under RC No. 8921 of 2025 drawn against
   Kuber Udyog Limited in the matter of Generic Engineering Construction and Projects
   Limited

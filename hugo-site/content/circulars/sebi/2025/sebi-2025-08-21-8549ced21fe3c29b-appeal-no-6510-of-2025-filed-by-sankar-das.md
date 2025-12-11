@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - ICORE
 tags:
-- rti-appeal
 - auction
-- icore
 - fiduciary-capacity
 - information-exemption
 - investor-refund
+- rti
 title: Appeal No. 6510 of 2025 filed by Sankar Das - RTI Appeal regarding ICore auction
   information
 ---

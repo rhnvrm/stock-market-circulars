@@ -26,11 +26,11 @@ source: bse
 stocks:
 - LKPFIN
 tags:
-- rights-issue
-- equity-shares
-- record-date
 - corporate-action
-- ex-rights
+- equity
+- record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of LKP Finance Ltd - Record Date September 11,
   2025
 ---

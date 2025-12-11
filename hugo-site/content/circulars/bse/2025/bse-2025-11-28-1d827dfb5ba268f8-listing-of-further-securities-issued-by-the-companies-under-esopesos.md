@@ -38,12 +38,10 @@ stocks:
 - SIS
 - UTIAMC
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
-- new-shares
+- esop
+- listing
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - December 2025
 ---
 

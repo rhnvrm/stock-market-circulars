@@ -27,9 +27,9 @@ stocks:
 - WELCURE
 tags:
 - corporate-action
-- isin-change
-- sub-division
-- equity-shares
+- equity
+- isin
+- split
 - welcure-drugs
 title: 'New ISIN Number of Welcure Drugs & Pharmaceuticals Ltd (Scrip Code: 524661)'
 ---

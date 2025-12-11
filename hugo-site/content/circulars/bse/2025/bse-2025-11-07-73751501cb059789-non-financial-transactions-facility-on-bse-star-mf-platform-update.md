@@ -27,14 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- star-mf-platform
-- non-financial-transactions
-- nominee-updation
-- technical-specification
-- digital-transactions
 - 2fa
+- digital-transactions
 - esign
+- mutual-fund
+- nominee-updation
+- non-financial-transactions
+- technical-specification
+- trading-platform
 title: Non-Financial Transactions Facility on BSE StAR MF Platform - Update
 ---
 

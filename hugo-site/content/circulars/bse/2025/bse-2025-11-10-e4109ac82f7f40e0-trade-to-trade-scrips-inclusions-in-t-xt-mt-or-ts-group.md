@@ -53,12 +53,12 @@ stocks:
 - MACHOTEL
 - REETECH
 tags:
-- trade-to-trade
-- segment-shift
 - price-band
 - rolling-segment
+- segment-shift
 - sme
-- market-surveillance
+- surveillance
+- trade-to-trade
 title: Trade-To-Trade Scrips – Inclusions in "T", "XT", "MT" or "TS" Group
 ---
 

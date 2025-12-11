@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- multicap-fund
 - mutual-fund
 - redemption
 - trust-mf
-- multicap-fund
-- bse-star-mf
 title: Change in Minimum Redemption Amount of TRUST Mutual Fund on BSE StAR MF Platform
 ---
 

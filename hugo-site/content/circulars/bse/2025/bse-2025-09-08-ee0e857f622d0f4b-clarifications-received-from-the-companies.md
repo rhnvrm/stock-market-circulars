@@ -30,11 +30,10 @@ stocks:
 - JTEKT
 tags:
 - clarification
-- price-movement
-- volume-movement
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
-- market-driven
 title: Clarifications received from companies regarding price/volume movements
 ---
 

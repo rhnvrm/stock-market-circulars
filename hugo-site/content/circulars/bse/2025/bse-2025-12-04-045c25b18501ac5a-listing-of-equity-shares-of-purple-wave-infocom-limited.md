@@ -27,13 +27,12 @@ source: bse
 stocks:
 - PURPLEWAVE
 tags:
-- listing
-- shareholding-pattern
+- equity
 - ipo
-- equity-shares
-- purple-wave-infocom
+- listing
+- lodr
 - regulation-31
-- sebi-lodr
+- shareholding-pattern
 title: Listing of Equity Shares of Purple Wave Infocom Limited
 ---
 

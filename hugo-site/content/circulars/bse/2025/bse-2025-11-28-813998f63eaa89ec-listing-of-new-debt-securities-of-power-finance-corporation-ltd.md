@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PFC
 tags:
+- bond
 - debt-securities
-- listing
-- private-placement
-- power-finance-corporation
-- bonds
 - institutional-debt
+- listing
+- power-finance-corporation
+- private-placement
 title: Listing of New Debt Securities of Power Finance Corporation Ltd
 ---
 

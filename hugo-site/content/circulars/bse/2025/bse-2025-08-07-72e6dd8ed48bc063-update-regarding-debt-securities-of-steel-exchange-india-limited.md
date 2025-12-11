@@ -27,9 +27,8 @@ stocks:
 - STEEL-EXCHANGE
 tags:
 - debt-securities
-- steel-exchange-india
-- trading-update
 - settlement
+- trading
 title: Update Regarding Debt Securities of Steel Exchange India Limited
 ---
 

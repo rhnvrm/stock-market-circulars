@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- clearing-procedures
+- client-level-allocation
 - early-pay-in
 - funds-allocation
 - margin-benefit
-- clearing-procedures
-- client-level-allocation
-- nmass
+- trading-platform
 title: Allocation of early pay-in of funds at client and security level
 ---
 

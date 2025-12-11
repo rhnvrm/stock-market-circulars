@@ -27,11 +27,10 @@ source: bse
 stocks:
 - NDTV
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
-- NDTV
 - new-securities
+- rights-issue
 title: Listing of New Securities of New Delhi Television Limited
 ---
 

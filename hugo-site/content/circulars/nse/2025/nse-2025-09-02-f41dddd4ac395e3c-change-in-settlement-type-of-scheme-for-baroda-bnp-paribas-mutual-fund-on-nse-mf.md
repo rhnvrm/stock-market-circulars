@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- settlement
 - baroda-bnp-paribas
-- nse-mf-invest
+- mutual-fund
+- settlement
+- trading-platform
 title: Change in Settlement Type for Baroda BNP Paribas Multi Asset Active FOF on
   NSE MF Invest Platform
 ---

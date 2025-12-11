@@ -28,12 +28,10 @@ source: bse
 stocks:
 - DEVINSU
 tags:
-- open-offer
-- takeover
-- acquisition
 - devinsu-trading
-- sebi-sast
-- equity-shares
+- equity
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Devinsu Trading
   Limited
 ---

@@ -26,11 +26,11 @@ stocks:
 - SRPL
 tags:
 - annual-listing-fees
-- trading-restrictions
 - compliance
-- fee-payment
-- weekly-trading
 - daily-trading
+- fee-payment
+- trading-restrictions
+- trading-session
 title: Reversal of Trading Restrictions for Shree Ram Proteins Limited (SRPL) After
   Annual Listing Fees Payment
 ---

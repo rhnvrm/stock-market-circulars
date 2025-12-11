@@ -26,11 +26,11 @@ source: bse
 stocks:
 - WALCHANNAGAR
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of new securities of Walchandnagar Industries Ltd - Preferential Issue
 ---
 

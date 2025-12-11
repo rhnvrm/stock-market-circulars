@@ -32,13 +32,12 @@ stocks:
 - SCLPP
 tags:
 - clarification
-- legal-proceedings
-- supreme-court
-- pil
-- regulatory-compliance
-- lending-practices
-- sammaan-capital
+- compliance
 - indiabulls-housing-finance
+- legal-proceedings
+- lending-practices
+- pil
+- supreme-court
 title: Sammaan Capital Limited Submits Media Statement on Supreme Court Proceedings
 ---
 

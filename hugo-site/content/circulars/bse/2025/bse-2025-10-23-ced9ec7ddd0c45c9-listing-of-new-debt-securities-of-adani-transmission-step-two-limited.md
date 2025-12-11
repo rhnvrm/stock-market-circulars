@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- adani-transmission
 - debt-securities
 - listing
+- ncd
 - private-placement
-- adani-transmission
-- non-convertible-debentures
 - quarterly-interest
 title: Listing of New Debt Securities of Adani Transmission Step-Two Limited
 ---

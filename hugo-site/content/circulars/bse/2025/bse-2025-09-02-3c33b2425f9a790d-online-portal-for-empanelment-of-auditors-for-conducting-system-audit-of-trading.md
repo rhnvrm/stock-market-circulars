@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- system-audit
 - auditors
-- trading-members
 - compliance
 - empanelment
+- system-audit
+- trading-member
 title: Online portal for Empanelment of Auditors for conducting System Audit of Trading
   Members
 ---

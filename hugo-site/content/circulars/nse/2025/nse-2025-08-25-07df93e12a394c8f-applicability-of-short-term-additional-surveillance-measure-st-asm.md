@@ -35,14 +35,9 @@ stocks:
 - KRBL
 - TI
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trading-restrictions
-- cpplus
-- fosecoind
-- izmo
-- lancorhol
 title: Short-Term Additional Surveillance Measure (ST-ASM) Implementation - 4 Securities
   Added
 ---

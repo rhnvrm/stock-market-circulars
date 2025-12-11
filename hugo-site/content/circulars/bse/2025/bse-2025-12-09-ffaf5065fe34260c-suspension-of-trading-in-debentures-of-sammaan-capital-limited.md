@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SAMMAAN
 tags:
-- suspension
-- debentures
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
 - sammaan-capital
-- debt-segment
+- suspension
 - trading-halt
 title: Suspension of Trading in Debentures of SAMMAAN CAPITAL LIMITED
 ---

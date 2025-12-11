@@ -27,11 +27,10 @@ stocks:
 - REPONO
 - UMIYA
 tags:
-- index
-- sme
+- index-fund
 - ipo
 - listing
-- repono
+- sme
 - umiya-mobile
 title: Additions to the BSE SME IPO INDEX
 ---

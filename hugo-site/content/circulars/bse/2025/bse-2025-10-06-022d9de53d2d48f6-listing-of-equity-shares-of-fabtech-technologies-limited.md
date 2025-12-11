@@ -26,11 +26,10 @@ source: bse
 stocks:
 - FABTECH
 tags:
-- listing
-- new-listing
-- equity-shares
+- equity
 - fabtech-technologies
 - ipo
+- listing
 title: Listing of Equity Shares of Fabtech Technologies Limited
 ---
 

@@ -32,7 +32,6 @@ tags:
 - listing
 - private-placement
 - zero-coupon-bonds
-- kolte-patil-developers
 title: Listing of New Debt Securities of Kolte-Patil Developers Ltd
 ---
 

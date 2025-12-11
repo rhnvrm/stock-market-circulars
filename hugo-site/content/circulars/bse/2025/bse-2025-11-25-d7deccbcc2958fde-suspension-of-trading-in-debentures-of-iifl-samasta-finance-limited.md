@@ -28,13 +28,12 @@ source: bse
 stocks:
 - IIFLSAMASTA
 tags:
-- trading-suspension
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- debt-segment
-- corporate-action
+- suspension
 title: Suspension of Trading in Debentures of IIFL SAMASTA FINANCE LIMITED
 ---
 

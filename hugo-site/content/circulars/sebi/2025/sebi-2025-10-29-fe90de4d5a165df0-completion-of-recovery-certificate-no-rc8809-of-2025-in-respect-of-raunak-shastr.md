@@ -27,12 +27,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- completed
+- defaulter
 - enforcement
 - illiquid-stock-options
-- defaulter
-- recovery-proceedings
-- completed
+- recovery
 title: 'Completion of Recovery Certificate No. RC8809 of 2025 in respect of Raunak
   Shastri (PAN: ECLPS9722N) in the matter of Illiquid Stock Options'
 ---

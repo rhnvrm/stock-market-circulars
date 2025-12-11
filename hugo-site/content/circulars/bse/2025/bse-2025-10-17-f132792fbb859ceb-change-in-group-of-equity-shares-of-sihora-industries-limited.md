@@ -25,15 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544585'
+- SIHORA
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
-- sme
 - sihora-industries
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SIHORA INDUSTRIES LIMITED
 ---
 

@@ -43,10 +43,9 @@ stocks:
 tags:
 - corporate-action
 - dividend
-- stock-split
 - record-date
-- ex-date
-- slb-securities
+- slb
+- split
 title: Corporate Action in SLB Securities - Dividend and Stock Split Announcements
 ---
 

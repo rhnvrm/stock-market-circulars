@@ -29,7 +29,7 @@ tags:
 - debt-securities
 - fortis-healthcare
 - listing
-- debentures
+- ncd
 - update
 title: Update Regarding Debt Securities of Fortis Healthcare Ltd
 ---

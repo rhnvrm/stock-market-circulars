@@ -26,11 +26,10 @@ source: nse
 stocks:
 - KOLTEPATIL
 tags:
+- bidding-platform
+- blackstone
 - takeover
 - tender-offer
-- kolte-patil
-- blackstone
-- bidding-platform
 title: Takeover offer under Tender Offer scheme of Kolte-Patil Developers Limited
 ---
 

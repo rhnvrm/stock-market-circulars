@@ -39,10 +39,10 @@ stocks:
 - WEWIN
 - WOMENNETW
 tags:
+- equity
 - price-band
 - surveillance
-- trading-parameters
-- equity
+- trading-operations
 title: Changes in Price Band for 14 Securities Effective October 15, 2025
 ---
 

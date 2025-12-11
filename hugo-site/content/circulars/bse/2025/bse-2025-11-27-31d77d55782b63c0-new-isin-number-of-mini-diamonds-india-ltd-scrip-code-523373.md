@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MINIDIA
 tags:
-- isin-change
-- equity-share-subdivision
 - corporate-action
+- equity-share-subdivision
+- isin
 - mini-diamonds-india
-- share-split
+- split
 title: New ISIN Number for Mini Diamonds India Ltd - Equity Share Sub-Division
 ---
 

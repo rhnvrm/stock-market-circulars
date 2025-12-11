@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- pgim-india
-- subscription-suspension
-- overseas-investment-limits
 - fund-of-funds
-- sebi-compliance
 - international-funds
+- mutual-fund
+- overseas-investment
+- pgim-india
+- sebi
+- suspension
 title: Temporary Suspension of Subscription in Certain Schemes of PGIM India Mutual
   Fund
 ---

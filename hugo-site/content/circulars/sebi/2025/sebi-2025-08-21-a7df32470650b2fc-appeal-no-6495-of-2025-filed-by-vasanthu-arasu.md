@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- share-transfer
-- physical-shares
 - demat
-- rta
+- physical-shares
 - registrar-of-companies
+- rta
+- rti
+- share-transfer
 title: RTI Appeal Dismissed - Share Transfer Form Revalidation Query
 ---
 

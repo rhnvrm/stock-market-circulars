@@ -26,9 +26,8 @@ source: bse
 stocks:
 - LORDSMARK
 tags:
-- company-name-change
 - corporate-action
-- lords-mark-india
+- name-change
 title: Change in Name of the Company - Lords Mark India Ltd
 ---
 

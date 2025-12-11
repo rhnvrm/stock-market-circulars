@@ -26,10 +26,10 @@ source: sebi
 stocks:
 - MANAKCOAT
 tags:
-- recovery-certificate
 - compliance
 - enforcement
 - manaksia-coated-metals
+- recovery
 title: SEBI Order for Compliance – Remittance Order for Recovery Certificate No. 8562
   of 2025 against Keyur Vinodchandra Parmar in the matter of Manaksia Coated Metals
   and Industries Limited

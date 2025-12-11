@@ -28,15 +28,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- ucc
 - client-categories
-- nri
-- nre
-- nro
-- non-resident
-- investor-classification
 - database-update
-- trading-members
+- investor-classification
+- non-resident
+- nre
+- nri
+- nro
+- trading-member
+- ucc
 title: Revision w.r.t Client Categories in Unique Client Code Database - NRI Reclassification
   to NRE/NRO
 ---

@@ -26,11 +26,9 @@ source: bse
 stocks:
 - OMFREIGHT
 tags:
-- listing
-- equity-shares
-- new-listing
 - company-related
-- OMFREIGHT
+- equity
+- listing
 title: Listing of Equity Shares of Om Freight Forwarders Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SELLWIN
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- lock-in-period
+- conversion
+- equity
+- lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Sellwin Traders Limited
 ---
 

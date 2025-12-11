@@ -28,8 +28,6 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- mwpl
-- patanjali-foods
 - risk-management
 title: Revised MWPL Position Limits for Patanjali Foods Limited
 ---

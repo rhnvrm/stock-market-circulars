@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - RAJTUBE
 tags:
-- recovery-certificate
-- notice-of-demand
+- compliance
+- demand-notice
 - enforcement
 - rajasthan-tube-manufacturing
-- recovery-proceedings
-- compliance
+- recovery
 title: 'Notice of Demand dated 21.11.2025 issued under RC No. 8950 of 2025 against
   Deepika Jain [PAN: ACEPJ7192A] in the matter of Rajasthan Tube Manufacturing Company
   Limited'

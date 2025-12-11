@@ -25,13 +25,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- reit
-- brookprop-management
-- ndfc-brookfield-reit
 - borrowed-funds
+- brookprop-management
 - distribution-violation
+- ndfc-brookfield-reit
 - penalty
+- reit
+- settlement-order
 title: Settlement Order Against Brookprop Management Services for REIT Regulation
   Violations
 ---

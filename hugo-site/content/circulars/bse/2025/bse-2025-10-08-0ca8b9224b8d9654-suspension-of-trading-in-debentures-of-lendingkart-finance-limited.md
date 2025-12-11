@@ -27,12 +27,12 @@ source: bse
 stocks:
 - LENDINGKART
 tags:
-- trading-suspension
-- debentures
-- debt-market
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Lendingkart Finance Limited
 ---
 

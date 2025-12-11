@@ -41,10 +41,10 @@ stocks:
 - PENTOKEY
 - TECHNICHEM
 tags:
-- st-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: BSE Short Term Additional Surveillance Measure (ST-ASM) Updates - August 2025
 ---
 

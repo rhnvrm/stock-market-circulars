@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NDTV
 tags:
-- rights-issue
-- equity-shares
-- record-date
-- corporate-actions
+- corporate-action
+- equity
 - new-delhi-television
+- record-date
+- rights-issue
 title: Rights Issue of Equity Shares - NEW DELHI TELEVISION LIMITED
 ---
 

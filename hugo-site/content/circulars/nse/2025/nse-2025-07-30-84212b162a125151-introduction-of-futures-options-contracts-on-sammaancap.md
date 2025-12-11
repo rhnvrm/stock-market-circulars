@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SAMMAANCAP
 tags:
-- futures
-- options
 - derivatives
+- futures-options
 - new-contracts
+- options
 - trading
 title: Introduction of Futures & Options Contracts on SAMMAANCAP
 ---

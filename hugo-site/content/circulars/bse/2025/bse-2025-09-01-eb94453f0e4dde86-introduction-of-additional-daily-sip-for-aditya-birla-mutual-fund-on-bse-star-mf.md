@@ -24,12 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aditya-birla
+- index-fund
 - mutual-fund
 - sip
-- aditya-birla
-- daily-sip
-- index-fund
-- bse-star-mf
 title: Introduction of Daily SIP Facility for Aditya Birla Sun Life Mutual Fund Schemes
 ---
 

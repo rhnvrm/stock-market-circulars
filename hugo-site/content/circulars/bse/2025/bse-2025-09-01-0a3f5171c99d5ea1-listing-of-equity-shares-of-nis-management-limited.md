@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NISMAN
 tags:
-- listing
-- shareholding-pattern
-- ipo
-- equity-shares
-- post-listing
 - disclosure
+- equity
+- ipo
+- listing
+- post-listing
+- shareholding-pattern
 title: Listing of Equity Shares of NIS Management Limited - Shareholding Pattern
 ---
 

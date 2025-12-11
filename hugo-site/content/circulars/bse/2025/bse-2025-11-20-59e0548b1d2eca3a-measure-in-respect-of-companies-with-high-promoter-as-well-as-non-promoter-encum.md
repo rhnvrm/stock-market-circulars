@@ -29,16 +29,14 @@ stocks:
 - SUDAL
 - BRAHINFRA
 - INDIAFIN
-- INDIANIVESH
+- INDIANVSH
 - NRAGARWAL
 tags:
-- surveillance
 - encumbrance
-- promoter-pledge
-- SAST
-- SEBI-regulation
-- ASM
 - risk-management
+- sast
+- sebi-regulation
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

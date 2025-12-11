@@ -34,12 +34,11 @@ stocks:
 - AEGISVOPAK
 - ESAFSFB
 tags:
-- debt-market
+- bond
 - commercial-paper
-- bonds
-- private-placement
-- listing
 - debt-securities
+- listing
+- private-placement
 title: Listing of Privately Placed Securities on Debt Market Segment - November 11,
   2025
 ---

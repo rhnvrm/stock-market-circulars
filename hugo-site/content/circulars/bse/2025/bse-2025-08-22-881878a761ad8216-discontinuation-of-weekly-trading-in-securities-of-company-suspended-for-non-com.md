@@ -27,12 +27,11 @@ source: bse
 stocks:
 - WHITEORG
 tags:
-- trading-suspension
-- sebi-compliance
-- white-organic-retail
+- asm-stage
+- sebi
+- suspension
 - trade-for-trade
-- z-group
-- weekly-trading
+- trading-session
 title: Discontinuation of Weekly Trading for White Organic Retail Ltd Due to SEBI
   Non-Compliance
 ---

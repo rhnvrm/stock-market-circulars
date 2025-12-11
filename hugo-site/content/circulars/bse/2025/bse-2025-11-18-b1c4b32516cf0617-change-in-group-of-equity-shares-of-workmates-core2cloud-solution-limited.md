@@ -26,13 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544610'
+- WORKMATES
 tags:
 - group-change
-- trade-for-trade
 - rolling-segment
 - sme
-- workmates-core2cloud
+- trade-for-trade
 title: Change in Group of Equity Shares of WORKMATES CORE2CLOUD SOLUTION LIMITED
 ---
 

@@ -25,10 +25,9 @@ source: nse
 stocks:
 - PATELRMART
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of Patel Retail Limited (IPO)
 ---
 

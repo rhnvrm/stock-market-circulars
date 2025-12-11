@@ -27,16 +27,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- index-fund
 - groww-mutual-fund
+- index-fund
+- mutual-fund
 - nifty-midcap-150
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
-- nse-mf-invest
+- swp
+- trading-platform
 title: Availability of Groww Nifty Midcap 150 Index Fund for ongoing transactions
   on NSE MF Invest Platform
 ---

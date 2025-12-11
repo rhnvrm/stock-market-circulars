@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SHENTRACON
 tags:
-- suspension-revocation
-- equity-trading
 - chemicals
+- equity
 - manufacturing
+- release
 title: Revocation of Suspension in Trading of Equity Shares of Shentracon Chemicals
   Ltd
 ---

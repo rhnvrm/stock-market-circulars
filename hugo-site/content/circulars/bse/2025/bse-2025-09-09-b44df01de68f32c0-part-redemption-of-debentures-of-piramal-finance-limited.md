@@ -27,12 +27,11 @@ source: bse
 stocks:
 - PIRAMALFIN
 tags:
-- debentures
-- redemption
-- piramal-finance
-- corporate-actions
+- corporate-action
 - debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of Piramal Finance Limited - Reduced Face Value
   Effective September 11, 2025
 ---

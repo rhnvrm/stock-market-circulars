@@ -27,18 +27,16 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt
-- sdl
-- state-government-securities
-- auction
-- non-competitive-bidding
-- rbi
 - andhra-pradesh
+- auction
+- debt-securities
 - gujarat
 - jammu-kashmir
 - maharashtra
 - mizoram
-- ncb-gsec
+- non-competitive-bidding
+- rbi
+- sdl
 title: Non-Competitive Bidding for Auction of State Government Securities (SDL) on
   October 07, 2025
 ---

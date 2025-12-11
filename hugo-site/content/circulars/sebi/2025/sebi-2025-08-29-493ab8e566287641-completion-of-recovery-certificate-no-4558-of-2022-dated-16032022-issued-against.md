@@ -26,10 +26,10 @@ source: sebi
 stocks:
 - MEGA
 tags:
-- recovery-certificate
 - enforcement
 - mega-corporation-limited
 - nirmal-jain
+- recovery
 - violation-proceedings
 title: Completion of Recovery Certificate No. 4558 of 2022 against Mr. Nirmal Jain
   in Mega Corporation Limited matter

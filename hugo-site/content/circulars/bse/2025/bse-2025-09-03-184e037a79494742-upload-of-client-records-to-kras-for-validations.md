@@ -26,13 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- kra
-- compliance
-- trading-members
 - client-records
-- sebi-circular
+- compliance
 - deadline
+- kyc
+- sebi
+- trading-member
 title: Upload of Client Records to KRAs for validations - Compliance Deadline September
   26, 2025
 ---

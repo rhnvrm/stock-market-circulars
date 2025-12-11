@@ -34,13 +34,13 @@ stocks:
 - OIL
 - THYROCARE
 tags:
-- corporate-action
-- slb
-- dividend
-- bonus-issue
-- shut-period
-- securities-lending
+- bonus
+- book-closure
 - borrowing
+- collateral
+- corporate-action
+- dividend
+- slb
 title: Corporate Action in SLB Securities - Dividends and Bonus Issue
 ---
 

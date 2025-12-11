@@ -29,12 +29,12 @@ stocks:
 - RBLBANK
 tags:
 - clarification
-- news-article
 - disclosure
 - expansion
-- acquisition
-- regulation-30
 - investor-information
+- news-article
+- regulation-30
+- takeover
 title: Clarifications received from companies on news articles - Jupiter Life Line
   Hospitals and RBL Bank
 ---

@@ -27,11 +27,10 @@ source: nse
 stocks:
 - UTLSOLAR
 tags:
-- listing
-- ipo
-- equity-shares
-- new-listing
 - capital-market
+- equity
+- ipo
+- listing
 - pre-open-session
 title: Listing of Equity Shares of Fujiyama Power Systems Limited (IPO)
 ---

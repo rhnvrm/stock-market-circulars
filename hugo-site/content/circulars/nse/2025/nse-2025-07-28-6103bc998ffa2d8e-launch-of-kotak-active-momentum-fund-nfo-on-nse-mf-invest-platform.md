@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
+- investment-platform
+- kotak-mutual-fund
 - mutual-fund
 - nfo
-- kotak-mutual-fund
-- equity-fund
-- investment-platform
 title: Launch of Kotak Active Momentum Fund NFO on NSE MF Invest Platform
 ---
 

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CAREERP
 tags:
-- group-change
-- equity-shares
 - career-point-edutech
+- equity
 - group-b
+- group-change
 title: Change in Group of Equity Shares of Career Point Edutech Limited
 ---
 

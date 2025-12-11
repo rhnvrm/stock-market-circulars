@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SIGMA
 tags:
-- isin-change
-- share-subdivision
-- stock-split
 - corporate-action
-- SIGMA
+- face-value-change
+- isin
+- split
 title: Change in ISIN - Sigma Solve Limited (SIGMA)
 ---
 

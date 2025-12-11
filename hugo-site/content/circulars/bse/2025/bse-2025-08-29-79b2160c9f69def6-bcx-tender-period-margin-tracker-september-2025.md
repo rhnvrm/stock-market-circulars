@@ -26,12 +26,12 @@ source: bse
 stocks: []
 tags:
 - bcx
-- commodity-derivatives
-- margin-requirements
-- tender-period
+- derivatives
+- futures-options
 - gold
+- margin
 - silver
-- futures
+- tender-offer
 title: BCX Tender Period Margin Tracker for September 2025 Commodity Derivatives
 ---
 

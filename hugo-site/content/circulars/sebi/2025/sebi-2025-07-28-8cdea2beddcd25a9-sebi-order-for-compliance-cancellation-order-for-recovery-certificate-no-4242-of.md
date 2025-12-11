@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - TIMBOR
 tags:
-- recovery-certificate
 - cancellation-order
 - compliance
-- timbor-home-limited
 - paresh-nathalal-chauhan
+- recovery
+- timbor-home-limited
 title: SEBI Order for Compliance - Cancellation Order for Recovery Certificate No.
   4242 of 2021 against Paresh Nathalal Chauhan in the matter of Timbor Home Limited
 ---

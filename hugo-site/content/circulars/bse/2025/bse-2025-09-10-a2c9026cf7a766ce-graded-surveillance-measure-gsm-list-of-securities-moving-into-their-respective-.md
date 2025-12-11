@@ -28,11 +28,9 @@ stocks:
 - SPACEINC
 - SPARKLEGOLD
 tags:
-- gsm
+- asm-stage
 - surveillance
-- stage-movement
 - trading-restrictions
-- market-surveillance
 title: GSM Securities Movement - Parker Agrochem, Space Incubatrics, and Sparkle Gold
   Rock
 ---

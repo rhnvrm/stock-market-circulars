@@ -28,13 +28,12 @@ source: bse
 stocks:
 - MAHAMAYA
 tags:
+- asm-stage
 - group-change
-- segment-transfer
-- trading-segment
-- sme-ipo
-- mt-group
-- m-group
 - rolling-segment
+- segment-transfer
+- sme
+- trading
 title: Change in Group of Equity Shares of MAHAMAYA LIFESCIENCES LIMITED
 ---
 

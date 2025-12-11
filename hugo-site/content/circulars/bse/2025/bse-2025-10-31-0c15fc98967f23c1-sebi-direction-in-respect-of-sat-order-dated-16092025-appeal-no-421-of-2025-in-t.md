@@ -26,17 +26,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- DECIPHERLABS
+- DECIPHER
 tags:
-- sebi
-- sat-order
 - appeal
-- enforcement
 - disgorgement
+- enforcement
 - penalty
-- decipher-labs
+- regulatory
+- sebi
 - stay-order
-- regulatory-action
 title: SEBI direction in respect of SAT order dated 16.09.2025 (Appeal No. 421 of
   2025) in the matter of Decipher Labs Ltd
 ---

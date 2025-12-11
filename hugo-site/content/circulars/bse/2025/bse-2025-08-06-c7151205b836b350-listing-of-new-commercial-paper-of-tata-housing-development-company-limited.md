@@ -26,10 +26,9 @@ stocks:
 - THDCL
 tags:
 - commercial-paper
-- debt-listing
-- tata-housing
+- debt-securities
 - private-placement
-- debt-segment
+- tata-housing
 title: Listing of new Commercial Paper of Tata Housing Development Company Limited
 ---
 

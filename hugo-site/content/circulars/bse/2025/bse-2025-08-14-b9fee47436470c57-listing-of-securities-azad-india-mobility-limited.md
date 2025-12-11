@@ -25,11 +25,11 @@ source: bse
 stocks:
 - AZAD
 tags:
+- equity
 - listing
-- preferential-issue
-- equity-shares
 - lock-in
-- non-promoter
+- preferential-issue
+- shareholding-pattern
 title: Listing of Securities - AZAD INDIA MOBILITY LIMITED Preferential Issue
 ---
 

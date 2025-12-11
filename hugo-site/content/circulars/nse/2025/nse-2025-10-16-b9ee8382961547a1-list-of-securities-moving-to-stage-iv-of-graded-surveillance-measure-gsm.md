@@ -28,13 +28,12 @@ source: nse
 stocks:
 - DIGJAMLMTD
 tags:
-- surveillance
-- gsm
-- stage-iv
-- trade-restrictions
-- trade-for-trade
-- price-band
 - additional-surveillance-deposit
+- price-band
+- stage-iv
+- surveillance
+- trade-for-trade
+- trade-restrictions
 title: DIGJAM Limited Moved to Stage IV of Graded Surveillance Measure (GSM)
 ---
 

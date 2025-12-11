@@ -26,11 +26,11 @@ source: nse
 stocks:
 - UPLPP1
 tags:
-- trading-suspension
-- partly-paid-shares
-- UPL
-- equity-shares
+- equity
 - final-call
+- partly-paid
+- suspension
+- upl
 title: Suspension of partly paid-up equity shares of UPL Limited
 ---
 

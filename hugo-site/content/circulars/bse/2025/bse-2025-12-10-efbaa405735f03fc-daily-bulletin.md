@@ -31,13 +31,13 @@ stocks:
 - ANTARIKSH
 - ARSS
 tags:
+- bonus
 - book-closure
-- record-date
+- corporate-action
 - dividend
 - interest-payment
-- ncd-redemption
-- bonus-issue
-- corporate-actions
+- ncd
+- record-date
 title: Daily Bulletin 173/2025-2026 - Book Closure, Record Dates and Corporate Actions
 ---
 

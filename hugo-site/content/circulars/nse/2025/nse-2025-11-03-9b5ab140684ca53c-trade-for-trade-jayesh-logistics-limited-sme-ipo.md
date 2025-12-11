@@ -26,11 +26,11 @@ source: nse
 stocks:
 - JAYESH
 tags:
-- trade-for-trade
-- segment-transfer
-- sme-ipo
-- rolling-segment
 - listing
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Jayesh Logistics Limited (SME IPO)
 ---
 

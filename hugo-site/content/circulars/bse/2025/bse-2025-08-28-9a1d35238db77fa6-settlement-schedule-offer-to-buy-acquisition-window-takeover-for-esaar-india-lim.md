@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ESAAR
 tags:
-- takeover
-- settlement
-- acquisition
+- early-pay-in
 - esaar-india
 - otb
-- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for ESAAR
   (INDIA) LIMITED
 ---

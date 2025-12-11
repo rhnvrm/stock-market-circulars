@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - ATHENACONS
-- AVIPOLYMERS
+- AVI
 - CONCORDDRUG
 - KUBERAN
 - MAHIPIND
@@ -36,11 +36,11 @@ stocks:
 - RETAGGIO
 - UTLIND
 tags:
-- price-band
-- trading
-- surveillance
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for 10 Securities Effective November 12, 2025
 ---
 

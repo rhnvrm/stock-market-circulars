@@ -26,11 +26,10 @@ source: bse
 stocks:
 - AJWAPROJECTS
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- ajwa-projects
+- sme
 title: SME IPO - Draft Offer Document of AJWA PROJECTS LIMITED
 ---
 

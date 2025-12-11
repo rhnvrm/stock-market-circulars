@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PRODOCS
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- public-issue
-- allocation
 - prodocs-solutions
+- public-issue
 title: Public Issue of PRODOCS SOLUTIONS LIMITED - Allocation to Anchor Investors
 ---
 

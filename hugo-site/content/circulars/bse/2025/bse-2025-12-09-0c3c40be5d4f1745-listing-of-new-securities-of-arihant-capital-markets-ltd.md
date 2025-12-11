@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ARIHANTCAP
 tags:
-- new-listing
-- preferential-issue
-- equity-shares
+- equity
+- listing
 - lock-in
-- arihant-capital
+- preferential-issue
 title: Listing of New Securities of Arihant Capital Markets Ltd.
 ---
 

@@ -26,10 +26,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
 - cross-currency-derivatives
-- testing
+- derivatives
+- mock-trading
 - system-familiarization
 - trading-session
 title: Mock Trading Session for Currency Derivatives Segment - November 22, 2025

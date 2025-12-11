@@ -28,11 +28,11 @@ source: bse
 stocks:
 - REMIEDELST
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Remi Edelstahl Tubulars Limited
 ---
 

@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- recovery-certificate
 - compliance
 - enforcement
-- kolar-biotech
-- recovery-proceedings
+- recovery
 title: SEBI Order for Compliance – Release Order for Recovery Certificate No. 82 of
   2014 against Girdharbhai Karu (Kolar Biotech Limited)
 ---

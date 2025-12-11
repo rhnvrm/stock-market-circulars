@@ -27,12 +27,10 @@ source: bse
 stocks:
 - BEML
 tags:
-- corporate-actions
-- stock-split
-- sub-division
-- equity-shares
-- beml
+- corporate-action
 - dematerialised-securities
+- equity
+- split
 title: 'Sub-Division of Equity Shares of BEML LTD (Scrip Code: 500048)'
 ---
 

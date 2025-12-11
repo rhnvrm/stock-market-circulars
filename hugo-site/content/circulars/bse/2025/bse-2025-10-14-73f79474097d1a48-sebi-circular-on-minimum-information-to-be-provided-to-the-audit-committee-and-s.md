@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- related-party-transactions
-- rpt
-- audit-committee
-- shareholder-approval
-- sebi-circular
 - compliance
-- disclosure-requirements
+- disclosure
 - ease-of-doing-business
 - industry-standards
+- related-party-transactions
+- rpt
+- sebi
+- shareholder-approval
+- system-audit
 title: SEBI Circular on Minimum Information to be Provided to the Audit Committee
   and Shareholders for Approval of Related Party Transactions
 ---

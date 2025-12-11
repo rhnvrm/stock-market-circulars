@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
-- corporate-actions
-- ptc
-- pass-through-certificates
-- vajra-trust
-- partial-redemption
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ptc
+- redemption
+- vajra-trust
 title: Part Redemption of PTCs of Vajra Trust
 ---
 

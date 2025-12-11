@@ -28,11 +28,11 @@ source: bse
 stocks:
 - INDUSIND SECURITIES
 tags:
-- debentures
-- trading-resumption
-- put-option
+- corporate-action
 - debt-securities
-- corporate-actions
+- ncd
+- put-option
+- trading-resumption
 title: Resumption of Trading in Debentures of INDUSIND SECURITIES LTD (Scrip Code
   973204)
 ---

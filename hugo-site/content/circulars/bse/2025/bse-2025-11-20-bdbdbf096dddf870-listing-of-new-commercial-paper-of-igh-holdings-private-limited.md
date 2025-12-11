@@ -28,9 +28,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - igh-holdings
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of IGH Holdings Private Limited
 ---

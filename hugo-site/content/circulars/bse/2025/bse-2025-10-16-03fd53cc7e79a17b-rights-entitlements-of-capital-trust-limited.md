@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CAPTRU
 tags:
-- rights-entitlements
-- renunciation
 - capital-trust-limited
+- demat
 - equity
-- dematerialized-trading
-- t+1-settlement
+- renunciation
+- rights-issue
+- t1-settlement
 title: Rights Entitlements Trading for Capital Trust Limited
 ---
 

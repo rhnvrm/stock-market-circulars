@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- merchant-banker
-- enforcement
+- compliance-order
 - due-diligence
+- enforcement
+- intermediary
+- investigation
+- merchant-banker
 - net-worth-requirement
-- inspection
-- SME-IPO
-- intermediaries
-- penalties
-- compliance-violations
+- penalty
+- sme
 title: Enquiry Order in the matter of Gretex Corporate Services Limited - Merchant
   Banker
 ---

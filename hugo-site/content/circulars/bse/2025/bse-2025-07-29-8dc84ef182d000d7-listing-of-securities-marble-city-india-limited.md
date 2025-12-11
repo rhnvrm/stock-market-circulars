@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MARBLECITY
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
-- marble-city-india
+- preferential-issue
 title: Listing of Securities - MARBLE CITY INDIA LIMITED
 ---
 

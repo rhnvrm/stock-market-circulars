@@ -31,20 +31,19 @@ stocks:
 - BAJAJFINSV
 - ONGC
 tags:
-- commercial-paper
-- redemption
-- trading-suspension
-- debt-segment
-- corporate-actions
-- kotak-mahindra
-- trust-investment-advisors
 - aditya-birla
-- godrej-finance
-- birla-group
-- poonawalla-fincorp
 - axis-finance
 - bajaj-financial
+- birla-group
+- commercial-paper
+- corporate-action
+- debt-securities
+- godrej-finance
+- kotak-mahindra
 - ongc-petro
+- redemption
+- suspension
+- trust-investment-advisors
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---
 

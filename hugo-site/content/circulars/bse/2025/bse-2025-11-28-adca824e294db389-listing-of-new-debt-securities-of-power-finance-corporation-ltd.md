@@ -26,12 +26,11 @@ source: bse
 stocks:
 - POWERFIN
 tags:
+- aaa-rated
+- bond
 - debt-securities
 - listing
 - private-placement
-- power-finance-corporation
-- bonds
-- aaa-rated
 title: Listing of New Debt Securities of Power Finance Corporation Ltd
 ---
 

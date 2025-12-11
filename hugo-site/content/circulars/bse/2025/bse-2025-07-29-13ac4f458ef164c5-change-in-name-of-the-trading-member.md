@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- name-change
 - jaypee-capital
 - membership
+- name-change
+- trading-member
 title: Change in Name of Trading Member - JAYPEE CAPITAL SERVICES LTD.
 ---
 

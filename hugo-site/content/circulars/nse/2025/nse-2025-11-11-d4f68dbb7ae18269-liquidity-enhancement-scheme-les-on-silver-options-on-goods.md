@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- derivatives
 - liquidity-enhancement-scheme
-- silver-options
-- commodity-derivatives
-- options-on-goods
 - market-operations
+- options-on-goods
 - scheme-extension
+- silver-options
 title: Liquidity Enhancement Scheme (LES) on Silver Options Extended Until February
   2026
 ---

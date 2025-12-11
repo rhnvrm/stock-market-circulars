@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - WEIRD
 tags:
-- debenture-trustee
-- ncds
-- public-issue
-- regulatory-violation
 - companies-act
-- enforcement-action
+- debenture-trustee
+- enforcement
+- ncd
+- non-compliance
+- public-issue
 title: Order in the matter of Weird Infrastructure Corporation Limited
 ---
 

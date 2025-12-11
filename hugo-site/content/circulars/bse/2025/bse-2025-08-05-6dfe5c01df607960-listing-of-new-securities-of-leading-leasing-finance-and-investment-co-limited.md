@@ -25,10 +25,10 @@ source: bse
 stocks:
 - LLFINCO
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Leading Leasing Finance And Investment Co. Limited
 ---
 

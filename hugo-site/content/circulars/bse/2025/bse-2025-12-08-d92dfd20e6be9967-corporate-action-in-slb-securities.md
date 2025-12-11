@@ -28,12 +28,12 @@ stocks:
 - DECCAN
 - ECLERX
 tags:
-- corporate-action
-- slb
-- right-issue
 - buyback
+- corporate-action
 - deccan-gold-mines
 - eclerx-services
+- right-issue
+- slb
 title: Corporate Action in SLB Securities
 ---
 

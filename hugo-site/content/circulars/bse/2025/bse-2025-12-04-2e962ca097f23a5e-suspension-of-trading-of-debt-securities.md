@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- suspension
 - delisting
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading of Debt Securities
 ---
 

@@ -27,13 +27,12 @@ source: bse
 stocks:
 - ANKA
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - anka-india
 - early-pay-in
+- otb
 - revised-settlement
+- settlement
+- takeover
 title: Revised Settlement Schedule for Takeover Offer - ANKA INDIA LIMITED
 ---
 

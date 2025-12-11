@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BHARATRAS
 tags:
-- bonus-issue
-- stock-split
-- sub-division
-- equity-shares
+- bonus
 - corporate-action
-- bharat-rasayan
+- equity
+- split
 title: Sub-Division and Bonus Issue of Equity Shares of Bharat Rasayan Limited
 ---
 

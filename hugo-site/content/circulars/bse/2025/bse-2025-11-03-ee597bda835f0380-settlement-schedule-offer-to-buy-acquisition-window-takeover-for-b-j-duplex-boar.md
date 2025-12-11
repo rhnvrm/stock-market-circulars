@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BJDUPLEX
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - early-pay-in
-- b-j-duplex-boards
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for B J DUPLEX
   BOARDS LIMITED
 ---

@@ -27,10 +27,8 @@ stocks:
 - POONAWALLAFIN
 tags:
 - commercial-paper
-- debt-listing
-- poonawalla-fincorp
+- debt-securities
 - private-placement
-- debt-market
 title: Listing of new Commercial Paper of POONAWALLA FINCORP LIMITED
 ---
 

@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544492'
+- MEIL
 tags:
-- index-addition
+- bse-index
+- index-change
 - ipo
-- bse-ipo-index
-- new-listing
+- listing
 title: Addition of Mangal Electrical Industries Limited to BSE IPO Index
 ---
 

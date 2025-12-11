@@ -27,15 +27,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- FATF
+- aml
 - compliance
-- AML
-- KYC
-- trading-members
 - due-diligence
+- fatf
 - jurisdiction-screening
-- BEFS
-- SEBI
+- kyc
+- sebi
+- trading-member
+- trading-platform
 title: FATF Public Statements after October 2025 Plenary - Client Jurisdiction Declaration
   Process
 ---

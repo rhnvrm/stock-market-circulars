@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fund-of-funds
-- scheme-changes
-- sebi-compliance
-- hdfc
 - benchmark-change
+- fund-of-funds
+- hdfc
+- mutual-fund
+- scheme-changes
+- sebi
 title: HDFC Mutual Fund Scheme Name and Benchmark Changes Under New FOF Framework
 ---
 

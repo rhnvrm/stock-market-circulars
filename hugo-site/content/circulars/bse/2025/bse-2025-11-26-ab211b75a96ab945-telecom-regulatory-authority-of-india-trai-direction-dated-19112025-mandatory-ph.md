@@ -27,22 +27,22 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- regulatory
-- telecom
-- bfsi
-- sebi
-- rbi
-- pfrda
 - 1600-series
+- amc
+- banks
+- bfsi
+- compliance
 - consumer-protection
 - fraud-prevention
-- compliance
-- mutual-funds
-- amc
-- stockbrokers
-- banks
+- mutual-fund
 - nbfc
+- pfrda
+- rbi
+- regulatory
+- sebi
+- stock-broker
+- telecom
+- trai
 title: TRAI Mandates Phase-wise Adoption of 1600-Series Numbers for BFSI Sector Entities
 ---
 

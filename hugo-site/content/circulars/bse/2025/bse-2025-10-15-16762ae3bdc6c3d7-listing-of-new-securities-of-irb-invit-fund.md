@@ -27,11 +27,11 @@ source: bse
 stocks:
 - IRBINVIT
 tags:
-- listing
-- qip
-- invit
 - institutional-placement
+- invit
+- listing
 - new-securities
+- qip
 title: Listing of new securities of IRB InvIT Fund
 ---
 

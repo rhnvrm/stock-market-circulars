@@ -27,10 +27,9 @@ stocks:
 - JEYYAM
 - YASHOPTICS
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---

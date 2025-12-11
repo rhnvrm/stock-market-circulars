@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
-- commercial-paper
-- trading-suspension
-- debt-market
-- redemption
 - bajaj-financial-securities
+- commercial-paper
+- debt-securities
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper of Bajaj Financial Securities Limited
 ---
 

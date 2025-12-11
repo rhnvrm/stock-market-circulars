@@ -45,11 +45,10 @@ stocks:
 - LOTUSEYEHOS
 - RUPARELFOOD
 tags:
-- lt-asm
+- asm-stage
+- market-operations
 - surveillance
 - trading
-- additional-surveillance-measure
-- market-operations
 title: BSE Updates Long Term Additional Surveillance Measure (LT-ASM) Framework -
   September 2025
 ---

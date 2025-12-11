@@ -51,7 +51,7 @@ stocks:
 - KRSNAA
 - NATCOPHARM
 - VENKEYS
-- JINDALSTAINLESS
+- JSL
 - JYOTHY
 - PREMIER
 - GARWARE
@@ -60,11 +60,11 @@ stocks:
 - TIME
 - PIPAVAV
 tags:
-- corporate-actions
-- dividends
-- bonus-issues
-- rights-issues
-- record-dates
+- bonus
+- corporate-action
+- dividend
+- record-date
+- rights-issue
 - shut-periods
 title: Corporate Actions in SLB Securities - Dividends, Bonus Issues, and Rights Issues
 ---

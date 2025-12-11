@@ -27,12 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- password-reset
-- cybersecurity
 - cbrics-platform
-- debt-segment
-- system-security
+- cybersecurity
+- debt-securities
 - mandatory-compliance
+- password-reset
+- system-security
 title: Password Encryption for CBRICS Platform - Mandatory Password Reset
 ---
 

@@ -27,13 +27,13 @@ source: sebi
 stocks:
 - DARSHANORNA
 tags:
+- adjudication
+- investigation
+- penalty
 - price-manipulation
+- regulatory-framework
 - social-media
 - telegram
-- adjudication
-- penalty
-- fraudulent-trading
-- pfutp-regulations
 title: Adjudication Order Against Darshan Orna Limited for Price Manipulation via
   Social Media
 ---

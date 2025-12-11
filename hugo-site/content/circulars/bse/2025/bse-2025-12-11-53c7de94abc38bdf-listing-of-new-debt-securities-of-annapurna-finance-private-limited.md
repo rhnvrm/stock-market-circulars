@@ -30,10 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- annapurna-finance
-- debentures
-- new-listing
 title: Listing of New Debt Securities of Annapurna Finance Private Limited
 ---
 

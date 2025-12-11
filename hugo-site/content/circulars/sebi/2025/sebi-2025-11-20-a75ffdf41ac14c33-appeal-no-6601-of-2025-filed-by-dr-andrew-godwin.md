@@ -25,10 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
+- administrative
+- appeal
 - justice-lodha-committee
-- procedural
+- rti
 title: Appeal No. 6601 of 2025 filed by Dr. Andrew Godwin
 ---
 

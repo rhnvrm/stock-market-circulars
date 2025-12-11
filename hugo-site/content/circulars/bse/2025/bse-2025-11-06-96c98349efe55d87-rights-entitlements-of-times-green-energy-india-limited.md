@@ -27,12 +27,11 @@ source: bse
 stocks:
 - TIMES
 tags:
-- rights-entitlements
+- demat
+- equity
 - renunciation
 - rights-issue
-- equity
 - trading
-- dematerialized
 title: Rights Entitlements of TIMES GREEN ENERGY (INDIA) LIMITED
 ---
 

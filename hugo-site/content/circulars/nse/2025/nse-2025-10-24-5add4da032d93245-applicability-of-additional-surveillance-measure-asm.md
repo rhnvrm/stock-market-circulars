@@ -34,12 +34,9 @@ stocks:
 - SMLISUZU
 - SUNDRMBRAK
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- stage-movement
 - trade-for-trade
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - October 2025
 ---
 

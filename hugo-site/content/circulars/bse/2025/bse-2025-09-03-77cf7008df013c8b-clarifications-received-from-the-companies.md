@@ -26,11 +26,10 @@ stocks:
 - GREAVESCOT
 - HALDERVEN
 tags:
-- price-movement
-- volume-increase
-- surveillance
+- bonus
 - disclosure
-- bonus-issue
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

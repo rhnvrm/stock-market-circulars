@@ -27,13 +27,13 @@ source: sebi
 stocks:
 - IOCL
 tags:
-- insider-trading
-- adjudication-order
-- upsi
-- financial-results
-- interim-dividend
+- adjudication
 - designated-employee
+- dividend
+- financial-results
+- investigation
 - pit-regulations
+- upsi
 title: Adjudication Order in the matter of suspected insider trading activity of certain
   entities in the scrip of Indian Oil Corporation Ltd.
 ---

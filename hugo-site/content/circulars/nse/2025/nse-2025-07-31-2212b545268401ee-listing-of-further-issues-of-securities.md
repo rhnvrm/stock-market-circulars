@@ -31,10 +31,10 @@ stocks:
 - IXIGO
 - JSFB
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 - securities
 title: Listing of Further Issues of Securities - Multiple Companies ESOP Allotments
 ---

@@ -37,11 +37,9 @@ stocks:
 - DEEPDIA
 - SANATENT
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- trading-framework
-- market-surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

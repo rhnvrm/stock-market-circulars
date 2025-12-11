@@ -25,11 +25,10 @@ severity: high
 source: nse
 stocks: []
 tags:
-- kyc
-- kra
 - client-records
 - compliance
-- trading-members
+- kyc
+- trading-member
 - validation
 title: Upload of Client Records to KRAs for validations
 ---

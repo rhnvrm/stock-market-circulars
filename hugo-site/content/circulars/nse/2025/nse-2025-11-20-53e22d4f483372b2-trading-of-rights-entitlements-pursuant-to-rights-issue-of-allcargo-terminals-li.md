@@ -27,12 +27,11 @@ source: nse
 stocks:
 - ATL
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - capital-market
+- demat
+- rights-issue
 - trade-to-trade
-- compulsory-demat
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Allcargo Terminals
   Limited
 ---

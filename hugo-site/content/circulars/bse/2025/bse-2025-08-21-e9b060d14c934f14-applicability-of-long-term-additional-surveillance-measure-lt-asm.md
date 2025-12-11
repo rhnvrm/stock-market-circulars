@@ -29,11 +29,10 @@ stocks:
 - BGRENERGY
 - ARMANHLDG
 tags:
-- surveillance
-- asm
-- long-term-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

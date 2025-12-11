@@ -26,12 +26,11 @@ source: nse
 stocks:
 - GICL
 tags:
-- market-lot
-- sme-platform
-- lot-size
-- standardization
-- gicl
 - globe-intl-carriers
+- lot-size
+- market-lot
+- sme
+- standardization
 title: Review of Market Lot for Security on SME Platform (GICL)
 ---
 

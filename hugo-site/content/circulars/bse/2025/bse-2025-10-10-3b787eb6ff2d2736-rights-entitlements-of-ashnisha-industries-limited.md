@@ -28,12 +28,11 @@ source: bse
 stocks:
 - ASHNI
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- equity
 - company-related
-- t+1-settlement
+- equity
+- renunciation
+- rights-issue
+- t1-settlement
 - trade-for-trade
 title: Rights Entitlements of ASHNISHA INDUSTRIES LIMITED
 ---

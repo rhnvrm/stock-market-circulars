@@ -26,12 +26,11 @@ source: bse
 stocks:
 - FORTISMALAR
 tags:
+- demat-shares
+- early-pay-in
+- otb
 - settlement
 - takeover
-- acquisition-window
-- fortis-malar-hospitals
-- early-pay-in
-- demat-shares
 title: Revised Settlement Schedule for Fortis Malar Hospitals Limited - Takeover Acquisition
   Window
 ---

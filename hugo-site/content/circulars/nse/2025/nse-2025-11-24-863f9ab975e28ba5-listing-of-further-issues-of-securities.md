@@ -41,12 +41,12 @@ stocks:
 - WABAG
 - ZOTA
 tags:
-- listing
+- capital-market
+- equity
 - esop
 - esps
-- equity-shares
-- further-issues
-- capital-market
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 14 Companies
 ---
 

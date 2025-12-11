@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- testing
-- equity-segment
-- trading-platforms
-- call-auction
 - block-deals
+- call-money
+- equity
+- market-infrastructure
+- mock-trading
 - risk-reduction
 title: Mock Trading on Saturday, November 29th, 2025 for Equity Segment
 ---

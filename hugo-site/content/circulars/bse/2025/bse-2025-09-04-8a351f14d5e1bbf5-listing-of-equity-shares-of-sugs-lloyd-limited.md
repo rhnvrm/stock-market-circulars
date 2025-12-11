@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SUGSLLOYD
 tags:
+- equity
 - listing
 - shareholding-pattern
-- equity-shares
-- promoter-holding
-- public-holding
 title: Listing of Equity Shares of SUGS LLOYD LIMITED
 ---
 

@@ -24,16 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MISHDESIGNS
+- MISHDESIGN
 - PANELECTR
 - SESHACHAL
 - MARUTI-INTERIOR
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- trading-framework
-- market-surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

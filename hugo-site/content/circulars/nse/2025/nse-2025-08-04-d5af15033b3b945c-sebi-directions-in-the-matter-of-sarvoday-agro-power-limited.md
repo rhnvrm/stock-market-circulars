@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SARVODAY
 tags:
-- sebi-order
-- market-ban
-- investigation
-- sarvoday-agro-power
-- debarment
 - compliance
+- debarment
+- investigation
+- market-ban
+- sebi-order
 title: SEBI Restrains Sarvoday Agro Power Limited and 19 Associated Entities from
   Securities Market
 ---

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SMSPH
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- promoter-funding
 - lock-in
-- equity-shares
+- preferential-issue
+- promoter-funding
 title: Listing of New Securities of SMS Pharmaceuticals Ltd - Preferential Allotment
 ---
 

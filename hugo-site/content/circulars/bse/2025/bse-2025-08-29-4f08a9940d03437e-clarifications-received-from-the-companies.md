@@ -27,12 +27,11 @@ stocks:
 - AFFORDABLE
 - VARDHMAN
 tags:
-- price-movement
-- volume-movement
-- surveillance
 - disclosure
-- market-driven
-- sebi-lodr
+- lodr
+- market-operations
+- price-movement
+- surveillance
 title: BSE Clarifications from Affordable Robotic & Automation Limited and Vardhman
   Textiles Limited on Price/Volume Movement
 ---

@@ -24,14 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '530131'
-- '500380'
-- '532395'
+- JKLAKSHMI
+- AXISCADES
 tags:
-- index-changes
-- amalgamation
-- scheme-of-arrangement
 - corporate-action
+- index-change
+- scheme-of-arrangement
 title: Changes to the BSE Indices - Udaipur Cement Works Amalgamation with JK Lakshmi
   Cement
 ---

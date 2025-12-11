@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ABCAPITAL
 tags:
-- debt-securities
-- listing
-- private-placement
-- perpetual-bonds
 - aaa-rated
 - aditya-birla-capital
+- debt-securities
+- listing
+- perpetual-bonds
+- private-placement
 title: Listing of New Debt Securities of Aditya Birla Capital Ltd
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NESTLEIND
 tags:
+- bonus
+- contract-adjustment
+- corporate-action
 - derivatives
 - futures-options
-- bonus-issue
-- corporate-action
-- contract-adjustment
 - nestle
 title: Adjustment of Futures and Options contract of Nestle India Ltd on account of
   Bonus issue

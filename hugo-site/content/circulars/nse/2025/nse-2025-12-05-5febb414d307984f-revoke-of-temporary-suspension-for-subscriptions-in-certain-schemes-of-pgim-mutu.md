@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription
-- fund-of-fund
-- pgim-india
-- overseas-investment
-- lumpsum
+- fund-of-funds
 - investment-limit
+- lumpsum
+- mutual-fund
+- overseas-investment
+- pgim-india
+- subscription
 title: Revoke of Temporary Suspension for subscriptions in certain schemes of PGIM
   Mutual Fund on NSE MF Invest Platform
 ---

@@ -27,15 +27,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- system-audit
-- vapt
-- colocation
 - caas
-- cybersecurity
-- vendor-compliance
-- infrastructure
 - change-management
+- colocation
+- cybersecurity
+- infrastructure
+- system-audit
 - traffic-monitoring
+- vapt
+- vendor-compliance
 title: Revision in Terms of Reference (TOR) for submission of system audit report
   & submission of Vulnerability Assessment and Penetration Testing (VAPT) report for
   Vendors providing Co-Location as a Service (CaaS) facility

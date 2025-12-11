@@ -27,12 +27,10 @@ source: bse
 stocks:
 - HEUBACHIND
 tags:
-- takeover
-- acquisition
-- offer-to-buy
 - heubach-colorants
+- otb
+- takeover
 - trading-schedule
-- otb-module
 title: Offer to Buy – Acquisition Window (Takeover) for HEUBACH COLORANTS INDIA LIMITED
   - Live Activities Schedule
 ---

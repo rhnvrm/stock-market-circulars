@@ -37,12 +37,10 @@ stocks:
 - VERANDA
 - WIPRO
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued by 10 Companies Under ESOP/ESOS
 ---
 

@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
 - mutual-fund
 - nfo
-- new-fund-offer
 - samco-mutual-fund
 - small-cap-fund
-- equity
-- nse-mf-invest
+- trading-platform
 title: Launch of Samco Small Cap Fund NFO on NSE MF Invest Platform
 ---
 

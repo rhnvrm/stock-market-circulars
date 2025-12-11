@@ -27,14 +27,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- lic-mutual-fund
 - consumption-fund
-- nse-mf-invest
-- scheme-reopening
+- lic-mutual-fund
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
+- trading-platform
 title: Availability of LIC MF Consumption Fund for ongoing transactions on NSE MF
   Invest Platform
 ---

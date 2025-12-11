@@ -27,12 +27,12 @@ source: bse
 stocks:
 - HDBFSL
 tags:
+- aaa-rated
 - debt-securities
+- hdb-financial-services
 - listing
+- ncd
 - private-placement
-- HDB-Financial-Services
-- non-convertible-debentures
-- AAA-rated
 title: Listing of New Debt Securities of HDB Financial Services Limited
 ---
 

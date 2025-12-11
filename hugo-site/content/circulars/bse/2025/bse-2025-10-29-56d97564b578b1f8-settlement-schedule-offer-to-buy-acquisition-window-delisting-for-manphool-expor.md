@@ -27,11 +27,9 @@ stocks:
 - MANPHOOL
 tags:
 - delisting
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - early-pay-in
-- manphool-exports
+- otb
+- settlement
 title: Settlement Schedule Offer to Buy – Acquisition Window (Delisting) for MANPHOOL
   EXPORTS LIMITED
 ---

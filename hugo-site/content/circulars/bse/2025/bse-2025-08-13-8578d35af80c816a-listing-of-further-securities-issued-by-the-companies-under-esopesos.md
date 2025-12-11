@@ -26,7 +26,7 @@ source: bse
 stocks:
 - ABCAPITALS
 - APLAPOLLO
-- BOROSIL
+- BOROLTD
 - CIPLA
 - DELHIVERY
 - FEDERALBNK
@@ -37,11 +37,9 @@ stocks:
 - UTIAMC
 - VMART
 tags:
+- equity
 - esop
-- esos
-- employee-stock-options
-- new-listing
-- equity-shares
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS Programs
 ---
 

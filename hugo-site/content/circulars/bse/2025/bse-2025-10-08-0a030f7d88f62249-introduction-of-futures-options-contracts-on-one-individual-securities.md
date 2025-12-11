@@ -26,11 +26,9 @@ source: bse
 stocks:
 - HITACHIENERGY
 tags:
-- futures-and-options
 - derivatives
+- futures-options
 - new-contracts
-- hitachi-energy
-- equity-derivatives
 title: Introduction of Futures & Options Contracts on Hitachi Energy India Ltd
 ---
 

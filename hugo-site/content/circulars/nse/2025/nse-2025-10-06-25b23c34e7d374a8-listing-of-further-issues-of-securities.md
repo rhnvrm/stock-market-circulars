@@ -26,11 +26,11 @@ source: nse
 stocks:
 - MOS
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- sme-emerge
+- emerge-platform
+- equity
 - further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - Mos Utility Limited
 ---
 

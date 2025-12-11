@@ -340,12 +340,12 @@ stocks:
 - CINEVISTA
 - ARTE
 tags:
-- surveillance
-- rtcm
-- trade-cancellation
-- price-manipulation
-- market-integrity
 - enhanced-monitoring
+- market-operations
+- price-manipulation
+- rtcm
+- surveillance
+- trade-cancellation
 title: Reversal Trade Cancellation Mechanism (RTCM) - Securities List for November
   2025
 ---

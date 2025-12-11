@@ -26,10 +26,10 @@ source: nse
 stocks:
 - CSSL
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 - trading
 title: Trade for Trade - Clear Secured Services Limited (SME IPO)
 ---

@@ -25,10 +25,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
-- release-order
+- recovery
+- release
 - sebi-enforcement
 title: 'Release Order - Recovery Certificate No. RC8355 of 2024 dated November 19,
   2024 in respect of Sanjay Shastri HUF (PAN: AAYHS3088Q) in the matter of Illiquid

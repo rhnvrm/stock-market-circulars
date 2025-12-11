@@ -27,14 +27,13 @@ source: bse
 stocks:
 - SYNGENE
 tags:
-- clarification
-- news-article
-- biologics
 - adc
 - bioconjugation
+- biologics
+- clarification
 - facility-expansion
+- news-article
 - regulation-30
-- syngene
 title: Syngene International Clarification on Biologics Facility Expansion with ADC
   Bioconjugation Capability
 ---

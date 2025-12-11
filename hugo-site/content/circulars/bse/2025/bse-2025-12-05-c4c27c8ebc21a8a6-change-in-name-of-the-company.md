@@ -24,9 +24,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- company-name-change
-- listing
 - corporate-action
+- listing
+- name-change
 title: Change in Name of the Company
 ---
 

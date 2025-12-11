@@ -27,10 +27,10 @@ stocks: []
 tags:
 - attachment
 - bank-accounts
-- demat-accounts
-- illiquid-stock-options
 - bse
+- demat
 - enforcement
+- illiquid-stock-options
 title: Notice of Attachment of Bank Accounts and Demat Accounts - Sudhir Agarwal HUF
 ---
 

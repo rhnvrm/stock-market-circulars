@@ -29,14 +29,13 @@ stocks:
 - HUL
 - KWALITY
 tags:
-- demerger
-- scheme-of-arrangement
+- call-money
 - corporate-action
-- nclt-approval
-- ice-cream-business
-- record-date
 - entitlement
-- call-auction
+- ice-cream-business
+- nclt
+- record-date
+- scheme-of-arrangement
 - spos
 title: Scheme of Arrangement for Demerger of Hindustan Unilever Ltd - Ice Cream Business
   to Kwality Wall's (India) Limited

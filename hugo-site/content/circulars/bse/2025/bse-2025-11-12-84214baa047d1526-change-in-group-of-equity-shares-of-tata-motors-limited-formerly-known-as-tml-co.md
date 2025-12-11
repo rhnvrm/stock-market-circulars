@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
+- company-reclassification
+- equity
 - group-change
 - tata-motors
-- equity-shares
 - trading-group-b
-- company-reclassification
 title: Change in Group of Equity Shares of Tata Motors Limited
 ---
 

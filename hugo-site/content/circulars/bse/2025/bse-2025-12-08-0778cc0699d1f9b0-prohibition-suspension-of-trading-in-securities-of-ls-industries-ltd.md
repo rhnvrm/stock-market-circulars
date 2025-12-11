@@ -24,14 +24,12 @@ published_date: '2025-12-08T10:41:30+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={966F5495-F76A-434F-8BCF-1EAD3382C107}&noticeno=20251208-11&dt=12/08/2025&icount=11&totcount=66&flag=0
 severity: high
 source: bse
-stocks:
-- '514446'
+stocks: []
 tags:
-- trading-suspension
-- prohibition
 - interim-measure
 - investor-protection
-- '514446'
+- prohibition
+- suspension
 title: Prohibition/Suspension of Trading in Securities of LS Industries Ltd
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - AKCFL
 tags:
-- trading-suspension
-- debentures
-- debt-market
-- corporate-actions
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of A.K. CAPITAL FINANCE LTD.
 ---
 

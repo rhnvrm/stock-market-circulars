@@ -26,10 +26,8 @@ source: bse
 stocks:
 - RLFL
 tags:
-- takeover
-- offer-to-buy
-- acquisition
 - otb
+- takeover
 - trading
 title: Offer to Buy – Acquisition Window (Takeover) for Ramchandra Leasing Finance
   Ltd - Live Activities Schedule

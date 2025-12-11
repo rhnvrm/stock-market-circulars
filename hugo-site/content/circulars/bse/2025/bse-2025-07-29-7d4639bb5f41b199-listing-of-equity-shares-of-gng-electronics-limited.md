@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GNGELEC
 tags:
-- listing
-- equity-shares
-- lock-in
-- ipo
-- anchor-investors
+- anchor-investor
+- equity
 - gng-electronics
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of GNG Electronics Limited with Lock-in Details
 ---
 

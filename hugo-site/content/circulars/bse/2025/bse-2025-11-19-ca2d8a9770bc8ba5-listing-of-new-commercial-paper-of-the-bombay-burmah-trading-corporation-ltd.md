@@ -28,9 +28,9 @@ stocks:
 - BBTC
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kotak-mahindra-bank
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of The Bombay Burmah Trading Corporation Ltd.
 ---

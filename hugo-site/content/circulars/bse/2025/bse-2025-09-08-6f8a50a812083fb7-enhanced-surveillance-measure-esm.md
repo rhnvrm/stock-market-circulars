@@ -36,11 +36,10 @@ stocks:
 - PANTHER
 - SPICEISLAND
 tags:
-- esm
-- enhanced-surveillance
-- trading-restrictions
-- risk-management
 - market-supervision
+- risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---
 

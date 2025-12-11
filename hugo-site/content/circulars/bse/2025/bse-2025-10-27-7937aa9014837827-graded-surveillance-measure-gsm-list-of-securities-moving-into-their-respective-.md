@@ -27,19 +27,17 @@ source: bse
 stocks:
 - NIVAKA
 - AMITINTL
-- DEVINEIMPEX
+- DEVINE
 - MEGAFIN
 - SSPNFIN
 - GUJLEASE
 - RKDAGRI
 - RELICTEC
 tags:
-- gsm
-- graded-surveillance-measure
-- surveillance
-- market-regulation
-- esm-framework
+- asm-stage
 - ibc-framework
+- market-operations
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

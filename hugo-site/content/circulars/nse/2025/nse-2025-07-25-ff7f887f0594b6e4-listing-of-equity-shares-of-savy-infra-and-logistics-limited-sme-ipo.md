@@ -25,13 +25,12 @@ source: nse
 stocks:
 - SAVY
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
-- SAVY
+- equity
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- surveillance-segment
 title: Listing of Equity Shares of Savy Infra and Logistics Limited (SME IPO)
 ---
 

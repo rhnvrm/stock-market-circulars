@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SESHACHAL
 tags:
-- listing
-- equity-shares
+- asm-stage
 - capital-reduction
-- trade-to-trade
-- xt-group
+- equity
 - ipo-pre-open-session
+- listing
+- trade-to-trade
 title: Listing of Equity Shares of Seshachal Technologies Limited
 ---
 

@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- compliance
 - enforcement
 - onelife-capital
-- compliance
-- penalty-recovery
+- penalty
+- recovery
 title: Recovery Certificate No. 8846/2025 against Pandoo Prabhakar Naig - Onelife
   Capital Advisors Limited
 ---

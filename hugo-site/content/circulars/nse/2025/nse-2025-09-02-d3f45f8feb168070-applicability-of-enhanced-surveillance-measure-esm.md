@@ -29,14 +29,9 @@ stocks:
 - SAROJA
 - WTICAB
 tags:
-- enhanced-surveillance-measure
-- esm
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- ELGIRUBCO
-- SABAR
-- SAROJA
-- WTICAB
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

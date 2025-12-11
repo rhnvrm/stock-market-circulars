@@ -24,16 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544617'
-- '544616'
-tags:
-- index-changes
-- ipo
-- sme-ipo
-- new-listing
-- index-inclusion
 - EXCELSOFT
 - GALLARD
+tags:
+- index-change
+- ipo
+- listing
+- sme
 title: Additions to the BSE Indices
 ---
 

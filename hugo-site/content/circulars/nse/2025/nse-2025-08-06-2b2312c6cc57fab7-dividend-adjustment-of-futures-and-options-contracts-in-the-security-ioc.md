@@ -26,12 +26,11 @@ source: nse
 stocks:
 - IOC
 tags:
-- dividend
-- futures
-- options
-- corporate-action
 - adjustment
-- IOC
+- corporate-action
+- dividend
+- futures-options
+- options
 title: Dividend Adjustment of Futures and Options Contracts in IOC
 ---
 

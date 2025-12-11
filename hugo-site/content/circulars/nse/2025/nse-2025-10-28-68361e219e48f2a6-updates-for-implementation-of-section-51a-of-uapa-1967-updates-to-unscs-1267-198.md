@@ -26,16 +26,16 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sanctions
-- UAPA
-- UNSC
-- terrorism-financing
+- al-qaida
+- aml
 - compliance
-- KYC
-- AML
+- isil
+- kyc
+- sanctions
 - security-council
-- Al-Qaida
-- ISIL
+- terrorism-financing
+- uapa
+- unsc
 title: 'Updates for Implementation of Section 51A of UAPA, 1967: Updates to UNSC''s
   1267/1989 ISIL (Da''esh) & Al-Qaida Sanctions List'
 ---

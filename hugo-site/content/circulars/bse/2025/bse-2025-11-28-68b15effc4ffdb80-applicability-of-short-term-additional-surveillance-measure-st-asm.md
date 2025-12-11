@@ -30,7 +30,7 @@ stocks:
 - GILADA
 - HALDER
 - JDCABLES
-- SRIGEEDLM
+- SRIGEE
 - SUPEREV
 - GARNETINT
 - MAGELLANIC
@@ -41,12 +41,10 @@ stocks:
 - VLEGOV
 - VLSFINANCE
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - sme
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

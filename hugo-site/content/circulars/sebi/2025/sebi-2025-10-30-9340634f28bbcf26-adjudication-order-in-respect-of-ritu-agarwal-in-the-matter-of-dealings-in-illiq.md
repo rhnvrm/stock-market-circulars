@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
+- adjudication
+- bse
 - illiquid-stock-options
-- market-manipulation
-- fraudulent-trading
-- reversal-trades
-- BSE
-- PFUTP
+- investigation
+- market-operations
 - penalty
+- pfutp
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Ritu Agarwal in the matter of dealings in
   Illiquid Stock Options on BSE
 ---

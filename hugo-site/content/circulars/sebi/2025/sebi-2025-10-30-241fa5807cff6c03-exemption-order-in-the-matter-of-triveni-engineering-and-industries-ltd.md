@@ -28,13 +28,12 @@ source: sebi
 stocks:
 - TRIVENIENG
 tags:
-- takeover
 - exemption-order
-- substantial-acquisition
-- sast-regulations
 - promoter-group
+- regulatory-framework
+- sast
+- takeover
 - trust
-- TRIVENIENG
 title: Exemption Order in the matter of Triveni Engineering and Industries Ltd.
 ---
 

@@ -28,15 +28,14 @@ source: sebi
 stocks:
 - DHFL
 tags:
-- settlement-order
-- non-convertible-debentures
-- fraudulent-practices
-- unfair-trade-practices
+- investigation
 - merchant-banker
-- stock-broker
-- DHFL
+- ncd
+- pfutp
 - public-issue
-- PFUTP
+- settlement-order
+- stock-broker
+- unfair-trade-practices
 title: Settlement Order in the matter of issuance of non-convertible debentures by
   Dewan Housing Corporation Limited
 ---

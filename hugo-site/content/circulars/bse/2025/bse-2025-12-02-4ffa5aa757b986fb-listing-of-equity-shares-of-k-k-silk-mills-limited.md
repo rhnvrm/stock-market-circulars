@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KKSILK
 tags:
-- listing
-- equity-shares
-- lock-in
 - demat
-- nsdl
+- depository
+- equity
+- listing
+- lock-in
 title: Listing of Equity Shares of K K Silk Mills Limited
 ---
 

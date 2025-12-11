@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ADITYA INFOTECH
+- CPPLUS
 tags:
-- listing
-- equity-shares
-- shareholding-pattern
-- disclosure
 - aditya-infotech
+- disclosure
+- equity
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of Aditya Infotech Limited
 ---
 

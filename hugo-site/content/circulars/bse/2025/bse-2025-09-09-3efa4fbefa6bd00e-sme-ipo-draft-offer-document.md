@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HELLOJI
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
+- draft-document
 - helloji-holidays
-- icdr-regulations
+- icdr
+- public-comments
+- sme
 title: SME IPO Draft Offer Document - Helloji Holidays Limited
 ---
 

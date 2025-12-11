@@ -25,14 +25,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- uapa
-- sanctions
-- unsc
-- terrorism
-- compliance
-- security-council
 - anti-terrorism
+- compliance
 - regulatory
+- sanctions
+- security-council
+- terrorism
+- uapa
+- unsc
 title: 'Updates for Implementation of Section 51A of UAPA, 1967: Updates to UNSC''s
   1267/1989 ISIL (Da''esh) & Al-Qaida Sanctions List - Amendment in 05 entries'
 ---

@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544576'
-- '544575'
+- LGEINDIA
+- MITTALSTL
 tags:
-- index
-- additions
+- addition
+- index-fund
 - ipo
-- sme
 - listing
+- sme
 title: Additions to the BSE Indices
 ---
 

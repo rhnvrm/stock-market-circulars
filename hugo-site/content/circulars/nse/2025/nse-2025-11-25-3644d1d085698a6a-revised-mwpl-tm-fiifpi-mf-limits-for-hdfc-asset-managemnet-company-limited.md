@@ -26,14 +26,13 @@ source: nse
 stocks:
 - HDFCAMC
 tags:
-- position-limits
 - derivatives
-- futures-and-options
-- HDFCAMC
-- FII
-- FPI
-- mutual-funds
-- trading-members
+- fii
+- fpi
+- futures-options
+- mutual-fund
+- position-limits
+- trading-member
 title: Revised MWPL, TM, FII/FPI & MF Limits for HDFC Asset Management Company Limited
 ---
 

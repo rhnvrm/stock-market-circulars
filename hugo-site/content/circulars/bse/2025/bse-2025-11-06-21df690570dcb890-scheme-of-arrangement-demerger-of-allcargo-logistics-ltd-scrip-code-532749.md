@@ -28,15 +28,12 @@ source: bse
 stocks:
 - ALLCARGO
 tags:
-- demerger
+- call-money
 - corporate-action
-- scheme-of-arrangement
-- record-date
-- allcargo-logistics
-- allcargo-global
-- nclt-approval
-- special-pre-open-session
 - group-change
+- nclt
+- record-date
+- scheme-of-arrangement
 title: Scheme of Arrangement (Demerger) of Allcargo Logistics Ltd - Record Date November
   12, 2025
 ---

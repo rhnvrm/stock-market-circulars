@@ -27,13 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
+- algo-trading
 - capital-market
-- algorithmic-trading
-- retail-investors
-- NEAT-plus
-- testing
+- mock-trading
+- retail-investor
 - system-update
+- trading-platform
 title: Mock Trading on Saturday, November 29, 2025 - No New Version Release
 ---
 

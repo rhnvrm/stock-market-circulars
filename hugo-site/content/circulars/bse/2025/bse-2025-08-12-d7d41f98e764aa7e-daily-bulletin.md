@@ -41,12 +41,12 @@ stocks:
 - INDOBORAX
 - INDNAT
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
 - commercial-paper
-- corporate-actions
+- corporate-action
+- daily-bulletin
+- dividend
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

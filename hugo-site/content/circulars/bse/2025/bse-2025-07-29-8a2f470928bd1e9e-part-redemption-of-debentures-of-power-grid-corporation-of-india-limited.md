@@ -27,12 +27,11 @@ source: bse
 stocks:
 - PGCIL
 tags:
-- corporate-actions
-- debt
-- bonds
-- redemption
+- bond
+- corporate-action
+- debt-securities
 - power-grid
-- pgcil
+- redemption
 title: Part Redemption of Debentures of POWER GRID CORPORATION OF INDIA LIMITED
 ---
 

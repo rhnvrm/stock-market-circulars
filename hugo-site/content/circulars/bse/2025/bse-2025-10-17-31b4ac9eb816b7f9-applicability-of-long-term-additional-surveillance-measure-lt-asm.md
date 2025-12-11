@@ -52,11 +52,8 @@ stocks:
 - TRIOMERCAN
 - TRUEGREEN
 tags:
-- LT-ASM
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- long-term-asm
-- stage-movement
 - trade-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

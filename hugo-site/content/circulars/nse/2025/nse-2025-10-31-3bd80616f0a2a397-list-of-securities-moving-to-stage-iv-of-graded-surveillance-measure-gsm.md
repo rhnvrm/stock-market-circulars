@@ -28,13 +28,10 @@ source: nse
 stocks:
 - YAARI
 tags:
-- graded-surveillance-measure
-- gsm
 - stage-iv
-- trade-for-trade
 - surveillance
+- trade-for-trade
 - trading-restrictions
-- yaari
 title: List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)
 ---
 

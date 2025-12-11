@@ -42,15 +42,15 @@ stocks:
 - TASTYDAIRY
 - TELGE
 - TITANBIO
-- TITANINTECH
+- TITANIN
 - TRITON
 - TWAMEV
 tags:
-- price-band
-- surveillance
-- trading-parameters
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Revised Price Bands for 20 Securities Effective October 17, 2025
 ---
 

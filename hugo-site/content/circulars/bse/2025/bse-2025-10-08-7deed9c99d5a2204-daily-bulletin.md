@@ -28,12 +28,12 @@ stocks:
 - DELPHI
 tags:
 - book-closure
-- record-date
 - dividend
 - interest-payment
-- ncd-redemption
+- ncd
+- record-date
 - right-issue
-- merger
+- scheme-of-arrangement
 title: Daily Bulletin 131/2025-2026 - Book Closure and Record Dates
 ---
 

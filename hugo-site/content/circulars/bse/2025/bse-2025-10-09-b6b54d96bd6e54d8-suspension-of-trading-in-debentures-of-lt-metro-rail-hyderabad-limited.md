@@ -27,13 +27,12 @@ source: bse
 stocks:
 - LTMRH
 tags:
-- debentures
-- suspension
-- redemption
-- debt-market
 - corporate-action
-- non-convertible-debentures
+- debt-securities
 - metro-rail
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of L&T METRO RAIL (HYDERABAD) LIMITED
 ---
 

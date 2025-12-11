@@ -26,12 +26,12 @@ source: bse
 stocks:
 - UGROCP
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- debt-securities
 - corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of UGRO CAPITAL LIMITED
 ---
 

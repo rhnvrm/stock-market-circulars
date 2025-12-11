@@ -26,11 +26,10 @@ source: nse
 stocks:
 - BAGDIGITAL
 tags:
-- trade-for-trade
-- segment-transfer
-- sme-ipo
 - rolling-segment
-- BAGDIGITAL
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - B.A.G. Convergence Limited (SME IPO)
 ---
 

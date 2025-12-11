@@ -57,11 +57,9 @@ stocks:
 - VELS
 - VIJAYPD
 tags:
+- asm-stage
 - surveillance
-- asm
-- st-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

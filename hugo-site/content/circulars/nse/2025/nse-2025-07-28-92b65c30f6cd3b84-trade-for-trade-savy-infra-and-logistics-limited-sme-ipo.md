@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SAVY
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Savy Infra and Logistics Limited (SME IPO)
 ---
 

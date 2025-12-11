@@ -27,11 +27,11 @@ source: nse
 stocks: []
 tags:
 - connectivity
-- pop
 - infrastructure
-- rabale
+- market-infrastructure
 - navi-mumbai
-- trading-system
+- pop
+- rabale
 title: Connectivity - Addition of POP at Rabale, Navi Mumbai
 ---
 

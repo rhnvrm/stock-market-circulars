@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- subscription-suspension
-- overseas-investments
 - icici-prudential
+- mutual-fund
+- overseas-investments
 - sip
 - stp
+- suspension
 title: Temporary suspension for subscriptions in certain schemes of ICICI Prudential
   Mutual Fund on NSE MF Invest Platform
 ---

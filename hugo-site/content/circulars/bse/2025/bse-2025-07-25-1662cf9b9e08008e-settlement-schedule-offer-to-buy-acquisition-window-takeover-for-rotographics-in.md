@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ROTOGRAPHICS
 tags:
-- takeover
-- settlement
-- acquisition-window
-- offer-to-buy
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - ROTOGRAPHICS (INDIA) LIMITED
 ---
 

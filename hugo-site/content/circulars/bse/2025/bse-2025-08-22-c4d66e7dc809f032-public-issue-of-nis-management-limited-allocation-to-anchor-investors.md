@@ -27,12 +27,12 @@ source: bse
 stocks:
 - NISMGMT
 tags:
-- ipo
-- anchor-investors
-- allocation
-- public-issue
-- equity-shares
+- allotment
+- anchor-investor
 - book-building
+- equity
+- ipo
+- public-issue
 title: NIS Management Limited IPO - Anchor Investor Allocation of 15.06 Lakh Shares
   at Rs. 111 per Share
 ---

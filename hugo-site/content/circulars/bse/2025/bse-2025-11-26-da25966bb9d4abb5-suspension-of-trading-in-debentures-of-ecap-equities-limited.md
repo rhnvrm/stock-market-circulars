@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ECAP
 tags:
-- suspension
-- debentures
-- redemption
-- ncd
-- debt-market
+- debt-securities
 - ecap-equities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ECAP EQUITIES LIMITED
 ---
 

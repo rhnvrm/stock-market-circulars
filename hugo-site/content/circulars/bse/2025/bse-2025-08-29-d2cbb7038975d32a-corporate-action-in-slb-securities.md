@@ -37,12 +37,12 @@ stocks:
 - ZYDUSWELL
 - GSPL
 tags:
-- corporate-actions
-- dividends
-- bonus-issue
-- stock-split
-- slb-securities
+- bonus
+- corporate-action
+- dividend
 - september-2025
+- slb
+- split
 title: Corporate Action Schedule for SLB Securities - September 2025
 ---
 

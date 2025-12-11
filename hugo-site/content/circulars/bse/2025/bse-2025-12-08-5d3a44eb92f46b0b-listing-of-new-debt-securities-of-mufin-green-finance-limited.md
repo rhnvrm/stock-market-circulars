@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - mufin-green-finance
-- corporate-bonds
+- private-placement
 title: Listing of New Debt Securities of MUFIN GREEN FINANCE LIMITED
 ---
 

@@ -30,10 +30,10 @@ stocks:
 - GULFOILLUB
 - INFY
 tags:
-- listing
-- equity-shares
+- equity
 - esop
-- further-issues
+- further-issue
+- listing
 - securities
 title: Listing of further issues of securities for multiple companies including Axis
   Bank, Infosys, and others

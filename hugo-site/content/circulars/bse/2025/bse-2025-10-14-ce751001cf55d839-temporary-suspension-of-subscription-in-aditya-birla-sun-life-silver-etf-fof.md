@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- etf
-- silver-etf
-- subscription-suspension
-- fund-of-funds
 - aditya-birla-sun-life
+- etf
+- fund-of-funds
 - investor-protection
-- market-conditions
+- market-operations
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Subscription in Aditya Birla Sun Life Silver ETF FOF
 ---
 

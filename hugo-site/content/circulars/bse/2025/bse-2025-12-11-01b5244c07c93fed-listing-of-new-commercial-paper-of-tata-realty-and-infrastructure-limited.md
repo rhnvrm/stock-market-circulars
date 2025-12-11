@@ -28,10 +28,10 @@ stocks:
 - TRIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- listing
 - private-placement
 - tata-realty
-- new-listing
 title: Listing of new Commercial Paper of Tata Realty and Infrastructure Limited
 ---
 

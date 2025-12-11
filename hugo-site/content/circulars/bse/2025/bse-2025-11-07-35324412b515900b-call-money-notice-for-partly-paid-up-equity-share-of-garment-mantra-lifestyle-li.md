@@ -29,11 +29,10 @@ stocks:
 - GARMENTCM1
 tags:
 - call-money
-- partly-paid-shares
+- equity
 - garment-mantra
-- IBBS
-- equity-shares
-- GARMENTCM1
+- partly-paid
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of Garment Mantra Lifestyle
   Limited
 ---

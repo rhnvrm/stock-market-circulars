@@ -27,15 +27,15 @@ severity: high
 source: bse
 stocks:
 - BRAHMAPUTRA
-- INDIAFINSEC
+- IFINSEC
 - NRAGARWAL
 tags:
-- surveillance
 - encumbrance
-- promoter-holdings
-- SAST
-- SEBI
 - regulatory-measure
+- sast
+- sebi
+- shareholding-pattern
+- surveillance
 title: Measure for Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

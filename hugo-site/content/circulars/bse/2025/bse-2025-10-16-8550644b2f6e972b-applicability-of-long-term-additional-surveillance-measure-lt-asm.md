@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ATALREALTECH
+- ATALREAL
 - GANON
 - INDRAYANI
 - JETSOLAR
@@ -36,10 +36,8 @@ stocks:
 - DEEPDIA
 - SANAT
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

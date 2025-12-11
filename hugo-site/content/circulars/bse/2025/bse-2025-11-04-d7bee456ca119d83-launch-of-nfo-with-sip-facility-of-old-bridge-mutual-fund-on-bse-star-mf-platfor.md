@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- arbitrage-fund
 - mutual-fund
 - nfo
-- sip
 - old-bridge-mutual-fund
-- arbitrage-fund
-- bse-star-mf
+- sip
 title: Launch of NFO with SIP facility of OLD BRIDGE Mutual Fund on BSE StAR MF Platform
 ---
 

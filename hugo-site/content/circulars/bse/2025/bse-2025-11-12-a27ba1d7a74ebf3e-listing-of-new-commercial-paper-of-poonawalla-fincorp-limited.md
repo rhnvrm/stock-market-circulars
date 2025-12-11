@@ -29,11 +29,9 @@ stocks:
 - POONAWALLA
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- poonawalla-fincorp
-- debt-market
+- debt-securities
 - icici-bank-issuing-agent
+- private-placement
 title: Listing of new Commercial Paper of POONAWALLA FINCORP LIMITED
 ---
 

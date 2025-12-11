@@ -27,12 +27,12 @@ source: bse
 stocks:
 - AVHFIL
 tags:
+- aptus-value-housing-finance
+- care-aa-rated
 - debt-securities
 - listing
+- ncd
 - private-placement
-- aptus-value-housing-finance
-- non-convertible-debentures
-- CARE-AA-rated
 title: Listing of new debt securities of Aptus Value Housing Finance India Limited
 ---
 

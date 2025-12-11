@@ -37,10 +37,10 @@ stocks:
 - FFSL
 tags:
 - commercial-paper
-- suspension
-- redemption
-- debt-market
+- debt-securities
 - record-date
+- redemption
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Paper - 10 Companies
 ---

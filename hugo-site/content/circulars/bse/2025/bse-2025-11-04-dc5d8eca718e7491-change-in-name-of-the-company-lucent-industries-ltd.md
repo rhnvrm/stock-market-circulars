@@ -26,10 +26,10 @@ source: bse
 stocks:
 - LUCENT
 tags:
-- name-change
-- certificate-of-incorporation
-- corporate-action
+- certificate
 - company-limited-by-shares
+- corporate-action
+- name-change
 title: Change in Name of Lucent Industries Limited to Mobavenue AI Tech Limited
 ---
 

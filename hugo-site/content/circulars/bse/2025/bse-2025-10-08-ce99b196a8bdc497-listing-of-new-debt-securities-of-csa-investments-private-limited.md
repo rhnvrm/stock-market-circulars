@@ -28,9 +28,8 @@ stocks: []
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- new-listing
 title: Listing of new debt securities of CSA Investments Private Limited
 ---
 

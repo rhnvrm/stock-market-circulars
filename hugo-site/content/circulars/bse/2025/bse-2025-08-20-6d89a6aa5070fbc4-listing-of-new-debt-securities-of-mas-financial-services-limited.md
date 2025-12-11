@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MASFS
 tags:
+- bond
 - debt-securities
 - listing
 - mas-financial
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of MAS Financial Services Limited
 ---
 

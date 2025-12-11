@@ -26,10 +26,9 @@ source: nse
 stocks:
 - JSWCEMENT
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of JSW Cement Limited (IPO)
 ---
 

@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- slb
-- securities-lending-borrowing
-- settlement
-- expiry-dates
 - clearing
+- collateral
+- expiry-dates
+- settlement
+- slb
 title: Change in SLB Reverse Leg Settlement Day from Thursday to Tuesday
 ---
 

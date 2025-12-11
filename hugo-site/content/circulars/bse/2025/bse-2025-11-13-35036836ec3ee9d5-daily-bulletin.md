@@ -32,13 +32,13 @@ stocks:
 - PPAP
 - INDOWIND
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
-- corporate-actions
 - interest-payment
-- ncd-redemption
+- ncd
+- record-date
 - rights-issue
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---

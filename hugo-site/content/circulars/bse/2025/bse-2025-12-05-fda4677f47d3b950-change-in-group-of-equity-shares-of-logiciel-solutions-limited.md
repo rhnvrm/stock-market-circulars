@@ -27,13 +27,11 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
+- asm-stage
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
-- logiciel-solutions
 title: Change in Group of Equity Shares of LOGICIEL SOLUTIONS LIMITED
 ---
 

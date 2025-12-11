@@ -25,12 +25,12 @@ source: bse
 stocks:
 - SEIT
 tags:
-- debt-securities
-- listing
-- sustainable-energy
-- invit
-- private-placement
 - aaa-rating
+- debt-securities
+- invit
+- listing
+- private-placement
+- sustainable-energy
 title: Listing of new debt securities of Sustainable Energy Infra Trust
 ---
 

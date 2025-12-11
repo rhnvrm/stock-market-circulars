@@ -26,11 +26,9 @@ source: sebi
 stocks:
 - VANDANAKNI
 tags:
-- recovery-proceedings
-- enforcement
 - defaulter
-- vandana-knitwear
-- recovery-certificate
+- enforcement
+- recovery
 title: Completion of Recovery Certificate No. 2255 of 2019 - Rani Goel [Defaulter]
   in Vandana Knitwear Limited
 ---

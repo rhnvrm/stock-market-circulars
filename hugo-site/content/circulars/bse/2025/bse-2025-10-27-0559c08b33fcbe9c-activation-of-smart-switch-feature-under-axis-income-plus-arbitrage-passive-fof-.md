@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- arbitrage-fund
+- axis-mutual-fund
+- fund-of-funds
 - mutual-fund
 - nfo
 - switch-feature
-- axis-mutual-fund
-- bse-star-mf
-- fund-of-fund
-- arbitrage-fund
 title: Activation of SMART Switch Feature under Axis Income Plus Arbitrage Passive
   FOF – NFO on BSE StAR MF platform
 ---

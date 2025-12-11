@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- investment-plan
 - mutual-fund
+- processing-changes
 - sip
 - stp
 - sundaram-mutual-fund
-- investment-plan
-- processing-changes
 title: Changes in Weekly SIP/STP Processing for Sundaram Mutual Fund Schemes
 ---
 

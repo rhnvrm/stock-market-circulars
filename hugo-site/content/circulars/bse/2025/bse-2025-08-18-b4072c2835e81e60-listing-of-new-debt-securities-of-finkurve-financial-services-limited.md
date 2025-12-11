@@ -25,11 +25,10 @@ source: bse
 stocks:
 - FINKURVE
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
 - private-placement
-- finkurve-financial
-- bse-debt-segment
 title: Listing of new debt securities of Finkurve Financial Services Limited
 ---
 

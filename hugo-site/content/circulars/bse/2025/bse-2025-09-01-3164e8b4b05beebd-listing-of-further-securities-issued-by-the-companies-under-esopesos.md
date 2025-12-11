@@ -29,13 +29,11 @@ stocks:
 - ICICIBANK
 - KAYNES
 - LODHA
-- METROBRANDS
+- METROBRAND
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - September 2025
 ---
 

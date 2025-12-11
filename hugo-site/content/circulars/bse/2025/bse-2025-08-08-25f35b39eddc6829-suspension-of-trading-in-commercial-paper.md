@@ -33,7 +33,7 @@ stocks:
 - REDINGTON
 - KOTAKINVEST
 - NETWORK18
-- CANFINHOMES
+- CANFINHOME
 - ADITYABIRLA
 - JULIUSBAER
 - MAHINDRALIFE
@@ -46,10 +46,10 @@ stocks:
 - KOTAKPRIME
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
+- corporate-action
 - debt-securities
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies Record Date
   Announcement
 ---

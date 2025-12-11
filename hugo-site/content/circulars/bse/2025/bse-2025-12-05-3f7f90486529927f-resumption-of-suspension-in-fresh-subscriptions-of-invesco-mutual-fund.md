@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- invesco
-- fund-of-fund
-- subscription
-- overseas-investments
 - feeder-fund
+- fund-of-funds
+- invesco
+- mutual-fund
+- overseas-investments
+- subscription
 title: Resumption of Suspension in fresh subscriptions of Invesco Mutual Fund
 ---
 

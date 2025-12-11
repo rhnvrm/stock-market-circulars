@@ -26,10 +26,10 @@ source: bse
 stocks:
 - JAYKAY
 tags:
-- new-listing
+- equity
+- listing
+- lock-in
 - preferential-issue
-- equity-shares
-- lock-in-period
 title: Listing of New Securities of Jaykay Enterprises Limited - Preferential Issue
 ---
 

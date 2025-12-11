@@ -28,10 +28,10 @@ source: bse
 stocks:
 - QUESTFL
 tags:
+- equity
 - listing
-- preferential-issue
-- equity-shares
 - lock-in
+- preferential-issue
 - quest-flow-controls
 title: Listing of New Securities of Quest Flow Controls Limited - Preferential Issue
 ---

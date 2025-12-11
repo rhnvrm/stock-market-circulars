@@ -24,11 +24,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- slb
-- securities-lending-borrowing
-- settlement
+- collateral
 - expiry-day
 - iccl
+- settlement
+- slb
 - trading
 title: Change in SLB Reverse Leg Settlement Day (Expiry Day)
 ---

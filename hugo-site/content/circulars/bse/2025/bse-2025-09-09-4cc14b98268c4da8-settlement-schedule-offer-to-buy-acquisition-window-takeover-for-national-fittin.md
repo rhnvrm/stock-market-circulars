@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- NATIONALFITTINGS
+- NATFIT
 tags:
-- takeover
-- settlement
-- acquisition-window
 - early-pay-in
-- otb-platform
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for Offer to Buy - Acquisition Window (Takeover) for National
   Fittings Limited
 ---

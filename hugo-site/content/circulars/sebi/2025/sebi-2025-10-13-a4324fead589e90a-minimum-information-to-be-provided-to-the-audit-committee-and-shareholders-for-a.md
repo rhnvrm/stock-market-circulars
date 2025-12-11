@@ -27,13 +27,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- corporate-governance
+- disclosure
+- ease-of-doing-business
+- lodr
 - related-party-transactions
 - rpt
-- audit-committee
-- disclosure-requirements
-- corporate-governance
-- listing-obligations
-- ease-of-doing-business
+- system-audit
 title: Minimum information to be provided to the Audit Committee and Shareholders
   for approval of Related Party Transactions
 ---

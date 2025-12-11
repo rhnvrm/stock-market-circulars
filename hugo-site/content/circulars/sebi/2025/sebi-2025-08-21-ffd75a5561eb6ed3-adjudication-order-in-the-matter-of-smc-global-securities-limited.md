@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - SMC
 tags:
-- adjudication-order
+- adjudication
+- compliance
+- nse-ctcl
+- penalty
 - stock-broker
 - terminal-violations
-- nse-ctcl
-- compliance
-- penalty
 title: Adjudication Order Against SMC Global Securities Limited for Terminal Location
   Violations
 ---

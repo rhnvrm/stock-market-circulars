@@ -27,12 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
 - mutual-fund
 - nfo
-- new-fund-offer
-- equity-fund
+- trading-platform
 - union-mutual-fund
-- nse-mf-invest
 title: Launch of Union Consumption Fund NFO on NSE MF Invest Platform
 ---
 

@@ -27,13 +27,13 @@ source: bse
 stocks:
 - PSEPL
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
+- ncd
 - record-date
-- debt-segment
-- corporate-actions
-- reduced-face-value
+- redemption
 title: Part Redemption of Debentures of PARAMPUJYA SOLAR ENERGY PRIVATE LIMITED
 ---
 

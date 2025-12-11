@@ -27,20 +27,20 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-calendar
-- compulsory-delivery
-- precious-metals
-- base-metals
-- silver
-- gold
 - aluminium
+- base-metals
+- compulsory-delivery
 - copper
+- delivery-schedule
+- derivatives
+- futures-contracts
+- gold
 - lead
 - nickel
+- precious-metals
+- settlement-calendar
+- silver
 - zinc
-- futures-contracts
-- delivery-schedule
 title: Commodity Derivatives Segment - Settlement Calendar (Compulsory Delivery) for
   December 2025
 ---

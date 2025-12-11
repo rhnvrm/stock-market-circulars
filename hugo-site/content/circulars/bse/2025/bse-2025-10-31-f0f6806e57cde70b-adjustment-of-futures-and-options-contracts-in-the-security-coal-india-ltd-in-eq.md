@@ -27,13 +27,12 @@ source: bse
 stocks:
 - COAL
 tags:
-- corporate-actions
-- derivatives
-- futures
-- options
-- dividend-adjustment
 - coal-india
 - contract-adjustment
+- corporate-action
+- derivatives
+- futures-options
+- options
 title: Adjustment of Futures and Options contracts in Coal India Ltd for Interim Dividend
 ---
 

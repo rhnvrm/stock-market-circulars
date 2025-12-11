@@ -23,9 +23,9 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544485'
+- REGAAL
 tags:
-- index
+- index-fund
 - ipo
 - listing
 - regaal-resources

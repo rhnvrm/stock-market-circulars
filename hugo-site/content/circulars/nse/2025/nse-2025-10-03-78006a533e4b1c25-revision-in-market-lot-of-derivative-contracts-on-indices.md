@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- derivatives
-- futures-and-options
-- market-lot
-- nifty
 - banknifty
+- derivatives
 - finnifty
-- midcpnifty
+- futures-options
 - lot-size-revision
+- market-lot
+- midcpnifty
+- nifty
 - sebi-guidelines
 title: Revision in Market Lot of Derivative Contracts on Indices
 ---

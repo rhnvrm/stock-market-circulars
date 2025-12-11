@@ -27,11 +27,10 @@ stocks:
 - HDFCBANK
 - KARURVYSYA
 tags:
-- securities-lending-borrowing
-- position-limits
-- mwpl
+- collateral
+- institutional-investor
 - participant-limits
-- institutional-limits
+- position-limits
 title: Revised MWPL, Participant, Institutional and Non Institutional Client Limits
   for KARURVYSYA and HDFCBANK
 ---

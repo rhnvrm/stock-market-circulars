@@ -26,10 +26,10 @@ stocks:
 - GHFL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - godrej-housing-finance
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of Godrej Housing Finance Limited
 ---
 

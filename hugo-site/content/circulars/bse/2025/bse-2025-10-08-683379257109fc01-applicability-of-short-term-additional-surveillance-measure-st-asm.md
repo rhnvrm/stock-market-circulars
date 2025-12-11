@@ -29,27 +29,26 @@ stocks:
 - FUTURISTICSOL
 - INDBANKMB
 - INDRAPRASTHA
-- ORBITEXPORTS
-- RAJNISHRETAIL
-- TRANSGLOBEFOODS
+- ORBTEXP
+- RRETAIL
+- TRANSFD
 - ABMKNOWLEDGE
-- BANARASBEADS
+- BANARBEADS
 - BANCOPRODUCTS
 - BAZELINTL
 - BHAGWATIAUTO
-- BLTLOGISTICS
-- DHANLAXMICOTEX
+- BLT
+- DHANCOT
 - DYNAMICIND
 - ESCORPASSET
-- ESSEXMARINE
+- ESSEX
 - GAYATRISUGAR
 - GMDC
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,12 +27,11 @@ source: bse
 stocks:
 - 360ONE
 tags:
+- asset-management
 - debt-securities
 - listing
-- private-placement
 - ncd
-- 360-one
-- asset-management
+- private-placement
 title: Listing of New Debt Securities of 360 ONE Alternates Asset Management Limited
 ---
 

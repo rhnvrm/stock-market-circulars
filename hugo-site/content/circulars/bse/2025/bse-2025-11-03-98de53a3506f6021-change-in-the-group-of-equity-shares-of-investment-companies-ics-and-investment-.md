@@ -30,7 +30,7 @@ stocks:
 - PILANIINVS
 - NALWA
 - KALINV
-- GFL
+- GFLLIMITED
 - TVSHLTD
 - NAPEROL
 - MAHSCOOTER
@@ -42,19 +42,18 @@ stocks:
 - HARYANACAP
 - EASYFIN
 tags:
+- call-money
 - group-change
 - investment-companies
 - investment-holding-companies
-- trade-for-trade
-- call-auction
-- pilani-investment
-- nalwa-sons
 - kalyani-investment
-- gfl-limited
-- tvs-holdings
-- naperol-investments
 - maharashtra-scooters
+- nalwa-sons
+- naperol-investments
+- pilani-investment
 - sil-investments
+- trade-for-trade
+- tvs-holdings
 - welspun-investments
 title: Change in the Group of Equity Shares of Investment Companies (ICs) and Investment
   Holding Companies (IHCs)

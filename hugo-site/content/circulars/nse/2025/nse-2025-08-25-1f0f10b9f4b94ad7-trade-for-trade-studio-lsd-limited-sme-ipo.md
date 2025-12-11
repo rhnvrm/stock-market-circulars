@@ -25,9 +25,9 @@ source: nse
 stocks:
 - STUDIOLSD
 tags:
-- trade-for-trade
-- sme-ipo
 - segment-transfer
+- sme
+- trade-for-trade
 - trading
 title: Trade for Trade - Studio LSD Limited (SME IPO)
 ---

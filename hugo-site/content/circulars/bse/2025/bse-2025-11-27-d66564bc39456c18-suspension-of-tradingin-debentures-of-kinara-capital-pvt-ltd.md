@@ -26,13 +26,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- suspension
-- redemption
-- debt-market
+- corporate-action
+- debt-securities
 - kinara-capital
+- ncd
+- redemption
+- suspension
 - trading-halt
-- corporate-actions
 title: Suspension of Trading in Debentures of Kinara Capital Pvt Ltd
 ---
 

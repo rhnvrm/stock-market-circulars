@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SRPL
 tags:
-- trading-suspension
 - board-composition
-- listing-regulations
 - compliance
+- lodr
+- suspension
 - z-category
 title: Suspension of trading in securities - Shree Ram Proteins Limited
 ---

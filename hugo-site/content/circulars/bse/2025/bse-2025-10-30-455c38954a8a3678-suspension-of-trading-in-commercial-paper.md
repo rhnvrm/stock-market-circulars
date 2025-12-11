@@ -30,10 +30,10 @@ stocks:
 - BHFL
 tags:
 - commercial-paper
-- trading-suspension
-- debt-segment
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

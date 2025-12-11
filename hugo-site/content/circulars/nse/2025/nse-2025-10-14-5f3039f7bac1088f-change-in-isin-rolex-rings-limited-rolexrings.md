@@ -26,11 +26,10 @@ source: nse
 stocks:
 - ROLEXRINGS
 tags:
-- isin-change
-- share-subdivision
-- stock-split
 - corporate-action
-- rolexrings
+- face-value-change
+- isin
+- split
 title: Change in ISIN - Rolex Rings Limited (ROLEXRINGS)
 ---
 

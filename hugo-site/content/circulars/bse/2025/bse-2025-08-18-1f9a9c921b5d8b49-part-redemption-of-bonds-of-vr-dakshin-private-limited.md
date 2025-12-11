@@ -26,11 +26,10 @@ source: bse
 stocks:
 - VRDAKSHIN
 tags:
-- part-redemption
-- bonds
-- vr-dakshin
-- corporate-actions
+- bond
+- corporate-action
 - debt-securities
+- redemption
 title: Part Redemption of Bonds of VR DAKSHIN PRIVATE LIMITED
 ---
 

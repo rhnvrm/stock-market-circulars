@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- electricity-futures
-- commodity-derivatives
-- settlement
 - ddr
-- final-settlement
+- derivatives
 - elecmbl
+- electricity-futures
+- final-settlement
+- settlement
 title: Due Date Rates (DDR) - Monthly Electricity Futures in Commodity Derivatives
   Segment
 ---

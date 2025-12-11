@@ -27,13 +27,12 @@ source: bse
 stocks:
 - GLOBALOFF
 tags:
+- conversion
+- equity
 - listing
 - new-securities
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- promoter-allotment
-- global-offshore-services
+- promoter
 title: Listing of New Securities of Global Offshore Services Ltd - 35,000 Equity Shares
 ---
 

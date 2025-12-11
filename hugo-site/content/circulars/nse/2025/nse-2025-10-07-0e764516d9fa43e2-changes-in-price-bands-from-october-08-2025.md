@@ -38,7 +38,7 @@ stocks:
 - EXCEL
 - FEL
 - GVKPIL
-- IEL
+- INDXTRA
 - ITTL
 - KAYA
 - MEP
@@ -58,10 +58,10 @@ stocks:
 - TANKUP
 - TEAMGTY
 tags:
-- price-bands
-- surveillance
-- trading-limits
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 - volatility-control
 title: Changes in Price Bands from October 08, 2025
 ---

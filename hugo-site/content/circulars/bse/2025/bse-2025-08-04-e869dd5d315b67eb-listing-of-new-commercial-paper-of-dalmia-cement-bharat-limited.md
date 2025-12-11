@@ -26,9 +26,9 @@ stocks:
 - DALMIACEML
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
 - dalmia-cement
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper by Dalmia Cement (Bharat) Limited
 ---

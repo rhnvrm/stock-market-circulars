@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- treasury-bills
-- government-securities
-- trading-suspension
-- redemption
 - corrigendum
+- gsec
+- redemption
+- suspension
+- treasury-bills
 title: 'Corrigendum: Suspension of trading in T-Bills, Government Securities and State
   Government Bonds due to redemption'
 ---

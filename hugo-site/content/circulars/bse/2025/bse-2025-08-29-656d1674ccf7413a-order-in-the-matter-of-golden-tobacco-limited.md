@@ -26,12 +26,11 @@ source: bse
 stocks:
 - GOLDENTOB
 tags:
-- sebi-order
 - fund-diversion
-- misrepresentation
-- golden-tobacco
-- regulatory-action
 - investigation
+- misrepresentation
+- regulatory
+- sebi-order
 title: Order in the matter of Golden Tobacco Limited
 ---
 

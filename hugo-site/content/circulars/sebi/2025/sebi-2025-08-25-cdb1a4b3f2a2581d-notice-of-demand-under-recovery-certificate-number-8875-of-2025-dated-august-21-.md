@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery
 - demand-notice
-- trading-violations
-- continental-seeds
 - enforcement
+- recovery
+- trading-operations
 title: 'Notice of Demand under Recovery Certificate No. 8875 of 2025 - Manish Kumar
   PAN: AMWPK4668G'
 ---

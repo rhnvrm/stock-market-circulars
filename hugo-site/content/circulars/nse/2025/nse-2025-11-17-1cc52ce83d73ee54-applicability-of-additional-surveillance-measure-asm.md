@@ -36,12 +36,9 @@ stocks:
 - ATHERENERG
 - AXISCADES
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- esm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - November 2025
 ---
 

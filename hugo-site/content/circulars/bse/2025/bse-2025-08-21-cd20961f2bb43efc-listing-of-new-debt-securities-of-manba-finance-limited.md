@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MANBA
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - manba-finance
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of Manba Finance Limited
 ---
 

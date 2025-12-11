@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SARVODAY
 tags:
-- sebi-directions
-- pan-correction
-- sarvoday-agro-power
 - compliance
 - investigation
+- pan-correction
+- sebi-order
 title: SEBI Directions in the matter of Sarvoday Agro Power Limited - PAN Correction
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HEALTHYLIFE
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
-- healthy-life-agritec
 - new-securities
+- rights-issue
 title: Listing of Securities - Healthy Life Agritec Limited Rights Issue
 ---
 

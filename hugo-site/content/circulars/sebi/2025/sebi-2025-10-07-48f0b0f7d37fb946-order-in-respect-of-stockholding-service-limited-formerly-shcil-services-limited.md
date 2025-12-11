@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement-action
-- stock-broker
-- inspection
-- intermediaries-regulations
-- compliance-violations
+- compliance-order
 - designated-authority
+- enforcement
 - enquiry-proceedings
+- intermediaries-regulations
+- investigation
+- stock-broker
 title: Order in respect of Stockholding Service Limited - Formerly SHCIL Services
   Limited
 ---

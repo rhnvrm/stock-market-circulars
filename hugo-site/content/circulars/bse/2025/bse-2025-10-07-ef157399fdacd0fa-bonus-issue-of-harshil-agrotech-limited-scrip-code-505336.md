@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HARSHIL
 tags:
-- bonus-issue
+- bonus
 - corporate-action
+- equity
 - listing
-- equity-shares
-- HARSHIL
 title: Bonus Issue of Harshil Agrotech Limited - Details and Listing Schedule
 ---
 

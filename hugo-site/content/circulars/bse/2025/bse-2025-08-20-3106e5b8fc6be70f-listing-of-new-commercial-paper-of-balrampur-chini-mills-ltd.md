@@ -25,11 +25,10 @@ source: bse
 stocks:
 - BCML
 tags:
-- commercial-paper
-- debt-listing
 - balrampur-chini
+- commercial-paper
+- debt-securities
 - private-placement
-- bcml
 title: Listing of new Commercial Paper of Balrampur Chini Mills Ltd.
 ---
 

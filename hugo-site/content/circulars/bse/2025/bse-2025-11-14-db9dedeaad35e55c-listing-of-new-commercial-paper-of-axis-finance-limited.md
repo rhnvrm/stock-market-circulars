@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AXFL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - axis-finance
-- new-listing
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Axis Finance Limited
 ---
 

@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- abakkus-mutual-fund
 - mutual-fund
-- platform-activation
 - nfo
 - nri-investments
-- abakkus-mutual-fund
-- bse-star-mf
+- platform-activation
 title: Introduction of ABAKKUS MUTUAL FUND on BSE StAR MF Platform
 ---
 

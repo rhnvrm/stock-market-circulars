@@ -29,12 +29,12 @@ source: nse
 stocks:
 - SEPC
 tags:
-- listing
-- further-issue
-- share-conversion
-- partly-paid-shares
-- equity-shares
 - capital-market
+- conversion
+- equity
+- further-issue
+- listing
+- partly-paid
 title: Listing of Further Issue of SEPC Limited - Conversion of Partly Paid-up Shares
 ---
 

@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- borrowing-market
+- collateral
+- disaster-recovery
 - mock-trading
 - slbm
-- securities-lending
-- borrowing-market
+- trading-platform
 - trading-session
-- disaster-recovery
-- neat
 title: Mock Trading Session - September 06, 2025 - Securities Lending and Borrowing
   Market
 ---

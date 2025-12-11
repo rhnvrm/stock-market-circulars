@@ -37,15 +37,14 @@ stocks:
 - IRB
 - LLOYDSENT
 - PREMIEREN
-- BLACKBOX
+- BBOX
 - CAMPUS
 - PROTEAN
 tags:
-- dividend
-- corporate-action
-- ex-date
-- record-date
 - book-closure
+- corporate-action
+- dividend
+- record-date
 title: Corporate Action - Dividend Announcements for Multiple Companies
 ---
 

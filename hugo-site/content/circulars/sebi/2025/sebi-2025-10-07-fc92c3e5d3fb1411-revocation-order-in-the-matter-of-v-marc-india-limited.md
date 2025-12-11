@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - VMARCIND
 tags:
-- revocation-order
-- ipo-irregularities
-- market-restrictions
 - interim-order
 - investigation
-- v-marc-india-limited
+- ipo-irregularities
+- market-restrictions
+- revocation-order
 title: Revocation Order in the matter of V Marc India Limited
 ---
 

@@ -33,16 +33,12 @@ stocks:
 - SCAN
 - ZENITH
 tags:
-- long-term-asm
+- asm-stage
+- expo-engineering
+- gabriel-india
+- scan-projects
 - surveillance
 - trading-restrictions
-- emmforce
-- expo-engineering
-- filmcity
-- gabriel-india
-- kemistar
-- raw-edge
-- scan-projects
 - zenith-exports
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

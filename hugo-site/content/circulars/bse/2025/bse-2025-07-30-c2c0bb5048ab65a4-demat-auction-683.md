@@ -27,15 +27,15 @@ stocks:
 - ACME
 - COAL
 - CUMMINS
-- INFOSYS
+- INFY
 - LARSEN
 - SPICEJET
 - TRENT
 tags:
-- demat-auction
+- demat
+- securities-auction
 - settlement
 - trading
-- securities-auction
 title: Demat Auction Settlement No. 683
 ---
 

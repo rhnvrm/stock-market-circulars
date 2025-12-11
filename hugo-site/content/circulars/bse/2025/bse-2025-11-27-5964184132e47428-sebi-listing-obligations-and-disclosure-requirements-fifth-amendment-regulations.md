@@ -27,15 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi
+- compliance
+- disclosure
 - lodr
 - regulatory-amendment
 - related-party-transactions
-- listing-obligations
-- disclosure-requirements
-- audit-committee
+- sebi
 - subsidiary-transactions
-- compliance
+- system-audit
 title: SEBI (Listing Obligations and Disclosure Requirements) (Fifth Amendment) Regulations,
   2025
 ---

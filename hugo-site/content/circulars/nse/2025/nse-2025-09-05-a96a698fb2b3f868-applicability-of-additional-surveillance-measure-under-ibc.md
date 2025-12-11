@@ -43,13 +43,9 @@ stocks:
 - CMICABLES
 - COMPINFO
 tags:
-- surveillance
-- asm
-- ibc
-- insolvency
-- bankruptcy
 - compliance
-- JALAN
+- insolvency
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

@@ -25,15 +25,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- foreign-portfolio-investors
-- fpi
-- regulations
-- registration
-- investment-framework
-- designated-depository-participant
-- custodian
 - appropriately-regulated
 - bilateral-mou
+- custodian
+- designated-depository-participant
+- foreign-portfolio-investors
+- fpi
+- investment-framework
+- registration
+- regulations
 title: Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations,
   2019 [Last amended on August 12, 2025]
 ---

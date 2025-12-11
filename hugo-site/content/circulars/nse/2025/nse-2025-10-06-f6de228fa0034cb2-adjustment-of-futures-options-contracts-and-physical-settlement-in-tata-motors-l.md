@@ -26,13 +26,13 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT70648.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- futures-and-options
-- physical-settlement
 - contract-adjustment
 - corporate-action
 - derivatives
+- futures-options
+- physical-settlement
 - settlement
 title: Adjustment of Futures & Options Contracts and Physical Settlement in Tata Motors
   Limited (TATAMOTORS)

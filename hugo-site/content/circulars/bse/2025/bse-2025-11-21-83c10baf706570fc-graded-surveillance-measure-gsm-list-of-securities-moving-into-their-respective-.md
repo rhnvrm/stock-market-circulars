@@ -31,10 +31,9 @@ stocks:
 - PASUPTC
 - SHAHFOOD
 tags:
-- gsm
+- compliance
 - surveillance
 - trading-restrictions
-- compliance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

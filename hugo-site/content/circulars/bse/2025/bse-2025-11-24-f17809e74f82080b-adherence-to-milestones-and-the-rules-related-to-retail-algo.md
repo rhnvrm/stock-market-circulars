@@ -27,14 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- api-trading
+- algo-trading
 - compliance
 - implementation-timeline
-- stock-brokers
 - registration
-- sebi-circular
+- retail-investor
+- sebi
+- stock-broker
 title: Extension of Timeline for Implementation of Retail Algorithmic Trading Framework
   - Milestones and Glide Path
 ---

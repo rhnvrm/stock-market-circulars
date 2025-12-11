@@ -33,22 +33,12 @@ stocks:
 - FLEXITUFF
 - GINNIFILA
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
-- trade-for-trade
-- surveillance-measure
-- INDOBORAX
-- TEJASCARGO
-- WINNY
-- VCL
-- ABSMARINE
-- AGNI
-- EVERESTIND
-- FLEXITUFF
-- GINNIFILA
+- asm-stage
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Securities Classification Changes
 ---
 

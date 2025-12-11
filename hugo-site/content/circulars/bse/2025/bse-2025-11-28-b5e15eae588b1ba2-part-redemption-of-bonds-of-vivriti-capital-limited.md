@@ -28,14 +28,14 @@ source: bse
 stocks:
 - VIVRITI
 tags:
-- bonds
+- bond
+- corporate-action
 - debt-securities
-- part-redemption
+- face-value-reduction
 - interest-payment
 - record-date
+- redemption
 - vivriti-capital
-- corporate-actions
-- face-value-reduction
 title: Part Redemption of Bonds of VIVRITI CAPITAL LIMITED
 ---
 

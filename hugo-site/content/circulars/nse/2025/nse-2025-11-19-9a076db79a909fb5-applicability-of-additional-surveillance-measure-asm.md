@@ -31,15 +31,9 @@ stocks:
 - FISCHER
 - QUICKTOUCH
 tags:
-- asm
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- long-term-asm
-- stage-i
-- chennpetro
-- energydev
-- fischer
-- quicktouch
 title: Applicability of Additional Surveillance Measure (ASM) - Four Securities Moved
   to Long-Term ASM Stage I
 ---

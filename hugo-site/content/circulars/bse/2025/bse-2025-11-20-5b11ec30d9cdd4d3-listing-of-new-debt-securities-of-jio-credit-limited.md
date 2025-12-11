@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- crisil-aaa
 - debt-securities
-- listing
-- private-placement
 - jio-credit-limited
-- debentures
-- CRISIL-AAA
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Jio Credit Limited
 ---
 

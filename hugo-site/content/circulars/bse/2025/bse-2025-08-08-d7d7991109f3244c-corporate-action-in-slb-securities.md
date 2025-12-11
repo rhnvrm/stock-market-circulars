@@ -49,10 +49,9 @@ stocks:
 - GODREJCP
 - HIKAL
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- ex-date
 - record-date
 title: Corporate Action Schedule for SLB Securities - Dividend and Bonus Issue Updates
 ---

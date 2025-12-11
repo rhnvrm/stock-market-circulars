@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TITANIN
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
-- record-date
+- equity
 - ex-rights-basis
+- record-date
+- rights-issue
 - titan-intech
 title: Rights Issue of Equity Shares of TITAN INTECH LIMITED
 ---

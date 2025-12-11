@@ -28,12 +28,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- regulatory-amendments
-- dispute-resolution
 - arbitration
-- trade-annulment
-- governance
+- corporate-governance
+- dispute-resolution
+- regulatory-amendments
 - rules-modification
+- trade-annulment
 title: Amendments to Rules, Bye-laws and Regulations of the Exchange
 ---
 

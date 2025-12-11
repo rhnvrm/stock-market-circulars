@@ -30,14 +30,14 @@ stocks:
 - HINDUSTHANGLASS
 - THYROCARE
 - TFCILTD
-- TULSYANNEC
+- TULSYAN
 tags:
-- surveillance
-- encumbrance
-- sast
-- promoter
 - compliance
+- encumbrance
+- promoter
+- sast
 - sebi
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

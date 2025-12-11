@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CITRUS
 tags:
-- sebi-order
 - collective-investment-scheme
-- regulatory-action
-- ponzi-scheme
-- compliance-violation
 - enforcement
+- non-compliance
+- ponzi-scheme
+- regulatory
+- sebi-order
 title: Final Order in the matter of Citrus Check Inns Limited
 ---
 

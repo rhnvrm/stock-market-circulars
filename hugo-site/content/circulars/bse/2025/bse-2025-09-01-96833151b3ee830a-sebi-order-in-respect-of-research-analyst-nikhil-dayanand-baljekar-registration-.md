@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
+- compliance
+- investigation
+- license-misuse
+- non-compliance
 - research-analyst
 - sebi-order
-- regulatory-violation
-- inspection
-- license-misuse
-- compliance
 title: SEBI Order in Respect of Research Analyst Nikhil Dayanand Baljekar - Registration
   No. INH000009001
 ---

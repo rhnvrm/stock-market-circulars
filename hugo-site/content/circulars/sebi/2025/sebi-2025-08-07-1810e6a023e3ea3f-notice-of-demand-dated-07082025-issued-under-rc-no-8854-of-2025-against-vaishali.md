@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery
 - demand-notice
 - enforcement
-- family-care-hospitals
+- recovery
 - vaishali-sood-sharma
 title: 'Notice of Demand dated 07.08.2025 issued under RC no. 8854 of 2025 against
   Vaishali Sood Sharma [PAN: BFYPS1209F] in the matter of Family Care Hospitals Limited'

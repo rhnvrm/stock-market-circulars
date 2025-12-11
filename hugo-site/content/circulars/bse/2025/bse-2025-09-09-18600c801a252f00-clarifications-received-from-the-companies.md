@@ -27,11 +27,11 @@ stocks:
 - LAXMIINDIA
 - MICELECTR
 tags:
-- price-movement
 - clarification
-- surveillance
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding price movement inquiries
 ---
 

@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- edelweiss
+- fund-of-funds
 - mutual-fund
 - nfo
+- silver
 - sip
-- edelweiss
-- silver-etf
-- fund-of-fund
-- bse-star-mf
 title: Launch of NFO with SIP facility of EDELWEISS Mutual Fund on BSE StAR MF Platform
 ---
 

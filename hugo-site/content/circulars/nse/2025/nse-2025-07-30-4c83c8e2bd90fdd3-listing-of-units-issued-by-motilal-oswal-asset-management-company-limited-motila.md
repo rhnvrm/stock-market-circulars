@@ -26,10 +26,9 @@ stocks:
 - MOGOLD
 tags:
 - etf
-- gold-etf
+- gold
 - listing
 - motilal-oswal
-- new-listing
 title: Listing of Motilal Oswal Gold ETF Units on NSE
 ---
 

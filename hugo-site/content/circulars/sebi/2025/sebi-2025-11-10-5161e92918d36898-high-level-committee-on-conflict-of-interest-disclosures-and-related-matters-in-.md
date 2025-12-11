@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- conflict-of-interest
-- governance
-- disclosure-requirements
-- sebi-internal
 - compliance-framework
-- recusal-policy
+- conflict-of-interest
+- corporate-governance
+- disclosure
 - high-level-committee
+- recusal-policy
+- sebi-internal
 title: High Level Committee on Conflict of Interest, Disclosures and Related Matters
   Submits Report
 ---

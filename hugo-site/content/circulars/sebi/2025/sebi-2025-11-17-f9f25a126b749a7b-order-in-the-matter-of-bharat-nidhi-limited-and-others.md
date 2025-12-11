@@ -28,13 +28,13 @@ source: sebi
 stocks:
 - BHARATNIDHI
 tags:
+- compliance
 - enforcement
+- investigation
+- pfutp
 - settlement-proceedings
 - shareholding
-- pfutp
 - supreme-court
-- compliance
-- fraudulent-practices
 title: Order in the matter of Bharat Nidhi Limited and Others
 ---
 

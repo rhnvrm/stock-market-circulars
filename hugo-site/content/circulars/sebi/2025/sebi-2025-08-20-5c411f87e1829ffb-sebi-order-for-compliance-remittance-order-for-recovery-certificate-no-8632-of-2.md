@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- front-running
-- fidelity-group
 - compliance-order
 - enforcement
+- fidelity-group
+- investigation
+- recovery
 title: 'SEBI Order for Compliance – Remittance Order for Recovery Certificate No.
   8632 of 2025 against Sumit Kanungo in the matter of Front Running: Various Funds
   of Fidelity Group'

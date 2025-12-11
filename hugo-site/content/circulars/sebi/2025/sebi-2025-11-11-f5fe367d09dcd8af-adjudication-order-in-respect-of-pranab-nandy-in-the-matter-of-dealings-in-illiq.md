@@ -27,16 +27,16 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- reversal-trades
-- pfutp-regulations
 - bse
-- penalty
-- fraudulent-trading
 - illiquid-options
+- investigation
+- market-operations
+- penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication order in respect of Pranab Nandy in the matter of dealings in
   Illiquid Stock Options at BSE
 ---

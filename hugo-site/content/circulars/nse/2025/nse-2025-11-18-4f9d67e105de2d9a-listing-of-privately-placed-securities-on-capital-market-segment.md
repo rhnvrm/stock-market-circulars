@@ -27,10 +27,10 @@ source: nse
 stocks:
 - SIHF
 tags:
-- listing
-- debt-securities
-- private-placement
 - capital-market
+- debt-securities
+- listing
+- private-placement
 - smfg-india-home-finance
 title: Listing of Privately Placed Securities - SMFG India Home Finance Company Limited
 ---

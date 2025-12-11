@@ -26,11 +26,10 @@ source: nse
 stocks:
 - AMCL
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
-- AMCL
+- sme
+- trade-for-trade
 title: Trade for Trade - ANB Metal Cast Limited (SME IPO)
 ---
 

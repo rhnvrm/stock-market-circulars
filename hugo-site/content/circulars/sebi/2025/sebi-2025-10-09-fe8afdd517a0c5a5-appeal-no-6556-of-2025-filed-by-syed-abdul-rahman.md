@@ -27,13 +27,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
 - appellate-order
-- information-request
-- equiscan
 - data-loss
 - employment-records
+- equiscan
+- information-request
+- rti
 title: Appeal No. 6556 of 2025 - RTI Appeal by Syed Abdul Rahman
 ---
 

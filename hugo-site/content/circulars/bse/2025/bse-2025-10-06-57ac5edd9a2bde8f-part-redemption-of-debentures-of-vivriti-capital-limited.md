@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VIVRITI
 tags:
-- debentures
-- redemption
-- interest-payment
-- debt-market
 - corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- redemption
 - vivriti-capital
 title: Part Redemption of Debentures of Vivriti Capital Limited
 ---

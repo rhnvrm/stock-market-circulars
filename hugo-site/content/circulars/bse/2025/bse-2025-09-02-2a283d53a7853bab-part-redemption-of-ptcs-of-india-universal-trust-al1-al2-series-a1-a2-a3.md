@@ -24,17 +24,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '976050'
-- '976051'
-- '976052'
-- '976206'
-- '976207'
-- '976208'
+- 802IUTA126
+- 812IUTA127
+- 820IUTA130
+- 803IUTL226
+- 809IUTL227
+- 817IUTL230
 tags:
-- corporate-actions
-- debt
-- ptc-redemption
+- corporate-action
+- debt-securities
 - india-universal-trust
+- ptc-redemption
 title: Part Redemption of PTCs of India Universal Trust AL1 & AL2 - Series A1, A2
   & A3
 ---

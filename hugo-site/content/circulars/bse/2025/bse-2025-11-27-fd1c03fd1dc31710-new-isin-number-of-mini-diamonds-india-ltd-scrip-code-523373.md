@@ -27,10 +27,10 @@ source: bse
 stocks:
 - MINIDIA
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 - mini-diamonds-india
 title: 'New ISIN Number of MINI DIAMONDS INDIA LTD (Scrip Code: 523373)'
 ---

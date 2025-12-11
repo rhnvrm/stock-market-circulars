@@ -28,11 +28,11 @@ stocks:
 - KEC
 - RELIANCE
 tags:
-- volume-movement
 - clarification
+- disclosure
+- market-operations
+- price-movement
 - surveillance
-- disclosure-compliance
-- market-driven
 title: Clarifications received from companies regarding volume movement
 ---
 

@@ -28,13 +28,11 @@ source: bse
 stocks:
 - ANKIN
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb-module
-- equity
 - anka-india
-- ibbs-platform
+- equity
+- otb
+- takeover
+- trading-platform
 - ucc-registration
 title: Offer to Buy – Acquisition Window (Takeover) for ANKA INDIA LTD - Live Activities
   Schedule

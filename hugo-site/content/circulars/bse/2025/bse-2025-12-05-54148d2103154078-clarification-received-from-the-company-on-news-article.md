@@ -27,10 +27,10 @@ stocks:
 - INDIGO
 tags:
 - clarification
-- news-article
 - disclosure
-- surveillance
 - interglobe-aviation
+- news-article
+- surveillance
 title: Clarification Sought from InterGlobe Aviation on News Article
 ---
 

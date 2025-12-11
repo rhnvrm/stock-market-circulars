@@ -28,14 +28,12 @@ source: nse
 stocks:
 - HCC
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- hcc
-- hindustan-construction
 - capital-market
-- trade-to-trade
 - demat
+- hindustan-construction
+- rights-issue
+- trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Hindustan Construction
   Company Limited
 ---

@@ -32,7 +32,7 @@ stocks:
 - BALAJITELE
 - HCG
 - ICICIBANK
-- INDEGENE
+- INDGN
 - KFINTECH
 - LANDMARK
 - LATENTVIEW
@@ -44,12 +44,9 @@ stocks:
 - UNOMINDA
 - VAIBHAVGBL
 tags:
-- listing
+- equity
 - esop
-- esos
-- equity-shares
-- employee-stock-options
-- new-listing
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 17 Companies
 ---
 

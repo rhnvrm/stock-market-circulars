@@ -32,12 +32,12 @@ stocks:
 - KOTAKSTK
 - SBIN
 tags:
-- debt-market
+- bond
 - commercial-paper
-- bonds
+- debt-securities
 - listing
-- privately-placed-securities
-- debentures
+- ncd
+- privately-placed
 title: Listing of Privately Placed Debt Securities - Commercial Paper and Bonds
 ---
 

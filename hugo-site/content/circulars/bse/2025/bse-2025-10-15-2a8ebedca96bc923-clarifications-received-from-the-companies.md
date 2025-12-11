@@ -30,12 +30,11 @@ stocks:
 - FOSECOIND
 - KERNEX
 tags:
-- surveillance
-- price-movement
-- volume-increase
-- market-driven
 - disclosure
 - lodr-regulation-30
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

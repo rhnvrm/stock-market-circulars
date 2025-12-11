@@ -27,10 +27,9 @@ stocks:
 - PICL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - pilani-investment
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Pilani Investment And Industries Corporation
   Limited
 ---

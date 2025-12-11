@@ -26,15 +26,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- payment-security
-- upi
-- fraud-prevention
-- intermediaries
-- mutual-funds
-- brokers
-- sebi-check
 - digital-payments
+- fraud-prevention
+- intermediary
+- investor-protection
+- mutual-fund
+- payment-security
+- sebi-check
+- stock-broker
+- upi
 title: SEBI rolls out "Validated UPI Handles" and "SEBI Check" for secure investor
   payments
 ---

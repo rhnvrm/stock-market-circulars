@@ -29,12 +29,9 @@ stocks:
 - TCL
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
 - debt-securities
-- CFHL
-- SBICAPSL
-- TCL
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Can Fin Homes, SBICAP Securities,
   Titan Company
 ---

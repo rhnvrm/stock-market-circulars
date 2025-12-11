@@ -26,10 +26,9 @@ source: nse
 stocks:
 - ADITYAINFO
 tags:
-- ipo
 - clarification
-- aditya-infotech
 - investor-information
+- ipo
 - main-board
 - merchant-bankers
 title: NSE Clarification on Aditya Infotech Limited IPO - No Affiliation with Aditya

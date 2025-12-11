@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
 - shree-balaji-mala-textiles
+- sme
 title: SME IPO - Draft Offer Document - Shree Balaji (Mala) Textiles Limited
 ---
 

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SOMAPAPER
 tags:
+- equity
 - listing
-- equity-shares
 - lock-in
-- preferential-allotment
-- soma-papers
+- preferential-issue
 title: Listing of New Securities of Soma Papers & Industries Ltd.
 ---
 

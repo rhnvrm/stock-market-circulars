@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ANKAINDIA
+- ANKIN
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
+- demat
 - early-pay-in
-- demat-delivery
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for ANKA INDIA
   LIMITED
 ---

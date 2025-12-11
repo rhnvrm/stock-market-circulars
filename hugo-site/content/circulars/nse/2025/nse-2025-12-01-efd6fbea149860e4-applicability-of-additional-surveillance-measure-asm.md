@@ -27,12 +27,9 @@ source: nse
 stocks:
 - KODYTECH
 tags:
-- asm
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- kody-technolab
-- additional-surveillance-measure
-- long-term-asm
 title: Applicability of Additional Surveillance Measure (ASM) - Long-Term Framework
   Updates
 ---

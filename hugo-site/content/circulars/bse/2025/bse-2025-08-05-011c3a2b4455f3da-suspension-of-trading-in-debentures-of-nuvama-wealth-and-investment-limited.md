@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NUVAMA
 tags:
-- debenture-suspension
-- trading-halt
-- redemption
 - corporate-action
+- debenture-suspension
 - debt-securities
+- redemption
+- trading-halt
 title: Suspension of Trading in Debentures of NUVAMA WEALTH AND INVESTMENT LIMITED
 ---
 

@@ -61,7 +61,7 @@ stocks:
 - IFCI
 - INOXWIND
 - JAGSNPHARM
-- JAYUSHIN
+- JAYUSH
 - JAYENTPRI
 - JUPITERWAG
 - JYOTHYLAB
@@ -80,7 +80,7 @@ stocks:
 - MURAEORGAN
 - MUTHOOTFIN
 - NIPPONNF
-- OILINDIA
+- OIL
 - PAYTM
 - PCBLCHEMIC
 - PENLAND
@@ -120,11 +120,11 @@ stocks:
 - WELCURE
 - ZENITHSTL
 tags:
-- demat-auction
+- auction
+- demat
+- early-pay-in
 - settlement
 - trading
-- auction
-- delivery-failure
 title: Demat Auction - Settlement No. 731
 ---
 

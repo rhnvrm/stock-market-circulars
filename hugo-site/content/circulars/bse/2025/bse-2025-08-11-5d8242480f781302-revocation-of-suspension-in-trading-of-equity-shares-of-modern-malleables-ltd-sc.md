@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MODERNMAL
 tags:
-- trading-suspension
-- revocation
-- equity-shares
-- modern-malleables
+- equity
+- release
 - scrip-517336
+- suspension
 title: 'Revocation of Suspension in trading of equity shares of Modern Malleables
   Ltd. (Scrip Code: 517336)'
 ---

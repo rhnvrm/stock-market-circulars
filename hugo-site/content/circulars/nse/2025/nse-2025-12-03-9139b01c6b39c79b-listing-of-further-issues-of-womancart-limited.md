@@ -26,11 +26,10 @@ source: nse
 stocks:
 - WOMANCART
 tags:
+- emerge-platform
+- equity
 - listing
-- preferential-allotment
-- sme-emerge
-- equity-shares
-- womancart
+- preferential-issue
 title: Listing of Further Issues of Womancart Limited
 ---
 

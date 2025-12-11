@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology-change
-- bankex
-- rebalancing
-- weighting-scheme
+- bse-index
+- index-change
+- index-fund
 - market-capitalization
+- methodology-change
+- weighting-scheme
 title: Change in BSE Bankex Index Methodology
 ---
 

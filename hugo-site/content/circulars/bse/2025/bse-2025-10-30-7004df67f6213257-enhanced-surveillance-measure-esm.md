@@ -33,11 +33,9 @@ stocks:
 - EXPLICIT
 - NATURA
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
+- surveillance
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

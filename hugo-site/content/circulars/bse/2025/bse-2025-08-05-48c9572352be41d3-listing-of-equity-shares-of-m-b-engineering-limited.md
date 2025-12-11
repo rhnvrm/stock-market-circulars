@@ -25,10 +25,8 @@ source: bse
 stocks:
 - MBEL
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- mbel
 title: Listing of Equity Shares of M & B Engineering Limited
 ---
 

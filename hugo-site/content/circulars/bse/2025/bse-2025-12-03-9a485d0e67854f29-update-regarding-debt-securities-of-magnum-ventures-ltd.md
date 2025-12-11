@@ -28,13 +28,13 @@ source: bse
 stocks:
 - MAGNVNT
 tags:
-- debt-securities
-- debentures
-- security-restructuring
 - charge-release
-- tfci
+- debt-securities
 - hotel-division
+- ncd
 - paper-division
+- security-restructuring
+- tfci
 title: Update Regarding Debt Securities of Magnum Ventures Ltd
 ---
 

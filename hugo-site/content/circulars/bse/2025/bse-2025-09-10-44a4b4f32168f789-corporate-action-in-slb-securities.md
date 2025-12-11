@@ -32,7 +32,7 @@ stocks:
 - SANGHVI
 - GOODLUCK
 - BALU
-- POLYMEDICURE
+- POLYMED
 - GMDC
 - GALLANTT
 - EDELWEISS
@@ -43,10 +43,9 @@ stocks:
 tags:
 - corporate-action
 - dividend
-- stock-split
-- slb-securities
 - record-date
-- ex-date
+- slb
+- split
 title: Corporate Action in SLB Securities - Dividend and Stock Split Announcements
 ---
 

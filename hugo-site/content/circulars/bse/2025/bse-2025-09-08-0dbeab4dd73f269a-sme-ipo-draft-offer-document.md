@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MSAFE
 tags:
-- sme
+- draft-document
 - ipo
-- draft-offer-document
-- public-comments
 - msafe-equipments
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document for MSAFE EQUIPMENTS LIMITED
 ---
 

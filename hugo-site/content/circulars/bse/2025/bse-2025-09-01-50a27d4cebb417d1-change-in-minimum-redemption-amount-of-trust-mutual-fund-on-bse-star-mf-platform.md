@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- minimum-amount
 - mutual-fund
+- policy-change
 - redemption
 - trust-mf
-- minimum-amount
-- policy-change
 title: Change in Minimum Redemption Amount of TRUST Mutual Fund on BSE StAR MF Platform
 ---
 

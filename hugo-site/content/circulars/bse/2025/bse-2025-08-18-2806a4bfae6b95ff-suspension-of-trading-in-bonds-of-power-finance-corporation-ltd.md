@@ -25,11 +25,11 @@ source: bse
 stocks:
 - PFCL
 tags:
-- trading-suspension
 - bond-redemption
-- corporate-actions
-- power-finance-corporation
+- corporate-action
 - debt-securities
+- power-finance-corporation
+- suspension
 title: Suspension of Trading in Bonds of Power Finance Corporation Ltd
 ---
 

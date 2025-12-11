@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SMLISUZU
 tags:
-- takeover
-- settlement
-- acquisition
-- sml-isuzu
 - obligation-delivery
+- settlement
+- takeover
 title: Revised Settlement Schedule for SML ISUZU LIMITED Takeover Acquisition
 ---
 

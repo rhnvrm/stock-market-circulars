@@ -41,11 +41,10 @@ stocks:
 - VISHAL
 - WIPRO
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
-- employee-stock-options
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - Multiple Companies ESOP Allotments
 ---
 

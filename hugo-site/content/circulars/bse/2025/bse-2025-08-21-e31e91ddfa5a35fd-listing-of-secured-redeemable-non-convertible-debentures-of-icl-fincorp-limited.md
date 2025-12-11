@@ -27,10 +27,8 @@ stocks:
 - ICLFINCORP
 tags:
 - debt-securities
-- ncd
 - listing
-- icl-fincorp
-- debentures
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of ICL Fincorp Limited
 ---
 

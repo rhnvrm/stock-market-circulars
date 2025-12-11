@@ -26,15 +26,15 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- settlement-order
 - companies-act-2013
-- private-placement
 - deemed-public-issue
+- enforcement
 - ncrps
 - non-convertible-redeemable-preference-shares
+- private-placement
 - rights-issue
 - section-42
-- enforcement
+- settlement-order
 title: Settlement Order in respect of Swaraj Green Power and Fuel Limited
 ---
 

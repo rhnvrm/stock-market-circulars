@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks:
 - RIRPOWER
-- SHEELAFOAM
+- SFL
 - SILVERLINE
 tags:
-- clarifications
-- price-movement
-- volume-movement
-- market-surveillance
-- disclosure
+- clarification
 - compliance
+- disclosure
+- price-movement
+- surveillance
 title: Clarifications received from the companies - Volume/Price Movement Responses
 ---
 

@@ -36,20 +36,10 @@ stocks:
 - SIKKO
 - TAURIAN
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- short-term-asm
 - trading-restrictions
-- market-regulation
-- AAATECH
-- DELAPLEX
-- MANAV
-- UHTL
-- CYBERTECH
-- GIRIRAJ
-- HVAX
-- SCML
-- SIKKO
-- TAURIAN
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

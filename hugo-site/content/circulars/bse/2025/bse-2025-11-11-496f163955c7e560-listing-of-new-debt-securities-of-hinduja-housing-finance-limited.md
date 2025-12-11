@@ -27,12 +27,11 @@ source: bse
 stocks:
 - HHFL
 tags:
+- bond
 - debt-securities
+- hinduja-housing-finance
 - listing
 - private-placement
-- hinduja-housing-finance
-- corporate-bonds
-- new-listing
 title: Listing of New Debt Securities of Hinduja Housing Finance Limited
 ---
 

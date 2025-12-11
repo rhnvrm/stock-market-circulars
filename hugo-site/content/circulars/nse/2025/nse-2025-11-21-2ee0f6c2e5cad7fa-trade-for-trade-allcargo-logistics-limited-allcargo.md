@@ -27,10 +27,9 @@ source: nse
 stocks:
 - ALLCARGO
 tags:
-- trade-for-trade
 - rolling-segment
 - segment-transfer
-- allcargo-logistics
+- trade-for-trade
 - trading-mode-change
 title: Trade for Trade Segment Removal - Allcargo Logistics Limited
 ---

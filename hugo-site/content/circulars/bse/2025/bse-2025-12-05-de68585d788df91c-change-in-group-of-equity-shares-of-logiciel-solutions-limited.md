@@ -29,11 +29,10 @@ stocks:
 - LOGICIEL
 tags:
 - group-change
-- trading-segment
-- sme-ipo
+- rolling-segment
+- sme
 - trade-for-trade
-- rolling-settlement
-- logiciel-solutions
+- trading
 title: Change in Group of Equity Shares of LOGICIEL SOLUTIONS LIMITED
 ---
 

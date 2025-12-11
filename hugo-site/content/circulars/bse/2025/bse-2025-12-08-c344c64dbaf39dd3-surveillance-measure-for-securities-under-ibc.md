@@ -32,12 +32,8 @@ stocks:
 - STEELCO
 - UJAAS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
+- surveillance
 title: Surveillance Measure for Securities under IBC - Stage Updates
 ---
 

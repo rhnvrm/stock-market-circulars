@@ -25,16 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544617'
-- '544616'
+- EXCELSOFT
+- GALLARD
 tags:
-- index-addition
-- bse-ipo-index
-- bse-sme-ipo-index
-- new-listing
-- excelsoft-technologies
+- bse-index
 - gallard-steel
-- index-rebalancing
+- index-change
+- listing
 title: Additions to the BSE Indices - EXCELSOFT TECHNOLOGIES LIMITED and GALLARD STEEL
   LIMITED
 ---

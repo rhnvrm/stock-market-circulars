@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PATELRETAIL
+- PATELRMART
 tags:
-- public-issue
 - anchor-investor
 - ipo
 - listing
 - patel-retail
+- public-issue
 title: Public Issue of PATEL RETAIL LIMITED - Allocation to Anchor Investors
 ---
 

@@ -31,14 +31,13 @@ stocks:
 - HINDUNILVR
 - JULIEN
 tags:
-- dividend
 - book-closure
-- record-date
 - commercial-paper
-- ncd
-- redemption
+- dividend
 - interest-payment
-- interim-dividend
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates, and Dividend Announcements
 ---
 

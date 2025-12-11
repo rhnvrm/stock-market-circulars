@@ -28,16 +28,16 @@ source: bse
 stocks:
 - RNITAI
 tags:
-- listing
-- equity-shares
-- resolution-plan
-- nclt
-- merger
+- asm-stage
 - capital-reduction
-- preferential-allotment
-- xt-group
-- trade-to-trade
+- equity
 - insolvency
+- listing
+- nclt
+- preferential-issue
+- resolution-plan
+- scheme-of-arrangement
+- trade-to-trade
 title: Listing of Equity Shares of RNIT AI Solutions Limited (formerly Autopal Industries
   Limited)
 ---

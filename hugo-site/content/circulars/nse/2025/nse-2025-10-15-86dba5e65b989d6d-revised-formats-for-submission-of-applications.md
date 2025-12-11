@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- designated-directors
-- membership
-- compliance
-- documentation
-- corporate-governance
 - board-changes
-- KYC
+- compliance
+- corporate-governance
+- designated-directors
 - director-qualification
+- documentation
+- kyc
+- membership
 title: Revised Formats for Submission of Applications - Change in Designated Directors
 ---
 

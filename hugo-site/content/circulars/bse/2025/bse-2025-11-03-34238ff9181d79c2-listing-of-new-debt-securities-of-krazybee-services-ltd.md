@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- further-issue
+- krazybee-services
 - listing
 - private-placement
-- krazybee-services
-- new-issuance
 title: Listing of New Debt Securities of Krazybee Services Ltd
 ---
 

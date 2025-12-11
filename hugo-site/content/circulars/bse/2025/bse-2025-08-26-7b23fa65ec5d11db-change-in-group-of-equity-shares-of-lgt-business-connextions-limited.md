@@ -27,10 +27,9 @@ stocks:
 - LGT
 tags:
 - group-change
-- trading-segment
 - rolling-segment
 - trade-for-trade
-- LGT
+- trading
 title: Change in Group of Equity Shares of LGT Business Connextions Limited
 ---
 

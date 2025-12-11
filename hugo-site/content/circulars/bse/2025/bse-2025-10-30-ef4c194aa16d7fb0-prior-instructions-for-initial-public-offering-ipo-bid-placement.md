@@ -27,16 +27,16 @@ severity: high
 source: bse
 stocks: []
 tags:
-- ipo
+- application-forms
 - bid-placement
 - client-instructions
-- intermediaries
 - compliance
-- sebi-circular
+- intermediary
+- ipo
 - public-issue
-- stock-brokers
+- sebi
+- stock-broker
 - upi-payment
-- application-forms
 title: Prior Instructions Required for IPO Bid Placement by Trading Members
 ---
 

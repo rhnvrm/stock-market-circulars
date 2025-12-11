@@ -25,11 +25,10 @@ source: bse
 stocks:
 - SHARVAYA
 tags:
-- public-issue
-- anchor-investors
-- allocation
-- sharvaya-metals
+- allotment
+- anchor-investor
 - ipo
+- public-issue
 title: Public Issue of SHARVAYA METALS LIMITED - Allocation to Anchor Investors
 ---
 

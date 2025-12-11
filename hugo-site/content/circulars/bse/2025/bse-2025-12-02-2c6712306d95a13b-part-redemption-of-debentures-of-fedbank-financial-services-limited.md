@@ -28,13 +28,11 @@ source: bse
 stocks:
 - FEDFIN
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- interest-payment
-- debt-securities
 - corporate-action
-- FEDFIN
+- debt-securities
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of FEDBANK FINANCIAL SERVICES LIMITED
 ---
 

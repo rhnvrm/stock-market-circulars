@@ -36,7 +36,7 @@ stocks:
 - CURAA
 - DHARAN
 - EXCEL
-- IEL
+- INDXTRA
 - KAYA
 - MVKAGRO
 - NAVKARURB
@@ -61,12 +61,9 @@ stocks:
 - ABHAPOWER
 - ACCENTMIC
 tags:
-- enhanced-surveillance-measure
-- esm
+- asm-stage
 - surveillance
-- stage-movement
 - trading-restrictions
-- market-surveillance
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

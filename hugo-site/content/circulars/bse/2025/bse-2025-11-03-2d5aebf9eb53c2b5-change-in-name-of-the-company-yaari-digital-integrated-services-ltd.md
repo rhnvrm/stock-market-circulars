@@ -27,8 +27,8 @@ stocks:
 - YAARI
 tags:
 - corporate-action
-- name-change
 - listing
+- name-change
 title: Change in Name of the Company - Yaari Digital Integrated Services Ltd
 ---
 

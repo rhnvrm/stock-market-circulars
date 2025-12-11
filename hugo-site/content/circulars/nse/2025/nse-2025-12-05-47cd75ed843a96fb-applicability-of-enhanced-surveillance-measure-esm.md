@@ -31,12 +31,11 @@ stocks:
 - PURPLEUTED
 - PVP
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- market-operations
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measures
-- market-monitoring
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

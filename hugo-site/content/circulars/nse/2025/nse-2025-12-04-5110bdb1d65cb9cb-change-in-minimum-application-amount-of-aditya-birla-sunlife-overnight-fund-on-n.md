@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- minimum-investment
 - aditya-birla-sunlife
-- overnight-fund
 - investment-platform
+- liquid-fund
+- minimum-investment
+- mutual-fund
 - sip
 title: Change in Minimum Application Amount of Aditya Birla Sunlife Overnight Fund
   on NSE MF Invest Platform

@@ -27,7 +27,7 @@ severity: medium
 source: bse
 stocks:
 - SBICAPSL
-- GFL
+- GFLLIMITED
 - VIT
 - JBCPL
 - HDFCSL
@@ -38,10 +38,10 @@ stocks:
 - RL
 tags:
 - commercial-paper
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

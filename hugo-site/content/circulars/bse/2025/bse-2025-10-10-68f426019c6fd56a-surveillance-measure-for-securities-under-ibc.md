@@ -42,12 +42,9 @@ stocks:
 - BIRLACOT
 - BLOOMDEK
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- additional-surveillance-measure
-- asm
-- stage-movement
+- surveillance
 title: Surveillance Measure for Securities Under IBC
 ---
 

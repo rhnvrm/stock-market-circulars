@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SWASTIKA
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
-- warrant-conversion
+- preferential-issue
 title: Listing of New Securities of Swastika Investmart Ltd
 ---
 

@@ -27,13 +27,11 @@ source: bse
 stocks:
 - ADVENTHOTEL
 tags:
-- index-exclusion
-- demerger
-- advent-hotels
+- bse-index
 - bse-smallcap
-- bse-allcap
 - corporate-action
-- index-rebalancing
+- index-change
+- scheme-of-arrangement
 title: Removal of Advent Hotels International Ltd from BSE Indices
 ---
 

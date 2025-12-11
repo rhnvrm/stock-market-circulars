@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - muthoot-microfin
-- new-listing
+- private-placement
 title: Listing of new debt securities of Muthoot Microfin Limited
 ---
 

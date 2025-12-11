@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- currency-derivatives
-- settlement-schedule
+- derivatives
 - mark-to-market
 - october-2025
+- settlement
 - trading-calendar
 title: CDS - Monthly Settlement Schedule for October 2025
 ---

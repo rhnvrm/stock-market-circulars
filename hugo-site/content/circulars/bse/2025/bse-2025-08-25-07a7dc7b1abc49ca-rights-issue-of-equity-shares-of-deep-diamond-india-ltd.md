@@ -26,12 +26,11 @@ source: bse
 stocks:
 - DEEPDIAMOND
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
+- corporate-action
+- equity
 - record-date
-- ex-rights
-- deep-diamond-india
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares - Deep Diamond India Ltd (2:1 Rights Issue at
   Rs. 4.16 per Share)
 ---

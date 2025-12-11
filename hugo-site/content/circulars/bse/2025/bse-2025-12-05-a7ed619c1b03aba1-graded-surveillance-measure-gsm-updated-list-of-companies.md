@@ -33,7 +33,7 @@ stocks:
 - ASHIANA
 - ASHISHPOL
 - ASHUTOSH
-- ASIAPACK
+- ASIAPAK
 - BCLENTER
 - BENARABEN
 - BERYL
@@ -51,12 +51,12 @@ stocks:
 - FAMILYCARE
 - GDLLEASE
 - GENESIS
-- GUjinvest
+- GUJINVEST
 - HARIA
 - HASTI
 - INFRONICS
 - INNOVATIVE
-- ISF
+- ISFL
 - JAYATMA
 - JOINTECA
 - KAKATIYA
@@ -77,16 +77,14 @@ stocks:
 - PHOTOQUIP
 - QUADRANT
 - REGENCY
-- ROJEWELS
+- ROJL
 - RRP
 - SADBHAV
 tags:
-- graded-surveillance-measure
-- gsm
+- enhanced-monitoring
+- market-operations
 - surveillance
 - trading-restrictions
-- enhanced-monitoring
-- market-integrity
 title: Graded Surveillance Measure (GSM) – Updated List of Companies Effective December
   15, 2025
 ---

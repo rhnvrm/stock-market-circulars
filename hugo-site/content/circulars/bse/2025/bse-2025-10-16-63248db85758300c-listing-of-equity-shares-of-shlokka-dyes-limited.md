@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SHLOKKA
 tags:
+- equity
 - listing
-- equity-shares
-- sme-segment
-- new-listing
-- SHLOKKA
+- sme
 title: Listing of Equity Shares of SHLOKKA DYES LIMITED
 ---
 

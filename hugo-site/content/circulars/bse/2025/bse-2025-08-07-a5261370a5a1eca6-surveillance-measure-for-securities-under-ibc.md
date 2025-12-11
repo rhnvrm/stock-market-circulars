@@ -25,12 +25,9 @@ source: bse
 stocks:
 - AXISSOL
 tags:
-- surveillance
-- ibc
+- corporate-action
 - insolvency
-- additional-surveillance-measure
-- asm
-- corporate-announcement
+- surveillance
 title: Surveillance Measure for Securities under Insolvency and Bankruptcy Code (IBC)
 ---
 

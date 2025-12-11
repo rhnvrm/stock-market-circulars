@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- illiquid-stock-options
-- bse
-- pfutp-regulations
-- market-manipulation
-- reversal-trades
+- adjudication
 - artificial-volume
-- fraudulent-trading
+- bse
+- illiquid-stock-options
+- investigation
+- market-operations
 - middleton-goods-pvt-ltd
+- regulatory-framework
+- reversal-trades
 title: Adjudication Order in respect of Middleton Goods Pvt. Ltd. in the matter of
   dealings in Illiquid Stock Options on BSE
 ---

@@ -27,13 +27,10 @@ source: bse
 stocks:
 - YASTF
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
-- OTB
 - equity
+- otb
+- takeover
 - trading-schedule
-- YASTF
 title: Offer to Buy – Acquisition Window (Takeover) for YASH TRADING FINANCE LTD -
   Live Activities Schedule
 ---

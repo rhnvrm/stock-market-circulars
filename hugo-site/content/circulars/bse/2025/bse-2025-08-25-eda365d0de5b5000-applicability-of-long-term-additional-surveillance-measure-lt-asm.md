@@ -32,11 +32,10 @@ stocks:
 - TRANSIND
 - VAXFAB
 tags:
-- surveillance
-- asm
 - long-term
+- market-operations
+- surveillance
 - trading-restrictions
-- market-regulation
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

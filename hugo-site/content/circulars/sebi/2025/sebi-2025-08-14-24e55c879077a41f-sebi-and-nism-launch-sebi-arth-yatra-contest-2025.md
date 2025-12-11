@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-awareness
 - contest
-- education
-- nism
 - creative-expression
+- education
+- investor-awareness
+- nism
 title: SEBI and NISM launch 'SEBI Arth Yatra contest 2025'
 ---
 

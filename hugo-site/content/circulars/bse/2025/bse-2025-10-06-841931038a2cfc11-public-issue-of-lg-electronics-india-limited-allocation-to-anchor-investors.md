@@ -26,12 +26,11 @@ source: bse
 stocks:
 - LGELECTR
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
-- public-issue
-- lg-electronics
 - listing
+- public-issue
 title: Public Issue of LG Electronics India Limited - Allocation to Anchor Investors
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NAMRA
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
-- debt-market
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of NAMRA FINANCE LIMITED
 ---
 

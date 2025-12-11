@@ -28,11 +28,11 @@ stocks:
 - NUVAMA
 tags:
 - debt-securities
+- demat
+- gold-linked
 - listing
 - nuvama-wealth-finance
 - private-placement
-- gold-linked
-- demat-only
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

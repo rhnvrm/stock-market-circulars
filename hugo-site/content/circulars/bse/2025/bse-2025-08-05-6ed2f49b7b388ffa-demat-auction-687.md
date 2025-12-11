@@ -27,10 +27,10 @@ stocks:
 - ADANIPORTS
 - AEGISVOPAK
 - AMPVOLTS
-- ATHERENERGY
-- BABAARTS
+- ATHERENERG
+- BABA
 - BHARTIHEXA
-- BIRLASOFT
+- BSOFT
 - CHOLAMANDALA
 - DENORAINDI
 - DELHIVERY
@@ -59,9 +59,9 @@ stocks:
 - VODAFONEID
 - ZUARIAGRO
 tags:
-- demat-auction
-- settlement
+- demat
 - forced-delivery
+- settlement
 - trading
 title: Demat Auction Settlement No. 687
 ---

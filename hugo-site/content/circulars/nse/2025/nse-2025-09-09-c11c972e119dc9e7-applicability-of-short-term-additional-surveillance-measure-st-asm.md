@@ -33,11 +33,11 @@ stocks:
 - XTGLOBAL
 - ROHLTD
 tags:
-- surveillance
-- margin-requirements
-- trading-restrictions
+- asm-stage
+- margin
 - risk-management
-- ST-ASM
+- surveillance
+- trading-restrictions
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM) - 7 Securities
   Added to Stage I
 ---

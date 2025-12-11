@@ -26,13 +26,12 @@ source: nse
 stocks:
 - BHARATRAS
 tags:
-- bonus-issue
+- bonus
+- corrigendum
+- equity
+- isin
 - listing
 - trading
-- isin-change
-- corrigendum
-- equity-shares
-- bharat-rasayan
 title: Corrigendum to the Circular issued on Listing & Trading of Equity Shares pursuant
   to Bonus Issue of Bharat Rasayan Limited
 ---

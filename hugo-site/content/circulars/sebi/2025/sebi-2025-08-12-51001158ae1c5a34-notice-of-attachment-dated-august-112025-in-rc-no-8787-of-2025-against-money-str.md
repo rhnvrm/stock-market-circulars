@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- advisory-services
 - attachment
 - enforcement
-- advisory-services
-- regulatory-violation
 - money-streets
+- non-compliance
 title: Notice of Attachment - Money Streets Advisory Services LLP and Associates
 ---
 

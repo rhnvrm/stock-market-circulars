@@ -24,9 +24,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- compliance
 - membership
 - surrender
-- compliance
 - trading-member
 title: Total Surrender of Membership - SIDDHARTHA CAPITAL MARKET LIMITED
 ---

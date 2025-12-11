@@ -25,8 +25,8 @@ source: bse
 stocks: []
 tags:
 - corporate-debt
-- settlement-schedule
 - icdm
+- settlement
 - trading-calendar
 title: Trading and Settlement Programme for Corporate Debt Segment - September 2025
 ---

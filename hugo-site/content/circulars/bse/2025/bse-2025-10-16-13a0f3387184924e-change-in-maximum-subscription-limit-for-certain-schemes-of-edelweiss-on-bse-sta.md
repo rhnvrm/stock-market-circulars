@@ -28,15 +28,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- subscription-limits
-- overseas-investment
 - edelweiss
+- mutual-fund
+- offshore-schemes
+- overseas-investment
+- sebi
 - sip
 - stp
-- investment-restrictions
-- sebi
-- offshore-schemes
+- subscription-limit
 title: Change in Maximum Subscription Limit for Certain Schemes of Edelweiss on BSE
   StAR MF Platform
 ---

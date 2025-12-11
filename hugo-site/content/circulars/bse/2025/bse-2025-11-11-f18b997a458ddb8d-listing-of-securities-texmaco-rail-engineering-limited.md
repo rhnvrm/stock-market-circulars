@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TEXRAIL
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of 73.97 Lakh Equity Shares of Texmaco Rail & Engineering Limited
 ---
 

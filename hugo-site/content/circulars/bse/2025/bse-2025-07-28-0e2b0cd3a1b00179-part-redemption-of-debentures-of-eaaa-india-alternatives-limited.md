@@ -26,13 +26,13 @@ source: bse
 stocks:
 - EAAL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- face-value-reduction
-- record-date
-- corporate-actions
+- corporate-action
 - debt-securities
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures - EAAA India Alternatives Limited
 ---
 

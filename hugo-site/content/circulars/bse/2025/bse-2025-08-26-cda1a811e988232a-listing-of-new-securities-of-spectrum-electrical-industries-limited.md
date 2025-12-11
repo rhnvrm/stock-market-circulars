@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SPECTRUM
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoter-shares
-- warrant-conversion
+- preferential-issue
+- promoter
 title: Listing of new securities of Spectrum Electrical Industries Limited
 ---
 

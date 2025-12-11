@@ -24,12 +24,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- demand-notice
-- recovery-certificate
-- illiquid-options
 - bse
+- demand-notice
 - enforcement
 - huf
+- illiquid-options
+- recovery
 title: Notice of Demand under RC No. 8882 of 2025 against Gopalkrishna Ratanchand
   Shah HUF for Illiquid Stock Options Trading
 ---

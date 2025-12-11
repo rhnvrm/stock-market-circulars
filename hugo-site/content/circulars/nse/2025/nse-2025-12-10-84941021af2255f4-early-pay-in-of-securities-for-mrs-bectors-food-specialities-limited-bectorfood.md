@@ -28,13 +28,12 @@ source: nse
 stocks:
 - BECTORFOOD
 tags:
-- early-pay-in
-- face-value-split
 - corporate-action
-- settlement
-- margin-exemption
 - depository
-- BECTORFOOD
+- early-pay-in
+- face-value-change
+- margin-exemption
+- settlement
 title: Early Pay-in of Securities for Mrs. Bectors Food Specialities Limited (BECTORFOOD)
 ---
 

@@ -28,13 +28,13 @@ source: bse
 stocks:
 - JMFINCREDIT
 tags:
-- debentures
-- trading-resumption
-- partial-redemption
 - buyback
 - corporate-action
 - debt-securities
 - jm-financial-credit-solutions
+- ncd
+- redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of JM Financial Credit Solutions Limited
   (Scrip Code 974918)
 ---

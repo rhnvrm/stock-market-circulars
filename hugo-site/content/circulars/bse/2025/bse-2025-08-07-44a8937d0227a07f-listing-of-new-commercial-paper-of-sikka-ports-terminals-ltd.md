@@ -26,10 +26,9 @@ stocks:
 - SPTL
 tags:
 - commercial-paper
-- debt-listing
-- sikka-ports
+- debt-securities
 - private-placement
-- debt-segment
+- sikka-ports
 title: Listing of New Commercial Paper of Sikka Ports & Terminals Ltd
 ---
 

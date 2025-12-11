@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- madurai-rural-development
-- investor-grievance
-- refund-order
 - companies-act-violation
+- investor-grievance
+- madurai-rural-development
+- refund-order
+- rti
 title: Appeal No. 6569 of 2025 filed by Bhavasri
 ---
 

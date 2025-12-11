@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SOUTHBANK
 tags:
-- suspension
-- bonds
-- debt-market
-- redemption
+- bond
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
-- SOUTHBANK
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of South Indian Bank Ltd.
 ---
 

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - DELPHIFX
 tags:
-- equity-listing
-- rights-issue
+- equity
 - new-securities
-- '533452'
+- rights-issue
 title: Listing of New Securities of Delphi World Money Limited
 ---
 

@@ -28,7 +28,7 @@ stocks:
 - MCSL
 - MBPREIT
 - TIAPL
-- GFL
+- GFLLIMITED
 - PIICL
 - IHPL
 - JBIPL
@@ -46,11 +46,11 @@ stocks:
 - TSL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- record-date
+- corporate-action
 - debt-securities
-- corporate-actions
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies Record Date
   Redemptions
 ---

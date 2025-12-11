@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CNIRESEARCH
 tags:
-- name-change
-- certificate-of-incorporation
+- certificate
+- company-related
 - corporate-affairs
-- company-registration
+- name-change
 title: Change in Name of the Company - CNI Research Ltd. to Tomorrow Technologies
   Global Innovations Limited
 ---

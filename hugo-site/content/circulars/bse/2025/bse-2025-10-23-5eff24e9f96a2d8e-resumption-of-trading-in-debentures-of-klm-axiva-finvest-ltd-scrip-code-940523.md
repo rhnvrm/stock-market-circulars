@@ -28,13 +28,12 @@ source: bse
 stocks:
 - KLMAXIVA
 tags:
-- debentures
-- trading-resumption
-- debt-market
 - corporate-action
-- klm-axiva-finvest
+- debt-securities
 - interest-payment
+- ncd
 - record-date
+- trading-resumption
 title: Resumption of Trading in Debentures of KLM AXIVA FINVEST LTD (Scrip Code 940523)
 ---
 

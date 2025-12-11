@@ -24,13 +24,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- equity
+- mutual-fund
 - platform-availability
-- sundaram-mutual-fund
 - sip
 - stp
+- sundaram-mutual-fund
 - swp
-- equity-funds
 title: Sundaram Multi-Factor Fund Available for Trading on NSE MF Invest Platform
 ---
 

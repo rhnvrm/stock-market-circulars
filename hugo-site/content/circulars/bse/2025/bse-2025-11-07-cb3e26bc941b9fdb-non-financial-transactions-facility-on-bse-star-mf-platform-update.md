@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- bse-star-mf
-- non-financial-transactions
-- nominee-updation
-- technical-update
 - file-format
+- mutual-fund
+- nominee-updation
+- non-financial-transactions
+- technical-update
 title: Non-Financial Transactions Facility on BSE StAR MF Platform - Update
 ---
 

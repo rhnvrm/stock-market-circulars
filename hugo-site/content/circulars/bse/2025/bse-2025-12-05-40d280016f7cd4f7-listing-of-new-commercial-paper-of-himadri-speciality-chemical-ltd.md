@@ -27,9 +27,9 @@ stocks:
 - HIMADRI
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - himadri-speciality-chemical
+- private-placement
 - short-term-debt
 title: Listing of Commercial Paper of Himadri Speciality Chemical Ltd
 ---

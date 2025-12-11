@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MISHDESIGN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Mish Designs Limited
 ---
 

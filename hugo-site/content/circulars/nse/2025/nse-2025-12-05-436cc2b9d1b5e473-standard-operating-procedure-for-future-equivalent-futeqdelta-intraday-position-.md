@@ -28,18 +28,18 @@ severity: high
 source: nse
 stocks: []
 tags:
-- equity-index-derivatives
-- position-limits
-- surveillance
 - additional-surveillance-deposit
 - asd
-- futures
-- options
-- expiry-day
-- intraday-monitoring
-- delta-based-positions
 - compliance
-- sebi-framework
+- delta-based-positions
+- equity-index-derivatives
+- expiry-day
+- futures-options
+- intraday-monitoring
+- options
+- position-limits
+- regulatory-framework
+- surveillance
 title: Standard Operating Procedure for Future Equivalent (FutEq)/(Delta) Intraday
   Position Limits Monitoring for Equity Index Derivatives - Update
 ---

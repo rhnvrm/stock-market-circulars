@@ -27,16 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- sif
-- specialized-investment-fund
-- tata-mutual-fund
-- bse-star-mf
 - accredited-investor
-- distributor-registration
-- nism-xiii
 - amfi
+- distributor-registration
 - investment-limits
+- mutual-fund
+- nism-xiii
+- sif
+- tata-mutual-fund
 title: Introduction of Specialized Investment Funds (SIF) of TATA MUTUAL FUND on BSE
   StAR MF Platform
 ---

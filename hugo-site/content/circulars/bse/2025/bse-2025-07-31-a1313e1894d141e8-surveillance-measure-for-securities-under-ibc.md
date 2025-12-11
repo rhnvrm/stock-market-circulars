@@ -28,7 +28,7 @@ stocks:
 - EASTDRUMS
 - HINGLASIND
 - HDIL
-- INDOSOLAR
+- WAAREEINDO-BE
 - JAIPRAKASH
 - MORARJEE
 - OMKARSPEC
@@ -38,11 +38,8 @@ stocks:
 - UJAAS
 - VASINFRA
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under IBC - August 2025 Updates
 ---

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ADISHAKTI
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- equity-shares
-- warrant-conversion
 - lock-in
-- adishakti-loha
+- preferential-issue
 title: Listing of Securities - Adishakti Loha and Ispat Limited Preferential Issue
 ---
 

@@ -33,11 +33,10 @@ stocks:
 - TEJASNET
 - WIPRO
 tags:
-- listing
-- esop
-- esos
-- equity-shares
 - company-securities
+- equity
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - Six Companies
 ---
 

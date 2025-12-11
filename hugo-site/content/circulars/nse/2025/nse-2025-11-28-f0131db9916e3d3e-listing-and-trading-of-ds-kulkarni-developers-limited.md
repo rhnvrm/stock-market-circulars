@@ -28,17 +28,15 @@ source: nse
 stocks:
 - DSKULKARNI
 tags:
+- capital-reduction
+- insolvency
 - listing
-- trading-resumption
-- insolvency-bankruptcy-code
-- ibc
-- resolution-plan
 - minimum-public-shareholding
 - mps
-- offer-for-sale
-- ofs
 - nclt
-- capital-reduction
+- ofs
+- resolution-plan
+- trading-resumption
 title: Listing and Trading of DS Kulkarni Developers Limited
 ---
 

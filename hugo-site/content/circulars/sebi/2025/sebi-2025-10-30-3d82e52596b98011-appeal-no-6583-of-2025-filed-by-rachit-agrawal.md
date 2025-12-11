@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- appeal
 - good-and-bad-deliveries
-- physical-securities
-- appellate-authority
 - information-disclosure
+- physical-securities
+- rti
 title: Appeal No. 6583 of 2025 filed by Rachit Agrawal - RTI Appeal on Good and Bad
   Delivery Norms
 ---

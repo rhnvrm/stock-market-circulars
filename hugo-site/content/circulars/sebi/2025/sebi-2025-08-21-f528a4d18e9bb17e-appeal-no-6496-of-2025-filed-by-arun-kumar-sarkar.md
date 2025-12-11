@@ -25,10 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
 - citigroup
 - equity-trading-plan
+- rti
 - stock-broker
 title: Appeal No. 6496 of 2025 filed by Arun Kumar Sarkar
 ---

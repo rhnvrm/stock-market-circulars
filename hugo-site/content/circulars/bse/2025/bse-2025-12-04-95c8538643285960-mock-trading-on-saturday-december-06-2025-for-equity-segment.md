@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-segment
-- bolt-pro-tws
-- testing
 - block-deal-framework
-- uat
+- equity
+- maintenance
+- mock-trading
 - risk-management
-- sebi-compliance
+- sebi
+- trading-platform
 title: Mock Trading Session Scheduled for December 06, 2025 - Equity Segment
 ---
 

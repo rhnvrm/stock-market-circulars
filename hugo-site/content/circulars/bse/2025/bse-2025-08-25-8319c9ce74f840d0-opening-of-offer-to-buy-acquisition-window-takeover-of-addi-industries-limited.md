@@ -26,12 +26,10 @@ source: bse
 stocks:
 - ADDI
 tags:
+- cash-segment
+- equity
+- sast
 - takeover
-- open-offer
-- acquisition
-- equity-shares
-- cash-offer
-- sebi-sast
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of ADDI INDUSTRIES
   LIMITED
 ---

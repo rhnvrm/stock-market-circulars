@@ -25,10 +25,10 @@ source: bse
 stocks:
 - CFPL
 tags:
+- choice-finserv
 - debt-securities
 - listing
 - private-placement
-- choice-finserv
 title: Listing of new debt securities of CHOICE FINSERV PRIVATE LIMITED
 ---
 

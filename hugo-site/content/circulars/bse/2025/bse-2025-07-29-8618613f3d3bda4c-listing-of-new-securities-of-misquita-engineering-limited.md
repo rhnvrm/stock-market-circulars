@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MISQUITA
 tags:
-- equity-shares
-- preferential-allotment
-- promoter-shares
-- warrant-conversion
+- conversion
+- equity
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Misquita Engineering Limited
 ---
 

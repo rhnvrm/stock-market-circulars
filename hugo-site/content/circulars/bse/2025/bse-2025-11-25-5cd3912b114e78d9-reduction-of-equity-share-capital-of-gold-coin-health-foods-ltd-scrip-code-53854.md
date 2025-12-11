@@ -28,11 +28,10 @@ stocks:
 - GOLDCOIN
 tags:
 - capital-reduction
-- share-consolidation
-- nclt-order
 - corporate-action
-- trading-suspension
-- GOLDCOIN
+- nclt
+- share-consolidation
+- suspension
 title: 'Reduction of Equity Share Capital of Gold Coin Health Foods Ltd (Scrip Code:
   538542)'
 ---

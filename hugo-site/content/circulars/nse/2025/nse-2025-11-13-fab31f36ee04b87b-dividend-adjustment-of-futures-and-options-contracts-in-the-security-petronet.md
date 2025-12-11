@@ -26,11 +26,11 @@ source: nse
 stocks:
 - PETRONET
 tags:
-- dividend
-- futures-and-options
-- corporate-action
 - contract-adjustment
+- corporate-action
 - derivatives
+- dividend
+- futures-options
 title: Dividend Adjustment of Futures and Options Contracts in PETRONET
 ---
 

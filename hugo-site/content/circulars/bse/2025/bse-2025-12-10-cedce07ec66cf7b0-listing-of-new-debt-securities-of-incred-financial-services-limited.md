@@ -27,12 +27,12 @@ source: bse
 stocks:
 - INCRED
 tags:
+- bond
 - debt-securities
-- listing
-- private-placement
 - incred-financial
-- debentures
-- corporate-bonds
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of InCred Financial Services Limited
 ---
 

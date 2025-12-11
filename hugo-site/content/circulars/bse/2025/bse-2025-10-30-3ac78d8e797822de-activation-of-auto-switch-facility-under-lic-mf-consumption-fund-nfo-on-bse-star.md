@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nfo
 - auto-switch
-- lic-mutual-fund
-- bse-star-mf
 - consumption-fund
-- overnight-fund
+- lic-mutual-fund
+- liquid-fund
+- mutual-fund
+- nfo
 title: Activation of AUTO Switch Facility under LIC MF Consumption Fund NFO on BSE
   StAR MF Platform
 ---

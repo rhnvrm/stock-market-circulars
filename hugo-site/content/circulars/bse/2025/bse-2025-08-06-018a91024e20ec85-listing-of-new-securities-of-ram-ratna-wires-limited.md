@@ -25,11 +25,10 @@ source: bse
 stocks:
 - RAMRATNA
 tags:
-- listing
-- equity-shares
-- amalgamation
-- ram-ratna-wires
+- equity
 - global-copper
+- listing
+- scheme-of-arrangement
 title: Listing of new securities of Ram Ratna Wires Limited
 ---
 

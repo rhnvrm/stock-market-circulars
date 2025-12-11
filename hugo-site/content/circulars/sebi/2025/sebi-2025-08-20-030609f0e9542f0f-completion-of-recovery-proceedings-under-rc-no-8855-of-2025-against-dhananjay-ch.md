@@ -24,10 +24,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- completion
 - enforcement
 - family-care-hospitals
-- completion
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8855 of 2025 against Dhananjay
   Chandrakant Parikh in the matter of Family Care Hospitals Limited
 ---

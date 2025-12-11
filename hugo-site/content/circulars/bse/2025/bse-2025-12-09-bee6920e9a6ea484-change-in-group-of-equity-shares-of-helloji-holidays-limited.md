@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544630'
+- HELLOJI
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
+- helloji-holidays
 - rolling-segment
 - sme
-- mt-group
-- m-group
-- helloji-holidays
+- trade-for-trade
 title: Change in Group of Equity Shares of HELLOJI HOLIDAYS LIMITED
 ---
 

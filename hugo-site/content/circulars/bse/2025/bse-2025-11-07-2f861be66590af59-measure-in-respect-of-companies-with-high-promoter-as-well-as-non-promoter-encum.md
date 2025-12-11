@@ -30,10 +30,9 @@ stocks:
 - INDFINSEC
 tags:
 - encumbrance
+- market-operations
+- sast
 - surveillance
-- sast-regulation
-- promoter-pledge
-- market-safety
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance - November 2025 Update
 ---

@@ -26,12 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- compliance-violation
+- investigation
 - license-misuse
-- inspection
-- regulatory-action
+- non-compliance
+- regulatory
+- research-analyst
+- sebi-order
 title: SEBI Enquiry Order Against Research Analyst Nikhil Dayanand Baljekar for Non-Cooperation
   and License Misuse
 ---

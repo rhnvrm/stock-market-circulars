@@ -27,11 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
 - kanakadurga-finance
+- listing
 - ncd
-- debentures
+- private-placement
 title: Listing of New Debt Securities of Kanakadurga Finance Limited
 ---
 

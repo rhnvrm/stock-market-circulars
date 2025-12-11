@@ -28,12 +28,9 @@ source: bse
 stocks:
 - CUPID
 tags:
-- open-offer
+- equity
+- sast
 - takeover
-- acquisition
-- SEBI-SAST
-- equity-shares
-- CUPID
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Cupid Breweries
   and Distillers Limited
 ---

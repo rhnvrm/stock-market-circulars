@@ -27,10 +27,9 @@ stocks:
 tags:
 - etf
 - listing
-- mutual-fund
 - manufacturing
+- mutual-fund
 - nippon-india
-- new-listing
 title: Listing of Units Of Nippon India Nifty India Manufacturing ETF
 ---
 

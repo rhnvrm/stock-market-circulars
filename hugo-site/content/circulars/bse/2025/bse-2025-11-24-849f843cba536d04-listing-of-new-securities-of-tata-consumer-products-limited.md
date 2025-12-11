@@ -26,11 +26,9 @@ source: bse
 stocks:
 - TATACONSUMER
 tags:
+- equity
 - listing
-- equity-shares
-- tata-consumer
 - scheme-of-arrangement
-- TATACONSUMER
 title: Listing of New Securities of Tata Consumer Products Limited
 ---
 

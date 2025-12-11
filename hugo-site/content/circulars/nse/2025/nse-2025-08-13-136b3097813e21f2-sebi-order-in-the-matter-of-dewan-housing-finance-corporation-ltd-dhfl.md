@@ -26,12 +26,11 @@ source: nse
 stocks:
 - DHFL
 tags:
-- sebi-order
-- market-ban
-- dhfl
-- wadhawan
-- securities-market-restraint
 - compliance
+- market-ban
+- sebi-order
+- securities-market-restraint
+- wadhawan
 title: SEBI Order in the matter of Dewan Housing Finance Corporation Ltd. (DHFL)
 ---
 

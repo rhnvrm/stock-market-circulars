@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sip
-- navi
 - discontinuation
-- minimum-amount
 - investor-notice
+- minimum-amount
+- mutual-fund
+- navi
+- sip
 title: Discontinuation of SIPs with instalment amounts to less than Rs.100 under NAVI
   Mutual Fund schemes
 ---

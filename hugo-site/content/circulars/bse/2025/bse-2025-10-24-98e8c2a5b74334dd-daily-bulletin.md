@@ -30,13 +30,13 @@ stocks:
 - AJANTPHARM
 - BAJFINANCE
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
-- ncd-redemption
-- corporate-actions
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

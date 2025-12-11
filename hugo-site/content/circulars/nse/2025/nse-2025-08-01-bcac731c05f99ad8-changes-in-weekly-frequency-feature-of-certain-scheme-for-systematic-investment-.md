@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- investment-plan
+- mutual-fund
 - sip
 - stp
-- mutual-fund
 - sundaram-mutual-fund
 - weekly-frequency
-- investment-plan
 title: Changes in Weekly Frequency feature of certain scheme for Systematic Investment
   Plan (SIP) and Systematic Transfer Plan (STP) under Sundaram Mutual Fund on NSE
   MF Invest Platform

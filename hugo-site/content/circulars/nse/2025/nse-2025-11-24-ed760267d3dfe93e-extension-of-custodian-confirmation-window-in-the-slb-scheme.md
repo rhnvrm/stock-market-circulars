@@ -27,11 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- slb
-- securities-lending-borrowing
+- collateral
 - custodian
 - operational-timing
-- trade-settlement
+- settlement
+- slb
 title: Extension of Custodian Confirmation Window in SLB Scheme
 ---
 

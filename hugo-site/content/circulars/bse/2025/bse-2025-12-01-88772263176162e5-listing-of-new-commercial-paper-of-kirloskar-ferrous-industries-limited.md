@@ -27,10 +27,10 @@ stocks:
 - KFIL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kirloskar-ferrous
-- new-listing
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Kirloskar Ferrous Industries Limited
 ---
 

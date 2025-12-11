@@ -26,12 +26,12 @@ source: bse
 stocks:
 - RTL
 tags:
-- debentures
-- part-redemption
+- corporate-action
 - debt-securities
 - interest-payment
-- corporate-action
+- ncd
 - rajgarh-transmission
+- redemption
 title: Part Redemption of Debentures of Rajgarh Transmission Limited
 ---
 

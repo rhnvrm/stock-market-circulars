@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VANTA
 tags:
-- equity-listing
-- preferential-allotment
-- promoter-subscription
-- new-securities
+- equity
 - lock-in
+- new-securities
+- preferential-issue
+- promoter-subscription
 title: Listing of New Securities of Vanta Bioscience Limited
 ---
 

@@ -32,9 +32,8 @@ stocks:
 - PGEL
 - SOUTHMAG
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

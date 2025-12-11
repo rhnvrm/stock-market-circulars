@@ -26,13 +26,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- front-running
 - enforcement
-- PFUTP
 - family-trusts
 - fraud
-- unfair-trade-practices
+- investigation
+- pfutp
 - settlement
+- unfair-trade-practices
 title: Order in matter of front running of the orders of Big Client (certain family
   trusts) by certain entities
 ---

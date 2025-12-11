@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bond
 - cbrics
-- settlement
-- corporate-bonds
-- debt-segment
+- debt-securities
 - nse-clearing
+- settlement
 title: CBRICS Settlement Calendar for September 2025
 ---
 

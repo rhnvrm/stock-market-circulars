@@ -29,18 +29,17 @@ source: sebi
 stocks:
 - BRIGHTCOM
 tags:
-- enforcement
-- penalty
 - accounting-standards
+- as-26
+- enforcement
 - financial-statements
-- brightcom-group
-- listing-obligations
-- AS-26
-- Ind-AS-36
-- Ind-AS-38
-- intangible-assets
 - impairment
-- R&D-capitalization
+- ind-as-36
+- ind-as-38
+- intangible-assets
+- lodr
+- penalty
+- r&d-capitalization
 title: Final Order in the Matter of Brightcom Group Ltd. - Penalty on Allam Raghunath
   and Subrato Saha
 ---

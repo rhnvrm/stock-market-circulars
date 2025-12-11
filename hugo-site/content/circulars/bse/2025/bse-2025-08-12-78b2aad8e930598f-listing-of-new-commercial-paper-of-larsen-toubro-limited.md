@@ -26,7 +26,7 @@ stocks:
 - LT
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - larsen-toubro
 - private-placement
 - short-term-debt

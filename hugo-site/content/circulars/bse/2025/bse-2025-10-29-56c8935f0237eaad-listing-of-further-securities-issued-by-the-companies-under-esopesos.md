@@ -31,12 +31,10 @@ stocks:
 - LTIM
 - YESBANK
 tags:
-- esop
-- esos
-- listing
 - equity
-- new-shares
-- employee-stock-options
+- esop
+- listing
+- new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 6 Companies
 ---
 

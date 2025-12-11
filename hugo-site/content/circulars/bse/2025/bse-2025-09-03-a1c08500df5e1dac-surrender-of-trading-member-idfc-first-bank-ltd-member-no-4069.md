@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- idfc-first-bank
 - membership
 - surrender
 - trading-member
-- idfc-first-bank
 title: Surrender of Trading Member – IDFC First Bank Ltd. (Member no. 4069)
 ---
 

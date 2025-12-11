@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ADVANCE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
 - advance-multitech
+- equity
+- release
+- suspension
 title: 'Revocation of Suspension in trading of equity shares of Advance Multitech
   Ltd. (Scrip Code: 526331)'
 ---

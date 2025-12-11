@@ -28,13 +28,12 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
+- amepb0155f
+- attachment
+- demat
 - enforcement
-- recovery-proceedings
-- attachment-notice
-- demat-accounts
 - prakash-constrowell-limited
-- setubandhan-infrastructure-limited
-- AMEPB0155F
+- recovery
 title: Notice of Attachment of Demat Accounts dated November 17, 2025 under RC 8928
   of 2025 against Prafulla Subhash Chandra Bhat (PAN - AMEPB0155F) in the matter of
   Prakash Constrowell Limited (now Setubandhan Infrastructure Limited)

@@ -26,20 +26,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- ARIGATOUNIVERSE
-- ASARFIHOSPITAL
-- KIRANSYNTEX
-- TRIDENTTEXOFAB
+- ARIGATO
+- ASARFI
+- KIRANSY-B
+- TTFL
 - CROISSANCE
-- CYBELEINDUSTRIES
+- CYBELEIND
 - PANABYTE
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
-- stage-movement
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

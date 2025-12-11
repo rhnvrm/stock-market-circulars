@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- fraud-warning
-- fpi
 - fii
+- fpi
+- fraud-warning
+- investor-protection
 - social-media-scams
 - trading-schemes
 title: Advisory Against investment in Fraudulent Trading Schemes claiming to be offered

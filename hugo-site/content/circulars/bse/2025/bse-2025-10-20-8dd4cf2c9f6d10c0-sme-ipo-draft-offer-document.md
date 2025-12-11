@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- fractal-industries
 - public-comments
 - sebi-icdr-regulations
-- fractal-industries
+- sme
 title: SME IPO - Draft Offer Document for Fractal Industries Limited
 ---
 

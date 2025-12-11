@@ -27,11 +27,10 @@ source: bse
 stocks:
 - LENSKART
 tags:
-- index
+- index-change
+- index-fund
 - ipo-index
 - listing
-- lenskart
-- index-addition
 title: Addition to the BSE IPO Index
 ---
 

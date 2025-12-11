@@ -26,14 +26,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- debt-securities
+- gold
+- gsec
+- redemption
+- state-government-bonds
 - suspension
 - trading
-- t-bills
-- sovereign-gold-bonds
-- government-securities
-- state-government-bonds
-- redemption
-- debt-market
+- treasury-bills
 title: Suspension of Trading in T-Bills, Sovereign Gold Bonds, Government Securities
   and State Government Bonds - On Account of Redemption
 ---

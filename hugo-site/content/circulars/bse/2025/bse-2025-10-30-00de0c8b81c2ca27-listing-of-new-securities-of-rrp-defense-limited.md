@@ -26,11 +26,11 @@ source: bse
 stocks:
 - RRPDEFENSE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- new-securities
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of RRP DEFENSE LIMITED
 ---
 

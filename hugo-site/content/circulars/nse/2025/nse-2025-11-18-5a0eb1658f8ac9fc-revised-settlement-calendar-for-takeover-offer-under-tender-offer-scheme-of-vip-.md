@@ -29,12 +29,12 @@ source: nse
 stocks:
 - VIPIND
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- vip-industries
-- trading-schedule
 - revised-calendar
+- settlement-calendar
+- takeover
+- tender-offer
+- trading-schedule
+- vip-industries
 title: Revised Settlement Calendar for Takeover Offer under Tender Offer Scheme of
   VIP Industries Limited
 ---

@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- abakkus-mutual-fund
+- liquid-fund
 - mutual-fund
 - nfo
-- liquid-fund
-- abakkus-mutual-fund
-- nse-mf-invest
-- new-fund-offer
+- trading-platform
 title: Launch of Abakkus Liquid Fund NFO on NSE MF Invest Platform
 ---
 

@@ -28,13 +28,12 @@ source: bse
 stocks:
 - AUTOLINE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-funding
 - lock-in
-- autoline-industries
+- preferential-issue
+- promoter-funding
 title: Listing of 22 Lakh New Equity Shares of Autoline Industries Ltd from Warrant
   Conversion
 ---

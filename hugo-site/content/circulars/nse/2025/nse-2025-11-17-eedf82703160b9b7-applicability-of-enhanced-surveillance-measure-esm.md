@@ -31,13 +31,11 @@ stocks:
 - ANONDITA
 - SOMATEX
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
-- surveillance
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM) - November 2025
 ---
 

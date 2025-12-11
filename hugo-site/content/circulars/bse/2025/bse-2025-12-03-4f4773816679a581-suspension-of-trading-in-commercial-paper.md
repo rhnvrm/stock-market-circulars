@@ -29,10 +29,10 @@ stocks:
 - NUVAMA
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
 - maturity
 - nuvama-wealth
+- suspension
 title: Suspension of Trading in Commercial Paper - Nuvama Wealth and Investment Limited
 ---
 

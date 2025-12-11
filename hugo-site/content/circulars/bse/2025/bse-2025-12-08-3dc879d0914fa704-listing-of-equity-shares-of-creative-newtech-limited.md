@@ -26,10 +26,9 @@ source: bse
 stocks:
 - CNL
 tags:
-- listing
-- equity-shares
-- new-listing
 - creative-newtech
+- equity
+- listing
 title: Listing of Equity Shares of CREATIVE NEWTECH LIMITED
 ---
 

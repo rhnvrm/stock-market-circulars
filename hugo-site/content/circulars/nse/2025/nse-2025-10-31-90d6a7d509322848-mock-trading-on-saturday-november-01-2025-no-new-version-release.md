@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
+- collateral
+- disaster-recovery
 - mock-trading
 - slbm
-- securities-lending-borrowing
-- testing
-- disaster-recovery
-- neat
+- trading-platform
 title: Mock Trading on Saturday, November 01, 2025 - No New Version Release
 ---
 

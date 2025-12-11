@@ -25,11 +25,10 @@ source: bse
 stocks:
 - INFINITY
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- infinity-infoway
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document of Infinity Infoway Limited
 ---
 

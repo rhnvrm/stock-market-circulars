@@ -27,11 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- debentures
-- trading-suspension
 - maturity
-- corporate-actions
+- ncd
+- suspension
 title: Suspension of Trading in Debt Scrips - JM Financial ARC and Hiren Wahen Buildtech
   Debentures
 ---

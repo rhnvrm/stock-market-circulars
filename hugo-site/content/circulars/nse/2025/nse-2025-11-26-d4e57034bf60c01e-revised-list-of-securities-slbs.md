@@ -90,12 +90,11 @@ stocks:
 - CONCOR
 - COROMANDEL
 tags:
-- securities-lending
-- borrowing-scheme
-- slbs
+- collateral
+- derivative-segment
 - eligible-securities
 - market-operations
-- derivative-segment
+- slbs
 title: Revised List of Securities Eligible for Securities Lending and Borrowing Scheme
   (SLBS)
 ---

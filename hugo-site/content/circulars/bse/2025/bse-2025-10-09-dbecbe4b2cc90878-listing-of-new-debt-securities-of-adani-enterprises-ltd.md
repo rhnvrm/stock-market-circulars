@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ADANIENT
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- adani-enterprises
-- corporate-bonds
-- debentures
 title: Listing of New Debt Securities of Adani Enterprises Ltd
 ---
 

@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
+- algo-trading
 - empanelment
-- trading-solutions
+- market-infrastructure
 - vendor-onboarding
 title: Quartgen Solutions Private Limited Provisionally Empanelled as Algo Provider
 ---

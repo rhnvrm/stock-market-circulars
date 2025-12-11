@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NACL
 tags:
-- takeover
-- settlement
-- acquisition-window
-- demat-delivery
+- demat
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for NACL Industries Limited Takeover Offer
 ---
 

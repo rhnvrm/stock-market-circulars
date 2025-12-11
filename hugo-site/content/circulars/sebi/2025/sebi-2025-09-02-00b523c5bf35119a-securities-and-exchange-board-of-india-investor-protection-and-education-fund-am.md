@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- education-fund
 - delisting
-- regulatory-amendment
+- education-fund
 - fund-transfer
+- investor-protection
+- regulatory-amendment
 title: Securities and Exchange Board of India (Investor Protection and Education Fund)
   (Amendment) Regulations, 2025
 ---

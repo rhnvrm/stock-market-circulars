@@ -27,14 +27,14 @@ source: sebi
 stocks:
 - MANAKCOAT
 tags:
-- enforcement
-- recovery-certificate
 - compliance
+- demand-notice
+- enforcement
 - individual-action
 - manaksia-coated-metals
+- non-compliance
+- recovery
 - sebi-order
-- remittance-order
-- regulatory-violation
 title: SEBI Remittance Order for Recovery Certificate No. 8580 of 2025 Against Ramkumar
   Bholanath Yadav in Manaksia Coated Metals Matter
 ---

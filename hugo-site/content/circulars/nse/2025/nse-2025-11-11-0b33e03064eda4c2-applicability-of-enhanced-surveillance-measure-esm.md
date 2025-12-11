@@ -29,13 +29,11 @@ stocks:
 - MAXVOLT
 - KANDARP
 tags:
-- surveillance
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

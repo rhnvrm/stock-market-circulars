@@ -29,11 +29,11 @@ stocks:
 - BAJFINANCE
 - DABUR
 - GAIL
-- TATAMOTORS
+- TMCV
 - TATASTEEL
 - ULTRACEMCO
 tags:
-- demat-auction
+- demat
 - settlement
 - trading
 title: Demat Auction Settlement No. 692

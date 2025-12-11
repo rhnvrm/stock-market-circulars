@@ -30,12 +30,11 @@ stocks:
 - ARIGATO
 tags:
 - clarification
-- volume-movement
-- price-movement
-- surveillance
-- market-driven
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

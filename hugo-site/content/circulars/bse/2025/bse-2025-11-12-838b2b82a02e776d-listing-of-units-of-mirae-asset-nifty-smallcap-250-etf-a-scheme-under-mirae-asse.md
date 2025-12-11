@@ -27,13 +27,13 @@ source: bse
 stocks:
 - SMALL250
 tags:
+- demat
 - etf
-- mutual-fund
 - listing
-- mirae-asset
-- nifty-smallcap-250
 - market-maker
-- demat-only
+- mirae-asset
+- mutual-fund
+- nifty-smallcap-250
 title: Listing of Units Of Mirae Asset Nifty Smallcap 250 ETF a scheme under Mirae
   Asset Mutual Fund
 ---

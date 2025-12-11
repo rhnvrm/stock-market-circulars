@@ -27,12 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- settlement-calendar
-- debt-segment
-- market-operations
 - clearing
-- t+1-settlement
 - debt-auction
+- debt-securities
+- market-operations
+- settlement-calendar
+- t1-settlement
 title: Settlement Calendar for December 2025 - Debt Segment
 ---
 

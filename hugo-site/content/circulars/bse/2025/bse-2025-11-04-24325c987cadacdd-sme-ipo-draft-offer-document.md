@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MTESTRUCTURES
 tags:
-- sme
+- draft-document
 - ipo
-- draft-offer-document
 - public-comments
-- mte-structures
+- sme
 title: SME IPO - Draft Offer Document of MTE Structures Limited
 ---
 

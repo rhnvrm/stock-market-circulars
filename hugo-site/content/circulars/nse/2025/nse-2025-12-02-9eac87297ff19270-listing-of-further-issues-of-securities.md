@@ -32,16 +32,15 @@ stocks:
 - BLACKBUCK
 - EIDPARRY
 - HOMEFIRST
-- NIIT
+- NIITLTD
 - RADICO
 - MEDIASSIST
 tags:
-- listing
-- esop
-- equity-shares
-- further-issue
 - capital-market
-- stock-listing
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - Eight Companies Including Aditya
   Birla Lifestyle, Arvind Fashions, and BLACKBUCK
 ---

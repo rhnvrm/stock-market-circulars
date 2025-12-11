@@ -24,12 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- voluntary-closure
 - business-cessation
 - cash-segment
-- equity-derivatives
-- currency-derivatives
+- derivatives
+- surrender
+- trading-member
 title: Voluntary Closure of Business – GKN Securities
 ---
 

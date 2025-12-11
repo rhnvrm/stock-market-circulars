@@ -27,12 +27,11 @@ source: bse
 stocks:
 - REMI
 tags:
+- equity
 - listing
-- new-securities
-- equity-shares
-- preferential-allotment
 - lock-in
-- REMI
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Remi Edelstahl Tubulars Limited
 ---
 

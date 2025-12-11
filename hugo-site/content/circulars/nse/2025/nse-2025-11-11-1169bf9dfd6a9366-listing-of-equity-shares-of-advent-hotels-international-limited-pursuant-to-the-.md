@@ -28,13 +28,11 @@ source: nse
 stocks:
 - ADVENTHTL
 tags:
-- listing
-- scheme-of-arrangement
-- amalgamation
-- demerger
-- equity-shares
-- nclt-order
+- equity
 - hospitality
+- listing
+- nclt
+- scheme-of-arrangement
 - trade-for-trade
 title: Listing of Equity Shares of Advent Hotels International Limited pursuant to
   Scheme of Arrangement

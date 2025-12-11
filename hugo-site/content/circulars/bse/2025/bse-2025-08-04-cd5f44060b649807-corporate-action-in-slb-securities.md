@@ -48,11 +48,10 @@ stocks:
 - NETWEB
 - HYUNDAI
 tags:
-- dividend
 - corporate-action
-- slb-securities
+- dividend
 - record-date
-- ex-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Announcements for Multiple Companies
 ---
 

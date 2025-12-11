@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - SEYAIND
 tags:
-- recovery-certificate
-- demand-notice
-- enforcement-action
-- seya-industries
 - compliance
-- recovery-proceedings
+- demand-notice
+- enforcement
+- recovery
+- seya-industries
 title: Notice of Demand under Recovery Certificate No. 8861 of 2025 against Mr. Amrit
   Ashok Rajani - Seya Industries Limited
 ---

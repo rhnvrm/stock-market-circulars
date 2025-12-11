@@ -26,15 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544594'
+- TRADEUNO
 tags:
+- asm-stage
+- game-changers-texfab
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- m-group
-- mt-group
-- game-changers-texfab
 title: Change in Group of Equity Shares of GAME CHANGERS TEXFAB LIMITED
 ---
 

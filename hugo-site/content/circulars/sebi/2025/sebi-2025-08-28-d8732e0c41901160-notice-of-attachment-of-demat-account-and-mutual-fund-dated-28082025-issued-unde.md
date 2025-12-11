@@ -27,11 +27,11 @@ stocks:
 - PRAGYA
 tags:
 - attachment
-- demat-account
-- mutual-fund
-- recovery
+- demat
 - enforcement
+- mutual-fund
 - pragya-dairies
+- recovery
 title: Notice of Attachment of Demat Account and Mutual Fund - Pragya Dairies and
   Agro Limited
 ---

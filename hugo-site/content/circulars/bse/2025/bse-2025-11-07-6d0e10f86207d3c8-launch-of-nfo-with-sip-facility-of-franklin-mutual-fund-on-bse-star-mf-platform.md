@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
+- franklin-templeton
+- multi-factor-fund
 - mutual-fund
 - nfo
 - sip
-- franklin-templeton
-- bse-star-mf
-- equity-fund
-- multi-factor-fund
 title: Launch of NFO with SIP facility of FRANKLIN Mutual Fund on BSE StAR MF Platform
 ---
 

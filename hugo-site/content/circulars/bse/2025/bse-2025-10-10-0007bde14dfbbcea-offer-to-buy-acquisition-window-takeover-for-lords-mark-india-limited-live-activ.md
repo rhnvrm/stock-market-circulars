@@ -28,13 +28,9 @@ source: bse
 stocks:
 - LORDSMARK
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
-- lords-mark-india
 - equity
-- LORDSMARK
+- otb
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for LORDS MARK INDIA LIMITED -
   Live Activities Schedule
 ---

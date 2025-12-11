@@ -24,20 +24,19 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ABRAMFOOD
+- ABRFL
 - HITKITGLOBAL
 - NSDL
-- PIONEERINVESTCORP
+- PIONRINV
 - QUADRANTTELE
 - PANCHSHEELORG
 - RAJKOTINVEST
 - TANFAC
 tags:
-- surveillance
-- asm
-- trading
+- market-operations
 - risk-management
-- market-regulation
+- surveillance
+- trading
 title: Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

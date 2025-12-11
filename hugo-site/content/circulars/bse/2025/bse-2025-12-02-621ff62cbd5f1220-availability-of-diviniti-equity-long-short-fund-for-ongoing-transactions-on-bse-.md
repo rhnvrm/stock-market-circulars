@@ -27,16 +27,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
 - diviniti
+- equity
 - long-short-fund
-- bse-star-mf
+- mutual-fund
+- redemption
 - reopening
 - sip
-- swp
 - subscription
-- redemption
+- swp
 title: Availability of DIVINITI EQUITY LONG SHORT FUND for Ongoing Transactions on
   BSE StAR MF Platform
 ---

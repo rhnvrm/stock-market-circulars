@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SHREEJISPG
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - shipping
-- SHREEJISPG
 title: Listing of Equity Shares of Shreeji Shipping Global Limited
 ---
 

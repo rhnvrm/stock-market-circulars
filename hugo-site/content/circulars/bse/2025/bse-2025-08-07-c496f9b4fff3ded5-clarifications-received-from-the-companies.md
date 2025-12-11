@@ -28,11 +28,11 @@ stocks:
 - KIRLOSENG
 - AJMERA
 tags:
+- compliance
+- disclosure
+- market-operations
 - price-movement
 - surveillance
-- disclosure
-- compliance
-- market-conditions
 title: Clarifications received from companies regarding price movement
 ---
 

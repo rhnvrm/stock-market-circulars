@@ -29,11 +29,11 @@ stocks:
 - NSBSOL
 tags:
 - group-change
+- rolling-segment
 - segment-transfer
 - sme
-- trading-segment
-- rolling-settlement
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of NSB BPO SOLUTIONS LIMITED
 ---
 

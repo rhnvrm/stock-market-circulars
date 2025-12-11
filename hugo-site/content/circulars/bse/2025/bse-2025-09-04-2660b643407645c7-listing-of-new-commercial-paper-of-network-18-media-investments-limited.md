@@ -26,10 +26,10 @@ stocks:
 - NWIT
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- network18
+- debt-securities
 - icici-bank
+- network18
+- private-placement
 title: Listing of new Commercial Paper of Network 18 Media & Investments Limited
 ---
 

@@ -26,11 +26,8 @@ source: bse
 stocks:
 - MAXGROW
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
+- surveillance
 - trading
 title: Surveillance Measure for Securities under IBC
 ---

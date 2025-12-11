@@ -26,12 +26,10 @@ source: bse
 stocks:
 - SWASTIKA
 tags:
-- trading-segment
+- asm-stage
 - group-change
 - sme
-- swastika-castal
-- mt-group
-- m-group
+- trading
 title: Change in Group of Equity Shares of Swastika Castal Ltd
 ---
 

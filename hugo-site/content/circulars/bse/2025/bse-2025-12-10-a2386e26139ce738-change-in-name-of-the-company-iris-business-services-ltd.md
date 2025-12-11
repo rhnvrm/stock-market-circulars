@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IRIS
 tags:
-- name-change
+- certificate
 - corporate-action
 - iris-business-services
 - iris-regtech-solutions
-- certificate-of-incorporation
+- name-change
 title: Change in Name of IRIS Business Services Limited to IRIS RegTech Solutions
   Limited
 ---

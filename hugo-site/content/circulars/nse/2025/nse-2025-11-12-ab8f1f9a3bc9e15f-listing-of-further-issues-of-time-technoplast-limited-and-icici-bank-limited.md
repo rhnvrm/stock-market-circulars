@@ -29,12 +29,12 @@ stocks:
 - TIMETECHNO
 - ICICIBANK
 tags:
-- listing
-- further-issue
-- qip
-- equity-shares
 - abeyance
 - capital-market
+- equity
+- further-issue
+- listing
+- qip
 title: Listing of further issues of Time Technoplast Limited and ICICI Bank Limited
 ---
 

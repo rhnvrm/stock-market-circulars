@@ -27,13 +27,12 @@ source: bse
 stocks:
 - KKSILK
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- sme
-- mt-group
-- m-group
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of K K SILK MILLS LIMITED
 ---
 

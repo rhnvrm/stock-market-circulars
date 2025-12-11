@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- settlement-calendar
-- mfss
-- subscription
-- redemption
 - clearing
 - december-2025
+- mfss
+- mutual-fund
+- redemption
+- settlement-calendar
+- subscription
 title: Settlement Calendar for December 2025
 ---
 

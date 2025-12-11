@@ -28,14 +28,12 @@ source: bse
 stocks:
 - DARCREDIT
 tags:
-- debentures
+- corporate-action
+- debt-securities
 - ncd
-- suspension
-- early-redemption
 - record-date
-- dar-credit-capital
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DAR CREDIT & CAPITAL LIMITED
 ---
 

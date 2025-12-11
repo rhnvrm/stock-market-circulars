@@ -28,13 +28,12 @@ source: nse
 stocks:
 - UPL
 tags:
-- listing
-- further-issue
-- equity-shares
 - conversion
-- partly-paid-up
+- equity
 - fully-paid-up
-- UPL
+- further-issue
+- listing
+- partly-paid-up
 title: Listing of Further Issue of UPL Limited - Conversion of Partly Paid-up Shares
 ---
 

@@ -26,13 +26,12 @@ source: bse
 stocks:
 - ATSTL
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- interest-payment
-- debt-market
-- record-date
 - adani-transmission
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Adani Transmission Step-Two Limited
 ---
 

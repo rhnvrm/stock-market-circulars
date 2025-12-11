@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-directions
-- debarment
-- trading-accounts
-- investment-adviser
 - compliance
+- debarment
+- investment-adviser
+- sebi-order
+- trading-accounts
 title: SEBI Lifts Debarment on Cypress Money Investment Adviser and Associates - Trading
   Accounts to be Defrozen
 ---

@@ -25,14 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
-- new-fund-offer
-- groww-mutual-fund
-- nifty-smallcap-250
 - equity
+- etf
+- groww-mutual-fund
 - investment
+- mutual-fund
+- nfo
+- nifty-smallcap-250
 title: Launch of Groww Nifty Smallcap 250 ETF NFO on NSE MF Invest Platform
 ---
 

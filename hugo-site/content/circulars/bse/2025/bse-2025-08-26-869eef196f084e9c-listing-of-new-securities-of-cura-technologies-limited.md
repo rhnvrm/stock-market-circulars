@@ -26,12 +26,12 @@ source: bse
 stocks:
 - CURA
 tags:
-- new-listing
-- equity-shares
-- merger
-- resolution-plan
+- equity
+- listing
 - nclt
-- preferential-allotment
+- preferential-issue
+- resolution-plan
+- scheme-of-arrangement
 title: Listing of New Securities of Cura Technologies Limited
 ---
 

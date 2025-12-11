@@ -27,13 +27,9 @@ source: bse
 stocks:
 - CHEMMANUR
 tags:
-- ncd
-- debentures
-- listing
 - debt-securities
-- chemmanur-credits
-- secured-debentures
-- non-convertible-debentures
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Chemmanur Credits
   and Investments Limited
 ---

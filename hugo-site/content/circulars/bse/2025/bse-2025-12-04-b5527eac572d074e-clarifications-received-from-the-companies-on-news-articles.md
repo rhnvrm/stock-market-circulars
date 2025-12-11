@@ -27,13 +27,12 @@ source: bse
 stocks:
 - INDIGO
 tags:
-- clarification
-- news-article
-- flight-cancellations
-- dgca
-- operational-disruption
 - aviation
-- indigo
+- clarification
+- dgca
+- flight-cancellations
+- news-article
+- operational-disruption
 - regulation-30
 title: InterGlobe Aviation (IndiGo) Clarification on Flight Cancellations and DGCA
   Inquiry

@@ -28,16 +28,14 @@ stocks:
 - ESAF
 - JAGSONPAL
 - NIITLTD
-- PDS
+- PDSL
 - RBA
 - TECHM
 - VIJAYA
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Securities Under ESOP/ESOS - Multiple Companies
 ---
 

@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-suspension
-- silver-etf
 - axis-mutual-fund
-- fund-of-fund
-- pricing-distortion
+- fund-of-funds
 - investor-protection
+- mutual-fund
+- pricing-distortion
+- silver
+- suspension
 title: Temporary Suspension of Subscription in Axis Silver Fund of Fund
 ---
 

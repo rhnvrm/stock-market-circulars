@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- annapurna-finance
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- annapurna-finance
 title: Listing of New Debt Securities of Annapurna Finance Private Limited
 ---
 

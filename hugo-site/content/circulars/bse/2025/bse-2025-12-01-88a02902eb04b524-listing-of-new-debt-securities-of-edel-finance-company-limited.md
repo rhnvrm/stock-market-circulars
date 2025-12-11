@@ -26,12 +26,11 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
+- bond
 - debt-securities
+- edel-finance
 - listing
 - private-placement
-- edel-finance
-- bonds
-- new-listing
 title: Listing of New Debt Securities of Edel Finance Company Limited
 ---
 

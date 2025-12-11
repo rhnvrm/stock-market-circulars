@@ -27,11 +27,11 @@ stocks:
 - PECOS
 - YASHCHEM
 tags:
-- price-movement
-- clarifications
+- clarification
 - compliance
-- surveillance
 - disclosure
+- price-movement
+- surveillance
 title: Clarifications received from companies - Pecos Hotels and Yash Chemex price
   movement explanations
 ---

@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- franklin-templeton
+- installment-requirements
+- investment-amount
 - mutual-fund
 - sip
+- trading-platform
 - xsip
-- investment-amount
-- franklin-templeton
-- nse-mf-invest
-- installment-requirements
 title: Change in SIP/XSIP investment amount range and requirement of minimum installment
   numbers under Franklin Templeton Mutual Fund on NSE MF Invest Platform
 ---

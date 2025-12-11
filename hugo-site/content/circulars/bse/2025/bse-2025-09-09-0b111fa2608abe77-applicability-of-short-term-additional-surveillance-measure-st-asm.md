@@ -29,7 +29,7 @@ stocks:
 - BARTRONICS
 - DPWIRES
 - FRONTIER
-- KARANWOOSIN
+- KARANWO
 - KAVVERI
 - KIOCL
 - PROMACT
@@ -46,11 +46,10 @@ stocks:
 - OVOBEL
 - ROYALORCHID
 tags:
-- surveillance
-- additional-surveillance-measure
-- st-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -28,11 +28,11 @@ source: bse
 stocks:
 - MODIS
 tags:
-- sme-migration
+- equity
 - mainboard-listing
-- shareholding-pattern
 - modis-navnirman
-- equity-shares
+- shareholding-pattern
+- sme-migration
 title: Migration of Equity Shares of Modis Navnirman Limited from BSE SME Platform
   to BSE Mainboard Platform
 ---

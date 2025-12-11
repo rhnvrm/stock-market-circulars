@@ -27,12 +27,12 @@ source: bse
 stocks:
 - CAPRIHANS
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoter
-- warrant-conversion
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of Securities - Caprihans India Ltd
 ---
 

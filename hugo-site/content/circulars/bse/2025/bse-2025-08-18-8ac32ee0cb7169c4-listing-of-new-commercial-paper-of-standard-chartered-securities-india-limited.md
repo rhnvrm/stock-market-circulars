@@ -26,10 +26,10 @@ stocks:
 - SCSIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- icra-rating
 - private-placement
 - standard-chartered
-- icra-rating
 title: Listing of new Commercial Paper of Standard Chartered Securities (India) Limited
 ---
 

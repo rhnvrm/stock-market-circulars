@@ -27,10 +27,10 @@ stocks:
 - SCSIL
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
-- standard-chartered
 - maturity
+- standard-chartered
+- suspension
 title: Suspension of Trading in Commercial Paper of Standard Chartered Securities
 ---
 

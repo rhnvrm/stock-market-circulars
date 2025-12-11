@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat
 - julius-baer
 - private-placement
-- dematerialised-trading
 title: Listing of new Commercial Paper of Julius Baer Capital (India) Private Limited
 ---
 

@@ -26,15 +26,15 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML70733.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- suspension
-- non-convertible-debentures
-- tata-motors
-- nclt-order
-- scheme-of-amalgamation
-- debt-market
+- debt-securities
+- ncd
+- nclt
 - privately-placed
+- scheme-of-amalgamation
+- suspension
+- tata-motors
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed) - Tata
   Motors Limited pursuant to Scheme of Amalgamation
 ---

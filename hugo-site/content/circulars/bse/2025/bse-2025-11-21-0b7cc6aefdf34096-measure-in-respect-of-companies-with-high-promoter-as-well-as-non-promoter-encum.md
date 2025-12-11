@@ -33,11 +33,11 @@ stocks:
 - NRAGRWAL
 - SUDAL
 tags:
-- surveillance
 - encumbrance
-- promoter-holdings
-- sast-regulation
-- trading-measures
+- sast
+- shareholding-pattern
+- surveillance
+- trading-operations
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

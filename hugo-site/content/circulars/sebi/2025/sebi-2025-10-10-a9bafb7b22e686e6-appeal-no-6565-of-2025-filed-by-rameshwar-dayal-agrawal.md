@@ -26,13 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
 - depository
-- nsdl
-- stock-broker
+- disclosure
 - investor-rights
-- disclosure-requirements
 - record-keeping
+- rti
+- stock-broker
 title: Appeal No. 6565 of 2025 filed by Rameshwar Dayal Agrawal
 ---
 

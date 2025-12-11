@@ -30,10 +30,8 @@ stocks:
 - MEHTA
 - WELTERMAN
 tags:
-- gsm
+- asm-stage
 - surveillance
-- graded-surveillance-measure
-- stage-movement
 - trading-restrictions
 title: GSM Securities Movement - 4 Companies Moving to Higher Surveillance Stages
 ---

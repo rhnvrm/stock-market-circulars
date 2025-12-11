@@ -26,12 +26,11 @@ source: bse
 stocks:
 - HEALTHCAREGLOBAL
 tags:
-- takeover
-- settlement
-- healthcare-global
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for Healthcare Global Enterprises Limited Takeover
   Offer
 ---

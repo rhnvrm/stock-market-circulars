@@ -34,13 +34,12 @@ stocks:
 - DHARMAJ
 - DHRUV
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
-- trade-for-trade
-- surveillance-measures
+- asm-stage
+- margin
 - price-band
-- periodic-call-auction
+- surveillance
+- trade-for-trade
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Between Stages
 ---
 

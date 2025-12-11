@@ -26,11 +26,9 @@ source: bse
 stocks:
 - MAHALIFE
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- mahalife
 title: Listing of Equity Shares of MAHAMAYA LIFESCIENCES LIMITED
 ---
 

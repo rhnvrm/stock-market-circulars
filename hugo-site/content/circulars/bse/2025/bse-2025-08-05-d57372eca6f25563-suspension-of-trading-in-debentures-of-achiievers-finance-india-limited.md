@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AFIL
 tags:
-- trading-suspension
-- debentures
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ACHIIEVERS FINANCE INDIA LIMITED
 ---
 

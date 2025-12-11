@@ -36,12 +36,9 @@ stocks:
 - INFOBEANS
 - A-1LTD
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
-- market-surveillance
 - trading-restrictions
-- additional-surveillance-measure
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

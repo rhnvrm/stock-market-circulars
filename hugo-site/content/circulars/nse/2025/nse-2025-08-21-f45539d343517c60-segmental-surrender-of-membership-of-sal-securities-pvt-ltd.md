@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- membership-surrender
-- currency-derivatives
-- trading-member
 - compliance
+- derivatives
+- membership-surrender
+- trading-member
 title: Segmental Surrender of Membership of Sal Securities Pvt Ltd
 ---
 

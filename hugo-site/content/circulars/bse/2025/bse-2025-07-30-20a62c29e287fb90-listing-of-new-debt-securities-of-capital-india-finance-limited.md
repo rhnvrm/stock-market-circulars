@@ -25,10 +25,10 @@ source: bse
 stocks:
 - CAPITALFIN
 tags:
+- capital-india-finance
 - debt-securities
 - listing
 - private-placement
-- capital-india-finance
 title: Listing of New Debt Securities of Capital India Finance Limited
 ---
 

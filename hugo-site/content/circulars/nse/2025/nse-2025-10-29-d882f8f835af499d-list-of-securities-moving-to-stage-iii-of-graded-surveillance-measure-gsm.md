@@ -28,13 +28,12 @@ source: nse
 stocks:
 - GLFL
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-iii
-- trade-for-trade
 - additional-surveillance-deposit
 - asd
 - price-band
+- stage-iii
+- surveillance
+- trade-for-trade
 - trading-restrictions
 title: List of Securities Moving to Stage III of Graded Surveillance Measure (GSM)
 ---

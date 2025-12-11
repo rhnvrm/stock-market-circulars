@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - KAVITIND
 tags:
-- recovery-certificate
 - compliance-order
-- release-order
-- trading-activities
 - enforcement
-- kavit-industries
+- recovery
+- release
+- trading-activities
 title: SEBI Compliance Release Order for Recovery Certificate No. 8714 of 2025 Against
   Natvarbhai Vegda
 ---

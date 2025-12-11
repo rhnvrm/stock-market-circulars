@@ -28,16 +28,14 @@ source: bse
 stocks:
 - KIRANSYN
 - EUROTEXIND
-- PHAARMASIA
+- PHRMASI
 - PRIMAIND
 - SYSTEMATIX
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
+- market-operations
 - surveillance
-- market-regulation
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Updates to Securities List Effective
   December 10, 2025
 ---

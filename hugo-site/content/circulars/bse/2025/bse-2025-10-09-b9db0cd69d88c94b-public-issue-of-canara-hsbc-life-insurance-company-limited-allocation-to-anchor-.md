@@ -28,12 +28,12 @@ source: bse
 stocks:
 - CANARAHSBC
 tags:
-- ipo
-- anchor-investors
+- allotment
+- anchor-investor
 - insurance
+- ipo
 - listing
 - public-issue
-- allocation
 title: Public Issue of Canara HSBC Life Insurance Company Limited - Allocation to
   Anchor Investors
 ---

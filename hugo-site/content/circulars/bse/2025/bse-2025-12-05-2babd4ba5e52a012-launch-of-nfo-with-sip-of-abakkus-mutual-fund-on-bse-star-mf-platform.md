@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- abakkus
+- flexi-cap
 - mutual-fund
 - nfo
 - sip
-- abakkus
-- flexi-cap
-- bse-star-mf
 title: Launch of NFO with SIP of ABAKKUS Mutual Fund on BSE StAR MF Platform
 ---
 

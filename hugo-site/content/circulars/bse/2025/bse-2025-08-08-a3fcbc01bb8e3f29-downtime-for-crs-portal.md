@@ -25,9 +25,9 @@ source: bse
 stocks: []
 tags:
 - crs-portal
-- maintenance
 - downtime
-- bse-starmf
+- maintenance
+- trading-platform
 title: BSE CRS Portal Maintenance Downtime - August 9, 2025
 ---
 

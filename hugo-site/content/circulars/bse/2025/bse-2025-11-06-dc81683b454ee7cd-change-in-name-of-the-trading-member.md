@@ -26,10 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- trading-member
-- name-change
-- membership
 - administrative
+- membership
+- name-change
+- trading-member
 title: Change in Name of the Trading Member - Lakshmishree Investment & Securities
   Pvt. Ltd.
 ---

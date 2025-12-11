@@ -26,11 +26,10 @@ source: bse
 stocks:
 - STARLINEPS
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- starlineps-enterprises
+- rights-issue
 title: Listing of New Securities of STARLINEPS ENTERPRISES LIMITED
 ---
 

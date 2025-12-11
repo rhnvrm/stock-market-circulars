@@ -27,9 +27,8 @@ stocks:
 - SIKKAPORTS
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- sikka-ports
 - short-term-debt
 title: Listing of new Commercial Paper of SIKKA PORTS & TERMINALS LTD
 ---

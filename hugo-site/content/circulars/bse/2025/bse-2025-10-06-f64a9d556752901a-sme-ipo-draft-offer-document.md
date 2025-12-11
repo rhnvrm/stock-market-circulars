@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SHREEBALA
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- shree-balaji-mala-textiles
+- sme
 title: SME IPO - Draft Offer Document of Shree Balaji (Mala) Textiles Limited
 ---
 

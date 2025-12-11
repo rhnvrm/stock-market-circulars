@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- sk-finance
-- non-convertible-debentures
 title: Listing of new debt securities of SK Finance Limited
 ---
 

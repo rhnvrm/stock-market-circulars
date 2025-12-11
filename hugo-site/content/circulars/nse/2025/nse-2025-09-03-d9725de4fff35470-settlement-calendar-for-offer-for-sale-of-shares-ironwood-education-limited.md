@@ -26,11 +26,10 @@ source: nse
 stocks:
 - IRONWOOD
 tags:
+- capital-market
+- clearing
 - ofs
 - settlement
-- ironwood-education
-- clearing
-- capital-market
 title: Settlement Calendar for Offer for Sale of shares Ironwood Education Limited
 ---
 

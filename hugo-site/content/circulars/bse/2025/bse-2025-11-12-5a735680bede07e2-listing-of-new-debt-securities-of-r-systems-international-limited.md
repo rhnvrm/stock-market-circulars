@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RSIL
 tags:
-- debt-listing
+- debt-securities
+- ncd
 - private-placement
-- debentures
 - r-systems
-- rsil
 title: Listing of new debt securities of R Systems International Limited
 ---
 

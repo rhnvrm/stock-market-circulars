@@ -24,12 +24,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sebi-directions
+- compliance
 - enforcement
 - media-recommendations
-- compliance
 - rajiv-kapoor
 - sanjiv-bhasin
+- sebi-order
 title: SEBI Partial Relief for Rajiv Kapoor in Sanjiv Bhasin Media Recommendations
   Matter
 ---

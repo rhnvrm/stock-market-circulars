@@ -24,11 +24,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery
-- release-order
-- enforcement
-- recovery-certificate
 - compliance
+- enforcement
+- recovery
+- release
 title: Release Order of Achin Kumar Roy - Certificate No. 7899 of 2024
 ---
 

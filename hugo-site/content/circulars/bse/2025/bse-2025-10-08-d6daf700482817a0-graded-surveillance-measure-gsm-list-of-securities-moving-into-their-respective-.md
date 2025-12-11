@@ -33,12 +33,11 @@ stocks:
 - PRATIKPAN
 - SYBLY
 tags:
-- gsm
+- asm-stage
+- market-operations
+- stage-2
 - surveillance
 - trading-restrictions
-- market-safety
-- stage-1
-- stage-2
 title: Graded Surveillance Measure (GSM) - Securities Moving to Stage I and Stage
   II
 ---

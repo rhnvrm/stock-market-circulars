@@ -24,15 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDOSOLAR
+- WAAREEINDO-BE
 - UJAAS
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- stage-classification
+- surveillance
 title: BSE Surveillance Measure for Securities under Insolvency and Bankruptcy Code
   (IBC)
 ---

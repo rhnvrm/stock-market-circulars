@@ -26,10 +26,10 @@ stocks:
 - INDIQUBE
 - GNG
 tags:
-- index-addition
+- equity
+- index-change
 - ipo-index
 - newly-listed
-- equity
 title: Additions to the BSE IPO Index - INDIQUBE SPACES LIMITED and GNG ELECTRONICS
   LIMITED
 ---

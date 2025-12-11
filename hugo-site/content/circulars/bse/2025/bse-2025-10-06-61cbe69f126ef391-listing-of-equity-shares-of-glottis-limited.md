@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GLOTTIS
 tags:
-- listing
-- ipo
-- lock-in
-- equity-shares
+- equity
 - glottis-limited
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Glottis Limited
 ---
 

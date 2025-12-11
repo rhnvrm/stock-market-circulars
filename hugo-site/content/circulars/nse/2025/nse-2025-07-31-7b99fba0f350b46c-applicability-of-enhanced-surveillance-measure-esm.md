@@ -27,12 +27,9 @@ stocks:
 - CHANDAN
 - OMAXAUTO
 tags:
-- enhanced-surveillance
-- margin-requirements
+- margin
+- surveillance
 - trade-for-trade
-- market-surveillance
-- CHANDAN
-- OMAXAUTO
 title: Enhanced Surveillance Measure (ESM) Updates - Securities Added and Margin Requirements
 ---
 

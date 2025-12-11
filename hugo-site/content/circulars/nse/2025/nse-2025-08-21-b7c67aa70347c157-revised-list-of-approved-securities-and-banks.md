@@ -65,11 +65,11 @@ stocks:
 - SBIN
 - SHRIRAMFIN
 tags:
-- margin-requirements
-- approved-securities
-- liquid-assets
-- var-haircut
-- equity-shares
+- empanelment
+- equity
+- liquid-fund
+- margin
+- volatility-control
 title: Revised List of Approved Securities and Banks for Margin Purposes
 ---
 

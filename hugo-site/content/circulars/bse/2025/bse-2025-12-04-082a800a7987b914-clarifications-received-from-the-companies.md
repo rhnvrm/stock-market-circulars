@@ -30,12 +30,11 @@ stocks:
 - BBTC
 - CIFL
 tags:
-- volume-movement
-- surveillance
 - clarification
 - disclosure
+- price-movement
 - regulation-30
-- price-sensitive-information
+- surveillance
 title: Clarifications received from the companies on volume movement
 ---
 

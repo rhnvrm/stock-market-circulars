@@ -41,11 +41,11 @@ stocks:
 - SANSERA
 - SYRMA
 tags:
-- corporate-actions
+- corporate-action
 - dividend
-- stock-split
-- record-dates
 - ex-dates
+- record-date
+- split
 title: Corporate Action Schedule for Multiple Securities - September 2025
 ---
 

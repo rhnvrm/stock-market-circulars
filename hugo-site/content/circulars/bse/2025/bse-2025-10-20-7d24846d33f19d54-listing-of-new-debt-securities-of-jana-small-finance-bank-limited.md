@@ -28,10 +28,10 @@ stocks:
 - JANABANK
 tags:
 - debt-securities
-- listing
-- private-placement
 - jana-small-finance-bank
-- non-convertible-debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Jana Small Finance Bank Limited
 ---
 

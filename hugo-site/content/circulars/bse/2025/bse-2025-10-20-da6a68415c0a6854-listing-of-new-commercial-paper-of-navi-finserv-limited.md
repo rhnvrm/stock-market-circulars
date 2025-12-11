@@ -28,10 +28,9 @@ stocks:
 - NAVINFIN
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - navi-finserv
-- NAVINFIN
+- private-placement
 title: Listing of New Commercial Paper of Navi Finserv Limited
 ---
 

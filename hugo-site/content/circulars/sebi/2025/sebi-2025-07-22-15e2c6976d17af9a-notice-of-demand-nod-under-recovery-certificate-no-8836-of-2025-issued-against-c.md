@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- notice-of-demand
-- recovery-certificate
+- demand-notice
+- enforcement
+- non-compliance
+- recovery
 - unregistered-investment-advisor
-- enforcement-action
-- compliance-violation
 title: Notice of Demand (NoD) under Recovery Certificate No. 8836 of 2025 issued against
   Chetan Yashwant Shukla
 ---

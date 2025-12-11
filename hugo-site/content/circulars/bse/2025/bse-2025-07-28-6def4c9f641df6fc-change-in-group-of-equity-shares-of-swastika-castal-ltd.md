@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544452'
+- SWASTIKAAL
 tags:
-- trading-segment
 - group-change
-- swastika-castal
-- sme
 - rolling-segment
+- sme
+- swastika-castal
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of Swastika Castal Ltd
 ---
 

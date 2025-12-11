@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PIRAMAL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
-- piramal-finance
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- piramal-finance
+- redemption
 title: Part Redemption of Debentures of Piramal Finance Limited
 ---
 

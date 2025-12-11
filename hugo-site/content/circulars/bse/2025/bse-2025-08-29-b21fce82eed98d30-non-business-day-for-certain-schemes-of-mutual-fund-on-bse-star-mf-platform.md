@@ -25,21 +25,21 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- star-mf-platform
-- september-2025
-- fund-operations
 - axis
-- franklin
-- kotak
-- edelweiss
-- icici
-- nippon
 - bandhan
 - dsp
+- edelweiss
+- franklin
+- fund-operations
+- holiday
+- icici
 - invesco
+- kotak
+- mutual-fund
+- nippon
+- september-2025
 - tata
+- trading-platform
 title: Non-Business Day for Certain Schemes of Mutual Fund on BSE StAR MF Platform
   - September 2025
 ---

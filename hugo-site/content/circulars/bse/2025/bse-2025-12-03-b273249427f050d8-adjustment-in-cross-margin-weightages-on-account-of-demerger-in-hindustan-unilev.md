@@ -29,12 +29,12 @@ stocks:
 - HINDUNILVR
 tags:
 - cross-margin
-- weightages
-- demerger
-- hindustan-unilever
 - derivatives
+- hindustan-unilever
 - index-constituents
 - risk-management
+- scheme-of-arrangement
+- weightages
 title: Adjustment in Cross Margin Weightages Due to Hindustan Unilever Demerger
 ---
 

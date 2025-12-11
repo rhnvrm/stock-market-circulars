@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
+- equity
 - group-change
 - trading-group
-- piramal-finance
-- equity-shares
 title: Change in Group of Equity Shares of Piramal Finance Limited
 ---
 

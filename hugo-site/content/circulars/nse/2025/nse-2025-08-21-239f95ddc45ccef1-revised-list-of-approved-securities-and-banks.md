@@ -26,12 +26,12 @@ source: nse
 stocks: []
 tags:
 - collateral
-- sovereign-gold-bonds
-- g-sec
-- t-bills
-- liquid-assets
+- debt-securities
+- gold
+- gsec
 - haircuts
-- debt-market
+- liquid-fund
+- treasury-bills
 title: Revised List of Approved Securities and Banks for Collateral
 ---
 

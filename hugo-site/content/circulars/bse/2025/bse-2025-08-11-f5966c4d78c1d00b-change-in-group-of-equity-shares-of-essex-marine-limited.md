@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544475'
+- ESSEX
 tags:
-- group-change
-- trading-segment
+- asm-stage
 - essex-marine
-- mt-group
-- m-group
+- group-change
 - rolling-segment
+- trading
 title: Change in Group of Equity Shares of ESSEX MARINE LIMITED
 ---
 

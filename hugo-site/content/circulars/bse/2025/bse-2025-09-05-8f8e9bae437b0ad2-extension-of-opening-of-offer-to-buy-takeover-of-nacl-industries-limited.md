@@ -28,11 +28,10 @@ source: bse
 stocks:
 - NACLIND
 tags:
-- takeover
-- open-offer
-- acquisition-window
-- schedule-revision
 - nacl-industries
+- otb
+- schedule-revision
+- takeover
 title: Extension of Opening of Offer to Buy (Takeover) of NACL INDUSTRIES LIMITED
 ---
 

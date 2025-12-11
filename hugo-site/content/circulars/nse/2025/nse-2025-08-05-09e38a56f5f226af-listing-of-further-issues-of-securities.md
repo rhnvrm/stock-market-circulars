@@ -30,10 +30,10 @@ stocks:
 - LT
 - NYKAA
 tags:
-- listing
-- equity-shares
+- equity
 - esop
-- further-issues
+- further-issue
+- listing
 - securities
 title: Listing of Further Issues of Securities - August 2025
 ---

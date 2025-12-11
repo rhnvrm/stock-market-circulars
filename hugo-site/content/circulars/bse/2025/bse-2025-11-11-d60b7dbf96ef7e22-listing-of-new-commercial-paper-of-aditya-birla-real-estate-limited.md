@@ -26,11 +26,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - aditya-birla-real-estate
-- debt-segment
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Aditya Birla Real Estate Limited
 ---
 

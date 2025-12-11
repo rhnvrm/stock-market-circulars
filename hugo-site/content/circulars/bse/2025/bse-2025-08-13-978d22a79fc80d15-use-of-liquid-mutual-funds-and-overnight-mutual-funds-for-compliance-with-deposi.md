@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
+- compliance
 - deposit-requirement
+- iaasb
+- investment-adviser
 - liquid-mutual-funds
 - overnight-mutual-funds
-- regulatory-compliance
-- IAASB
-- RAASB
+- raasb
+- research-analyst
 title: Use of liquid mutual funds and overnight mutual funds for compliance with deposit
   requirement by Investment Advisers and Research Analysts
 ---

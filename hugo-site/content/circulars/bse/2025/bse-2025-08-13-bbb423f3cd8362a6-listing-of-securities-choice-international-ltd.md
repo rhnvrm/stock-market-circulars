@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CHOICEIN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of New Securities - Choice International Ltd (6 Million Equity Shares)
 ---
 

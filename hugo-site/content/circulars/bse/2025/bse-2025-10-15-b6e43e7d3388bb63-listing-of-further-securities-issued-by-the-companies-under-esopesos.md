@@ -40,11 +40,9 @@ stocks:
 - TRACXN
 - UNICOMMERCE
 tags:
-- listing
-- esop
-- esos
-- employee-stock-options
 - equity
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS - 12 Companies
 ---

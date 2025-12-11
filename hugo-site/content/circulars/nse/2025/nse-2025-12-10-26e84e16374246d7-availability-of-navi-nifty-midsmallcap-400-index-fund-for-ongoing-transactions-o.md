@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nse-mf-invest
-- subscriptions
-- redemptions
+- equity
+- index-fund
+- mutual-fund
+- navi-mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- navi-mutual-fund
-- index-fund
-- equity
+- trading-platform
 title: Availability of Navi Nifty Midsmallcap 400 Index Fund for Ongoing Transactions
   on NSE MF Invest Platform
 ---

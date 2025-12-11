@@ -24,7 +24,7 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML69671.zip
 severity: medium
 source: nse
 stocks:
-- REC
+- RECLTD
 - TCHF
 - HDBK
 - IRFC
@@ -33,11 +33,11 @@ stocks:
 - LICH
 - PFC
 tags:
-- debt-segment
-- corporate-bonds
+- bond
+- bond-eligibility
+- debt-securities
 - dvp-3-settlement
 - institutional-platform
-- bond-eligibility
 title: Revised List of Privately Issued Corporate Bonds Made Eligible Under DVP-3
   Settlement on Institutional Platform
 ---

@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-order
-- research-analyst
-- compliance-violation
-- record-maintenance
-- audit-requirements
-- code-of-conduct
 - adjudication
+- code-of-conduct
+- non-compliance
+- record-maintenance
+- research-analyst
+- sebi-order
+- system-audit
 title: SEBI order in respect of Research Analyst - AMIT GURUH SACHDEVA - Registration
   No. INH100005190
 ---

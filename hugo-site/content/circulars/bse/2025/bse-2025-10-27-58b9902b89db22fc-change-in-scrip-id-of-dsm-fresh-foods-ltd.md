@@ -26,10 +26,10 @@ source: bse
 stocks:
 - DSM
 tags:
-- scrip-id-change
 - corporate-action
-- trading-symbol
 - dsm-fresh-foods
+- scrip-id-change
+- trading-symbol
 - zappfresh
 title: Change in Scrip ID of DSM Fresh Foods Ltd
 ---

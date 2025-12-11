@@ -33,14 +33,14 @@ stocks:
 - RESONANCE
 - ARYAMAN
 - ASIAN
-- BAJAJGLOBAL
+- BAJGLOB
 - BAJAJSTEEL
 tags:
+- adroit-corporate
+- august-2025
 - registrar-transfer-agent
 - rta
 - visit-schedule
-- august-2025
-- adroit-corporate
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for August 2025
 ---
 

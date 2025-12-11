@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- trading
 - dsp-mutual-fund
 - index-fund
-- bse-star-mf
+- mutual-fund
 - sip
 - stp
 - swp
+- trading
 title: DSP NIFTY500 FLEXICAP QUALITY 30 INDEX FUND Reopening for Transactions on BSE
   StAR MF Platform
 ---

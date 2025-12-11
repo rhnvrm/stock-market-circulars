@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BFL
 tags:
-- trading-suspension
-- debentures
-- maturity
-- corporate-actions
+- corporate-action
 - debt-securities
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in Debentures - BFL-7.38%-8-8-25-PVT Maturity
 ---
 

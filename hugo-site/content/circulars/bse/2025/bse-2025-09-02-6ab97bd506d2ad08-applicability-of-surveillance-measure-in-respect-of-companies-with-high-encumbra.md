@@ -35,17 +35,9 @@ stocks:
 - MARRTH
 - RATTANPOWER
 tags:
-- surveillance
 - encumbrance
-- sebi-sast
-- AAVAS
-- INDOTCH
-- STEELXCHNG
-- GENUSPOWER
-- MSPSTEEL
-- NRBBEARING
-- NUVAMA
-- SHAREINDIA
+- sast
+- surveillance
 title: Surveillance Measures for Companies with High Encumbrance under SEBI SAST Regulations
 ---
 

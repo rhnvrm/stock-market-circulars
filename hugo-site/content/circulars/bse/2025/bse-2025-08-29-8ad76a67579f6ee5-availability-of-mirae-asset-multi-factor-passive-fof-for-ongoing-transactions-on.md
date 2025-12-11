@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - fund-of-funds
-- passive-investing
-- multi-factor
 - mirae-asset
-- nfo-reopening
-- bse-star-mf
+- multi-factor
+- mutual-fund
+- nfo
+- passive-investing
 title: MIRAE ASSET MULTI FACTOR PASSIVE FOF Reopens for Ongoing Transactions on BSE
   StAR MF Platform
 ---

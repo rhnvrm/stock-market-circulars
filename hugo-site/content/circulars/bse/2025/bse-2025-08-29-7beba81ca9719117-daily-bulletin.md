@@ -35,13 +35,13 @@ stocks:
 - CSLFINANCE
 - DHANALAXMI
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- corporate-actions
 - commercial-paper
+- corporate-action
+- daily-bulletin
 - debt-securities
+- dividend
+- record-date
 title: Daily Bulletin - Book Closure and Record Dates for Corporate Actions
 ---
 

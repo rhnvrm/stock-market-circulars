@@ -48,11 +48,10 @@ stocks:
 - WHITEORGANIC
 - YUNIK
 tags:
-- surveillance
-- asm
 - long-term
-- trading-restrictions
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

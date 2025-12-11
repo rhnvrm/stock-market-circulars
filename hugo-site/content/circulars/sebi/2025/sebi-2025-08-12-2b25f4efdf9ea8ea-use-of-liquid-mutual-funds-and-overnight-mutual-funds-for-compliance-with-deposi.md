@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- investment-advisers
-- research-analysts
-- deposit-requirement
-- mutual-funds
 - compliance
+- deposit-requirement
+- investment-adviser
+- mutual-fund
 - regulatory-flexibility
+- research-analyst
 title: Use of liquid mutual funds and overnight mutual funds for compliance with deposit
   requirement by Investment Advisers and Research Analysts
 ---

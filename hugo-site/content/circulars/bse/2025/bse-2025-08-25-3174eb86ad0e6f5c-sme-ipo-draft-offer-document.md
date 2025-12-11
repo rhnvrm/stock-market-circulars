@@ -25,9 +25,9 @@ source: bse
 stocks:
 - SODHANI
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
+- sme
 - sodhani-capital
 title: SME IPO Draft Offer Document - Sodhani Capital Limited
 ---

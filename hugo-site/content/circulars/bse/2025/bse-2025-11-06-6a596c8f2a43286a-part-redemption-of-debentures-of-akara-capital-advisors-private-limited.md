@@ -27,12 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- reduced-face-value
+- ncd
+- redemption
 title: Part Redemption of Debentures of AKARA CAPITAL ADVISORS PRIVATE LIMITED
 ---
 

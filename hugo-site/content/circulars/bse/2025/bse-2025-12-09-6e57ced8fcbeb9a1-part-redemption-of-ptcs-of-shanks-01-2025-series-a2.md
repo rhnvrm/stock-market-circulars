@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SHANK
 tags:
-- ptc
-- partial-redemption
+- corporate-action
 - debt-securities
 - face-value-reduction
-- corporate-action
+- ptc
+- redemption
 - shanks
 title: Part Redemption of PTCs of SHANKS 01 2025 SERIES A2
 ---

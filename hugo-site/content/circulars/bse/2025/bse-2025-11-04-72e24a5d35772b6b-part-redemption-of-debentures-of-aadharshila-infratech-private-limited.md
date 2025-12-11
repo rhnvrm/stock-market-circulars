@@ -26,12 +26,12 @@ source: bse
 stocks:
 - AIPL
 tags:
-- debentures
-- redemption
 - corporate-action
-- debt-market
-- interest-payment
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of AADHARSHILA INFRATECH PRIVATE LIMITED
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ARRIL
 tags:
-- suspension
-- debentures
-- ncd
-- early-redemption
-- debt-market
 - corporate-action
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Ahmedabad Ring Road Infrastructure Ltd
 ---
 

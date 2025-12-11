@@ -24,15 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '532310'
-- '500227'
+- SHREERAMA
+- JINDALPOLY
 tags:
-- price-movement
-- volume-movement
 - clarification
-- market-surveillance
-- SRMTL
-- JPFL
+- jpfl
+- price-movement
+- srmtl
+- surveillance
 title: Clarifications on Price and Volume Movements from Listed Companies
 ---
 

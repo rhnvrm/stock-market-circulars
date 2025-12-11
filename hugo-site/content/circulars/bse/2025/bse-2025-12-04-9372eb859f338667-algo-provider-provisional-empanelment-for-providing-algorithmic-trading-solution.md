@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
+- algo-trading
 - empanelment
-- trading-solutions
+- market-infrastructure
 - vendor
 title: Algo Provider - Provisional Empanelment for providing Algorithmic Trading Solutions
 ---

@@ -23,13 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDIACEMENTS
+- INDIACEM
 tags:
-- offer-for-sale
+- equity
 - ofs
-- india-cements
 - trading
-- equity-shares
 title: Opening of Offer for Sale for India Cements Limited
 ---
 

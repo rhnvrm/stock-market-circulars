@@ -84,13 +84,13 @@ stocks:
 - NAGARFERT
 - NATSEC
 - NIPPOINDIA
-- NMDCSTEEL
+- NSLNISP
 - PAISALO
 - PCSTEC
 - PEARLPOLY
 - POLYPLEX
 - PRIME
-- RBDENIMS
+- RNBDENIMS
 - RVNL
 - RASHI
 - RHIM
@@ -112,17 +112,17 @@ stocks:
 - TVSELECT
 - UNIONBANK
 - UTIMF
-- VIPUL
+- VIPULLTD
 - WAAREERENEW
 - WANBURY
 - WEBELSOLAR
 - ZUARIIND
 tags:
-- demat-auction
-- settlement
 - auction
-- securities
+- demat
 - market-operations
+- securities
+- settlement
 title: Demat Auction Settlement No. 754 - List of Securities and Quantities
 ---
 

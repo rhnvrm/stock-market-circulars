@@ -27,12 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- algorithmic-trading
-- algo-provider
+- algo-trading
+- algobulls
 - empanelment
-- trading-members
+- trading-member
 - white-box-algo
-- AlgoBulls
 title: Algo Provider - Provisional Empanelment for Algorithmic Trading Solutions
 ---
 

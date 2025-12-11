@@ -28,14 +28,14 @@ stocks:
 - GTL
 tags:
 - fund-diversion
-- misrepresentation
-- subsidiary-transactions
-- disclosure-violations
-- pfutp
+- information-disclosure
+- insolvency
 - lodr
-- tobacco-industry
+- misrepresentation
+- pfutp
 - real-estate
-- corporate-insolvency
+- subsidiary-transactions
+- tobacco-industry
 title: Order in the matter of Golden Tobacco Limited - Investigation into Fund Diversion
   and Misrepresentation
 ---

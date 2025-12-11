@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- nfo
-- etf
 - dsp-mutual-fund
-- nifty-midcap-150
-- mutual-fund
 - equity
+- etf
+- mutual-fund
+- nfo
+- nifty-midcap-150
 title: Launch of DSP Nifty Midcap 150 ETF NFO on NSE MF Invest Platform
 ---
 

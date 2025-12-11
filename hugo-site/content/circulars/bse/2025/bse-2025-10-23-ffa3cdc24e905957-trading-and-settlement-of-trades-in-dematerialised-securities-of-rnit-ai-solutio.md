@@ -28,12 +28,12 @@ source: bse
 stocks:
 - RNIT
 tags:
-- trade-to-trade
-- demat-settlement
 - depository-agreement
-- market-lot
-- trading-suspension
 - equity
+- market-lot
+- settlement
+- suspension
+- trade-to-trade
 title: Trading and Settlement of Trades in Dematerialised Securities of RNIT AI Solutions
   Ltd.
 ---

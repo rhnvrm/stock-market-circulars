@@ -25,10 +25,10 @@ source: nse
 stocks:
 - OPTIVALUE
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Optivalue Tek Consulting Limited (SME IPO)
 ---
 

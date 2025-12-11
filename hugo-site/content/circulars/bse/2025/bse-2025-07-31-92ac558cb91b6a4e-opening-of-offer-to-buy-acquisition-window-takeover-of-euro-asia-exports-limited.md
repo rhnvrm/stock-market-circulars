@@ -26,12 +26,9 @@ source: bse
 stocks:
 - EUROASIA
 tags:
-- takeover
-- open-offer
-- acquisition
-- euro-asia-exports
 - rrp-defense
-- sebi-sast
+- sast
+- takeover
 title: Open Offer by Rajendra Kamalakant Chodankar for Euro Asia Exports Limited (RRP
   Defense Limited)
 ---

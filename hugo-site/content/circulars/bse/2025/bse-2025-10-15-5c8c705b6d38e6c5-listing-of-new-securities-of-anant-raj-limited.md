@@ -28,12 +28,10 @@ source: bse
 stocks:
 - ANANTRAJ
 tags:
+- equity
 - listing
-- equity-shares
-- qip
-- qualified-institutional-placement
-- anant-raj
 - new-securities
+- qip
 title: Listing of New Securities of Anant Raj Limited - QIP Allotment
 ---
 

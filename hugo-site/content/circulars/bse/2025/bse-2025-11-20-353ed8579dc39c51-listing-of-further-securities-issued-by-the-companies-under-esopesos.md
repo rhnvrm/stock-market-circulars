@@ -35,18 +35,16 @@ stocks:
 - INDSHEL
 - JBCHEPHARM
 - MAXHEALTH
-- METROBRANDS
+- METROBRAND
 - RRKABEL
 - SHRIRAMFIN
 - SYRMA
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
-- new-shares
-- trading-commencement
+- esop
+- listing
+- new-securities
+- trading-operations
 title: Listing of Further Securities Issued Under ESOP/ESOS by 13 Companies
 ---
 

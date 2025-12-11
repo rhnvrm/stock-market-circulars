@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TAKYON
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- mt-group
-- m-group
 - rolling-segment
+- trading
 title: Change in Group of Equity Shares of TAKYON NETWORKS LIMITED
 ---
 

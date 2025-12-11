@@ -25,11 +25,10 @@ source: bse
 stocks:
 - BIRLACRP
 tags:
-- commercial-paper
-- debt-listing
 - birla-corporation
+- commercial-paper
+- debt-securities
 - private-placement
-- BIRLACRP
 title: Listing of new Commercial Paper of Birla Corporation Ltd
 ---
 

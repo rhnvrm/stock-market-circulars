@@ -26,18 +26,18 @@ source: bse
 stocks:
 - ANGELFIBER
 - CRYOGENIC
-- PANTHINFINITY
+- PANTH
 - SHARDACROP
 - ABANSEN
-- ARFININDIA
+- ARFIN-BE
 - ATHENACONS
 - BARAKVALLEY
-- BDHINDUSTRIES
+- BDH
 - BHARATPAREN
 - DATAMATICS
 - DIAMONDPOWER
 - GABRIEL
-- GARGFURNACE
+- GARGFUR
 - GARUDACONS
 - HUBTOWN
 - IEX
@@ -46,11 +46,10 @@ stocks:
 - INTERGLOBAL
 - JPPOWER
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- additional-surveillance-measure
-- st-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

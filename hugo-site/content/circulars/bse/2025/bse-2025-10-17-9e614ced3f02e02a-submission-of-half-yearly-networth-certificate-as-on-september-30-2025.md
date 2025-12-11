@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- networth-certificate
+- certificate
 - clearing-members
 - compliance
-- iefs-portal
-- half-yearly-submission
 - financial-reporting
+- half-yearly-submission
+- iefs-portal
 title: Submission of Half Yearly Networth Certificate as on September 30, 2025
 ---
 

@@ -40,7 +40,7 @@ stocks:
 - INDHOTEL
 - KALYANJEWEL
 - MPHASIS
-- OILINDIA
+- OIL
 - PATANJALI
 - PRAJIND
 - RECLTD
@@ -50,10 +50,10 @@ stocks:
 - TORNTPHARM
 - WIPRO
 tags:
-- demat-auction
-- settlement
 - auction
-- delivery-default
+- demat
+- early-pay-in
+- settlement
 title: Demat Auction - Settlement No. 750
 ---
 

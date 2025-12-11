@@ -33,11 +33,9 @@ stocks:
 - KTKBANK
 - SEQUENT
 tags:
-- listing
-- esop
-- esos
-- employee-stock-options
 - equity
+- esop
+- listing
 - new-securities
 title: Listing of Further Securities Issued Under ESOP/ESOS by Seven Companies
 ---

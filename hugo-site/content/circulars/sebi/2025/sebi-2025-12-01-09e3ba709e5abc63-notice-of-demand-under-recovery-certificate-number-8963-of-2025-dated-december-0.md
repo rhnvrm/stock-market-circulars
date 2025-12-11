@@ -29,13 +29,13 @@ source: sebi
 stocks:
 - NUCLEUS
 tags:
-- recovery-certificate
-- insider-trading
-- enforcement
-- demand-notice
-- nucleus-software
 - compliance
+- demand-notice
+- enforcement
+- investigation
+- nucleus-software
 - penalty
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8963 of 2025 - Nitin Kumar
   Garg - Insider Trading in Nucleus Software Exports Limited
 ---

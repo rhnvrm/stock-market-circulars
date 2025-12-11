@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
 - dues-recovery
+- enforcement
 - individual-liability
+- recovery
 - rkd-agri-retail
 title: Notice of Demand under Recovery Certificate No. 8925 of 2025 dated 19.09.2025
   issued against Meena Nilesh Savla (AKUPS3442E) in the matter of RKD Agri & Retail

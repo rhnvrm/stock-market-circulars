@@ -27,12 +27,11 @@ stocks:
 - UDAICEM
 - JKLAKSHMI
 tags:
-- amalgamation
-- merger
+- conversion
 - corporate-action
 - nclt
-- share-exchange
 - record-date
+- scheme-of-arrangement
 title: Amalgamation of Udaipur Cement Works Limited with JK Lakshmi Cement Ltd
 ---
 

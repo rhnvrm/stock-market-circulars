@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- GLOBALHEALTH
+- MEDANTA
 tags:
-- listing
-- equity-shares
-- esop
 - employee-incentive
+- equity
+- esop
 - global-health
+- listing
 - new-securities
 title: Listing of New Securities of Global Health Ltd - 90,000 Equity Shares Under
   ESOP

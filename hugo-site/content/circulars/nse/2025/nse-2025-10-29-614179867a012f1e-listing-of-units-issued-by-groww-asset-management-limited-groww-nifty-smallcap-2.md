@@ -26,13 +26,12 @@ source: nse
 stocks:
 - GROWWSC250
 tags:
-- etf
-- listing
-- groww-asset-management
-- nifty-smallcap-250
-- mutual-fund
-- new-listing
 - capital-market
+- etf
+- groww-asset-management
+- listing
+- mutual-fund
+- nifty-smallcap-250
 title: Listing of Groww Nifty Smallcap 250 ETF Units
 ---
 

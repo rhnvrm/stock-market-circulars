@@ -27,12 +27,12 @@ source: bse
 stocks:
 - WINPRO
 tags:
-- trading-suspension
-- show-cause-notice
+- company-related
 - non-compliance
 - registered-office
+- show-cause-notice
 - site-visit
-- company-related
+- suspension
 title: Prohibition/Suspension of Trading in Winpro Industries Limited
 ---
 

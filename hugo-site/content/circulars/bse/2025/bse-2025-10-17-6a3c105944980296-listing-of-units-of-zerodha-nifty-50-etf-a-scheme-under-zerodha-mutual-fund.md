@@ -27,10 +27,10 @@ stocks: []
 tags:
 - etf
 - listing
+- market-makers
 - mutual-fund
 - nifty-50
 - zerodha
-- market-makers
 title: Listing of Units Of Zerodha Nifty 50 ETF a scheme under Zerodha Mutual Fund
 ---
 

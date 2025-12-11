@@ -26,11 +26,11 @@ source: bse
 stocks:
 - CAREPOINT
 tags:
+- career-point-edutech
+- equity
 - listing
-- equity-shares
 - shareholding-pattern
 - xbrl-utility
-- career-point-edutech
 title: Listing of Equity Shares of Career Point Edutech Limited
 ---
 

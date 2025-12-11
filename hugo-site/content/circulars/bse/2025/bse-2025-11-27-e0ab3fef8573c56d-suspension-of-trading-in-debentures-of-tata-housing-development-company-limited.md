@@ -26,13 +26,12 @@ source: bse
 stocks:
 - THDCL
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- non-convertible-debentures
-- corporate-actions
-- debt-market
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of TATA HOUSING DEVELOPMENT COMPANY LIMITED
 ---
 

@@ -30,12 +30,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- trading-members
+- algo-trading
 - compliance
 - data-submission
-- sebi-circular
+- retail-investor
+- sebi
+- trading-member
 title: Submission of Details of Existing Clients Using Algorithmic Trading Platform
 ---
 

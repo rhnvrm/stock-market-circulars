@@ -79,15 +79,14 @@ stocks:
 - NIITLTD
 - YATHARTH
 - DOMS
-- INDIAshelter
+- INDIASHELTER
 tags:
-- slbs
-- securities-lending-borrowing
-- position-limits
-- market-wide-limits
-- etf
+- collateral
 - derivatives
+- etf
+- position-limits
 - risk-management
+- slbs
 title: Market Wide Position Limits for stocks traded under SLBS – December 2025
 ---
 

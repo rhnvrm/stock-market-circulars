@@ -34,13 +34,12 @@ stocks:
 - BRIGHTCOM
 - IIRMHOLD
 - JPASSOCIAT
-- PRIMEFOCUS
+- PFOCUS
 - PHOSPHATES
 tags:
-- surveillance
-- asm
-- trading-restrictions
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

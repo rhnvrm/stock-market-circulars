@@ -27,13 +27,13 @@ stocks:
 - HCC
 - DECCAN
 tags:
-- slb
-- securities-lending-borrowing
-- right-issue
+- book-closure
+- collateral
 - corporate-action
-- shut-period
-- hindustan-construction
 - deccan-gold-mines
+- hindustan-construction
+- right-issue
+- slb
 title: Corporate Action in SLB Securities - Right Issues
 ---
 

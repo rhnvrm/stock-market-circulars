@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MMFSL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - interest-payment
-- mmfsl
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of MAHINDRA & MAHINDRA FINANCIAL SERVICES LIMITED
 ---
 

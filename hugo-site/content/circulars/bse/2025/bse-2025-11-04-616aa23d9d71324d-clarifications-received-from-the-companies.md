@@ -26,18 +26,17 @@ severity: low
 source: bse
 stocks:
 - HINDWAREAP
-- JAYUSHIN
+- JAYUSH
 - KATIPATNG
 tags:
-- price-movement
-- volume-increase
-- surveillance
+- china-imports
 - clarification
 - hindware-home-innovation
 - jay-ushin
 - kati-patang-lifestyle
+- price-movement
 - rare-earth-magnets
-- china-imports
+- surveillance
 title: Clarifications received from the companies
 ---
 

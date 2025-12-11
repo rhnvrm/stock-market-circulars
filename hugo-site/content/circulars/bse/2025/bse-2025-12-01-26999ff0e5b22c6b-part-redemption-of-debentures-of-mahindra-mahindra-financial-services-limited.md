@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MMFSL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
 - debt-securities
-- non-convertible-debentures
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Mahindra & Mahindra Financial Services Limited
 ---
 

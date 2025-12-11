@@ -26,14 +26,14 @@ source: bse
 stocks:
 - ADCOUNTY
 - AUTOPINS
-- BESTAGROLIFE
+- BESTAGRO
 - BRIGHT
 - ESHAMEDIA
 - ESPIRE
-- FIRSTFINTEC
+- FIRSTFIN
 - GANGA
 - GAYATRI
-- HAMPSBIO
+- HAMPS
 - HIRA
 - INDIANLINK
 - INVIGORATED
@@ -44,12 +44,12 @@ stocks:
 - MONARCH
 - MORGAN
 - PARSHWANATH
-- VRWOODART
+- VRWODAR
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band - 21 Securities Revised Effective August 13, 2025
 ---
 

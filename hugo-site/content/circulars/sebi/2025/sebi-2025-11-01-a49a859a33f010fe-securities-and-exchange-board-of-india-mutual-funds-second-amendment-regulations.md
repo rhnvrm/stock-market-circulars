@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- mutual-funds
 - amendment
-- regulations
-- specialized-investment-fund
-- reit
-- investment-limits
 - cash-holdings
-- equity-derivatives
+- derivatives
+- investment-limits
+- mutual-fund
+- regulations
+- reit
+- sif
 title: Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations,
   2025
 ---

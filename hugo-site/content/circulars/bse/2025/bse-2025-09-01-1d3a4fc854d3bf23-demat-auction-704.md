@@ -24,17 +24,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BOSCH
+- BOSCHLTD
 - DRREDDY
 - HDFCBANK
 - MARUTI
 - SBIN
 - TITAN
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction Settlement No. 704 - September 1, 2025
 ---
 

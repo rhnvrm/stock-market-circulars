@@ -26,12 +26,11 @@ source: nse
 stocks:
 - ANONDITA
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- anondita-medicare
+- listing
+- sme
 - trade-for-trade
-- tfts
+- trading-platform
 title: Listing of Equity Shares of Anondita Medicare Limited (SME IPO)
 ---
 

@@ -29,11 +29,9 @@ stocks:
 - HITACHIENERGY
 tags:
 - derivatives
-- futures
+- futures-options
+- listing
 - options
-- new-listing
-- equity-derivatives
-- HITACHIENERGY
 title: Introduction of Futures & Options Contracts on Hitachi Energy India Ltd
 ---
 

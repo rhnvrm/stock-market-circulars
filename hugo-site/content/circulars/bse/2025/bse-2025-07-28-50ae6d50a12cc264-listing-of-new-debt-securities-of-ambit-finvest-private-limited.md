@@ -28,8 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- ambit-finvest
-- debt-segment
 title: Listing of new debt securities of Ambit Finvest Private Limited
 ---
 

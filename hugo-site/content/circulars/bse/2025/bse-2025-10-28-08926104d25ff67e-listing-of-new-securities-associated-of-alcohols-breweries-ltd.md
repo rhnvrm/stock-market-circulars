@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '507526'
+- ASALCBR
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- lock-in
+- preferential-issue
 - promoter-funding
-- lock-in-shares
 title: Listing of New Securities - Associated Alcohols & Breweries Ltd Preferential
   Allotment
 ---

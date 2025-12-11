@@ -24,15 +24,14 @@ published_date: '2025-11-21T13:56:36+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={DC161F82-A6DA-4CCB-9AF5-588EA2DB74E0}&noticeno=20251121-62&dt=11/21/2025&icount=62&totcount=69&flag=0
 severity: high
 source: bse
-stocks:
-- '531337'
+stocks: []
 tags:
-- trading-suspension
 - company-compliance
+- interim-measure
+- non-existence
 - registered-office
 - show-cause-notice
-- non-existence
-- interim-measure
+- suspension
 title: Prohibition/ Suspension of Trading in Securities of Winpro Industries Limited
 ---
 

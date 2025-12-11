@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- aaa-rated
 - debt-securities
+- interise-trust
 - listing
 - private-placement
-- INTERISE-TRUST
-- AAA-rated
 - reset-rate-bonds
 title: Listing of New Debt Securities of INTERISE TRUST
 ---

@@ -27,14 +27,14 @@ source: bse
 stocks:
 - SBIN
 tags:
+- bond
 - debt-securities
-- listing
-- state-bank-of-india
-- SBI
-- private-placement
-- bonds
-- debentures
 - fixed-income
+- listing
+- ncd
+- private-placement
+- sbi
+- state-bank-of-india
 title: Listing of New Debt Securities of State Bank of India (6.93% Bonds Due 2035)
 ---
 

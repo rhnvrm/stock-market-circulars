@@ -29,7 +29,7 @@ stocks:
 - RRVL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - reliance-retail
 - short-term-debt

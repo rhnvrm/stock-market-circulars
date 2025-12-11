@@ -27,10 +27,9 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - nabard
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of National Bank for Agriculture and Rural
   Development
 ---

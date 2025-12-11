@@ -26,13 +26,13 @@ source: nse
 stocks:
 - CSSL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
+- equity
 - ipo
-- equity-shares
-- trade-for-trade
+- listing
 - market-maker
+- sme
+- trade-for-trade
 title: Listing of Equity Shares of Clear Secured Services Limited (SME IPO)
 ---
 

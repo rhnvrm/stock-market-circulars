@@ -26,11 +26,10 @@ source: nse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- kolte-patil-developers
 - capital-market
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for Takeover Offer under Tender Offer scheme of
   Kolte-Patil Developers Limited
 ---

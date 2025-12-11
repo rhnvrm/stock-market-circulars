@@ -33,18 +33,9 @@ stocks:
 - THESL
 - NIRMAN
 tags:
+- asm-stage
+- margin
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- margin-requirement
-- market-surveillance
-- CYBERTECH
-- GML
-- RACLGEAR
-- SAMMAANCAP
-- SIKKO
-- THESL
-- NIRMAN
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

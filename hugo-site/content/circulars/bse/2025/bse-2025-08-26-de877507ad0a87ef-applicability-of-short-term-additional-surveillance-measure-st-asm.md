@@ -37,11 +37,11 @@ stocks:
 - YASHCHEM
 - ZINKA
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-operations
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

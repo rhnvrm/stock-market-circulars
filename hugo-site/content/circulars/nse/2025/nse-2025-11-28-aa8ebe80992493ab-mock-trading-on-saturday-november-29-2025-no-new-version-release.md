@@ -25,14 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- algo-trading
+- derivatives
+- futures-options
 - mock-trading
 - pre-open-session
-- futures-and-options
-- equity-derivatives
-- neat-plus
-- algorithmic-trading
-- testing
-- system-upgrade
+- system-update
+- trading-platform
 title: Mock Trading Session on Saturday, November 29, 2025 - No New Version Release
 ---
 

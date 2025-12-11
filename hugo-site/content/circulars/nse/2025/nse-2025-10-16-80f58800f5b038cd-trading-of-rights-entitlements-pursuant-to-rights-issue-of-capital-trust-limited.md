@@ -28,12 +28,11 @@ source: nse
 stocks:
 - CAPTRU
 tags:
-- rights-issue
-- rights-entitlements
-- trading
 - capital-trust
+- demat
+- rights-issue
 - trade-to-trade
-- compulsory-demat
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Capital Trust Limited
 ---
 

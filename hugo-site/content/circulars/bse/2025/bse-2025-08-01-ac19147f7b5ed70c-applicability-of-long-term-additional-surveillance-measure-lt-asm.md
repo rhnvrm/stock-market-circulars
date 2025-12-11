@@ -26,8 +26,8 @@ source: bse
 stocks:
 - BRIGHTREAL
 - COSPOWER
-- ORTINGLOBAL
-- RETINAPAINTS
+- ORTINGLOBE-BE
+- RETINA
 - STALLION
 - ASSOCER
 - JSWHOLDING
@@ -35,10 +35,9 @@ stocks:
 - KKALPANA
 - RDBINFRA
 tags:
-- surveillance
-- asm
-- trading-restrictions
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

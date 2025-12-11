@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- investment-advisory
-- unregistered-activities
-- recovery
 - defaulter
+- enforcement
+- investment-adviser
+- recovery
+- unregistered-activities
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Pranay Kumar,
   Proprietor of M/s Capital Gyan for Unregistered Investment Advisory Activities
 ---

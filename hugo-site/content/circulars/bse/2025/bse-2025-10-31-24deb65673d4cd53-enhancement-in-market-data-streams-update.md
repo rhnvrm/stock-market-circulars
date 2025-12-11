@@ -27,16 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- market-data
-- nfcast
-- trading-systems
-- technology
-- deadline-extension
-- equity
 - derivatives
-- currency-derivatives
-- commodity-derivatives
 - egr
+- equity
+- extension
+- market-data
+- market-infrastructure
+- nfcast
+- technology
 title: Extension of NFCAST Market Data Stream Format Discontinuation to November 7,
   2025
 ---

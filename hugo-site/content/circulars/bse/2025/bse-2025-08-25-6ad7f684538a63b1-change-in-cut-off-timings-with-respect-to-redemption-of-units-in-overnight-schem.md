@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- cut-off-timings
+- mutual-fund
 - overnight-schemes
 - redemption
-- cut-off-timings
 - trading-hours
 title: BSE Updates Cut-off Timings for Mutual Fund Overnight Scheme Redemptions
 ---

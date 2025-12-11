@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nomination
+- authentication
 - compliance
 - investor-protection
-- sebi-circular
 - mf-invest-platform
+- mutual-fund
+- nomination
+- sebi
 - ucc-structure
-- authentication
 title: Implementation of Revised Nomination Facilities for Opt-Out on NSE MF Invest
   Platform
 ---

@@ -28,11 +28,11 @@ source: bse
 stocks:
 - AMBIUM
 tags:
+- ambium-finserve
+- bond
 - debt-securities
 - listing
 - private-placement
-- corporate-bonds
-- ambium-finserve
 title: Listing of New Debt Securities of AMBIUM FINSERVE LIMITED
 ---
 

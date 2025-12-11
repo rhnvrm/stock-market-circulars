@@ -25,12 +25,12 @@ source: nse
 stocks:
 - GRETEX
 tags:
+- emerge-platform
+- equity
 - listing
-- sme
-- emerge
-- equity-shares
-- preferential-issue
 - lock-in
+- preferential-issue
+- sme
 title: Listing of Further Issues of Gretex Industries Limited
 ---
 

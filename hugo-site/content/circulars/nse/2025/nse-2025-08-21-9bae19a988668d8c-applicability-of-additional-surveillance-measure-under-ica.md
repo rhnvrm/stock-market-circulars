@@ -25,11 +25,10 @@ source: nse
 stocks:
 - SADBHAV
 tags:
-- surveillance
-- asm
 - ica
 - inter-creditor-agreement
 - sadbhav-engineering
+- surveillance
 title: Additional Surveillance Measure under Inter Creditor Agreement - Sadbhav Engineering
   Limited
 ---

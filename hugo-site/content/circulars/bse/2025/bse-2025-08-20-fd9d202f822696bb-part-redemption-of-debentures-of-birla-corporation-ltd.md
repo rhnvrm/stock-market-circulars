@@ -27,11 +27,11 @@ source: bse
 stocks:
 - BIRLACRPN
 tags:
-- corporate-actions
-- debentures
-- part-redemption
+- corporate-action
+- face-value-change
 - interest-payment
-- reduced-face-value
+- ncd
+- redemption
 title: Part Redemption of Debentures of BIRLA CORPORATION LTD with Reduced Face Value
 ---
 

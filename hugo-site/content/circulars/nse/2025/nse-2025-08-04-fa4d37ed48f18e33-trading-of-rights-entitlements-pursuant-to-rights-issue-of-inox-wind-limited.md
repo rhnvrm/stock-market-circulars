@@ -26,11 +26,10 @@ source: nse
 stocks:
 - INOXWI
 tags:
-- rights-issue
-- trading
 - inox-wind
-- rights-entitlements
+- rights-issue
 - trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Inox Wind Limited
 ---
 

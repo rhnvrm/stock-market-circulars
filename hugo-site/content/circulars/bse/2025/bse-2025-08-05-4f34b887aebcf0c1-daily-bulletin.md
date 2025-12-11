@@ -31,14 +31,14 @@ stocks:
 - COALINDIA
 - CONCOR
 tags:
-- daily-bulletin
+- bonus
 - book-closure
-- record-date
-- dividend
-- bonus-issue
-- corporate-actions
-- redemption
 - commercial-paper
+- corporate-action
+- daily-bulletin
+- dividend
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

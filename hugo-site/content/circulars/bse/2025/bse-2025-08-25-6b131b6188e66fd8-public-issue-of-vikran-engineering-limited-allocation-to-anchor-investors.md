@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VIKRANENG
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
 - public-issue
-- equity-shares
 title: Vikran Engineering Limited IPO - Anchor Investor Allocation
 ---
 

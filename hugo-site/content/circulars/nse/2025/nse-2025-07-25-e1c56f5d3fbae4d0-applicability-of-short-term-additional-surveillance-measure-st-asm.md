@@ -30,15 +30,9 @@ stocks:
 - RITEZONE
 - VR
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
-- BAWEJA
-- DATAMATICS
-- IEX
-- RITEZONE
-- VR
 title: Short-Term Additional Surveillance Measure (ST-ASM) Applied to Five Securities
 ---
 

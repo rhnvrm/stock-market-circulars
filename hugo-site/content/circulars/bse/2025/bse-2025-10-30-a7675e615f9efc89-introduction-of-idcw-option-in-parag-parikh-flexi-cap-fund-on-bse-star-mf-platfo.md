@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-changes
-- idcw-option
-- parag-parikh
-- ppfas
 - flexi-cap-fund
 - fundamental-attributes
-- bse-star-mf
+- idcw-option
+- mutual-fund
+- parag-parikh
+- ppfas
+- scheme-changes
 title: Introduction of IDCW Option in Parag Parikh Flexi Cap Fund on BSE StAR MF Platform
 ---
 

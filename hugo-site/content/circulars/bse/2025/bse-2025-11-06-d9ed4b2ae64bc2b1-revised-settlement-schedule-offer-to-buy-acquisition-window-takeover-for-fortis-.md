@@ -28,13 +28,12 @@ source: bse
 stocks:
 - FORTISHEALTH
 tags:
-- takeover
-- settlement
-- acquisition-window
-- fortis-healthcare
-- revised-schedule
-- demat-delivery
+- demat
 - early-pay-in
+- otb
+- revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   FORTIS HEALTHCARE LIMITED
 ---

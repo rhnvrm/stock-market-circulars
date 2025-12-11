@@ -25,11 +25,11 @@ source: bse
 stocks:
 - SOLARA
 tags:
-- partly-paid-shares
+- equity
 - first-call
-- trading-resumption
 - listing
-- equity-shares
+- partly-paid
+- trading-resumption
 title: Listing of Partly Paid-up Equity Shares of Solara Active Pharma Sciences Limited
 ---
 

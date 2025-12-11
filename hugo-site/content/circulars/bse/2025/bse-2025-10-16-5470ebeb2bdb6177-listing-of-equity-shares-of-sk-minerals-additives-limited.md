@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SKMINERALS
 tags:
+- anchor-investor
+- equity
 - ipo
 - listing
-- equity-shares
 - lock-in
-- anchor-investors
 title: Listing of Equity Shares of SK Minerals & Additives Limited
 ---
 

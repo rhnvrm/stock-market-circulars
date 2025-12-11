@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PATANJALI
 tags:
-- bonus-issue
-- patanjali-foods
-- share-crediting
-- trading-commencement
+- bonus
 - depository
+- share-crediting
+- trading-operations
 title: Patanjali Foods Limited Bonus Issue - Undertaking for Share Crediting Timeline
 ---
 

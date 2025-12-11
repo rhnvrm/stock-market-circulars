@@ -26,17 +26,15 @@ stocks:
 - AMBER
 - ESAF
 - JAGSONPAL
-- NIIT
-- PDS
+- NIITLTD
+- PDSL
 - RBA
 - TECHM
 - VDL
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 title: Listing of Further Securities Under ESOP/ESOS - 8 Companies
 ---
 

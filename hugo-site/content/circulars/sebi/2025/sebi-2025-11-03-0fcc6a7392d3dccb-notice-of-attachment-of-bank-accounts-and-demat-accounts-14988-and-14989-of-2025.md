@@ -27,13 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery
 - attachment
-- investment-advisor
-- unregistered-activity
 - defaulter
-- recovery-certificate
+- enforcement
+- investment-adviser
+- recovery
+- unregistered-activity
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Rahul Goswami
   for Unregistered Investment Advisory Services
 ---

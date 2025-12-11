@@ -27,10 +27,10 @@ source: bse
 stocks:
 - NARMADA
 tags:
-- isin-change
-- share-subdivision
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
+- isin
 - scrip-517431
 title: New ISIN Number for NARMADA MACPLAST Following Share Sub-Division
 ---

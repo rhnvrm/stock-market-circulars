@@ -32,10 +32,9 @@ stocks:
 - SPCENET
 - SPIC
 tags:
+- asm-stage
+- margin
 - surveillance
-- margin-requirements
-- asm
-- st-asm
 - trading-restrictions
 title: NSE Applies Short-Term Additional Surveillance Measure (ST-ASM) to 7 Securities
 ---

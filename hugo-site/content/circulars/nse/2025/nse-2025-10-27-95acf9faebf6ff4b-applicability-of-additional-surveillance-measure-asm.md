@@ -30,14 +30,9 @@ stocks:
 - GMBREW
 - HOMESFY
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirement
-- long-term-asm
-- ARTNIRMAN
-- GMBREW
-- HOMESFY
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

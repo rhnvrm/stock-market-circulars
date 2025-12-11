@@ -26,10 +26,10 @@ source: bse
 stocks:
 - MODINAT
 tags:
+- company-related
+- equity
 - group-change
 - modi-naturals
-- equity
-- company-related
 title: Group Change - Modi Naturals Ltd Moved from Group X to Group B
 ---
 

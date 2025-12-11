@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544496'
-- '544497'
+- VIKRAN
+- AHCL
 tags:
-- index-addition
-- ipo
-- new-listing
-- vikran-engineering
 - anlon-healthcare
+- index-change
+- ipo
+- listing
+- vikran-engineering
 title: Additions to the BSE IPO Index - Vikran Engineering and Anlon Healthcare
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TRESCON
 tags:
-- share-forfeiture
-- trescon-limited
-- equity-shares
 - corporate-action
+- equity
+- forfeiture
 - shareholder-action
+- trescon-limited
 title: Forfeiture of Equity Shares of Trescon Ltd.
 ---
 

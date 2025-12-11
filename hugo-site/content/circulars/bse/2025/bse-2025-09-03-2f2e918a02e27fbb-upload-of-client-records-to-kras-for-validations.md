@@ -26,12 +26,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- compliance
-- kra
-- trading-members
 - client-records
-- sebi-circular
+- compliance
+- kyc
+- sebi
+- trading-member
 title: Upload of Client Records to KRAs for validations
 ---
 

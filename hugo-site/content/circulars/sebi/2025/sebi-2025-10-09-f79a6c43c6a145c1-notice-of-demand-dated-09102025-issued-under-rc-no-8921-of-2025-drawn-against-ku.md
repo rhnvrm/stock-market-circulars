@@ -25,15 +25,15 @@ rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2025/notic
 severity: high
 source: sebi
 stocks:
-- KUBERUDYOG
+- KUBERJI
 - GENENG
 tags:
-- recovery-certificate
-- notice-of-demand
-- enforcement
 - compliance
+- demand-notice
+- enforcement
 - generic-engineering-construction
 - kuber-udyog
+- recovery
 title: Notice of Demand - RC No. 8921/2025 Against Kuber Udyog Limited in Generic
   Engineering Construction Matter
 ---

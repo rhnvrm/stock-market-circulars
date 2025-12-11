@@ -26,13 +26,13 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- preference-shares
-- public-issue
-- private-placement
+- companies-act-2013
 - crps
 - non-convertible-redeemable-preference-shares
-- companies-act-2013
+- preference-shares
+- private-placement
+- public-issue
+- settlement-order
 - tata-capital
 title: Settlement Order in respect of Tata Capital Limited
 ---

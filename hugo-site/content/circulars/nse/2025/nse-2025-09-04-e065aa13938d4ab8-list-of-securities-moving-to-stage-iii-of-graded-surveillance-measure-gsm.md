@@ -27,12 +27,10 @@ source: nse
 stocks:
 - YAARI
 tags:
-- surveillance
-- gsm
 - stage-iii
+- surveillance
 - trade-for-trade
-- yaari
-- weekly-trading
+- trading-session
 title: YAARI Digital Integrated Services Limited Moved to Stage III of Graded Surveillance
   Measure
 ---

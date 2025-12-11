@@ -33,16 +33,13 @@ stocks:
 - RELIANCEJIO
 - ADITYABIRLA
 tags:
+- bajaj-housing-finance
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-market
+- debt-securities
 - kotak-mahindra
 - mankind-pharma
-- tata-steel
-- bajaj-housing-finance
-- reliance-jio
-- aditya-birla
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 14 Securities Due for Redemption
 ---
 

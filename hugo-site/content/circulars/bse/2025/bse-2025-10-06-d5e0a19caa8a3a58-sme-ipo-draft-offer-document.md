@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- listing
 - public-comments
-- new-listing
+- sme
 title: SME IPO - Draft Offer Document of PAN HR SOLUTION LIMITED
 ---
 

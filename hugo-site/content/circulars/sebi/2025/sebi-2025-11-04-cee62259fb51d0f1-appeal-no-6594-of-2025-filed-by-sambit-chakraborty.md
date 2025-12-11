@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- bonus-shares
+- appeal
+- bonus
 - nclt-resolution
-- share-dilution
-- appellate-authority
 - rejected-appeal
+- rti
+- share-dilution
 title: Appeal No. 6594 of 2025 filed by Sambit Chakraborty - RTI Appeal Rejected
 ---
 

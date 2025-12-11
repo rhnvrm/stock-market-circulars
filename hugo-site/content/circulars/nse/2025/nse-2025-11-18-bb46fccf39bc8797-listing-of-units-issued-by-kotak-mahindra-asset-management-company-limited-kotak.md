@@ -28,12 +28,10 @@ stocks:
 - CHEMICAL
 tags:
 - etf
-- listing
-- mutual-fund
-- chemicals-sector
 - kotak-mahindra
-- new-listing
+- listing
 - market-maker
+- mutual-fund
 title: Listing of Kotak Nifty Chemicals ETF Units on NSE
 ---
 

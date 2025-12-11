@@ -28,10 +28,9 @@ stocks:
 - HINDUJALE
 tags:
 - debt-securities
-- new-listing
+- listing
+- ncd
 - private-placement
-- hinduja-leyland-finance
-- non-convertible-debentures
 title: Listing of New Debt Securities of Hinduja Leyland Finance Limited
 ---
 

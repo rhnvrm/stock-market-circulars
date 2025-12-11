@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - liquid-fund
-- wealth-company
-- subscriptions
-- redemptions
+- mutual-fund
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- nse-mf-invest
+- trading-platform
+- wealth-company
 title: Availability of Wealth Company Liquid Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

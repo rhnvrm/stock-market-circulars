@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SKFINANCE
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- corporate-bonds
-- sk-finance
 title: Listing of New Debt Securities of SK Finance Limited
 ---
 

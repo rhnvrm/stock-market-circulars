@@ -28,13 +28,13 @@ source: nse
 stocks:
 - ANANTAM
 tags:
+- anantam-highways-trust
+- highways
+- infrastructure
 - invit
 - ipo
 - listing
-- infrastructure
-- highways
 - pre-open-session
-- anantam-highways-trust
 title: Listing of Units of Anantam Highways Trust (IPO)
 ---
 

@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-change
 - axis-mutual-fund
-- fund-of-fund
-- nasdaq-100
+- fund-of-funds
+- mutual-fund
 - name-change
+- nasdaq-100
 - passive-fund
+- scheme-change
 title: Change in Scheme name of AXIS Nasdaq 100 Fund of Fund on BSE StAR MF Platform
 ---
 

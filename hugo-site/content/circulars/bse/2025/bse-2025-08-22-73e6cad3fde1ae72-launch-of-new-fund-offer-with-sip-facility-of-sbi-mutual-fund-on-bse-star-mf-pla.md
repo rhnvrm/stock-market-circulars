@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- fund-offer
 - mutual-fund
 - nfo
-- sip
 - sbi-mutual-fund
-- bse-star-mf
-- fund-offer
+- sip
 title: Launch of New Fund Offer with SIP facility of SBI Mutual Fund on BSE StAR MF
   Platform
 ---

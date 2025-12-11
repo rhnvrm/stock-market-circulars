@@ -27,12 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-order
-- enforcement
 - dolphin-universal
-- recovery-certificate
+- enforcement
 - general-remittance-order
-- regulatory-action
+- recovery
+- regulatory
 title: General Remittance Order under RC No. 6364 of 2023 - Dolphin Universal Rural
   Development Limited and Others
 ---

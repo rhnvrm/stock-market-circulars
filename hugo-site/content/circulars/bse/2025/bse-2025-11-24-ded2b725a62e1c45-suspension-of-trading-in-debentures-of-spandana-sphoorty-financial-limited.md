@@ -27,14 +27,13 @@ source: bse
 stocks:
 - SPANDANA
 tags:
-- suspension
-- debentures
-- debt-market
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- spandana-sphoorty
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of SPANDANA SPHOORTY FINANCIAL LIMITED
 ---
 

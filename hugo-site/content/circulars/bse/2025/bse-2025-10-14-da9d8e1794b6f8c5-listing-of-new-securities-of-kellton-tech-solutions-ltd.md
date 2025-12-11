@@ -28,10 +28,10 @@ source: bse
 stocks:
 - KELLTON
 tags:
-- listing
-- equity-shares
-- fccb-conversion
+- conversion
+- equity
 - kellton-tech-solutions
+- listing
 - new-securities
 title: Listing of New Equity Shares of Kellton Tech Solutions Ltd
 ---

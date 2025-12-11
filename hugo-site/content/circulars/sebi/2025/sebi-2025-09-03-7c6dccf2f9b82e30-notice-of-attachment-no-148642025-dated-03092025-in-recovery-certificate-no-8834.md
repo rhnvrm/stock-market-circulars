@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-proceedings
-- research-analyst
-- attachment-notice
+- attachment
 - compliance
+- enforcement
+- recovery
+- research-analyst
 title: Notice of Attachment No 14864/2025 against Nikhil Dayanand Baljekar - Research
   Analyst
 ---

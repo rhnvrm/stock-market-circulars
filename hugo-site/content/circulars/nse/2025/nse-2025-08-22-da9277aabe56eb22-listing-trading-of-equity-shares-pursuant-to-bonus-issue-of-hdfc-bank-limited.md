@@ -26,11 +26,10 @@ source: nse
 stocks:
 - HDFCBANK
 tags:
-- bonus-issue
+- bonus
+- equity
 - listing
 - trading
-- equity-shares
-- HDFCBANK
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of HDFC Bank Limited
 ---
 

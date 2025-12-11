@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KFIL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- face-value-reduction
 - corporate-action
+- face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of KOGTA FINANCIAL (INDIA) LIMITED
 ---
 

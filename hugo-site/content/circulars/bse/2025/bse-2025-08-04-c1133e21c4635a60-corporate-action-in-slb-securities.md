@@ -35,11 +35,10 @@ stocks:
 - MAHAGAS
 - APLLTD
 tags:
-- dividend
 - corporate-action
-- slb-securities
+- dividend
 - record-date
-- ex-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Record Dates for 23 Companies
 ---
 

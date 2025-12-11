@@ -30,12 +30,11 @@ stocks:
 - DCMSHRIRAM
 - MOTISONS
 tags:
-- price-movement
-- volume-movement
 - clarification
-- regulation-30
-- sebi-lodr
 - disclosure
+- lodr
+- price-movement
+- regulation-30
 title: Clarifications received from the companies
 ---
 

@@ -26,10 +26,10 @@ stocks:
 - NWFL
 tags:
 - debt-securities
+- demat
 - listing
 - nuvama-wealth-finance
 - private-placement
-- dematerialised-trading
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

@@ -28,13 +28,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- aditya-birla-sun-life
+- international-equity
+- investment-limits
 - mutual-fund
 - sip
-- subscription-suspension
-- aditya-birla-sun-life
-- bse-star-mf
-- investment-limits
-- international-equity
+- suspension
 title: Change in Minimum Application Amount & Temporary Suspension of Fresh Subscriptions
   for Aditya Birla Mutual Fund Schemes
 ---

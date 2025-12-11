@@ -29,19 +29,17 @@ stocks:
 - LLOYDSENG
 - MPHASIS
 - NACLIND
-- PRIMEFOCUS
+- PFOCUS
 - PTCIL
-- REPROINDIA
-- ROSEMERC
+- REPRO
+- ROSEMER
 - SCHAND
 - VISHALMEGART
 - ZAGGLE
 tags:
+- equity
 - esop
-- esos
-- equity-listing
 - new-securities
-- employee-stock-options
 title: Listing of Securities Issued Under ESOP/ESOS by 12 Companies
 ---
 

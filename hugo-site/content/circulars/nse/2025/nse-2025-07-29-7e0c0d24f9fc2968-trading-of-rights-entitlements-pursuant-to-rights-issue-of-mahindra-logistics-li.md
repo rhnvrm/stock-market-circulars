@@ -25,11 +25,10 @@ source: nse
 stocks:
 - MAHLOG
 tags:
-- rights-issue
-- trading
 - mahindra-logistics
-- rights-entitlements
+- rights-issue
 - trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Mahindra Logistics
   Limited
 ---

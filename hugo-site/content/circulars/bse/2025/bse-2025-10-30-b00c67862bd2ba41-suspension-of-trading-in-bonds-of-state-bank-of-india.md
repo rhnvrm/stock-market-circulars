@@ -27,15 +27,15 @@ source: bse
 stocks:
 - SBI
 tags:
-- trading-suspension
-- bonds
-- debt-securities
-- state-bank-of-india
-- redemption
-- interest-payment
-- record-date
 - at1-bonds
+- bond
+- debt-securities
+- interest-payment
 - perpetual-bonds
+- record-date
+- redemption
+- state-bank-of-india
+- suspension
 title: Suspension of Trading in Bonds of STATE BANK OF INDIA
 ---
 

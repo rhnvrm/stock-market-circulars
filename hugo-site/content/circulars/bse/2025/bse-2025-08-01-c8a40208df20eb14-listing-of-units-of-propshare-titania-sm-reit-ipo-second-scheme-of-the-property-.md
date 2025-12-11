@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PROPSHARE
 tags:
-- reit
+- investment-trust
 - ipo
 - listing
 - property-share
-- investment-trust
 - real-estate
+- reit
 title: Listing of Units of Propshare Titania SM REIT - IPO (Second Scheme)
 ---
 

@@ -30,14 +30,13 @@ stocks:
 - MOTILALOSWL
 - PALREDTEC
 tags:
-- price-movement
-- volume-movement
-- regulation-30
-- disclosure
-- surveillance
-- market-conditions
-- upsi
 - compliance
+- disclosure
+- market-operations
+- price-movement
+- regulation-30
+- surveillance
+- upsi
 title: Clarifications received from the companies
 ---
 

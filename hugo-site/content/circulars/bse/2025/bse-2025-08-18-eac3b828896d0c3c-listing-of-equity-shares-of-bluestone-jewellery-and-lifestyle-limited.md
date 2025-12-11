@@ -26,12 +26,10 @@ source: bse
 stocks:
 - BLUESTONE
 tags:
-- listing
-- equity-shares
-- new-listing
-- bluestone
+- equity
 - jewellery
 - lifestyle
+- listing
 title: Listing of Equity Shares of BlueStone Jewellery and Lifestyle Limited
 ---
 

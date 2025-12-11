@@ -26,11 +26,10 @@ source: bse
 stocks:
 - VIKRAMSOLR
 tags:
+- company-related
+- equity
 - listing
-- equity-shares
-- new-listing
 - vikram-solar
-- company-listing
 title: Listing of Equity Shares of Vikram Solar Limited
 ---
 

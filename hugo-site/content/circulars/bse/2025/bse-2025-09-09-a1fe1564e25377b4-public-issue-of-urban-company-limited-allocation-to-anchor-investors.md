@@ -24,18 +24,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- URBANCOMPANY
+- URBANCO
 tags:
+- allotment
+- anchor-investor
+- equity
+- goldman-sachs
 - ipo
-- anchor-investors
-- allocation
-- urban-company
-- equity-shares
-- public-issue
+- jm-financial
 - kotak-mahindra
 - morgan-stanley
-- goldman-sachs
-- jm-financial
+- public-issue
+- urban-company
 title: Urban Company Limited IPO - Anchor Investor Allocation Results
 ---
 

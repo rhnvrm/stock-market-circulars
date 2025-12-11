@@ -26,11 +26,9 @@ source: nse
 stocks:
 - NOIDATOLL
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- margin-requirements
+- margin
 - price-band
+- surveillance
 title: NOIDATOLL Moved to Stage I of Graded Surveillance Measure (GSM)
 ---
 

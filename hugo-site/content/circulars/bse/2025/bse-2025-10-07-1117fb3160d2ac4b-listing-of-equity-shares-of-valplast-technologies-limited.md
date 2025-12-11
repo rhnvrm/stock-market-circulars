@@ -27,11 +27,9 @@ source: bse
 stocks:
 - VALPLAST
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- valplast-technologies
 title: Listing of Equity Shares of Valplast Technologies Limited
 ---
 

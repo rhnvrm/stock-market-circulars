@@ -39,10 +39,10 @@ stocks:
 - TATASTEELL
 - TVSMOTORCO
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction Settlement No. 686
 ---
 

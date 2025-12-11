@@ -26,16 +26,14 @@ source: bse
 stocks:
 - LIBORD
 - WARDWIZARD
-- SCAGROTECH
+- SCAGRO
 - PASUPATI
 - SHAHFOODS
 - SPANDIV
 tags:
-- graded-surveillance-measure
-- gsm
+- market-discipline
 - surveillance
 - trading-restrictions
-- market-discipline
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

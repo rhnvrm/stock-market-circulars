@@ -32,11 +32,11 @@ stocks:
 - DRREDDY
 - EDELWEISS
 tags:
-- listing
-- equity-shares
+- equity
 - esop
-- preferential-allotment
-- further-issues
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities for Multiple Companies
 ---
 

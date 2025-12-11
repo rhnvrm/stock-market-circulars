@@ -28,12 +28,10 @@ source: bse
 stocks:
 - HARIGOVIND
 tags:
+- preferential-issue
+- public-issue
+- sast
 - takeover
-- open-offer
-- acquisition
-- sebi-sast
-- public-announcement
-- preferential-allotment
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Hari Govind International
   Limited
 ---

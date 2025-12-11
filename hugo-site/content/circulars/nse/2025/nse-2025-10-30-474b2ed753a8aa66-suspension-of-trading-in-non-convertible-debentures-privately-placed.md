@@ -30,14 +30,13 @@ stocks:
 - BANKBARODA
 - HDFCBANK
 tags:
-- trading-suspension
-- non-convertible-debentures
-- debt-market
-- redemption
-- privately-placed
-- sundaram-finance
 - bank-of-baroda
-- hdfc-bank
+- debt-securities
+- ncd
+- privately-placed
+- redemption
+- sundaram-finance
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

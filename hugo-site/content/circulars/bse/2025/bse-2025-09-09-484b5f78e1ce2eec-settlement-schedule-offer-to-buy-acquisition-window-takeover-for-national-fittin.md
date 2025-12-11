@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- NATIONALFITTINGS
+- NATFIT
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat-shares
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for National Fittings Limited Takeover Offer
 ---
 

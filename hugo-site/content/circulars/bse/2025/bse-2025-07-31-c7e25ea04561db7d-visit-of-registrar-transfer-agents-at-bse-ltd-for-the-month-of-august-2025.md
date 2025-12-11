@@ -32,7 +32,7 @@ stocks:
 - RESONANCE
 - ARYAMAN
 - ASIAN
-- BAJAJGLOBAL
+- BAJGLOB
 - BAJAJSTEEL
 - VISAGAR
 - BEE
@@ -75,10 +75,10 @@ stocks:
 - SAMYAK
 - MIDEAST
 tags:
-- registrar-transfer-agents
-- rta-visit
 - corporate-services
 - investor-services
+- rta
+- rta-visit
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for the month of August 2025
 ---
 

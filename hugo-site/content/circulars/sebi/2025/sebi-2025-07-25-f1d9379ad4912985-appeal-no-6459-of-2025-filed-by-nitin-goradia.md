@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- information-disclosure
-- appellate-authority
+- appeal
 - employee-conduct
+- information-disclosure
 - procedural-ruling
+- rti
 title: RTI Appeal No. 6459 of 2025 - Nitin Goradia vs SEBI
 ---
 

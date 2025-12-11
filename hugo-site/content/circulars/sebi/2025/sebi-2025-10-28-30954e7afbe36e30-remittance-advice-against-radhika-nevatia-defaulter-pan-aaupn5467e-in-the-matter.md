@@ -29,12 +29,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
+- bse
 - defaulter
+- demand-notice
 - enforcement
 - illiquid-stock-options
-- bse
-- remittance-advice
+- recovery
 title: Remittance Advice against Radhika Nevatia - Recovery Certificate No. 8091 of
   2024
 ---

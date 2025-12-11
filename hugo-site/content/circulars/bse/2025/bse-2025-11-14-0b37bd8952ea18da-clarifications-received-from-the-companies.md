@@ -29,8 +29,7 @@ stocks:
 - HEMIPROP
 tags:
 - clarification
-- volume-movement
-- price-sensitive-information
+- price-movement
 - regulation-30
 - surveillance
 title: Clarifications received from the companies

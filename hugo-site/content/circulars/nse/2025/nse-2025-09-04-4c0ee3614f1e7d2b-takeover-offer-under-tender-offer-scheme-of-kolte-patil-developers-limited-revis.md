@@ -26,11 +26,10 @@ source: nse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover
-- tender-offer
-- kolte-patil
 - blackstone
 - revised-timeline
+- takeover
+- tender-offer
 title: Revised Takeover Offer for Kolte-Patil Developers Limited Under Tender Offer
   Scheme
 ---

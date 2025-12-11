@@ -24,13 +24,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- karvy-stock-broking
+- appeal
 - client-securities
-- pool-account
-- defaulter-broker
+- defaulter
 - information-disclosure
-- appellate-authority
+- karvy-stock-broking
+- pool-account
+- rti
 title: RTI Appeal Decision - SEBI Denies Information Request on Karvy Stock Broking
   Client Claims
 ---

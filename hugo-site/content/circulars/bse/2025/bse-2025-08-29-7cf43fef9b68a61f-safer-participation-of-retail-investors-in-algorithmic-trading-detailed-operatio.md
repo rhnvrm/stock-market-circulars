@@ -27,14 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
 - algo-providers
+- algo-trading
 - empanelment
-- api-trading
-- sebi-circular
 - operational-modalities
+- retail-investor
 - risk-management
+- sebi
 title: Detailed Operational Modalities for Safer Participation of Retail Investors
   in Algorithmic Trading - Update
 ---

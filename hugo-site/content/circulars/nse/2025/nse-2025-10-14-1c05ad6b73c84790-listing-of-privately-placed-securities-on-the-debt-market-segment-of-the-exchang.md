@@ -33,19 +33,15 @@ stocks:
 - PIRAMALFI
 - JIOFINANCE
 tags:
-- debt-market
-- listing
+- axis-securities
+- ceat
+- clix-capital
 - commercial-paper
 - debt-securities
+- jio-credit
+- listing
 - private-placement
-- ICICI-Securities
-- Axis-Securities
-- Welspun-Corp
-- Godrej-Industries
-- CEAT
-- Piramal-Finance
-- Clix-Capital
-- Jio-Credit
+- welspun-corp
 title: Listing of Privately Placed Securities on Debt Market Segment - October 14,
   2025
 ---

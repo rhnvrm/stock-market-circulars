@@ -26,11 +26,10 @@ source: bse
 stocks:
 - POWERFIN
 tags:
-- debt-listing
-- non-convertible-debentures
+- debt-securities
+- listing
+- ncd
 - private-placement
-- power-finance-corporation
-- new-listing
 title: Listing of New Debt Securities of Power Finance Corporation Ltd
 ---
 

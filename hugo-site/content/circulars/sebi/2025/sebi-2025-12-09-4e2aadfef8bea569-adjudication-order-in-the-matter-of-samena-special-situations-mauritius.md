@@ -27,15 +27,15 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- fpi
-- foreign-portfolio-investor
+- adjudication
 - beneficial-owner
-- compliance-violation
-- penalty
+- foreign-portfolio-investor
+- fpi
 - material-changes
+- non-compliance
+- penalty
+- regulatory-framework
 - share-class
-- sebi-regulations
 title: Adjudication Order Against Samena Special Situations Mauritius for Delay in
   Intimation of Material Changes
 ---

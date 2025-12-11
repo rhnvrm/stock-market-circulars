@@ -26,12 +26,10 @@ source: nse
 stocks:
 - BOHRAIND
 tags:
+- mark-ab-capital
 - takeover
 - tender-offer
-- acquisition
 - web-bidding
-- bohra-industries
-- mark-ab-capital
 title: Tender offer under Tender Offer scheme of Bohra Industries Limited
 ---
 

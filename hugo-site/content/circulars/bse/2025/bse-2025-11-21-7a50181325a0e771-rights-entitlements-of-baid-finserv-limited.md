@@ -28,13 +28,12 @@ source: bse
 stocks:
 - BAIDFIN
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- demat
 - equity
-- trading
+- renunciation
+- rights-issue
 - settlement
-- dematerialized
+- trading
 title: Rights Entitlements of BAID FINSERV LIMITED
 ---
 

@@ -26,12 +26,12 @@ source: sebi
 stocks:
 - AADHAARVIL
 tags:
-- adjudication-order
-- preferential-allotment
-- icdr-regulations
-- pfutp-regulations
 - aadhaar-ventures
+- adjudication
 - funding-violations
+- icdr
+- preferential-issue
+- regulatory-framework
 title: Adjudication Order in respect of Omprakash A Khandelwal in the matter of Aadhaar
   Ventures India Limited
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - OFSL
 tags:
-- corporate-actions
-- debentures
-- part-redemption
+- corporate-action
+- face-value-change
 - interest-payment
-- reduced-face-value
+- ncd
+- redemption
 title: Part Redemption of Debentures of OXYZO FINANCIAL SERVICES LIMITED
 ---
 

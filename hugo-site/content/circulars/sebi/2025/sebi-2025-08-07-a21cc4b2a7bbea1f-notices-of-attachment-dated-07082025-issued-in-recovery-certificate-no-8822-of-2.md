@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- attachment
 - enforcement
-- attachment-notice
-- unregistered-investment-advisor
-- recovery-certificate
+- recovery
 - smart-gain-advisory
+- unregistered-investment-advisor
 title: SEBI Issues Attachment Notice Against Smart Gain Advisory Services for Unregistered
   Investment Advisory
 ---

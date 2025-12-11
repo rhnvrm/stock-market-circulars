@@ -27,11 +27,11 @@ source: bse
 stocks:
 - DPABHUSHAN
 tags:
-- new-listing
-- equity-shares
+- conversion
+- equity
+- listing
+- lock-in
 - preferential-issue
-- warrant-conversion
-- lock-in-period
 title: Listing of New Securities of D P ABHUSHAN LIMITED - 1,67,500 Equity Shares
 ---
 

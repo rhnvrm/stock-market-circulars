@@ -26,11 +26,9 @@ source: nse
 stocks:
 - GROWW
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- GROWW
+- listing
 title: Listing of Equity Shares of Billionbrains Garage Ventures Limited (IPO)
 ---
 

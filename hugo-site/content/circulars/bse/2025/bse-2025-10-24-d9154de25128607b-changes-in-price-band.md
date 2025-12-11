@@ -28,7 +28,7 @@ stocks:
 - AAPLUS
 - AASTMANG
 - ABMKNOW
-- AMALgelec
+- AMALGELEC
 - AMKAY
 - ANIRIT
 - AVANCE
@@ -83,10 +83,10 @@ stocks:
 - XELPMOC
 - YOGI
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-regulation
 - volatility-control
 title: Price Band Revisions for 57 Securities Effective October 27, 2025
 ---

@@ -26,12 +26,10 @@ source: bse
 stocks:
 - STARIMAGIN
 tags:
+- equity
 - listing
-- equity-shares
-- sme
-- new-listing
-- star-imaging
 - path-lab
+- sme
 title: Listing of Equity Shares of STAR IMAGING AND PATH LAB LIMITED
 ---
 

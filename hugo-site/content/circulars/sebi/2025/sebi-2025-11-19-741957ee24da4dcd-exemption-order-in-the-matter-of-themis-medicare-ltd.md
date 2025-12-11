@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - THEMIS
 tags:
-- takeover-regulations
 - exemption-order
-- substantial-acquisition
 - promoter-group
+- sast
 - share-acquisition
+- takeover-regulations
 - voting-rights
 title: Exemption Order in the matter of Themis Medicare Ltd.
 ---

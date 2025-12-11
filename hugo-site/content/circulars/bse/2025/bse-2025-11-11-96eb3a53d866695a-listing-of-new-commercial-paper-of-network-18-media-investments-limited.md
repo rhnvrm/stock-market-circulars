@@ -27,9 +27,8 @@ stocks:
 - NETWORK18
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- network18
 - short-term-debt
 title: Listing of New Commercial Paper of Network 18 Media & Investments Limited
 ---

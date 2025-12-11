@@ -27,12 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
+- derivatives
 - mock-trading
 - neat-software
-- system-upgrade
-- trading-platform
+- system-update
 - technology
+- trading-platform
 title: Mock Trading Session on October 25, 2025 - Mandatory NEAT Version 1.5.3 Upgrade
 ---
 

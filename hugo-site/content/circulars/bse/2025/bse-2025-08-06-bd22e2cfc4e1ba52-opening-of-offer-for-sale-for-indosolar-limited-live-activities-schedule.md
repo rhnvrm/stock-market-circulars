@@ -26,13 +26,12 @@ source: bse
 stocks:
 - WAAREEINDO
 tags:
-- ofs
-- offer-for-sale
-- indosolar
-- trading-schedule
 - equity
-- retail-investors
-- institutional-investors
+- indosolar
+- institutional-investor
+- ofs
+- retail-investor
+- trading-schedule
 title: Opening of Offer for Sale for INDOSOLAR LIMITED - Live Activities Schedule
 ---
 

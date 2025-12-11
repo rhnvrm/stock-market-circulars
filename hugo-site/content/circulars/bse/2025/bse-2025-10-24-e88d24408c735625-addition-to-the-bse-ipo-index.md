@@ -26,13 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544587'
+- MIDWESTLTD
 tags:
-- index
-- bse-ipo-index
-- new-listing
-- index-addition
+- bse-index
 - equity
+- index-change
+- index-fund
+- listing
 title: Addition to the BSE IPO Index
 ---
 

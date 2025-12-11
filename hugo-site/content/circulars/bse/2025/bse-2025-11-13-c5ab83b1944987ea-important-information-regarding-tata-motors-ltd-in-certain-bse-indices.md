@@ -25,15 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- index-rebalancing
-- demerger
 - corporate-action
+- index-change
+- scheme-of-arrangement
 - sensex
 - tata-motors
-- index-exclusion
-- scheme-of-arrangement
 title: Important Information Regarding Tata Motors Ltd in certain BSE Indices
 ---
 

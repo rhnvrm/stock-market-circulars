@@ -27,14 +27,13 @@ source: bse
 stocks:
 - CHOLAFIN
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
-- record-date
-- non-convertible-debentures
-- debt-market
 - cholamandalam
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of CHOLAMANDALAM INVESTMENT AND FINANCE
   COMPANY LTD
 ---

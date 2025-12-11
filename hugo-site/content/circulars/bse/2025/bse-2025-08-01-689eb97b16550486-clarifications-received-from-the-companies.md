@@ -28,12 +28,12 @@ stocks:
 - ZUARIAGRO
 - ELEGANT
 tags:
-- price-movement
-- volume-spike
-- surveillance
 - clarification
 - disclosure
+- price-movement
 - regulation-30
+- surveillance
+- volume-spike
 title: Clarifications received from companies regarding price/volume movements
 ---
 

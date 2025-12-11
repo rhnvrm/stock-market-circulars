@@ -27,12 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- networth
-- clearing-members
-- penalties
-- compliance
 - administrative-action
-- sebi-regulations
+- clearing-members
+- compliance
+- networth
+- penalty
+- regulatory-framework
 title: Administrative Actions in case of failure to maintain minimum prescribed Networth
 ---
 

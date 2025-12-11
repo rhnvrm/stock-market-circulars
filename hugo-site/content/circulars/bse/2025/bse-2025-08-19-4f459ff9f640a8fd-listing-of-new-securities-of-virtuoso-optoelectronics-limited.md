@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VIRTUOSO
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of new Securities of Virtuoso Optoelectronics Limited - 31.5 Lakh Equity
   Shares
 ---

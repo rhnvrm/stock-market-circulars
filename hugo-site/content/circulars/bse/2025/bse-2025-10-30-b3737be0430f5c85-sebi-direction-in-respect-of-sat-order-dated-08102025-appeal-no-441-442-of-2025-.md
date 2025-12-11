@@ -27,13 +27,11 @@ source: bse
 stocks:
 - GOLDENTOB
 tags:
+- appeal
+- debarment
 - enforcement
 - penalty
-- debarment
-- sat-order
-- appeal
-- golden-tobacco
-- regulatory-action
+- regulatory
 title: SEBI Direction in Respect of SAT Order on Golden Tobacco Limited Matter - Partial
   Stay Granted
 ---

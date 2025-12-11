@@ -27,12 +27,12 @@ source: bse
 stocks:
 - EXATO
 tags:
-- ipo
-- anchor-investors
+- allotment
+- anchor-investor
+- equity
 - exato-technologies
+- ipo
 - public-issue
-- allocation
-- equity-listing
 title: Public Issue of EXATO TECHNOLOGIES LIMITED - Allocation to Anchor Investors
 ---
 

@@ -27,9 +27,8 @@ stocks:
 - KOTAKMAH
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- kotak-mahindra
 - short-term-debt
 title: Listing of Commercial Paper by Kotak Mahindra Investments Limited
 ---

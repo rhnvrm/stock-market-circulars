@@ -27,9 +27,8 @@ stocks:
 - CREATIVE
 - CNL
 tags:
-- symbol-change
 - listing
-- creative-newtech
+- name-change
 - ticker-update
 title: Change in Symbol of Creative Newtech Limited
 ---

@@ -28,14 +28,10 @@ source: bse
 stocks:
 - ONIXSOLAR
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
-- onix-solar-energy
-- onix-renewable
-- substantial-acquisition
 - change-in-control
+- onix-renewable
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Onix Solar Energy
   Limited
 ---

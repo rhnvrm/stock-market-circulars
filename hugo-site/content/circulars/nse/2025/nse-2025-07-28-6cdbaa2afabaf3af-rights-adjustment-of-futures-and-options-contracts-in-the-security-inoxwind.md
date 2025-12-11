@@ -26,11 +26,11 @@ source: nse
 stocks:
 - INOXWIND
 tags:
-- futures-options
-- rights-issue
 - contract-adjustment
 - corporate-action
 - derivatives
+- futures-options
+- rights-issue
 title: Rights Adjustment of Futures and Options Contracts for INOX WIND LIMITED
 ---
 

@@ -27,12 +27,12 @@ source: nse
 stocks:
 - KRISHNADEF
 tags:
+- emerge-platform
+- equity
 - listing
-- sme
-- emerge
-- preferential-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- sme
 title: Listing of Further Issues of Krishna Defence and Allied Industries Limited
 ---
 

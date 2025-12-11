@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BAJFINANCE
 tags:
+- bajaj-finance
+- bond
 - debt-securities
 - listing
 - private-placement
-- bajaj-finance
-- corporate-bond
 title: Listing of new debt securities of Bajaj Finance Limited
 ---
 

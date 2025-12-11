@@ -28,8 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - marwadi-shares
+- private-placement
 - zero-coupon
 title: Listing of new debt securities of Marwadi Shares and Finance Limited
 ---

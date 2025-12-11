@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- hybrid-fund
+- multi-asset
 - mutual-fund
 - nfo
-- sip
 - pgim-india
-- hybrid-fund
-- bse-star-mf
-- multi-asset-allocation
+- sip
 title: Launch of NFO with SIP facility of PGIM INDIA Mutual Fund on BSE StAR MF Platform
 ---
 

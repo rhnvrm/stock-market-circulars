@@ -24,16 +24,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- fund-reopening
-- nippon-india
 - mnc-fund
-- nse-mf-invest
+- mutual-fund
+- nippon-india
+- redemption
+- reopening
 - sip
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
+- trading-platform
 title: Nippon India MNC Fund Reopens for Transactions on NSE MF Invest Platform
 ---
 

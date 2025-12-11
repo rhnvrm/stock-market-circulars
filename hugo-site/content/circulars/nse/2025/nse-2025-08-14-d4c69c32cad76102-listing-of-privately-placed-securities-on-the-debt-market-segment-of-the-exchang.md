@@ -30,16 +30,16 @@ stocks:
 - AIFL
 - GIL
 - AIL
-- CEAT
+- CEATLTD
 - KSL
 - AOL
 - SRF
 - NDL
 tags:
-- debt-market
 - commercial-paper
-- private-placement
+- debt-securities
 - listing
+- private-placement
 - securities
 title: Listing of privately placed securities on the debt market segment of the exchange
 ---

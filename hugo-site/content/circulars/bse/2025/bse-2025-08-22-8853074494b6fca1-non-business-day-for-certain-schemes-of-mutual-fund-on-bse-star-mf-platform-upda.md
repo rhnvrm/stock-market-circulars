@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
 - bandhan
+- fund-of-funds
+- holiday
+- mutual-fund
 - treasury-bond
-- fund-of-fund
 title: Non-Business Day for BANDHAN US Treasury Bond 0-1 Year Fund of Fund on BSE
   StAR MF Platform
 ---

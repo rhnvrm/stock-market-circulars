@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NSDL
 tags:
-- public-issue
-- anchor-investors
-- nsdl
-- allocation
+- allotment
+- anchor-investor
 - ipo
+- public-issue
 title: Public Issue of National Securities Depository Limited - Allocation to Anchor
   Investors
 ---

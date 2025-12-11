@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- pass-through-certificates
-- ptc
-- partial-redemption
+- catalyst-trusteeship
 - debt-securities
 - face-value-reduction
+- ptc
+- redemption
 - shanks
-- catalyst-trusteeship
 title: Part Redemption of PTCs of SHANKS 01 2025 SERIES A2
 ---
 

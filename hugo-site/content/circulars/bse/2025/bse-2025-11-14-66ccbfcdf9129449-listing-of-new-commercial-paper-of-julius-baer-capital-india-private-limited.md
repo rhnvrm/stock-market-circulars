@@ -27,10 +27,10 @@ stocks: []
 tags:
 - commercial-paper
 - debt-securities
-- listing
-- julius-baer-capital
-- private-placement
 - hdfc-bank
+- julius-baer-capital
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Julius Baer Capital (India) Private Limited
 ---
 

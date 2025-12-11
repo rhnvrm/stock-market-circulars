@@ -70,7 +70,7 @@ stocks:
 - INDIANRAIL
 - INDRAYANI
 - JINDALLEASE
-- JINDALPHOTO
+- JINDALPHOT
 - JINDALPOLY
 - KANORIA
 - KELLTON
@@ -89,12 +89,12 @@ stocks:
 - NATSEC
 - NESTLE
 - OBEROI
-- OILINDIA
+- OIL
 - OLAELEC
 - ONEMOBIKWIK
 - ORIENTCEM
 - OSWAL
-- PAUSHAK
+- PAUSHAKLTD
 - PICCADILY
 - RAJNISH
 - RAWEDGE
@@ -115,19 +115,19 @@ stocks:
 - TIMEX
 - TVSMOTOR
 - VARROC
-- VIKRAMSOLAR
+- VIKRAMSOLR
 - VISHNU
 - WARDWIZARDF
 - WARDWIZARDI
 - WINDSOR
 - WORTH
-- YASHCHEMEX
+- YASHCHEM
 - ZENSAR
 tags:
-- demat-auction
+- demat
+- securities-auction
 - settlement
 - trading
-- securities-auction
 title: BSE Demat Auction Settlement No. 705 - Multiple Securities
 ---
 

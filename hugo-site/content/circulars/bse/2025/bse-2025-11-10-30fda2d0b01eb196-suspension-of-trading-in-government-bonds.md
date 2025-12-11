@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-bonds
-- sovereign-gold-bond
-- trading-suspension
-- debt-segment
+- corporate-action
+- debt-securities
+- gold
+- gsec
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Government Bonds - Sovereign Gold Bond 2017 Series
   VII
 ---

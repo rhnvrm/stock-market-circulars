@@ -28,15 +28,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- investment-advisers
+- aua
+- client-advisory
+- distribution-arrangement
 - ease-of-doing-business
 - fee-structure
-- regulatory-change
-- client-advisory
+- investment-adviser
+- regulatory
+- sebi
 - second-opinion
-- distribution-arrangement
-- AUA
-- SEBI
 title: Ease of Doing Business Measures - Enabling Investment Advisers to Provide Second
   Opinion on Assets Under Pre-existing Distribution Arrangement
 ---

@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl
-- investor-refund
 - collective-investment-schemes
-- lodha-committee
 - information-disclosure
+- investor-refund
+- lodha-committee
+- pacl
+- rti
 title: Appeal No. 6560 of 2025 filed by Ranganathan
 ---
 

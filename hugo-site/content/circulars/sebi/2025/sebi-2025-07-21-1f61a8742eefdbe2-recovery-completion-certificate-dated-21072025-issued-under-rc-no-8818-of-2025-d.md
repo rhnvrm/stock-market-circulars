@@ -26,11 +26,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- certificate
 - enforcement
 - fraser-company
+- recovery
 - yogeeta-shivhare
-- completion-certificate
 title: Recovery Completion Certificate for Mr. Yogeeta Shivhare in Fraser and Company
   Ltd. matter
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GMRINFRA
 tags:
+- bond
 - debt-securities
 - gmr-airports
-- private-placement
 - listing
-- bonds
+- private-placement
 title: Listing of new debt securities of GMR Airports Limited
 ---
 

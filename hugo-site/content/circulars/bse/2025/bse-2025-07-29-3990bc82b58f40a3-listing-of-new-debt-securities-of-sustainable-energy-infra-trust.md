@@ -26,11 +26,11 @@ stocks:
 - SEIT
 tags:
 - debt-securities
+- infra-trust
+- invit
 - listing
 - private-placement
-- invit
 - sustainable-energy
-- infra-trust
 title: Listing of new debt securities of SUSTAINABLE ENERGY INFRA TRUST
 ---
 

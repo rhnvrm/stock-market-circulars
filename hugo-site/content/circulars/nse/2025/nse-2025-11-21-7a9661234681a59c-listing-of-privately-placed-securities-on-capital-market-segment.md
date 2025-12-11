@@ -30,12 +30,12 @@ stocks:
 - HEROFINCORP
 - MUTHOOTFIN
 tags:
-- listing
-- debt-securities
-- privately-placed
-- bonds
-- debentures
+- bond
 - capital-market
+- debt-securities
+- listing
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities on Capital Market Segment - 6 New Debt
   Securities
 ---

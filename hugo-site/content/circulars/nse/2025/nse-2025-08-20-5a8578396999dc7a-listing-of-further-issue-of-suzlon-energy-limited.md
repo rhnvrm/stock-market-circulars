@@ -27,11 +27,10 @@ source: nse
 stocks:
 - SUZLON
 tags:
-- listing
-- equity-shares
-- conversion
-- suzlon
 - capital-market
+- conversion
+- equity
+- listing
 title: Listing of further issue of Suzlon Energy Limited - Conversion of partly paid-up
   to fully paid-up equity shares
 ---

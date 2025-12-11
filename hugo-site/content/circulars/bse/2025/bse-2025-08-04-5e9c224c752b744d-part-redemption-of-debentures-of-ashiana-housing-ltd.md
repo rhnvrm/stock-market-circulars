@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASHIANA
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt-securities
 - ashiana-housing
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 title: Part Redemption of Debentures of ASHIANA HOUSING LTD
 ---
 

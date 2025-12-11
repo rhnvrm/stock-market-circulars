@@ -27,13 +27,12 @@ source: bse
 stocks:
 - 3IINFO
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
 - 3i-infotech
-- equity
-- trade-for-trade
 - demat
+- equity
+- renunciation
+- rights-issue
+- trade-for-trade
 title: Rights Entitlements of 3I INFOTECH LIMITED
 ---
 

@@ -27,12 +27,12 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- stock-options
-- market-manipulation
-- reversal-trades
-- bse
-- pfutp-regulations
 - artificial-volume
+- bse
+- market-operations
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order Against Prem Sanghai for Manipulative Trading in Illiquid
   Stock Options at BSE
 ---

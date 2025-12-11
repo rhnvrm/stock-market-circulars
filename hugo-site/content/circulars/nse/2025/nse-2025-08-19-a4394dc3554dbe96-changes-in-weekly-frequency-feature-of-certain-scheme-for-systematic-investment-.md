@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- sip
 - bandhan-mutual-fund
-- weekly-frequency
 - investment-plan
+- mutual-fund
 - nsemf
+- sip
+- weekly-frequency
 title: Changes in Weekly Frequency feature of certain scheme for Systematic Investment
   Plan (SIP) under Bandhan Mutual Fund on NSE MF Invest Platform
 ---

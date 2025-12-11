@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MANGIND
 tags:
-- rights-issue
-- issue-extension
-- equity-shares
+- equity
+- extension
 - mangalam-industrial-finance
 - renunciation
-- subscription-period
+- rights-issue
+- subscription
 title: MANGALAM INDUSTRIAL FINANCE LIMITED - Extension of Issue Closing Date and On-Market
   Renunciation Date
 ---

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SAMTEL
 tags:
-- delisting
-- suspension
-- status-change
 - appellate-tribunal
-- samtel
+- delisting
+- status-change
+- suspension
 title: Change in status of company - Samtel (India) Ltd delisting rescinded
 ---
 

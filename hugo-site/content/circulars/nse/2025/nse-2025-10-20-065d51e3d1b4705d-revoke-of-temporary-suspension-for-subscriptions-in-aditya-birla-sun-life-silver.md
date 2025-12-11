@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- aditya-birla-sun-life
 - etf
+- fund-of-funds
+- mutual-fund
 - silver
 - subscription
-- fund-of-fund
-- aditya-birla-sun-life
-- nse-mf-invest
+- trading-platform
 title: Revoke of Temporary Suspension for Subscriptions in Aditya Birla Sun Life Silver
   ETF Fund of Fund
 ---

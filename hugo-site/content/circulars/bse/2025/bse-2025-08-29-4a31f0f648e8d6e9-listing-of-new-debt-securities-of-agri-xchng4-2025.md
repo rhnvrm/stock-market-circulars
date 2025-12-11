@@ -28,7 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- AGRI-XCHNG4
 - trading
 title: Listing of new debt securities of AGRI XCHNG4 2025
 ---

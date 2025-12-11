@@ -28,15 +28,13 @@ source: bse
 stocks:
 - ADVENTHOTELS
 tags:
-- index-exclusion
-- demerger
-- scheme-of-arrangement
-- spun-off-scrip
 - circuit-breaker
-- index-rebalancing
 - consumer-discretionary
-- smallcap
+- index-change
 - midsmallcap
+- scheme-of-arrangement
+- smallcap
+- spun-off-scrip
 title: Important Information Regarding Advent Hotels International Ltd in certain
   BSE Indices
 ---

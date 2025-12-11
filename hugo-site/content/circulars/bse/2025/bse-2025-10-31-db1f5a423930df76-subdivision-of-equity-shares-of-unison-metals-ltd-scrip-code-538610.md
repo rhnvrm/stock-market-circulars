@@ -27,11 +27,9 @@ source: bse
 stocks:
 - UNISONMET
 tags:
-- subdivision
-- stock-split
 - corporate-action
-- equity-shares
-- UNISONMET
+- equity
+- split
 title: 'Subdivision of Equity Shares of Unison Metals Ltd (Scrip Code: 538610)'
 ---
 

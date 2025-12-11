@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '539289'
+- AURUM
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
-- lock-in
 - aurum-proptech
+- equity
+- lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Aurum PropTech Limited
 ---
 

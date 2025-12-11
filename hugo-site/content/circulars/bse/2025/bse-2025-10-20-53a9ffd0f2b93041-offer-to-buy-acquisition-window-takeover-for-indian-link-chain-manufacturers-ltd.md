@@ -28,13 +28,10 @@ source: bse
 stocks:
 - INLCM
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
+- equity
 - indian-link-chain-manufacturers
-- INLCM
-- equity-shares
+- otb
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for INDIAN LINK CHAIN MANUFACTURERS
   LTD - Live Activities Schedule
 ---

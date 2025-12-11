@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VERTIS
 tags:
-- debentures
-- trading-suspension
-- redemption
 - debt-securities
-- vertis-infrastructure-trust
+- ncd
 - record-date
+- redemption
+- suspension
+- vertis-infrastructure-trust
 title: Suspension of Trading in Debentures of VERTIS INFRASTRUCTURE TRUST
 ---
 

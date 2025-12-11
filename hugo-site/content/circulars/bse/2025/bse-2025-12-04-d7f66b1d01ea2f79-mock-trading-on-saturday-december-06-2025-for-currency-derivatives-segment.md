@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
 - cross-currency-derivatives
-- bolt-pro-tws
-- testing
-- uat
-- trading-platform
+- derivatives
+- maintenance
+- mock-trading
 - risk-management
+- trading-platform
 title: Mock Trading on Saturday, December 06, 2025 for Currency Derivatives segment
 ---
 

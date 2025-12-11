@@ -51,17 +51,17 @@ stocks:
 - SIEMENERGY
 - PSB
 - METROBRAND
-- VODAFONEIDEA
+- IDEA
 - VEDANTFASH
 tags:
-- index-reconstitution
-- bse-indices
+- addition
+- bse-index
 - bse-india-150
-- bse-midcap-150
+- bse-indices
 - bse-largecap-100
 - bse-largemidcap-250
-- bse-allcap
-- index-additions
+- bse-midcap-150
+- index-change
 - index-deletions
 title: Reconstitution of BSE Indices - December 2025
 ---

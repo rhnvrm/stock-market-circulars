@@ -28,13 +28,12 @@ source: bse
 stocks:
 - TIMETEC
 tags:
-- listing
-- equity-shares
-- qip
-- qualified-institutional-placement
-- time-technoplast
-- new-securities
 - capital-raising
+- equity
+- listing
+- new-securities
+- qip
+- time-technoplast
 title: Listing of 3.98 Crore New Equity Shares of Time Technoplast Ltd. via QIP
 ---
 

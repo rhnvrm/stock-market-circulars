@@ -38,10 +38,8 @@ stocks:
 - LLOYDSME
 - TATATECH
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- employee-stock-options
 - new-securities
 title: Listing of ESOP/ESOS Securities for 12 Companies Effective August 1, 2025
 ---

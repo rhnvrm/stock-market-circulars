@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisory
-- unregistered-services
-- remittance-order
-- recovery-certificate
+- demand-notice
 - enforcement
+- investment-adviser
+- recovery
+- unregistered-services
 title: Remittance Order against Mr. Manish Bhardwaj for Unregistered Investment Advisory
   Services
 ---

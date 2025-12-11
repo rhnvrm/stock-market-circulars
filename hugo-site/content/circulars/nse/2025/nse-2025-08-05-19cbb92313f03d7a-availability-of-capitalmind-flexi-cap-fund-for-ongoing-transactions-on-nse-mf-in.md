@@ -24,14 +24,14 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nse-mf-invest
 - capitalmind
 - flexi-cap-fund
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
+- trading-platform
 title: Availability of Capitalmind Flexi Cap Fund for ongoing transactions on NSE
   MF Invest Platform
 ---

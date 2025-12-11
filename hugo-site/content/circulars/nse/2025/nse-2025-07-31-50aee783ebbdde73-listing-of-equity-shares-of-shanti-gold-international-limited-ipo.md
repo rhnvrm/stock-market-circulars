@@ -26,10 +26,9 @@ source: nse
 stocks:
 - SHANTIGOLD
 tags:
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
 - trading
 title: Listing of Equity Shares of Shanti Gold International Limited (IPO)
 ---

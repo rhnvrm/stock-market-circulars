@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- fund-of-funds
+- groww-mutual-fund
+- multi-asset
 - mutual-fund
 - nfo
-- groww-mutual-fund
-- fund-of-funds
-- multi-asset
-- nse-mf-invest
+- trading-platform
 title: Launch of Groww Multi Asset Omni FOF NFO on NSE MF Invest Platform
 ---
 

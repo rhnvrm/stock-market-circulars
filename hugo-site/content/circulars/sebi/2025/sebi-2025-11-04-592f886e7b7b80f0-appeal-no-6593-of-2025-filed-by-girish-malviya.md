@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- investor-complaints
-- scores-portal
 - appeal-order
-- transparency
 - information-disclosure
+- investor-complaints
+- rti
+- scores-portal
+- transparency
 title: Appeal No. 6593 of 2025 filed by Girish Malviya - RTI Appeal Dismissed
 ---
 

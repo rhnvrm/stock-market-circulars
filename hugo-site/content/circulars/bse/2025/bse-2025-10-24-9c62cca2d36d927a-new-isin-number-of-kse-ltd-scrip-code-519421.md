@@ -28,11 +28,10 @@ source: bse
 stocks:
 - KSELTD
 tags:
-- isin-change
-- share-sub-division
 - corporate-action
-- equity-shares
-- kse-ltd
+- equity
+- isin
+- share-sub-division
 title: New ISIN Number for KSE Ltd Following Sub-Division of Equity Shares
 ---
 

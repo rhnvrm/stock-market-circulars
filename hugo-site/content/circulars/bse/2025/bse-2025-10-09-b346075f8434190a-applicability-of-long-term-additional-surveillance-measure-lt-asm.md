@@ -29,11 +29,10 @@ stocks:
 - VUENOW
 - MCLEODRUSS
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
 - trading-restrictions
-- market-integrity
-- additional-surveillance-measure
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

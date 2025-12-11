@@ -28,12 +28,10 @@ source: bse
 stocks:
 - MINDSPACE
 tags:
-- debt-listing
-- reit
-- mindspace-business-parks
-- private-placement
 - debt-securities
-- new-listing
+- listing
+- private-placement
+- reit
 title: Listing of New Debt Securities of Mindspace Business Parks REIT
 ---
 

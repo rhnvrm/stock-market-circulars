@@ -25,13 +25,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-protection
-- unclaimed-assets
-- dividends
-- shares
-- kyc
+- dividend
 - iepfa
 - investor-education
+- investor-protection
+- kyc
+- shares
+- unclaimed-assets
 title: SEBI and IEPFA Conduct Second Niveshak Shivir in Hyderabad for Unclaimed Assets
   Recovery
 ---

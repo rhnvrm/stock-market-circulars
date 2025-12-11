@@ -26,12 +26,9 @@ source: bse
 stocks:
 - OMKARSC
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
-- trading-measures
+- surveillance
+- trading-operations
 title: Surveillance Measures for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

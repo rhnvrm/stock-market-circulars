@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CHANDRIMA
 tags:
-- corporate-actions
-- sub-division
-- equity-shares
-- chandrima-mercantiles
-- isin-change
+- corporate-action
+- equity
+- isin
+- split
 title: 'Sub-Division of Equity Shares of Chandrima Mercantiles Ltd (Scrip Code: 540829)'
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - URAVI
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- lock-in
+- conversion
 - defence-sector
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Uravi Defence and Technology Limited
 ---
 

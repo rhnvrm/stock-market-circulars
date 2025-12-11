@@ -27,13 +27,11 @@ source: bse
 stocks:
 - PURPLEWAVE
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- sme-ipo
-- mt-group
-- m-group
-- purple-wave-infocom
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of PURPLE WAVE INFOCOM LIMITED
 ---
 

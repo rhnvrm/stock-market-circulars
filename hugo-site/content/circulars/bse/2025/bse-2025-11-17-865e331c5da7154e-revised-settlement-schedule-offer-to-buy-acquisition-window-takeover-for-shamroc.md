@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SHAMROCK
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
-- shamrock-industrial
-- settlement-calendar
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- settlement-calendar
+- takeover
 title: Revised Settlement Schedule for Shamrock Industrial Company Limited Takeover
   Offer
 ---

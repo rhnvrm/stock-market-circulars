@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- holiday-processing
-- settlement
-- debt-funds
-- liquid-funds
+- debt-securities
 - eid-e-milad
+- holiday-processing
+- liquid-fund
+- mutual-fund
+- settlement
 title: BSE StAR MF Platform Transaction Processing for Eid-e-Milad Holiday (September
   5, 2025)
 ---

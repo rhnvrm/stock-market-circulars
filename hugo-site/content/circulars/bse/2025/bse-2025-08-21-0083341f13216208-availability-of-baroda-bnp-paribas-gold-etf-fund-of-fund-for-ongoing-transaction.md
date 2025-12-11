@@ -24,15 +24,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- gold-etf
-- fund-of-fund
 - baroda-bnp-paribas
+- fund-of-funds
+- gold
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
 title: BARODA BNP PARIBAS GOLD ETF FUND OF FUND Reopens for Trading on BSE StAR MF
   Platform
 ---

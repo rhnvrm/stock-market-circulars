@@ -27,11 +27,11 @@ source: bse
 stocks:
 - HOV
 tags:
-- name-change
 - certificate-incorporation
 - corporate-affairs
-- hov-services
 - handson-global-management
+- hov-services
+- name-change
 title: HOV Services Limited Changes Name to Handson Global Management (HGM) Limited
 ---
 

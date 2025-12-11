@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ALGOQUANT
 tags:
-- bonus-shares
-- subdivision
+- bonus
 - corporate-action
+- equity
 - record-date
-- equity-shares
+- split
 title: Sub-division and Bonus Issue of Equity Shares of ALGOQUANT FINTECH LTD
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- bse-star
 - etf
+- liquid-fund
+- mutual-fund
 - nfo
 - sbi
-- liquid-fund
-- bse-star
 title: Launch of ETF NFO of SBI Mutual Fund on BSE StAR MF Platform
 ---
 

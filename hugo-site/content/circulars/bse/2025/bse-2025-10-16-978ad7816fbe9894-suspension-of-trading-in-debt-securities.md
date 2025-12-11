@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- suspension-of-trading
-- debentures
 - maturity
-- corporate-actions
+- ncd
+- suspension-of-trading
 title: Suspension of Trading in Debt Securities - SML 12.75% Debentures Maturity
 ---
 

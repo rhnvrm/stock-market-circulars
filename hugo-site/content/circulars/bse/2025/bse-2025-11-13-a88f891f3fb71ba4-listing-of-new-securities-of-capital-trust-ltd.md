@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- CAPITALTRUST
+- CAPTRUST
 tags:
-- listing
-- rights-issue
-- equity-shares
-- new-securities
 - capital-trust
+- equity
+- listing
+- new-securities
+- rights-issue
 title: Listing of New Rights Issue Securities of Capital Trust Ltd
 ---
 

@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- release-order
-- recovery-certificate
 - enforcement
 - gromo-trade-consultancy
 - pradeep-dhanuka
+- recovery
+- release
 title: 'Release Order dated 30.10.2025 issued under RC 6802 of 2023 drawn against
   Pradeep Dhanuka (PAN: AACPD0526C) in the matter of Gromo Trade & Consultancy Ltd.'
 ---

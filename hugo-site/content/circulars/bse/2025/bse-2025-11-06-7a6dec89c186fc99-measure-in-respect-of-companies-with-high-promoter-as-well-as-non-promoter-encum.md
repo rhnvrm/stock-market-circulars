@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ONELIFE
 tags:
-- surveillance
 - encumbrance
-- promoter-holdings
-- regulatory-framework
-- SEBI-SAST
 - onelife-capital
+- regulatory-framework
+- sast
+- shareholding-pattern
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   Encumbrance as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

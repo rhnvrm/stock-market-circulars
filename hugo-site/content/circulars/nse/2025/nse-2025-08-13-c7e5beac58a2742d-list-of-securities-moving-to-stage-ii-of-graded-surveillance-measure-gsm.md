@@ -26,12 +26,10 @@ source: nse
 stocks:
 - YAARI
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-ii
-- trade-for-trade
 - additional-surveillance-deposit
+- asm-stage
 - surveillance
+- trade-for-trade
 title: YAARI Digital Integrated Services Limited Moved to Stage II of Graded Surveillance
   Measure
 ---

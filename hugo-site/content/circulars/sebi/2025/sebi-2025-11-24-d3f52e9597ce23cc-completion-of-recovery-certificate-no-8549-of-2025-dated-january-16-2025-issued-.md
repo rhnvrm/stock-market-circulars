@@ -28,16 +28,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- enforcement-action
-- illiquid-stock-options
-- bse
-- defaulter
-- wellindia-securities
-- stock-brain-net
 - brain-strong-consulting
-- recovery-certificate
+- bse
 - compliance
+- defaulter
+- enforcement
+- illiquid-stock-options
+- recovery
+- stock-brain-net
+- wellindia-securities
 title: Completion of Recovery Certificate No. 8549 of 2025 - Wellindia Securities
   Limited (Illiquid Stock Options Case)
 ---

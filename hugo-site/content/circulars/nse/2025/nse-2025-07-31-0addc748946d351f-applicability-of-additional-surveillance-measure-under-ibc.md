@@ -35,12 +35,9 @@ stocks:
 - UEL
 - WAAREEINDO
 tags:
-- surveillance
-- asm
-- ibc
 - insolvency
-- bankruptcy
 - monitoring
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

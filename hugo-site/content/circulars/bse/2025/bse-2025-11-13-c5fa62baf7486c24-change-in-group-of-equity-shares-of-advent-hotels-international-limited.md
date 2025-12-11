@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ADVENTHOTELS
 tags:
-- group-change
-- equity-shares
-- advent-hotels
+- equity
 - group-b
-- trading-segment
+- group-change
+- trading
 title: Change in Group of Equity Shares of Advent Hotels International Limited
 ---
 

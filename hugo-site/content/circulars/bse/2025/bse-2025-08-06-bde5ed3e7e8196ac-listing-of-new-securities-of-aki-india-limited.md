@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AKI
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
-- new-listing
+- preferential-issue
 title: Listing of New Securities of AKI India Limited - 1.47 Crore Equity Shares
 ---
 

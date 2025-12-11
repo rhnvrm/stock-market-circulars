@@ -27,12 +27,10 @@ source: bse
 stocks:
 - SSMDAGRO
 tags:
-- shareholding-pattern
-- listing
-- equity-shares
-- promoter-holding
-- public-holding
 - disclosure
+- equity
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of SSMD AGROTECH INDIA LIMITED
 ---
 

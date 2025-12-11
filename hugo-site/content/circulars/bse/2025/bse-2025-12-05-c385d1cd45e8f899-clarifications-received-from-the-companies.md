@@ -31,10 +31,10 @@ stocks:
 - LAXMIDENTL
 tags:
 - clarification
-- volume-increase
-- surveillance
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

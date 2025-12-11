@@ -25,11 +25,10 @@ source: nse
 stocks:
 - HEUBACHIND
 tags:
+- heubach-colorants
+- shares
 - takeover
 - tender-offer
-- heubach-colorants
-- acquisition
-- shares
 title: Takeover offer under Tender Offer scheme of Heubach Colorants India Limited
 ---
 

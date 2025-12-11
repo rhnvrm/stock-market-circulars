@@ -27,13 +27,13 @@ source: nse
 stocks:
 - FCL
 tags:
-- early-pay-in
-- face-value-split
-- corporate-action
-- settlement
-- margin-exemption
-- depository
 - block-mechanism
+- corporate-action
+- depository
+- early-pay-in
+- face-value-change
+- margin-exemption
+- settlement
 title: Early Pay-in of Securities for Fineotex Chemical Limited (FCL)
 ---
 

@@ -30,10 +30,8 @@ stocks:
 - GOPALIRON
 - SONIMEDI
 tags:
-- gsm
-- graded-surveillance-measure
+- market-operations
 - surveillance
-- market-monitoring
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---

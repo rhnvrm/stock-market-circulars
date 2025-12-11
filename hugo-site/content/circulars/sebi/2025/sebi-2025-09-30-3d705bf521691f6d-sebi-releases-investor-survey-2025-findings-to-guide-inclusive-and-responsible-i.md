@@ -27,17 +27,16 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-survey
-- investor-awareness
-- financial-literacy
-- investor-education
-- market-participation
-- grievance-redressal
 - amfi
-- nse
 - bse
-- nsdl
-- cdsl
+- depository
+- financial-literacy
+- grievance-redressal
+- investor-awareness
+- investor-education
+- investor-survey
+- market-participation
+- nse
 title: SEBI Releases Investor Survey 2025; Findings to Guide Inclusive and Responsible
   Investing
 ---

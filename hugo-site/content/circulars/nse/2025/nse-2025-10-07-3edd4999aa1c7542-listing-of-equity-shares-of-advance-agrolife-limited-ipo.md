@@ -26,12 +26,12 @@ source: nse
 stocks:
 - ADVANCE
 tags:
-- listing
-- ipo
-- equity-shares
-- capital-market
-- pre-open-session
 - advance-agrolife
+- capital-market
+- equity
+- ipo
+- listing
+- pre-open-session
 title: Listing of Equity Shares of Advance Agrolife Limited (IPO)
 ---
 

@@ -26,13 +26,12 @@ source: sebi
 stocks:
 - ECONOTRADE
 tags:
-- recovery-certificate
 - compliance-order
-- trading-violations
-- enforcement-action
-- release-order
-- econo-trade-india
+- enforcement
 - individual-entity
+- recovery
+- release
+- trading-operations
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8223
   of 2024 against Arpita Ilesh Patel in the matter of trading by certain entities
   in the scrip of Econo Trade (India) Ltd.

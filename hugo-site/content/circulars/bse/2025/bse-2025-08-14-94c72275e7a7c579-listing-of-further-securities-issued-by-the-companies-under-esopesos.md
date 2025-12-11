@@ -37,10 +37,8 @@ stocks:
 - VEDANTFASH
 tags:
 - esop
-- esos
 - listing
 - securities
-- employee-stock-options
 title: Listing of Further Securities Issued by Companies Under ESOP/ESOS
 ---
 

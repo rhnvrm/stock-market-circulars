@@ -27,11 +27,10 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - enforcement
 - illiquid-stock-options
+- recovery
 - settlement
-- recovery-certificate
 title: Release Order in Recovery Certificate No. RC 8098 of 2024 - Krishna Kumar Jhunjhunwala
   HUF
 ---

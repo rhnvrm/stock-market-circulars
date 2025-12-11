@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
 - progfin-private-limited
-- corporate-bonds
-- new-listing
 title: Listing of New Debt Securities of Progfin Private Limited
 ---
 

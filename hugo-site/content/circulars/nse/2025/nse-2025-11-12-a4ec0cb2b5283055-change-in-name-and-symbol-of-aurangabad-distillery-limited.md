@@ -27,11 +27,8 @@ stocks:
 - AURDIS
 - ALCODIS
 tags:
-- name-change
-- symbol-change
 - corporate-action
-- AURDIS
-- ALCODIS
+- name-change
 title: Change in name and symbol of Aurangabad Distillery Limited
 ---
 

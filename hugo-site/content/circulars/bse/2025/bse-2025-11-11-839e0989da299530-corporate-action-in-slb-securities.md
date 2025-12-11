@@ -37,11 +37,11 @@ stocks:
 - NAUKRI
 - SAFARI
 - NAVA
-- PRICOL
+- PRICOLLTD
 - PFC
 - VENUS
 - IMFA
-- KPENERGY
+- KPEL
 - HUDCO
 - NATIONALUM
 - MOIL
@@ -50,12 +50,12 @@ stocks:
 - EMAMILTD
 - KPIGREEN
 tags:
-- dividend
-- corporate-action
-- slb
-- securities-lending-borrowing
 - book-closure
+- collateral
+- corporate-action
+- dividend
 - record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Announcements for 23 Companies
 ---
 

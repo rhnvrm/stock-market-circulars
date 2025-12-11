@@ -27,11 +27,9 @@ stocks:
 - GEPIL
 - GVPIL
 tags:
-- symbol-change
-- trading
 - ge-power-india
-- GEPIL
-- GVPIL
+- name-change
+- trading
 title: Change in symbol of GE Power India Limited
 ---
 

@@ -27,12 +27,12 @@ source: nse
 stocks:
 - SHUBHLAXMI
 tags:
-- listing
-- sme-emerge
+- conversion
+- emerge-platform
 - further-issue
-- warrant-conversion
-- preferential-allotment
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issue of Securities - Shubhlaxmi Jewel Art Limited
 ---
 

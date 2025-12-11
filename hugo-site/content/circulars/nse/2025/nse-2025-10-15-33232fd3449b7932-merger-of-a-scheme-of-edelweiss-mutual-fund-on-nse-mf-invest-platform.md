@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- scheme-merger
-- edelweiss-mutual-fund
-- debt-fund
-- index-fund
-- target-maturity-fund
-- psu-bonds
 - banking-bonds
+- debt-securities
+- edelweiss-mutual-fund
+- index-fund
+- mutual-fund
+- psu-bonds
+- scheme-merger
+- target-maturity-fund
 title: Merger of Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund with Edelweiss
   Banking and PSU Debt Fund
 ---

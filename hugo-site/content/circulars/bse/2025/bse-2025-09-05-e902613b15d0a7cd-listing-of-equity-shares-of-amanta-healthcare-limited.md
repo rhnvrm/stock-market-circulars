@@ -26,10 +26,8 @@ source: bse
 stocks:
 - AMANTA
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- AMANTA
 title: Listing of Equity Shares of Amanta Healthcare Limited
 ---
 

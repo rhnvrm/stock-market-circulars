@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SELLWIN
 tags:
+- conversion
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- warrant-conversion
-- equity-shares
-- lock-in
 title: Listing of New Securities of SELLWIN TRADERS LIMITED
 ---
 

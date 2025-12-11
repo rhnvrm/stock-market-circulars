@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- debt-instruments
+- debt-securities
+- gsec
 - listing
-- government-securities
-- t-bills
+- treasury-bills
 title: Listing of new Treasury Bills (T-Bills) - November 14, 2025
 ---
 

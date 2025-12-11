@@ -28,11 +28,10 @@ source: nse
 stocks:
 - SHANKARA
 tags:
-- trade-for-trade
-- segment-transfer
 - rolling-segment
-- shankara
 - sebi-guidelines
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade Segment Transfer - Shankara Building Products Limited
 ---
 

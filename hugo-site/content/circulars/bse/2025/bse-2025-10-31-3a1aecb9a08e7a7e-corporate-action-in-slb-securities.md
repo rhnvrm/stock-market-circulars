@@ -59,14 +59,13 @@ stocks:
 - MAZAGON
 - SANOFI
 tags:
-- slb
-- securities-lending-borrowing
-- dividend
-- bonus-issue
+- bonus
+- book-closure
+- collateral
 - corporate-action
-- shut-period
-- ex-date
+- dividend
 - record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issue Announcements
 ---
 

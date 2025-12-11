@@ -26,13 +26,10 @@ source: bse
 stocks:
 - KOSAMATTAM
 tags:
-- listing
-- ncds
-- debentures
-- kosamattam-finance
+- bond
 - debt-securities
-- secured-bonds
-- corporate-bonds
+- listing
+- ncd
 title: BSE Lists Secured Redeemable Non-Convertible Debentures of Kosamattam Finance
   Limited
 ---

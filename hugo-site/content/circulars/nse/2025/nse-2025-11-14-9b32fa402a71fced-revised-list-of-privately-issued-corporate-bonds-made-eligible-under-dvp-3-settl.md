@@ -36,12 +36,12 @@ stocks:
 - POWERFIN
 - IOC
 tags:
-- corporate-bonds
-- debt-segment
+- bond
+- debt-securities
 - dvp-3-settlement
+- fixed-income
 - institutional-platform
 - private-placement
-- fixed-income
 - settlement-mechanism
 title: Revised List of Privately Issued Corporate Bonds Made Eligible Under DVP-3
   Settlement on Institutional Platform

@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Debt Securities of CHOPPER 06 2024
 ---
 

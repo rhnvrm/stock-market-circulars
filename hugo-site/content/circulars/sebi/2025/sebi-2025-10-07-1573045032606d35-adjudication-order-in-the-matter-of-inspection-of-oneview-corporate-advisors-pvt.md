@@ -28,15 +28,15 @@ source: sebi
 stocks:
 - QUALITEKLAB
 tags:
-- adjudication-order
-- merchant-banker
-- oneview-corporate-advisors
-- ipo-due-diligence
-- structural-digital-database
+- adjudication
+- compliance-order
+- investigation
 - investor-complaints
+- ipo-due-diligence
+- merchant-banker
 - nism-certification
-- compliance-violations
-- inspection
+- oneview-corporate-advisors
+- structural-digital-database
 title: Adjudication Order in the matter of inspection of Oneview Corporate Advisors
   Pvt. Ltd.
 ---

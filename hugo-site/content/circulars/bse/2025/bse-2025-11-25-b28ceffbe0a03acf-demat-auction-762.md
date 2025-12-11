@@ -30,7 +30,7 @@ stocks:
 - AARNAVFASH
 - ADANIGREEN
 - ADANIPOWER
-- ADVIKcapital
+- ADVIKCA
 - ANANTAM
 - ARTEMIS
 - ASTEC
@@ -59,7 +59,7 @@ stocks:
 - GUFIC
 - GUJAMB
 - GUJFLUORO
-- GVFILMS
+- GVFILM
 - HGINFRA
 - HEG
 - HIMTEK
@@ -69,7 +69,7 @@ stocks:
 - INDHOTEL
 - INDIANOVER
 - INFOEDGE
-- INFOSYS
+- INFY
 - INTEC
 - INVENTURUS
 - JASCH
@@ -96,7 +96,7 @@ stocks:
 - PGEL
 - PLATINUM
 - POWERFINANCE
-- PRIMEFOCUS
+- PFOCUS
 - RVNL
 - RAIN
 - RATNABHUMI
@@ -133,10 +133,10 @@ stocks:
 - WELSPUNLIV
 - YOGI
 tags:
-- demat-auction
-- settlement
 - auction
 - delivery-shortages
+- demat
+- settlement
 title: Demat Auction Settlement No. 762
 ---
 

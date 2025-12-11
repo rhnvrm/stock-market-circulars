@@ -27,9 +27,9 @@ stocks:
 - MEHUL
 tags:
 - group-change
-- trading-segment
-- sme
 - mehul-colours
+- sme
+- trading
 title: Change in Group of Equity Shares of MEHUL COLOURS LIMITED
 ---
 

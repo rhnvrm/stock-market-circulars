@@ -26,12 +26,10 @@ source: bse
 stocks:
 - MONEYBOXX
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- moneyboxx-finance
-- corporate-bonds
-- new-listing
 title: Listing of New Debt Securities of MONEYBOXX FINANCE LIMITED
 ---
 

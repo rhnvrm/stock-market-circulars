@@ -29,14 +29,11 @@ stocks:
 - BLKASHYAP
 - NRAIL
 tags:
-- surveillance
-- margin-requirements
 - encumbrance
-- promoter-holdings
-- sast-regulation
-- bedmutha
-- blkashyap
-- nrail
+- margin
+- sast
+- shareholding-pattern
+- surveillance
 title: Measure in respect of companies with high Promoter as well as non-promoter
   Encumbrance as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

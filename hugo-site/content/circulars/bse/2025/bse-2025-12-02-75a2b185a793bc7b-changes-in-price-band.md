@@ -34,15 +34,15 @@ stocks:
 - PARMESHWAR
 - PERMAGNET
 - SHIKHARCL
-- SHININGTOOLS
+- SHTL
 - SHREESHAY
 - SWPEL
 tags:
+- market-operations
 - price-band
-- trading-limits
 - surveillance
+- trading-operations
 - volatility-control
-- market-regulation
 title: Changes in Price Band for 11 Scrips Effective December 3, 2025
 ---
 

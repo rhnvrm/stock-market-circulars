@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investor-awareness
-- fraud-prevention
-- market-infrastructure
 - financial-scams
+- fraud-prevention
+- investor-awareness
 - investor-protection
+- market-infrastructure
 - social-media-scams
 - trading-fraud
 title: 'SEBI and MIIs Launch Joint Investor Awareness Campaign: SEBI vs SCAM'

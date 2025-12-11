@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-derivatives
-- trading-session
-- system-testing
+- derivatives
 - market-operations
+- mock-trading
 - saturday-trading
+- trading-session
 title: Mock Trading Session for Equity Derivatives Segment - July 26, 2025
 ---
 

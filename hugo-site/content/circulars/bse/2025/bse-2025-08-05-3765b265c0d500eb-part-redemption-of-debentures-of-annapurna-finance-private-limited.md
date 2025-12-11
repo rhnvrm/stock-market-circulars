@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AFPL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-securities
 - annapurna-finance
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 title: Part Redemption of Debentures of Annapurna Finance Private Limited
 ---
 

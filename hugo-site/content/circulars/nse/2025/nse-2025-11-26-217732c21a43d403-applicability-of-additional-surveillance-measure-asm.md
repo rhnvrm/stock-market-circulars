@@ -30,11 +30,9 @@ stocks:
 - CBAZAAR
 - SVPGLOB
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- asm
-- margin-requirement
-- long-term-asm
 - trading-restrictions
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term ASM Framework
 ---

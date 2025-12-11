@@ -28,12 +28,11 @@ source: nse
 stocks:
 - GRASIM
 tags:
-- listing
-- further-issue
-- equity-shares
-- partly-paid-conversion
-- grasim
 - capital-market
+- equity
+- further-issue
+- listing
+- partly-paid
 title: Listing of Further Issue of Grasim Industries Limited - Conversion of Partly
   Paid-up Shares
 ---

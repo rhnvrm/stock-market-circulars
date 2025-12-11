@@ -26,14 +26,14 @@ severity: high
 source: nse
 stocks: []
 tags:
+- derivatives
 - encryption
-- security
-- commodity-derivatives
-- trading-system
-- neat-adapter
+- market-infrastructure
 - nnf
 - order-acknowledgement
+- security
 - technical-upgrade
+- trading-platform
 title: New Encryption Mechanism of Interactive Messages & Immediate Order Acknowledgement
 ---
 

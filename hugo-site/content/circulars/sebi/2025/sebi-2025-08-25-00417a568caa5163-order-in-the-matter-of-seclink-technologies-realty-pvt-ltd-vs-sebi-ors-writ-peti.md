@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- court-order
-- writ-petition
-- ipo
 - complaint
-- sebi-directive
+- court-order
+- ipo
+- sebi-order
 - seclink-technologies
+- writ-petition
 title: Order in the matter of Seclink Technologies & Realty Pvt Ltd vs. SEBI & Ors.
   [Writ Petition (L) No. 25682 of 2025]
 ---

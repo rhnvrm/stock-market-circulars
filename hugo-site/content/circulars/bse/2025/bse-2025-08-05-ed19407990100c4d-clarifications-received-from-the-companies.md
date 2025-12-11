@@ -26,10 +26,9 @@ stocks:
 - GMDC
 tags:
 - clarification
-- trading-volume
-- surveillance
 - disclosure
-- GMDC
+- surveillance
+- trading-volume
 title: Gujarat Mineral Development Corporation Limited - Clarification on Trading
   Volume Increase
 ---

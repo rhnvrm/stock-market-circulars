@@ -26,12 +26,11 @@ source: bse
 stocks:
 - WAISL
 tags:
-- debenture
-- redemption
 - corporate-action
 - debt-securities
-- waisl
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debenture of WAISL LIMITED
 ---
 

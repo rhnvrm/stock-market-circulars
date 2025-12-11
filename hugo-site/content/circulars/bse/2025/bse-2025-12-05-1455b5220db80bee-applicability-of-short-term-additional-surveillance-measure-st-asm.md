@@ -35,11 +35,8 @@ stocks:
 - DHILLONFC
 - SOLVEXEDI
 tags:
-- st-asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- short-term-asm
-- market-surveillance
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

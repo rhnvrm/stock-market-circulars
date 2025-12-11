@@ -25,11 +25,11 @@ source: bse
 stocks:
 - PCKRPPL
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
 - pradhaan-city
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of Pradhaan City K R Puram Private Limited
 ---
 

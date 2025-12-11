@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '543261'
+- BIRET
 tags:
+- brookfield-india-reit
 - listing
+- new-securities
 - qip
 - reit
-- qualified-institutional-placement
-- new-securities
-- brookfield-india-reit
 title: Listing of 10.94 Crore Units of Brookfield India REIT via QIP
 ---
 

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '511724'
+- BAIDFIN
 tags:
+- baid-finserv
+- equity
 - listing
 - new-securities
 - rights-issue
-- equity-shares
-- baid-finserv
 title: Listing of New Securities of Baid Finserv Limited
 ---
 

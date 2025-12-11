@@ -28,11 +28,11 @@ source: bse
 stocks:
 - SURAJINDPP
 tags:
+- asm-stage
+- equity
 - listing
+- partly-paid
 - rights-issue
-- partly-paid-shares
-- equity-shares
-- x-group
 - suraj-industries
 title: Listing of Partly Paid-up Equity Shares of Suraj Industries Ltd (Rights Issue)
 ---

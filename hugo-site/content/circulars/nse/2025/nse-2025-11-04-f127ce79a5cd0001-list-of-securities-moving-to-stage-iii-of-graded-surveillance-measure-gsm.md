@@ -28,14 +28,12 @@ source: nse
 stocks:
 - EUROTEXIND
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-iii
-- trade-for-trade
-- surveillance
-- trading-restrictions
 - additional-surveillance-deposit
 - price-band
+- stage-iii
+- surveillance
+- trade-for-trade
+- trading-restrictions
 title: List of Securities Moving to Stage III of Graded Surveillance Measure (GSM)
 ---
 

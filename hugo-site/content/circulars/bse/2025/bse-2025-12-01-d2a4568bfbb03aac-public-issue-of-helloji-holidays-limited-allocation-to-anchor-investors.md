@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HELLOJI
 tags:
-- sme-ipo
-- anchor-investors
-- allocation
-- public-issue
+- allotment
+- anchor-investor
 - helloji-holidays
+- public-issue
+- sme
 title: Public Issue of HELLOJI HOLIDAYS LIMITED - Allocation to Anchor Investors
 ---
 

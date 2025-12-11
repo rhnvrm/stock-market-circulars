@@ -34,10 +34,10 @@ stocks:
 - TPL
 - UCL
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
+- privately-placed
 title: Listing of privately placed securities on the debt market segment
 ---
 

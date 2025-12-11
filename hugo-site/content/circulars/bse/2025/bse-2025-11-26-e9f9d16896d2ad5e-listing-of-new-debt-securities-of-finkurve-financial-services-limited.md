@@ -27,12 +27,11 @@ source: bse
 stocks:
 - FINKURVE
 tags:
+- bond
 - debt-securities
 - listing
-- private-placement
-- finkurve-financial
 - ncd
-- corporate-bonds
+- private-placement
 title: Listing of New Debt Securities of Finkurve Financial Services Limited
 ---
 

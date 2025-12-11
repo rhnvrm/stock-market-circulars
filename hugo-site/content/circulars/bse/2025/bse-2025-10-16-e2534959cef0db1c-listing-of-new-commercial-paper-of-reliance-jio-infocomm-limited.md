@@ -27,11 +27,11 @@ source: bse
 stocks:
 - RJIL
 tags:
+- axis-bank
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - reliance-jio
-- axis-bank
 title: Listing of new Commercial Paper of Reliance Jio Infocomm Limited
 ---
 

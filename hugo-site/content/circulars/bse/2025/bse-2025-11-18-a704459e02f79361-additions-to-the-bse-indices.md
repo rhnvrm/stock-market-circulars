@@ -25,18 +25,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544608'
-- '544609'
-- '544610'
-- '544611'
+- EMMVEE
+- PWL
+- WORKMATES
+- MAHALIFE
 tags:
-- index
-- additions
+- addition
+- bse-index
+- index-fund
 - ipo
-- sme
 - listing
-- bse-ipo-index
-- bse-sme-ipo-index
+- sme
 title: Additions to the BSE Indices - Four New Stocks Being Added
 ---
 

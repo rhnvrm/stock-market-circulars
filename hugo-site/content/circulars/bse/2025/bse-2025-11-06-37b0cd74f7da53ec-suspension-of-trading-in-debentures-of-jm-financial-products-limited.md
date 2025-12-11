@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- debentures
-- debt-market
 - buyback
+- debt-securities
 - interest-payment
-- partial-redemption
 - jm-financial-products
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Products Limited
 ---
 

@@ -28,12 +28,11 @@ source: nse
 stocks:
 - ABINFRA
 tags:
-- early-pay-in
 - corporate-action
-- face-value-split
-- settlement
 - depository
-- ABINFRA
+- early-pay-in
+- face-value-change
+- settlement
 title: Early Pay-in of Securities for A B Infrabuild Limited (ABINFRA)
 ---
 

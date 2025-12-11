@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AAHL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of ADANI AIRPORT HOLDINGS LIMITED
 ---
 

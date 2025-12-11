@@ -28,14 +28,13 @@ source: bse
 stocks:
 - CIFCPL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- corporate-actions
+- corporate-action
 - debt-securities
-- record-date
 - interest-payment
+- ncd
+- record-date
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of CHAITANYA INDIA FIN CREDIT PRIVATE LIMITED
 ---
 

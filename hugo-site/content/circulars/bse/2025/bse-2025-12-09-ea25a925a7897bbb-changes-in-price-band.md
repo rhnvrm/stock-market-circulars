@@ -33,18 +33,18 @@ stocks:
 - GALLARDSTL
 - LGTBUSINESS
 - MARUTIINT
-- PHAARMASIA
+- PHRMASI
 - PRIMAIND
 - RRMETAL
 - SESHACHAL
 - SHLOKKA
 - SYSTEMATIX
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
 - volatility-control
-- market-operations
 title: Price Band Revisions for 13 Securities Effective December 10, 2025
 ---
 

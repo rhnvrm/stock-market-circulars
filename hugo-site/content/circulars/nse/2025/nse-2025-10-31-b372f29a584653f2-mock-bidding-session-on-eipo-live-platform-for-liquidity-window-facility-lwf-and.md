@@ -25,14 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
+- e-gsec
 - eipo
-- mock-session
+- gsec
 - liquidity-window-facility
 - lwf
-- e-gsec
-- government-securities
+- mock-trading
 - primary-market
-- testing
 title: Mock Bidding Session on eIPO Live Platform for Liquidity Window Facility (LWF)
   and e-Gsec
 ---

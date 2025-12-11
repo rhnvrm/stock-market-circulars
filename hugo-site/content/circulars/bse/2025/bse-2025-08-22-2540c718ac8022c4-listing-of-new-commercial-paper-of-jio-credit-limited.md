@@ -26,10 +26,9 @@ stocks:
 - JCL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - jio-credit
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Jio Credit Limited
 ---
 

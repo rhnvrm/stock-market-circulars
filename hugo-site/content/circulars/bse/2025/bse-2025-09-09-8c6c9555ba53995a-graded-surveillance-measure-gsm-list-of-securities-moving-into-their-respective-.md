@@ -31,10 +31,9 @@ stocks:
 - SPARKLE
 - HARMONY
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Graded Surveillance Measure (GSM) - Securities Movement into GSM Stages
 ---
 

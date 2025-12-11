@@ -24,10 +24,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
+- administrative
+- appeal
 - information-access
-- procedural
+- rti
 title: Appeal No. 6480 of 2025 - RTI Appeal by Gopal Agarwal Disposed
 ---
 

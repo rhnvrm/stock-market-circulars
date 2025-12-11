@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SHIVCHEM
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
-- shivchem-agro
+- sme
 title: SME IPO - Draft Offer Document - SHIVCHEM AGRO LIMITED
 ---
 

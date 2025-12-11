@@ -26,10 +26,10 @@ source: nse
 stocks:
 - BIRET
 tags:
-- listing
-- reit
 - brookfield
-- preferential-allotment
+- listing
+- preferential-issue
+- reit
 - units
 title: Listing of Units of Brookfield India Real Estate Trust
 ---

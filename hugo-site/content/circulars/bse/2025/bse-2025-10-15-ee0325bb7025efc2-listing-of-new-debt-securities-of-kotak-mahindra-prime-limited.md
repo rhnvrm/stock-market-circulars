@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KOTAKPRIME
 tags:
+- aaa-rated
 - debt-securities
-- listing
 - kotak-mahindra-prime
+- listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- AAA-rated
 title: Listing of New Debt Securities of Kotak Mahindra Prime Limited
 ---
 

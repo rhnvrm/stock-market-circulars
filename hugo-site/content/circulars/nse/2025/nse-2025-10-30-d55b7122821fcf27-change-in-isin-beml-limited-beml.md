@@ -26,11 +26,10 @@ source: nse
 stocks:
 - BEML
 tags:
-- isin-change
-- stock-split
-- share-sub-division
-- beml
 - corporate-action
+- isin
+- share-sub-division
+- split
 title: Change in ISIN - BEML Limited (BEML)
 ---
 

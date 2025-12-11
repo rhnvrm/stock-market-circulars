@@ -27,11 +27,10 @@ stocks:
 - DECIPHER
 tags:
 - enforcement
-- sebi-order
-- pfutp
-- insider-trading
-- lodr
 - investigation
+- lodr
+- pfutp
+- sebi-order
 title: Order in matter of Decipher Labs Ltd.
 ---
 

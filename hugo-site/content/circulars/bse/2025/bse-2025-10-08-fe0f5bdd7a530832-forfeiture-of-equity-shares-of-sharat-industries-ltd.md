@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SHARATIND
 tags:
-- forfeiture
-- equity-shares
-- partly-paid-shares
-- non-payment
 - call-money
+- equity
+- forfeiture
+- non-payment
+- partly-paid
 title: Forfeiture of Equity Shares of Sharat Industries Ltd.
 ---
 

@@ -32,14 +32,12 @@ stocks:
 - DRSCARGO
 - MIRCELECTR
 tags:
-- surveillance
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
 - price-band
-- rolling-settlement
-- periodic-call-auction
+- rolling-segment
+- surveillance
+- trade-for-trade
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

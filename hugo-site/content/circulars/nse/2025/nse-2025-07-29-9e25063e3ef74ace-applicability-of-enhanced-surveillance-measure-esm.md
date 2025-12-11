@@ -28,11 +28,10 @@ stocks:
 - UNITEDPOLY
 - GPECO
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- margin-requirements
-- surveillance-measures
 title: NSE Enhanced Surveillance Measure (ESM) Framework Updates - July 2025
 ---
 

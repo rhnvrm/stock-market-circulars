@@ -29,10 +29,9 @@ stocks:
 - MEHTA
 - WELTERMAN
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

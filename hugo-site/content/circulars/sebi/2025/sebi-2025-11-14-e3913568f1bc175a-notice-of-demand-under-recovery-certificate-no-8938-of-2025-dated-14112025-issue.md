@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SATYAMCOMP
 tags:
-- recovery-certificate
-- notice-of-demand
+- demand-notice
 - enforcement
-- satyam-computer-services
-- SRSR-holdings
-- debt-recovery
+- recovery
+- srsr-holdings
 title: Notice of Demand under Recovery Certificate No. 8938 of 2025 against SRSR Holdings
   Pvt. Ltd. in Satyam Computer Services Matter
 ---

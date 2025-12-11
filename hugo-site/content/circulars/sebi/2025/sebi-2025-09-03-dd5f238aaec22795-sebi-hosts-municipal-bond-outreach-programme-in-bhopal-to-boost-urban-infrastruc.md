@@ -26,12 +26,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- municipal-bonds
-- urban-infrastructure
 - capital-market
+- financing
+- municipal-bonds
 - outreach-programme
 - ulb
-- financing
+- urban-infrastructure
 title: SEBI Hosts Municipal Bond Outreach Programme in Bhopal to Boost Urban Infrastructure
   Financing
 ---

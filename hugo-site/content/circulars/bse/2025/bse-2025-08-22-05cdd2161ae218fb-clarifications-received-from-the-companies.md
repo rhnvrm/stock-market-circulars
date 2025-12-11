@@ -28,10 +28,10 @@ stocks:
 - IKIO
 - BFIL
 tags:
-- volume-clarification
-- surveillance
-- disclosure-compliance
+- disclosure
+- price-movement
 - price-volume-movement
+- surveillance
 title: Clarifications received from companies regarding volume spurt
 ---
 

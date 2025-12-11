@@ -28,12 +28,11 @@ source: bse
 stocks:
 - FORTIS MALAR
 tags:
+- early-pay-in
+- otb
+- revised-schedule
 - settlement
 - takeover
-- acquisition-window
-- fortis-malar-hospitals
-- revised-schedule
-- early-pay-in
 title: Revised Settlement Schedule for Fortis Malar Hospitals Limited Takeover Offer
 ---
 

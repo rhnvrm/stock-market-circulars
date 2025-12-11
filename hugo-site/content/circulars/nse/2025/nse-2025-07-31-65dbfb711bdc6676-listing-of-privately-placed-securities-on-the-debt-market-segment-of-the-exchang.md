@@ -26,12 +26,11 @@ source: nse
 stocks:
 - ANGELONE
 - GODREJIND
-- WELSPUNCORP
+- WELCORP
 tags:
-- debt-market
-- listing
 - commercial-paper
 - debt-securities
+- listing
 - private-placement
 title: Listing of privately placed securities on the debt market segment
 ---

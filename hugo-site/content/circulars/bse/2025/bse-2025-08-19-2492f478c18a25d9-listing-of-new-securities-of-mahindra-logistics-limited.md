@@ -26,10 +26,10 @@ source: bse
 stocks:
 - MAHLOG
 tags:
-- new-listing
-- rights-issue
-- equity-shares
+- equity
+- listing
 - mahindra-logistics
+- rights-issue
 title: Listing of New Securities of Mahindra Logistics Limited
 ---
 

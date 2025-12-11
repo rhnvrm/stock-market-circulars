@@ -24,17 +24,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ACEALPHATECH
+- ACEALPHA
 - TIMESGUARANTY
-- VALIANTORGANICS
-- VINTAGESECURITIES
+- VALIANTORG
+- VINTAGES
 - YURANUSINFRA
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
   Between Stages
 ---

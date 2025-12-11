@@ -28,9 +28,8 @@ stocks:
 - SUPREMEIND
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- supreme-industries
 - short-term-debt
 title: Listing of New Commercial Paper of Supreme Industries Ltd
 ---

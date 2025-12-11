@@ -25,11 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
 - deputation-request
 - employee-matter
 - information-disclosure
+- rti
 - section-8-exemption
 title: Appeal No. 6571 of 2025 filed by Pranav Hemantbhai Variava
 ---

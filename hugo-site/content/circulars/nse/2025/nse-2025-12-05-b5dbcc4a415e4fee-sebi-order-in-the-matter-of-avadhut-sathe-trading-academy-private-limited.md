@@ -26,13 +26,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
-- trading-restriction
-- market-intermediary
-- investigation
-- interim-order
-- trading-academy
 - debarment
+- interim-order
+- investigation
+- market-intermediary
+- sebi-order
+- trading-academy
+- trading-restrictions
 title: SEBI Order in the matter of Avadhut Sathe Trading Academy Private Limited
 ---
 

@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- investment-advisory
-- unregistered-activities
-- penalty
 - compliance
+- enforcement
+- investment-adviser
+- penalty
+- unregistered-activities
 title: General Remittance Order – RC No. 8759 of 2025 Jadav Vamshi (PAN – BJFPJ9368B)
   - Unregistered Investment Advisory Activities by Baap of Chart
 ---

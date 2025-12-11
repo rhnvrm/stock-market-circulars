@@ -41,11 +41,10 @@ stocks:
 - SUDARSHAN
 - SYSTEMATIX
 tags:
-- esm
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
-- market-operations
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities List Changes
 ---
 

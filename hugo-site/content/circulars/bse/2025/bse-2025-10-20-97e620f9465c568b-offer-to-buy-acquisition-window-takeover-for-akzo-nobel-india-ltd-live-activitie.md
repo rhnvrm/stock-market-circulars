@@ -28,11 +28,9 @@ source: bse
 stocks:
 - AKZOINDIA
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- AKZOINDIA
 - equity
+- otb
+- takeover
 - trading-window
 title: Offer to Buy - Acquisition Window (Takeover) for AKZO NOBEL INDIA LTD - Live
   Activities Schedule

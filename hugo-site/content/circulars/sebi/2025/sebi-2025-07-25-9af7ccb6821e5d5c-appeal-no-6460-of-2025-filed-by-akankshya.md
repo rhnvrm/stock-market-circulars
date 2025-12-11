@@ -24,13 +24,13 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
 - appeal
-- privacy
-- personal-information
 - employee-records
-- pension-benefits
 - nomination-forms
+- pension-benefits
+- personal-information
+- privacy
+- rti
 title: RTI Appeal No. 6460 of 2025 - Information Denied on Privacy Grounds
 ---
 

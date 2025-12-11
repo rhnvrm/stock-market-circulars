@@ -26,10 +26,9 @@ stocks:
 - HGINFRA
 tags:
 - debt-securities
+- icra-rating
 - listing
 - private-placement
-- hg-infra
-- icra-rating
 title: Listing of new debt securities of H.G. Infra Engineering Limited
 ---
 

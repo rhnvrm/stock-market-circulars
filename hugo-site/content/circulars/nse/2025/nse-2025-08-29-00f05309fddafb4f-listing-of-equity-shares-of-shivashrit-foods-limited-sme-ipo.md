@@ -26,12 +26,12 @@ source: nse
 stocks:
 - SHIVASHRIT
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- equity-shares
-- tfts
+- equity
+- listing
+- sme
 - surveillance
+- trading-platform
 title: Listing of Equity Shares of Shivashrit Foods Limited (SME IPO)
 ---
 

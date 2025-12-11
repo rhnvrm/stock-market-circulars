@@ -27,11 +27,11 @@ source: nse
 stocks:
 - HINDUNILVR
 tags:
-- futures-and-options
-- physical-settlement
+- capital-market-settlement
 - contract-adjustment
 - derivative-settlement
-- capital-market-settlement
+- futures-options
+- physical-settlement
 title: Adjustment of Futures & Options Contracts and Physical Settlement in HINDUSTAN
   UNILEVER LIMITED (HINDUNILVR)
 ---

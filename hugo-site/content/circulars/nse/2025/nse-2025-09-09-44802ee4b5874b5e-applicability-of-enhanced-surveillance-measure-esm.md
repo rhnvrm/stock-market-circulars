@@ -29,11 +29,10 @@ stocks:
 - PATTECH
 - TANKUP
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measures
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Updates - September 2025
 ---
 

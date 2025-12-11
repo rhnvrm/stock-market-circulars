@@ -34,15 +34,13 @@ stocks:
 - RAJGAS
 - SHRIKESHAV
 - TRITON
-- UMIYAMOBILE
+- UML
 - VAGHANI
 - OMNITEX
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - October 2025 Updates
 ---
 

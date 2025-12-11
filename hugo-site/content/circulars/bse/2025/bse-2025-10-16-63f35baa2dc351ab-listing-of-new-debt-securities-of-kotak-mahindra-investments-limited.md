@@ -29,11 +29,10 @@ stocks:
 - KOTAKINVEST
 tags:
 - debt-securities
-- listing
-- private-placement
 - kotak-mahindra
-- non-convertible-debentures
-- new-listing
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Kotak Mahindra Investments Limited
 ---
 

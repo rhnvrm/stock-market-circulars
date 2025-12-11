@@ -25,10 +25,9 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-proceedings
-- continental-seeds
-- investigation
 - demand-notice
+- investigation
+- recovery
 - trading-activities
 title: Notice of Demand under Recovery Certificate number 8868 of 2025 issued to Anju
   Devi, Proprietor of Shree Balaji Enterprises

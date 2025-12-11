@@ -31,12 +31,8 @@ stocks:
 - LAKPRE
 - SETUINFRA
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- asm
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

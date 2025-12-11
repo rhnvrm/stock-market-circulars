@@ -30,14 +30,12 @@ stocks:
 - BLACKBUCK
 - EIDPARRY
 - HOMEFIRST
-- NIIT
+- NIITLTD
 - RADICO
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 7 Companies
 ---
 

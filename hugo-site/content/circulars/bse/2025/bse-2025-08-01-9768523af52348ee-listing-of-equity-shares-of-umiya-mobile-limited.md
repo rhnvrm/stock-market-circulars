@@ -26,10 +26,9 @@ source: bse
 stocks:
 - UML
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
 - umiya-mobile
 title: Listing of Equity Shares of Umiya Mobile Limited
 ---

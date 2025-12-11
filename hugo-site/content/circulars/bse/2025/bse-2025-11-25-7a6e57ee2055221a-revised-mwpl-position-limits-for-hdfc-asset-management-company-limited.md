@@ -29,9 +29,7 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- mwpl
 - risk-management
-- hdfc-amc
 - settlement
 title: Revised MWPL Position Limits for HDFC Asset Management Company Limited
 ---

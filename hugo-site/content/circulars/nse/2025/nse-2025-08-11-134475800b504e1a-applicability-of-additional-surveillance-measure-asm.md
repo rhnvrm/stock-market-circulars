@@ -27,11 +27,10 @@ stocks:
 - KANDARP
 - SATIPOLY
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trade-for-trade
+- margin
 - risk-management
+- surveillance
+- trade-for-trade
 title: Additional Surveillance Measure (ASM) - Long Term Framework Implementation
 ---
 

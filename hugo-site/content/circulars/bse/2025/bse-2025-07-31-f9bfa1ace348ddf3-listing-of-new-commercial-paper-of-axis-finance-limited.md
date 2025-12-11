@@ -25,11 +25,10 @@ source: bse
 stocks:
 - AXISBANK
 tags:
-- commercial-paper
-- debt-listing
 - axis-finance
+- commercial-paper
+- debt-securities
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Axis Finance Limited
 ---
 

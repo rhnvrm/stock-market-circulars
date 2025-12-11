@@ -32,11 +32,10 @@ stocks:
 - MADHUR
 - TSPIRIT
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - compliance
 - market-operations
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

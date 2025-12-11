@@ -28,13 +28,11 @@ source: bse
 stocks:
 - CAMS
 tags:
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
-- CAMS
+- equity
+- isin
 - record-date
-- ISIN-change
+- split
 title: 'Sub-Division of Equity Shares of Computer Age Management Services Ltd (Scrip
   Code: 543232)'
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BLUEGOD
 tags:
-- corporate-actions
-- subdivision
-- equity-shares
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of BLUEGOD ENTERTAINMENT LTD (Scrip Code: 539175)'
 ---
 

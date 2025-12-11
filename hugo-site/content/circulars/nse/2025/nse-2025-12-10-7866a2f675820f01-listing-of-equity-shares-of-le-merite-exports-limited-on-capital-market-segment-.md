@@ -27,12 +27,11 @@ source: nse
 stocks:
 - LEMERITE
 tags:
+- emerge-platform
+- equity
 - listing
-- migration
-- sme-emerge
 - main-board
-- equity-shares
-- le-merite-exports
+- migration
 title: Listing of Le Merite Exports Limited on Main Board - Migration from SME Emerge
   Platform
 ---

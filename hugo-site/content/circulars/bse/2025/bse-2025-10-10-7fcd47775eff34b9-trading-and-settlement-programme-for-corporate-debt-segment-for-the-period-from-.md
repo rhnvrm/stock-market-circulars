@@ -27,12 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- settlement
 - corporate-debt
+- debt-securities
 - icdm
-- trading-schedule
-- debt-segment
+- settlement
 - settlement-calendar
+- trading-schedule
 title: Trading and Settlement Programme for Corporate Debt Segment for November 2025
 ---
 

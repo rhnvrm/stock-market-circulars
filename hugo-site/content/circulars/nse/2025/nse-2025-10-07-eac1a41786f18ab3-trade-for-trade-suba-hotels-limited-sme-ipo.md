@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SUBAHOTELS
 tags:
-- trade-for-trade
-- segment-change
-- sme
 - ipo
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Suba Hotels Limited (SME IPO)
 ---
 

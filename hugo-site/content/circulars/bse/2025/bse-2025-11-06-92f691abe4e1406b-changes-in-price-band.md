@@ -35,11 +35,11 @@ stocks:
 - UTL
 - WORTH
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-operations
 title: Changes in Price Band for 9 Securities Effective November 7, 2025
 ---
 

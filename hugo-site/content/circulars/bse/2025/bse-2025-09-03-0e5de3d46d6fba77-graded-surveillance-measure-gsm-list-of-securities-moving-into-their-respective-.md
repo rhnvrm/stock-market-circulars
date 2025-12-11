@@ -27,11 +27,10 @@ stocks:
 - NTBCL
 - POPEES
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - noida-toll-bridge
 - popees-cares
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

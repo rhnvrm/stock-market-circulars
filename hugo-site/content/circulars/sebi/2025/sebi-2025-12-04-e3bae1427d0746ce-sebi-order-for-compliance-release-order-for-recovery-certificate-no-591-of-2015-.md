@@ -28,13 +28,11 @@ source: sebi
 stocks:
 - INDIAPOLYSP
 tags:
-- recovery-proceedings
-- enforcement-action
-- compliance
-- release-order
 - cavalier-securities
-- india-polyspin-limited
-- recovery-certificate
+- compliance
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 591 of 2015 Against Cavalier
   Securities - India Polyspin Limited Matter
 ---

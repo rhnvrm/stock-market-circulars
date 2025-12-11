@@ -27,9 +27,9 @@ stocks:
 - KECIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- kec-international
 - private-placement
-- KEC-International
 - short-term-debt
 title: Listing of New Commercial Paper of KEC International Ltd.
 ---

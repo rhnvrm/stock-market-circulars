@@ -27,11 +27,10 @@ stocks:
 - LTGILTCASE
 tags:
 - etf
+- gsec
 - listing
-- zerodha
-- government-securities
-- g-sec
 - mutual-fund
+- zerodha
 title: Listing of Zerodha Nifty 8-13 Yr G-Sec ETF Units
 ---
 

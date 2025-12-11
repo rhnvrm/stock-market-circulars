@@ -26,12 +26,11 @@ source: bse
 stocks:
 - FISCHERMED
 tags:
-- stock-split
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of Fischer Medical Ventures Ltd (Scrip Code:
   524743)'
 ---

@@ -26,12 +26,12 @@ source: nse
 stocks:
 - DAVAN
 tags:
-- rights-issue
-- trading
-- entitlements
 - davangere-sugar
+- entitlements
 - market-lot
+- rights-issue
 - trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Davangere Sugar
   Company Limited
 ---

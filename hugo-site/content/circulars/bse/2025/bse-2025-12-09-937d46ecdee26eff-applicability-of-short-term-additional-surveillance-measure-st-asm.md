@@ -34,24 +34,23 @@ stocks:
 - TRANSVOY
 - SPRIGHT
 - CONTAINERWAY
-- UMIYATUBES
+- UMIYA
 - AKCAPITAL
 - ATISHAY
-- CAPITALTRUST
+- CAPTRUST
 - ELDECO
 - ERAAYA
-- INFINITYINFOWAY
+- INFINITY
 - JAYKAILASH
 - JAYANTINFRA
 - JDCABLES
 - JHANDEWALAS
 - KAPILRAJ
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

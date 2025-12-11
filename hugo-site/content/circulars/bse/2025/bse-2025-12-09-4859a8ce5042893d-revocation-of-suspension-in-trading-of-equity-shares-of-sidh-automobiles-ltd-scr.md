@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SIDHAUTOM
 tags:
-- trading-suspension
-- revocation
-- equity-shares
-- nbfc
 - auditor-change
+- equity
+- nbfc
+- release
 - resumption-of-trading
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Sidh Automobiles Ltd
 ---
 

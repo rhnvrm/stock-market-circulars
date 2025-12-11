@@ -28,10 +28,10 @@ stocks:
 - SSMD
 tags:
 - group-change
-- sme-ipo
-- trade-for-trade
-- rolling-settlement
+- rolling-segment
 - segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SSMD AGROTECH INDIA LIMITED
 ---
 

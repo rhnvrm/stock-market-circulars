@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MUML
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - face-value
-- corporate-actions
-- debt-segment
 - mumbai-urja-marg-limited
+- ncd
+- redemption
 - revision
 title: Revised Part Redemption of Debentures of Mumbai Urja Marg Limited
 ---

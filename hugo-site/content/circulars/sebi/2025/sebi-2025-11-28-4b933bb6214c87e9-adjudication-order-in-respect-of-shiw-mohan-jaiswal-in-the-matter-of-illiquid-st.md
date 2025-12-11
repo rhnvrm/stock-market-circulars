@@ -27,14 +27,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
-- non-genuine-trades
+- adjudication
 - artificial-volume
 - bse
-- pfutp-regulations
+- market-operations
+- non-genuine-trades
 - penalty
+- regulatory-framework
+- stock-options
 title: Adjudication Order in respect of Shiw Mohan Jaiswal in the matter of Illiquid
   Stock Options at BSE
 ---

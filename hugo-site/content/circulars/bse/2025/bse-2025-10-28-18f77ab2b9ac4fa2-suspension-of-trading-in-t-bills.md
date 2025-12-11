@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- suspension
-- debt-segment
+- corporate-action
+- debt-securities
 - maturity
-- corporate-actions
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 182T311025 (Maturing October 31, 2025)
 ---
 

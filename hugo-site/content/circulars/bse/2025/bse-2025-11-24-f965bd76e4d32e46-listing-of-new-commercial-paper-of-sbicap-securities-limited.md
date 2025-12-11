@@ -27,7 +27,7 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
 - listing
 - private-placement
 - sbicap-securities

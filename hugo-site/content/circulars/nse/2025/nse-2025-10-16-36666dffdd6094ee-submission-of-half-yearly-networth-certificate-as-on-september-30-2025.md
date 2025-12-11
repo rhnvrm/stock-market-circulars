@@ -27,13 +27,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- networth-certificate
+- certificate
 - compliance
-- trading-members
-- regulatory-requirement
-- periodic-submission
-- sebi-regulations
 - financial-disclosure
+- periodic-submission
+- regulatory
+- regulatory-framework
+- trading-member
 title: Submission of Half Yearly Networth Certificate as on September 30, 2025
 ---
 

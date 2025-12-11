@@ -36,12 +36,10 @@ stocks:
 - TEJASNET
 - VEDANTFASH
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - securities
-- employee-stock-options
 title: Listing of Further Securities Issued by Companies Under ESOP/ESOS
 ---
 

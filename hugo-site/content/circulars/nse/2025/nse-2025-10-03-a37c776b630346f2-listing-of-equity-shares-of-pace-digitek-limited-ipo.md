@@ -27,11 +27,10 @@ source: nse
 stocks:
 - PACEDIGITK
 tags:
+- capital-market
+- equity
 - ipo
 - listing
-- equity-shares
-- new-listing
-- capital-market
 - pre-open-session
 title: Listing of Equity Shares of Pace Digitek Limited (IPO)
 ---

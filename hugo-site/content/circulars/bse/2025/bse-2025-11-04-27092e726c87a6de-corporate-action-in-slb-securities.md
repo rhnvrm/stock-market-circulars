@@ -43,13 +43,13 @@ stocks:
 - APTUS
 - RRKABEL
 tags:
-- slb
-- securities-lending-borrowing
+- buyback
+- collateral
 - corporate-action
 - dividend
-- buyback
-- stock-split
 - foreclosure
+- slb
+- split
 title: Corporate Action in SLB Securities - November 2025
 ---
 

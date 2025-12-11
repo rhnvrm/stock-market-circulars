@@ -26,11 +26,10 @@ source: nse
 stocks:
 - EASTERN
 tags:
-- offer-for-sale
+- equity
 - ofs
 - promoter-sale
-- public-shareholding
-- equity-shares
+- shareholding-pattern
 title: Proposed Offer for Sale of Eastern Silk Industries Limited
 ---
 

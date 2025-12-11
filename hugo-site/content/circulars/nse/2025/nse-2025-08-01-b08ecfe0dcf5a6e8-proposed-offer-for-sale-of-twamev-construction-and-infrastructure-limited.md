@@ -25,12 +25,11 @@ source: nse
 stocks:
 - TICL
 tags:
-- offer-for-sale
-- ofs
-- twamev-construction
-- eofs-platform
-- trading
 - capital-market
+- ofs
+- trading
+- trading-platform
+- twamev-construction
 title: Proposed Offer for Sale of Twamev Construction and Infrastructure Limited
 ---
 

@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- axis-finance
+- ncd
 - private-placement
-- debentures
 title: Listing of New Debt Securities of Axis Finance Limited
 ---
 

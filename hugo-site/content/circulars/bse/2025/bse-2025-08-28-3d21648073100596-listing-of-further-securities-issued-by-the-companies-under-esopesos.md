@@ -29,7 +29,7 @@ stocks:
 - FEDBANK
 - HCC
 - ICICIPRULI
-- INDEGENE
+- INDGN
 - INDOSTAR
 - MARICO
 - MOTILALOFS
@@ -39,11 +39,9 @@ stocks:
 - VISHAL
 - WIPRO
 tags:
-- esop
-- esos
-- listing
-- employee-stock-options
 - equity
+- esop
+- listing
 - trading
 title: Listing of Further Securities Issued Under ESOP/ESOS - 14 Companies
 ---

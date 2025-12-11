@@ -26,15 +26,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- nomination
-- mutual-funds
-- demat-accounts
-- investor-protection
-- transmission
-- sebi-regulations
 - amcs
-- depositories
+- demat
+- depository
+- investor-protection
+- mutual-fund
+- nomination
+- regulatory-framework
 - rtas
+- transmission
 - unclaimed-assets
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---

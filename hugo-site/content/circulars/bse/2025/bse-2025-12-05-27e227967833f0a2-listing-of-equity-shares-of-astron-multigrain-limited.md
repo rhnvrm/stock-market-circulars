@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ASTRON
 tags:
-- shareholding-pattern
-- listing
 - disclosure
-- promoter-holding
-- public-shareholding
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of ASTRON MULTIGRAIN LIMITED
 ---
 

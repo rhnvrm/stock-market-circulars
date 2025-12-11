@@ -57,12 +57,12 @@ stocks:
 - CENTRALBK
 - PCBL
 tags:
-- slb
-- securities-lending-borrowing
+- book-closure
+- collateral
 - corporate-action
 - dividend
-- amalgamation
-- shut-period
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - Dividend and Amalgamation Updates
 ---
 

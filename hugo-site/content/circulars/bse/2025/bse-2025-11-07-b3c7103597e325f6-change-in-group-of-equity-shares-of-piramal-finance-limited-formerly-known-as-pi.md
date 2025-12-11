@@ -27,11 +27,11 @@ source: bse
 stocks:
 - PIRAMALFL
 tags:
-- group-change
-- trading
-- piramal-finance
-- equity-shares
+- equity
 - group-b
+- group-change
+- piramal-finance
+- trading
 title: Change in Group of Equity Shares of Piramal Finance Limited
 ---
 

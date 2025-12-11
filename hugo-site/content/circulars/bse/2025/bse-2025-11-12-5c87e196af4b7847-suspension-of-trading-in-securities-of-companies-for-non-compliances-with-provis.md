@@ -31,12 +31,12 @@ stocks:
 - GAYAPROJ
 - NORTHLINK
 tags:
-- trading-suspension
-- sebi-lodr
-- regulation-33
-- quarterly-results
+- financial-results
+- lodr
 - non-compliance
 - promoter-shareholding-freeze
+- regulation-33
+- suspension
 - trade-for-trade
 title: Suspension of Trading in Securities of Four Companies for Non-Compliance with
   SEBI LODR Regulations

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - JSWCMNT
 tags:
+- anchor-investor
+- equity
+- esop
+- ipo
 - listing
 - lock-in
-- equity-shares
-- ipo
-- anchor-investors
-- esop
 title: Listing of Equity Shares of JSW Cement Limited - Lock-in Details
 ---
 

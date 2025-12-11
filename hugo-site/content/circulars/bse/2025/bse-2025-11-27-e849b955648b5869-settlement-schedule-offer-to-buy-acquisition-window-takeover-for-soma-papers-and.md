@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SOMAPAPER
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
 - early-pay-in
-- soma-papers
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SOMA PAPERS
   AND INDUSTRIES LIMITED
 ---

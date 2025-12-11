@@ -27,20 +27,20 @@ source: bse
 stocks:
 - GARNET
 - PARMESHWAR
-- PHAARMASIA
+- PHRMASI
 - REGALENT
 - SHANTIEDU
 - UNIVCABLES
 - VLEGOV
 - VLSFINANCE
-- AVIPOLYMERS
+- AVI
 - SOLVEXEDI
 - DANUBE
 - MADHUVEER
 - PACEECOM
 - SHIVTEX
 - SKMINERALS
-- SUPERTECHEV
+- SEVL
 - AMANAYA
 - ANANDRATHI
 - ANJANIFOODS
@@ -51,11 +51,9 @@ stocks:
 - BHAGAUTO
 - BHASKARAG
 tags:
+- asm-stage
 - surveillance
-- asm
-- short-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

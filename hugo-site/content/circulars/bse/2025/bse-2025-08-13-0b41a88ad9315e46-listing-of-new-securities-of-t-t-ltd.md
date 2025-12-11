@@ -26,10 +26,10 @@ source: bse
 stocks:
 - TTL
 tags:
-- rights-issue
-- equity-shares
+- equity
 - listing
 - new-securities
+- rights-issue
 title: Listing of New Securities of T T Ltd - Rights Issue of 33.33 Million Equity
   Shares
 ---

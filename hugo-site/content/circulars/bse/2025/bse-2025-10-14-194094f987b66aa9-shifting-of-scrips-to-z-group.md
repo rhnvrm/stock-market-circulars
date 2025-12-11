@@ -35,14 +35,13 @@ stocks:
 - SIMBHAOLI
 - VINTRON
 tags:
-- z-group
-- non-compliance
-- regulation-33
+- asm-stage
 - financial-results
-- sebi-lodr
-- trade-for-trade
+- lodr
+- non-compliance
 - penalty
-- quarterly-results
+- regulation-33
+- trade-for-trade
 title: Shifting of Scrips to 'Z' Group - Non-Compliance with Regulation 33 for Q4
   2025 & Q1 2025
 ---

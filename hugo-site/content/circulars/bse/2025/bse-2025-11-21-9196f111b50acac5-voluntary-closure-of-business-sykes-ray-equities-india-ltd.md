@@ -25,10 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
 - currency-segment
-- trading-member
 - membership
+- surrender
+- trading-member
 title: Voluntary Closure of Business – SYKES & RAY EQUITIES (INDIA) LTD.
 ---
 

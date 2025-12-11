@@ -30,11 +30,8 @@ stocks:
 - HEMO
 - SCINTILLA
 tags:
-- gsm
 - surveillance
-- graded-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: GSM Framework - Securities Moving to Higher Surveillance Stages
 ---
 

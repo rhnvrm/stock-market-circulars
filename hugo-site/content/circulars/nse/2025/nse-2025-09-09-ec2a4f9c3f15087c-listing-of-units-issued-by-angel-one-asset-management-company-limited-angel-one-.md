@@ -25,10 +25,10 @@ source: nse
 stocks:
 - AONEGOLD
 tags:
+- angel-one
 - etf
 - gold
 - listing
-- angel-one
 - mutual-fund
 title: Listing of Angel One Gold ETF Units on NSE
 ---

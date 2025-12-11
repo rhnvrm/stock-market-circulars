@@ -26,10 +26,8 @@ source: bse
 stocks:
 - JSWCEMENT
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- jsw-cement
 title: Listing of Equity Shares of JSW CEMENT LIMITED
 ---
 

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - STARLINEPS
 tags:
-- rights-issue
-- equity-shares
+- corporate-action
+- equity
 - ex-rights-trading
-- corporate-actions
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares of STARLINEPS ENTERPRISES LIMITED - Ex-Rights
   Trading from September 8, 2025
 ---

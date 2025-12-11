@@ -31,10 +31,9 @@ stocks:
 - PRASHANT
 - CAPFIN
 tags:
-- gsm
-- surveillance
-- market-regulation
+- market-operations
 - risk-management
+- surveillance
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---

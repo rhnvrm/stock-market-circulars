@@ -25,13 +25,13 @@ severity: high
 source: nse
 stocks: []
 tags:
+- cyber-security
+- debt-securities
+- ebp-segment
+- mandatory-compliance
 - password-reset
 - security
-- ebp-segment
-- debt-segment
-- cyber-security
 - system-access
-- mandatory-compliance
 title: Password Encryption for EBP Segment - Mandatory Password Reset
 ---
 

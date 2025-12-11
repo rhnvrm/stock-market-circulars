@@ -30,13 +30,10 @@ stocks:
 - INDSOYA
 - SYBLY
 tags:
-- gsm
+- market-operations
 - surveillance
-- market-regulation
-- trading-restrictions
-- caprolactam-chemicals
-- indsoya
 - sybly-industries
+- trading-restrictions
 title: GSM Framework - Three Securities Moving to Higher Surveillance Stages
 ---
 

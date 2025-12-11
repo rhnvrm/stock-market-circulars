@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ARYAVAN
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
+- preferential-issue
 title: Listing of New Securities of ARYAVAN ENTERPRISE LIMITED
 ---
 

@@ -26,7 +26,7 @@ severity: low
 source: bse
 stocks:
 - 3IINFOLTD
-- ADITYAVISION
+- AVL
 - CGPOWER
 - HDBFIN
 - INDIGO
@@ -37,12 +37,10 @@ stocks:
 - SOUTHBANK
 - STARHEALTH
 tags:
-- esop
-- esos
-- listing
 - equity
+- esop
+- listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 11 Companies
 ---
 

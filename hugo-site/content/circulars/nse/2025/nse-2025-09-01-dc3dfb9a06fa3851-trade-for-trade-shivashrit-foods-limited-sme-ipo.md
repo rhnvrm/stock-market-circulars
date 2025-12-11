@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SHIVASHRIT
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Shivashrit Foods Limited (SME IPO)
 ---
 

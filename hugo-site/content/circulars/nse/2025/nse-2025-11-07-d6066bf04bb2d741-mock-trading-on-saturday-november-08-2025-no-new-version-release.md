@@ -27,12 +27,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- neat-version
-- neat-adapter
+- derivatives
 - encryption
-- testing
+- mock-trading
+- trading-platform
 title: Mock Trading on Saturday, November 08, 2025 - No New Version Release
 ---
 

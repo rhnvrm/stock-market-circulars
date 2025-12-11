@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
 - collective-investment-schemes
-- refund-order
-- investor-protection
-- enforcement-action
-- prohibitory-order
+- enforcement
 - four-season-farms-limited
+- investor-protection
+- prohibitory-order
+- recovery
+- refund-order
 title: Order No. 005 of 2025 dated 07.11.2025 issued under RC No. 0436 of 2014 in
   the matter of M/s Four Season Farms Limited
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HIGHWAY
 tags:
-- shareholding-pattern
+- highway-infrastructure
 - ipo
 - listing
-- highway-infrastructure
-- promoter-holding
+- shareholding-pattern
 title: Listing of Equity Shares of Highway Infrastructure Limited
 ---
 

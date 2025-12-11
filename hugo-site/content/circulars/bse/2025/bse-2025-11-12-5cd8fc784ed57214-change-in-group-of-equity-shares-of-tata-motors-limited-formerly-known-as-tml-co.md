@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- group-change
-- tata-motors
-- trading-segment
 - group-b
+- group-change
 - scrip-544569
+- tata-motors
+- trading
 title: Change in Group of Equity Shares of Tata Motors Limited (Formerly known as
   TML Commercial Vehicles Limited)
 ---

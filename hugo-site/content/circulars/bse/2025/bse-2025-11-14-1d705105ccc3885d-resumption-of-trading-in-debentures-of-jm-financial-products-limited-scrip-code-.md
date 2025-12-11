@@ -27,13 +27,13 @@ source: bse
 stocks:
 - JMFINPRDCT
 tags:
-- debentures
-- trading-resumption
-- partial-redemption
 - buyback
-- corporate-actions
+- corporate-action
 - debt-securities
 - jm-financial-products
+- ncd
+- redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of JM Financial Products Limited (Scrip
   Code 974922)
 ---

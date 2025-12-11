@@ -24,16 +24,13 @@ severity: low
 source: bse
 stocks:
 - IGARASHI
-- JBMAUTO
+- JBMA
 - MKEXIM
 tags:
-- volume-clarification
-- surveillance
 - disclosure
-- price-sensitive-information
-- IGARASHI
-- JBMAUTO
-- MKEXIM
+- jbmauto
+- price-movement
+- surveillance
 title: Volume Clarifications from Igarashi Motors, JBM Auto, and M.K. Exim
 ---
 

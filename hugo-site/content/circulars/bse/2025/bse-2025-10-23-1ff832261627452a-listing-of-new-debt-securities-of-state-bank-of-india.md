@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SBI
 tags:
+- bond
 - debt-securities
+- demat
 - listing
-- state-bank-of-india
-- sbi
 - private-placement
-- demat-only
-- corporate-bonds
+- state-bank-of-india
 title: Listing of New Debt Securities of State Bank of India
 ---
 

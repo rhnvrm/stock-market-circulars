@@ -28,9 +28,9 @@ source: bse
 stocks:
 - PFOCUS
 tags:
-- listing
-- equity-shares
 - allotment
+- equity
+- listing
 - lock-in
 - preferential-issue
 title: Listing of New Securities of Prime Focus Limited - Allotment Details

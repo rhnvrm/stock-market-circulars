@@ -26,15 +26,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- hybrid-fund
+- multi-asset
 - mutual-fund
 - pgim-india
-- multi-asset-allocation
-- bse-star-mf
+- reopening
 - sip
 - stp
 - swp
-- hybrid-fund
-- reopening
 title: Availability of PGIM India Multi Asset Allocation Fund for Ongoing Transactions
   on BSE StAR MF Platform
 ---

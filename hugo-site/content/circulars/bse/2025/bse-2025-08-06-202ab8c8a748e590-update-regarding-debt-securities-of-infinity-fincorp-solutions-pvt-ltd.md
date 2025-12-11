@@ -26,8 +26,8 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- isin
 - ncd
-- isin-change
 - security-mode
 - trading-terms
 title: Update Regarding Debt Securities of Infinity Fincorp Solutions Pvt Ltd - Security

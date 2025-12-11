@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- debentures
+- corporate-action
+- debt-securities
 - ncd
 - put-option
 - redemption
 - trading
-- corporate-action
-- debt-segment
 title: Non Suspension of Trading in Debentures of Shriram Finance Ltd (Scrip Code
   974379)
 ---

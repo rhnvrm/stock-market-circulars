@@ -35,7 +35,7 @@ stocks:
 - EKENNIS
 - EXXAROTL
 - FONE4COM
-- GFL
+- GFLLIMITED
 - GHUSHINE
 - HBSTOCK
 - HYPERSO
@@ -58,13 +58,13 @@ stocks:
 - TIERAAG
 - TITANIN
 - TRADEWNG
-- VTM
+- VTMLTD
 tags:
+- asm-stage
+- circuit-filters
 - price-band
 - trading-restrictions
-- surveillance-measure
 - volatility-control
-- circuit-filters
 title: Revision of Price Bands for 34 Securities Effective November 13, 2025
 ---
 

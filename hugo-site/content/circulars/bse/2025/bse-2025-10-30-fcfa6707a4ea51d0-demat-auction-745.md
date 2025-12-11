@@ -55,9 +55,9 @@ stocks:
 tags:
 - auction
 - demat
-- settlement
-- delivery-shortage
+- early-pay-in
 - market-operations
+- settlement
 title: Demat Auction -745
 ---
 

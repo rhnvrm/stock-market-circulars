@@ -28,10 +28,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - icici-home-finance
-- new-listing
+- listing
+- private-placement
 title: Listing of new Commercial Paper of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

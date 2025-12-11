@@ -25,10 +25,9 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appeal-order
-- procedural
 - administrative
+- appeal-order
+- rti
 title: Appeal No. 6542 of 2025 filed by Kareem Ansari
 ---
 

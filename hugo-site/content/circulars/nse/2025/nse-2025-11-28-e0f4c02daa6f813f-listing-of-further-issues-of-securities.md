@@ -35,17 +35,17 @@ stocks:
 - INFY
 - JBCHEPHARM
 - PCJEWELLER
-- PRIMEFOCUS
+- PFOCUS
 - RBLBANK
 - SBILIFE
 - SIS
 - UTIAMC
 tags:
-- listing
-- esop
-- equity-shares
-- further-issues
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - 14 Companies
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - NUVAMA
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
-- private-placement
+- ncd
 - nuvama-wealth-finance
-- non-convertible-debentures
-- bse-debt-segment
+- private-placement
 title: Listing of New Debt Securities of Nuvama Wealth Finance Limited
 ---
 

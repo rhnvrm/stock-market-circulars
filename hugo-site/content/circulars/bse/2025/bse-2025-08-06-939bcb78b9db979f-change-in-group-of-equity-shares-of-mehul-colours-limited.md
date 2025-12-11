@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MEHUL
 tags:
-- trading-segment
+- asm-stage
 - group-change
-- mt-group
-- m-group
 - rolling-segment
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of MEHUL COLOURS LIMITED
 ---
 

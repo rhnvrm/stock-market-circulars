@@ -29,11 +29,11 @@ stocks:
 - AARTIIND
 tags:
 - clarification
-- trading-volume
-- surveillance
-- market-driven
 - disclosure
+- market-operations
 - regulation-30
+- surveillance
+- trading-volume
 title: Aarti Industries Limited - Clarification on Increased Trading Volume
 ---
 

@@ -25,12 +25,11 @@ source: bse
 stocks:
 - AKFIN
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- daily-bulletin
 - interest-payment
-- ncd-redemption
-- debentures
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure and Record Dates for Interest Payments and NCD
   Redemptions
 ---

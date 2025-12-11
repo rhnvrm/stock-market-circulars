@@ -56,11 +56,11 @@ stocks:
 - TRITON
 - YASHCHEM
 tags:
-- price-band
-- trading
-- surveillance
-- market-operations
 - equity
+- market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 30 Securities - Effective December 08, 2025
 ---
 

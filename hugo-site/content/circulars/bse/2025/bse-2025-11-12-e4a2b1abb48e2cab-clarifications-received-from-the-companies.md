@@ -29,12 +29,9 @@ stocks:
 - SPANDANA
 tags:
 - clarification
-- volume-movement
+- disclosure
 - price-movement
 - surveillance
-- disclosure
-- HEG
-- Spandana-Sphoorty
 title: Clarifications received from the companies
 ---
 

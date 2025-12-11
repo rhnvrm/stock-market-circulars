@@ -27,12 +27,9 @@ source: bse
 stocks:
 - LORDSMARK
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
 - change-in-control
-- lords-mark-india
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Lords Mark India
   Limited
 ---

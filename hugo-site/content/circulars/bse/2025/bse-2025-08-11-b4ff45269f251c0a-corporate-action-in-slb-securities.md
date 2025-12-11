@@ -59,13 +59,12 @@ stocks:
 - SUBROS
 - RATNAMANI
 tags:
+- bonus
+- book-closure
 - corporate-action
 - dividend
-- bonus-issue
 - record-date
-- ex-date
-- shut-period
-- slb-securities
+- slb
 title: Corporate Action in SLB Securities - Multiple Dividends and HDFC Bank Bonus
   Issue
 ---

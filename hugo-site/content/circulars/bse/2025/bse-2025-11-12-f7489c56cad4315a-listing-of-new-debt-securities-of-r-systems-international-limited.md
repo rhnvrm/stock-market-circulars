@@ -28,10 +28,9 @@ stocks:
 - RSYSTEMS
 tags:
 - debt-securities
-- private-placement
 - listing
-- debentures
-- rsystems
+- ncd
+- private-placement
 title: Listing of new debt securities of R Systems International Limited
 ---
 

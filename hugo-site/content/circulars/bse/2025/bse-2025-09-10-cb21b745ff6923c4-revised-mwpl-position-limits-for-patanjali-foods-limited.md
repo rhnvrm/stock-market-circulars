@@ -27,12 +27,10 @@ stocks:
 - PATANJALI
 tags:
 - derivatives
-- position-limits
-- mwpl
-- patanjali-foods
-- risk-management
 - fpi
-- mutual-funds
+- mutual-fund
+- position-limits
+- risk-management
 title: Revised MWPL Position Limits for Patanjali Foods Limited
 ---
 

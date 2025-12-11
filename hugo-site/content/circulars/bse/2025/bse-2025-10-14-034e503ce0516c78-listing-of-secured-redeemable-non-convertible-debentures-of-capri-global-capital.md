@@ -27,12 +27,10 @@ source: bse
 stocks:
 - CGCL
 tags:
-- ncd
-- debentures
-- listing
-- debt-securities
 - capri-global-capital
-- new-listing
+- debt-securities
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Capri Global Capital
   Limited
 ---

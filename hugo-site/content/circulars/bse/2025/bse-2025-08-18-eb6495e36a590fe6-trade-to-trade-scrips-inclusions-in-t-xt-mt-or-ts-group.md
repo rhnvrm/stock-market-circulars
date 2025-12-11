@@ -40,11 +40,11 @@ stocks:
 - VRFILMS
 - POLYMAC
 tags:
-- trade-to-trade
 - price-band
 - rolling-segment
-- trading-restrictions
 - sme
+- trade-to-trade
+- trading-restrictions
 title: Trade-To-Trade Scrips – Inclusions in T, XT, MT or TS Group
 ---
 

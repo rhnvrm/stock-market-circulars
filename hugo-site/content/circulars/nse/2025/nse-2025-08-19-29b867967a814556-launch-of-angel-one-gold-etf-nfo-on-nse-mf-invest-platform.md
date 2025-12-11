@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- gold-etf
-- nfo
 - angel-one
-- nse-mf-invest
+- etf
+- gold
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Angel One Gold ETF NFO on NSE MF Invest Platform
 ---
 

@@ -27,10 +27,10 @@ source: bse
 stocks:
 - NARMAC
 tags:
-- bonus-issue
-- equity-shares
-- listing
+- bonus
 - corporate-action
+- equity
+- listing
 - narmada-macplast
 title: 'Bonus Issue of Narmada Macplast Drip Irrigation Systems Ltd (Scrip Code: 517431)'
 ---

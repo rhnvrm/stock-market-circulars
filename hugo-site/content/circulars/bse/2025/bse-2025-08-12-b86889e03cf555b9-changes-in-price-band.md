@@ -33,7 +33,7 @@ stocks:
 - FIRSTFIN
 - GANGA
 - GAYAORG
-- HAMPSBIO
+- HAMPS
 - HIRA
 - INDIANLC
 - INVIGO
@@ -46,10 +46,10 @@ stocks:
 - PARSHWA
 - VRWOOD
 tags:
-- price-band
-- trading-limits
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 21 Securities Effective August 13, 2025
 ---
 

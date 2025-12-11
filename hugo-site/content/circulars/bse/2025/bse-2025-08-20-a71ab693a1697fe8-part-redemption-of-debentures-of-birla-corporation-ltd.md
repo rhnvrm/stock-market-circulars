@@ -26,11 +26,11 @@ source: bse
 stocks:
 - BIRLA
 tags:
-- debentures
-- redemption
-- corporate-actions
-- debt
 - birla-corporation
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 title: Part Redemption of Debentures of Birla Corporation Ltd
 ---
 

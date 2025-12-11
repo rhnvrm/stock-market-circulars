@@ -28,9 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - motilal-oswal
-- debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Motilal Oswal Financial Services Limited
 ---
 

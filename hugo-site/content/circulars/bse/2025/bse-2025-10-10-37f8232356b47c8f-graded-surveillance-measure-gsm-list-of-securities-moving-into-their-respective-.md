@@ -29,11 +29,9 @@ stocks:
 - MEDIAONE
 - ECSBIZ
 tags:
-- gsm
+- asm-stage
 - surveillance
 - trading-restrictions
-- graded-surveillance-measure
-- stage-movement
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

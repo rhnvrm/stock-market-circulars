@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- membership
-- trading-rights
-- new-member
-- equity-derivatives
 - cash-segment
+- derivatives
+- membership
+- new-member
+- trading-rights
 title: Admission of New Trading Members - ROI NET Securities and R J Equity Edge
 ---
 

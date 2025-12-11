@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- compliance
 - enforcement
 - investment-adviser
-- unregistered-activities
 - penalty
-- recovery-certificate
-- compliance
+- recovery
+- unregistered-activities
 title: General Remittance Order – RC No. 8757 of 2025 against Jadav Vamshi for Unregistered
   Investment Advisory Activities
 ---

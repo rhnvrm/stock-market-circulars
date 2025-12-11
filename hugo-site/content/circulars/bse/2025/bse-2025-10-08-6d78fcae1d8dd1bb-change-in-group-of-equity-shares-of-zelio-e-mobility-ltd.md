@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ZELIO
 tags:
-- segment-change
+- group-change
+- rolling-segment
+- segment-transfer
+- sme
 - trade-for-trade
-- rolling-settlement
-- sme-ipo
-- group-transfer
 title: Change in Group of Equity Shares of Zelio E Mobility Ltd
 ---
 

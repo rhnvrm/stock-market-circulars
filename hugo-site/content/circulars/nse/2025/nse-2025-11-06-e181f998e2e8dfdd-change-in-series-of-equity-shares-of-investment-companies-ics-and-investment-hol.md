@@ -26,12 +26,11 @@ source: nse
 stocks:
 - VHL
 tags:
-- series-change
 - investment-companies
 - investment-holding-companies
-- trade-for-trade
 - rolling-segment
-- VHL
+- series-change
+- trade-for-trade
 title: Change in series of Equity shares of Investment Companies (ICs) and Investment
   Holding Companies (IHCs)
 ---

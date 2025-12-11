@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ICLFIN
 tags:
-- debentures
-- ncd
-- listing
+- bond
 - debt-securities
 - icl-fincorp
-- secured-bonds
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of ICL Fincorp Limited
 ---
 

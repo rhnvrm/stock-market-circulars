@@ -29,7 +29,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- muthoot-fincorp
 title: Listing of new Commercial Paper of MUTHOOT FINCORP LIMITED
 ---
 

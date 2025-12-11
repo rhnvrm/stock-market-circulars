@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MAPLEIT
 tags:
+- infrastructure-trust
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- infrastructure-trust
-- lock-in
 title: Listing of New Securities of Maple Infrastructure Trust
 ---
 

@@ -40,11 +40,11 @@ stocks:
 - YESBANK
 - L&TFH
 tags:
-- listing
-- securities
+- equity
 - esop
+- listing
 - preferential-issue
-- equity-shares
+- securities
 title: Listing of Further Issues of Securities - September 2025
 ---
 

@@ -28,9 +28,8 @@ stocks:
 tags:
 - call-money
 - partly-paid-equity
-- upl
-- ibbs
 - scsb
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of UPL Limited - Second and
   Final Call
 ---

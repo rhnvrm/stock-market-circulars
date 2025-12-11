@@ -27,11 +27,9 @@ stocks:
 - NETWORK18
 - CHALET
 tags:
-- volume-clarification
+- disclosure
+- price-movement
 - surveillance
-- disclosure-compliance
-- NETWORK18
-- CHALET
 title: Clarifications received from the companies
 ---
 

@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SHRIKANHA
 tags:
-- listing
-- sme
+- equity
 - ipo
+- listing
 - shareholding-pattern
-- equity-shares
-- new-listing
+- sme
 title: Listing of Equity Shares of Shri Kanha Stainless Limited (SME IPO)
 ---
 

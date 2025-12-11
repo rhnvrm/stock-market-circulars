@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- regulatory-violation
+- adjudication
 - compliance
-- enforcement-action
 - corrigendum
+- enforcement
+- non-compliance
 title: Adjudication Order in the matter of Motisons Shares Private Limited - Corrigendum
 ---
 

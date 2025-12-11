@@ -27,12 +27,11 @@ source: nse
 stocks:
 - GANGOTRI
 tags:
-- trading
-- suspension
-- compliance
 - board-composition
-- listing-regulations
-- gangotri-textiles
+- compliance
+- lodr
+- suspension
+- trading
 title: Discontinuation of Weekly Trading for Gangotri Textiles Limited
 ---
 

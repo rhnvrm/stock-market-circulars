@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
 - enforcement
-- family-care-hospitals
-- regulatory-action
+- recovery
+- regulatory
 title: Completion of Recovery Proceedings under RC No. 8850 of 2025 against Sowmya
   Gautam Deshpande, Gautam Mohan Deshpande, Amit Satishchand Tyagi and Pandoo Prabhakar
   Naig in the matter of Family Care Hospitals Limited

@@ -27,12 +27,10 @@ source: bse
 stocks:
 - SAMPRE
 tags:
-- bonus-issue
-- sub-division
-- stock-split
-- record-date
+- bonus
 - corporate-action
-- SAMPRE
+- record-date
+- split
 title: Revised Record Date for Sub-Division and Bonus Issue of Equity Shares of SAMPRE
   NUTRITIONS LTD
 ---

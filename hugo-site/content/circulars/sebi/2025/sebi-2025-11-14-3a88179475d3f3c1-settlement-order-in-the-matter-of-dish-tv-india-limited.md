@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - DISHTV
 tags:
-- settlement-order
-- listing-obligations
-- director-approval
 - corporate-governance
+- director-approval
+- lodr
+- settlement-order
 - shareholder-approval
-- lodr-regulations
 title: Settlement Order in the matter of Dish TV India Limited
 ---
 

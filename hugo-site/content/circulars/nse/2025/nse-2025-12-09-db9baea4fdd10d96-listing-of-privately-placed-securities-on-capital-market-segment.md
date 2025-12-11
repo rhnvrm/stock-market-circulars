@@ -26,11 +26,11 @@ source: nse
 stocks:
 - PNBHOUSING
 tags:
-- listing
-- debt-securities
-- private-placement
-- debentures
 - capital-market
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of Privately Placed Securities - PNB Housing Finance Limited
 ---
 

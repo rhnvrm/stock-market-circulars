@@ -37,11 +37,11 @@ stocks:
 - TRANSGLOBE
 - WARDWIZ
 tags:
-- price-band
-- trading
-- surveillance
 - equity
-- market-regulation
+- market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 12 Scrips Effective December 12, 2025
 ---
 

@@ -35,13 +35,13 @@ stocks:
 - WEWIN
 - ZENITHSTL
 tags:
-- trade-for-trade
-- surveillance
-- price-band
-- market-safety
-- settlement
-- rolling-segment
 - investor-protection
+- market-operations
+- price-band
+- rolling-segment
+- settlement
+- surveillance
+- trade-for-trade
 title: 'Trade for Trade Segment: 7 Securities Shifted from Rolling Segment with 5%
   Price Band'
 ---

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- auxilo-finserve
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- auxilo-finserve
-- non-convertible-debentures
-- corporate-bonds
 title: Listing of New Debt Securities of Auxilo Finserve Private Limited
 ---
 

@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- remittance-advice
-- recovery-proceedings
-- iso
 - bse
-- enforcement
 - defaulter
+- demand-notice
+- enforcement
+- iso
+- recovery
 title: Remittance Advice Against New Star System Solutions Pvt Ltd - Recovery Certificate
   No. 8361 of 2024
 ---

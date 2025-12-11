@@ -43,11 +43,11 @@ stocks:
 - TITAN
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-segment
-- corporate-actions
+- corporate-action
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 16 Companies Record Date for Redemption
 ---
 

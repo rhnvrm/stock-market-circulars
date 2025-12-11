@@ -28,11 +28,9 @@ source: nse
 stocks:
 - DSKDEVELOP
 tags:
-- offer-for-sale
+- equity
 - ofs
-- equity-shares
-- dsk-developers
-- non-promoter
+- shareholding-pattern
 - stock-exchange-mechanism
 title: Proposed Offer for Sale of D.S. Kulkarni Developers Limited
 ---

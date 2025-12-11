@@ -33,16 +33,9 @@ stocks:
 - DIIPL
 tags:
 - commercial-paper
-- debt-market
+- debt-securities
 - listing
 - private-placement
-- ABML
-- BSL
-- AOL
-- CCSP
-- TSL
-- GIL
-- DIIPL
 title: Listing of Privately Placed Commercial Paper Securities on NSE Debt Market
 ---
 

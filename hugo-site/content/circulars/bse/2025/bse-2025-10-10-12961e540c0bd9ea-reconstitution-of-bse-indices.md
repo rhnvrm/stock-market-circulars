@@ -25,27 +25,27 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544258'
-- '544260'
-- '544261'
-- '544262'
-- '544263'
-- '544264'
-- '544271'
-- '544257'
-- '544259'
-- '544265'
-- '544267'
-- '544269'
-- '544270'
-- '544272'
+- WCIL
+- NORTHARC
+- ARKADE
+- MANBA
+- KRN
+- DIFFNKG
+- GARUDA
+- SAFE
+- PFL
+- NEXXUS
+- SUBAM
+- NPFL
+- KGVL
+- SHIVTEXCHEM
 tags:
-- index
-- reconstitution
 - bse-ipo
 - bse-sme-ipo
-- index-changes
 - equity
+- index-change
+- index-fund
+- reconstitution
 title: Reconstitution of BSE Indices - October 2025
 ---
 

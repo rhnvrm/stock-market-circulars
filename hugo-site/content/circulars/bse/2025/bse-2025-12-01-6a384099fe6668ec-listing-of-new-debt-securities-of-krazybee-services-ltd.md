@@ -28,10 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
-- krazybee-services
-- debentures
 - nbfc
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Krazybee Services Ltd
 ---
 

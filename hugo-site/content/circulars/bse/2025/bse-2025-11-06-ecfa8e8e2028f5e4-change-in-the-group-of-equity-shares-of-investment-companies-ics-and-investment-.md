@@ -31,11 +31,11 @@ stocks:
 - HARYCAP
 - EASYFIN
 tags:
+- call-money
 - group-change
-- trade-for-trade
 - investment-companies
 - investment-holding-companies
-- call-auction
+- trade-for-trade
 title: Change in Group Classification of Investment Companies and Investment Holding
   Companies
 ---

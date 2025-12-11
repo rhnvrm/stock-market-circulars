@@ -27,12 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - compliance
 - enforcement
-- investment-advisory
-- recovery-proceedings
+- investment-adviser
 - pinnacle-market
+- recovery
 title: SEBI Completion Order for Recovery Certificate No. 8638 of 2025 Against Pinnacle
   Market Investment Advisory Pvt. Ltd.
 ---

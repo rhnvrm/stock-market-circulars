@@ -36,12 +36,12 @@ stocks:
 - OIL
 - THYROCARE
 tags:
-- slb
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- record-date
 - foreclosure
+- record-date
+- slb
 title: Corporate Action in SLB Securities - November 2025
 ---
 

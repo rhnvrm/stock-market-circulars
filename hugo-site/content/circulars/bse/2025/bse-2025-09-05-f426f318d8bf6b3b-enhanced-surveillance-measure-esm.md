@@ -51,11 +51,10 @@ stocks:
 - YARN
 - YURANUS
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
+- asm-stage
 - market-supervision
-- surveillance-measures
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---
 

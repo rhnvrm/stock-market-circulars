@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SHAMROCK
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- shamrock-industrial
+- demat
 - early-pay-in
-- demat-delivery
+- otb
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for
   SHAMROCK INDUSTRIAL COMPANY LIMITED
 ---

@@ -26,13 +26,13 @@ source: nse
 stocks:
 - NACL
 tags:
+- clearing
+- early-pay-in
+- nacl-industries
+- settlement
+- stt
 - takeover
 - tender-offer
-- settlement
-- NACL-Industries
-- early-pay-in
-- STT
-- clearing
 title: Settlement Calendar for Takeover offer under Tender Offer scheme of NACL Industries
   Limited
 ---

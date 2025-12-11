@@ -27,12 +27,10 @@ source: bse
 stocks:
 - MUTHOOTTU
 tags:
-- debentures
-- listing
 - debt-securities
-- muthoottu-mini-financiers
-- ncd
 - icra-rated
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of Muthoottu Mini
   Financiers Limited
 ---

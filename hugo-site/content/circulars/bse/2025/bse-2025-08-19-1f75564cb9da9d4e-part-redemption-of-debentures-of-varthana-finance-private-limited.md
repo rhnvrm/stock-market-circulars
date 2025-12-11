@@ -26,12 +26,12 @@ source: bse
 stocks:
 - VFPL
 tags:
-- part-redemption
-- debentures
-- corporate-actions
-- debt
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of VARTHANA FINANCE PRIVATE LIMITED
 ---
 

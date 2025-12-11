@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- sbi-mutual-fund
 - asset-allocation
 - fund-of-funds
+- mutual-fund
+- nfo
 - platform-launch
+- sbi-mutual-fund
 title: Launch of SBI Dynamic Asset Allocation Active FOF on NSE MF Invest Platform
 ---
 

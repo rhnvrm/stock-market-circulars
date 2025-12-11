@@ -27,11 +27,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement-action
+- attachment
+- enforcement
 - illiquid-stocks
-- attachment-proceedings
-- market-manipulation
+- market-operations
+- recovery
 title: Recovery Certificate No. RC8911 of 2025 - Poonam Charan Gupta - Illiquid Stock
   Options
 ---

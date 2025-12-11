@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASTAL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- new-securities
+- conversion
+- equity
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of Securities - ASTAL LABORATORIES LIMITED
 ---
 

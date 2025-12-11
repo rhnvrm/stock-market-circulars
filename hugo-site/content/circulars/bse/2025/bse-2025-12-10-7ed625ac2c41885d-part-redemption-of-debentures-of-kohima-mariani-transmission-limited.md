@@ -28,12 +28,12 @@ source: bse
 stocks:
 - KMTL
 tags:
-- debentures
-- part-redemption
-- debt-securities
-- interest-payment
-- face-value-reduction
 - corporate-action
+- debt-securities
+- face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of KOHIMA-MARIANI TRANSMISSION LIMITED
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SER
 tags:
-- takeover
-- acquisition
-- settlement
-- ser-industries
-- otb
 - early-pay-in
+- otb
+- ser-industries
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SER INDUSTRIES
   LIMITED
 ---

@@ -28,9 +28,9 @@ stocks:
 - MOTILALOFS
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - motilal-oswal
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Motilal Oswal Financial Services Limited
 ---

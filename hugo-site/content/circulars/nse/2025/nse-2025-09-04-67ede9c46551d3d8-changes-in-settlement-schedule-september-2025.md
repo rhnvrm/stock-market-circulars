@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement-schedule
-- commodity-derivatives
-- settlement-holidays
-- september-2025
+- derivatives
 - rbi-notification
+- september-2025
+- settlement
+- settlement-holidays
 title: Changes in Settlement Schedule - September 2025 (Commodity Derivatives)
 ---
 

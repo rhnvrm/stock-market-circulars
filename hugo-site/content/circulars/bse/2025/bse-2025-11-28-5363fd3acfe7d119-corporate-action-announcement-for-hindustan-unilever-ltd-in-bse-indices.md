@@ -27,14 +27,12 @@ source: bse
 stocks:
 - HINDUNILVR
 tags:
-- demerger
+- call-money
 - corporate-action
 - ice-cream-business
-- index-addition
-- special-pre-open-session
-- scheme-of-arrangement
-- HINDUNILVR
+- index-change
 - kwality-walls
+- scheme-of-arrangement
 title: Corporate Action Announcement for Hindustan Unilever Ltd. in BSE Indices
 ---
 

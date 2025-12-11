@@ -27,12 +27,12 @@ source: bse
 stocks:
 - DUROPLY
 tags:
+- conversion
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- warrant-conversion
-- equity-shares
-- lock-in
 title: Listing of New Securities of DUROPLY INDUSTRIES LIMITED
 ---
 

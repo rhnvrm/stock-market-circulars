@@ -28,11 +28,9 @@ stocks:
 - SAKTHIFIN
 tags:
 - debt-securities
-- ncds
-- listing
-- sakthi-finance
-- debentures
 - icra-rating
+- listing
+- ncd
 title: Listing of Secured Redeemable Non-Convertible Debentures of SAKTHI FINANCE
   LIMITED
 ---

@@ -27,12 +27,10 @@ source: bse
 stocks:
 - HAGL
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
 - change-in-control
 - hindustan-agrigenetics
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of HINDUSTAN AGRIGENETICS
   LIMITED
 ---

@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CPEL
 tags:
-- group-change
-- equity-shares
-- trading
 - career-point-edutech
+- equity
+- group-change
+- trading
 title: Change in Group of Equity Shares of Career Point Edutech Limited
 ---
 

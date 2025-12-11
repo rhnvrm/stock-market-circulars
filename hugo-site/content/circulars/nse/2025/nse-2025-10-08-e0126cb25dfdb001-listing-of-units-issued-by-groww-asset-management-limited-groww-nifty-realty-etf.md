@@ -26,13 +26,12 @@ source: nse
 stocks:
 - GROWWRLTY
 tags:
+- capital-market
 - etf
+- groww-asset-management
 - listing
 - mutual-fund
-- groww-asset-management
 - nifty-realty
-- new-listing
-- capital-market
 title: Listing of units issued by Groww Asset Management Limited (Groww Nifty Realty
   ETF)
 ---

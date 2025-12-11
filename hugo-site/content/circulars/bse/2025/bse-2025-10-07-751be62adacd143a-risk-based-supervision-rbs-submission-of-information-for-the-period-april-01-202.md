@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- risk-based-supervision
-- rbs
 - compliance
-- trading-members
-- reporting
-- faq
 - disclosure
-- brokers
+- faq
 - member-obligations
+- rbs
+- reporting
+- risk-based-supervision
+- stock-broker
+- trading-member
 title: Risk Based Supervision (RBS) - Submission of Information for Period April 01,
   2025 to September 30, 2025
 ---

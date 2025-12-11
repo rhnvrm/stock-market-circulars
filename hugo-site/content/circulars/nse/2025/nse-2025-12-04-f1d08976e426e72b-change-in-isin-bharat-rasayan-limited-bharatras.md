@@ -27,10 +27,10 @@ source: nse
 stocks:
 - BHARATRAS
 tags:
-- isin-change
-- stock-subdivision
 - corporate-action
-- equity-shares
+- equity
+- isin
+- stock-subdivision
 - technical-adjustment
 title: Change in ISIN - Bharat Rasayan Limited (BHARATRAS)
 ---

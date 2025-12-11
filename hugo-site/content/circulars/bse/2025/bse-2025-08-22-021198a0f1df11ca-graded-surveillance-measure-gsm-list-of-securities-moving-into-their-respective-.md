@@ -28,12 +28,11 @@ stocks:
 - IYKOT
 - ADLINE
 tags:
-- gsm
-- surveillance
-- stage-movement
+- adline-chem
+- asm-stage
 - ecs-biztech
 - iykot-hitech
-- adline-chem
+- surveillance
 title: GSM Stage Movement - ECS Biztech, Iykot Hitech Toolroom, and Adline Chem Lab
 ---
 

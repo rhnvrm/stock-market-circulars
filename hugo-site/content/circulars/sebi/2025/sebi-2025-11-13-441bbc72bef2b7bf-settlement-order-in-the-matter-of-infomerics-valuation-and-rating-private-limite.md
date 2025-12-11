@@ -28,14 +28,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- credit-rating-agency
-- infomerics
-- regulatory-violations
 - cra-regulations
+- credit-rating-agency
+- enforcement
+- infomerics
 - internal-controls
+- non-compliance
 - rating-models
-- enforcement-action
+- settlement-order
 title: Settlement Order in the matter of Infomerics Valuation and Rating Private Limited
 ---
 

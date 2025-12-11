@@ -28,16 +28,16 @@ source: sebi
 stocks:
 - SSSML
 tags:
-- adjudication-order
+- adjudication
+- afco-capital
+- buildox-private-limited
+- compliance-order
 - merchant-banker
-- open-offer
-- takeover-regulations
-- compliance-violations
-- AFCO-Capital
-- Standard-Shoe-Sole
-- Buildox-Private-Limited
-- SAST-regulations
 - penalty
+- regulatory-framework
+- standard-shoe-sole
+- takeover
+- takeover-regulations
 title: Adjudication Order Against AFCO Capital India Private Limited for Merchant
   Banking Violations
 ---

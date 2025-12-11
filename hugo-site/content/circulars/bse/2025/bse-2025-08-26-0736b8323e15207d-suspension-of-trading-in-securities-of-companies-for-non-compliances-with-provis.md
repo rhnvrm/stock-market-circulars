@@ -29,12 +29,12 @@ stocks:
 - PRESSUR
 - SUUMAYA
 tags:
-- trading-suspension
-- sebi-lodr
-- quarterly-results
+- financial-results
+- lodr
 - non-compliance
-- regulation-33
 - promoter-freezing
+- regulation-33
+- suspension
 title: Suspension of trading in securities for non-compliance with SEBI LODR Regulations
 ---
 

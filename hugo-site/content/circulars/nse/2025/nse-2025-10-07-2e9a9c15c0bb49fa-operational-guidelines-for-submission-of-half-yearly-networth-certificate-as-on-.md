@@ -26,13 +26,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- networth-certificate
-- compliance
+- certificate
 - clearing-members
-- regulatory-filing
+- compliance
 - financial-reporting
-- ncl
 - half-yearly-submission
+- ncl
+- regulatory-filing
 title: Operational Guidelines for Submission of Half Yearly Networth Certificate as
   on September 30, 2025
 ---

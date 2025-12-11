@@ -26,11 +26,11 @@ source: nse
 stocks:
 - DIGIKORE
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme-platform
+- bonus
 - corporate-action
-- trading-parameters
+- market-lot
+- sme
+- trading-operations
 title: 'BONUS: Adjustment of Market Lot for Security DIGIKORE in SME Platform'
 ---
 

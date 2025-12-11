@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
+- debt-securities
 - infina-finance
-- kotak-mahindra-bank
 - issuing-paying-agent
+- kotak-mahindra-bank
+- private-placement
 title: Listing of New Commercial Paper of Infina Finance Private Limited
 ---
 

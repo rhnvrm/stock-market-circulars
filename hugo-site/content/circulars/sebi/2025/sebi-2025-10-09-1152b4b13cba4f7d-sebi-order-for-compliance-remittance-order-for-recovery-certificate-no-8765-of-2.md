@@ -26,11 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-order
 - compliance
+- demand-notice
 - enforcement
-- recovery-certificate
-- remittance-order
+- recovery
 title: SEBI Remittance Order for Recovery Certificate No. 8765 of 2025 against Manish
   Mishra - Pressure Sensitive Systems (India) Limited
 ---

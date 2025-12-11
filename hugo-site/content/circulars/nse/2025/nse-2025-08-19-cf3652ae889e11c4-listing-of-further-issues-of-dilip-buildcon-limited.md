@@ -26,11 +26,11 @@ source: nse
 stocks:
 - DBL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- preferential-allotment
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of Dilip Buildcon Limited - Warrant Conversion
 ---
 

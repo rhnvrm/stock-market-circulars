@@ -25,10 +25,10 @@ source: bse
 stocks:
 - MARKOBENZ
 tags:
-- name-change
-- incorporation-certificate
+- certificate
+- company-related
 - corporate-affairs
-- company-registration
+- name-change
 title: Certificate of Incorporation - Name Change from Markobenz Ventures Limited
   to Newtrac Foods & Beverages Limited
 ---

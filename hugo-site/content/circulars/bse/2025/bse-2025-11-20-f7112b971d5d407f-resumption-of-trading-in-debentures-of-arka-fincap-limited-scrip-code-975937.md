@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ARKAFINCAP
 tags:
-- debentures
-- trading-resumption
+- corporate-action
+- debt-securities
+- ncd
 - put-option
-- corporate-actions
-- debt-segment
-- arka-fincap
+- trading-resumption
 title: Resumption of Trading in Debentures of ARKA FINCAP LIMITED (Scrip Code 975937)
 ---
 

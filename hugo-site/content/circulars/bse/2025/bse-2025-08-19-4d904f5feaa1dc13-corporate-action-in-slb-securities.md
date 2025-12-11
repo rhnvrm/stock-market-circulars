@@ -41,11 +41,11 @@ stocks:
 - CAMPUS
 - PROTEANEGOVT
 tags:
-- dividend
-- corporate-action
-- slb-securities
-- ex-date
 - book-closure
+- corporate-action
+- dividend
+- record-date
+- slb
 title: Corporate Action Schedule for SLB Securities - Dividend Announcements
 ---
 

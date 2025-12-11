@@ -28,11 +28,10 @@ stocks:
 - NUVAMA
 tags:
 - debt-securities
-- listing
-- private-placement
-- nuvama
-- debentures
 - fixed-income
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Nuvama Wealth and Investment Limited
 ---
 

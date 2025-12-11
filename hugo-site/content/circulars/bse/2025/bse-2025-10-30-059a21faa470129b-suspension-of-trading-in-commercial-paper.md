@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- trading-suspension
 - debt-securities
-- redemption
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper
 ---
 

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - HIMADRI
 tags:
-- listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
+- conversion
+- equity
 - himadri-speciality-chemical
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities - Himadri Speciality Chemical Ltd (308,000 Equity
   Shares)
 ---

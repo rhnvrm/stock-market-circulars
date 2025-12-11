@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TAYLORMADE
 tags:
-- new-securities
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
+- new-securities
+- preferential-issue
 title: Listing of New Securities of Taylormade Renewables Limited
 ---
 

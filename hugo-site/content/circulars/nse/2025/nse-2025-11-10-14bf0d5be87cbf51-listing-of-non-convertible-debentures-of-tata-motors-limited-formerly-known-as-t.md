@@ -28,13 +28,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML71209.pdf
 severity: low
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
+- debt-securities
 - listing
-- non-convertible-debentures
-- debt-market
+- ncd
 - scheme-of-arrangement
-- corporate-restructuring
 - tata-motors
 title: Listing of Non-Convertible Debentures of Tata Motors Limited on Debt Market
   Segment

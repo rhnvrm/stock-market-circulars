@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- debt-scheme
+- dsp-mutual-fund
+- fixed-income
 - mutual-fund
 - nfo
-- fixed-maturity-plan
-- dsp-mutual-fund
-- debt-scheme
-- bse-star-mf
 title: Launch of DSP Fixed Maturity Plan (FMP) Series 277-789 Days NFO on BSE StAR
   MF Platform
 ---

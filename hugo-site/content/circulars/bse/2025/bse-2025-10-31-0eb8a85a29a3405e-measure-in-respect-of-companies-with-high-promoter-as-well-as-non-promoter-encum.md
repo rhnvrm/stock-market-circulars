@@ -32,11 +32,10 @@ stocks:
 - THYROCARE
 - INDIAFINC
 tags:
+- asm-stage
 - encumbrance
-- surveillance-measures
-- promoter-encumbrance
-- SEBI-SAST
-- Regulation-28-3
+- regulation-28-3
+- sast
 title: Measure in respect of companies with high Promoter as well as non-Promoter
   'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - TORNTPHARM
 tags:
-- bonus-shares
-- listing
-- torrent-pharmaceuticals
+- bonus
 - equity
+- listing
 - shares-in-abeyance
+- torrent-pharmaceuticals
 title: Listing of 1,600 Bonus Equity Shares Kept in Abeyance - Torrent Pharmaceuticals
   Ltd
 ---

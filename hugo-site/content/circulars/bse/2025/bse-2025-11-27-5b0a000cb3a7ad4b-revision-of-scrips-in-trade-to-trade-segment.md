@@ -48,7 +48,7 @@ stocks:
 - KIRAN
 - LS
 - MEGA
-- PHAARMASIA
+- PHRMASI
 - PIONEER
 - RAPICUT
 - RISHAB
@@ -73,14 +73,11 @@ stocks:
 - SOLVEX
 - VANDAN
 tags:
-- trade-to-trade
-- surveillance
-- t-group
-- xt-group
-- mt-group
-- ts-group
+- asm-stage
 - sme
-- market-surveillance
+- surveillance
+- trade-to-trade
+- ts-group
 title: Revision of Scrips in Trade to Trade Segment
 ---
 

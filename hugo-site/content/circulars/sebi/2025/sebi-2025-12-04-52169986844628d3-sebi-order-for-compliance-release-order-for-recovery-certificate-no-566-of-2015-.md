@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- adsul-trading
 - compliance
 - enforcement
-- release-order
-- adsul-trading
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 566 of 2015 - Mahesh Adsul
 ---
 

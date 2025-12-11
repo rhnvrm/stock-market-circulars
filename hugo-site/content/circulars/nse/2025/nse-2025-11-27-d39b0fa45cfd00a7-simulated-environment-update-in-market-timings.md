@@ -25,14 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- simulated-environment
+- derivatives
 - market-timings
-- testing
+- mock-trading
 - order-entry
 - pre-open-session
-- equity-derivatives
-- currency-derivatives
-- commodity-derivatives
+- simulated-environment
 title: Simulated Environment - Update in Market Timings
 ---
 

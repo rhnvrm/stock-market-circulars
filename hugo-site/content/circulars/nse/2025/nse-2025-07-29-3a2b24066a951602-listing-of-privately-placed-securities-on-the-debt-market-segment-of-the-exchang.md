@@ -33,11 +33,10 @@ stocks:
 - WELSPUNLIV
 - PIRAMALFI
 tags:
-- debt-market
 - commercial-paper
-- private-placement
-- listing
 - debt-securities
+- listing
+- private-placement
 title: Listing of privately placed securities on the debt market segment
 ---
 

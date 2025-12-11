@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MUTHOOTTU
 tags:
-- trading-suspension
-- debentures
-- redemption
+- corporate-action
 - debt-securities
-- corporate-actions
-- muthoottu-mini-financiers
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MUTHOOTTU MINI FINANCIERS LIMITED
 ---
 

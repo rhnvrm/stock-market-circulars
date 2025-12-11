@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- mutual-fund
 - nfo
 - smart-switch
 - union-consumption-fund
 - union-overnight-fund
-- bse-star-mf
 title: Activation of SMART Switch Facility under UNION CONSUMPTION FUND - NFO on BSE
   StAR MF platform
 ---

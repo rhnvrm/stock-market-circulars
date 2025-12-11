@@ -125,7 +125,7 @@ stocks:
 - UNITEDINTL
 - VARDMNPOLY
 - VINEETLAB
-- VINYOFLEX
+- VINYOFL
 - VISHNUCHEM
 - WELCURE
 - WIMPLAST
@@ -133,11 +133,11 @@ stocks:
 - WONDERELCT
 - XELPMOC
 tags:
-- demat-auction
+- auction
+- demat
+- securities-shortfall
 - settlement
 - trading
-- auction
-- securities-shortfall
 title: Demat Auction - Settlement No. 738
 ---
 

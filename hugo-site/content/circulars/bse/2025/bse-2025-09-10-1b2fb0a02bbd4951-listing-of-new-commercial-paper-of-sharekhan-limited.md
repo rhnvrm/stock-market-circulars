@@ -26,10 +26,8 @@ stocks:
 - SHAREKHAN
 tags:
 - commercial-paper
-- debt-listing
-- sharekhan
-- private-placement
 - debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Sharekhan Limited
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - HINDUJAFIN
 tags:
+- bond
 - debt-securities
-- listing
-- private-placement
 - hinduja-leyland-finance
-- bonds
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Hinduja Leyland Finance Limited
 ---
 

@@ -31,10 +31,10 @@ stocks:
 - TSL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- record-date
 - debt-securities
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Record Date Fixed for Redemption
 ---
 

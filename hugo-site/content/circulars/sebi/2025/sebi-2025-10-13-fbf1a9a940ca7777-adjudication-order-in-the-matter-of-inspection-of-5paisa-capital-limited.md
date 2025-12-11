@@ -27,16 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- online-bond-platform-provider
-- obpp
-- inspection
-- regulatory-violations
-- compliance-failure
 - 5paisa-capital
+- adjudication
+- investigation
+- non-compliance
 - non-convertible-securities
-- penalties
+- obpp
+- online-bond-platform-provider
+- penalty
+- stock-broker
 title: Adjudication Order in the matter of inspection of 5Paisa Capital Limited
 ---
 

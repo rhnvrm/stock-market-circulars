@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
-- debt-securities
-- debentures
-- isin-change
-- paid-up-value
 - call-money
-- shriram-finance
+- debt-securities
+- face-value-change
+- isin
+- ncd
 title: Update Regarding Debt Securities of Shriram Finance Limited - ISIN Change and
   Paid-Up Value Revision
 ---

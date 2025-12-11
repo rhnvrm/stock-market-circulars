@@ -26,10 +26,10 @@ source: bse
 stocks:
 - IIFLWAM
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - 360-one-wam
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of 360 ONE WAM LIMITED
 ---

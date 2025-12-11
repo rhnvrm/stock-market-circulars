@@ -27,11 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
-- new-listing
+- listing
 - private-placement
-- corporate-bonds
-- debt-segment
 title: Listing of New Debt Securities of Pradhaan City K R Puram Private Limited
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - KRT
 tags:
+- equity
+- ipo
+- knowledge-realty-trust
 - listing
 - reit
-- ipo
-- equity-shares
-- knowledge-realty-trust
 title: Listing of Equity Shares of Knowledge Realty Trust (REITs IPO)
 ---
 

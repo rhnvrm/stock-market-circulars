@@ -27,13 +27,13 @@ source: bse
 stocks:
 - VEEFIN
 tags:
+- conversion
+- equity
 - listing
-- new-securities
-- preferential-allotment
-- warrant-conversion
-- equity-shares
-- promoter-allotment
 - lock-in
+- new-securities
+- preferential-issue
+- promoter
 title: Listing of New Securities of Veefin Solutions Limited
 ---
 

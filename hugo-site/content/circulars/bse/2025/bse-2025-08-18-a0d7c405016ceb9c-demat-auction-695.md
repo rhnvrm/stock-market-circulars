@@ -34,7 +34,7 @@ stocks:
 - DIC
 - DLF
 - ELPRO
-- ETHOS
+- ETHOSLTD
 - FINO
 - GODREJ
 - GOODYEAR
@@ -107,10 +107,10 @@ stocks:
 - 'YES'
 - ZAGGLE
 tags:
-- demat-auction
+- demat
+- securities
 - settlement
 - trading
-- securities
 title: Demat Auction Settlement No. 695
 ---
 

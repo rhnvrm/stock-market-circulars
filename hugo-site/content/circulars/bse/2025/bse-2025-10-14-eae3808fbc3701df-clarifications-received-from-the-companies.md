@@ -28,13 +28,13 @@ stocks:
 - BLS
 - DREAMFOLKS
 tags:
-- volume-movement
 - clarification
-- surveillance
-- market-driven
 - compliance
 - disclosure
 - lodr-regulation-30
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies on volume movement
 ---
 

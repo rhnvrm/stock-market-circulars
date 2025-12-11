@@ -25,14 +25,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- risk-based-supervision
-- rbs
 - compliance
-- inspection
-- trading-members
 - data-submission
-- regulatory-compliance
+- investigation
 - periodic-submission
+- rbs
+- risk-based-supervision
+- trading-member
 title: Reminder for Submission of Risk Based Supervision Data for the period April
   01, 2025 - September 30, 2025
 ---

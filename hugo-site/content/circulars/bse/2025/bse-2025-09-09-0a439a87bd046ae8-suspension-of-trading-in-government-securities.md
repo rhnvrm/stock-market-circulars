@@ -24,11 +24,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-securities
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
+- gsec
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Government Securities - GS12SEP2025
 ---
 

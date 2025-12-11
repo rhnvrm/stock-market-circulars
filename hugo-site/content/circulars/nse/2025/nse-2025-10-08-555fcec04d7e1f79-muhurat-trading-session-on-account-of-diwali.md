@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- muhurat-trading
 - diwali
 - special-trading-session
-- ucc-compliance
 - trading-permissions
+- trading-session
+- ucc-compliance
 title: Muhurat Trading Session on Account of Diwali - October 21, 2025
 ---
 

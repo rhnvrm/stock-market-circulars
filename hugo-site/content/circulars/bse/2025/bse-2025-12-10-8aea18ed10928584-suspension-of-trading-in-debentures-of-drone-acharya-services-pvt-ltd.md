@@ -28,13 +28,13 @@ source: bse
 stocks:
 - DASPL
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
 - corporate-action
-- debt-segment
+- debt-securities
+- interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of DRONE ACHARYA SERVICES PVT LTD
 ---
 

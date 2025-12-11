@@ -26,13 +26,13 @@ source: bse
 stocks:
 - STLNET
 tags:
-- index-exclusion
-- stl-networks
-- smallcap
 - allcap
-- telecommunications
-- demerger
 - corporate-action
+- index-change
+- scheme-of-arrangement
+- smallcap
+- stl-networks
+- telecommunications
 title: STL Networks Limited Exclusion from BSE Indices Effective September 11, 2025
 ---
 

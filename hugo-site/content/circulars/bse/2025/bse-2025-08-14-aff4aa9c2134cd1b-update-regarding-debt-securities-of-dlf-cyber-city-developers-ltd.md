@@ -27,11 +27,11 @@ stocks:
 - DLFCYBER
 tags:
 - debt-securities
-- debentures
-- security-restructuring
-- mortgage
+- dlf
 - hypothecation
-- DLF
+- mortgage
+- ncd
+- security-restructuring
 title: Update Regarding Debt Securities of DLF Cyber City Developers Ltd
 ---
 

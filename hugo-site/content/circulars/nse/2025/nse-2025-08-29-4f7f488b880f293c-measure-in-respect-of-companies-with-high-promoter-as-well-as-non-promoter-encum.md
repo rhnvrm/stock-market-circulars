@@ -32,11 +32,10 @@ stocks:
 - TFCILTD
 - THYROCARE
 tags:
-- surveillance
 - encumbrance
-- promoter-pledging
-- margin-requirements
-- sast-regulation
+- margin
+- sast
+- surveillance
 title: Surveillance Measure for High Promoter and Non-Promoter Encumbrance - September
   2025 Updates
 ---

@@ -46,10 +46,10 @@ stocks:
 - PARSHWA
 - VRWOOD
 tags:
+- asm-stage
+- equity
 - price-band
 - trading
-- surveillance-measure
-- equity
 title: Changes in Price Band for 21 Securities Effective August 13, 2025
 ---
 

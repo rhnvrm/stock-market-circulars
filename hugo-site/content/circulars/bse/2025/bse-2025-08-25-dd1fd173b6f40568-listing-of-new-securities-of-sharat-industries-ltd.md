@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SHARAT
 tags:
-- new-securities
-- listing
-- equity-shares
 - conversion
-- partly-paid-shares
+- equity
+- listing
+- new-securities
+- partly-paid
 - rights-issue
 title: Listing of New Securities of Sharat Industries Ltd - Conversion of Partly Paid
   Shares

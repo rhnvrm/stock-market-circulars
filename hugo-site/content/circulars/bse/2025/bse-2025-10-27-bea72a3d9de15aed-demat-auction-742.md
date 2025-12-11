@@ -74,7 +74,6 @@ stocks:
 - MPHASIS
 - NESTLEIND
 - NIPPOBEES
-- NIPPOBEES
 - ONEGLOBE
 - PETRONET
 - PNBGILTS
@@ -97,7 +96,7 @@ stocks:
 - STRTECH
 - SURAJEST
 - TATACONSUM
-- TATAMOTORS
+- TMCV
 - TEGA
 - TEXEL
 - TIGERLOG
@@ -114,9 +113,9 @@ stocks:
 - WELSPUNSPEC
 - WINDLAS
 tags:
-- demat-auction
+- demat
+- early-pay-in
 - settlement
-- delivery-default
 title: Demat Auction Settlement No. 742
 ---
 

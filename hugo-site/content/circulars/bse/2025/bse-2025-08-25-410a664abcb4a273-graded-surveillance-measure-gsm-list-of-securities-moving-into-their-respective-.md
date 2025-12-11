@@ -29,16 +29,15 @@ stocks:
 - VENMAX
 - MORARJEE
 - AAYUSHWELL
-- EMAMIREALTY
-- ANSINDUSTRIES
+- EMAMIREAL
+- ANSINDUS
 - IYKOT
 - ADHATA
 tags:
-- gsm
-- surveillance
-- trading-restrictions
 - compliance
 - market-operations
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

@@ -40,10 +40,10 @@ stocks:
 - NWFL
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
-- record-date
 - debt-securities
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies Record Date
   Redemptions
 ---

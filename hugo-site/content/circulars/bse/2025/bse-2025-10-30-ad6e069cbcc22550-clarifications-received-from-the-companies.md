@@ -30,15 +30,12 @@ stocks:
 - ATGL
 - ARIGATOUN
 tags:
-- clarification
-- price-movement
-- volume-movement
-- surveillance
-- adani-green-energy
 - adani-total-gas
-- arigato-universe
-- regulation-30
+- clarification
 - disclosure
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -27,7 +27,7 @@ severity: low
 source: nse
 stocks:
 - GIL
-- TCM
+- TCMLMTD
 - GPL
 - HDBFSL
 - ABML
@@ -37,11 +37,11 @@ stocks:
 - MOFS
 - PNBHOUSING
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- fixed-income
 - listing
 - private-placement
-- fixed-income
 title: Listing of Privately Placed Debt Securities - November 24, 2025
 ---
 

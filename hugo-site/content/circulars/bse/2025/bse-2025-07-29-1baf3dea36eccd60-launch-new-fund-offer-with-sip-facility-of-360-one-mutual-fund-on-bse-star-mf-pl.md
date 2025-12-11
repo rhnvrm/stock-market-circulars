@@ -24,12 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- 360-one
+- hybrid-fund
 - mutual-fund
 - nfo
 - sip
-- 360-one
-- bse-star-mf
-- hybrid-fund
 title: Launch New Fund Offer with SIP facility of 360 ONE Mutual Fund on BSE StAR
   MF Platform
 ---

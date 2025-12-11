@@ -28,14 +28,14 @@ source: nse
 stocks: []
 tags:
 - block-deals
-- trading-framework
 - market-operations
-- trading-windows
-- settlement-cycle
-- T+0-settlement
-- T+1-settlement
-- VWAP
 - price-discovery
+- settlement-calendar
+- t0-settlement
+- t1-settlement
+- trading-operations
+- trading-windows
+- vwap
 title: Review of Block Deal Framework - Modified Trading Windows and Reference Prices
 ---
 

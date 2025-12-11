@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sip
-- systematic-investment-plan
-- mutual-funds
-- investment-platform
 - frequency-change
+- investment-platform
+- mutual-fund
+- sip
 title: Change in SIP Minimum Gap of Monthly frequency in Systematic Investment Plan
   (SIP) on NSE MF Invest Platform
 ---

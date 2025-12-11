@@ -28,13 +28,12 @@ source: nse
 stocks:
 - ROCK
 tags:
-- rights-issue
-- rights-entitlements
-- sme-emerge
-- trading
+- demat
+- emerge-platform
 - renunciation
+- rights-issue
 - trade-to-trade
-- compulsory-demat
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Rockingdeals Circular
   Economy Limited
 ---

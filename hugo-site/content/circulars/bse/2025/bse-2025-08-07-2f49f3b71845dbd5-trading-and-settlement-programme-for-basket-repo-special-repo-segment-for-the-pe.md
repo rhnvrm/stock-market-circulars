@@ -25,9 +25,9 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
-- repo
 - basket-repo
+- repo
+- settlement
 - special-repo
 - trading-schedule
 title: Trading and Settlement Programme for Basket Repo & Special Repo Segment - September

@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- overseas-investment
-- subscription-suspension
-- sebi-limits
-- hsbc-mutual-fund
+- equity-scheme
 - fund-of-funds
-- equity-schemes
-- investment-restrictions
+- hsbc-mutual-fund
+- mutual-fund
+- overseas-investment
+- sebi-limits
+- suspension
 title: Temporary Suspension of Subscription in Four HSBC Mutual Fund Schemes Investing
   in Overseas Securities
 ---

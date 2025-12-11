@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RACHITPRINTS
+- RACHIT
 tags:
-- trading-segment-change
-- mt-group
-- m-group
+- asm-stage
 - rolling-segment
-- trade-for-trade
 - sme
+- trade-for-trade
+- trading-segment-change
 title: RACHIT PRINTS LIMITED Equity Shares Transfer from Trade for Trade to Rolling
   Segment
 ---

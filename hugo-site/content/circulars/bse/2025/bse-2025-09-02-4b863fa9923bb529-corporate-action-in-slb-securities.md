@@ -48,11 +48,11 @@ stocks:
 - JTLINDS
 - HITECHPIPE
 tags:
-- slb
-- dividend
-- corporate-action
 - book-closure
-- ex-date
+- corporate-action
+- dividend
+- record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Announcements
 ---
 

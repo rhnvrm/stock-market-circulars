@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 360OPL
 tags:
+- 360-one-prime
 - debt-securities
+- icra-aa-rating
 - listing
 - private-placement
-- 360-one-prime
-- icra-aa-rating
 title: Listing of new debt securities of 360 ONE Prime Limited
 ---
 

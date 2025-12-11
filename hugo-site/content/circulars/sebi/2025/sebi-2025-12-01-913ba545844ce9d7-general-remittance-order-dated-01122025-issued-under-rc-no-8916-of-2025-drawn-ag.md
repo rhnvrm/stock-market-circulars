@@ -27,10 +27,10 @@ source: sebi
 stocks:
 - GENCON
 tags:
-- recovery-proceedings
+- demand-notice
 - enforcement
-- remittance-order
-- Generic-Engineering
+- generic-engineering
+- recovery
 title: General Remittance Order against Moglesh Chanappa Koni - Generic Engineering
   Construction and Project Limited
 ---

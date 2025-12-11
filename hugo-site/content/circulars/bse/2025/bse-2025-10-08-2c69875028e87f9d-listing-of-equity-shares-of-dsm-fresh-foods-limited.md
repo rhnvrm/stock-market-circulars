@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DSM
 tags:
+- dsm-fresh-foods
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- dsm-fresh-foods
 title: Listing of Equity Shares of DSM Fresh Foods Limited
 ---
 

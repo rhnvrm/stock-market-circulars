@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks:
 - HARSHIL
+- HARSHILAGR
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- equity-shares
-- harshil-agrotech
-- '505336'
+- equity
 title: 'Bonus Issue of Harshil Agrotech Limited - 1:1 Ratio (Scrip Code: 505336)'
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PATELCHEM
 tags:
-- listing
-- shareholding-pattern
-- equity-shares
 - disclosure
+- equity
+- listing
 - sebi-regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Patel Chem Specialities Limited
 ---
 

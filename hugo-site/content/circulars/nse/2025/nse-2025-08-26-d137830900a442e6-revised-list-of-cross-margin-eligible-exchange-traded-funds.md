@@ -32,7 +32,6 @@ stocks:
 tags:
 - cross-margin
 - etf
-- exchange-traded-funds
 - margin-benefits
 - risk-management
 title: Revised List of Cross Margin Eligible Exchange Traded Funds (ETFs)

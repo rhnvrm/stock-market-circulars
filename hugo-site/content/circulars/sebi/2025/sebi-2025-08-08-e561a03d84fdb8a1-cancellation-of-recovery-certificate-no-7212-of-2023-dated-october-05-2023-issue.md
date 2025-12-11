@@ -26,12 +26,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- cancellation
-- trading-violations
-- illiquid-stock-options
 - bse
+- cancellation
 - enforcement
+- illiquid-stock-options
+- recovery
+- trading-operations
 title: Cancellation of Recovery Certificate No. 7212 of 2023 for Hem Chand Gupta -
   Trading in Illiquid Stock Options
 ---

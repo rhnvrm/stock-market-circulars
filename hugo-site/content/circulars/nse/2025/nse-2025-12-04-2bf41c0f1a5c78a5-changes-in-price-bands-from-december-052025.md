@@ -72,11 +72,11 @@ stocks:
 - AGSTRA
 - AGUL
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
 - volatility-control
-- market-regulation
 title: Changes in Price Bands from December 05, 2025
 ---
 

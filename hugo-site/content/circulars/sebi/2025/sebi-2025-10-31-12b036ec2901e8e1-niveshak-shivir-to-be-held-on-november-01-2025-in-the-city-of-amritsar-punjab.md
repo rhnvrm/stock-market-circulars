@@ -25,16 +25,16 @@ severity: low
 source: sebi
 stocks: []
 tags:
+- amritsar
+- dividend
+- iepfa
 - investor-education
 - investor-protection
-- dividends
 - kyc
-- iepfa
-- unclaimed-shares
-- nomination
 - niveshak-shivir
+- nomination
 - punjab
-- amritsar
+- unclaimed-shares
 title: Niveshak Shivir to be held on November 01, 2025 in the city of Amritsar, Punjab
 ---
 

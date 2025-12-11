@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- derivatives
-- risk-management
-- fno-ban
 - clearing-members
-- position-reporting
+- derivatives
+- fno-ban
 - iccl
-- stock-options
+- position-reporting
+- risk-management
 - stock-futures
+- stock-options
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

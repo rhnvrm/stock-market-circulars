@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544161'
+- DPABHUSHAN
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - new-securities
-- promoter-allotment
+- preferential-issue
+- promoter
 title: Listing of New Securities of D P ABHUSHAN LIMITED
 ---
 

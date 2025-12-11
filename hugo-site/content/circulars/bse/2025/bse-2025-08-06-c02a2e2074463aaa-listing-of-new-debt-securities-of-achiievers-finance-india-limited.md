@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- ACHIIEVERS-FINANCE
 title: Listing of New Debt Securities of ACHIIEVERS FINANCE INDIA LIMITED
 ---
 

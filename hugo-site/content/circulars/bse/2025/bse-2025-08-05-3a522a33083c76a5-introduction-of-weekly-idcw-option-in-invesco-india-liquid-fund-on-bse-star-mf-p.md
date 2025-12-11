@@ -24,12 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - idcw
-- payout
-- liquid-fund
 - invesco
-- bse-star-mf
+- liquid-fund
+- mutual-fund
+- payout
 title: Introduction of Weekly IDCW Payout Option in Invesco India Liquid Fund on BSE
   StAR MF Platform
 ---

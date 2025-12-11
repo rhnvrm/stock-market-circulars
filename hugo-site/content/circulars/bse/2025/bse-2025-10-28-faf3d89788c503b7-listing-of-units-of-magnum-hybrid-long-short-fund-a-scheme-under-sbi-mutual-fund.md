@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- listing
-- sbi-mutual-fund
+- demat
 - hybrid-fund
-- demat-only
 - interval-fund
+- listing
+- mutual-fund
+- sbi-mutual-fund
 title: Listing of Units of Magnum Hybrid Long Short Fund under SBI Mutual Fund
 ---
 

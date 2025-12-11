@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '533676'
+- INDOTHAI
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
-- equity-shares
 - lock-in
-- indo-thai-securities
+- preferential-issue
 title: Listing of 2 Million Equity Shares of Indo Thai Securities Limited on Preferential
   Basis
 ---

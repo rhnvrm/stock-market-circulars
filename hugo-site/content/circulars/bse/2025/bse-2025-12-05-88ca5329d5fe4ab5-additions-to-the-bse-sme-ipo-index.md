@@ -25,15 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544625'
-- '544626'
-- '544627'
+- LOGICIEL
+- EXATO
+- PURPLEWAVE
 tags:
-- index
-- sme
+- addition
+- index-fund
 - ipo
-- additions
 - listing
+- sme
 title: Additions to the BSE SME IPO INDEX
 ---
 

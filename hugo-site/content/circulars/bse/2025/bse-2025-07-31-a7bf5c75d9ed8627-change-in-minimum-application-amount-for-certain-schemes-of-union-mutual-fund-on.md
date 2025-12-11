@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- swp
 - minimum-amount
+- mutual-fund
+- swp
 - union-mutual-fund
-- bse-star-mf
 title: Change in Minimum Application Amount for Union Mutual Fund SWP on BSE StAR
   MF Platform
 ---

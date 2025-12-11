@@ -28,15 +28,14 @@ source: sebi
 stocks:
 - BRIGHTCOM
 tags:
-- settlement-order
-- financial-statements
-- misstatements
-- disclosure-violations
 - compliance-officer
+- financial-statements
 - independent-director
-- audit-committee
-- listing-obligations
-- brightcom-group
+- information-disclosure
+- lodr
+- misstatements
+- settlement-order
+- system-audit
 title: Settlement Order in the matter of investigation into misstatements / irregularities
   in the financial statements of Brightcom Group Limited
 ---

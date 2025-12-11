@@ -28,11 +28,10 @@ stocks:
 - GOKULAGRO
 - TATAINVEST
 tags:
-- securities-lending-borrowing
+- collateral
+- participant-limits
 - position-limits
 - slb-scheme
-- market-wide-position-limit
-- participant-limits
 title: Revised MWPL, Participant, Institutional and Non Institutional Client Limits
   for GOKULAGRO and TATAINVEST
 ---

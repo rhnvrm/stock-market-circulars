@@ -27,11 +27,10 @@ source: bse
 stocks:
 - INDIGO045
 tags:
-- debt-listing
-- private-placement
+- bond
+- debt-securities
 - new-securities
-- indigo045
-- corporate-bonds
+- private-placement
 title: Listing of New Debt Securities of INDIGO 045
 ---
 

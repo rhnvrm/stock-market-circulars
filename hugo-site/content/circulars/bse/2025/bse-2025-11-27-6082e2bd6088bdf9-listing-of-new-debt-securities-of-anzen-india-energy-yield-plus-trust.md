@@ -28,12 +28,12 @@ source: bse
 stocks:
 - AIEYPT
 tags:
-- debt-securities
-- listing
-- invit
 - anzen-india-energy-yield-plus-trust
+- debt-securities
+- invit
+- listing
+- ncd
 - private-placement
-- non-convertible-debentures
 title: Listing of New Debt Securities of Anzen India Energy Yield Plus Trust
 ---
 

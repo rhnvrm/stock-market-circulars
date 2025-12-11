@@ -26,12 +26,11 @@ source: bse
 stocks:
 - INDIACEM
 tags:
-- offer-for-sale
-- ofs
-- trading
 - equity
-- institutional-investors
-- retail-investors
+- institutional-investor
+- ofs
+- retail-investor
+- trading
 title: Opening of Offer for Sale for INDIA CEMENTS LIMITED - Live Activities Schedule
 ---
 

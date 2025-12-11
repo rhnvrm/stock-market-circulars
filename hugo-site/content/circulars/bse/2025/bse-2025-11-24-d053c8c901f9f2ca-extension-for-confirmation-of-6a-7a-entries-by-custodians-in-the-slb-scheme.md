@@ -26,13 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- securities-lending-borrowing
-- slb
-- custodian
+- collateral
 - confirmation-window
-- settlement
-- rms
+- custodian
 - operational-hours
+- rms
+- settlement
+- slb
 title: Extension for Confirmation of 6A-7A entries by Custodians in the SLB scheme
 ---
 

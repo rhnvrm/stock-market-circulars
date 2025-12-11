@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- debt-securities
 - interval-fund
-- uti-mutual-fund
-- bse-star-mf
-- debt-fund
+- mutual-fund
 - trading-platform
+- uti-mutual-fund
 title: Activation of UTI ANNUAL INTERVAL FUND - I (Interval Fund) on BSE StAR MF Platform
 ---
 

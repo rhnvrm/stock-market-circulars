@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - SEYA
 tags:
-- recovery-notice
 - demand-notice
-- seya-industries
 - enforcement
 - individual-penalty
+- recovery
+- seya-industries
 title: Notice of Demand dated 13.08.2025 issued under RC No. 8865 of 2025 drawn against
   Mr. Sivaprasada Rao Buddi in the matter of Seya Industries Limited
 ---

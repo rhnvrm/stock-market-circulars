@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NAMRAFINANCE
 tags:
-- debt-listing
+- debt-securities
+- listing
+- ncd
 - private-placement
-- namra-finance
-- debentures
-- new-listing
 title: Listing of New Debt Securities of Namra Finance Limited
 ---
 

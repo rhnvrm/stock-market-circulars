@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- takeover-regulations
-- share-valuation
 - independent-valuer
 - pricing-mechanism
-- substantial-acquisition
 - regulatory-amendment
-- open-offer
+- sast
+- share-valuation
+- takeover
+- takeover-regulations
 title: Securities and Exchange Board of India (Substantial Acquisition of Shares and
   Takeovers) (Amendment) Regulations, 2025
 ---

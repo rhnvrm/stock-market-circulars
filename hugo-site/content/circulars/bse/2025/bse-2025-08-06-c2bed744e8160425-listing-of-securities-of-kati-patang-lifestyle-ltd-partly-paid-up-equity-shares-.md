@@ -26,10 +26,10 @@ source: bse
 stocks:
 - PATANGPP
 tags:
+- equity
+- listing
+- partly-paid
 - rights-issue
-- partly-paid-shares
-- new-listing
-- equity-shares
 title: Listing of Kati Patang Lifestyle Ltd Partly Paid-up Equity Shares (Rights Issue)
 ---
 

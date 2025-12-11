@@ -26,9 +26,9 @@ stocks:
 - EFL
 tags:
 - debt-securities
+- electronica-finance
 - listing
 - private-placement
-- electronica-finance
 title: Listing of new debt securities of Electronica Finance Limited
 ---
 

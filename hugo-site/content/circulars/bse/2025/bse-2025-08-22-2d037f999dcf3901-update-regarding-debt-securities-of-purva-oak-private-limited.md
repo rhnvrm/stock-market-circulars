@@ -27,10 +27,9 @@ stocks:
 - PURVAOAK
 tags:
 - debt-securities
+- isin
 - ncd
-- isin-change
 - security-mode-change
-- purva-oak
 title: Update Regarding Debt Securities of Purva Oak Private Limited - Revised Terms
   Effective August 25, 2025
 ---

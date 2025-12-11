@@ -29,7 +29,7 @@ stocks:
 - BLUESTNE
 - BOTHRAMETAL
 - HYBRIDFIN
-- JAYUSHIN
+- JAYUSH
 - KEYFINSERV
 - MACHHAR
 - MURAEORG
@@ -48,11 +48,10 @@ stocks:
 - RUSHIL
 - UMIYABUILD
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

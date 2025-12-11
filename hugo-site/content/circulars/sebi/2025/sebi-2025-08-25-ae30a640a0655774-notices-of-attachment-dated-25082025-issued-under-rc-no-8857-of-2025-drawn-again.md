@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
 - attachment
-- unregistered-investment-advisory
 - compliance
+- enforcement
+- unregistered-investment-advisory
 - violation
 title: Notice of Attachment issued under RC No. 8857 of 2025 against Mr. Niraj Thakur,
   Proprietor of Empiric Trade for Unregistered Investment Advisory

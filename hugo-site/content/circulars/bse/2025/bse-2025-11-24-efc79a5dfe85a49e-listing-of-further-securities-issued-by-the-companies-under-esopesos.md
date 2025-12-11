@@ -27,11 +27,9 @@ source: bse
 stocks: []
 tags:
 - esop
-- esos
-- lock-in
 - listing
+- lock-in
 - securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - Lock-In Schedule
 ---
 

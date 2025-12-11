@@ -27,14 +27,13 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- fno
-- risk-monitoring
+- futures-options
 - position-reporting
-- settlement
+- risk-monitoring
 - rms
-- equity-derivatives
-- stock-options
+- settlement
 - stock-futures
+- stock-options
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

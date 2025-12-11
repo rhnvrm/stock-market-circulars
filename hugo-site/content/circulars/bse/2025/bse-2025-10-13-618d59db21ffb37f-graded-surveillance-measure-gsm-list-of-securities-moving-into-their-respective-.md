@@ -29,15 +29,13 @@ stocks:
 - ASHIANA
 - STEPTWO
 - AAYUSH
-- DIGJAM
+- DIGJAMLMTD
 - EASUNCAP
 - OSCAR
 tags:
-- gsm
+- asm-stage
 - surveillance
 - trading-restrictions
-- stage-migration
-- market-surveillance
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into Their Respective
   GSM Stages
 ---

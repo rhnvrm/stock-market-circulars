@@ -25,12 +25,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- demat-account
 - clearing-operations
-- nsdl
-- ucc-mapping
-- proprietary-trading
 - compliance
+- demat
+- depository
+- proprietary-trading
+- ucc-mapping
 title: Direct Pay-out of Securities to Client Demat Account - Updated Requirements
 ---
 

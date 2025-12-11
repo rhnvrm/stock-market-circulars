@@ -27,15 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nomination
-- api
-- sebi-guidelines
-- investor-protection
-- bse-star-mf
-- compliance
-- rta
 - amc
+- api
+- compliance
+- investor-protection
+- mutual-fund
+- nomination
+- rta
+- sebi-guidelines
 title: Revise and Revamp of Nomination Facilities in Mutual Funds Segment - Update
 ---
 

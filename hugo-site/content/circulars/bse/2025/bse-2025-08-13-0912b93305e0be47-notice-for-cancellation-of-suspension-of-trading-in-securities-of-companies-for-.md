@@ -25,10 +25,9 @@ source: bse
 stocks:
 - GIANLIFE
 tags:
-- trading-suspension
 - compliance
 - sebi-depositories
-- gian-life-care
+- suspension
 title: Cancellation of Suspension of Trading in Gian Life Care Ltd Securities
 ---
 

@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- debt
 - corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of LUMBINI EDUCATION PVT LTD
 ---
 

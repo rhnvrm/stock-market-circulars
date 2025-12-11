@@ -27,10 +27,9 @@ stocks:
 - BROOKFIELD
 tags:
 - listing
+- preferential-issue
 - reit
 - securities
-- preferential-allotment
-- brookfield
 title: Listing of Securities Brookfield India Real Estate Trust
 ---
 

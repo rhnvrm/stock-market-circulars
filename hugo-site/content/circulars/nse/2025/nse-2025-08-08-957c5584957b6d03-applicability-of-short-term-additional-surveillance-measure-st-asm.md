@@ -28,12 +28,10 @@ stocks:
 - JAINIK
 - POCL
 tags:
-- asm
-- surveillance
-- margin-requirements
-- st-asm
-- esm
+- asm-stage
 - excluded-securities
+- margin
+- surveillance
 title: NSE Excludes Two Securities from ASM Framework - Jainik Power Cables and Pondy
   Oxides
 ---

@@ -30,11 +30,9 @@ stocks:
 - VINTAGESEC
 - YURANUSINFRA
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
+- surveillance
 - trading-restrictions
-- market-surveillance
-- stage-movement
 title: Enhanced Surveillance Measure (ESM) Framework Updates - July 31, 2025
 ---
 

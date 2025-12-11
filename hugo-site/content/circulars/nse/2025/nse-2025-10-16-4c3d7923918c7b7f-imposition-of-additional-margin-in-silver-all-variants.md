@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-requirements
-- silver
+- derivatives
+- futures-options
+- margin
 - risk-management
-- futures
+- silver
 title: Imposition of Additional Margin in Silver (all variants)
 ---
 

@@ -25,12 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- suspension
+- debt-securities
 - maturation
-- debt-segment
+- suspension
 - trading-halt
+- treasury-bills
 title: Suspension of Trading in T-Bills - 182TB29825 Maturing August 26, 2025
 ---
 

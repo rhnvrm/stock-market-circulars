@@ -31,8 +31,6 @@ tags:
 - listing
 - ncd
 - private-placement
-- moneyboxx-finance
-- debt-market
 title: Listing of New Debt Securities of Moneyboxx Finance Limited
 ---
 

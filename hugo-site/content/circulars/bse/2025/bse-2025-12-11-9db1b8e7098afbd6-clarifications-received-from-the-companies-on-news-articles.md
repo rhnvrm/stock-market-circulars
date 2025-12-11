@@ -26,12 +26,12 @@ source: bse
 stocks:
 - INTERGLOBE
 tags:
-- indigo
-- dgca
 - aviation
-- regulatory-meeting
 - clarification
+- dgca
+- indigo
 - news-article
+- regulatory-meeting
 title: InterGlobe Aviation (IndiGo) CEO Summoned by DGCA for Review Meeting
 ---
 

@@ -29,13 +29,12 @@ source: bse
 stocks:
 - YESBANK
 tags:
-- bonds
-- debt-market
-- trading-suspension
-- redemption
+- bond
+- corporate-action
+- debt-securities
 - interest-payment
-- YES-BANK
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of YES BANK LTD.
 ---
 

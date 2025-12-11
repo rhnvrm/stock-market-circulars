@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MNFL
 tags:
+- equity
 - listing
-- sme
-- equity-shares
-- new-listing
 - mother-nutri-foods
+- sme
 title: Listing of Equity Shares of MOTHER NUTRI FOODS LIMITED
 ---
 

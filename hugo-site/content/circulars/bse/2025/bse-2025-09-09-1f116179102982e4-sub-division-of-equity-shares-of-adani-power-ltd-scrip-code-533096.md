@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ADANIPOWER
 tags:
-- subdivision
-- stock-split
 - corporate-action
-- adani-power
-- equity-shares
+- equity
+- split
 title: Sub-Division of Equity Shares of Adani Power Ltd (1:5 Split)
 ---
 

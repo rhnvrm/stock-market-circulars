@@ -27,11 +27,11 @@ stocks:
 - SCL
 - ABHFL
 tags:
-- listing
-- debt-securities
-- private-placement
 - capital-market
-- debentures
+- debt-securities
+- listing
+- ncd
+- private-placement
 title: Listing of privately placed securities on capital market segment
 ---
 

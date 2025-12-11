@@ -26,12 +26,12 @@ source: bse
 stocks:
 - EMMBI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Emmbi Industries Limited
 ---
 

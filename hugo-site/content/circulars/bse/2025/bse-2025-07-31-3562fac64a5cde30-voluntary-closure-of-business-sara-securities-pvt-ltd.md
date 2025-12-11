@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- business-closure
-- trading-member
-- equity-derivatives
+- derivatives
+- maintenance
 - membership-operations
+- trading-member
 title: Voluntary Closure of Business – Sara Securities Pvt. Ltd.
 ---
 

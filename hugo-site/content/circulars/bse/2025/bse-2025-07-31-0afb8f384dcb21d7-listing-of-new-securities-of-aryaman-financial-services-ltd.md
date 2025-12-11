@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ARYAMAN
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoter
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Aryaman Financial Services Ltd.
 ---
 

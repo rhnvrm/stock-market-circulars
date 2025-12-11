@@ -28,13 +28,11 @@ source: sebi
 stocks:
 - SETUBANDHAN
 tags:
-- recovery-certificate
-- enforcement
-- demand-notice
-- prakash-constrowell
-- setubandhan-infrastructure
 - anup-karwa
-- recovery-proceedings
+- demand-notice
+- enforcement
+- prakash-constrowell
+- recovery
 - sebi-enforcement
 title: Notice of Demand under Recovery Certificate No. 8930 of 2025 dated October
   27, 2025 issued against Anup Karwa (PAN - BFNPK5368C) in the matter of Prakash Constrowell

@@ -23,13 +23,12 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML69350.pdf
 severity: low
 source: nse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
+- bond
 - debt-securities
 - listing
-- piramal-finance
 - privately-placed
-- bonds
 title: Listing of Piramal Finance Limited Debt Securities
 ---
 

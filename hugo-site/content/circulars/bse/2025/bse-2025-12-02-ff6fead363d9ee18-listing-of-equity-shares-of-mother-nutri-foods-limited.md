@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MOTHERNUTRI
 tags:
-- listing
+- anchor-investor
+- equity
 - ipo
-- equity-shares
+- listing
 - lock-in
-- anchor-investors
 title: Listing of Equity Shares of Mother Nutri Foods Limited - IPO
 ---
 

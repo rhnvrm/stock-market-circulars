@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TRUSTEDGE
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
 - new-securities
-- trustedge-capital
+- rights-issue
 title: Listing of New Securities of Trustedge Capital Limited
 ---
 

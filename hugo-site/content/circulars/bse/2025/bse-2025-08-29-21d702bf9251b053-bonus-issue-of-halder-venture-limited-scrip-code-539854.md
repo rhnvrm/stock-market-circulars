@@ -26,11 +26,11 @@ source: bse
 stocks:
 - HALDER
 tags:
-- bonus-shares
-- equity-allotment
+- bonus
 - corporate-action
+- depository
+- equity
 - record-date
-- depository-system
 title: Bonus Issue of Halder Venture Limited - 82.92 Lakh Equity Shares
 ---
 

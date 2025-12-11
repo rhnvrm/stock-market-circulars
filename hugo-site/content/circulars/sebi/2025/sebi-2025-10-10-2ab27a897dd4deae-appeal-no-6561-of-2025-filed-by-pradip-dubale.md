@@ -26,10 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal-order
 - credit-rating-agencies
 - information-disclosure
+- rti
 - transparency
 title: Appeal No. 6561 of 2025 filed by Pradip Dubale - RTI Appeal Dismissed
 ---

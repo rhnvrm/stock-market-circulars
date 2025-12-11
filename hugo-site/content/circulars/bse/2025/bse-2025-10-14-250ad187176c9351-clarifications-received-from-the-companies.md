@@ -28,11 +28,11 @@ stocks:
 - BLSINTER
 - DREAMFOLKS
 tags:
-- surveillance
-- volume-movement
 - clarification
 - disclosure
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -44,12 +44,12 @@ stocks:
 - TDPOWERSYS
 - YESBANK
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
 - convertible-debentures
+- equity
+- esop
 - further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - 18 Companies
 ---
 

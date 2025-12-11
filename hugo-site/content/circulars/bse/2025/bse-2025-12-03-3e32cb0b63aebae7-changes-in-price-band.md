@@ -26,19 +26,18 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '524602'
-- '501831'
-- '524614'
-- '751063'
-- '543256'
-- '544582'
-- '517166'
+- BANDARAM
+- COASTCORP
+- INDXTRA
+- RFLL
+- SHLOKKA
+- SPELS
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-regulation
 title: Changes in Price Band for 7 Securities - Effective December 4, 2025
 ---
 

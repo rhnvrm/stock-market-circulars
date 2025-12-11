@@ -27,13 +27,11 @@ source: bse
 stocks:
 - KOTAKMAH
 tags:
-- debt-market
-- debentures
-- trading-suspension
-- redemption
-- kotak-mahindra
 - corporate-action
-- non-convertible-debentures
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Kotak Mahindra Investments Limited
 ---
 

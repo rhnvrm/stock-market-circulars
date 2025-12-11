@@ -28,12 +28,12 @@ source: bse
 stocks: []
 tags:
 - block-deal
-- trading-window
 - market-operations
-- sebi-circular
-- settlement-cycle
-- vwap
 - price-discovery
+- sebi
+- settlement-calendar
+- trading-window
+- vwap
 title: Review of Block Deal Framework
 ---
 

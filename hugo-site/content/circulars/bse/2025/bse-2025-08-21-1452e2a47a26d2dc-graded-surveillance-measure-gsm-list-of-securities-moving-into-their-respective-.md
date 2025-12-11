@@ -27,10 +27,9 @@ stocks:
 - SHASHANK
 - ADLINE
 tags:
-- gsm
+- risk-management
 - surveillance
 - trading-restrictions
-- risk-management
 title: BSE Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages II
   and III
 ---

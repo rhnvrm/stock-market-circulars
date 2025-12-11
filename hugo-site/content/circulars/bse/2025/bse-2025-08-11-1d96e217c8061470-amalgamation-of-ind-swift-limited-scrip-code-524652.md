@@ -26,12 +26,11 @@ source: bse
 stocks:
 - INDSWIFT
 tags:
-- amalgamation
-- merger
-- nclt
-- trading-suspension
-- record-date
 - corporate-action
+- nclt
+- record-date
+- scheme-of-arrangement
+- suspension
 title: Amalgamation of Ind-Swift Limited with Ind-Swift Laboratories Limited
 ---
 

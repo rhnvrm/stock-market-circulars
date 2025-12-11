@@ -26,11 +26,10 @@ stocks:
 - NTBCL
 - POPEES
 tags:
-- gsm
-- surveillance
-- trading
 - noida-toll-bridge
 - popees-cares
+- surveillance
+- trading
 title: GSM Stage Changes for Noida Toll Bridge and Popees Cares
 ---
 

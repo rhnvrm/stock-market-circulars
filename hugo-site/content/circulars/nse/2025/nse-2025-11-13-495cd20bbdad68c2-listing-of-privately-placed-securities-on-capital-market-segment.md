@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SICCL28
 tags:
-- listing
 - debt-securities
-- privately-placed
+- listing
 - market-linked-debentures
-- SMFG-India-Credit
+- privately-placed
+- smfg-india-credit
 title: Listing of Privately Placed Securities - SMFG India Credit Company Limited
 ---
 

@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539900'
+- DIDL
 tags:
+- asm-stage
+- dalmia
 - listing-fees
 - trading-resumption
-- x-group
-- DALMIA
 title: Trading Resumed for Dalmia Industrial Development Limited After ALF Payment
 ---
 

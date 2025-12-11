@@ -27,18 +27,16 @@ stocks:
 - CARGOTRANS
 - NIRAJCEM
 - SHIVTEX
-- ABMKNOWLEDGEWARE
+- ABMKNO
 - BAZEL
 - DHARANI
 - KHYATI
 - LGTBUSINESS
 - SPCAPITAL
 tags:
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- st-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -27,7 +27,7 @@ severity: medium
 source: bse
 stocks:
 - AGRIBIO
-- ALEMBIC
+- ALEMBICLTD
 - AMFORGE
 - AVANCE
 - AWL
@@ -60,7 +60,7 @@ stocks:
 - MAESTROS
 - MEGA
 - MEHAI
-- MODISON
+- MODISONLTD
 - MOTISONS
 - NATIONALALUM
 - OLAELEC
@@ -91,9 +91,9 @@ stocks:
 - ZYDUSLIFE
 tags:
 - auction
-- demat-auction
-- settlement
+- demat
 - market-operations
+- settlement
 title: Demat Auction - Settlement No. 770
 ---
 

@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '542503'
+- MAHIP
 tags:
+- asm-stage
+- equity
 - group-change
-- m-group
-- equity-shares
-- trading-members
 - mahip-industries
+- trading-member
 title: 'Change in group of Equity shares of Mahip Industries Ltd. (Scrip Code: 542503)'
 ---
 

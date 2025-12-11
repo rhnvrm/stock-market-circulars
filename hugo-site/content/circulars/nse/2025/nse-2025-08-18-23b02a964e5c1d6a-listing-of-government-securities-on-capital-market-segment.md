@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- government-securities
-- listing
+- bond
 - capital-market
+- gsec
+- listing
 - trading
-- bonds
 title: Listing of Government Securities on Capital Market Segment
 ---
 

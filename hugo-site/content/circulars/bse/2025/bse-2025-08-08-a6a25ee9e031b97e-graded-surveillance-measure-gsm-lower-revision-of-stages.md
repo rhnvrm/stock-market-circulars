@@ -82,10 +82,9 @@ stocks:
 - PUROHIT
 - RAJKAMAL
 tags:
-- gsm
+- asm-stage
 - surveillance
-- stage-revision
-- trading-measures
+- trading-operations
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages
 ---
 

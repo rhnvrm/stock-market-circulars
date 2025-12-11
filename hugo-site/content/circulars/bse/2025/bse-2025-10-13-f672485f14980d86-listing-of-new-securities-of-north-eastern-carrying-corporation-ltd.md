@@ -28,11 +28,11 @@ source: bse
 stocks:
 - NECC
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
-- partly-paid-conversion
 - new-securities
+- partly-paid
+- rights-issue
 title: Listing of New Securities of North Eastern Carrying Corporation Ltd.
 ---
 

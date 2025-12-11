@@ -28,11 +28,10 @@ stocks:
 - THDL
 tags:
 - commercial-paper
+- debt-securities
 - listing
-- debt-segment
-- tata-housing
 - private-placement
-- THDL
+- tata-housing
 title: Listing of new Commercial Paper of Tata Housing Development Company Limited
 ---
 

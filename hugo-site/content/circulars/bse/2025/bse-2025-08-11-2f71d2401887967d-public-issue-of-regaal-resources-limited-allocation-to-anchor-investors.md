@@ -25,11 +25,11 @@ source: bse
 stocks:
 - REGAAL
 tags:
+- allotment
+- anchor-investor
 - ipo
 - public-issue
-- anchor-investors
 - regaal-resources
-- allocation
 title: Public Issue of Regaal Resources Limited - Anchor Investor Allocation
 ---
 

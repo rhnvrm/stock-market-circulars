@@ -28,10 +28,9 @@ stocks:
 - BAJAJCON
 tags:
 - buyback
-- offer-to-buy
-- acquisition-window
+- equity
+- otb
 - trading-schedule
-- equity-shares
 title: Offer to Buy – Acquisition Window (Buyback) for BAJAJ CONSUMER CARE LIMITED
   - Live Activities Schedule
 ---

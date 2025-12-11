@@ -27,13 +27,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- RTI
 - appeal
-- investigation
 - confidentiality
-- enforcement-action
-- right-to-information
 - disclosure-exemption
+- enforcement
+- investigation
+- rti
 title: Appeal No. 6563 of 2025 filed by Sudhir G Kadam - RTI Application Regarding
   Action Against Avadhut Sathe
 ---

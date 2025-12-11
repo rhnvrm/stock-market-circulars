@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
-- mirae-asset
-- listing
+- debt-securities
 - icici-bank
+- listing
+- mirae-asset
+- private-placement
 title: Listing of Commercial Paper of Mirae Asset Capital Markets India Private Limited
 ---
 

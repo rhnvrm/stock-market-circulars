@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- turnover-fees
-- demand-notice
 - defaulter
+- demand-notice
 - non-payment
+- recovery
+- turnover-fees
 title: Notice of Demand under Recovery Certificate No. 8859 of 2025 against M Ashok
   Mootha for Non-payment of Turnover Fees
 ---

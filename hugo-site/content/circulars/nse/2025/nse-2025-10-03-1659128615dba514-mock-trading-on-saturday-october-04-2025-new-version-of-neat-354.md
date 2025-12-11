@@ -27,14 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- currency-derivatives
-- neat-upgrade
-- system-testing
-- encryption
-- software-release
+- derivatives
 - disaster-recovery
-- neat-adapter
+- encryption
+- mock-trading
+- neat-upgrade
+- software-release
+- trading-platform
 title: Mock Trading Session - New NEAT Version 3.5.4 Release for Currency Derivatives
 ---
 

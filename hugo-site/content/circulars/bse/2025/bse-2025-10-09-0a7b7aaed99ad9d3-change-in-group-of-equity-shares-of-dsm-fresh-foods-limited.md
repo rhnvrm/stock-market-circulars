@@ -28,12 +28,12 @@ source: bse
 stocks:
 - DSMFRESH
 tags:
-- trading-segment
 - group-change
-- sme
 - ipo
 - rolling-segment
+- sme
 - trade-for-trade
+- trading
 title: Change in Group of Equity Shares of DSM FRESH FOODS LIMITED
 ---
 

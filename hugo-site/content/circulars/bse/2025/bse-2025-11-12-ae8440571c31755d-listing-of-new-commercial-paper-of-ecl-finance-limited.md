@@ -27,10 +27,9 @@ stocks:
 - ECLFINANCE
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- ecl-finance
+- debt-securities
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of ECL Finance Limited
 ---
 

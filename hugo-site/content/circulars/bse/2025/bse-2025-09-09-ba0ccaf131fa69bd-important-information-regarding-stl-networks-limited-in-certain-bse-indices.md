@@ -27,11 +27,11 @@ source: bse
 stocks:
 - STLNET
 tags:
-- index-exclusion
-- demerger
+- bse-indices
 - corporate-action
-- STL-Networks
-- BSE-indices
+- index-change
+- scheme-of-arrangement
+- stl-networks
 title: STL Networks Limited Exclusion from BSE Indices Effective September 11, 2025
 ---
 

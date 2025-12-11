@@ -28,11 +28,10 @@ source: bse
 stocks:
 - PANORAMA
 tags:
-- bonus-issue
+- bonus
 - corporate-action
+- equity
 - listing
-- equity-shares
-- panorama-studios
 title: Bonus Issue of Panorama Studios International Limited - Credit and Trading
   Timeline
 ---

@@ -31,11 +31,10 @@ stocks:
 - STEELXIND
 - THYROCARE
 tags:
-- surveillance
 - encumbrance
-- margin-requirements
-- sast-regulation
-- promoter-encumbrance
+- margin
+- sast
+- surveillance
 title: Measure for High Promoter and Non-Promoter Encumbrance Companies Under SEBI
   SAST Regulation
 ---

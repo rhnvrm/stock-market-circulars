@@ -27,14 +27,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bandhan-mutual-fund
+- equity
+- etf
+- gold
 - mutual-fund
 - nfo
-- etf
-- gold-etf
-- bandhan-mutual-fund
-- bse-star-mf
-- new-fund-offer
-- equity
 title: Launch of ETF New Fund Offer of Bandhan Mutual Fund on BSE StAR MF Platform
 ---
 

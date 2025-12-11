@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- fof
+- fund-of-funds
+- mutual-fund
 - power-sector
-- bse-star-mf
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: GROWW BSE POWER ETF FOF Available for Ongoing Transactions on BSE StAR MF Platform
 ---

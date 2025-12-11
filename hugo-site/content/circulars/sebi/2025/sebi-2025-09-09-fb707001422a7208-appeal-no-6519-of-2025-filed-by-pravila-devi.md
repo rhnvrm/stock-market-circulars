@@ -25,11 +25,10 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl
 - investor-grievance
-- land-allotment
 - justice-lodha-committee
+- land-allotment
+- rti
 title: Appeal No. 6519 of 2025 filed by Pravila Devi - RTI Appeal Regarding PACL Investment
   Status Dismissed
 ---

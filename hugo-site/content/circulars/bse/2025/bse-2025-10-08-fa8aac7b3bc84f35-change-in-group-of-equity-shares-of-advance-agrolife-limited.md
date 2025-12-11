@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544562'
+- ADVANCE
 tags:
+- advance-agrolife
 - group-change
+- rolling-segment
 - segment-transfer
 - trade-for-trade
-- rolling-segment
-- advance-agrolife
 title: Change in Group of Equity Shares of ADVANCE AGROLIFE LIMITED
 ---
 

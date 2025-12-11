@@ -26,10 +26,9 @@ source: bse
 stocks: []
 tags:
 - mutual-fund
+- smart-switch
 - stp
-- systematic-transfer-plan
 - unifi-liquid-fund
-- bse-star-mf
 title: Change in STP minimum instalment numbers for Unifi Mutual fund on BSE StAR
   MF Platform
 ---

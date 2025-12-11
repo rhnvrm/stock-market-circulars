@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-requirements
+- derivatives
+- gold
+- margin
 - risk-management
-- gold-futures
-- silver-futures
-- settlement
 - rms
+- settlement
+- silver-futures
 title: Imposing of Additional Margin in Gold and Silver Near Month Contracts (All
   Variants)
 ---

@@ -27,10 +27,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- bank-attachment
-- enforcement-action
+- attachment
 - compliance
+- enforcement
+- recovery
 - sms-techsoft
 title: SEBI Order for Compliance – Notice of Attachment of Bank Account for Recovery
   Certificate No. 5549 of 2022 against Mitesh Kaniyalal Thakkar in the matter of SMS

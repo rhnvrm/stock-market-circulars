@@ -39,7 +39,7 @@ stocks:
 - CUB
 - CUPID
 - DATAPATTNS
-- DCXSYSTEMS
+- DCXINDIA
 - DREAMFOLKS
 - DSPMF
 - EXPLEOSOL
@@ -71,7 +71,7 @@ stocks:
 - MILGREY
 - MIRAEASSET
 - MOBAVENUE
-- MODISON
+- MODISONLTD
 - MURAEORG
 - NAHARCAP
 - NATALUM
@@ -80,7 +80,7 @@ stocks:
 - NIPPOINDIA
 - PINELABS
 - PONDYOXIDE
-- PRIMEFOCUS
+- PFOCUS
 - RKSWAMY
 - RVNL
 - RIRPOWER
@@ -94,7 +94,7 @@ stocks:
 - STARLINEPS
 - STELHOLD
 - SURAJIND
-- TATAMOTORS
+- TMCV
 - THEMISMED
 - TRANSFORMERS
 - TRISHAKTI
@@ -107,9 +107,9 @@ stocks:
 - VOLTAS
 - WARDWIZARD
 tags:
-- demat-auction
-- settlement
+- demat
 - securities-auction
+- settlement
 - trading-operations
 title: Demat Auction - Settlement No. 756
 ---

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- nri
-- derivatives
-- position-limits
 - cp-code
-- operational-efficiency
+- derivatives
 - ease-of-doing-business
+- nri
+- operational-efficiency
+- position-limits
 title: Operational Efficiency in Monitoring of Non-Resident Indians (NRI) Position
   Limits in Exchange Traded Derivatives Contracts - Ease of Doing Investment
 ---

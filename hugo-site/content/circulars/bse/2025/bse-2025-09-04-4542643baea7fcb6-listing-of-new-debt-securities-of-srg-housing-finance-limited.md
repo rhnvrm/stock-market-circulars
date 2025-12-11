@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - srg-housing-finance
-- debentures
 title: Listing of new debt securities of SRG Housing Finance Limited
 ---
 

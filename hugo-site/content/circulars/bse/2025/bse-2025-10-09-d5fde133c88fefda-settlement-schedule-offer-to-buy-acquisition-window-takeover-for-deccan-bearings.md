@@ -26,12 +26,12 @@ source: bse
 stocks:
 - DECCAN
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- early-pay-in
-- demat-delivery
 - deccan-bearings
+- demat
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for DECCAN
   BEARINGS LIMITED
 ---

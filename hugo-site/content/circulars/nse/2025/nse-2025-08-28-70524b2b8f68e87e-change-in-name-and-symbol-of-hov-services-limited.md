@@ -27,10 +27,9 @@ stocks:
 - HOVS
 - HGM
 tags:
-- name-change
-- symbol-change
 - corporate-action
 - listing
+- name-change
 title: Change in name and symbol of HOV Services Limited
 ---
 

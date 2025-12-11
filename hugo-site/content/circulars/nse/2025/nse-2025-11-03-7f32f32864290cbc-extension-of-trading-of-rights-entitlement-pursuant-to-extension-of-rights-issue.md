@@ -28,12 +28,10 @@ source: nse
 stocks:
 - IEML
 tags:
-- rights-issue
-- rights-entitlement
-- renunciation
-- trading-extension
 - indian-emulsifiers-limited
-- IEML
+- renunciation
+- rights-issue
+- trading-extension
 title: Extension of Trading of Rights Entitlement - Indian Emulsifiers Limited
 ---
 

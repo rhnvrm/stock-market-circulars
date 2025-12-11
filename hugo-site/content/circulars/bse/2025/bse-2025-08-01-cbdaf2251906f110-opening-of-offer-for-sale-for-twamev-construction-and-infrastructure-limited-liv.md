@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TICL
 tags:
-- offer-for-sale
-- ofs
-- trading-schedule
 - equity
+- ofs
 - price-priority
+- trading-schedule
 title: Opening of Offer for Sale for TWAMEV CONSTRUCTION AND INFRASTRUCTURE LIMITED
   - Live Activities Schedule
 ---

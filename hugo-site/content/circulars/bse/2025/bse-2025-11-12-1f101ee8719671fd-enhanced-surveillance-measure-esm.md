@@ -59,12 +59,10 @@ stocks:
 - ANDCEM
 - ANIRIT
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- surveillance
-- market-integrity
+- market-operations
 - price-volatility
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates Effective November
   13, 2025
 ---

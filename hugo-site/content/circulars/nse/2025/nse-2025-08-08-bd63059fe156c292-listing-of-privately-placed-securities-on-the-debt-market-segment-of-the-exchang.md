@@ -33,12 +33,12 @@ stocks:
 - AOL
 - ABCL
 tags:
-- debt-market
+- bond
 - commercial-paper
+- debt-securities
 - listing
+- ncd
 - private-placement
-- bonds
-- debentures
 title: Listing of Privately Placed Debt Securities - Commercial Papers and Bonds
 ---
 

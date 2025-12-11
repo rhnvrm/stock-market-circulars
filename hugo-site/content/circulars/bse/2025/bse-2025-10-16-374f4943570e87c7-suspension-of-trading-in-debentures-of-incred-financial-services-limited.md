@@ -28,15 +28,14 @@ source: bse
 stocks:
 - INCRED
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- incred-financial-services
-- redemption
-- interest-payment
-- record-date
-- trading-halt
 - debt-securities
+- incred-financial-services
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
+- trading-halt
 title: Suspension of Trading in Debentures of INCRED FINANCIAL SERVICES LIMITED
 ---
 

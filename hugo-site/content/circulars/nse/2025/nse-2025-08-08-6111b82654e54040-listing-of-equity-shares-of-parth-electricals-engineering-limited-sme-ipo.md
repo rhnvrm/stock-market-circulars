@@ -25,10 +25,10 @@ source: nse
 stocks:
 - PARTH
 tags:
-- sme-ipo
-- listing
 - emerge-platform
-- equity-shares
+- equity
+- listing
+- sme
 - tfts-segment
 title: Listing of Equity Shares of Parth Electricals & Engineering Limited (SME IPO)
 ---

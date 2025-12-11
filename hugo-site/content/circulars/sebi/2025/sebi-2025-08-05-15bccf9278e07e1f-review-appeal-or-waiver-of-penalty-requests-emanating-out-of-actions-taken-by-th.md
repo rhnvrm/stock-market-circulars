@@ -26,14 +26,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- regulatory-framework
+- clearing-corporations
+- corporate-governance
+- depository
+- market-infrastructure
 - member-committee
 - penalty-appeals
-- governance
-- market-infrastructure
+- regulatory-framework
 - stock-exchanges
-- clearing-corporations
-- depositories
 title: Review, Appeal or Waiver of penalty requests emanating out of actions taken
   by the Member Committee
 ---

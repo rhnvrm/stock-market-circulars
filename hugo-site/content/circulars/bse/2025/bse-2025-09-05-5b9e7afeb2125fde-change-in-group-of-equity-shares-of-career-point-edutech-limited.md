@@ -26,10 +26,10 @@ source: bse
 stocks:
 - CAREEREDU
 tags:
-- group-change
-- equity-shares
-- trading
 - career-point-edutech
+- equity
+- group-change
+- trading
 title: Career Point Edutech Limited Equity Shares Group Change to 'B'
 ---
 

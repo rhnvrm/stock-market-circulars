@@ -28,10 +28,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- jamnagar-utilities-power
+- debt-securities
 - icici-bank
+- jamnagar-utilities-power
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Jamnagar Utilities & Power Private Limited
 ---

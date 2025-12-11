@@ -29,10 +29,9 @@ stocks:
 - NAMRAFIN
 tags:
 - debt-securities
+- further-issue
 - listing
 - private-placement
-- namra-finance
-- new-issuance
 - quarterly-interest
 title: Listing of New Debt Securities of Namra Finance Limited
 ---

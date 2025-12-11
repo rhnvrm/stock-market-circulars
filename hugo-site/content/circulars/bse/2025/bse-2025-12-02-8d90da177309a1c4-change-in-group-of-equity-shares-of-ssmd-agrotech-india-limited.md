@@ -28,13 +28,12 @@ source: bse
 stocks:
 - SSMDAGRO
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- sme-ipo
+- rolling-segment
+- sme
 - trade-for-trade
-- rolling-settlement
-- mt-group
-- m-group
+- trading
 title: Change in Group of Equity Shares of SSMD AGROTECH INDIA LIMITED
 ---
 

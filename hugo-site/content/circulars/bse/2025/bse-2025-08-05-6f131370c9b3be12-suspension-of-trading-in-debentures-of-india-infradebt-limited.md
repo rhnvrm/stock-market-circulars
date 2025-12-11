@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IIL
 tags:
-- trading-suspension
-- debentures
-- redemption
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of India Infradebt Limited
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - PFSPL
 tags:
-- debt-listing
-- private-placement
-- debentures
+- debt-securities
+- ncd
 - pahal-financial-services
+- private-placement
 title: Listing of new debt securities of Pahal Financial Services Private Limited
 ---
 

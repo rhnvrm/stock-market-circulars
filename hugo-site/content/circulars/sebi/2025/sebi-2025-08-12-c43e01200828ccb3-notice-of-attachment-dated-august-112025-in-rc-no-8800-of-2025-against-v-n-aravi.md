@@ -26,10 +26,10 @@ source: sebi
 stocks: []
 tags:
 - attachment
-- investment-advisory
-- unregistered-services
 - enforcement
+- investment-adviser
 - magic-mantra
+- unregistered-services
 title: Notice of Attachment dated August 11, 2025 in RC no 8800 of 2025 against V
   N Aravind, Proprietor of Magic Mantra
 ---

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544338'
+- CAPINVIT
 tags:
-- new-listing
+- capital-infra-trust
+- equity
+- listing
+- lock-in
 - preferential-issue
 - units
-- lock-in
-- capital-infra-trust
-- equity-segment
 title: Listing of New Securities of Capital Infra Trust
 ---
 

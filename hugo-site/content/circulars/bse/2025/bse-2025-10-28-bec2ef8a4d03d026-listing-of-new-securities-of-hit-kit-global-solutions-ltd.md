@@ -27,11 +27,10 @@ source: bse
 stocks:
 - HITKITGLO
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- hit-kit-global-solutions
 title: Listing of new securities of Hit Kit Global Solutions Ltd
 ---
 

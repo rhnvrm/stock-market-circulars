@@ -28,11 +28,11 @@ source: bse
 stocks:
 - QUASARIND
 tags:
-- trading-suspension
-- compliance-violation
+- interim-measure
+- non-compliance
 - non-existence
 - show-cause-notice
-- interim-measure
+- suspension
 title: Prohibition/Suspension of Trading in Securities of Quasar India Ltd
 ---
 

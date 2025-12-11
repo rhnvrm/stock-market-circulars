@@ -71,15 +71,15 @@ stocks:
 - GUJWIND
 - HARIA
 - HASTI
-- HEERAISPAT
+- HEERAISP
 - HEMO
 - HINDUBIO
 tags:
-- periodic-call-auction
 - illiquid-securities
-- trading-mechanism
 - market-operations
 - surveillance
+- trading-operations
+- trading-session
 title: Periodic Call Auction for Illiquid Scrips - List of 49 Securities Effective
   October 10, 2025
 ---

@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544396'
+- NPST
 tags:
-- equity-listing
-- preferential-allotment
-- new-securities
+- equity
 - lock-in
-- non-promoter
+- new-securities
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Network People Services Technologies Limited
 ---
 

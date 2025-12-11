@@ -27,11 +27,10 @@ source: bse
 stocks:
 - NOVUSLOYALTY
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- novus-loyalty-limited
-- icdr-regulations
+- sme
 title: SME IPO - Draft Offer Document - NOVUS LOYALTY LIMITED
 ---
 

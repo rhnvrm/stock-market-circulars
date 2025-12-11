@@ -27,10 +27,10 @@ stocks:
 - OXYZO
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- oxyzo-financial
+- debt-securities
 - federal-bank
+- oxyzo-financial
+- private-placement
 title: Listing of new Commercial Paper of OXYZO Financial Services Limited
 ---
 

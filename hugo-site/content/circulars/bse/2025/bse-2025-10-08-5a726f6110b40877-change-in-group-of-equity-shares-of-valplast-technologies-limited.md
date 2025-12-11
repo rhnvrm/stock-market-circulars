@@ -25,15 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544565'
+- VALPLAST
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
 - sme
-- valplast-technologies
+- trade-for-trade
 title: Change in Group of Equity Shares of VALPLAST TECHNOLOGIES LIMITED
 ---
 

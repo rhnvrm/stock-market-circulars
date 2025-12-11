@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- settlement
-- payment-modes
-- nse-invest-platform
 - clearing-corporation
 - fund-transfer
+- mutual-fund
 - neft
+- nse-invest-platform
+- payment-modes
 - rtgs
+- settlement
 - virtual-account
 title: Settlement of Mutual Fund Transaction on NSE Invest Platform
 ---

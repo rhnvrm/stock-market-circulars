@@ -30,10 +30,10 @@ stocks:
 - ZEEL
 tags:
 - corporate-clarification
-- workforce-rationalization
-- organizational-restructuring
-- media-response
 - disclosure
+- media-response
+- organizational-restructuring
+- workforce-rationalization
 - zee-entertainment
 title: Zee Entertainment Clarifies Media Reports on Workforce Rationalization
 ---

@@ -27,10 +27,10 @@ source: bse
 stocks:
 - SAISWAMI
 tags:
-- name-change
-- certificate-of-incorporation
-- corporate-action
+- certificate
 - company-affairs
+- corporate-action
+- name-change
 title: Change in Name of Company - SAI SWAMI METALS AND ALLOYS LIMITED to DOLPHIN
   KITCHEN UTENSILS AND APPLIANCES LIMITED
 ---

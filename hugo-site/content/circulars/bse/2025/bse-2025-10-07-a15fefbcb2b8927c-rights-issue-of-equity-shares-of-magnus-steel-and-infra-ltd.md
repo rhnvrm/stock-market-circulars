@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '517320'
+- MAGNUS
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
-- ex-rights
+- corporate-action
+- equity
 - record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Magnus Steel and Infra Ltd - Ex-Rights Trading from October
   10, 2025
 ---

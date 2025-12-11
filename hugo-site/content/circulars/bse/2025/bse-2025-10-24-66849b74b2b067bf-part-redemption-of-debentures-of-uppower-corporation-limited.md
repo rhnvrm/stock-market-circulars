@@ -28,13 +28,13 @@ source: bse
 stocks:
 - UPPCL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
+- corporate-action
 - debt-securities
+- face-value-change
+- interest-payment
+- ncd
 - record-date
-- reduced-face-value
+- redemption
 title: Part Redemption of Debentures of U.P.POWER CORPORATION LIMITED
 ---
 

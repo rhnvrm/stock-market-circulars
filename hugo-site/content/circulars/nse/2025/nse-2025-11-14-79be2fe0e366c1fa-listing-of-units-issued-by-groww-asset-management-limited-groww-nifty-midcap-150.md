@@ -27,11 +27,10 @@ stocks:
 - GROWWMC150
 tags:
 - etf
+- groww
 - listing
 - mutual-fund
 - nifty-midcap-150
-- groww
-- new-listing
 title: Listing of Groww Nifty Midcap 150 ETF Units on NSE
 ---
 

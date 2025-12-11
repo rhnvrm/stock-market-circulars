@@ -28,11 +28,11 @@ stocks:
 - BANCO
 - LAXMIDENTL
 tags:
+- clarification
+- disclosure
+- market-operations
 - surveillance
 - volume-spike
-- clarification
-- market-driven
-- disclosure-compliance
 title: Clarifications received from the companies
 ---
 

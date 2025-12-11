@@ -24,11 +24,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - illiquid-stock-options
-- release-order
 - om-prakash-dalmia
+- recovery
+- release
 title: Release Order - Recovery Certificate No. RC8414 of 2024 in respect of Om Prakash
   Dalmia
 ---

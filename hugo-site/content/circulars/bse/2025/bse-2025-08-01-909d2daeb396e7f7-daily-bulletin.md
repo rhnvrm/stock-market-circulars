@@ -32,15 +32,15 @@ stocks:
 - CREDO
 - CRESTCH
 tags:
-- daily-bulletin
 - book-closure
-- record-date
-- dividend
-- interest-payment
-- redemption
-- equity
-- ncd
 - commercial-paper
+- daily-bulletin
+- dividend
+- equity
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Daily Bulletin - Book Closure and Record Dates for Dividends, Interest Payments
   and Redemptions
 ---

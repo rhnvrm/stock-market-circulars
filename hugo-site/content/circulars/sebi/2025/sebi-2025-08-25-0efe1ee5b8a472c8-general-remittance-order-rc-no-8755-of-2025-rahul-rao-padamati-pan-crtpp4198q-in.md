@@ -26,9 +26,9 @@ source: sebi
 stocks: []
 tags:
 - enforcement
+- general-remittance-order
 - investment-adviser
 - unregistered-activities
-- general-remittance-order
 - violation
 title: General Remittance Order – RC No. 8755 of 2025 Against Rahul Rao Padamati for
   Unregistered Investment Advisory Activities

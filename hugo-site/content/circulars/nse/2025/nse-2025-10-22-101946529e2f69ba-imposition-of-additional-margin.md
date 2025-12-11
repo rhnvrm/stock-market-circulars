@@ -25,12 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-requirements
-- risk-management
+- derivatives
+- futures-options
 - gold
+- margin
+- risk-management
 - silver
-- futures
 title: Imposition of Additional Margin on Gold and Silver Futures Contracts
 ---
 

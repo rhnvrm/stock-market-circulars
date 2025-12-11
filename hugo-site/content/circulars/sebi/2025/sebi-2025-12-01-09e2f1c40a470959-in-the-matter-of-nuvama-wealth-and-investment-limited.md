@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- regulatory-violations
+- adjudication
 - broker-regulations
 - compliance
-- enforcement-action
-- nuvama-wealth
+- enforcement
 - inspection-findings
+- non-compliance
+- nuvama-wealth
+- stock-broker
 title: Adjudication Order Against Nuvama Wealth and Investment Limited for Regulatory
   Violations
 ---

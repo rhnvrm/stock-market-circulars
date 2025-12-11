@@ -25,16 +25,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- scheme-of-arrangement
+- bse-listing-centre
 - listing
+- lodr
+- nclt
+- neaps-portal
+- reconstruction
 - regulation-37
 - regulation-59a
-- sebi-lodr
-- nclt
-- amalgamation
-- reconstruction
-- neaps-portal
-- bse-listing-centre
+- scheme-of-arrangement
 title: Joint Standard Operating Procedure for Scheme of Arrangements under SEBI Regulations
   37 and 59A
 ---

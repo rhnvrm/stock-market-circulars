@@ -87,14 +87,14 @@ stocks:
 - PRAVEG
 - PREMEXP
 - RSYSTEMS
-- REPROINDIA
+- REPRO
 - RIRPOWER
 - RRIL
 - SAATVIK
 - SAMMAAN
 - SAMOR
 - SATIA
-- SIGMASOLVE
+- SIGMA-BE
 - SIKA
 - SOLARINDS
 - SPRIGHT
@@ -114,10 +114,10 @@ stocks:
 - YATRA
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction-729
+- demat
 - market-operations
+- settlement
 title: Demat Auction - Settlement No. 729
 ---
 

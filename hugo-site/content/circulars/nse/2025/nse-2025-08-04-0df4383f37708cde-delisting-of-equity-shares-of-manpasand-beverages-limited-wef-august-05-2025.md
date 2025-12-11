@@ -27,9 +27,7 @@ stocks:
 - MANPASAND
 tags:
 - delisting
-- equity-shares
-- compulsory-delisting
-- manpasand-beverages
+- equity
 title: Delisting of Equity Shares of Manpasand Beverages Limited w.e.f. August 05,
   2025
 ---

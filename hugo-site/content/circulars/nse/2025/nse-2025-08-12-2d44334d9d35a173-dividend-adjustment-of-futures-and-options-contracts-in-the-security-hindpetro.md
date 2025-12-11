@@ -26,12 +26,12 @@ source: nse
 stocks:
 - HINDPETRO
 tags:
-- dividend
-- futures
-- options
-- corporate-action
 - contract-adjustment
+- corporate-action
 - derivatives
+- dividend
+- futures-options
+- options
 title: Dividend Adjustment of Futures and Options Contracts for HINDPETRO
 ---
 

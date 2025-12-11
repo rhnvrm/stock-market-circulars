@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KOGTA
 tags:
-- trading-suspension
-- debentures
-- redemption
-- interest-payment
-- record-date
 - debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of KOGTA FINANCIAL (INDIA) LIMITED
 ---
 

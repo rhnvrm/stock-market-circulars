@@ -27,10 +27,10 @@ stocks:
 - SEYAIND
 tags:
 - demand-notice
-- recovery-certificate
-- seya-industries
 - enforcement
-- regulatory-action
+- recovery
+- regulatory
+- seya-industries
 title: SEBI Demand Notice RC No. 8862/2025 - Asit Kumar Bhowmik (Seya Industries Limited)
 ---
 

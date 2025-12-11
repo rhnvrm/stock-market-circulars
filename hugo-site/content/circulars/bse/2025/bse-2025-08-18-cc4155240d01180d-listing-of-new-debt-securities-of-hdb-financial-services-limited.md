@@ -27,10 +27,10 @@ stocks:
 - HDBFSL
 tags:
 - debt-securities
-- listing
-- hdb-financial
-- private-placement
 - demat-trading
+- hdb-financial
+- listing
+- private-placement
 title: Listing of new debt securities of HDB Financial Services Limited
 ---
 

@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - JMDTELEFILMS
 tags:
-- recovery-certificate
+- completion
 - defaulter
 - enforcement
-- jmd-telefilms
 - nirmal-jain
-- completion
+- recovery
 title: Completion of Recovery Certificate No. 7737 of 2024 - Nirmal Jain [Defaulter]
   in JMD Telefilms Industries Ltd.
 ---

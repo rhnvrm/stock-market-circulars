@@ -28,7 +28,7 @@ stocks:
 - AARNAV
 - ACUTAAS
 - ADANIPORTS
-- ALEMBIC
+- ALEMBICLTD
 - ASHAPURA
 - ASHOKBUILD
 - ASIANENERGY
@@ -60,7 +60,7 @@ stocks:
 - INDFINSEC
 - IOC
 - INDOUSBIOPHARM
-- INFOSYS
+- INFY
 - ITCHOTELS
 - JPASSOCIAT
 - JINDALCAP
@@ -108,9 +108,9 @@ stocks:
 tags:
 - auction
 - demat
-- settlement
+- early-pay-in
 - securities-auction
-- delivery-default
+- settlement
 title: Demat Auction Settlement No. 769
 ---
 

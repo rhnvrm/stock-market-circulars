@@ -27,16 +27,16 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt-securities
-- liquidity-window
-- put-option
-- settlement-mechanism
+- allotment
 - clearing
-- operational-guidelines
-- early-pay-in
+- debt-securities
 - depository
+- early-pay-in
+- liquidity-window
+- operational-guidelines
+- put-option
 - rta
-- allocation
+- settlement-mechanism
 title: Clearing & Settlement Mechanism under Liquidity Window Facility for Debt Securities
 ---
 

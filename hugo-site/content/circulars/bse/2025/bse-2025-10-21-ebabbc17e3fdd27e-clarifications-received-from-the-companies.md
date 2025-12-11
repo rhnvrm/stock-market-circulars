@@ -30,12 +30,11 @@ stocks:
 - APTUS
 - PRISMJOHNS
 tags:
-- price-movement
-- volume-movement
 - clarification
 - disclosure
+- lodr
+- price-movement
 - regulation-30
-- sebi-lodr
 title: Clarifications received from the companies on price and volume movements
 ---
 

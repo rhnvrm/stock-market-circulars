@@ -29,16 +29,16 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- investment-adviser
-- regulatory-violation
-- investor-grievance
-- pfutp
-- intermediaries
+- adjudication
 - alliance-research
-- mudassir-hasan
-- penalty
 - compliance
+- intermediary
+- investment-adviser
+- investor-grievance
+- mudassir-hasan
+- non-compliance
+- penalty
+- pfutp
 title: Adjudication Order Against M/s Alliance Research for IA Regulation Violations
 ---
 

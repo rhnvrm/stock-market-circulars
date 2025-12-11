@@ -27,11 +27,9 @@ stocks:
 - SKFINANCE
 tags:
 - debt-securities
-- new-listing
-- private-placement
-- sk-finance
+- listing
 - ncd
-- debentures
+- private-placement
 title: Listing of New Debt Securities of SK Finance Limited
 ---
 

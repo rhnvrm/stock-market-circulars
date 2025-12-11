@@ -27,10 +27,10 @@ stocks:
 - TANLA
 tags:
 - buyback
+- early-pay-in
+- otb
 - settlement
 - tanla-platforms
-- acquisition-window
-- early-pay-in
 title: Settlement Schedule for TANLA PLATFORMS LIMITED Buyback Offer
 ---
 

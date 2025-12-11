@@ -27,12 +27,11 @@ source: bse
 stocks:
 - INTEGPRO
 tags:
-- forfeiture
-- share-forfeiture
-- corrigendum
-- integrated-proteins
-- equity-shares
 - corporate-action
+- corrigendum
+- equity
+- forfeiture
+- integrated-proteins
 title: Corrigendum to Forfeiture Notice of Integrated Proteins Ltd
 ---
 

@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- icici-prudential
 - child-care-fund
-- bse-star-mf
+- icici-prudential
+- mutual-fund
+- name-change
 title: Change in Scheme name of ICICI on BSE StAR MF Platform
 ---
 

@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement-calendar
-- trading-schedule
-- t+1-settlement
-- t+0-settlement
 - cash-segment
 - equity
 - rms
+- settlement-calendar
+- t0-settlement
+- t1-settlement
+- trading-schedule
 title: Revised Trading and Settlement Programme for Cash Segment - September 2025
   (T+0 & T+1)
 ---

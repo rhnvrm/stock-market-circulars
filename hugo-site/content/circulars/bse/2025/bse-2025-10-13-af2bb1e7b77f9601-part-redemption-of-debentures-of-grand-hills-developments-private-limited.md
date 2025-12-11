@@ -27,12 +27,12 @@ source: bse
 stocks:
 - GHPL
 tags:
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
+- redemption
 title: Part Redemption of Debentures of Grand Hills Developments Private Limited
 ---
 

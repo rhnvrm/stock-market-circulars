@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- equity
+- long-short-fund
 - mutual-fund
 - nfo
-- new-fund-offer
 - quant-mutual-fund
-- equity-fund
-- long-short-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Qsif Equity Ex-Top 100 Long-Short Fund NFO on NSE MF Invest Platform
 ---
 

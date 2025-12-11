@@ -26,11 +26,10 @@ source: bse
 stocks:
 - RAJNISHWEL
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- rajnish-wellness
+- rights-issue
 title: Listing of Securities - Rajnish Wellness Limited Rights Issue
 ---
 

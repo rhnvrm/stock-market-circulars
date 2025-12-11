@@ -25,12 +25,11 @@ source: nse
 stocks:
 - QMSMEDI
 tags:
+- emerge-platform
+- qms-medical
+- renunciation
 - rights-issue
 - trading
-- sme-emerge
-- qms-medical
-- rights-entitlements
-- renunciation
 title: Trading of Rights Entitlements pursuant to Rights Issue of QMS Medical Allied
   Services Limited
 ---

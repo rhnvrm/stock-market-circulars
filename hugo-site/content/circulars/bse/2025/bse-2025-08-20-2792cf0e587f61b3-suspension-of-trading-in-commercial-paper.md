@@ -27,10 +27,10 @@ stocks:
 - BHEL
 tags:
 - commercial-paper
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
-- debt
+- suspension
 title: Suspension of Trading in Commercial Paper - Standard Chartered Securities,
   BHEL
 ---

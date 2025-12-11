@@ -26,11 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- appeal
 - dwarkesh-unity-bonds
 - information-not-available
-- appeal-dismissed
+- rti
 title: Appeal No. 6615 of 2025 filed by Prakash Laxman Tayde
 ---
 

@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
+- adjudication
+- compliance-order
+- investigation
+- penalty
 - stock-broker
-- compliance-violations
-- inspection
-- penalties
 - trading-member
 title: Adjudication Order Against Motisons Shares Private Limited for Multiple Regulatory
   Violations

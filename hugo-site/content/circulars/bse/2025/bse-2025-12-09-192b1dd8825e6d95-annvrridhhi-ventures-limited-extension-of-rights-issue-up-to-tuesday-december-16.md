@@ -29,11 +29,10 @@ source: bse
 stocks:
 - ANNVRRIDHHI
 tags:
-- rights-issue
-- issue-extension
 - capital-raising
-- equity-shares
-- ANNVRRIDHHI
+- equity
+- extension
+- rights-issue
 title: Annvrridhhi Ventures Limited - Extension of Rights Issue Closing Date to December
   16, 2025
 ---

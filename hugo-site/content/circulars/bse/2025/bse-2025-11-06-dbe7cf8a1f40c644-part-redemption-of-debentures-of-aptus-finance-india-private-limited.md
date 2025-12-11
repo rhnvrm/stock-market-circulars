@@ -28,14 +28,12 @@ source: bse
 stocks:
 - APTUS FINANCE INDIA PRIVATE LIMITED
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- non-convertible-debentures
-- aptus-finance
-- debt-market
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of APTUS FINANCE INDIA PRIVATE LIMITED
 ---
 

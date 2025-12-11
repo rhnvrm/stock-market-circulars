@@ -27,12 +27,11 @@ source: bse
 stocks:
 - JAINEX
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - company-related
-- dematerialized-trading
+- demat
+- equity
+- renunciation
+- rights-issue
 - t1-settlement
 title: Rights Entitlements of JAINEX AAMCOL LIMITED
 ---

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - MENA
 tags:
-- gsm
-- surveillance
-- stage-movement
+- asm-stage
 - mena-mani-industries
+- surveillance
 title: GSM Stage Movement - Mena Mani Industries Limited Moved to Stage III
 ---
 

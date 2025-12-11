@@ -26,11 +26,11 @@ source: bse
 stocks:
 - NIRAJCEM
 tags:
-- equity-listing
-- preferential-issue
-- warrant-conversion
 - cement-sector
+- conversion
+- equity
 - new-securities
+- preferential-issue
 title: Listing of Securities - Niraj Cement Structurals Limited Preferential Issue
 ---
 

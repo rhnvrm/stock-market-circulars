@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SKYGOLD
 tags:
+- bonus
+- conversion
+- equity
 - listing
 - new-securities
-- preferential-allotment
-- bonus-shares
-- warrant-conversion
-- equity-shares
+- preferential-issue
 title: Listing of New Securities - Sky Gold And Diamonds Limited
 ---
 

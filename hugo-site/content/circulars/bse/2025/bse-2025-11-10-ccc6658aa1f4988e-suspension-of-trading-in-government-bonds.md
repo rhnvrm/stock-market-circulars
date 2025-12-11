@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- government-bonds
-- trading-suspension
-- debt-segment
+- corporate-action
+- debt-securities
+- gsec
 - maturity
-- corporate-actions
+- suspension
 title: Suspension of Trading in Government Bonds - 812MHSDL25
 ---
 

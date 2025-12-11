@@ -24,11 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- fund-of-fund
+- fund-of-funds
 - mirae-asset
-- bse-star-mf
+- mutual-fund
+- name-change
 title: Change in Scheme Name of MIRAE ASSET on BSE StAR MF Platform
 ---
 

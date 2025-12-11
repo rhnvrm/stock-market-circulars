@@ -27,10 +27,10 @@ source: nse
 stocks:
 - PINELABS
 tags:
-- listing
-- ipo
-- equity-shares
 - capital-market
+- equity
+- ipo
+- listing
 - pre-open-session
 title: Listing of Equity Shares of Pine Labs Limited (IPO)
 ---

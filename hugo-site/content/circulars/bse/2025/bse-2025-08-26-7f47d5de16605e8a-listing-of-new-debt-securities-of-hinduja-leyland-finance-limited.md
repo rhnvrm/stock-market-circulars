@@ -26,10 +26,9 @@ stocks:
 - HINDUJALEYLAND
 tags:
 - debt-securities
-- private-placement
 - listing
-- hinduja-leyland-finance
-- debentures
+- ncd
+- private-placement
 title: Listing of new debt securities of Hinduja Leyland Finance Limited
 ---
 

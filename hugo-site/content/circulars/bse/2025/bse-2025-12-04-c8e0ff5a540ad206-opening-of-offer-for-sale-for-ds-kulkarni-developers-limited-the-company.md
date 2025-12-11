@@ -28,12 +28,11 @@ source: bse
 stocks:
 - DSKUL
 tags:
-- offer-for-sale
-- ofs
-- equity-shares
-- public-shareholding
-- stock-exchange-mechanism
+- equity
 - nclt-approved
+- ofs
+- shareholding-pattern
+- stock-exchange-mechanism
 title: Opening of Offer for Sale for D.S. Kulkarni Developers Limited
 ---
 

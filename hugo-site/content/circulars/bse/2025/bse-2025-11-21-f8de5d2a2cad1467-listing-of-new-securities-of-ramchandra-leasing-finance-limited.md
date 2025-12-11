@@ -27,12 +27,12 @@ source: bse
 stocks:
 - RAMCHANDRA
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- promoter-allotment
 - lock-in
 - new-securities
+- preferential-issue
+- promoter
 title: Listing of New Securities of Ramchandra Leasing & Finance Limited
 ---
 

@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
+- fund-of-funds
 - kotak-mutual-fund
+- mutual-fund
+- silver
 - subscription
-- silver-etf
-- fund-of-fund
-- nse-mf-invest
+- trading-platform
 title: Revoke of Temporary Suspension for subscriptions in Kotak Silver Fund of Fund
   schemes under Kotak Mutual Fund on NSE MF Invest Platform
 ---

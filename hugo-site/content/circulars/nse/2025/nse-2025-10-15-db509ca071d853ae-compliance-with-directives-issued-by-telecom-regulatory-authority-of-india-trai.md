@@ -28,13 +28,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- compliance
-- trai
-- telecom-regulations
-- commercial-communications
 - clearing-members
-- cybersecurity
+- commercial-communications
+- compliance
 - consumer-protection
+- cybersecurity
+- telecom-regulations
+- trai
 title: Compliance with TRAI Directives on Telecom Commercial Communications
 ---
 

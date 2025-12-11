@@ -27,9 +27,9 @@ source: sebi
 stocks: []
 tags:
 - asset-attachment
-- demat-account
-- recovery
+- demat
 - enforcement
+- recovery
 title: Notice of Attachment of Demat Accounts - RC 8930 of 2025 - Anup Karwa (Prakash
   Constrowell Limited)
 ---

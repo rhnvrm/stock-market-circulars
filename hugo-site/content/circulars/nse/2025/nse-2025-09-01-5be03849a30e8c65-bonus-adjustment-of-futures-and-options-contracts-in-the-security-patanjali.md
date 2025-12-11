@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PATANJALI
 tags:
-- bonus-issue
-- futures-options
+- bonus
 - contract-adjustment
 - corporate-action
-- PATANJALI
+- futures-options
 title: 'BONUS: Adjustment of Futures and Options contracts in the security PATANJALI'
 ---
 

@@ -26,9 +26,9 @@ source: bse
 stocks:
 - CHPL
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- equity-shares
 - trading-classification
 title: 'Change in group of Equity shares of CHPL Industries Ltd. (Scrip Code: 539335)'
 ---

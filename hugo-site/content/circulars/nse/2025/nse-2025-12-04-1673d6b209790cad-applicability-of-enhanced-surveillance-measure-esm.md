@@ -32,13 +32,11 @@ stocks:
 - ASLIND
 - BAFNAPH
 tags:
-- enhanced-surveillance-measure
-- esm
+- margin
+- price-band
 - surveillance
 - trade-for-trade
-- margin-requirements
-- price-band
-- periodic-call-auction
+- trading-session
 title: Enhanced Surveillance Measure (ESM) - December 2025 Update
 ---
 

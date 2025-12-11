@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SIMPLEXCAST
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- simplex-castings
+- preferential-issue
 title: Listing of New Securities of Simplex Castings Ltd
 ---
 

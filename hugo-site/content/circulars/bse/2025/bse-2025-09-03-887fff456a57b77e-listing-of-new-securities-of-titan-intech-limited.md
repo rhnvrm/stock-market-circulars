@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
-- equity-shares
-- preferential-issue
-- warrant-conversion
+- conversion
+- equity
 - listing
-- TITANINTECH
+- preferential-issue
+- titanintech
 title: Listing of new Securities of Titan Intech Limited
 ---
 

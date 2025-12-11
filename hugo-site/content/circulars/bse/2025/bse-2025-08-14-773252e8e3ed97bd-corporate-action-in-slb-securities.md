@@ -57,13 +57,13 @@ stocks:
 - NHPC
 - TIMETECHNO
 tags:
-- corporate-actions
-- dividends
-- bonus-issue
-- rights-issue
-- slb-securities
+- bonus
 - book-closure
-- ex-date
+- corporate-action
+- dividend
+- record-date
+- rights-issue
+- slb
 title: Corporate Action in SLB Securities - Multiple Stock Dividends and Bonus Issues
 ---
 

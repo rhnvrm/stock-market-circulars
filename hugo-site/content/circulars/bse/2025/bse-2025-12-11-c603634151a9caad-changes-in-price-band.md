@@ -38,10 +38,10 @@ stocks:
 - TRANSGLOBE
 - WARDWIZARD
 tags:
+- market-operations
 - price-band
 - surveillance
-- trading-parameters
-- market-operations
+- trading-operations
 title: Changes in Price Band for 12 Securities
 ---
 

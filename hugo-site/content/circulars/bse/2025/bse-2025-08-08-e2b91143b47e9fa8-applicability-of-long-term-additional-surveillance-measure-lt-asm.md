@@ -38,11 +38,10 @@ stocks:
 - LANDMARC
 - MALUPAPER
 tags:
-- surveillance
-- ASM
-- LT-ASM
-- trading-restrictions
+- asm-stage
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

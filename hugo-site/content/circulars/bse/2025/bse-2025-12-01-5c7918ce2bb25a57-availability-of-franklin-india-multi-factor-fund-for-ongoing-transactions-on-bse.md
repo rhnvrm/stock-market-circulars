@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - franklin-templeton
-- equity-fund
-- bse-star-mf
-- scheme-reopening
 - multi-factor-fund
+- mutual-fund
+- reopening
 title: Franklin India Multi-Factor Fund Reopening for Ongoing Transactions on BSE
   StAR MF Platform
 ---

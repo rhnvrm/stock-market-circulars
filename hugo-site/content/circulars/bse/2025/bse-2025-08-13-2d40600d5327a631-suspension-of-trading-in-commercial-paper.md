@@ -25,7 +25,7 @@ severity: medium
 source: bse
 stocks:
 - ICICISL
-- GFL
+- GFLLIMITED
 - IHPL
 - IHFCL
 - JBCIPL
@@ -41,10 +41,10 @@ stocks:
 - HDFCSL
 tags:
 - commercial-paper
-- suspension
-- redemption
-- record-date
 - debt-securities
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper for Multiple Companies
 ---
 

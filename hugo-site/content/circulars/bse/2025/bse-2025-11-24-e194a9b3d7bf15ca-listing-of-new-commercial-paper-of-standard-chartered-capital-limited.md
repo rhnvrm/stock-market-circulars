@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- standard-chartered-capital
-- short-term-debt
+- debt-securities
 - private-placement
+- short-term-debt
+- standard-chartered-capital
 title: Listing of new Commercial Paper of Standard Chartered Capital Limited
 ---
 

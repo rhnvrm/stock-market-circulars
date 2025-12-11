@@ -28,12 +28,11 @@ stocks:
 - DECCAN
 - ECLERX
 tags:
-- corporate-action
-- right-issue
 - buyback
-- slb-securities
+- corporate-action
 - record-date
-- ex-date
+- right-issue
+- slb
 title: Corporate Action in SLB Securities - Right Issue and Buyback Announcements
 ---
 

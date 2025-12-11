@@ -26,12 +26,12 @@ source: bse
 stocks:
 - NHB
 tags:
-- trading-suspension
-- debentures
-- national-housing-bank
-- redemption
 - interest-payment
+- national-housing-bank
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of National Housing Bank
 ---
 

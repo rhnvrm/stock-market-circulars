@@ -26,12 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- futures-and-options
 - disaster-recovery
-- neat-plus
-- trading-system
-- testing
+- futures-options
+- market-infrastructure
+- mock-trading
+- trading-platform
 title: Mock Trading Session on Saturday, October 11, 2025 - No New Version Release
 ---
 

@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- non-convertible-debentures
+- ncd
 - private-placement
-- power-finance-corporation
 title: Listing of New Debt Securities of Power Finance Corporation Ltd
 ---
 

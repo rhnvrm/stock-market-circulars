@@ -26,11 +26,11 @@ source: nse
 stocks:
 - SHRIKANHA
 tags:
-- trade-for-trade
-- rolling-segment
-- sme-ipo
-- segment-transfer
 - listing
+- rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Shri Kanha Stainless Limited (SME IPO)
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MURAE
 tags:
-- surveillance
+- market-operations
 - social-media
+- surveillance
 - unsolicited-videos
-- market-integrity
-- MURAE
 title: Surveillance Action for Unsolicited Social Media Content - Update
 ---
 

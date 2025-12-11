@@ -31,13 +31,12 @@ stocks:
 - DECOROUS
 - ASHAGRO
 - OMKARPC
-- DIGJAM
+- DIGJAMLMTD
 tags:
-- gsm
+- market-operations
+- regulatory
 - surveillance
 - trading-restrictions
-- market-monitoring
-- regulatory-action
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

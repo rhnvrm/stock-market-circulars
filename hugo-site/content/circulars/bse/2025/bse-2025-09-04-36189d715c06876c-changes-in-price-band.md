@@ -35,14 +35,14 @@ stocks:
 - SHANKARRAM
 - STARLINEPS
 - SVSVEN
-- UMIYATUBES
+- UMIYA
 - ZUARIAGRO
 - ABAN
 tags:
-- price-band
-- trading-limits
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading-operations
 title: Price Band Revisions for 14 Securities Effective September 05, 2025
 ---
 

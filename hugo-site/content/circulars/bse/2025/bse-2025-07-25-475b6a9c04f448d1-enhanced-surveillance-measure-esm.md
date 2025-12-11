@@ -23,7 +23,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- HAMPSBIO
+- HAMPS
 - ICONFA
 - INDOBORAX
 - KAPILRAJ
@@ -33,15 +33,14 @@ stocks:
 - KALPACOM
 - KONNDOR
 - KOREFOODS
-- ROSEMERC
+- ROSEMER
 - SHREEMFG
 tags:
-- enhanced-surveillance
-- esm-framework
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - compliance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Categorization
 ---
 

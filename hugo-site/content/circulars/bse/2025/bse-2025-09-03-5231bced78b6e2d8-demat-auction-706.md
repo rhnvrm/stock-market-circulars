@@ -24,21 +24,21 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ASHOK LEYLAND
+- ASHOKLEY
 - COLGATE-PALM
-- NESTLE INDIA
+- NESTLEIND
 - STATE BANK O
 - INDIAN HOTEL
-- GMR Airports
-- Mazagon Dock
-- Ola Electric
-- One Mobikwik
-- UTI Mutual F
+- GMRAIRPORT
+- MAZAGON DOCK
+- OLA ELECTRIC
+- ONE MOBIKWIK
+- UTI MUTUAL F
 tags:
-- demat
 - auction
-- settlement
+- demat
 - securities
+- settlement
 - trading
 title: Demat Auction Settlement No. 706 - List of Securities for Auction
 ---

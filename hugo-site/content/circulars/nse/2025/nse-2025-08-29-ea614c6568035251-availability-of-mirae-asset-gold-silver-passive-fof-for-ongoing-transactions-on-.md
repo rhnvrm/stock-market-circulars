@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- fof
+- fund-of-funds
 - gold
-- silver
 - mirae-asset
-- nse-mf-invest
+- mutual-fund
 - ongoing-transactions
+- silver
+- trading-platform
 title: Availability of Mirae Asset Gold Silver Passive FOF for ongoing transactions
   on NSE MF Invest Platform
 ---

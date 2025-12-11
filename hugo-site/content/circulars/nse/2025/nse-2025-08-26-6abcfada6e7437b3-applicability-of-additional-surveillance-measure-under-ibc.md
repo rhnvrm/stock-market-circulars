@@ -26,13 +26,10 @@ source: nse
 stocks:
 - EASTSILK
 tags:
-- surveillance
-- asm
-- ibc
-- insolvency
-- bankruptcy
 - eastern-silk
+- insolvency
 - monitoring
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC - Eastern Silk Industries
   Added to ASM Stage I
 ---

@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- sip
-- bse-star-mf
 - aditya-birla-sun-life
 - facility-rename
+- mutual-fund
 - operational-change
+- sip
 title: Change in name of Sampoorna SIP to SIP for LIFE on BSE StAR MF Platform
 ---
 

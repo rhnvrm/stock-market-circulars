@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INDINFO
 tags:
-- rights-issue
-- deadline-extension
-- equity-shares
-- fundraising
 - corporate-action
+- equity
+- extension
+- fundraising
+- rights-issue
 title: Indian Infotech and Software Limited - Rights Issue Closing Date Extended to
   August 20, 2025
 ---

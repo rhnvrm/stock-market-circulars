@@ -26,13 +26,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- corporate-actions
-- debt
-- debentures
-- amalgamation
+- corporate-action
+- debt-securities
+- ncd
 - nclt
-- scheme-of-arrangement
 - record-date
+- scheme-of-arrangement
 - transfer-suspension
 title: Suspension for Transfer of Debentures of Ecobox Industrials Asset II and Ecobox
   Industrials Asset III Private Limited

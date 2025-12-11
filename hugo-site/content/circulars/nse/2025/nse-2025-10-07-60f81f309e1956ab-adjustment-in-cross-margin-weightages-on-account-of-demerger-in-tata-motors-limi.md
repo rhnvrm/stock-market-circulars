@@ -26,15 +26,15 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CMPT70677.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
 - cross-margin
-- demerger
-- tatamotors
 - nifty-index
-- spread-margin
 - portfolio-adjustment
 - risk-management
+- scheme-of-arrangement
+- spread-margin
+- tatamotors
 title: Adjustment in Cross Margin Weightages on Account of Demerger in Tata Motors
   Limited
 ---

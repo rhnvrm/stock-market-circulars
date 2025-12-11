@@ -25,11 +25,11 @@ source: bse
 stocks:
 - JYOTISTRUC
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Equity Shares - Jyoti Structures Ltd
 ---
 

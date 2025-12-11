@@ -26,11 +26,10 @@ source: nse
 stocks:
 - CAMS
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- equity-shares
-- CAMS
+- equity
+- face-value-change
+- split
 title: Face Value Split - Computer Age Management Services Limited (CAMS)
 ---
 

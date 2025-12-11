@@ -26,9 +26,9 @@ stocks:
 - EFCL
 tags:
 - debt-securities
+- edel-finance
 - listing
 - private-placement
-- edel-finance
 title: Listing of new debt securities of Edel Finance Company Limited
 ---
 

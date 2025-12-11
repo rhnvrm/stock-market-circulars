@@ -25,10 +25,10 @@ source: bse
 stocks:
 - CHARTLOG
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of new securities of Chartered Logistics Ltd
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - IOCL
 tags:
-- derivatives
-- dividend-adjustment
-- futures
-- options
+- contract-adjustment
 - corporate-action
-- IOCL
+- derivatives
+- futures-options
+- options
 title: Adjustment of Futures and Options contracts in Indian Oil Corporation Ltd for
   Dividend Payment
 ---

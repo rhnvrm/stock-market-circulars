@@ -26,10 +26,10 @@ source: nse
 stocks:
 - SNEHAA
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
+- sme
+- trade-for-trade
 - trading
 title: Trade for Trade - Snehaa Organics Limited (SME IPO)
 ---

@@ -27,13 +27,11 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
-- shareholding-pattern
+- further-issue
 - ipo
 - listing
-- post-issue
-- promoter-holding
-- public-shareholding
 - locked-in-shares
+- shareholding-pattern
 title: Listing of Equity Shares of LOGICIEL SOLUTIONS LIMITED - Post IPO Shareholding
   Pattern
 ---

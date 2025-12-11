@@ -23,13 +23,12 @@ published_date: '2025-09-09T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML70112.pdf
 severity: medium
 source: nse
-stocks:
-- 135VCCL25
+stocks: []
 tags:
-- suspension
-- debentures
-- non-convertible
 - maturity
+- ncd
+- non-convertible
+- suspension
 - vedika-credit-capital
 title: Suspension of Trading in Non-Convertible Debentures - Vedika Credit Capital
   Limited

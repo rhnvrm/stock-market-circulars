@@ -25,11 +25,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- krazybee-services
-- yes-bank
 - crisil-a1
+- debt-securities
+- krazybee-services
+- private-placement
+- yes-bank
 title: Listing of new Commercial Paper of Krazybee Services Private Limited
 ---
 

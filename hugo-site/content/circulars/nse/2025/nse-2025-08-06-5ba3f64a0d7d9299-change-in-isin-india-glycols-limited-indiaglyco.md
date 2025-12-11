@@ -26,10 +26,10 @@ source: nse
 stocks:
 - INDIAGLYCO
 tags:
-- isin-change
-- subdivision
-- equity-shares
 - corporate-action
+- equity
+- isin
+- split
 title: Change in ISIN - India Glycols Limited (INDIAGLYCO)
 ---
 

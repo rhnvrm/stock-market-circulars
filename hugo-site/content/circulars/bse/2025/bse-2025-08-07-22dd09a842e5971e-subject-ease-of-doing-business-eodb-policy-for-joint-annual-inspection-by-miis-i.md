@@ -25,13 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- inspection
-- compliance
-- brokers
-- depositories
 - clearing-corporations
-- supervision
+- compliance
+- depository
 - ease-of-business
+- investigation
+- stock-broker
+- supervision
 title: SEBI Introduces Joint Annual Inspection Policy for Market Infrastructure Institutions
 ---
 

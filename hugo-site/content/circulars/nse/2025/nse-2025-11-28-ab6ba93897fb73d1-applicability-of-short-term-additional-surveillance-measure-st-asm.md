@@ -37,12 +37,9 @@ stocks:
 - VLEGOV
 - VLSFINANCE
 tags:
+- asm-stage
 - surveillance
-- asm
-- short-term-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM) - December
   2025
 ---

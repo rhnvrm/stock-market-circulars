@@ -31,12 +31,10 @@ stocks:
 - SHUBHLAXMI
 - VDEAL
 tags:
-- surveillance
-- asm
-- st-asm
-- margin-requirements
-- additional-surveillance-measure
+- asm-stage
+- margin
 - risk-management
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -24,14 +24,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - capitalmind
 - flexi-cap
+- mutual-fund
+- redemption
 - sip
 - stp
-- swp
 - subscription
-- redemption
+- swp
 title: Availability of Capitalmind Flexi Cap Fund for Ongoing Transactions on BSE
   StAR MF Platform
 ---

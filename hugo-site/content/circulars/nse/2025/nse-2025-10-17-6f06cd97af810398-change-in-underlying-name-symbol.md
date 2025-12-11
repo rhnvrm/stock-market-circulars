@@ -24,14 +24,13 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/FAOP70882.pdf
 severity: high
 source: nse
 stocks:
-- TATAMOTORS
+- TMCV
 - TMPV
 tags:
-- symbol-change
-- name-change
-- derivatives
-- futures-and-options
 - corporate-action
+- derivatives
+- futures-options
+- name-change
 title: Change in Underlying Name & Symbol - Tata Motors Limited to Tata Motors Passenger
   Vehicles Limited
 ---

@@ -27,10 +27,9 @@ stocks:
 - SAMTEL
 tags:
 - delisting
-- suspension
+- nclt
 - status-change
-- tribunal-order
-- samtel
+- suspension
 title: Change in status of Samtel (India) Ltd from Delisted to Suspended
 ---
 

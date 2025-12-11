@@ -25,10 +25,9 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
+- administrative
 - appeal
-- appellate-authority
-- procedural
+- rti
 title: Appeal No. 6613 of 2025 filed by Vikas Baliyan
 ---
 

@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - VIKAS
 tags:
-- recovery-proceedings
 - defaulter
-- trading-violations
+- demand-notice
+- recovery
+- trading-operations
 - vikas-proppant
-- remittance-advice
 title: 'Remittance Advice against Kanta Devi (PAN: BAMPD7042J) - Recovery Certificate
   No. 8474 of 2024'
 ---

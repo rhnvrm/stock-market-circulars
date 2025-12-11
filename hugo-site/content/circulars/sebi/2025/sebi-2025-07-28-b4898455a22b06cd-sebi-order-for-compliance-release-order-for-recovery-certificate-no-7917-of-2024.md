@@ -27,10 +27,9 @@ stocks:
 - TIMBORHOME
 tags:
 - compliance
-- recovery-certificate
-- enforcement-action
+- enforcement
 - individual-penalty
-- timbor-home-limited
+- recovery
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 7917
   of 2024 against Paresh Nathalal Chauhan in the matter of Timbor Home Limited
 ---

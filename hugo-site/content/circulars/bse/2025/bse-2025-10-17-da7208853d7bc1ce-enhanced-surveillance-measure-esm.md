@@ -30,7 +30,7 @@ stocks:
 - EVOQREMED
 - JEEVANSCI
 - ORGANICCO
-- ANKAINDIA
+- ANKIN
 - ELANGIND
 - MILESTONF
 - AGIOPAPER
@@ -40,7 +40,7 @@ stocks:
 - GAGANGASE
 - GHVINFRA
 - NORBENEXP
-- RAPCORP
+- RAP
 - REFEXREN
 - SEATV
 - SHREEPACK
@@ -75,12 +75,11 @@ stocks:
 - PATIDRBLD
 - PEARLGREE
 tags:
-- enhanced-surveillance
-- esm
-- trading-surveillance
-- market-safety
+- market-operations
 - regulatory-framework
 - securities-monitoring
+- surveillance
+- trading-surveillance
 title: Enhanced Surveillance Measure (ESM) - Changes to Securities List Effective
   October 20, 2025
 ---

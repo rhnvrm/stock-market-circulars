@@ -25,17 +25,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544558'
-- '544557'
-- '544560'
-- '544556'
-- '544559'
+- FABTECH
+- GLOTTIS
+- SODHACAP
+- DHILLON
+- OML
 tags:
-- index-addition
-- bse-ipo-index
-- bse-sme-ipo-index
-- new-listing
-- index-rebalancing
+- bse-index
+- index-change
+- listing
 title: Additions to the BSE Indices - Five New Companies Added to BSE IPO and BSE
   SME IPO Indices
 ---

@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- HINDUSTAN AGRIGENETICS
+- HINDUST
 tags:
-- takeover
-- acquisition
-- settlement
-- hindustan-agrigenetics
-- early-pay-in
 - demat-shares
+- early-pay-in
+- hindustan-agrigenetics
+- settlement
+- takeover
 title: Settlement Schedule for Takeover of Hindustan Agrigenetics Limited
 ---
 

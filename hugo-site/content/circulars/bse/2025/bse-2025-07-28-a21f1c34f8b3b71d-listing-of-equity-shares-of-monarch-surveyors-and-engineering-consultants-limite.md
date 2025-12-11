@@ -26,10 +26,9 @@ source: bse
 stocks:
 - MONARCH
 tags:
+- equity
 - listing
-- equity-shares
 - lock-in
-- new-listing
 title: Listing of Equity Shares of Monarch Surveyors and Engineering Consultants Limited
 ---
 

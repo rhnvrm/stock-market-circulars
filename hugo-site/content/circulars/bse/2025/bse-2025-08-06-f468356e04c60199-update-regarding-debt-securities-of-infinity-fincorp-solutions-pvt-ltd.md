@@ -28,10 +28,10 @@ stocks:
 - INFINITY_FINCORP
 tags:
 - debt-securities
-- ncds
-- trading-terms
-- isin-change
+- isin
+- ncd
 - security-mode-change
+- trading-terms
 title: Update Regarding Debt Securities of Infinity Fincorp Solutions Pvt Ltd - Trading
   Terms Revision
 ---

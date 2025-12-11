@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
+- appeal
 - information-disclosure
-- soil-properties-infra-india-ltd
 - maharashtra-rera
-- appeal-dismissed
+- rti
+- soil-properties-infra-india-ltd
 title: Appeal No. 6546 of 2025 filed by Sindhu Chandrashekhar Nandedkar
 ---
 

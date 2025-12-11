@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- demat-trading
 - listing
 - private-placement
 - zero-coupon
-- demat-trading
 title: Listing of new debt securities of MARWADI CHANDARANA INTERMEDIARIES BROKERS
   PRIVATE LIMITED
 ---

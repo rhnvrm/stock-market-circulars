@@ -30,12 +30,11 @@ stocks:
 - GENESYS
 - INFOBEAN
 tags:
-- price-movement
-- volume-movement
-- surveillance
 - clarification
-- market-driven
 - disclosure
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies on price and volume movements
 ---
 

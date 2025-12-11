@@ -27,14 +27,13 @@ source: sebi
 stocks:
 - NUCLEUSSOFT
 tags:
-- recovery-certificate
-- notice-of-demand
-- insider-trading
-- enforcement
-- defaulter
-- nucleus-software
-- penalty-recovery
 - compliance
+- defaulter
+- demand-notice
+- enforcement
+- investigation
+- penalty
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8962 of 2025 - Anupam Gupta
   - Insider Trading in Nucleus Software Exports Ltd.
 ---

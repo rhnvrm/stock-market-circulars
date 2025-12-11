@@ -27,14 +27,14 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- investment-platform
-- sip
-- subscription-suspension
-- birla-sun-life
 - aditya-birla
-- minimum-investment
+- birla-sun-life
+- investment-platform
 - liquid-fund
+- minimum-investment
+- mutual-fund
+- sip
+- suspension
 title: Changes in Minimum Investment and Suspension of Fresh Subscriptions for Birla
   Sun Life Mutual Fund Schemes
 ---

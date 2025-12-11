@@ -29,11 +29,10 @@ source: sebi
 stocks:
 - EROSMEDIA
 tags:
-- recovery-order
-- enforcement-action
-- general-remittance-order
-- recovery-certificate
+- enforcement
 - eros-international
+- general-remittance-order
+- recovery
 title: 'General Remittance Order dated 07.10.2025 in Recovery Certificate No.8506
   of 2025 issued against Anil Kumar Sajjankumar Sharma (PAN: CBWPS6212F) in the matter
   of Eros International Media Limited'

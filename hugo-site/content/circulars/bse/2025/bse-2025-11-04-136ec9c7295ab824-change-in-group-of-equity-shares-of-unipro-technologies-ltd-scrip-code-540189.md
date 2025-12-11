@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '540189'
+- UPROTECH
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- equity-shares
 - trading
-- '540189'
 title: 'Change in Group of Equity Shares of Unipro Technologies Ltd. (Scrip Code:
   540189)'
 ---

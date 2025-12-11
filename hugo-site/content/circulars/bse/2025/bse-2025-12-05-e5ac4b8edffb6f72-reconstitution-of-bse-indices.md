@@ -40,7 +40,7 @@ stocks:
 - SYNGENE
 - IOB
 - DEEPAK
-- EMAMI
+- EMAMILTD
 - SUNTV
 - HEXAWARE
 - AUTHUM
@@ -53,11 +53,10 @@ stocks:
 - VODAFONE
 - VEDANT
 tags:
-- index-reconstitution
 - bse-indices
-- index-changes
-- portfolio-rebalancing
+- index-change
 - market-structure
+- portfolio-rebalancing
 title: Reconstitution of BSE Indices - December 2025
 ---
 

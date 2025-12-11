@@ -26,9 +26,9 @@ source: bse
 stocks:
 - KSRFOOT
 tags:
+- asm-stage
+- equity
 - group-change
-- equity-shares
-- b-group
 - trading-classification
 title: Change in Group of Equity Shares of KSR Footwear Limited
 ---

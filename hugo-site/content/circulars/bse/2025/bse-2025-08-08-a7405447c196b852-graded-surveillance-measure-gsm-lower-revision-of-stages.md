@@ -82,11 +82,10 @@ stocks:
 - PUROHIT
 - RAJKAMAL
 tags:
-- gsm
-- surveillance
-- stage-reduction
-- trading
 - compliance
+- stage-reduction
+- surveillance
+- trading
 title: Graded Surveillance Measure (GSM) - Lower Revision of Stages for 58 Securities
 ---
 

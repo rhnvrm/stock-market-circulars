@@ -27,11 +27,8 @@ stocks:
 - KARNIKA
 - MODTHREAD
 tags:
+- margin
 - surveillance
-- margin-requirements
-- asm
-- karnika
-- modthread
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
 ---
 

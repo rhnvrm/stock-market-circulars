@@ -32,15 +32,9 @@ stocks:
 - SCINTILLA
 - SHIVANSH
 tags:
-- gsm
+- asm-stage
+- market-operations
 - surveillance
-- stage-movement
-- market-monitoring
-- apt-packaging
-- indergiri-finance
-- city-online-services
-- scintilla-commercial
-- shivansh-finserv
 title: Graded Surveillance Measure (GSM) - Securities Moving to Stage II and III
 ---
 

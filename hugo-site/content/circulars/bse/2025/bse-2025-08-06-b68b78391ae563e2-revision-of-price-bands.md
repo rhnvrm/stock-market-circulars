@@ -35,7 +35,7 @@ stocks:
 - AMALGELE
 - AMBARPR
 - AMITSEC
-- ANKAINDIA
+- ANKIN
 - ANNAINFR
 - ANSALPRO
 - APLAB
@@ -87,7 +87,7 @@ stocks:
 - DHARMAJ
 - DHRUV
 - DHRUVA
-- DIGJAM
+- DIGJAMLMTD
 - DINDIG
 - DUGARHD
 - EASTBUI
@@ -95,11 +95,11 @@ stocks:
 - EMA
 - EMERALD
 tags:
-- price-bands
 - circuit-filters
-- trading-limits
 - market-operations
+- price-band
 - surveillance
+- trading-operations
 title: Revision of Price Bands - Circuit Filter Updates for Multiple Securities
 ---
 

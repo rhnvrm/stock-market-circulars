@@ -35,13 +35,12 @@ stocks:
 - VCCL
 - SIDBI
 tags:
-- listing
-- debt-securities
+- bond
 - commercial-paper
-- bonds
-- debentures
+- debt-securities
+- listing
+- ncd
 - private-placement
-- debt-market
 title: Listing of Privately Placed Debt Securities - Commercial Papers and Bonds
 ---
 

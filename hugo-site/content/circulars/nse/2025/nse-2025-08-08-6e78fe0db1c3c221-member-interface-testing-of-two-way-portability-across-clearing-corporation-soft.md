@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- member-interface
-- testing
-- portability
 - clearing-corporation
+- member-interface
+- mock-trading
+- portability
 - saas
 - technical-support
 title: Member Interface Testing of Two-way Portability Across Clearing Corporation

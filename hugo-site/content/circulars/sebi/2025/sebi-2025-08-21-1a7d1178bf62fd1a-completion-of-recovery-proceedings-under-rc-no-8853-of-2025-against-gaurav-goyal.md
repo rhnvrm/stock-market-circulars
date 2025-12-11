@@ -25,10 +25,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
 - enforcement
-- family-care-hospitals
 - gaurav-goyal
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8853 of 2025 against Gaurav
   Goyal in the matter of Family Care Hospitals Limited
 ---

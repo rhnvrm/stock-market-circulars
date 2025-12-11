@@ -26,9 +26,8 @@ source: bse
 stocks:
 - MBENG
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - m-b-engineering
 title: Listing of Equity Shares of M & B Engineering Limited
 ---

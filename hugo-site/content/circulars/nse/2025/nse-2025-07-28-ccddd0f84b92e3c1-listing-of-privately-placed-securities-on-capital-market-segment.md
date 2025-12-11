@@ -22,16 +22,14 @@ published_date: '2025-07-28T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML69320.pdf
 severity: low
 source: nse
-stocks:
-- 666NBRD28
-- 666SIDBI28
+stocks: []
 tags:
-- listing
+- bond
 - debt-securities
+- listing
+- nabard
 - privately-placed
-- NABARD
-- SIDBI
-- bonds
+- sidbi
 title: Listing of privately placed securities on capital market segment - NABARD and
   SIDBI debt securities
 ---

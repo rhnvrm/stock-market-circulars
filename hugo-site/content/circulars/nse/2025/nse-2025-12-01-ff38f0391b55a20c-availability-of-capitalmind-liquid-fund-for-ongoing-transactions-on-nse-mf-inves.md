@@ -25,15 +25,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - capitalmind
 - liquid-fund
-- nse-mf-invest
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
+- trading-platform
 title: Availability of Capitalmind Liquid Fund for Ongoing Transactions on NSE MF
   Invest Platform
 ---

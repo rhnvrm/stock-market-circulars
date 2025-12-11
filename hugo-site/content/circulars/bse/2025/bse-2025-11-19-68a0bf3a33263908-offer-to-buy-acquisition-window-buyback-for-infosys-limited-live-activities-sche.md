@@ -29,12 +29,10 @@ stocks:
 - INFY
 tags:
 - buyback
-- offer-to-buy
-- acquisition-window
-- infosys
 - equity
+- infosys
+- otb
 - trading-operations
-- otb-module
 title: Offer to Buy – Acquisition Window (Buyback) for INFOSYS LIMITED - Live Activities
   Schedule
 ---

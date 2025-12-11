@@ -34,14 +34,10 @@ stocks:
 - TECHLABS
 - ZUARI
 tags:
-- asm
-- additional-surveillance-measure
-- long-term-asm
-- short-term-asm
+- asm-stage
+- framework-exclusion
 - surveillance
 - trade-for-trade
-- stage-movement
-- framework-exclusion
 title: Applicability of Additional Surveillance Measure (ASM) - December 2025 Update
 ---
 

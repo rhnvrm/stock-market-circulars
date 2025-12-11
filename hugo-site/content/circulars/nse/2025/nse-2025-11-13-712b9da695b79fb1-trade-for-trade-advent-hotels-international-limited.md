@@ -27,11 +27,10 @@ source: nse
 stocks:
 - ADVENTHTL
 tags:
-- trade-for-trade
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- trade-for-trade
 - trading-operations
-- ADVENTHTL
 title: Trade for Trade - Advent Hotels International Limited
 ---
 

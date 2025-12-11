@@ -40,7 +40,7 @@ stocks:
 - BERYLDRUG
 - BLOOMINDS
 - BLUEGOD
-- CDGPETCHEM
+- CDG
 - CITIPORT
 - CLINITECH
 - COROMANDL
@@ -50,7 +50,7 @@ stocks:
 - DESHRAK
 - DHNUBUILD
 - DHRUVWELL
-- DIGJAM
+- DIGJAMLMTD
 - DJSSTOCKS
 - DRLAL
 - DUGARHOUS
@@ -63,7 +63,7 @@ stocks:
 - GAJANAN
 - GANGOTRI
 - GARODIA
-- GAUTAMGEMS
+- GGL
 - GKCONSULT
 - GOLDCOIN
 - GRAVITYIND
@@ -83,14 +83,12 @@ stocks:
 - LELAVOIR
 - LOOKS
 - LORDSMARK
-- MACHOTELS
+- MACH
 - MAPRO
 tags:
-- gsm
-- surveillance
 - price-band
+- surveillance
 - trading-restrictions
-- market-surveillance
 title: Update – GSM Framework
 ---
 

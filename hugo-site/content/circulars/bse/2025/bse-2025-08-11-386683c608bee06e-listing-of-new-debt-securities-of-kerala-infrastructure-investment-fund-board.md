@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- infrastructure-fund
+- kiifb
 - listing
 - private-placement
-- kiifb
-- infrastructure-fund
 - quarterly-interest
 title: Listing of New Debt Securities of Kerala Infrastructure Investment Fund Board
 ---

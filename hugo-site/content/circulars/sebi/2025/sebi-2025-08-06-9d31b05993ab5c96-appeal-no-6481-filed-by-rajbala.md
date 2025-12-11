@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - PACL
 tags:
-- rti-appeal
-- pacl
-- lodha-committee
-- land-allotment
 - investor-refund
+- land-allotment
+- lodha-committee
+- rti
 title: Appeal No. 6481 of 2025 - RTI Request by Rajbala regarding PACL Certificate
   Details
 ---

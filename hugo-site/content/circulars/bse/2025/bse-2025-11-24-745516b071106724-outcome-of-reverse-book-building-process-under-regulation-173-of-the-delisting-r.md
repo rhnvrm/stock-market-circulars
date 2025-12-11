@@ -28,13 +28,11 @@ source: bse
 stocks:
 - CHANDISTEEL
 tags:
-- delisting
-- reverse-book-building
-- chandi-steel-industries
-- voluntary-delisting
-- promoter-offer
-- cse
+- book-building
 - calcutta-stock-exchange
+- cse
+- delisting
+- promoter
 title: Outcome of Reverse Book Building Process for Delisting of Chandi Steel Industries
   Limited
 ---

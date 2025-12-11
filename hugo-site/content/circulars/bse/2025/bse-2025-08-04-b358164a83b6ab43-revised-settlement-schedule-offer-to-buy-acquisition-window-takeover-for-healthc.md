@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HCGL
 tags:
-- takeover
-- settlement
-- acquisition
 - healthcare-global
 - revised-schedule
+- settlement
+- takeover
 title: Revised Settlement Schedule for Healthcare Global Enterprises Limited Takeover
   Offer
 ---

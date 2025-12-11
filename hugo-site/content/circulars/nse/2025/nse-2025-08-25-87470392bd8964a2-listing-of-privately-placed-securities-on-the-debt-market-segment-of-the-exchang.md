@@ -30,10 +30,10 @@ stocks:
 - TATACOMMUNICATION
 - ADITYABIRLAFIN
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
+- privately-placed
 title: Listing of Privately Placed Commercial Paper Securities on Debt Market Segment
 ---
 

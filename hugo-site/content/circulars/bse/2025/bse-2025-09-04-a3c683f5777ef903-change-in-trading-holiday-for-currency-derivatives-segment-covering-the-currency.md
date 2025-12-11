@@ -25,13 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trading-holiday
-- currency-derivatives
-- government-securities
+- derivatives
 - forex
+- gsec
+- holiday
 - money-markets
+- rbi
 - settlement-postponement
-- rbi-circular
 title: Change in Trading Holiday for Currency Derivatives Segment - September 08,
   2025 Declared Holiday
 ---

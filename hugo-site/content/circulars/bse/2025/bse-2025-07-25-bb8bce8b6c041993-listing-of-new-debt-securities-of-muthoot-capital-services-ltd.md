@@ -25,12 +25,11 @@ source: bse
 stocks:
 - MUTHOOTCAP
 tags:
+- bond-market
+- crisil-rated
 - debt-securities
 - listing
 - private-placement
-- muthoot-capital
-- bond-market
-- crisil-rated
 title: Listing of new debt securities of Muthoot Capital Services Ltd.
 ---
 

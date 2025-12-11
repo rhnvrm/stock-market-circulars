@@ -28,13 +28,10 @@ source: bse
 stocks:
 - HYPERSOFT
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
-- trading
-- hypersoft-technologies
 - otb
-- ibbs
+- takeover
+- trading
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for HYPERSOFT TECHNOLOGIES LIMITED
   - Live Activities Schedule
 ---

@@ -27,7 +27,7 @@ stocks:
 - 360ONE
 - ASIANPAINT
 - ATLANTAA
-- BANASFINANCE
+- BANASFN
 - BANKBARODA
 - BHARATGLOB
 - BSL
@@ -61,10 +61,10 @@ stocks:
 - VARROC
 - ZENSAR
 tags:
-- demat-auction
+- demat
+- equity
 - settlement
 - trading
-- equity-shares
 title: BSE Demat Auction 705 - September 2, 2025
 ---
 

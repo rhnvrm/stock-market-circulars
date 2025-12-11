@@ -27,11 +27,10 @@ stocks:
 - NWIA
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- network-18
+- debt-securities
 - icici-bank
-- debt-segment
+- network-18
+- private-placement
 title: Listing of New Commercial Paper of Network 18 Media & Investments Limited
 ---
 

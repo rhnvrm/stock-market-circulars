@@ -59,7 +59,7 @@ stocks:
 - IFCI
 - INOXWIND
 - JAGSONPAL
-- JAYUSHIN
+- JAYUSH
 - JAYSREETEA
 - JUPITER
 - JYOTHYLAB
@@ -73,7 +73,7 @@ stocks:
 - MAXIMUS
 - MIRAEASSET
 - MRAEASSET
-- MODIrubber
+- MODIRUBBER
 - MOSCHIP
 - MURAORGA
 - MUTHOOTFIN
@@ -118,10 +118,10 @@ stocks:
 - WELCURE
 - ZENITHSTL
 tags:
-- demat-auction
-- settlement
-- securities-auction
+- demat
 - market-operations
+- securities-auction
+- settlement
 title: Demat Auction -731
 ---
 

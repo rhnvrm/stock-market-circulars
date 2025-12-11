@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ASTAL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of 939,930 Equity Shares of ASTAL LABORATORIES LIMITED
 ---
 

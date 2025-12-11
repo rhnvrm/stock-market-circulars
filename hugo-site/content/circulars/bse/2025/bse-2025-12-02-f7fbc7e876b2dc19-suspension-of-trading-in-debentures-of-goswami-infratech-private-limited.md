@@ -26,13 +26,13 @@ source: bse
 stocks:
 - GIPL
 tags:
-- trading-suspension
-- debentures
+- corporate-action
 - debt-securities
-- corporate-actions
-- redemption
 - interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of GOSWAMI INFRATECH PRIVATE LIMITED
 ---
 

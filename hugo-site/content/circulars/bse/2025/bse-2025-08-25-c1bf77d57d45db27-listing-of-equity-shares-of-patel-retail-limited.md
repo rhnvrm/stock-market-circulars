@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PATEL
 tags:
+- anchor-investor
+- equity
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- anchor-investors
 title: Listing of Equity Shares of Patel Retail Limited with Lock-in Details
 ---
 

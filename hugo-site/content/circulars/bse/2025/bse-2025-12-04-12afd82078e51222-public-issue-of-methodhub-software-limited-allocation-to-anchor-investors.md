@@ -28,12 +28,11 @@ source: bse
 stocks:
 - METHODHUB
 tags:
-- ipo
-- anchor-investors
-- allocation
-- equity-shares
-- methodhub-software
+- allotment
+- anchor-investor
 - book-building
+- equity
+- ipo
 title: Public Issue of METHODHUB SOFTWARE LIMITED - Allocation to Anchor Investors
 ---
 

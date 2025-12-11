@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '540829'
+- CHANDRIMA
 tags:
-- corporate-actions
-- sub-division
-- equity-shares
-- chandrima-mercantiles
+- corporate-action
+- equity
+- split
 title: 'Sub-Division of Equity Shares of Chandrima Mercantiles Ltd (Scrip Code: 540829)'
 ---
 

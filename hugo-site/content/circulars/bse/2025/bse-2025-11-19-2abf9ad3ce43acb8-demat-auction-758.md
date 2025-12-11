@@ -33,18 +33,18 @@ stocks:
 - ASHOKLEY
 - AXISBANK
 - BHEL
-- CEAT
-- INFOSYS
+- CEATLTD
+- INFY
 - NTPC
 - RELIANCE
 - SPICEJET
-- TATAMOTORS
+- TMCV
 - TATASTEEL
 tags:
-- demat-auction
+- demat
+- early-pay-in
+- securities-auction
 - settlement
-- delivery-shortage
-- auction-list
 title: Demat Auction - Settlement No. 758
 ---
 

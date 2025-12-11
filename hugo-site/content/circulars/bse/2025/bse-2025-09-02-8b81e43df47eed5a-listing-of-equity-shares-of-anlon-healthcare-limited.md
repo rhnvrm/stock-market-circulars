@@ -25,10 +25,9 @@ source: bse
 stocks:
 - ANLON
 tags:
-- listing
-- equity-shares
 - anlon-healthcare
-- new-listing
+- equity
+- listing
 title: Listing of Equity Shares of ANLON HEALTHCARE LIMITED
 ---
 

@@ -31,14 +31,12 @@ stocks:
 - VELANHOTL
 - PAOSINDS
 - ACEENGG
-- DIGJAM
+- DIGJAMLMTD
 - COROENGG
 - AARSHYAM
 tags:
-- gsm
-- graded-surveillance-measure
+- market-operations
 - surveillance
-- market-regulation
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into Their Respective
   GSM Stages

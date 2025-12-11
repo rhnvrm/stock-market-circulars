@@ -26,8 +26,8 @@ source: bse
 stocks: []
 tags:
 - compliance
-- investment-advisers
-- disabilities-act
+- digital-accessibility
+- investment-adviser
 - regulatory-submission
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance for Investment
   Advisers

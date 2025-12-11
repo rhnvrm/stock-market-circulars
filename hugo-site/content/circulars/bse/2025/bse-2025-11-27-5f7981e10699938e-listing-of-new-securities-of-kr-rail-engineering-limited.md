@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KNRRL
 tags:
+- equity
 - listing
-- equity-shares
-- scheme-of-arrangement
 - lock-in
-- promoter-shareholding
+- scheme-of-arrangement
+- shareholding-pattern
 title: Listing of New Securities of K&R Rail Engineering Limited
 ---
 

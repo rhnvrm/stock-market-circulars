@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- t-bills
-- trading-suspension
-- debt-market
+- corporate-action
+- debt-securities
 - maturity
-- corporate-actions
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 747GUJSDL25
 ---
 

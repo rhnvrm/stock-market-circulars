@@ -26,9 +26,9 @@ source: bse
 stocks: []
 tags:
 - membership
+- objection-period
 - surrender
 - trading-member
-- objection-period
 title: Application for Surrender of Membership - Jeevan Utsav Capital Private Limited
   (Member No. 6770)
 ---

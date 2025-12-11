@@ -27,19 +27,17 @@ severity: high
 source: bse
 stocks: []
 tags:
-- networth-certificate
-- compliance
-- membership-requirements
-- half-yearly-submission
-- trading-members
-- clearing-members
-- self-clearing-members
 - cash-segment
-- equity-derivatives
-- currency-derivatives
-- debt-segment
-- commodity-derivatives
-- margin-trading
+- certificate
+- clearing-members
+- compliance
+- debt-securities
+- derivatives
+- half-yearly-submission
+- margin
+- membership
+- self-clearing-members
+- trading-member
 title: Submission of Half Yearly Networth Certificate as on September 30, 2025
 ---
 

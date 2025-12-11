@@ -35,17 +35,10 @@ stocks:
 - SANDUMA
 - VELS
 tags:
-- surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
+- asm-stage
+- margin
 - risk-management
-- GALLANTT
-- JAYBEE
-- KORE
-- MEGAFLEX
-- TARIL
-- VMARCIND
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

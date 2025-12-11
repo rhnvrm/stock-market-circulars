@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
-- debentures
 - krazybee-services
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Krazybee Services Ltd
 ---
 

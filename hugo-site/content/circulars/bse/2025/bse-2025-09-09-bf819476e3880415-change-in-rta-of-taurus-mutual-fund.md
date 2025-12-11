@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- rta-change
 - cams
 - kfintech
+- mutual-fund
+- rta-change
 - taurus-mutual-fund
 title: Change in RTA of Taurus Mutual Fund
 ---

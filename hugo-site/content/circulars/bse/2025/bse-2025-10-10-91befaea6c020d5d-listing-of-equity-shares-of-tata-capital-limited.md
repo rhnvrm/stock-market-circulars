@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TATACAPITAL
+- TATACAP
 tags:
-- shareholding-pattern
-- listing
 - disclosure
+- equity
+- listing
 - regulation-31
-- equity-shares
+- shareholding-pattern
 - tata-capital
 title: Listing of Equity Shares of Tata Capital Limited
 ---

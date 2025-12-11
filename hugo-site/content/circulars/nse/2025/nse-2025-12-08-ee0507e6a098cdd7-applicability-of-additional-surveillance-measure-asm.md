@@ -30,12 +30,9 @@ stocks:
 - AXITA
 - GSTL
 tags:
+- asm-stage
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
 - trading-restrictions
-- stage-I
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

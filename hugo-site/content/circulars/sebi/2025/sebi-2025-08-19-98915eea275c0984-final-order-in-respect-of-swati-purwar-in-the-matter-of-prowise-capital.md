@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-advisory
-- unregistered-activities
+- enforcement
+- investment-adviser
 - partnership-firm
-- enforcement-action
-- securities-appellate-tribunal
 - refund-order
+- securities-appellate-tribunal
+- unregistered-activities
 title: Final Order Against Swati Purwar in Prowise Capital Unregistered Investment
   Advisory Case
 ---

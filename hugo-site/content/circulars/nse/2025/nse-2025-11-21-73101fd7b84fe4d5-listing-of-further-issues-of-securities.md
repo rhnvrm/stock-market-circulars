@@ -38,12 +38,12 @@ stocks:
 - RBA
 - RSYSTEMS
 tags:
-- listing
-- equity-shares
-- esop
-- preferential-allotment
 - abeyance
-- warrant-conversion
+- conversion
+- equity
+- esop
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - 10 Companies
 ---
 

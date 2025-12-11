@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- sebi-turnover-fees
-- gst
-- trading-members
 - compliance
-- settlement-account
+- gst
 - invoices
+- sebi-turnover-fees
+- settlement-calendar
+- trading-member
 title: Payment of SEBI Turnover Fees across segments including applicable GST
 ---
 

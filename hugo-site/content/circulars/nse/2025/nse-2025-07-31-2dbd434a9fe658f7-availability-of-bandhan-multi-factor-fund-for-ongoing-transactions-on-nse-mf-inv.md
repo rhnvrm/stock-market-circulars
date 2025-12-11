@@ -26,13 +26,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - bandhan-mutual-fund
+- equity
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- equity-fund
-- reopening
 title: Availability of Bandhan Multi-Factor Fund for ongoing transactions on NSE MF
   Invest Platform
 ---

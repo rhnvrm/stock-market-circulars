@@ -26,10 +26,10 @@ source: nse
 stocks:
 - KILITCH
 tags:
+- equity
+- kilitch-drugs
 - listing
 - rights-issue
-- equity-shares
-- kilitch-drugs
 - trading
 title: Listing of further issues of securities - Kilitch Drugs (India) Limited rights
   issue

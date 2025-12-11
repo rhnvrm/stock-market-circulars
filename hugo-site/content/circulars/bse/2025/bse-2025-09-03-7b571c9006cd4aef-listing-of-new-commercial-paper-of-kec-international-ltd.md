@@ -26,10 +26,10 @@ stocks:
 - KECL
 tags:
 - commercial-paper
-- debt-listing
+- crisil-rating
+- debt-securities
 - kec-international
 - private-placement
-- crisil-rating
 title: Listing of new Commercial Paper of KEC International Ltd.
 ---
 

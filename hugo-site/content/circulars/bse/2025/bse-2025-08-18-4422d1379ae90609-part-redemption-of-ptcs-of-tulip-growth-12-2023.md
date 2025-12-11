@@ -25,10 +25,10 @@ source: bse
 stocks:
 - TG1223
 tags:
-- debt
+- debt-securities
+- face-value-reduction
 - ptc
 - redemption
-- face-value-reduction
 - tulip-growth
 title: Part Redemption of PTCs of TULIP GROWTH 12 2023
 ---

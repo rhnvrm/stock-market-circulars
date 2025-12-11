@@ -25,13 +25,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- fund-of-funds
 - hdfc-mutual-fund
-- silver-etf
-- fund-of-fund
-- subscription-limits
-- nse-invest-platform
 - investment-limits
+- mutual-fund
+- nse-invest-platform
+- silver
+- subscription-limit
 title: Change in Maximum Amount of HDFC Silver ETF Fund of Fund - Resumption of Subscriptions
 ---
 

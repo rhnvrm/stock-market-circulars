@@ -28,13 +28,13 @@ source: nse
 stocks:
 - GOKULAGRO
 tags:
-- early-pay-in
-- face-value-split
-- sub-division
 - corporate-action
-- settlement
 - depository
+- early-pay-in
+- face-value-change
 - margin-exemption
+- settlement
+- split
 title: Early Pay-in of Securities for Gokul Agro Resources Limited (GOKULAGRO)
 ---
 

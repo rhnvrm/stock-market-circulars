@@ -26,12 +26,12 @@ source: nse
 stocks:
 - SJLOGISTIC
 tags:
+- conversion
+- emerge-platform
+- equity
 - listing
+- preferential-issue
 - sme
-- emerge
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 title: Listing of further issue of securities - S J Logistics (India) Limited
 ---
 

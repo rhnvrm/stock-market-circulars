@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
+- corporate-action
+- debt-securities
 - maturity
-- debt-market
-- corporate-actions
+- ncd
+- suspension
 title: Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

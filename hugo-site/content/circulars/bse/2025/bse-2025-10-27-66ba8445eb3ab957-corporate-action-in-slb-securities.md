@@ -26,7 +26,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- REC
+- RECLTD
 - DABUR
 - NRBBEARING
 - DHANI
@@ -57,13 +57,12 @@ stocks:
 - CENTRALBK
 - PCBL
 tags:
-- slb
+- book-closure
 - corporate-action
 - dividend
-- amalgamation
-- shut-period
-- ex-date
 - record-date
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - October/November 2025
 ---
 

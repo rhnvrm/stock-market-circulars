@@ -32,12 +32,10 @@ stocks:
 - SUDCHEM
 - YESBANK
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - October 2025
 ---
 

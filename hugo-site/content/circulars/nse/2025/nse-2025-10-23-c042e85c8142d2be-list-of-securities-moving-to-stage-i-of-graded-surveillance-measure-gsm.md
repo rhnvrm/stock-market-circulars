@@ -26,13 +26,10 @@ source: nse
 stocks:
 - ORTEL
 tags:
-- surveillance
-- gsm
-- graded-surveillance-measure
-- margin-requirements
+- margin
 - price-band
+- surveillance
 - trading-restrictions
-- ortel
 title: ORTEL Communications Limited Moved to Stage I of Graded Surveillance Measure
 ---
 

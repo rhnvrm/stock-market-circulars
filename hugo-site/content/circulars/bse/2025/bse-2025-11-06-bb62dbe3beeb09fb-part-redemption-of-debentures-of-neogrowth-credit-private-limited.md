@@ -28,13 +28,13 @@ source: bse
 stocks:
 - NCPL
 tags:
-- debt
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
-- corporate-actions
+- ncd
 - neogrowth-credit
-- reduced-face-value
+- redemption
 title: Part Redemption of Debentures of NEOGROWTH CREDIT PRIVATE LIMITED
 ---
 

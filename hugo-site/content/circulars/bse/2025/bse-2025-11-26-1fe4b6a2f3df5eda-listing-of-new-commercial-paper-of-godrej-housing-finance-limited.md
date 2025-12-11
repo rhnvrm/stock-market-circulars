@@ -27,10 +27,10 @@ stocks:
 - GODREJHFL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - godrej-housing-finance
-- private-placement
 - icici-bank
+- private-placement
 title: Listing of new Commercial Paper of Godrej Housing Finance Limited
 ---
 

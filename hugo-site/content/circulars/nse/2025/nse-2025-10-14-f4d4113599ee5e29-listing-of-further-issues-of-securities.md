@@ -33,12 +33,12 @@ stocks:
 - ZOTAHC
 - KELTONTEC
 tags:
-- listing
-- equity-shares
-- esop
-- bonus-issue
-- further-issues
+- bonus
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities - Seven Companies
 ---
 

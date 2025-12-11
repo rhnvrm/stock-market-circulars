@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 tags:
-- debt-listing
-- private-placement
-- piramal-finance
-- non-convertible-debentures
 - bse-debt-segment
+- debt-securities
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Piramal Finance Limited
 ---
 

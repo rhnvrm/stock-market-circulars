@@ -28,13 +28,12 @@ source: bse
 stocks:
 - INBREW
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of INBREW BEVERAGES PRIVATE LIMITED
 ---
 

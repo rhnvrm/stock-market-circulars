@@ -32,7 +32,6 @@ tags:
 - mahindra-rural-housing-finance
 - ncd
 - private-placement
-- debentures
 title: Listing of New Debt Securities of Mahindra Rural Housing Finance Limited
 ---
 

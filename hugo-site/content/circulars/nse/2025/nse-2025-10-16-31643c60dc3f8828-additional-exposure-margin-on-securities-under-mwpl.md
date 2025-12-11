@@ -28,12 +28,12 @@ source: nse
 stocks:
 - RBLBANK
 tags:
+- derivatives
 - exposure-margin
-- MWPL
-- surveillance-margin
+- margin
+- position-limits
 - risk-management
-- equity-derivatives
-- margin-requirements
+- surveillance-margin
 title: Additional Exposure Margin on Securities under MWPL
 ---
 

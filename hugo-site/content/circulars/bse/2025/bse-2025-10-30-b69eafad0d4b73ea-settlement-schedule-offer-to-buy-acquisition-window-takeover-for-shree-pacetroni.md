@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SHREEPAC
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
 - otb
-- shree-pacetronix
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SHREE
   PACETRONIX LIMITED
 ---

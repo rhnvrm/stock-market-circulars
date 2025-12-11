@@ -27,13 +27,12 @@ source: bse
 stocks:
 - SUNSKY
 tags:
+- asm-stage
 - group-change
+- rolling-segment
 - segment-transfer
 - sme
 - trade-for-trade
-- rolling-segment
-- mt-group
-- m-group
 title: Change in Group of Equity Shares of SUNSKY LOGISTICS LIMITED
 ---
 

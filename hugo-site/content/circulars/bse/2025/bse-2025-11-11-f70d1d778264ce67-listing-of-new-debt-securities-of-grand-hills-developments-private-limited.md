@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
-- private-placement
-- non-convertible-debentures
+- debt-securities
 - grand-hills-developments
-- new-listing
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Grand Hills Developments Private Limited
 ---
 

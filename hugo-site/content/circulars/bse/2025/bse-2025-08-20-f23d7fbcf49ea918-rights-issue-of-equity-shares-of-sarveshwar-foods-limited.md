@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SARVESHWAR
 tags:
-- rights-issue
-- corporate-actions
-- equity-shares
-- sarveshwar-foods
+- corporate-action
+- equity
 - record-date
+- rights-issue
 title: Rights Issue of Equity Shares - SARVESHWAR FOODS LIMITED (543688)
 ---
 

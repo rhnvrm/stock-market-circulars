@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ROTOGRAPHICS
 tags:
-- takeover
-- settlement
-- acquisition
-- rotographics
 - obligation-download
+- settlement
+- takeover
 title: Revised Settlement Schedule for ROTOGRAPHICS (INDIA) LIMITED Takeover Offer
 ---
 

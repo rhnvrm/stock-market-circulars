@@ -24,12 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
-- penalty-collection
+- defaulter
+- enforcement
 - illiquid-stock-options
-- enforcement-action
-- recovery-certificate
-- defaulter-payment
+- penalty
+- recovery
 title: Recovery Certificate No. RC8791 of 2025 Completed for Mamata Bhiwaniwala -
   Illiquid Stock Options Matter
 ---

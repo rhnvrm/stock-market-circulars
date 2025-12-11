@@ -28,9 +28,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- new-securities
 - private-placement
 - stl-networks
-- new-issue
 title: Listing of New Debt Securities of STL Networks Limited
 ---
 

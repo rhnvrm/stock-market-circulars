@@ -23,13 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544482'
+- STARIMAGIN
 tags:
-- index
-- sme-ipo
+- index-fund
 - listing
-- star-imaging-path-lab
-- '544482'
+- sme
 title: Addition of Star Imaging and Path Lab Limited to BSE SME IPO Index
 ---
 

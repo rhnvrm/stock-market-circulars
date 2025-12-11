@@ -27,13 +27,12 @@ source: bse
 stocks:
 - GALLARD
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- trade-for-trade
 - rolling-segment
 - sme
-- mt-group
-- m-group
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of GALLARD STEEL LIMITED
 ---
 

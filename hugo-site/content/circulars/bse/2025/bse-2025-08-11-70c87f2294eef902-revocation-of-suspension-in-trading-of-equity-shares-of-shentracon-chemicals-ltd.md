@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '530757'
+- SHENTRA
 tags:
-- trading-suspension
-- revocation
-- equity-shares
 - chemicals
+- equity
 - inorganic-chemicals
+- release
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Shentracon Chemicals
   Ltd
 ---

@@ -34,10 +34,10 @@ stocks:
 - PRECISION
 - TRUSTED
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for Nine Securities Effective August 5, 2025
 ---
 

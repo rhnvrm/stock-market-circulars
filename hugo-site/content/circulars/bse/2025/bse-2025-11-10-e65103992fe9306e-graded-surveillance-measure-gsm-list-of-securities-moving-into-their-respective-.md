@@ -28,7 +28,7 @@ stocks:
 - JAINEX
 - MUNOTHCAP
 - MFSIL
-- RAPCORP
+- RAP
 - NOIDATOLL
 - SHASHTRA
 - FLORACORP
@@ -40,11 +40,10 @@ stocks:
 - MACHOTEL
 - EASUNCAP
 tags:
-- gsm
-- surveillance
-- market-regulation
-- trading-restrictions
 - compliance
+- market-operations
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

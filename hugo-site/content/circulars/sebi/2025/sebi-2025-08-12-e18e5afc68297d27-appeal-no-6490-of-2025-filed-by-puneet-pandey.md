@@ -24,11 +24,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- grievance-redressal
 - customer-complaint
+- grievance-redressal
 - groww
 - mutual-fund
+- rti
 - scores-portal
 title: RTI Appeal No. 6490 of 2025 - Puneet Pandey vs CPIO SEBI Mumbai Dismissed
 ---

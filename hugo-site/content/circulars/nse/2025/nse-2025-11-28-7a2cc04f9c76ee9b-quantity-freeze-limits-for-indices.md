@@ -26,16 +26,16 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- derivatives
-- futures-and-options
-- quantity-freeze
-- index-derivatives
 - banknifty
-- nifty
+- derivatives
 - finnifty
+- futures-options
+- index-derivatives
 - midcpnifty
+- nifty
 - niftynxt50
-- trading-limits
+- quantity-freeze
+- trading-operations
 title: Quantity Freeze Limits for Indices - December 2025
 ---
 

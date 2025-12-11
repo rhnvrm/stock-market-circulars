@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- NAAPBOOKS
+- NBL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - naapbooks
+- preferential-issue
 title: Listing of New Securities of Naapbooks Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PAISALO
 tags:
-- debt-listing
-- private-placement
-- non-convertible-debentures
+- debt-securities
+- listing
+- ncd
 - paisalo-digital
-- new-listing
+- private-placement
 title: Listing of New Debt Securities of Paisalo Digital Limited
 ---
 

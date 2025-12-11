@@ -25,12 +25,10 @@ source: nse
 stocks:
 - MTEDUCARE
 tags:
+- asm-stage
+- margin
 - surveillance
-- gsm
-- stage-i
 - trading-restrictions
-- margin-requirements
-- MTEDUCARE
 title: MT Educare Limited Moved to Stage I of Graded Surveillance Measure
 ---
 

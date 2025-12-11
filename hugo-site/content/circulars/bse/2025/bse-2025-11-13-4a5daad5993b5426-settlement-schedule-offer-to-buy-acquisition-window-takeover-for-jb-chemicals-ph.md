@@ -28,13 +28,11 @@ source: bse
 stocks:
 - JBCHEPHARM
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
-- early-pay-in
 - demat-shares
-- JBCHEPHARM
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for J.B. Chemicals
   & Pharmaceuticals Limited
 ---

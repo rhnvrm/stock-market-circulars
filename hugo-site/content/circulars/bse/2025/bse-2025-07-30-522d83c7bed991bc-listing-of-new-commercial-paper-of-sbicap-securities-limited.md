@@ -26,11 +26,11 @@ stocks:
 - SBICAP
 tags:
 - commercial-paper
-- debt-listing
-- sbicap-securities
-- private-placement
 - crisil-a1plus
+- debt-securities
 - icra-a1plus
+- private-placement
+- sbicap-securities
 title: Listing of new Commercial Paper of SBICAP Securities Limited
 ---
 

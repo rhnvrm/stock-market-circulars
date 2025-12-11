@@ -26,11 +26,10 @@ source: bse
 stocks:
 - GRETEX
 tags:
-- migration
-- sme-to-mainboard
-- shareholding-pattern
 - listing
-- gretex
+- migration
+- shareholding-pattern
+- sme-to-mainboard
 title: Migration of Gretex Corporate Services Limited from BSE SME to Mainboard Platform
 ---
 

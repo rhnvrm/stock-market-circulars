@@ -26,11 +26,10 @@ source: nse
 stocks:
 - JAKHARIA
 tags:
-- bonus-issue
-- market-lot-adjustment
-- sme
+- bonus
 - corporate-action
-- jakharia
+- market-lot
+- sme
 title: 'BONUS: Adjustment of Market Lot for Security JAKHARIA in SME Platform'
 ---
 

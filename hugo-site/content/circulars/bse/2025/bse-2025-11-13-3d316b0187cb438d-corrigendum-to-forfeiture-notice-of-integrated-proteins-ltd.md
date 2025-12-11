@@ -27,11 +27,10 @@ source: bse
 stocks:
 - INTEGRATED
 tags:
+- corporate-action
+- corrigendum
 - forfeiture
 - shares
-- integrated-proteins
-- corrigendum
-- corporate-action
 title: Corrigendum to Forfeiture Notice of Integrated Proteins Ltd
 ---
 

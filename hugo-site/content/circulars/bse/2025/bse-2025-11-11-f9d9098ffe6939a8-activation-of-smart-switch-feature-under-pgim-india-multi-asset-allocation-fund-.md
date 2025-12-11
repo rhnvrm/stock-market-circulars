@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- smart-switch
-- pgim-india
-- bse-star-mf
 - fund-operations
+- mutual-fund
+- nfo
+- pgim-india
+- smart-switch
 title: Activation of SMART Switch Feature under PGIM India Multi Asset Allocation
   Fund - NFO
 ---

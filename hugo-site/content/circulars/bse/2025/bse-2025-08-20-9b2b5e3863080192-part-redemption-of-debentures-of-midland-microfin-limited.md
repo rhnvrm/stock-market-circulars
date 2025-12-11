@@ -25,11 +25,11 @@ source: bse
 stocks:
 - MIDLAND
 tags:
-- debt
-- debentures
-- redemption
-- corporate-actions
+- corporate-action
+- debt-securities
 - midland-microfin
+- ncd
+- redemption
 title: Part Redemption of Debentures of MIDLAND MICROFIN LIMITED
 ---
 

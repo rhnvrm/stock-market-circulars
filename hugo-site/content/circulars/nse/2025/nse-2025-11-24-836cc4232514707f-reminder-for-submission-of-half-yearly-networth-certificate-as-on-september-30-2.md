@@ -25,12 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- networth-certificate
+- certificate
 - compliance
-- trading-members
+- deadline-reminder
 - enit-portal
 - regulatory-filing
-- deadline-reminder
+- trading-member
 title: Reminder for Submission of Half Yearly Networth Certificate as on September
   30, 2025
 ---

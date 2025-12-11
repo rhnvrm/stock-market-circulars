@@ -28,12 +28,11 @@ source: nse
 stocks:
 - CAMS
 tags:
-- stock-split
+- contract-adjustment
 - corporate-action
 - derivatives
-- futures-and-options
-- contract-adjustment
-- CAMS
+- futures-options
+- split
 title: Split Adjustment of Futures and Options Contracts in CAMS
 ---
 

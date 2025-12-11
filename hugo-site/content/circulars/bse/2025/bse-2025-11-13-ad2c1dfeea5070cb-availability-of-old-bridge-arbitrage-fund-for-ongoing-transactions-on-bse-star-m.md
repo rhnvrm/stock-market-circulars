@@ -26,16 +26,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
 - arbitrage-fund
+- equity-scheme
+- mutual-fund
 - old-bridge
-- bse-star-mf
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-scheme
 title: OLD BRIDGE ARBITRAGE FUND Reopened for Ongoing Transactions on BSE StAR MF
   Platform
 ---

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - WXTL
 tags:
-- debentures
-- part-redemption
 - corporate-action
 - debt-securities
 - interest-payment
+- ncd
 - record-date
+- redemption
 title: Part Redemption of Debentures of WRSS XXI (A) TRANSCO LIMITED
 ---
 

@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - VIKASPROP
 tags:
-- recovery-certificate
 - defaulter
-- trading-violations
-- remittance-advice
-- vikas-proppant
+- demand-notice
+- recovery
+- trading-operations
 title: SEBI Remittance Advice Against Puneet (Defaulter) - Vikas Proppant Recovery
   Case
 ---

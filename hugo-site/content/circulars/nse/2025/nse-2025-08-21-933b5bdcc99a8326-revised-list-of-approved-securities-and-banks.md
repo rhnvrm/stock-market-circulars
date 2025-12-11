@@ -65,12 +65,12 @@ stocks:
 - SBIN
 - SHRIRAMFIN
 tags:
-- securities-lending-borrowing
+- collateral
+- empanelment
+- liquid-fund
+- margin
 - slb
-- approved-securities
-- margin-requirements
-- liquid-assets
-- var-haircut
+- volatility-control
 title: Revised List of Approved Securities and Banks for Securities Lending and Borrowing
 ---
 

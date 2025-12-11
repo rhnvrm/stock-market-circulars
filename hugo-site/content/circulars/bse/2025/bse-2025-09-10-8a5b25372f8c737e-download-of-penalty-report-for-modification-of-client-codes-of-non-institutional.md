@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- penalty-report
 - client-code-modification
-- non-institutional-trades
 - compliance
+- non-institutional-trades
+- penalty
 - trading-operations
-- extranet
+- trading-platform
 title: Download of Penalty Report for Client Code Modifications of Non-Institutional
   Trades - August 2025
 ---

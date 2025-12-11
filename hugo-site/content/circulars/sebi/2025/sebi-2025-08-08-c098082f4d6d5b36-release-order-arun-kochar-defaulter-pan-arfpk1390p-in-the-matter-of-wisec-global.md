@@ -26,10 +26,9 @@ stocks:
 - WISECGLOBAL
 tags:
 - defaulter
-- release-order
-- recovery-certificate
-- enforcement-action
-- wisec-global
+- enforcement
+- recovery
+- release
 title: 'Release Order – Arun Kochar [Defaulter] PAN: ARFPK1390P in the matter of Wisec
   Global Limited. Certificate No. 6243 of 2023'
 ---

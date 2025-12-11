@@ -33,7 +33,7 @@ stocks:
 - ICICIPRULI
 - INTELLECT
 - MAXHEALTH
-- NIIT
+- NIITLTD
 - QUICKHEAL
 - STARHEALTH
 - STOVEKRAFT
@@ -41,8 +41,6 @@ stocks:
 - VTL
 tags:
 - esop
-- esos
-- employee-stock-options
 - listing
 - securities
 - trading

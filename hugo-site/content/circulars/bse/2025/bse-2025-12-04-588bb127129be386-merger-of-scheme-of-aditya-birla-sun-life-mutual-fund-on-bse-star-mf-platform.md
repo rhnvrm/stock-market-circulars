@@ -27,14 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-merger
-- debt-fund
-- index-fund
 - aditya-birla-sun-life
-- bse-star-mf
-- nbfc-hfc
+- debt-securities
 - financial-services
+- index-fund
+- mutual-fund
+- nbfc-hfc
+- scheme-merger
 title: Merger of Aditya Birla Sun Life CRISIL-IBX AAA NBFC-HFC Index Dec 2025 Fund
   with CRISIL-IBX Financial Services 9-12 Months Debt Index Fund
 ---

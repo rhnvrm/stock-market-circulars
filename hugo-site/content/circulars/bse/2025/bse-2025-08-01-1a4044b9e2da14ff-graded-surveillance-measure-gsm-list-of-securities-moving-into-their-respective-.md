@@ -28,11 +28,10 @@ stocks:
 - JAINMARMO
 - SUNGOLD
 tags:
-- gsm
+- framework
+- securities
 - surveillance
 - trading
-- securities
-- framework
 title: GSM Framework Updates - Four Securities Move to Different Surveillance Stages
 ---
 

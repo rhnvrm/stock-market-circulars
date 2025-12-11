@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ICICI
 tags:
+- bond
 - debt-securities
-- listing
 - icici-home-finance
+- listing
 - private-placement
-- corporate-bonds
 title: Listing of new debt securities of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

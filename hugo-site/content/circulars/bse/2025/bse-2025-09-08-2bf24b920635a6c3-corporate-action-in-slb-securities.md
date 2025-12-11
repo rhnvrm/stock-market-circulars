@@ -33,7 +33,6 @@ stocks:
 - HIMATSEIDE
 - TFCILTD
 - KDDL
-- IGL
 - TITAGARH
 - ISGEC
 - SJVN
@@ -44,11 +43,11 @@ stocks:
 - ACUTAAS
 - TEGAIIND
 tags:
-- corporate-actions
-- slb
+- collateral
+- corporate-action
 - dividend
-- stock-split
-- securities-lending-borrowing
+- slb
+- split
 title: Corporate Action Updates in SLB Securities - September 2025
 ---
 

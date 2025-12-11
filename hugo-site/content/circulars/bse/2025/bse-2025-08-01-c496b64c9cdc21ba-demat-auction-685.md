@@ -26,20 +26,20 @@ source: bse
 stocks:
 - ABB
 - ADANIPORTS
-- ASHOKLEYLAND
+- ASHOKLEY
 - BPCL
-- FEDERALBANK
+- FEDERALBNK
 - HINDUNILVR
 - ITC
 - KOTAKBANK
 - M&M
 - RELIANCE
 - SBIN
-- TATAMOTORS
+- TMCV
 tags:
-- demat-auction
+- demat
+- securities-auction
 - settlement
-- auction-securities
 - trading
 title: Demat Auction Settlement No. 685
 ---

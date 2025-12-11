@@ -27,13 +27,12 @@ stocks:
 - SUNDARMFIN
 - MUTHOOTFIN
 tags:
+- debt-securities
 - ncd
-- suspension
-- trading
-- debt-market
 - redemption
 - sundaram-finance
-- muthoot-finance
+- suspension
+- trading
 title: Suspension of Trading in Non-Convertible Debentures - Sundaram Finance and
   Muthoot Finance
 ---

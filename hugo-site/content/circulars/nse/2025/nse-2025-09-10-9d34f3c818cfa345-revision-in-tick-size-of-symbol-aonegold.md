@@ -25,11 +25,10 @@ source: nse
 stocks:
 - AONEGOLD
 tags:
-- tick-size
 - etf
 - gold
-- trading-parameters
-- aonegold
+- tick-size
+- trading-operations
 title: 'Revision in tick size of symbol: AONEGOLD'
 ---
 

@@ -28,13 +28,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- upi-payments
-- payment-collection
-- intermediaries
-- sebi-regulations
-- digital-payments
 - compliance
+- digital-payments
+- intermediary
 - investor-protection
+- payment-collection
+- regulatory-framework
+- upi-payments
 title: Adoption of Standardised, Validated and Exclusive UPI IDs for Payment Collection
   by SEBI Registered Intermediaries
 ---

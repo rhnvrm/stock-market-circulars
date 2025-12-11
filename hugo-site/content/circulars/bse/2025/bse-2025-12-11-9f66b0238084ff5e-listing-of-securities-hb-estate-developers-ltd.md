@@ -28,11 +28,11 @@ source: bse
 stocks:
 - HBESTATE
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - HB Estate Developers Ltd (750,000 Equity Shares)
 ---
 

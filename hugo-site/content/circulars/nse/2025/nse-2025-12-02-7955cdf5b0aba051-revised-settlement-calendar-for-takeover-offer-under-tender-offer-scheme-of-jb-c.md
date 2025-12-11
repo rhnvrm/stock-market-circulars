@@ -29,12 +29,11 @@ source: nse
 stocks:
 - JBCHEPHARM
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
+- clearing
 - j-b-chemicals
-- acquisition
-- clearing-settlement
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for Takeover Offer under Tender Offer Scheme of
   J.B. Chemicals & Pharmaceuticals Limited
 ---

@@ -26,10 +26,8 @@ source: bse
 stocks:
 - SHANTIGOLD
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- SHANTIGOLD
 title: Listing of Equity Shares of Shanti Gold International Limited
 ---
 

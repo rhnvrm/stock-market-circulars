@@ -27,12 +27,12 @@ source: nse
 stocks:
 - INFIBPP
 tags:
-- suspension
-- partly-paid-shares
-- infibeam-avenues
-- trading-halt
 - capital-market
-- equity-shares
+- equity
+- infibeam-avenues
+- partly-paid
+- suspension
+- trading-halt
 title: Suspension of Partly Paid-Up Equity Shares of Infibeam Avenues Limited
 ---
 

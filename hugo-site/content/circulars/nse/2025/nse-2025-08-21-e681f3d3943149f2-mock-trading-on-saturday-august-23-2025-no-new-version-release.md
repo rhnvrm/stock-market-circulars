@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
 - capital-market
-- trading-session
 - member-participation
-- system-testing
+- mock-trading
+- trading-session
 title: Mock Trading Session on Saturday, August 23, 2025 - No New Version Release
 ---
 

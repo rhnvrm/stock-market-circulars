@@ -28,7 +28,7 @@ tags:
 - crs-portal
 - maintenance
 - system-downtime
-- bse-starmf
+- trading-platform
 title: Downtime for CRS Portal
 ---
 

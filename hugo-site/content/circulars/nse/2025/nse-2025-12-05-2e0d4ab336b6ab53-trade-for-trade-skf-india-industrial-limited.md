@@ -27,11 +27,10 @@ source: nse
 stocks:
 - SKFINDUS
 tags:
-- trade-for-trade
 - rolling-segment
 - segment-transfer
+- trade-for-trade
 - trading
-- skfindus
 title: Trade for Trade - SKF India (Industrial) Limited
 ---
 

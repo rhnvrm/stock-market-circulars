@@ -26,13 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- part-redemption
-- non-convertible-debentures
-- interest-payment
-- record-date
-- debt-market
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 - vastu-finserve
 title: Part Redemption of Debentures of VASTU FINSERVE INDIA PRIVATE LIMITED
 ---

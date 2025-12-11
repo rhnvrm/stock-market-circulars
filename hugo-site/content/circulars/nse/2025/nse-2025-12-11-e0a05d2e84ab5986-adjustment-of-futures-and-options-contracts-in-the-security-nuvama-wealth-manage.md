@@ -28,12 +28,11 @@ source: nse
 stocks:
 - NUVAMA
 tags:
-- futures-and-options
-- corporate-action
-- face-value-split
 - contract-adjustment
+- corporate-action
 - derivatives
-- NUVAMA
+- face-value-change
+- futures-options
 title: Adjustment of Futures and Options Contracts in NUVAMA WEALTH MANAGEMENT LIMITED
 ---
 

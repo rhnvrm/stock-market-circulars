@@ -27,10 +27,9 @@ stocks:
 - OPAL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - ongc-petro-additions
 - private-placement
-- opal
 title: Listing of New Commercial Paper of ONGC Petro Additions Limited
 ---
 

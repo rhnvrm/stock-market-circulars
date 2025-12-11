@@ -26,11 +26,10 @@ source: nse
 stocks:
 - DIGIKORE
 tags:
-- bonus-issue
-- listing
-- equity-shares
+- bonus
 - capital-market
-- digikore-studios
+- equity
+- listing
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of Digikore Studios
   Limited
 ---

@@ -28,12 +28,12 @@ source: bse
 stocks:
 - INDIASHLTR
 tags:
+- bond
 - debt-securities
-- listing
-- private-placement
 - india-shelter-finance
-- corporate-bonds
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of India Shelter Finance Corporation Limited
 ---
 

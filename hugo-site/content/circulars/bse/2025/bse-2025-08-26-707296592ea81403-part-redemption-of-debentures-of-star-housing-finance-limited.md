@@ -26,9 +26,9 @@ source: bse
 stocks:
 - SHFL
 tags:
-- corporate-actions
-- debt
-- debentures
+- corporate-action
+- debt-securities
+- ncd
 - redemption
 - star-housing-finance
 title: Part Redemption of Debentures of STAR HOUSING FINANCE LIMITED

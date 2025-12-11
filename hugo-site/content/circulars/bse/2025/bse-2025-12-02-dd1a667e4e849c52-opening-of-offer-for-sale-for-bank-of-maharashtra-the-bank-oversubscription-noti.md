@@ -26,12 +26,11 @@ source: bse
 stocks:
 - MAHABANK
 tags:
-- ofs
-- offer-for-sale
 - bank-of-maharashtra
-- oversubscription
 - equity-sale
-- public-offering
+- ipo
+- ofs
+- oversubscription
 title: Opening of Offer for Sale for Bank of Maharashtra - Oversubscription Notice
 ---
 

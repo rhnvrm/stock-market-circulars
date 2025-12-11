@@ -26,13 +26,12 @@ source: bse
 stocks:
 - POWERGRID
 tags:
-- part-redemption
-- debentures
-- bonds
-- power-grid
-- corporate-actions
-- debt
+- bond
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of Power Grid Corporation of India Limited
 ---
 

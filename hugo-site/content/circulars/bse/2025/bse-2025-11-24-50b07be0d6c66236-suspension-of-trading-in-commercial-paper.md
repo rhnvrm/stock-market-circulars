@@ -40,11 +40,11 @@ stocks:
 - LDL
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-market
-- corporate-actions
+- corporate-action
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 15 Securities Redemption
 ---
 

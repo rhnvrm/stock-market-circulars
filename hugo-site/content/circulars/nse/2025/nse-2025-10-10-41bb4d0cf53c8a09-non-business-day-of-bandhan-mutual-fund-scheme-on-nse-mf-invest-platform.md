@@ -26,10 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- non-business-day
 - bandhan-mutual-fund
-- fund-of-fund
+- fund-of-funds
+- holiday
+- mutual-fund
 - us-equity
 title: Non-Business Day of Bandhan Mutual Fund scheme on NSE MF Invest Platform
 ---

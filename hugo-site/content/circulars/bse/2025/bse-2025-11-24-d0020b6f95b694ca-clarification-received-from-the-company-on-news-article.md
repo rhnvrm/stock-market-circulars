@@ -29,12 +29,11 @@ stocks:
 - HAL
 tags:
 - clarification
-- news-article
-- tejas-fighter-jet
-- dubai-air-show
-- share-price-movement
 - disclosure
-- hal
+- dubai-air-show
+- news-article
+- share-price-movement
+- tejas-fighter-jet
 title: Clarification on News Article Regarding HAL Tejas Fighter Jet Incident at Dubai
   Air Show
 ---

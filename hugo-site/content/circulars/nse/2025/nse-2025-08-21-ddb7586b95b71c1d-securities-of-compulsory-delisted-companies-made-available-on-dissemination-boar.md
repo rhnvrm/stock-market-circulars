@@ -26,10 +26,10 @@ source: nse
 stocks:
 - MANPASAND
 tags:
+- daily-bulletin
 - delisting
-- dissemination-board
-- trading
 - sebi-regulation
+- trading
 title: Securities of compulsory delisted companies made available on Dissemination
   Board of NSE
 ---

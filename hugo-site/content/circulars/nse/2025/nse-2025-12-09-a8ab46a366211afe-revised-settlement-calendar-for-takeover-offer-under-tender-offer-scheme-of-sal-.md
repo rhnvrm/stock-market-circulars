@@ -27,12 +27,11 @@ source: nse
 stocks:
 - SALSTEEL
 tags:
-- takeover-offer
-- tender-offer
-- settlement-calendar
-- sal-steel
 - corporate-action
-- settlement-schedule
+- settlement
+- settlement-calendar
+- takeover
+- tender-offer
 title: Revised Settlement Calendar for Takeover Offer under Tender Offer Scheme of
   SAL Steel Limited
 ---

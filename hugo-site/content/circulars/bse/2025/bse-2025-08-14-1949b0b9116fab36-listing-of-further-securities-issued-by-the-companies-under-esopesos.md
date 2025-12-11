@@ -37,11 +37,9 @@ stocks:
 - TEJASNET
 - MANYAVAR
 tags:
+- equity
 - esop
-- esos
-- new-listing
-- employee-stock-options
-- equity-shares
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS by 12 Companies
 ---
 

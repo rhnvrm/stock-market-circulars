@@ -29,13 +29,12 @@ stocks:
 - MCLEODR
 - SWRENERGY
 tags:
-- surveillance
 - ica
 - inter-creditor-agreement
-- additional-surveillance-measure
-- sadbhav-engineering
 - mcleod-russel
+- sadbhav-engineering
 - sterling-wilson
+- surveillance
 title: Surveillance Measure for Securities Under Inter-Creditor Agreement (ICA)
 ---
 

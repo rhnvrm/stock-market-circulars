@@ -28,11 +28,11 @@ stocks:
 - UNIPARTS
 - MMTC
 tags:
-- surveillance
-- volume-clarification
+- disclosure
 - lodr-regulation-30
-- disclosure-compliance
+- price-movement
 - price-volume-query
+- surveillance
 title: Clarifications received from the companies
 ---
 

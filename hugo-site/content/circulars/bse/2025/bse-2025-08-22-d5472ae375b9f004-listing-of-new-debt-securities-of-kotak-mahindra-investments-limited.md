@@ -25,11 +25,11 @@ source: bse
 stocks:
 - KMIL
 tags:
-- debt-securities
-- listing
-- kotak-mahindra
-- private-placement
 - aaa-rating
+- debt-securities
+- kotak-mahindra
+- listing
+- private-placement
 title: Listing of new debt securities of Kotak Mahindra Investments Limited
 ---
 

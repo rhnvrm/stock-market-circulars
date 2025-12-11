@@ -26,9 +26,9 @@ source: bse
 stocks:
 - SYLPH
 tags:
+- equity
+- listing
 - rights-issue
-- new-listing
-- equity-shares
 - sylph-technologies
 title: Listing of New Securities of Sylph Technologies Ltd - Rights Issue
 ---

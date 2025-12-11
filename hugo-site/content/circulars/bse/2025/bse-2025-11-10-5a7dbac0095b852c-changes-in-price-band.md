@@ -43,10 +43,10 @@ stocks:
 - TRANSFORME
 - VAXFAB
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-operations
 title: Changes in Price Band - 18 Securities Effective November 11, 2025
 ---
 

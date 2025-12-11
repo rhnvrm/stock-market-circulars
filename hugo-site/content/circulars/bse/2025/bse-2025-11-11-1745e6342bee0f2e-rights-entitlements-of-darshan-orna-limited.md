@@ -27,13 +27,12 @@ source: bse
 stocks:
 - DARSHA
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - darshan-orna
-- trading
+- equity
+- renunciation
+- rights-issue
 - t1-settlement
+- trading
 title: Rights Entitlements Trading for DARSHAN ORNA LIMITED
 ---
 

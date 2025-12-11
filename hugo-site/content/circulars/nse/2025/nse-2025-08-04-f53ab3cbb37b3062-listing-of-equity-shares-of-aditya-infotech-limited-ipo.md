@@ -26,11 +26,9 @@ source: nse
 stocks:
 - CPPLUS
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
-- cpplus
+- listing
 title: Listing of Equity Shares of Aditya Infotech Limited (IPO)
 ---
 

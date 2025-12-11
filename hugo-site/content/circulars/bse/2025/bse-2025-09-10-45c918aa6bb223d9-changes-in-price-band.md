@@ -38,10 +38,10 @@ stocks:
 - TOYAM
 - VAMA
 tags:
+- equity
 - price-band
-- trading-parameters
 - surveillance
-- equity-segment
+- trading-operations
 title: Price Band Revisions for 13 Scrips Effective September 11, 2025
 ---
 

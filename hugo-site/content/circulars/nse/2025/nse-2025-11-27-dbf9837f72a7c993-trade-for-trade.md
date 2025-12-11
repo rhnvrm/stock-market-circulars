@@ -57,11 +57,10 @@ stocks:
 - SECURKLOUD
 - JETAIRWAYS
 tags:
-- trade-for-trade
-- surveillance
 - price-band
-- segment-change
-- market-surveillance
+- segment-transfer
+- surveillance
+- trade-for-trade
 title: Trade for Trade Segment - Securities Movement and Surveillance Measures
 ---
 

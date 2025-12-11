@@ -28,11 +28,10 @@ stocks:
 - HFCL
 - JINDWORLD
 tags:
-- clarifications
-- price-movement
-- volume-movement
-- surveillance
+- clarification
 - disclosure
+- price-movement
+- surveillance
 title: Clarifications received from the companies regarding price and volume movements
 ---
 

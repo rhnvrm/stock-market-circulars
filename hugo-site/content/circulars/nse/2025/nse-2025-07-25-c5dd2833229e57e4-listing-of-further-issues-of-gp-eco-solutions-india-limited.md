@@ -25,12 +25,11 @@ source: nse
 stocks:
 - GPECO
 tags:
+- emerge-platform
+- equity
+- further-issue
 - listing
-- equity-shares
-- sme-emerge
-- preferential-allotment
-- GPECO
-- further-issues
+- preferential-issue
 title: GP Eco Solutions India Limited - Listing of Further Issues on SME EMERGE Platform
 ---
 

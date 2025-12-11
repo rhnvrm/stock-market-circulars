@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PREMIER
 tags:
-- takeover
-- settlement
-- acquisition
 - demat-shares
 - early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - Premier Capital Services Limited
 ---
 

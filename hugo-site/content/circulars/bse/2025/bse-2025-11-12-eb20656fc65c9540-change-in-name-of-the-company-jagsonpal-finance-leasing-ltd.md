@@ -27,11 +27,11 @@ source: bse
 stocks:
 - JAGSNPHARM
 tags:
-- name-change
+- certificate
 - corporate-action
-- certificate-of-incorporation
 - jagsonpal
 - mca
+- name-change
 title: Change in Name of the Company - Jagsonpal Finance & Leasing Ltd to Jagsonpal
   Services Limited
 ---

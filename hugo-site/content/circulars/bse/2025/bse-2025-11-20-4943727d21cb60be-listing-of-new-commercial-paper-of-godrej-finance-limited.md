@@ -28,10 +28,8 @@ stocks:
 - GODREJFIN
 tags:
 - commercial-paper
-- debt-listing
-- godrej-finance
+- debt-securities
 - private-placement
-- debt-segment
 title: Listing of new Commercial Paper of Godrej Finance Limited
 ---
 

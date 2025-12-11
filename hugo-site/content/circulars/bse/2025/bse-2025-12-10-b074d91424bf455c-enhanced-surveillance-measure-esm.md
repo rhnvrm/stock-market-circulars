@@ -34,12 +34,10 @@ stocks:
 - CONTICON
 - ROTOGRAPH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - investor-protection
+- surveillance
 - trade-for-trade
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective December
   11, 2025
 ---

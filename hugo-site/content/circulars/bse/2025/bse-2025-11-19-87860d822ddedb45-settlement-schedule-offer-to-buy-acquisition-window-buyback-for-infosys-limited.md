@@ -27,10 +27,10 @@ stocks:
 - INFY
 tags:
 - buyback
-- settlement-schedule
-- acquisition-window
+- demat
 - early-pay-in
-- demat-delivery
+- otb
+- settlement
 title: Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for INFOSYS
   LIMITED
 ---

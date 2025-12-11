@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
 - aditya-birla-sun-life
-- investment-restriction
-- medium-term-plan
 - credit-risk-fund
+- medium-term-plan
+- mutual-fund
+- overseas-investment
+- subscription-limit
 title: Revoke of Maximum Subscription Limit for Aditya Birla Sun Life Mutual Fund
   Schemes
 ---

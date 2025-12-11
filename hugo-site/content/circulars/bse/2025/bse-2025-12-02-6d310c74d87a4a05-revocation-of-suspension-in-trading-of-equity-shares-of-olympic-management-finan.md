@@ -27,10 +27,10 @@ source: bse
 stocks:
 - OLYMPICMGT
 tags:
-- trading
-- suspension-revocation
-- equity-shares
+- equity
 - olympic-management
+- release
+- trading
 title: Revocation of Suspension in Trading of Equity Shares of Olympic Management
   & Financial Services Ltd
 ---

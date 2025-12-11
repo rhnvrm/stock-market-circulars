@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- release-order
-- enforcement
 - bse
+- enforcement
 - iso
+- regulatory
+- release
 - stock-options
 - vs-shah
-- regulatory-action
 title: Release Order dated 24.10.2025 issued under RC No. 8257 of 2024 drawn against
   VS Shah in the matter of ISO at BSE
 ---

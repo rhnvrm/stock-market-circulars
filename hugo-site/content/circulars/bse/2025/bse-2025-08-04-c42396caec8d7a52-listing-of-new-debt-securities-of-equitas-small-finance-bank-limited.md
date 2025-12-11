@@ -26,10 +26,10 @@ stocks:
 - EQUITAS
 tags:
 - debt-securities
+- demat
+- equitas-small-finance-bank
 - listing
 - private-placement
-- equitas-small-finance-bank
-- dematerialised-trading
 title: Listing of new debt securities of Equitas Small Finance Bank Limited
 ---
 

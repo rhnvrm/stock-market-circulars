@@ -26,12 +26,11 @@ source: bse
 stocks:
 - NIS
 tags:
-- trading-segment-change
-- sme
+- asm-stage
 - nis-management
 - rolling-segment
-- mt-group
-- m-group
+- sme
+- trading-segment-change
 title: NIS Management Limited to Move from Trade for Trade to Rolling Segment
 ---
 

@@ -31,11 +31,11 @@ stocks:
 - UTFDAIPIGI
 - UTFDAIPIPI
 tags:
-- trading-suspension
-- mutual-funds
-- interval-scheme
-- UTI
 - capital-market
+- interval-scheme
+- mutual-fund
+- suspension
+- uti
 title: Suspension of trading in UTI Annual Interval Fund units due to interval scheme
 ---
 

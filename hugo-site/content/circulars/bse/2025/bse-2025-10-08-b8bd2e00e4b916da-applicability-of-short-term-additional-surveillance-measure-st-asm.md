@@ -28,19 +28,18 @@ stocks:
 - FUTURISTICSOL
 - INDBANK
 - INDRAMEDICAL
-- ORBITEXPORTS
-- RAJNISHRETAIL
-- TRANSGLOBEFOODS
+- ORBTEXP
+- RRETAIL
+- TRANSFD
 - CONSOLIDATEDCONST
 - DHANVANTRI
 - SUJALATRADING
-- TIRUPATIFOAM
+- TIRUFOAM
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-safety
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

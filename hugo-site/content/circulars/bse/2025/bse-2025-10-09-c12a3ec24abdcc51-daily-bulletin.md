@@ -29,18 +29,18 @@ stocks:
 - APTUS
 - ARMANFIN
 - CONCOR
-- '543619'
+- CNCRD
 tags:
-- daily-bulletin
+- bonus
 - book-closure
-- record-date
-- dividend
-- ncd-redemption
-- interest-payment
-- corporate-actions
 - commercial-paper
-- bonus-issue
+- corporate-action
+- daily-bulletin
+- dividend
+- interest-payment
 - invit-distribution
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates, and Corporate Actions
 ---
 

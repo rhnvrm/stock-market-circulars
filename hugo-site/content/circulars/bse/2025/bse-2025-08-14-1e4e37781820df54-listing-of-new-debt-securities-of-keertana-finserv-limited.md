@@ -28,7 +28,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- keertana-finserv
 title: Listing of new debt securities of Keertana Finserv Limited
 ---
 

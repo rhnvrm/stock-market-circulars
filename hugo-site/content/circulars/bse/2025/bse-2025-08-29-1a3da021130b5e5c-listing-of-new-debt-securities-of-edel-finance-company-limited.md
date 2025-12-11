@@ -25,11 +25,11 @@ source: bse
 stocks:
 - EDEL
 tags:
+- bond
 - debt-securities
+- edel-finance
 - listing
 - private-placement
-- edel-finance
-- bonds
 title: Listing of new debt securities of Edel Finance Company Limited
 ---
 

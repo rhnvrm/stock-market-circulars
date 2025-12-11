@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-securities
-- listing
-- krazybee-services
-- private-placement
-- non-convertible-debentures
 - care-rating
+- debt-securities
+- krazybee-services
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Krazybee Services Ltd
 ---
 

@@ -27,10 +27,9 @@ stocks:
 - BAJAJCONS
 tags:
 - buyback
-- tender-offer
+- corporate-action
 - record-date
-- corporate-actions
-- bajaj-consumer-care
+- tender-offer
 title: Tender Offer (Buyback) of Equity Shares of Bajaj Consumer Care Limited - Record
   Date Fixed
 ---

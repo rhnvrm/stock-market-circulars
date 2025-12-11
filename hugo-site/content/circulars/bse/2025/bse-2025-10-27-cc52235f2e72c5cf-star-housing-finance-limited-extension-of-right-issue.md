@@ -28,12 +28,11 @@ source: bse
 stocks:
 - STARHFL
 tags:
-- rights-issue
-- extension
 - capital-raising
 - equity
+- extension
 - renunciation
-- STARHFL
+- rights-issue
 title: Star Housing Finance Limited - Extension of Right Issue Closing Date
 ---
 

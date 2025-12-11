@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ECLF
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - ecl-finance
 - interest-payment
+- ncd
 - redemption
+- suspension
 title: Suspension of Trading in Debentures of ECL Finance Limited
 ---
 

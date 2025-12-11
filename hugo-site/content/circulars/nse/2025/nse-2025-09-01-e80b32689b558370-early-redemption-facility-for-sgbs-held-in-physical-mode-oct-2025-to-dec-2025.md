@@ -25,12 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- sgb
-- sovereign-gold-bonds
-- early-redemption
-- physical-mode
 - gold
 - investment
+- physical-mode
+- redemption
+- sgb
 title: Early redemption facility for SGBs held in Physical Mode - Oct 2025 to Dec
   2025
 ---

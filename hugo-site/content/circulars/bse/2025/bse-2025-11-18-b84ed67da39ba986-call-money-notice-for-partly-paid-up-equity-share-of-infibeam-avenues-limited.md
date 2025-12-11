@@ -29,11 +29,11 @@ stocks:
 - INFIBEAM
 tags:
 - call-money
-- partly-paid-shares
-- IBBS
-- rights-issue
 - capital-raising
 - equity
+- partly-paid
+- rights-issue
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of Infibeam Avenues Limited
 ---
 

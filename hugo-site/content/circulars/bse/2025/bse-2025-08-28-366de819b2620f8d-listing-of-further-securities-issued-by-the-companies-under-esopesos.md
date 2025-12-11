@@ -29,7 +29,7 @@ stocks:
 - FEDFIN
 - HCC
 - IPRU
-- INDEGENE
+- INDGN
 - INDOSTAR
 - MARICO
 - MOTILALOSL
@@ -39,11 +39,9 @@ stocks:
 - VISHALRT
 - WIPRO
 tags:
+- equity
 - esop
-- esos
 - listing
-- equity-shares
-- employee-stock-options
 - new-securities
 title: Listing of Further Securities Under ESOP/ESOS - 13 Companies
 ---

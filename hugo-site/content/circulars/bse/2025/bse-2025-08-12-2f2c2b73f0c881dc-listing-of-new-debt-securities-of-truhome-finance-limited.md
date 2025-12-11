@@ -26,10 +26,10 @@ stocks:
 - TRUHOME
 tags:
 - debt-securities
+- fixed-income
 - listing
 - private-placement
 - truhome-finance
-- fixed-income
 title: Listing of new debt securities of Truhome Finance Limited
 ---
 

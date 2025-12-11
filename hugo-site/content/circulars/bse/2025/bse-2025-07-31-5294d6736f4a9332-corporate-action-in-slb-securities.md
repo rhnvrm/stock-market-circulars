@@ -47,12 +47,11 @@ stocks:
 - TFCILTD
 - HYUNDAI
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- slb-securities
-- ex-date
 - record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend and Bonus Issue Notifications
 ---
 

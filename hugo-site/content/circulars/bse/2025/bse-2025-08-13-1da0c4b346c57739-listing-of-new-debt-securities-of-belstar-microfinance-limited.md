@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BELSTAR
 tags:
-- debt-securities
-- private-placement
 - belstar-microfinance
+- debt-securities
 - listing
-- debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Belstar Microfinance Limited
 ---
 

@@ -26,13 +26,13 @@ source: bse
 stocks:
 - APCRDA
 tags:
-- trading-suspension
-- bonds
-- debt-market
-- record-date
+- bond
+- corporate-action
+- debt-securities
 - interest-payment
+- record-date
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Bonds of Andhra Pradesh Capital Region Development
   Authority
 ---

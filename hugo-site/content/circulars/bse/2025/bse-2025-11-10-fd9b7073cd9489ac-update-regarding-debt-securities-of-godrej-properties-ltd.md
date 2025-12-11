@@ -29,12 +29,11 @@ source: bse
 stocks:
 - GODREJPROP
 tags:
-- debt-securities
-- non-convertible-debentures
-- trust-deed-amendment
 - covenant-changes
-- godrej-properties
 - debenture-trustee
+- debt-securities
+- ncd
+- trust-deed-amendment
 title: Update Regarding Debt Securities of Godrej Properties Ltd
 ---
 

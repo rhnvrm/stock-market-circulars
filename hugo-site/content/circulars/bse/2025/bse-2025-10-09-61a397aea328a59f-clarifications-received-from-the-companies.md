@@ -28,13 +28,12 @@ stocks:
 - GRAPHITE
 - INDRAPRASTHA
 tags:
-- price-movement
-- volume-increase
 - clarification
-- surveillance
-- regulation-30
 - lodr
-- market-driven
+- market-operations
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from the companies
 ---
 

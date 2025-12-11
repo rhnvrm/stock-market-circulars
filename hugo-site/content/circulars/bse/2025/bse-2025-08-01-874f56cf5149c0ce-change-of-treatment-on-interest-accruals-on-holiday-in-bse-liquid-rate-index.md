@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index
-- methodology-change
-- interest-accrual
 - bse-liquid-rate-index
-- debt-segment
+- debt-securities
+- index-fund
+- interest-accrual
+- methodology-change
 title: BSE Liquid Rate Index Interest Accrual Methodology Change
 ---
 

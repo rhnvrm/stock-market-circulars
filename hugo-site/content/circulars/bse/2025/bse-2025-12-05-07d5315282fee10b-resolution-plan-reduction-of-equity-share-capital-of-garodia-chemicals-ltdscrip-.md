@@ -28,14 +28,14 @@ source: bse
 stocks:
 - GARODIA
 tags:
-- corporate-action
 - capital-reduction
-- nclt-order
-- share-extinguishment
-- promoter-shares
-- public-shareholders
-- trading-suspension
+- corporate-action
+- nclt
+- promoter
 - restructuring
+- share-extinguishment
+- shareholding-pattern
+- suspension
 title: Resolution Plan - Reduction of Equity Share Capital of Garodia Chemicals Ltd
 ---
 

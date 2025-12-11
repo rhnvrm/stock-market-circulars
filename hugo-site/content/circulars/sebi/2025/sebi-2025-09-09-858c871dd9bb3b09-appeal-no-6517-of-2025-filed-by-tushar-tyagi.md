@@ -25,11 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl-refund
+- appeal
 - investor-protection
-- right-to-information
-- appellate-authority
+- pacl-refund
+- rti
 title: RTI Appeal No. 6517 of 2025 by Tushar Tyagi - PACL Refund Information Request
   Dismissed
 ---

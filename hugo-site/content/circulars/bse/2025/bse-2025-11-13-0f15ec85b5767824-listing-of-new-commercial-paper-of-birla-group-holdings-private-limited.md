@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- birla-group-holdings
 - axis-bank
+- birla-group-holdings
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of New Commercial Paper of Birla Group Holdings Private Limited
 ---
 

@@ -26,13 +26,12 @@ source: bse
 stocks:
 - NEEPCO
 tags:
-- bonds
-- suspension
-- redemption
+- bond
+- debt-securities
 - interest-payment
 - record-date
-- debt-segment
-- NEEPCO
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of NORTH EASTERN ELECTRIC POWER CORPORATION
   LTD
 ---

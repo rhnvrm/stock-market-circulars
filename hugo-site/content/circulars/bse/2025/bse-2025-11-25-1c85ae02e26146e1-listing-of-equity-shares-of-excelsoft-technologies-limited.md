@@ -27,11 +27,9 @@ source: bse
 stocks:
 - EXCELSOFT
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
-- excelsoft-technologies
+- listing
 title: Listing of Equity Shares of Excelsoft Technologies Limited
 ---
 

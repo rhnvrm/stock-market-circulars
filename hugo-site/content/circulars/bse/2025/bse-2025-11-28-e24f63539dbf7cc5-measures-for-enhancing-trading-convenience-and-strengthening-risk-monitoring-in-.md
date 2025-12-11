@@ -26,14 +26,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- ban-period
+- clearing
 - derivatives
+- position-reporting
 - risk-management
 - settlement
-- clearing
-- stock-options
 - stock-futures
-- position-reporting
-- ban-period
+- stock-options
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - NACL
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- debt-securities
 - interest-payment
-- record-date
-- debt-segment
+- ncd
 - northern-arc-capital
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Northern Arc Capital Ltd.
 ---
 

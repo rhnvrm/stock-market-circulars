@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- fof
-- groww
 - bse-power
+- etf
+- fund-of-funds
+- groww
+- mutual-fund
 - ongoing-transactions
 - sip
 - stp

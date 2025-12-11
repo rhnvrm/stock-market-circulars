@@ -26,14 +26,11 @@ source: bse
 stocks:
 - SBECSUG
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
 - equity
-- trading
+- otb
 - sbec-sugar
-- sbecsug
+- takeover
+- trading
 title: Offer to Buy – Acquisition Window (Takeover) for SBEC SUGAR LTD - Live Activities
   Schedule
 ---

@@ -49,14 +49,14 @@ stocks:
 - AUBANK
 - BLACKBUCK
 - COFORGE
-- MAXINDIA
+- MAXIND
 - IRBINVIT
 tags:
-- listing
-- equity-shares
-- esop
-- securities-admission
 - capital-market
+- equity
+- esop
+- listing
+- securities-admission
 title: Listing of Further Issues of Securities - 25 Companies
 ---
 

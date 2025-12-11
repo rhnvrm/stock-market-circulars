@@ -26,14 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
-- slb
-- securities-lending-borrowing
+- collateral
+- master-file-update
 - name-change
+- slb
 - tata-motors
 - trading
-- master-file-update
 title: Change in Underlying Asset Name in SLB Segment - Tata Motors
 ---
 

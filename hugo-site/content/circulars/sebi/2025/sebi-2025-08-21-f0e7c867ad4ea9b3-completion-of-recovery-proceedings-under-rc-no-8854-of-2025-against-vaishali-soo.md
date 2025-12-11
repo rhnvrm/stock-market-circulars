@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-proceedings
-- enforcement
-- penalty-collection
-- family-care-hospitals
 - compliance
+- enforcement
+- penalty
+- recovery
 title: Completion of Recovery Proceedings under RC No. 8854 of 2025 against Vaishali
   Sood Sharma in the matter of Family Care Hospitals Limited
 ---

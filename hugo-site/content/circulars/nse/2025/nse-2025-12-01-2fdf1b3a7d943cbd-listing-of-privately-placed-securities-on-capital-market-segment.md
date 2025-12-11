@@ -31,12 +31,12 @@ stocks:
 - MUTHOOTFIN
 - ICICIPRULI
 tags:
-- listing
-- debt-securities
-- privately-placed
+- bond
 - capital-market
-- debentures
-- bonds
+- debt-securities
+- listing
+- ncd
+- privately-placed
 title: Listing of Privately Placed Securities on Capital Market Segment
 ---
 

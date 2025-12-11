@@ -25,11 +25,11 @@ source: nse
 stocks:
 - ELM250
 tags:
+- edelweiss
 - etf
 - listing
-- edelweiss
-- nifty-largemidcap-250
 - mutual-fund
+- nifty-largemidcap-250
 title: Listing of Edelweiss Nifty LargeMidcap 250 ETF Units
 ---
 

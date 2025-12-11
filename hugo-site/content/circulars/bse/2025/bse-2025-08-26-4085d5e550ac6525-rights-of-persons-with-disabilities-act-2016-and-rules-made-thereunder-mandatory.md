@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- disability-rights
 - compliance
-- research-analysts
-- sebi-circular
+- digital-accessibility
 - mandatory-submission
+- research-analyst
+- sebi
 title: Rights of Persons with Disabilities Act 2016 - Mandatory Compliance Confirmation
   Required by August 31, 2025
 ---

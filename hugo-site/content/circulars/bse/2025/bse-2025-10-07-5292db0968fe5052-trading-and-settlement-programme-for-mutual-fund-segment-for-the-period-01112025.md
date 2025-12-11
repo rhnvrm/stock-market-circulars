@@ -28,9 +28,8 @@ stocks: []
 tags:
 - mutual-fund
 - settlement
-- trading-programme
-- bse-star-mf
 - settlement-calendar
+- trading-operations
 title: Trading and Settlement Programme for Mutual Fund Segment - November 2025
 ---
 

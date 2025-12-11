@@ -26,12 +26,12 @@ source: bse
 stocks:
 - GANGOTRI
 tags:
-- trading-suspension
+- asm-stage
+- lodr
 - non-compliance
-- sebi-lodr
-- weekly-trading
-- z-group
+- suspension
 - trade-for-trade
+- trading-session
 title: Discontinuation of Weekly Trading for Gangotri Textiles Limited Due to Non-Compliance
 ---
 

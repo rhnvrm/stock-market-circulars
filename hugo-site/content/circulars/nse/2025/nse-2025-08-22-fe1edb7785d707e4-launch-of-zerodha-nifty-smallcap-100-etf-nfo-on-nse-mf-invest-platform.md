@@ -25,11 +25,11 @@ source: nse
 stocks: []
 tags:
 - etf
-- nfo
-- smallcap
 - mutual-fund
-- zerodha
+- nfo
 - nifty
+- smallcap
+- zerodha
 title: Launch of Zerodha Nifty Smallcap 100 ETF NFO on NSE MF Invest Platform
 ---
 

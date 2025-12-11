@@ -27,12 +27,12 @@ stocks:
 - GALLANTT
 - STUDDS
 tags:
-- volume-spike
-- surveillance
 - clarification
-- price-movement
-- market-driven
 - disclosure
+- market-operations
+- price-movement
+- surveillance
+- volume-spike
 title: Clarifications received from the companies
 ---
 

@@ -27,12 +27,11 @@ source: nse
 stocks:
 - BAGDIGITAL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- surveillance-segment
 title: Listing of Equity Shares of B.A.G. Convergence Limited (SME IPO)
 ---
 

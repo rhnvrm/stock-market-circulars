@@ -32,11 +32,11 @@ stocks:
 - SYNTHIKO
 - TRUECOLOR
 tags:
-- price-band
-- surveillance
-- trading-parameters
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Changes in Price Band for Six Securities
 ---
 

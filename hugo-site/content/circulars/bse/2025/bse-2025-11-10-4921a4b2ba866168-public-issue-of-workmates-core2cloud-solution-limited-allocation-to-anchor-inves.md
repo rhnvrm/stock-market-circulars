@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WORKMATES
 tags:
-- public-issue
-- anchor-investors
+- anchor-investor
 - ipo
 - listing
-- workmates-core2cloud
+- public-issue
 title: Public Issue of WORKMATES CORE2CLOUD SOLUTION LIMITED - Allocation to Anchor
   Investors
 ---

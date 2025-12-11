@@ -27,13 +27,12 @@ stocks:
 - MONIFTY100
 - MOENERGY
 tags:
+- capital-market
 - etf
 - listing
 - motilal-oswal
-- nifty-100
-- nifty-energy
 - mutual-fund
-- capital-market
+- nifty-energy
 title: Listing of Motilal Oswal Nifty 100 ETF and Motilal Oswal Nifty Energy ETF
 ---
 

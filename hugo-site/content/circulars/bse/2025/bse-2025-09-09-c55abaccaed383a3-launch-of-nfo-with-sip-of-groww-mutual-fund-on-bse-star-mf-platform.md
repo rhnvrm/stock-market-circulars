@@ -25,13 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- equity
+- groww
+- multi-asset
 - mutual-fund
 - nfo
 - sip
-- groww
-- bse-star-mf
-- equity-fund
-- multi-asset
 title: Launch of NFO with SIP of GROWW Mutual Fund on BSE StAR MF Platform
 ---
 

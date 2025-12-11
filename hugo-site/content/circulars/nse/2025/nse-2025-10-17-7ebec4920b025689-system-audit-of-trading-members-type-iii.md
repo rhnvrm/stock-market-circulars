@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- system-audit
-- compliance
-- trading-members
-- empaneled-auditors
-- algorithmic-trading
-- inspection
-- geo-location-tracking
+- algo-trading
 - audit-plan
+- compliance
+- empaneled-auditors
+- geo-location-tracking
+- investigation
+- system-audit
+- trading-member
 title: System Audit of Trading Members (Type-III) for Half Year Ending September 2025
 ---
 

@@ -28,7 +28,7 @@ stocks:
 - RJIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - reliance-jio
 - short-term-debt

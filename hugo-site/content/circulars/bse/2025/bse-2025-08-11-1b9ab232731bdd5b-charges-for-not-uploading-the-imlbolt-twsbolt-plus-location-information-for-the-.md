@@ -26,13 +26,12 @@ source: bse
 stocks: []
 tags:
 - charges
-- terminal-registration
-- location-information
 - compliance
-- trading-members
 - iml
-- bolt-tws
-- bolt-plus
+- location-information
+- registration
+- trading-member
+- trading-platform
 title: Charges for Not Uploading IML/BOLT TWS/BOLT PLUS Location Information - July
   2025
 ---

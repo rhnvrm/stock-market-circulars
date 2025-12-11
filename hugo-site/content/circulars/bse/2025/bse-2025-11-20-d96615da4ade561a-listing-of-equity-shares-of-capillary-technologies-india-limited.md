@@ -27,12 +27,10 @@ source: bse
 stocks:
 - CAPILLARY
 tags:
+- equity
 - listing
+- regulation-31
 - shareholding-pattern
-- new-listing
-- equity-shares
-- capillary-technologies
-- reg-31
 title: Listing of Equity Shares of Capillary Technologies India Limited
 ---
 

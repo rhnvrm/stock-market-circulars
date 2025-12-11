@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- kotak-mf
+- equity
 - gold-silver-fof
-- bse-star-mf
-- fund-reopening
-- equity-fund
+- kotak-mf
+- mutual-fund
+- reopening
 title: KOTAK GOLD SILVER PASSIVE FOF Reopening for Ongoing Transactions on BSE StAR
   MF Platform
 ---

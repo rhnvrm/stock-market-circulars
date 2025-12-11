@@ -68,13 +68,13 @@ stocks:
 - SHRIRAMFIN
 tags:
 - collateral
-- margins
-- approved-securities
-- liquid-assets
-- futures-and-options
-- risk-management
+- empanelment
+- futures-options
 - haircut
-- VAR
+- liquid-fund
+- margins
+- risk-management
+- var
 title: Revised List of Approved Securities and Banks for Collateral
 ---
 

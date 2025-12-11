@@ -26,14 +26,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- investment-adviser
-- enforcement-action
-- regulatory-violation
+- code-of-conduct
 - confidentiality-breach
+- enforcement
 - gst-violation
 - intermediaries-regulations
+- investment-adviser
+- non-compliance
 - pfutp
-- code-of-conduct
 title: Order in the matter of Podium Market Research - Proprietor Mr. Suman Kumar
 ---
 

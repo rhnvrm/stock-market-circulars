@@ -27,13 +27,13 @@ stocks:
 - IDEA
 - SHREECEM
 tags:
+- cement
 - clarification
+- disclosure
 - news-articles
 - price-movement
-- disclosure
 - regulation-30
 - telecom
-- cement
 title: Clarifications received from the companies on news articles
 ---
 

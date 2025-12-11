@@ -44,11 +44,11 @@ stocks:
 - TATATEL
 - TEXRAIL
 tags:
-- demat-auction
-- settlement
 - auction
-- trading
+- demat
 - market-operations
+- settlement
+- trading
 title: Demat Auction - Settlement No. 757
 ---
 

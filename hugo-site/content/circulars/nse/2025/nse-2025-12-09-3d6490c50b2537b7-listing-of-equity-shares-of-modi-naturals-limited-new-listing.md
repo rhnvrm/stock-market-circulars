@@ -28,12 +28,12 @@ source: nse
 stocks:
 - MODINATUR
 tags:
-- new-listing
-- equity-shares
 - capital-market
-- trading-admission
 - demat-compulsory
+- equity
+- listing
 - lock-in
+- trading-admission
 title: Listing of Equity Shares of Modi Naturals Limited (New Listing)
 ---
 

@@ -27,7 +27,7 @@ stocks:
 - SEILEI
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - seil-energy
 - short-term-debt

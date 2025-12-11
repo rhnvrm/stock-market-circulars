@@ -34,12 +34,11 @@ stocks:
 - SAAKSHI
 - TECILCHEM
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirement
-- trade-for-trade
-- surveillance-measure
+- asm-stage
+- margin
 - price-band
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

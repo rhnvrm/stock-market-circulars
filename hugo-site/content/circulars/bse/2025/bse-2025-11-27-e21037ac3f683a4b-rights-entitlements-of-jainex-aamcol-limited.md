@@ -26,12 +26,11 @@ source: bse
 stocks:
 - JAINEX
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
 - equity
-- trading
+- renunciation
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements of JAINEX AAMCOL LIMITED
 ---
 

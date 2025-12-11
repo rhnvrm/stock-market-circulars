@@ -26,11 +26,10 @@ source: nse
 stocks:
 - SIDBI
 tags:
-- debt-market
+- debt-securities
 - ncd
-- suspension
 - redemption
-- sidbi
+- suspension
 - trading-halt
 title: Suspension of Trading in Non-Convertible Debenture of Small Industries Development
   Bank of India

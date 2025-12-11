@@ -32,11 +32,10 @@ stocks:
 - FILTRON
 - OMNIAXS
 tags:
-- surveillance
-- asm
-- long-term
-- trading-restrictions
 - compliance
+- long-term
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

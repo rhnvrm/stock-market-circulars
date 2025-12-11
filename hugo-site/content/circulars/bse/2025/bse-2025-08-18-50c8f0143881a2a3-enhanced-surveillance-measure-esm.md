@@ -33,11 +33,10 @@ stocks:
 - UMAEXPORTS
 - UNIVOFFICE
 tags:
-- enhanced-surveillance
-- ESM
-- trading-restrictions
-- surveillance-measures
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Moving In/Out
   and Stage Changes
 ---

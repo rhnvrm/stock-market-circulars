@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- administrative
 - iefs
-- name-change
 - member-services
+- name-change
 - online-platform
-- procedural
 title: Online platform for submission of Change in Name requests through IEFS
 ---
 

@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SYRMA
 tags:
+- equity
 - listing
-- equity-shares
-- qip
-- qualified-institutional-placement
 - new-securities
+- qip
 title: Listing of New Securities of Syrma SGS Technology Limited - QIP Allotment
 ---
 

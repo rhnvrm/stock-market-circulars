@@ -30,13 +30,8 @@ stocks:
 - SILVEROAK
 - KIRANPRINT
 tags:
-- gsm
-- graded-surveillance-measure
+- asm-stage
 - surveillance
-- stage-movement
-- photon-capital
-- silveroak-commercials
-- kiran-print-pack
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

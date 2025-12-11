@@ -27,11 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- name-change
-- corporate-action
-- certificate-of-incorporation
-- ministry-of-corporate-affairs
+- certificate
 - company-limited-by-shares
+- corporate-action
+- ministry-of-corporate-affairs
+- name-change
 title: 'Change in Name: SAI SWAMI METALS AND ALLOYS LIMITED to DOLPHIN KITCHEN UTENSILS
   AND APPLIANCES LIMITED'
 ---

@@ -26,14 +26,13 @@ source: bse
 stocks: []
 tags:
 - derivatives
-- risk-management
-- margin-requirements
-- pre-open-session
-- equity-derivatives
-- settlement
-- rms
-- sebi-circular
 - iccl
+- margin
+- pre-open-session
+- risk-management
+- rms
+- sebi
+- settlement
 title: Measures for Enhancing Trading Convenience and Strengthening Risk Monitoring
   in Equity Derivatives
 ---

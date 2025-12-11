@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
-- debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- corporate-actions
+- ncd
+- redemption
 - varthana-finance
 title: Part Redemption of Debentures of Varthana Finance Private Limited
 ---

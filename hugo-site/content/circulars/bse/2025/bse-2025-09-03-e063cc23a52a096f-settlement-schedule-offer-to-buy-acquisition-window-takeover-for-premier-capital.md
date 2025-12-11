@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PREMIER
 tags:
-- takeover
-- settlement
-- acquisition-window
 - early-pay-in
+- otb
 - premier-capital
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - Premier Capital Services Limited
 ---
 

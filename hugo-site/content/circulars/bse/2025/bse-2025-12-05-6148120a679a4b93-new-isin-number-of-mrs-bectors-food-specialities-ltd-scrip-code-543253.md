@@ -28,11 +28,10 @@ source: bse
 stocks:
 - MRSBECTORS
 tags:
-- isin-change
-- share-sub-division
 - corporate-action
-- mrs-bectors
-- equity-shares
+- equity
+- isin
+- share-sub-division
 title: New ISIN Number for MRS. BECTORS FOOD SPECIALITIES LTD - Share Sub-Division
 ---
 

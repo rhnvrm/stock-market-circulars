@@ -28,13 +28,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- networth-certificate
-- compliance
-- clearing-members
-- trading-members
-- regulatory-filing
-- half-yearly-requirement
 - capital-adequacy
+- certificate
+- clearing-members
+- compliance
+- half-yearly-requirement
+- regulatory-filing
+- trading-member
 title: Submission of Half Yearly Networth Certificate as on September 30, 2025
 ---
 

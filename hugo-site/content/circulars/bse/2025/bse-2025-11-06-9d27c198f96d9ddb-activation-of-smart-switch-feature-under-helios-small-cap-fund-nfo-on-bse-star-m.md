@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- helios-mutual-fund
+- investment-platform
+- mutual-fund
 - nfo
 - smart-switch
-- helios-mutual-fund
-- bse-star-mf
-- investment-platform
 title: Activation of SMART Switch Feature under HELIOS SMALL CAP FUND – NFO on BSE
   StAR MF platform
 ---

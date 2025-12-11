@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PCBL
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-allocation
 - lock-in
+- preferential-issue
+- promoter-allocation
 title: Listing of New Securities of PCBL Chemical Limited
 ---
 

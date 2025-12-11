@@ -27,15 +27,15 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
 - helios-mutual-fund
-- small-cap-fund
+- mutual-fund
+- redemption
 - sip
+- small-cap-fund
 - stp
+- subscription
 - swp
-- subscriptions
-- redemptions
-- nse-mf-invest
+- trading-platform
 title: Availability of Helios Small Cap Fund for Ongoing Transactions on NSE MF Invest
   Platform
 ---

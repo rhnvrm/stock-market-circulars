@@ -36,10 +36,10 @@ stocks:
 - OCTAWARE
 - VANICOM
 tags:
-- price-band
-- trading-parameters
-- surveillance-measure
+- asm-stage
 - equity
+- price-band
+- trading-operations
 title: Changes in Price Band for 10 Securities
 ---
 

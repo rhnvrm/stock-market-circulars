@@ -26,12 +26,10 @@ source: nse
 stocks:
 - HINDNATGLS
 tags:
-- trading-suspension
 - delisting
 - insolvency
-- ibc
 - nclt
-- HINDNATGLS
+- suspension
 title: Suspension of Trading - Hindusthan National Glass & Industries Limited
 ---
 

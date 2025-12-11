@@ -27,10 +27,10 @@ source: bse
 stocks:
 - VINTCOFFEE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-allotment
 - lock-in
+- preferential-issue
 - vintage-coffee
 title: Listing of New Securities of Vintage Coffee and Beverages Limited
 ---

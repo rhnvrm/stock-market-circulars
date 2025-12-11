@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- certificate
-- illiquid-stock-options
-- enforcement
-- huf
 - ap-14862
 - ap-14863
+- certificate
+- enforcement
+- huf
+- illiquid-stock-options
 - rc8803
 title: SEBI Certificate No. RC8803 of 2025 - Puran Chand Poddar HUF - Illiquid Stock
   Options Case

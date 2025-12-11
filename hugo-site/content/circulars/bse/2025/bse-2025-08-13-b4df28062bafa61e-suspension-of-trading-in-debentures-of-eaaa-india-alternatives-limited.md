@@ -26,13 +26,13 @@ source: bse
 stocks:
 - EAAAL
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- redemption
 - suspension
 - trading
-- debt
-- corporate-actions
-- interest-payment
-- redemption
 title: Suspension of Trading in Debentures of EAAA INDIA ALTERNATIVES LIMITED
 ---
 

@@ -27,11 +27,11 @@ source: nse
 stocks:
 - ADVANCE
 tags:
-- trade-for-trade
-- segment-change
-- rolling-settlement
 - ipo
 - listing
+- rolling-segment
+- segment-transfer
+- trade-for-trade
 title: Trade for Trade Segment Exit - Advance Agrolife Limited Moves to Rolling Settlement
 ---
 

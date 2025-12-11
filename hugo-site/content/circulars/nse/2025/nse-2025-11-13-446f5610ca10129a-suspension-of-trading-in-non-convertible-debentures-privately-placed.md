@@ -29,11 +29,11 @@ stocks:
 - RECLTD
 - SAMMAAN
 tags:
-- non-convertible-debentures
-- trading-suspension
-- redemption
-- debt-market
+- debt-securities
+- ncd
 - privately-placed
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

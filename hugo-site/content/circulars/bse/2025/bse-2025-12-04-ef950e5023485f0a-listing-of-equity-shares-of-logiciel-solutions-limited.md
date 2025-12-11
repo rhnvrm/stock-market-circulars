@@ -26,11 +26,9 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
+- equity
 - listing
-- new-listing
 - sme
-- equity-shares
-- logiciel-solutions
 title: Listing of Equity Shares of LOGICIEL SOLUTIONS LIMITED
 ---
 

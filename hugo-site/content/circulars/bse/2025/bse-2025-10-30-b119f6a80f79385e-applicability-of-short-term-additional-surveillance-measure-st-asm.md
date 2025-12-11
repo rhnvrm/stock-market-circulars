@@ -49,14 +49,13 @@ stocks:
 - EPACK
 - ESSEX
 - FABTECH
-- GFL
+- GFLLIMITED
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
-- market-monitoring
+- asm-stage
+- market-operations
 - sme
-- stage-migration
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

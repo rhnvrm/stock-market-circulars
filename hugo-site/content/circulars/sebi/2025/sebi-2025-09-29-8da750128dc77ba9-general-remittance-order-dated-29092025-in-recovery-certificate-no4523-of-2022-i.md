@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
+- demand-notice
+- enforcement
 - investor-grievances
-- enforcement-action
-- remittance-order
 - nimbus-industries
+- recovery
 title: 'General Remittance Order dated 29.09.2025 in Recovery Certificate No.4523
   of 2022 issued against Nimbus Industries Limited (PAN: AAACN2708B) in the matter
   of Non-redressal of investor grievances'

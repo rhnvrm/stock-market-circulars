@@ -26,13 +26,13 @@ source: bse
 stocks:
 - AEQUS
 tags:
+- aif
+- anchor-investor
+- equity
+- esop
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- anchor-investors
-- esop
-- aif
 title: Listing of Equity Shares of Aequs Limited
 ---
 

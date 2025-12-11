@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - DHYANA
 tags:
-- recovery-certificate
 - compliance-completion
-- trading-investigation
-- enforcement
 - dhyana-finstock
+- enforcement
+- recovery
+- trading-investigation
 title: SEBI Compliance Completion Order for Recovery Certificate No. 7354 of 2023
   against Manisha Rajendra Modi
 ---

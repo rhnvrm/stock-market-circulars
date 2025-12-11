@@ -28,13 +28,11 @@ stocks:
 - BAJAJ-AUTO
 - GANESH
 tags:
-- volume-clarification
-- surveillance
-- price-sensitive-information
-- bajaj-auto
-- ganesh-housing
 - disclosure
-- listing-regulations
+- ganesh-housing
+- lodr
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

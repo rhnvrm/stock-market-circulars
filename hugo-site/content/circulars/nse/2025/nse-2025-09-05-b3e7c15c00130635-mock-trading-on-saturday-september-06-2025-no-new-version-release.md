@@ -25,11 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
 - capital-market
-- neat-plus
+- mock-trading
+- trading-platform
 - trading-session
-- system-testing
 title: Mock Trading Session on September 06, 2025 - No New Version Release
 ---
 

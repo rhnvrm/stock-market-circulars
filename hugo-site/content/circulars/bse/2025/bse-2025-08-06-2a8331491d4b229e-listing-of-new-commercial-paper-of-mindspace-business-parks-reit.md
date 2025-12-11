@@ -26,10 +26,9 @@ stocks:
 - MINDSPACE
 tags:
 - commercial-paper
-- debt-listing
-- reit
+- debt-securities
 - private-placement
-- mindspace
+- reit
 title: Listing of new Commercial Paper of Mindspace Business Parks REIT
 ---
 

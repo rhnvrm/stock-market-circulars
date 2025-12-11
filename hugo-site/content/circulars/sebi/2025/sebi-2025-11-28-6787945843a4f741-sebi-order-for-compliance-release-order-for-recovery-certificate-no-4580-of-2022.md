@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- release-order
-- sms-techsoft
 - compliance
+- enforcement
+- recovery
+- release
+- sms-techsoft
 title: SEBI Release Order - Recovery Certificate No. 4580 of 2022 against Karan Kirtibhai
   Shah, Keval Kirtikumar Shah, Alkaben Kirtibhai Shah & Kirtibhai Rasiklal Shah in
   SMS Techsoft (India) Ltd. Matter

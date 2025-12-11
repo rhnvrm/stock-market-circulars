@@ -29,13 +29,13 @@ stocks:
 - ENIFTY
 - ESENSEX
 tags:
+- bse-index
+- edelweiss
 - etf
 - listing
 - mutual-fund
-- edelweiss
-- nifty-50
-- bse-sensex
 - new-security
+- nifty-50
 title: Listing of Edelweiss Nifty 50 ETF and Edelweiss BSE Sensex ETF
 ---
 

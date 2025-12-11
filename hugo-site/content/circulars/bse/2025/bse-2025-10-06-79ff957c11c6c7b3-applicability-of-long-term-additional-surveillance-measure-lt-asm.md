@@ -37,10 +37,8 @@ stocks:
 - AXISCADES
 - SHRIKESH
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

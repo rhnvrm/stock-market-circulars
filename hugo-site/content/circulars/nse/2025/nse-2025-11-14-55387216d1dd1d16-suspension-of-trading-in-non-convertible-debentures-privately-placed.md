@@ -27,12 +27,11 @@ source: nse
 stocks:
 - IIFL
 tags:
-- suspension
-- non-convertible-debentures
-- debt-market
-- redemption
 - call-option
-- IIFL
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in IIFL Finance Limited Non-Convertible Debentures
 ---
 

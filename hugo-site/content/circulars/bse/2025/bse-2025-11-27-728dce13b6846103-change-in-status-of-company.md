@@ -26,12 +26,11 @@ source: bse
 stocks:
 - ERAINFRA
 tags:
-- status-change
 - delisting
-- suspension
-- nclt
 - moratorium
-- era-infra-engineering
+- nclt
+- status-change
+- suspension
 title: Change in Status of Era Infra Engineering Ltd from Delisted to Suspended
 ---
 

@@ -68,7 +68,7 @@ stocks:
 - HINDPETRO
 - INDIAGLYCO
 - INDIGRID
-- Ivalueinf
+- IVALUEINF
 - JBIL
 - JIOFIN
 - JOHNSONCNR
@@ -91,7 +91,7 @@ stocks:
 - NETWEB
 - NEWLIGHT
 - NILE
-- NIIT
+- NIITLTD
 - NITCO
 - ORIENTTECH
 - PARADEEP
@@ -112,7 +112,7 @@ stocks:
 - SBICARD
 - SESHAASAI
 - SFL
-- SINGERINDIA
+- SINGER
 - SUNTV
 - SUNDARMCL
 - TATAINVEST
@@ -132,10 +132,10 @@ stocks:
 - WELCURE
 - XELPMOC
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
 - market-operations
+- settlement
 title: Demat Auction - Settlement No. 728
 ---
 

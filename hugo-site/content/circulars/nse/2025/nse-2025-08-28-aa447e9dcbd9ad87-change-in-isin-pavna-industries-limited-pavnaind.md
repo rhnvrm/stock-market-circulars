@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PAVNAIND
 tags:
-- isin-change
-- sub-division
-- equity-shares
-- pavna-industries
+- equity
+- isin
 - listing
+- split
 title: Change in ISIN - Pavna Industries Limited (PAVNAIND)
 ---
 

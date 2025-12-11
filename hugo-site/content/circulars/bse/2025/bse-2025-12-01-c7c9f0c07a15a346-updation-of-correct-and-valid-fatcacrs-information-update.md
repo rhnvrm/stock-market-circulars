@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- fatca
-- crs
 - compliance
-- system-update
+- crs
+- fatca
+- mutual-fund
 - rta
-- bse-star-mf
+- system-update
 title: Revised FATCA/CRS Document ID Type Implementation Postponed to December 16,
   2025
 ---

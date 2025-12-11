@@ -29,10 +29,10 @@ stocks:
 - LT
 tags:
 - commercial-paper
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - 13 Companies
 ---
 

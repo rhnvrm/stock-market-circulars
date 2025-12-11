@@ -26,12 +26,11 @@ source: bse
 stocks:
 - KOSAMATTAM
 tags:
-- suspension
-- debentures
+- corporate-action
+- debt-securities
+- ncd
 - redemption
-- kosamattam-finance
-- corporate-actions
-- debt
+- suspension
 title: Suspension of Trading in Debentures of Kosamattam Finance Limited
 ---
 

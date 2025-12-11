@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- certificate
+- corporate-governance
+- intermediary
+- non-compliance
 - portfolio-manager
 - registration-cancellation
-- compliance-failure
-- intermediary-regulations
-- net-worth-certificate
-- corporate-governance
 title: Final Order in the matter of Amrapali Aadya Trading and Investment Private
   Limited
 ---

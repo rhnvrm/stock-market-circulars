@@ -28,13 +28,13 @@ stocks:
 - DECCAN
 - ECLERX
 tags:
-- slb
-- securities-lending-borrowing
-- corporate-action
-- right-issue
+- book-closure
 - buyback
+- collateral
+- corporate-action
 - record-date
-- shut-period
+- right-issue
+- slb
 title: Corporate Action in SLB Securities - Right Issue and Buyback
 ---
 

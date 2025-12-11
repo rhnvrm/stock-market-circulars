@@ -77,9 +77,7 @@ stocks:
 tags:
 - derivatives
 - position-limits
-- trading-limits
-- equity-derivatives
-- market-wide-limits
+- trading-operations
 title: Market Wide Position Limits for Equity Derivatives Segment - August 2025
 ---
 

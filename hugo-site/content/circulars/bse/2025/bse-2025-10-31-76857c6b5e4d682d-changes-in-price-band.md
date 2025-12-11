@@ -55,7 +55,7 @@ stocks:
 - INDLEASE
 - INDIANLNK
 - INDOBORAX
-- JAYUSHIN
+- JAYUSH
 - JAYANTINF
 - KAYA
 - KESAR
@@ -86,10 +86,10 @@ stocks:
 - TRUSTEDGE
 - YURANUS
 tags:
+- asm-stage
+- market-operations
 - price-band
 - trading-restrictions
-- surveillance-measure
-- market-operations
 title: Revision of Price Bands for 60 Securities Effective November 3, 2025
 ---
 

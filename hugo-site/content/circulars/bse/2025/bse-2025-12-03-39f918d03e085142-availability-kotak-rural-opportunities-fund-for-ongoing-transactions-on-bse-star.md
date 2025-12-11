@@ -27,15 +27,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - kotak-mutual-fund
-- bse-star-mf
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
 title: Availability KOTAK RURAL OPPORTUNITIES FUND for ongoing transactions on BSE
   StAR MF Platform
 ---

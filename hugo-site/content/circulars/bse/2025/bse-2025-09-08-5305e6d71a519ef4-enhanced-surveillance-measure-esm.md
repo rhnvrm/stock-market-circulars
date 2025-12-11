@@ -36,11 +36,9 @@ stocks:
 - PANTHER
 - SPICE
 tags:
-- enhanced-surveillance
-- esm
-- market-surveillance
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---
 

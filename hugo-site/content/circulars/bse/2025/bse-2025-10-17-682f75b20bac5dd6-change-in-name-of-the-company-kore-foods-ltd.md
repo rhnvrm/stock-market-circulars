@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KOREFOODS
 tags:
-- name-change
+- certificate
 - corporate-action
-- kore-foods
+- name-change
 - team24-consumer-products
-- certificate-of-incorporation
 title: Change in Name of the Company - Kore Foods Ltd to Team24 Consumer Products
   Limited
 ---

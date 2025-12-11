@@ -27,16 +27,15 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544446'
-- '538891'
-- '539767'
-- '505590'
-- '751058'
+- ADVENTHTL
+- MCLOUD
+- MNIL
+- SVPGLOB
 tags:
-- price-band
-- surveillance-measure
-- trading-restrictions
+- asm-stage
 - equity
+- price-band
+- trading-restrictions
 - volatility-control
 title: Changes in Price Band for Five Securities Effective November 27, 2025
 ---

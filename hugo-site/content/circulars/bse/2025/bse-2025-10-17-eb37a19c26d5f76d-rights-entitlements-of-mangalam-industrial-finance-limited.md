@@ -27,12 +27,11 @@ source: bse
 stocks:
 - MANGIN
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
+- corporate-action
 - equity
 - mangalam-industrial-finance
-- corporate-action
+- renunciation
+- rights-issue
 title: Rights Entitlements of MANGALAM INDUSTRIAL FINANCE LIMITED
 ---
 

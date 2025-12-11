@@ -39,11 +39,9 @@ stocks:
 - SURANAT&P
 - READYMIX
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
+- asm-stage
 - framework-update
-- stage-classification
+- surveillance
 title: Short-Term Additional Surveillance Measure (ST-ASM) Framework Updates - September
   2025
 ---

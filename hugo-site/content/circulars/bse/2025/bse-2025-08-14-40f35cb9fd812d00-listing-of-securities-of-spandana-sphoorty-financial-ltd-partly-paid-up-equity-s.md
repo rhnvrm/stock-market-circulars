@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SSFL
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - partly-paid
+- rights-issue
 - spandana-sphoorty
 title: Listing of Spandana Sphoorty Financial Ltd Partly Paid-up Equity Shares (Rights
   Issue)

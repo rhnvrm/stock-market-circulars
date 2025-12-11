@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-change
-- name-change
-- asset-allocation
 - aditya-birla
+- asset-allocation
 - consumption-fund
+- mutual-fund
+- name-change
+- scheme-change
 title: Change in Scheme Name of Aditya Birla Sun Life India GenNext Fund to Consumption
   Fund
 ---

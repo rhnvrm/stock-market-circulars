@@ -26,13 +26,13 @@ source: bse
 stocks:
 - PFSPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
+- ncd
 - pahal-financial-services
+- record-date
+- redemption
 title: Part Redemption of Debentures of PAHAL FINANCIAL SERVICES PRIVATE LIMITED
 ---
 

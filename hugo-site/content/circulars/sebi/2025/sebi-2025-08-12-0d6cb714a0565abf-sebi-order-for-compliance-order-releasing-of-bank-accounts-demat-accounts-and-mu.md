@@ -24,12 +24,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- compliance
-- recovery
 - bank-accounts
-- demat-accounts
-- mutual-funds
+- compliance
+- demat
 - enforcement
+- mutual-fund
+- recovery
 title: SEBI Compliance Order - Release of Bank Accounts, Demat Accounts and Mutual
   Fund Folios of Mr. Nemichand Kasturchand Jain
 ---

@@ -28,7 +28,7 @@ stocks:
 - EARTHSTAHL
 - GTTDATA
 - SUJALATRADING
-- AMBOAGRITEC
+- AMBOAGRI
 - MCLEODRUSS
 - SUNRAKSHAKK
 - INDOTHAI
@@ -36,11 +36,9 @@ stocks:
 - HILIKSTEC
 - SAHARAHOUSI
 tags:
+- asm-stage
 - surveillance
-- lt-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

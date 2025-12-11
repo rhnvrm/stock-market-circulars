@@ -29,13 +29,13 @@ source: bse
 stocks:
 - INDUSINDBK
 tags:
-- insider-trading
-- sebi-direction
-- tribunal-order
-- indusind-bank
-- impounding-amount
 - deposit-modification
-- enforcement-action
+- enforcement
+- impounding-amount
+- indusind-bank
+- investigation
+- nclt
+- sebi-direction
 title: SEBI Direction in the Matter of Insider Trading by Certain Entities in the
   Scrip of IndusInd Bank Limited - Arun Khurana Case
 ---

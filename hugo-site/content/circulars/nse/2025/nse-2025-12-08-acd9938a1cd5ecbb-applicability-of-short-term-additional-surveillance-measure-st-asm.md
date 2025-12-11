@@ -30,13 +30,10 @@ stocks:
 - SARTELE
 - BESTAGRO
 tags:
+- asm-stage
+- regulatory
 - surveillance
-- asm
-- short-term-asm
 - trading-restrictions
-- market-surveillance
-- stage-1
-- regulatory-action
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- margin-framework
-- commodity-derivatives
-- volatility-scan-range
+- derivatives
 - initial-margin
+- margin-framework
 - risk-management
+- volatility-control
 title: Review of Margin Framework for Commodity Derivatives Segment
 ---
 

@@ -27,15 +27,13 @@ source: bse
 stocks:
 - AFPL
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- ncd
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- corporate-actions
-- debt-market
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ABANS FINANCE PRIVATE LIMITED
 ---
 

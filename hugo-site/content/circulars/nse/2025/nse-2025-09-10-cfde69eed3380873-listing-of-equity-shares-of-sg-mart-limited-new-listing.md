@@ -25,11 +25,10 @@ source: nse
 stocks:
 - SGMART
 tags:
-- new-listing
-- equity-shares
-- sgmart
-- trading
 - demat
+- equity
+- listing
+- trading
 title: Listing of Equity Shares of SG Mart Limited (New Listing)
 ---
 

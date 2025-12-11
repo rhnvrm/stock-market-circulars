@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- smart-switch
 - bandhan-mutual-fund
-- sector-index-fund
 - investment-platform
+- mutual-fund
+- nfo
+- sector-index-fund
+- smart-switch
 title: Activation of SMART Switch Feature for BANDHAN BSE India Sector Leaders Index
   Fund on NSE MF Invest Platform
 ---

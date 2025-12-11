@@ -26,12 +26,12 @@ source: bse
 stocks:
 - KRAZYBEE
 tags:
-- debt
-- debentures
-- redemption
-- corporate-actions
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of KRAZYBEE SERVICES LTD
 ---
 

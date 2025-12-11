@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- penalty
-- investment-advisory
-- unregistered-services
 - compliance
 - demand-notice
+- enforcement
+- investment-adviser
+- penalty
+- unregistered-services
 title: 'Notice of Demand dated 05.09.2025 issued under RC No. 8890/2025 drawn against
   Mr. Rahul Goswami (PAN: AXUPG5665L) in the matter of Unregistered Investment Advisory
   Services'

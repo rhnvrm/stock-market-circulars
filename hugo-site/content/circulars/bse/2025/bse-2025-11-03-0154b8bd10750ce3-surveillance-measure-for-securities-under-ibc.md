@@ -29,10 +29,10 @@ stocks:
 - RADHAGOBIND
 - EASTINDIADRUM
 - AFENTERPRISES
-- ABANOFFSHORE
+- ABAN-BE
 - AGSTRANSACT
 - ALCHEMIST
-- ALPSINDUSTRIES
+- ALPSINDUS
 - AMBITIONMICA
 - ANKITMETAL
 - ANSALPROP
@@ -40,15 +40,12 @@ stocks:
 - AXISSOLUTIONS
 - BARONINFO
 - BIRLACOTSYN
-- BLOOMDEKOR
+- BLOOM
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- market-monitoring
+- market-operations
+- surveillance
 - trading-restrictions
-- corporate-insolvency
 title: Surveillance Measure for Securities under IBC - November 2025 Update
 ---
 

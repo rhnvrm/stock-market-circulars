@@ -28,13 +28,12 @@ stocks:
 - ZENTEC
 - ADVANCE
 tags:
-- clarification
-- volume-spurt
-- price-movement
-- disclosure
-- zen-technologies
 - advance-agrolife
+- clarification
+- disclosure
+- price-movement
 - regulation-30
+- zen-technologies
 title: Clarifications received from the companies
 ---
 

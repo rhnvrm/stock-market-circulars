@@ -27,11 +27,10 @@ source: nse
 stocks:
 - BECTORFOOD
 tags:
-- face-value-split
-- stock-split
-- equity-shares
 - corporate-action
-- BECTORFOOD
+- equity
+- face-value-change
+- split
 title: Face Value Split - Mrs. Bectors Food Specialities Limited (BECTORFOOD)
 ---
 

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - HDFCBANK
 tags:
-- bonus-issue
+- bonus
+- contract-adjustment
 - corporate-action
 - futures-options
-- contract-adjustment
-- hdfcbank
 title: 'BONUS: Adjustment of Futures and Options contracts in HDFCBANK'
 ---
 

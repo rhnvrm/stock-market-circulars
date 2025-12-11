@@ -26,11 +26,9 @@ source: bse
 stocks:
 - CPPLUS
 tags:
-- listing
-- equity-shares
-- new-listing
 - aditya-infotech
-- cpplus
+- equity
+- listing
 title: Listing of Equity Shares of Aditya Infotech Limited
 ---
 

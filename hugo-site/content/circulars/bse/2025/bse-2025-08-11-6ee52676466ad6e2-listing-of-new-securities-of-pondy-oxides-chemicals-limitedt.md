@@ -26,11 +26,11 @@ source: bse
 stocks:
 - POCL
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Pondy Oxides & Chemicals Limited
 ---
 

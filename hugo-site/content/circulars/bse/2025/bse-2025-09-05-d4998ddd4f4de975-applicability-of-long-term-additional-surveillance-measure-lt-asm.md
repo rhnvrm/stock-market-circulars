@@ -48,11 +48,11 @@ stocks:
 - SRM
 - VADILAL
 tags:
-- surveillance
-- lt-asm
-- trading-measures
-- market-regulation
+- asm-stage
 - compliance
+- market-operations
+- surveillance
+- trading-operations
 title: Long Term Additional Surveillance Measure (LT-ASM) Framework Updates
 ---
 

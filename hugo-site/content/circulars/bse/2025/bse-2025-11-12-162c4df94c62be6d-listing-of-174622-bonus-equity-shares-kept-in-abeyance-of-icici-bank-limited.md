@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ICICIBANK
 tags:
-- bonus-shares
-- listing
 - abeyance
-- equity-shares
-- icici-bank
+- bonus
+- equity
+- listing
 title: Listing of 174,622 Bonus Equity Shares kept in abeyance of ICICI Bank Limited
 ---
 

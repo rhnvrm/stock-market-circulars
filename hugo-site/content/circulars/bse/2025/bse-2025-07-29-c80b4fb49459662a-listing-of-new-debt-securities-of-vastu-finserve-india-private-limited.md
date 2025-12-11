@@ -29,7 +29,6 @@ tags:
 - listing
 - private-placement
 - vastu-finserve
-- debt-segment
 title: Listing of new debt securities of Vastu Finserve India Private Limited
 ---
 

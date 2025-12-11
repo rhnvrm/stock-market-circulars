@@ -34,10 +34,10 @@ stocks:
 - SAMSRITA
 - TIMESGUARANTY
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 9 Securities Effective July 30, 2025
 ---
 

@@ -34,9 +34,8 @@ stocks:
 - RRPDEFENS
 - RRPSEMICO
 tags:
-- surveillance
 - price-movement
-- additional-surveillance-measure
+- surveillance
 - trading-restrictions
 title: Introduction of Additional Measure for Securities Witnessing Unusual Price
   Movement

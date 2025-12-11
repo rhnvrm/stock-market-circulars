@@ -28,12 +28,11 @@ source: bse
 stocks:
 - ADVANCE
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- t-group
-- b-group
 - segment-transfer
+- trade-for-trade
 title: Change in Group of Equity Shares of Advance Agrolife Limited - Transfer from
   T Group to B Group
 ---

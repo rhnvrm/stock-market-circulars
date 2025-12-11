@@ -26,16 +26,16 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- equity-fund
+- equity
 - infrastructure
 - mirae-asset
-- subscriptions
-- redemptions
+- mutual-fund
+- nmf-segment
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- nmf-segment
 title: Availability of Mirae Asset Infrastructure Fund for ongoing transactions on
   NSE MF Invest Platform
 ---

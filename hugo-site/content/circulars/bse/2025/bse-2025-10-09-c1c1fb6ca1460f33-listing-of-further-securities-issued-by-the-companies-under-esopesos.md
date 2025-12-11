@@ -30,17 +30,13 @@ stocks:
 - KIRLOSIND
 - QUICKHEAL
 - RISHABHINS
-- TATAMOTORS
+- TMCV
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- employee-stock-options
-- new-securities
 - icici-lombard
 - kirloskar-industries
-- quick-heal
-- rishabh-instruments
+- new-securities
 - tata-motors
 title: Listing of Further Securities Issued Under ESOP/ESOS by Five Companies
 ---

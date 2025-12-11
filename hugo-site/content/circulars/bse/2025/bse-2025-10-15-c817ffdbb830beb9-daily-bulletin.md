@@ -37,12 +37,12 @@ stocks:
 - PAGEIND
 tags:
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
 - dividend
 - interest-payment
-- commercial-paper
-- debentures
-- corporate-actions
+- ncd
+- record-date
 title: Daily Bulletin No. 136/2025-2026 - Book Closure, Record Dates and Corporate
   Actions
 ---

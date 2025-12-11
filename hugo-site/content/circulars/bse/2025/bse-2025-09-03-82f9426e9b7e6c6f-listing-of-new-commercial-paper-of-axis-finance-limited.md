@@ -27,10 +27,9 @@ stocks:
 - AXISFINANCE
 tags:
 - commercial-paper
-- debt-segment
+- debt-securities
+- listing
 - private-placement
-- axis-finance
-- new-listing
 title: Listing of new Commercial Paper of Axis Finance Limited
 ---
 

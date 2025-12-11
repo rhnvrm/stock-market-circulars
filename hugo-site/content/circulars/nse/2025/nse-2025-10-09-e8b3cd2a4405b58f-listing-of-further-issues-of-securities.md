@@ -30,20 +30,15 @@ stocks:
 - KIRLOSIND
 - QUICKHEAL
 - RISHABH
-- TATAMOTORS
+- TMCV
 - TATAELXSI
 tags:
-- listing
-- esop
-- equity-shares
-- further-issue
 - capital-market
-- ICICIGI
-- KIRLOSIND
-- QUICKHEAL
-- RISHABH
-- TATAMOTORS
-- TATAELXSI
+- equity
+- esop
+- further-issue
+- listing
+- tatamotors
 title: Listing of Further Issues of Securities - ESOP Allotments for Six Companies
 ---
 

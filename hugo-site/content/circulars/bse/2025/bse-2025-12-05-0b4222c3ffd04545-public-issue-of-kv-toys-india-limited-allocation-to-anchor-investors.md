@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KVTOYS
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- equity-shares
 - public-issue
-- allocation
 title: Public Issue of K.V. TOYS INDIA LIMITED - Allocation to Anchor Investors
 ---
 

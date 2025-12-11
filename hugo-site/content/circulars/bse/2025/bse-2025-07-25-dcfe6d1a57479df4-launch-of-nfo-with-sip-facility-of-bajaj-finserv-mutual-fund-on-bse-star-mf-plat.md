@@ -25,13 +25,11 @@ source: bse
 stocks:
 - BAJAJFINSV
 tags:
-- nfo
-- mutual-fund
 - bajaj-finserv
 - equity-savings-fund
+- mutual-fund
+- nfo
 - sip
-- bse-star-mf
-- new-fund-offer
 title: Launch of BAJAJ FINSERV Equity Savings Fund NFO on BSE StAR MF Platform
 ---
 

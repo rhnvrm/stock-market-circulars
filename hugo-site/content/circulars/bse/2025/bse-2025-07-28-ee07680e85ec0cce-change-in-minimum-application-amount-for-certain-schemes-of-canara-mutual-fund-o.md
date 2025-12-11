@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- minimum-investment
 - canara-robeco
 - large-cap-fund
+- minimum-investment
+- mutual-fund
 - stp
 - swp
-- bse-star-mf
 title: Change in Minimum Application Amount for certain schemes of Canara Mutual Fund
   on BSE StAR MF platform
 ---

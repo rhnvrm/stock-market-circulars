@@ -27,12 +27,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription-suspension
+- fund-of-funds
+- mutual-fund
 - sbi-mutual-fund
-- silver-etf
-- fund-of-fund
+- silver
+- suspension
 - trading-restrictions
 title: Temporary Suspension for subscriptions in certain schemes of SBI Mutual Fund
   on NSE MF Invest Platform

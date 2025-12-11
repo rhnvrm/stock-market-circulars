@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544594'
+- TRADEUNO
 tags:
-- trade-for-trade
-- rolling-segment
-- sme-ipo
+- asm-stage
 - group-change
-- mt-group
-- m-group
+- rolling-segment
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of Game Changers Texfab Limited
 ---
 

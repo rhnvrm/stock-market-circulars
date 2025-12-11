@@ -27,14 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- saas
 - clearing-corporation
-- mock-session
-- business-continuity
-- currency-derivatives
-- testing
+- derivatives
+- disaster-recovery
 - member-interface
+- mock-trading
 - portability
+- saas
 title: Member Interface Testing of Two-way Portability Across Clearing Corporation
   - SaaS Model
 ---

@@ -29,12 +29,10 @@ stocks:
 - MEL
 tags:
 - delisting
-- offer-to-buy
-- acquisition-window
-- manphool-exports
 - equity
-- trading-schedule
+- manphool-exports
 - otb
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Delisting) for Manphool Exports Limited
   – Live Activities Schedule
 ---

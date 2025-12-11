@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GRASIM
 tags:
-- listing
-- equity-shares
-- rights-issue
 - conversion
+- equity
 - grasim-industries
+- listing
+- rights-issue
 title: Listing of New Securities of GRASIM INDUSTRIES LTD.
 ---
 

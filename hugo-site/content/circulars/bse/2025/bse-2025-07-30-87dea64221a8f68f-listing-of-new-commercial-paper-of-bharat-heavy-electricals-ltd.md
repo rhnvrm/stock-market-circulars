@@ -27,9 +27,8 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
 - listing
-- bhel
+- private-placement
 title: Listing of new Commercial Paper of Bharat Heavy Electricals Ltd
 ---
 

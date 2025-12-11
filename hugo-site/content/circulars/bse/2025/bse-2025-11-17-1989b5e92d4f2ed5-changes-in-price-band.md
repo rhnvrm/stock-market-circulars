@@ -40,11 +40,11 @@ stocks:
 - UYFINCORP
 - WELSPUN
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-regulation
 title: Changes in Price Band for 13 Securities Effective November 18, 2025
 ---
 

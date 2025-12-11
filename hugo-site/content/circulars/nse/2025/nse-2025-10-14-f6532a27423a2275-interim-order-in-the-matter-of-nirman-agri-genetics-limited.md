@@ -28,15 +28,15 @@ source: nse
 stocks:
 - NAGL
 tags:
-- sebi-order
-- interim-order
-- market-access-restriction
-- trading-restriction
-- ipo-investigation
-- sme-segment
-- fund-utilization
-- first-overseas-capital
 - debarment
+- first-overseas-capital
+- fund-utilization
+- interim-order
+- ipo-investigation
+- market-access-restriction
+- sebi-order
+- sme
+- trading-restrictions
 title: Interim Order in the matter of Nirman Agri Genetics Limited
 ---
 

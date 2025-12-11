@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SHTL
 tags:
+- equity
 - listing
-- sme
-- equity-shares
-- new-listing
 - shining-tools
+- sme
 title: Listing of Equity Shares of Shining Tools Limited
 ---
 

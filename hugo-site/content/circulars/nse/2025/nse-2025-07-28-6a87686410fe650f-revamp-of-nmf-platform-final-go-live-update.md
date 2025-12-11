@@ -25,12 +25,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- nmf-platform
-- migration
-- mutual-funds
 - api-changes
-- deadline-extension
-- investment-advisors
+- extension
+- investment-adviser
+- migration
+- mutual-fund
+- nmf-platform
 - pms
 title: Revamp of NMF Platform - Final Go-Live Date Postponed to August 22, 2025
 ---

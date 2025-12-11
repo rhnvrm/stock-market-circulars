@@ -27,9 +27,9 @@ source: bse
 stocks: []
 tags:
 - membership
+- objection-period
 - resignation
 - trading-member
-- objection-period
 title: Application for Resignation of Membership - Global Vision Securities Pvt. Ltd.
   (Member no. 6853)
 ---

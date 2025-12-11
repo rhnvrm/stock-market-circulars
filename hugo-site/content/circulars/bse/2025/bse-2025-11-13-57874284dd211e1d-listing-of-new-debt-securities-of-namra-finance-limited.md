@@ -29,9 +29,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- namra-finance
 - ncd
 - private-placement
-- namra-finance
 title: Listing of New Debt Securities of Namra Finance Limited
 ---
 

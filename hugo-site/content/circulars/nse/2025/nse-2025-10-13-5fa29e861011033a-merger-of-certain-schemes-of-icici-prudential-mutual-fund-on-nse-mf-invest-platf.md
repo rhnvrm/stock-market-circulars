@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
+- corporate-bond-fund
+- debt-securities
+- icici-prudential
+- index-fund
 - mutual-fund
 - scheme-merger
-- debt-fund
-- index-fund
-- corporate-bond-fund
-- icici-prudential
-- sebi-approval
+- sebi-order
 - unitholders
 title: Merger of ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index Dec
   2026 Fund with ICICI Prudential Corporate Bond Fund

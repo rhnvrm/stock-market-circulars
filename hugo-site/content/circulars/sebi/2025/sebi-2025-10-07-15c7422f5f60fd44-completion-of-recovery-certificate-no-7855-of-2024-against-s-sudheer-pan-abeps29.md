@@ -26,10 +26,8 @@ source: sebi
 stocks:
 - ACROPETAL
 tags:
-- recovery-proceedings
 - enforcement
-- acropetal-technologies
-- debt-recovery
+- recovery
 title: 'Completion of Recovery Certificate No. 7855 of 2024 against S. Sudheer (PAN:
   ABEPS2937F) in the matter of Acropetal Technologies Ltd'
 ---

@@ -32,10 +32,9 @@ stocks:
 - ASHOKA
 - GTECH
 tags:
-- gsm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

@@ -27,11 +27,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-schedule
-- november-2025
-- market-operations
 - clearing
+- derivatives
+- market-operations
+- november-2025
+- settlement
 title: Commodity Derivatives - Settlement Schedule for November 2025
 ---
 

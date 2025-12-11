@@ -27,11 +27,9 @@ source: bse
 stocks:
 - CRAMC
 tags:
-- listing
-- new-listing
-- equity-shares
 - asset-management
-- cramc
+- equity
+- listing
 title: Listing of Equity Shares of Canara Robeco Asset Management Company Limited
 ---
 

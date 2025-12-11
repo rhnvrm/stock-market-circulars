@@ -27,11 +27,11 @@ source: bse
 stocks:
 - NBSPL
 tags:
-- debentures
-- suspension
-- redemption
-- corporate-actions
+- corporate-action
 - debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of NIRMAL BANG SECURITIES PRIVATE LIMITED
 ---
 

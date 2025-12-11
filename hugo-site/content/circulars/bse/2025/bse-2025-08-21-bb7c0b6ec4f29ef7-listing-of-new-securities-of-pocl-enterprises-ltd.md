@@ -27,11 +27,11 @@ source: bse
 stocks:
 - POCL
 tags:
-- preferential-allotment
-- equity-shares
+- equity
 - listing
 - lock-in
 - pocl-enterprises
+- preferential-issue
 title: Listing of New Securities of POCL Enterprises Ltd - 28.86 Lakh Preferential
   Shares
 ---

@@ -27,12 +27,12 @@ source: sebi
 stocks:
 - MOTILAL
 tags:
-- adjudication-order
-- stock-broker
-- compliance-violation
-- inspection
-- penalty
+- adjudication
+- investigation
 - motilal-oswal
+- non-compliance
+- penalty
+- stock-broker
 title: Adjudication Order Against Motilal Oswal Financial Services Limited for Regulatory
   Violations
 ---

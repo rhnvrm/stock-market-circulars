@@ -27,11 +27,11 @@ source: bse
 stocks:
 - KSRFOOT
 tags:
-- shareholding-pattern
-- listing
-- equity-shares
 - disclosure
+- equity
 - ksr-footwear
+- listing
+- shareholding-pattern
 title: Listing of Equity Shares of KSR Footwear Limited
 ---
 

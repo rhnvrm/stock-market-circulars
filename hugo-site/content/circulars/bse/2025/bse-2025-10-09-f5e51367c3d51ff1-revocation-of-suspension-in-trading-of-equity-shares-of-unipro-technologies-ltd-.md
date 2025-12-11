@@ -27,10 +27,10 @@ source: bse
 stocks:
 - UNIPRO
 tags:
-- trading-suspension
-- revocation
-- equity-shares
+- equity
+- release
 - surveillance
+- suspension
 - unipro-technologies
 title: Revocation of Suspension in Trading of Equity Shares of Unipro Technologies
   Ltd.

@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- delisting
+- corporate-action
 - debt-securities
-- corporate-actions
-- debt-market
+- delisting
 title: Delisting of Four Debt Securities from BSE
 ---
 

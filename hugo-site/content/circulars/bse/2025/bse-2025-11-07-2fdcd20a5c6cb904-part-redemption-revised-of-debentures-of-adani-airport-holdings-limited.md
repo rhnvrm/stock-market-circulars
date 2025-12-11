@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ADANIAIRPORT
 tags:
-- debentures
-- part-redemption
-- face-value-revision
-- adani-airport-holdings
-- debt-segment
-- corporate-actions
+- corporate-action
+- debt-securities
+- face-value-change
+- ncd
+- redemption
 title: Part Redemption (Revised) of Debentures of ADANI AIRPORT HOLDINGS LIMITED
 ---
 

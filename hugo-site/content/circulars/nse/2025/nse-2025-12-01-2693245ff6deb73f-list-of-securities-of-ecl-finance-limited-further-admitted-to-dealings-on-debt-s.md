@@ -26,12 +26,11 @@ source: nse
 stocks:
 - ECLFINANCE
 tags:
-- debt-segment
-- listing
-- scheme-of-arrangement
-- debentures
-- ecl-finance
+- debt-securities
 - edelweiss
+- listing
+- ncd
+- scheme-of-arrangement
 title: List of Securities of ECL Finance Limited Further Admitted to Dealings on Debt
   Segment
 ---

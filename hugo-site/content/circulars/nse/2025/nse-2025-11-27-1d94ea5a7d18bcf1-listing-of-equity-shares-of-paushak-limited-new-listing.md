@@ -26,11 +26,11 @@ source: nse
 stocks:
 - PAUSHAKLTD
 tags:
-- new-listing
-- equity-shares
-- paushak-limited
 - capital-market
-- trading-commencement
+- equity
+- listing
+- paushak-limited
+- trading-operations
 title: Listing of Equity Shares of Paushak Limited (New Listing)
 ---
 

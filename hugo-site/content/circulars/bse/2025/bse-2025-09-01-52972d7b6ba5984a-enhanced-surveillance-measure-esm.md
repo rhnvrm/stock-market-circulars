@@ -29,10 +29,8 @@ stocks:
 - KUBER
 - TSTL
 tags:
-- enhanced-surveillance
-- esm
 - securities-list
-- market-surveillance
+- surveillance
 - trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Updates
 ---

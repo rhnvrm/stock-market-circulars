@@ -29,7 +29,7 @@ stocks:
 - BANKBARODA
 - BELRISE
 - BHEL
-- BHARATSEATS
+- BHARATSE
 - BIOCON
 - CANBK
 - COALINDIA
@@ -43,7 +43,7 @@ stocks:
 - HIMATSEIDE
 - HCC
 - HDFCBANK
-- HINDzinc
+- HINDZINC
 - INFY
 - KPIGREEN
 - LAURUSLABS
@@ -53,12 +53,12 @@ stocks:
 - PNBHOUSING
 - PNB
 - SUNPHARMA
-- TATAMOTORS
+- TMCV
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
+- settlement
 - trading
 title: Demat Auction -768
 ---

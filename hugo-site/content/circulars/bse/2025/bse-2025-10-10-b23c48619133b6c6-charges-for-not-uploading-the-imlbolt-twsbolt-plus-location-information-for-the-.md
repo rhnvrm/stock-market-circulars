@@ -26,16 +26,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- compliance
-- trading-terminals
-- penalties
-- terminal-registration
-- location-information
-- IML
-- BOLT-TWS
-- BOLT-PLUS
-- trading-members
 - charges
+- compliance
+- iml
+- location-information
+- penalty
+- registration
+- trading-member
+- trading-platform
+- trading-terminals
 title: Charges for Non-Compliance with Terminal Location Registration Requirements
   - September 2025
 ---

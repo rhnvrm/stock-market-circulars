@@ -26,10 +26,9 @@ stocks:
 - SUPREMEIND
 tags:
 - commercial-paper
-- debt-listing
-- supreme-industries
-- private-placement
 - crisil-rating
+- debt-securities
+- private-placement
 title: Listing of Commercial Paper of Supreme Industries Ltd on BSE Debt Segment
 ---
 

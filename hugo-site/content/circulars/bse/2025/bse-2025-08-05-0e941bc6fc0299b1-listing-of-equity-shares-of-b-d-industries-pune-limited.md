@@ -26,11 +26,9 @@ source: bse
 stocks:
 - BDI
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
-- BDI
 title: Listing of Equity Shares of B. D. Industries (Pune) Limited
 ---
 

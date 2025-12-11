@@ -25,10 +25,9 @@ source: bse
 stocks:
 - AGRI XCHNG
 tags:
-- debt-listing
-- private-placement
+- debt-securities
 - new-securities
-- agri-xchng
+- private-placement
 title: Listing of New Debt Securities of AGRI XCHNG 2025
 ---
 

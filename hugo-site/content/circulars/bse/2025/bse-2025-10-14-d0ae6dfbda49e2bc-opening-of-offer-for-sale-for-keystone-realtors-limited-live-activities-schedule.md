@@ -28,14 +28,12 @@ source: bse
 stocks:
 - RUSTOMJEE
 tags:
-- offer-for-sale
-- ofs
-- keystone-realtors
-- rustomjee
+- book-building
 - equity
-- bidding-schedule
-- institutional-investors
-- retail-investors
+- institutional-investor
+- keystone-realtors
+- ofs
+- retail-investor
 title: Opening of Offer for Sale for Keystone Realtors Limited - Live Activities Schedule
 ---
 

@@ -31,7 +31,6 @@ tags:
 - debt-securities
 - listing
 - private-placement
-- navi-finserv
 title: Listing of new Commercial Paper of Navi Finserv Limited
 ---
 

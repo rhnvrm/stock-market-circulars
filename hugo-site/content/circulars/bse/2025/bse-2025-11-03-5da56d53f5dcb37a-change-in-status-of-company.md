@@ -28,12 +28,12 @@ source: bse
 stocks:
 - GAMMON
 tags:
+- compliance
 - delisting
-- status-change
-- suspended
-- tribunal-order
 - gammon-india
-- regulatory-compliance
+- nclt
+- status-change
+- suspension
 title: Gammon India Ltd Delisting Rescinded - Status Changed to Suspended
 ---
 

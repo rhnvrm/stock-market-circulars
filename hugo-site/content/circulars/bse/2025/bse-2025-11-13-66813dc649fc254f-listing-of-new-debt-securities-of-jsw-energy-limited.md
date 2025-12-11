@@ -27,10 +27,9 @@ stocks:
 - JSWENERGY
 tags:
 - debt-securities
-- private-placement
 - listing
-- JSW-Energy
-- debentures
+- ncd
+- private-placement
 title: Listing of new debt securities of JSW Energy Limited
 ---
 

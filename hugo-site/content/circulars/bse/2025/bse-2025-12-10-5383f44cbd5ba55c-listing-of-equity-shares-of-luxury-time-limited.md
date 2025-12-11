@@ -24,11 +24,10 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- LUXURYTIME
+- LUXURY
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - luxury-time-limited
 title: Listing of Equity Shares of Luxury Time Limited
 ---

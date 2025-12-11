@@ -27,13 +27,12 @@ source: bse
 stocks:
 - MUTHOOTCAP
 tags:
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- debt-market
-- corporate-actions
-- muthoot-capital
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MUTHOOT CAPITAL SERVICES LTD.
 ---
 

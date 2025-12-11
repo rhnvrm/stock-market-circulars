@@ -33,10 +33,8 @@ stocks:
 - DARJROPE
 - AVASARA
 tags:
-- gsm
-- surveillance
-- graded-surveillance-measure
 - market-operations
+- surveillance
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of Securities Moving into Their Respective
   GSM Stages

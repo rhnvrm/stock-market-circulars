@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- merchant-bankers
 - amendment
-- registration
-- regulations
-- principal-officer
 - category-system
 - compliance
+- merchant-bankers
+- principal-officer
+- registration
+- regulations
 title: Securities and Exchange Board of India (Merchant Bankers) (Amendment) Regulations,
   2025
 ---

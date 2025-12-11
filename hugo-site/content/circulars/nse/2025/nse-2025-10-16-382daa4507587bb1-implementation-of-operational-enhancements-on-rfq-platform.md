@@ -28,16 +28,16 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- rfq-platform
-- debt-segment
-- operational-enhancements
 - broker-execution
+- debt-securities
 - fix-api
-- risk-management
+- operational-enhancements
 - otm-transactions
-- yield-calculator
+- rfq-platform
+- risk-management
+- sebi-order
 - trading-platform
-- sebi-directive
+- yield-calculator
 title: Implementation of Operational Enhancements on RFQ Platform
 ---
 

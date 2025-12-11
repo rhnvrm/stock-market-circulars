@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SANJIVANI
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
-- promoter-issue
+- preferential-issue
+- promoter
 title: Listing of New Securities of Sanjivani Paranteral Ltd - 80,000 Equity Shares
   from Warrant Conversion
 ---

@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- internal-audit
-- compliance
-- befs
-- reporting
 - auditor
-- member-obligations
-- xbrl
+- compliance
 - half-yearly
+- member-obligations
+- reporting
+- system-audit
+- trading-platform
+- xbrl
 title: Submission of Internal Audit Report for Half Year Ended September 30, 2025
   Through BEFS
 ---

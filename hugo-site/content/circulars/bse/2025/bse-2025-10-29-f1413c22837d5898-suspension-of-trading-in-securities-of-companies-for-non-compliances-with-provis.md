@@ -28,12 +28,12 @@ source: bse
 stocks:
 - VASUDHAGAMA
 tags:
-- trading-suspension
-- non-compliance
-- sebi-lodr
 - financial-results
-- regulation-27
+- lodr
+- non-compliance
 - promoter-shareholding-freeze
+- regulation-27
+- suspension
 - trade-for-trade
 title: Suspension of Trading in Vasudhagama Enterprises Ltd for Non-Compliance with
   SEBI LODR Regulations

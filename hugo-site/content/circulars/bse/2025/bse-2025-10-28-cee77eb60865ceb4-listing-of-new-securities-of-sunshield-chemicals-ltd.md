@@ -27,10 +27,9 @@ source: bse
 stocks:
 - SUNSHIELD
 tags:
-- new-listing
+- equity
+- listing
 - rights-issue
-- equity-shares
-- sunshield-chemicals
 title: Listing of New Securities of Sunshield Chemicals Ltd.
 ---
 

@@ -26,12 +26,11 @@ source: bse
 stocks:
 - JSWPAINT
 tags:
+- bond
 - debt-securities
-- listing
-- jsw-paints
-- private-placement
-- corporate-bonds
 - icra-rated
+- listing
+- private-placement
 title: Listing of New Debt Securities of JSW Paints Limited
 ---
 

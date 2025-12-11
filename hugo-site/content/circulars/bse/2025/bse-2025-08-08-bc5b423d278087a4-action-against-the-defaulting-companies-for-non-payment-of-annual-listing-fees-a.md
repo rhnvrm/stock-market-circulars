@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '540694'
-- '513397'
-- '531337'
+- ANG
+- VALLABHSQ
 tags:
 - annual-listing-fees
-- trading-suspension
 - compliance
-- equity-segment
+- equity
+- suspension
 - trade-for-trade
 title: Trading Suspension Revoked for Three Companies After Annual Listing Fee Payment
 ---

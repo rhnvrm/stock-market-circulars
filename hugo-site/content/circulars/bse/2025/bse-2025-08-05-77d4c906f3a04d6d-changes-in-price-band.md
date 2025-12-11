@@ -38,9 +38,9 @@ stocks:
 - VINEET
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Price Band Revisions for 12 Securities Effective August 6, 2025
 ---
 

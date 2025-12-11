@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- ipo-allotment
-- registrar-oversight
+- ipo
 - lottery-process
+- registrar-oversight
+- rti
 - transparency
-- right-to-information
 title: Appeal No. 6551 of 2025 filed by Suhas C G
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ASMTEC
 tags:
+- asm-technologies
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- ASM-Technologies
 - new-securities
+- preferential-issue
 title: Listing of New Securities of ASM Technologies Ltd
 ---
 

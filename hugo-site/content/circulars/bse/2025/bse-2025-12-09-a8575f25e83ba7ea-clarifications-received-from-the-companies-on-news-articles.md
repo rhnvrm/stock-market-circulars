@@ -26,16 +26,16 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PIRAMALFINANCE
+- PIRAMALFIN
 - INDIGO
 - KAYNES
 tags:
 - clarification
-- news-article
+- compliance
 - disclosure
-- regulation-30
+- news-article
 - price-movement
-- regulatory-compliance
+- regulation-30
 title: Clarifications received from the companies on news articles
 ---
 

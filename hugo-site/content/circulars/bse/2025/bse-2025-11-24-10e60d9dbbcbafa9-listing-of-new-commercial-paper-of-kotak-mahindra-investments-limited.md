@@ -28,9 +28,9 @@ stocks:
 - KOTAKINVS
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - kotak-mahindra
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of Kotak Mahindra Investments Limited
 ---

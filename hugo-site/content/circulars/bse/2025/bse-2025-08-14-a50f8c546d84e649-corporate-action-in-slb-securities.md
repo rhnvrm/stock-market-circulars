@@ -58,12 +58,11 @@ stocks:
 - NHPC
 - TIMETECHNO
 tags:
+- bonus
 - corporate-action
 - dividend
-- bonus-issue
-- rights-issue
-- ex-date
 - record-date
+- rights-issue
 title: Corporate Action Schedule - Multiple Companies Including Dividends, Bonus Issue,
   and Rights Issue
 ---

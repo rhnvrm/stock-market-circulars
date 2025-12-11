@@ -29,11 +29,11 @@ stocks:
 - SANDUMA
 - INDNIPPON
 tags:
-- volume-movement
+- disclosure
+- market-operations
+- price-movement
 - price-surveillance
 - regulation-30
-- disclosure
-- market-driven
 title: Clarifications received from the companies
 ---
 

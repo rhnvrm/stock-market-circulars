@@ -25,11 +25,11 @@ severity: high
 source: nse
 stocks: []
 tags:
-- neat-adapter
-- currency-derivatives
-- trading-system
-- software-update
+- derivatives
+- market-infrastructure
+- system-update
 - technical
+- trading-platform
 title: NEAT Adapter Update for Currency Derivatives Segment - Version 1.0.21 Withdrawn
 ---
 

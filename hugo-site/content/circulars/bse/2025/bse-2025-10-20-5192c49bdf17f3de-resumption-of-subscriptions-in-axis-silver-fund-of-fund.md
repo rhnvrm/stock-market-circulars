@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription
 - axis-mutual-fund
-- silver-fund
-- fund-of-fund
+- fund-of-funds
+- mutual-fund
+- silver
+- subscription
 - trading-resumption
 title: Resumption of Subscriptions in Axis Silver Fund of Fund
 ---

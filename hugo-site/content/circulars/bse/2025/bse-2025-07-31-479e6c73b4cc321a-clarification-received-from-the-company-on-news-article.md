@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 - NUVAMA
 tags:
 - clarification
-- media-reports
-- acquisition
-- it-survey
 - disclosure
+- it-survey
+- media-reports
+- takeover
 title: Clarifications from Tata Motors and Nuvama Wealth Management on Media Reports
 ---
 

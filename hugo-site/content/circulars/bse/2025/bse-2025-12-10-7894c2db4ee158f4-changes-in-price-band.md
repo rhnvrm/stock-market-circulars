@@ -39,11 +39,11 @@ stocks:
 - ROTOGRAPH
 - SHYAMCENT
 tags:
-- price-band
-- surveillance-measure
-- trading-restrictions
+- asm-stage
 - equity
-- market-regulation
+- market-operations
+- price-band
+- trading-restrictions
 title: Revision of Price Bands for 11 Securities - Effective December 11, 2025
 ---
 

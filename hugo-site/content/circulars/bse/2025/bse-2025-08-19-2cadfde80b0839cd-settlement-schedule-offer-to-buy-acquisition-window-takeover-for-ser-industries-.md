@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SERINDUSTRIES
+- SERIND
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule for Takeover Offer - SER Industries Limited (August 20
   - September 3, 2025)
 ---

@@ -27,10 +27,10 @@ source: bse
 stocks:
 - ALGOQUANT
 tags:
-- corporate-actions
-- equity-shares
-- sub-division
-- isin-change
+- corporate-action
+- equity
+- isin
+- split
 - trading
 title: New ISIN Number for ALGOQUANT FINTECH LTD Following Equity Share Sub-Division
 ---

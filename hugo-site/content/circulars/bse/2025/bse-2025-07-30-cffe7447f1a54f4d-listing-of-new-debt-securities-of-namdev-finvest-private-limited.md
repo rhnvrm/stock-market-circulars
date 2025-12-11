@@ -25,10 +25,10 @@ source: bse
 stocks:
 - NAMDEV
 tags:
-- debt-listing
-- private-placement
+- bond
+- debt-securities
 - namdev-finvest
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of NAMDEV FINVEST PRIVATE LIMITED
 ---
 

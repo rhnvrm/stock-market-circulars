@@ -27,13 +27,12 @@ source: bse
 stocks:
 - ARKAFINCAP
 tags:
-- debt-market
-- debentures
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
 - ncd
-- corporate-action
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of ARKA FINCAP LIMITED
 ---
 

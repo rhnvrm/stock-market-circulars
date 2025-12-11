@@ -27,11 +27,10 @@ source: bse
 stocks:
 - UHZAVERI
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
-- equity
 - demat
+- equity
+- renunciation
+- rights-issue
 - t1-settlement
 - trade-for-trade
 title: Rights Entitlements of U. H. ZAVERI LIMITED

@@ -28,14 +28,13 @@ source: bse
 stocks:
 - ICLFL
 tags:
-- suspension-of-trading
-- debentures
-- ncd
-- redemption
-- interest-payment
-- record-date
-- debt-market
+- debt-securities
 - icl-fincorp
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension-of-trading
 title: Suspension of Trading in Debentures of ICL FINCORP LIMITED
 ---
 

@@ -26,13 +26,13 @@ source: nse
 stocks: []
 tags:
 - connectivity
+- delhi
+- infrastructure
+- kolkata
+- mumbai
+- network-changes
 - pop-migration
 - sify
-- infrastructure
-- network-changes
-- kolkata
-- delhi
-- mumbai
 title: NSE POP Network Changes - Migration of STT Kolkatta, Jeevan Vihar Delhi & Kohinoor
   Mumbai Facilities
 ---

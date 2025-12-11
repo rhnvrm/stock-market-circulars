@@ -25,11 +25,11 @@ source: bse
 stocks:
 - VISHALFAB
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- equity-shares
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of Securities - Vishal Fabrics Limited Preferential Issue
 ---
 

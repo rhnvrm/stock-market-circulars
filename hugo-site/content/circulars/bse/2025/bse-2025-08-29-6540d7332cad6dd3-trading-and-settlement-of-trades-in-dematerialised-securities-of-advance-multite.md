@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADVMULTI
 tags:
-- trade-to-trade
-- demat-settlement
+- advance-multitech
 - group-change
 - market-lot
-- advance-multitech
+- settlement
+- trade-to-trade
 title: Trading and Settlement Changes for Advance Multitech Limited - Move to Trade-to-Trade
   Segment
 ---

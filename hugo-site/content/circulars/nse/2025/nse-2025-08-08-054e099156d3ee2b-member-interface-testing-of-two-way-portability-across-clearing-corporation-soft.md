@@ -25,9 +25,9 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- member-interface
-- testing
 - clearing-corporation
+- member-interface
+- mock-trading
 - portability
 - saas
 - technology

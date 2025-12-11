@@ -27,12 +27,11 @@ source: bse
 stocks:
 - OMEGAINT
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- omega-interactive-technologies
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Omega Interactive Technologies Ltd.
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOYAL
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- new-securities
+- conversion
+- equity
 - goyal-associates
+- new-securities
+- preferential-issue
 title: Listing of New Equity Shares of Goyal Associates Ltd
 ---
 

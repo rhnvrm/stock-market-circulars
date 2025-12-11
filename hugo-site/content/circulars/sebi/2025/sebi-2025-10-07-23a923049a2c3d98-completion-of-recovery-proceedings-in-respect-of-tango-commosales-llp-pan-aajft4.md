@@ -28,11 +28,9 @@ source: sebi
 stocks:
 - OPTIEMUS
 tags:
-- recovery-proceedings
 - enforcement
-- optiemus-infracom
+- recovery
 - tango-commosales
-- recovery-certificate
 title: Completion of Recovery Proceedings in respect of Tango Commosales LLP under
   Recovery Certificate No. 8672 of 2025
 ---

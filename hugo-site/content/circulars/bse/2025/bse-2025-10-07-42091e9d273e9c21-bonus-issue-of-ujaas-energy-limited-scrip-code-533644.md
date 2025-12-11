@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UJAAS
 tags:
-- bonus-issue
+- bonus
 - corporate-action
-- equity-shares
-- record-date
+- equity
 - ex-bonus
+- record-date
 title: 'Bonus Issue of UJAAS ENERGY LIMITED (Scrip Code: 533644)'
 ---
 

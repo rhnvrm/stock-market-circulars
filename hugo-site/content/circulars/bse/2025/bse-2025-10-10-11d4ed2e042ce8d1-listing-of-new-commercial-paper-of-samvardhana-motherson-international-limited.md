@@ -28,11 +28,9 @@ stocks:
 - MOTHERSON
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- samvardhana-motherson
+- debt-securities
 - icici-bank
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Samvardhana Motherson International Limited
 ---
 

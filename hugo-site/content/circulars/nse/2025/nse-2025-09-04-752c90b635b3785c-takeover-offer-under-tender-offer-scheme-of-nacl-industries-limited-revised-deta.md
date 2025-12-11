@@ -26,11 +26,9 @@ source: nse
 stocks:
 - NACLIND
 tags:
+- coromandel-international
 - takeover
 - tender-offer
-- acquisition
-- NACLIND
-- coromandel-international
 title: Takeover offer under Tender Offer scheme of NACL Industries Limited (Revised
   Details)
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - APOLLO
 tags:
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- equity-shares
-- lock-in
 title: Listing of new securities of Apollo Micro Systems Limited
 ---
 

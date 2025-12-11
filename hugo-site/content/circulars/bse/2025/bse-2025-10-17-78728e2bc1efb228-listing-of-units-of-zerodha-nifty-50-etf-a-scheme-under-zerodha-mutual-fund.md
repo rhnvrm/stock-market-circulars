@@ -26,13 +26,13 @@ source: bse
 stocks:
 - NIFTYCASE
 tags:
+- demat-trading
 - etf
 - listing
-- mutual-fund
-- zerodha
-- nifty-50
 - market-makers
-- demat-trading
+- mutual-fund
+- nifty-50
+- zerodha
 title: Listing of Units of Zerodha Nifty 50 ETF on BSE
 ---
 

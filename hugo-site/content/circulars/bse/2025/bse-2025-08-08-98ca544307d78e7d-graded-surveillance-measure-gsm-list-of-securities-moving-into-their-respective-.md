@@ -29,11 +29,10 @@ stocks:
 - ICSL
 - GSL
 tags:
-- gsm
-- surveillance
-- stage-movement
-- market-monitoring
+- asm-stage
+- market-operations
 - risk-management
+- surveillance
 title: GSM Framework Updates - Three Securities Move to Different Surveillance Stages
 ---
 

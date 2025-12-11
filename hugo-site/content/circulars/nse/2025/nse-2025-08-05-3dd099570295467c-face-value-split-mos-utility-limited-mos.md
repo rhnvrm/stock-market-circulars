@@ -26,9 +26,9 @@ source: nse
 stocks:
 - MOS
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
+- equity
+- face-value-change
 - mos-utility
 title: Face Value Split - Mos Utility Limited (MOS)
 ---

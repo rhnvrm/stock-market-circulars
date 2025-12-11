@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GOKULAGRO
 tags:
-- isin-change
-- face-value-split
-- stock-split
-- gokulagro
 - corporate-action
+- face-value-change
+- isin
+- split
 title: Change in ISIN - Gokul Agro Resources Limited (GOKULAGRO)
 ---
 

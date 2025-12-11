@@ -27,11 +27,11 @@ source: bse
 stocks:
 - ANKA
 tags:
-- listing
-- preferential-issue
-- equity-shares
-- lock-in
 - anka-india
+- equity
+- listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Anka India Ltd - Preferential Issue
 ---
 

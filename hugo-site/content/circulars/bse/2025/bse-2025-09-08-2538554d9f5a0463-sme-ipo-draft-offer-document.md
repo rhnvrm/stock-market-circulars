@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MOTHERNUTRI
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- mother-nutri-foods
-- icdr-regulations
+- sme
 title: SME IPO Draft Offer Document - Mother Nutri Foods Limited
 ---
 

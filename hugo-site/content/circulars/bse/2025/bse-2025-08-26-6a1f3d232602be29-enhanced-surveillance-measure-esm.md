@@ -41,11 +41,9 @@ stocks:
 - SUDARSHAN
 - SYSTEMATIX
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - compliance
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - August 2025
 ---
 

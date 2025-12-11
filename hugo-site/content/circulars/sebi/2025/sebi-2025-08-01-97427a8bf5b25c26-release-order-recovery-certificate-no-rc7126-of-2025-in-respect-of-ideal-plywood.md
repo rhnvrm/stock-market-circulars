@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - IDEAL_PLYWOOD
 tags:
-- recovery-certificate
-- enforcement
 - compliance
-- stock-options
+- enforcement
 - illiquid-securities
+- recovery
+- stock-options
 title: Release Order - Recovery Certificate No. RC7126 of 2025 for Ideal Plywood Traders
   Pvt Ltd
 ---

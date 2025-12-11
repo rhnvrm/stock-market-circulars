@@ -25,11 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- equity-derivatives
+- derivatives
 - index-options
 - position-limits
 - risk-management
-- market-surveillance
+- surveillance
 title: Framework for Intraday Position Limits Monitoring for Equity Index Derivatives
 ---
 

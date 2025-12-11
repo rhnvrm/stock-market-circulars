@@ -33,10 +33,8 @@ stocks:
 - CYBELE
 - KHANDELWAL
 tags:
-- lt-asm
+- asm-stage
 - surveillance
-- additional-surveillance-measure
-- stage-movement
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

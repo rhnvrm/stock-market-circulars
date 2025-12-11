@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - deferment
-- tata-mutual-fund
-- specialized-investment-fund
 - hybrid-fund
 - long-short-fund
+- mutual-fund
+- nfo
+- sif
+- tata-mutual-fund
 title: Deferment of New Fund Offer (NFO) for TATA TITANIUM HYBRID LONG-SHORT FUND
   on BSE StAR MF Platform
 ---

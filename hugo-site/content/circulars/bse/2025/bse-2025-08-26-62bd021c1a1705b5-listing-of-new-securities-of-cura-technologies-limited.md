@@ -26,13 +26,13 @@ source: bse
 stocks:
 - CURATECH
 tags:
+- insolvency
 - listing
-- new-securities
-- merger
-- resolution-plan
 - nclt
-- ibc
-- preferential-allotment
+- new-securities
+- preferential-issue
+- resolution-plan
+- scheme-of-arrangement
 title: Listing of New Securities of Cura Technologies Limited
 ---
 

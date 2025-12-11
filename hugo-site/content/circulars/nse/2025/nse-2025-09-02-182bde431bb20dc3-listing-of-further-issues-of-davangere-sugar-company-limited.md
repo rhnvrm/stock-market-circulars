@@ -26,10 +26,9 @@ source: nse
 stocks:
 - DAVANGERE
 tags:
+- equity
 - listing
 - rights-issue
-- equity-shares
-- DAVANGERE
 title: Listing of Rights Issue Shares of Davangere Sugar Company Limited
 ---
 

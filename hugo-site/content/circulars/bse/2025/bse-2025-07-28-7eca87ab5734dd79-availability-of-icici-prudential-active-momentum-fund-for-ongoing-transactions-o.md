@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - icici-prudential
-- bse-star-mf
-- equity-fund
-- subscription
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: ICICI Prudential Active Momentum Fund Reopens for Ongoing Transactions on BSE
   StAR MF Platform

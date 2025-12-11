@@ -27,11 +27,10 @@ source: sebi
 stocks:
 - CRESSANDA
 tags:
+- account-attachment
+- defaulter
 - enforcement
 - recovery
-- defaulter
-- account-attachment
-- cressanda-solutions
 - yuvika-tradewing
 title: Notice of Attachment of Bank Accounts and Demat Accounts Against Yuvika Tradewing
   LLP

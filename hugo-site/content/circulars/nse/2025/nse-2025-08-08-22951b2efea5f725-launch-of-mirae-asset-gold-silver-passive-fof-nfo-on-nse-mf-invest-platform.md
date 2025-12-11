@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
-- gold
-- silver
 - fund-of-funds
+- gold
 - mirae-asset
-- nse-mf-invest
+- mutual-fund
+- nfo
+- silver
+- trading-platform
 title: Launch of Mirae Asset Gold Silver Passive FOF NFO on NSE MF Invest Platform
 ---
 

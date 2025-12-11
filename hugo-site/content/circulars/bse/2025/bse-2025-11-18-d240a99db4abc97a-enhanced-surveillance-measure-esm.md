@@ -28,10 +28,8 @@ stocks:
 - HINDAPP
 - JETMALL
 tags:
-- esm
+- asm-stage
 - surveillance
-- enhanced-surveillance-measure
-- stage-changes
 - trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Stage Changes Effective November 19,
   2025

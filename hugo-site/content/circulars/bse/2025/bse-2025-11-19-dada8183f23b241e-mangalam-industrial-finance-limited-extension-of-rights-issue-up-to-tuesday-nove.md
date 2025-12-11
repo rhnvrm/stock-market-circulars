@@ -28,12 +28,11 @@ source: bse
 stocks:
 - MANGIND
 tags:
-- rights-issue
-- issue-extension
-- equity-shares
-- fundraising
-- mangind
 - corporate-action
+- equity
+- extension
+- fundraising
+- rights-issue
 title: MANGALAM INDUSTRIAL FINANCE LIMITED - Extension of Rights Issue Closure Date
   to November 25, 2025
 ---

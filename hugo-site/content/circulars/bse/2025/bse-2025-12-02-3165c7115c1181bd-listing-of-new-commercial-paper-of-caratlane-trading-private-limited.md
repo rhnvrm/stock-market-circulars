@@ -28,10 +28,10 @@ source: bse
 stocks:
 - CTPL
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - caratlane
+- commercial-paper
+- debt-securities
+- private-placement
 - short-term-debt
 title: Listing of new Commercial Paper of CaratLane Trading Private Limited
 ---

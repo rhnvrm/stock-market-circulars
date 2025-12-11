@@ -28,12 +28,10 @@ source: sebi
 stocks:
 - SMSTECHSOFT
 tags:
-- recovery-certificate
-- release-order
-- enforcement
-- sms-techsoft
-- recovery-proceedings
 - compliance
+- enforcement
+- recovery
+- release
 title: SEBI Release Order for Recovery Certificate No. 4518 of 2022 against Kaliyaben
   Himanshu Shah
 ---

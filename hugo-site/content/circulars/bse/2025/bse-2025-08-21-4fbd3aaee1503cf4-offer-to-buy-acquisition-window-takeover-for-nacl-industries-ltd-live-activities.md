@@ -26,11 +26,9 @@ source: bse
 stocks:
 - NACLIND
 tags:
+- otb
 - takeover
-- offer-to-buy
-- acquisition
 - trading
-- otb-module
 title: Offer to Buy – Acquisition Window (Takeover) for NACL INDUSTRIES LTD - Live
   Activities Schedule
 ---

@@ -27,10 +27,9 @@ source: nse
 stocks:
 - SUDEEPPHRM
 tags:
-- listing
+- equity
 - ipo
-- new-listing
-- equity-shares
+- listing
 - pharmaceutical
 - pre-open-session
 title: Listing of Equity Shares of Sudeep Pharma Limited (IPO)

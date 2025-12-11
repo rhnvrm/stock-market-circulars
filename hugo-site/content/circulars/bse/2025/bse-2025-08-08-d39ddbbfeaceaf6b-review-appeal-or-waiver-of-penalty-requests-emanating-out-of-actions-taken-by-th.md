@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- regulatory-actions
+- appeal-mechanism
+- compliance
+- corporate-governance
 - member-committee
 - penalty
-- appeal-mechanism
-- governance
-- compliance
+- regulatory
 title: SEBI Streamlines Review, Appeal and Waiver Mechanism for Member Committee Penalty
   Actions
 ---

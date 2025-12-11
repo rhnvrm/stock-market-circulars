@@ -26,10 +26,10 @@ source: nse
 stocks:
 - LEMERITE
 tags:
+- conversion
+- emerge-platform
+- equity
 - listing
-- equity-shares
-- warrant-conversion
-- sme-emerge
 - lock-in
 title: Listing of Further Issue of Le Merite Exports Limited Securities
 ---

@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- sip
+- edelweiss
 - etf
 - gold
+- mutual-fund
 - silver
-- edelweiss
-- bse-star-mf
+- sip
 title: Introduction of Additional SIP Schemes for Edelweiss Gold and Silver ETF Fund
   of Fund
 ---

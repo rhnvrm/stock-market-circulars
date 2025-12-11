@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- INDOSOLAR
+- WAAREEINDO-BE
 tags:
-- offer-for-sale
-- ofs
+- equity
 - indosolar
+- ofs
+- shareholding-pattern
 - waaree-energies
-- public-shareholding
-- equity-shares
 title: Opening of Offer for Sale for Indosolar Limited by Waaree Energies Limited
 ---
 

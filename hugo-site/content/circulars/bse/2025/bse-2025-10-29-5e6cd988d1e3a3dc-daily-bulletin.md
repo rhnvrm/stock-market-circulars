@@ -27,22 +27,21 @@ source: bse
 stocks:
 - AURIONPRO
 - AXISBANK
-- BIRLASOFT
+- BSOFT
 - CHAMBLFERT
 - COALINDIA
 - CAMS
 - FINEOTEX
 - GOPALSNAX
 tags:
+- bonus
 - book-closure
-- record-date
+- corporate-action
 - dividend
-- interim-dividend
-- bonus-issue
-- stock-split
 - interest-payment
-- debentures
-- corporate-actions
+- ncd
+- record-date
+- split
 title: Daily Bulletin No. 144/2025-2026 - Book Closure, Record Dates and Corporate
   Actions
 ---

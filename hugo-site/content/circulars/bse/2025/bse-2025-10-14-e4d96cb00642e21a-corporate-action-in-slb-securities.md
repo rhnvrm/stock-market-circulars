@@ -34,12 +34,12 @@ stocks:
 - APTUS
 - ANANDRATHI
 tags:
-- slb
+- book-closure
+- collateral
 - corporate-action
-- stock-split
 - dividend
-- shut-period
-- securities-lending
+- slb
+- split
 title: Corporate Action in SLB Securities - Stock Split and Dividend Announcements
 ---
 

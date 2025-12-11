@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544568'
+- ZAPPFRESH
 tags:
-- index
-- bse-sme-ipo-index
-- index-addition
-- listing
+- bse-index
 - dsm-fresh-foods
+- index-change
+- index-fund
+- listing
 title: Addition to the BSE SME IPO INDEX - DSM Fresh Foods Limited
 ---
 

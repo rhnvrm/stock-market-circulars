@@ -25,11 +25,10 @@ source: nse
 stocks:
 - AGNI
 tags:
-- surveillance
-- asm
-- margin-requirements
-- trade-for-trade
 - agni-green-power
+- margin
+- surveillance
+- trade-for-trade
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
 ---
 

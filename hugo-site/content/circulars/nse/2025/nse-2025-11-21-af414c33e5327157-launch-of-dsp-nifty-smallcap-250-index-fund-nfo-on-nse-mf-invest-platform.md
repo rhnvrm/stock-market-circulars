@@ -27,13 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- dsp-mutual-fund
+- index-fund
 - mutual-fund
 - nfo
-- new-fund-offer
-- index-fund
 - smallcap
-- dsp-mutual-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of DSP Nifty Smallcap 250 Index Fund NFO on NSE MF Invest Platform
 ---
 

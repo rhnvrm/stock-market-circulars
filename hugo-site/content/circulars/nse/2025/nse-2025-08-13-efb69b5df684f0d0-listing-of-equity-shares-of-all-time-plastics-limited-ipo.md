@@ -26,10 +26,9 @@ source: nse
 stocks:
 - ALLTIME
 tags:
-- listing
+- equity
 - ipo
-- equity-shares
-- new-listing
+- listing
 title: Listing of Equity Shares of All Time Plastics Limited (IPO)
 ---
 

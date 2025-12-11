@@ -28,8 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
-- sbfc-finance
 - private-placement
+- sbfc-finance
 - trading
 title: Listing of new debt securities of SBFC Finance Limited
 ---

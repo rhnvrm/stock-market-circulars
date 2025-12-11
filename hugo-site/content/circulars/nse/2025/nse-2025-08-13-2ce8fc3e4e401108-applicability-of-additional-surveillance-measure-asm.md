@@ -26,12 +26,11 @@ source: nse
 stocks:
 - JAYNECOIND
 tags:
+- asm-stage
+- margin
+- rolling-segment
 - surveillance
-- margin-requirements
 - trade-for-trade
-- asm
-- long-term-asm
-- rolling-settlement
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
   Implementation
 ---

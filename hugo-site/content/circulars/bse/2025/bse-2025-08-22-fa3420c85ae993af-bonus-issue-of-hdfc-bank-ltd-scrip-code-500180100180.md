@@ -26,11 +26,10 @@ source: bse
 stocks:
 - HDFCBANK
 tags:
-- bonus-issue
-- hdfc-bank
-- equity-shares
-- record-date
+- bonus
 - corporate-action
+- equity
+- record-date
 title: Bonus Issue of HDFC Bank Limited - 1:1 Ratio Record Date August 27, 2025
 ---
 

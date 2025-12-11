@@ -32,12 +32,12 @@ stocks:
 - AXISBANK
 tags:
 - book-closure
-- record-date
+- corporate-action
 - dividend
 - interest-payment
-- ncd-redemption
+- ncd
+- record-date
 - rights-issue
-- corporate-actions
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

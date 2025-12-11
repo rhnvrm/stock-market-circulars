@@ -28,13 +28,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- bse-index
+- fast-track-inclusion
+- index-construction
 - index-methodology
 - ipo
-- fast-track-inclusion
-- bse-allcap
-- market-capitalization
-- index-construction
 - listing
+- market-capitalization
 title: Change in Methodology to the BSE Indices - Fast-Track IPO Inclusion Criteria
   Revised
 ---

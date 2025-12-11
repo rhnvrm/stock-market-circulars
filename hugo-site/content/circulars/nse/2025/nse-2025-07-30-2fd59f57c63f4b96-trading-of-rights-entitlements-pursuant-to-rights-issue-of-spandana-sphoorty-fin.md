@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SPAND
 tags:
-- rights-issue
-- trading
-- spandana-sphoorty
-- rights-entitlements
 - demat
+- rights-issue
+- spandana-sphoorty
 - trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Spandana Sphoorty
   Financial Limited
 ---

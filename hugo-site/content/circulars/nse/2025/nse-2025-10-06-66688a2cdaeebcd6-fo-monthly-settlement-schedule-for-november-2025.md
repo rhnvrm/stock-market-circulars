@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- futures-and-options
-- settlement-schedule
-- operational
-- monthly-schedule
 - derivatives
+- futures-options
+- monthly-schedule
+- operational
+- settlement
 title: F&O Monthly Settlement Schedule for November 2025
 ---
 

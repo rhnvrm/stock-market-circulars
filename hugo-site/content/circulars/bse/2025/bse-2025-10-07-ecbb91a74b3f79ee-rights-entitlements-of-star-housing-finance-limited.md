@@ -28,12 +28,11 @@ source: bse
 stocks:
 - STARHF
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- renunciation
-- star-housing-finance
 - equity
+- renunciation
+- rights-issue
+- star-housing-finance
+- trading
 title: Rights Entitlements Trading for STAR HOUSING FINANCE LIMITED
 ---
 

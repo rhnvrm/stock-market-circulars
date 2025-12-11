@@ -25,13 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- electronic-bank-guarantee
+- au-small-finance-bank
+- collateral
 - e-bg
 - e-fdr
+- electronic-bank-guarantee
 - fixed-deposit-receipt
-- collateral-management
 - settlement
-- au-small-finance-bank
 title: Acceptance of Electronic Bank Guarantee & Electronic Fixed Deposit Receipt
 ---
 

@@ -26,11 +26,11 @@ source: nse
 stocks:
 - AMANTA
 tags:
-- listing
-- ipo
-- new-stock
 - amanta-healthcare
-- equity-shares
+- equity
+- ipo
+- listing
+- new-stock
 title: Listing of Equity Shares of Amanta Healthcare Limited (IPO)
 ---
 

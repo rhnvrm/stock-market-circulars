@@ -26,10 +26,10 @@ source: bse
 stocks:
 - DECCAN
 tags:
-- equity-listing
-- preferential-allotment
 - ccd-conversion
-- lock-in-period
+- equity
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Deccan Gold Mines Ltd
 ---
 

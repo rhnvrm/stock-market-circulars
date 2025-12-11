@@ -31,7 +31,7 @@ stocks:
 - JBCPL
 - PIICL
 - CGCL
-- GFL
+- GFLLIMITED
 - RRVL
 - AFL
 - FFSL
@@ -49,11 +49,11 @@ stocks:
 - MFL
 tags:
 - commercial-paper
-- redemption
-- trading-suspension
-- debt-market
-- corporate-actions
+- corporate-action
+- debt-securities
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - 24 Issuers
 ---
 

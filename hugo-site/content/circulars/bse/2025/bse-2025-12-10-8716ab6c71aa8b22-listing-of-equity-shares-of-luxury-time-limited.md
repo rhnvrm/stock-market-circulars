@@ -27,11 +27,10 @@ source: bse
 stocks:
 - LUXURY
 tags:
+- equity
 - listing
-- equity-shares
-- sme
-- new-listing
 - luxury-time-limited
+- sme
 title: Listing of Equity Shares of Luxury Time Limited
 ---
 

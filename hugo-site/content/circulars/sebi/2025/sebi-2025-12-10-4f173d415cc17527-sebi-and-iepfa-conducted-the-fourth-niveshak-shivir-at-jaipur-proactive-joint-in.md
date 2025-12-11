@@ -26,16 +26,16 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- investor-protection
+- iepfa
 - investor-education
+- investor-outreach
+- investor-protection
+- jaipur
+- kyc
+- niveshak-shivir
+- nomination
 - unclaimed-dividends
 - unclaimed-shares
-- iepfa
-- kyc
-- nomination
-- investor-outreach
-- niveshak-shivir
-- jaipur
 title: SEBI and IEPFA Conducted the fourth Niveshak Shivir at Jaipur - Proactive Joint
   Initiative to Minimize Unclaimed Assets and Facilitate Investor Claims for Unpaid
   Dividends and Shares

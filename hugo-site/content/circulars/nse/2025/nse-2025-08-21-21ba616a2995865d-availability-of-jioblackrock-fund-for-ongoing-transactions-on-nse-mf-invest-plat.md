@@ -25,10 +25,9 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
+- index-fund
 - jioblackrock
-- nse-mf-invest
-- index-funds
+- mutual-fund
 - trading-platform
 title: JioBlackRock Fund Availability for Ongoing Transactions on NSE MF Invest Platform
 ---

@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- REC
+- RECLTD
 - DABUR
 - NRBBEARING
 - DHANI
@@ -55,12 +55,12 @@ stocks:
 - CENTRALBNK
 - PCBL
 tags:
+- book-closure
 - corporate-action
 - dividend
-- amalgamation
-- slb-securities
-- book-closure
 - record-date
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities - Dividend and Amalgamation Events
 ---
 

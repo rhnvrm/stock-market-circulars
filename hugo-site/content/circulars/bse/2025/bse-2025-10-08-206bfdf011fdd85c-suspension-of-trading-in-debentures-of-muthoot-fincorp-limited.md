@@ -26,12 +26,10 @@ source: bse
 stocks:
 - MUTHOOTFIN
 tags:
-- suspension
-- debentures
-- redemption
+- debt-securities
 - ncd
-- debt-market
-- muthoot-fincorp
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MUTHOOT FINCORP LIMITED
 ---
 

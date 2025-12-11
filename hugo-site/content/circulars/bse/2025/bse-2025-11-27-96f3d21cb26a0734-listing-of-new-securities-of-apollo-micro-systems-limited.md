@@ -27,11 +27,11 @@ source: bse
 stocks:
 - APOLLOMICR
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Apollo Micro Systems Limited
 ---
 

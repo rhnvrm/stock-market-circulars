@@ -65,12 +65,12 @@ stocks:
 - SBIN
 - SHRIRAMFIN
 tags:
-- margin-requirements
 - collateral
-- liquid-assets
-- approved-securities
+- empanelment
+- liquid-fund
+- margin
 - risk-management
-- VAR-haircut
+- volatility-control
 title: Revised List of Approved Securities and Banks for Non-Cash Component of Liquid
   Assets
 ---

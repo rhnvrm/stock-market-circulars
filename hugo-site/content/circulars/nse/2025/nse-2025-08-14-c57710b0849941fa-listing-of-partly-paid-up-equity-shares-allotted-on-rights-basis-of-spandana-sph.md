@@ -25,10 +25,10 @@ source: nse
 stocks:
 - SSFLPP
 tags:
+- equity
 - listing
+- partly-paid
 - rights-issue
-- partly-paid-shares
-- equity-shares
 - spandana-sphoorty
 title: Listing of Partly Paid up Equity Shares allotted on Rights basis of Spandana
   Sphoorty Financial Limited

@@ -25,10 +25,10 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- membership-surrender
-- trading-member
 - compliance
+- membership-surrender
 - sebi-registration
+- trading-member
 title: Total surrender of membership of TM- ASSET ALLIANCE SECURITIES PVT. LTD. and
   PENTAGON STOCK BROKERS PRIVATE LIMITED
 ---

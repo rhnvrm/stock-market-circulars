@@ -25,17 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '523120'
-- '506979'
-- '531505'
+- THRIVE
+- APTPACK
 tags:
-- gsm
-- graded-surveillance-measure
-- surveillance
-- stage-movement
 - ador-multiproducts
 - apt-packaging
+- asm-stage
 - indergiri-finance
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Higher GSM Stages
 ---
 

@@ -28,13 +28,11 @@ source: bse
 stocks:
 - HARIGOV
 tags:
-- takeover
-- acquisition-window
-- offer-to-buy
+- equity
 - otb
-- equity-shares
+- takeover
 - trading-operations
-- ibbs-platform
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for Hari Govind International
   Ltd - Live Activities Schedule
 ---

@@ -26,10 +26,8 @@ source: bse
 stocks:
 - WORTHPERI
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
-- worth-peripherals
 title: Listing of Equity Shares of Worth Peripherals Limited
 ---
 

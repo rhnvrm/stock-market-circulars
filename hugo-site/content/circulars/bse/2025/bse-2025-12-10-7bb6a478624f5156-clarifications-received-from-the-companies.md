@@ -30,12 +30,12 @@ stocks:
 - ERIS
 - INOXGRE
 tags:
-- volume-increase
 - clarification
-- surveillance
-- market-driven
-- regulation-30
 - disclosure
+- market-operations
+- price-movement
+- regulation-30
+- surveillance
 title: Clarifications received from companies regarding increase in trading volume
 ---
 

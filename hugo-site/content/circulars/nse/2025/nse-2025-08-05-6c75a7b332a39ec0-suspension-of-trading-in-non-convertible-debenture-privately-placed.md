@@ -27,10 +27,10 @@ stocks:
 - IRFC
 - NTPC
 tags:
-- suspension
-- non-convertible-debentures
+- debt-securities
+- ncd
 - redemption
-- debt-market
+- suspension
 - trading-halt
 title: Suspension of Trading in Non-Convertible Debentures of IRFC and NTPC
 ---

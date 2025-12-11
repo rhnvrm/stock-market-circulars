@@ -29,13 +29,11 @@ stocks:
 - PIRAMALENT
 - PIRAMALFIN
 tags:
-- listing
-- non-convertible-debentures
-- scheme-of-arrangement
-- piramal-finance
-- piramal-enterprises
-- debt-securities
 - capital-market-segment
+- debt-securities
+- listing
+- ncd
+- scheme-of-arrangement
 title: Listing of Non-Convertible Debentures of Piramal Finance Limited on Capital
   Market Segment
 ---

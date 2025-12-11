@@ -69,7 +69,7 @@ stocks:
 - INTELLECT
 - IPCALAB
 - JARO
-- JAYUSHIN
+- JAYUSH
 - JIOFIN
 - JSWSTEEL
 - JYOTIRESINS
@@ -97,8 +97,8 @@ stocks:
 - NIPPONGF
 - NOVELIX
 - PIIND
-- PAUSHAK
-- PGFOILS
+- PAUSHAKLTD
+- PGFOILQ
 - PRAJIND
 - RAGHAV
 - RASANDIK
@@ -115,11 +115,11 @@ stocks:
 - TAMBOLIIND
 - TPC
 - TATATECH
-- TCM
+- TCMLMTD
 - THYROCARE
 - TIERRA
 - TIMETECH
-- TPIINDIA
+- TPINDIA
 - UGARSUGAR
 - UNIONBANK
 - V2RETAIL
@@ -131,10 +131,10 @@ stocks:
 - YESBANK
 - ZEEL
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
 - market-operations
+- settlement
 title: Demat Auction - Settlement No. 747
 ---
 

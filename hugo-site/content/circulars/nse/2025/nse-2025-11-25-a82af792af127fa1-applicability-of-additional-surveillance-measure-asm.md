@@ -27,12 +27,10 @@ source: nse
 stocks:
 - ENFUSE
 tags:
-- additional-surveillance-measure
-- asm
-- long-term-asm
-- margin-requirements
-- surveillance
+- asm-stage
 - enfuse-solutions
+- margin
+- surveillance
 title: Applicability of Additional Surveillance Measure (ASM) - Enfuse Solutions Limited
 ---
 

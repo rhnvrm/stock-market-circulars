@@ -24,14 +24,14 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - kotak
+- mutual-fund
 - nifty-alpha-50
-- star-mf-platform
 - sip
 - stp
 - swp
-- equity-fund
+- trading-platform
 title: KOTAK NIFTY ALPHA 50 INDEX FUND Reopening for Ongoing Transactions on BSE StAR
   MF Platform
 ---

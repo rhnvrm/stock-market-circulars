@@ -28,14 +28,14 @@ source: nse
 stocks:
 - VIVIMEDLAB
 tags:
-- trading-suspension
-- revocation
-- compliance
-- lodr-regulations
-- financial-reporting
-- trade-for-trade
 - be-series
-- special-pre-open-session
+- call-money
+- compliance
+- financial-reporting
+- lodr
+- release
+- suspension
+- trade-for-trade
 title: Revocation of Suspension of Trading in Equity Shares of Vivimed Labs Limited
 ---
 

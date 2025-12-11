@@ -26,10 +26,10 @@ source: bse
 stocks:
 - VRLLOG
 tags:
-- bonus-issue
+- bonus
+- equity
 - record-date
 - trading
-- equity-shares
 - vrl-logistics
 title: Bonus Issue of VRL Logistics Limited - Record Date and Trading Details
 ---

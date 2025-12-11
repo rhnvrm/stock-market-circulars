@@ -24,16 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544606'
-- '544607'
+- PINELABS
+- SHTL
 tags:
-- index-addition
+- bse-index
+- index-change
 - ipo
 - listing
-- pine-labs
 - shining-tools
-- bse-ipo-index
-- bse-sme-ipo-index
 title: Additions to the BSE Indices - Pine Labs Limited and Shining Tools Limited
 ---
 

@@ -27,8 +27,8 @@ stocks:
 - BAJFINANCE
 tags:
 - clarification
-- volume-spurt
 - disclosure
+- price-movement
 - surveillance
 title: Clarifications received from companies regarding volume spurt
 ---

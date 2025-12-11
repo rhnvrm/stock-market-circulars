@@ -27,13 +27,12 @@ source: bse
 stocks:
 - VARROCENG
 tags:
-- debt
-- debentures
-- part-redemption
-- record-date
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
 - interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of VARROC ENGINEERING LIMITED
 ---
 

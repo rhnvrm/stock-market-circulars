@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PFL
 tags:
-- shareholding-pattern
+- equity
 - listing
 - piramal-finance
-- equity-shares
 - quarterly-report
 - regulation-31
+- shareholding-pattern
 title: Listing of Equity Shares of Piramal Finance Limited (Formerly Piramal Capital
   & Housing Finance Limited)
 ---

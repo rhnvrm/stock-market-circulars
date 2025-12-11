@@ -62,7 +62,7 @@ stocks:
 - MEDICOINTE
 - MEHAI
 - MFLINDIA
-- MODISON
+- MODISONLTD
 - MOTOGEN
 - MULTICOMMODITY
 - NAKODAGROU
@@ -85,11 +85,11 @@ stocks:
 - SIEMENS
 - SIRCAPAINT
 - SKMEGG
-- SMLMAHINDRA
+- SMLMAH
 - SOMANYCERA
 - SONALADHES
 - SOUTHINDIAN
-- SPRIGHTAGRO
+- SPRIGHT
 - SRUSTEEL
 - STANLEYLIFE
 - STARLINEPS
@@ -99,7 +99,7 @@ stocks:
 - SUPERTANNER
 - SURAJESTATE
 - TARC
-- TATAMOTORS
+- TMCV
 - TATATECH
 - TEJAS
 - TENNECO
@@ -108,14 +108,14 @@ stocks:
 - UNIVERSUS
 - UTIMF
 - VAIBHAVGLO
-- VIKRAMSOLAR
+- VIKRAMSOLR
 - VIKRANENGIN
 - WOCKPHARMA
 tags:
-- demat-auction
+- collateral
+- demat
+- securities-auction
 - settlement
-- auction-list
-- securities-lending
 title: Demat Auction - Settlement No. 767
 ---
 

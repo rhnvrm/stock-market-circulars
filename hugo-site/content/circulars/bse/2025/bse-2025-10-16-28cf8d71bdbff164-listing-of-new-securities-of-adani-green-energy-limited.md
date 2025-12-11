@@ -28,12 +28,11 @@ source: bse
 stocks:
 - ADANIGREEN
 tags:
+- conversion
+- equity
 - listing
-- preferential-allotment
-- warrant-conversion
+- preferential-issue
 - promoter-funding
-- equity-shares
-- adani-green-energy
 title: Listing of New Securities of Adani Green Energy Limited
 ---
 

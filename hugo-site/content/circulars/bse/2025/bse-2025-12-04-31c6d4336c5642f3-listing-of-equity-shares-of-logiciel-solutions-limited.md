@@ -26,12 +26,12 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
-- shareholding-pattern
+- equity
 - ipo
 - listing
-- equity-shares
+- lodr
 - regulation-31
-- sebi-lodr
+- shareholding-pattern
 title: Listing of Equity Shares of Logiciel Solutions Limited
 ---
 

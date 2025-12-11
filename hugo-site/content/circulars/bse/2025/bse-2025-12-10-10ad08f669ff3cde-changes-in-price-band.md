@@ -38,10 +38,10 @@ stocks:
 - ROTOGRAPH
 - SHYAMCENT
 tags:
+- equity
 - price-band
 - surveillance
 - trading-restrictions
-- equity-segment
 title: Changes in Price Band for 11 Securities Effective December 11, 2025
 ---
 

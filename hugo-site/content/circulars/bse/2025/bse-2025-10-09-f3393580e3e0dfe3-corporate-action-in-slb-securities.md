@@ -28,15 +28,15 @@ stocks:
 - IRFC
 - ANANDRATHI
 - SKFINDIA
-- TATAMOTORS
+- TMCV
 tags:
+- book-closure
+- collateral
 - corporate-action
-- slb
-- securities-lending-borrowing
 - dividend
-- spin-off
-- shut-period
 - foreclosure
+- scheme-of-arrangement
+- slb
 title: Corporate Action in SLB Securities
 ---
 

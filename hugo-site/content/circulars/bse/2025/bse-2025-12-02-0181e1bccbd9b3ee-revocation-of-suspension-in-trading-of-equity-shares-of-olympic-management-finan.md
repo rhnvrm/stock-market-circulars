@@ -27,12 +27,11 @@ source: bse
 stocks:
 - OLYMPICM
 tags:
-- revocation
-- suspension
-- equity-shares
-- trading-resumption
-- olympic-management
+- equity
+- release
 - scrip-511632
+- suspension
+- trading-resumption
 title: Revocation of Suspension in Trading of Equity Shares of Olympic Management
   & Financial Services Ltd.
 ---

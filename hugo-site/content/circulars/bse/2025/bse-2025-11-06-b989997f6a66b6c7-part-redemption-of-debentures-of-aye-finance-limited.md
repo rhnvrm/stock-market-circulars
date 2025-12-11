@@ -28,13 +28,13 @@ source: bse
 stocks:
 - AYEFINANCE
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
+- face-value-change
 - interest-payment
+- ncd
 - record-date
-- reduced-face-value
-- debt
-- corporate-actions
+- redemption
 title: Part Redemption of Debentures of AYE FINANCE LIMITED
 ---
 

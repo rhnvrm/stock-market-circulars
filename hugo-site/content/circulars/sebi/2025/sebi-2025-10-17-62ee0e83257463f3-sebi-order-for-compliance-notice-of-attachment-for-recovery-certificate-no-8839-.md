@@ -26,14 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- recovery-certificate
-- unregistered-activities
-- portfolio-management
-- investment-advisory
-- notice-of-attachment
-- recovery-proceedings
 - compliance
+- enforcement
+- investment-adviser
+- notice-of-attachment
+- portfolio-management
+- recovery
+- unregistered-activities
 title: SEBI Notice of Attachment - Recovery Certificate No. 8839 of 2025 Against Ameet
   Savant, Crefin India Management Pvt. Ltd. and Directors
 ---

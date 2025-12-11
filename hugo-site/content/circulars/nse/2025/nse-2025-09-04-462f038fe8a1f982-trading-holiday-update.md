@@ -26,11 +26,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading-holiday
-- currency-derivatives
+- derivatives
+- holiday
 - id-e-milad
-- settlement-schedule
 - rbi-notification
+- settlement
 title: Trading Holiday Update - September 08, 2025 Replaces September 05, 2025
 ---
 

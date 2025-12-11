@@ -26,16 +26,16 @@ severity: medium
 source: bse
 stocks:
 - AAREYDRUGS
-- ANKAINDIA
+- ANKIN
 - ARUNJYOTI
 - ATHENACON
 - CHAMBALBREW
-- CLNENERGY
+- CLN
 - COLORCHIPS
 - DANUBE
 - EIGHTYJEW
 - ELANGO
-- GUjinvest
+- GUJINVEST
 - INTGLOBE
 - MAHAVEER
 - MILESTONE
@@ -58,13 +58,13 @@ stocks:
 - VARDHMAN
 - VASHUBHAG
 - VENUSREM
-- VIJIFINANCE
+- VIJIFIN
 - WOMENNET
 tags:
+- equity
 - price-band
 - surveillance
 - trading-restrictions
-- equity
 title: Changes in Price Band for 35 Securities
 ---
 

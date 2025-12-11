@@ -26,12 +26,11 @@ source: nse
 stocks:
 - VEDL
 tags:
-- dividend
-- futures
-- options
 - corporate-action
 - derivatives
-- vedl
+- dividend
+- futures-options
+- options
 title: 'DIVIDEND: Adjustment of Futures and Options contracts in the security VEDL'
 ---
 

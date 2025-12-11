@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- demand-notice
 - certificate
-- regulatory-action
+- demand-notice
+- enforcement
+- regulatory
 - wealth-management
 title: 'Certificate No. RC8840 of 2025: Notice of Demand in respect of Prosperous
   Vyapaar Pvt. Ltd.'

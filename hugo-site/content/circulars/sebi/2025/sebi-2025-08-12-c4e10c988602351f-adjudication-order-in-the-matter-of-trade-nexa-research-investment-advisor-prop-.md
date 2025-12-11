@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- investment-advisor
-- fee-violations
-- misleading-clients
+- adjudication
 - compliance
-- penalties
+- fee-violations
+- investment-adviser
+- misleading-clients
+- penalty
 title: Adjudication Order Against Trade Nexa Research Investment Advisor for Fee Violations
   and Misleading Clients
 ---

@@ -26,11 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- slb
-- settlement
-- reverse-leg
 - contract-expiry
+- reverse-leg
 - rms
+- settlement
+- slb
 title: Revised Settlement Programme for SLB Reverse Leg Segment for October to December
   2025
 ---

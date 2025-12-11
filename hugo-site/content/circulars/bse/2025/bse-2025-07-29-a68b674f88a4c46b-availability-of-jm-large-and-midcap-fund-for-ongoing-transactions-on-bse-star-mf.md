@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - jm-amc
+- mutual-fund
+- reopening
 - sip
 - stp
 - swp
-- reopening
 title: JM Large and Midcap Fund Reopened for Ongoing Transactions on BSE StAR MF Platform
 ---
 

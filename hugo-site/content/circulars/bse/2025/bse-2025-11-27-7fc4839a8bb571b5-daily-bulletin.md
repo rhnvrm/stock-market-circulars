@@ -30,14 +30,14 @@ stocks:
 - EDELFIN
 - HUDCO
 tags:
+- bond
 - book-closure
-- record-date
+- daily-bulletin
 - dividend
 - interest-payment
-- redemption
 - ncd
-- bonds
-- daily-bulletin
+- record-date
+- redemption
 title: Daily Bulletin - Book-Closure/Record Date/Dividend Schedule
 ---
 

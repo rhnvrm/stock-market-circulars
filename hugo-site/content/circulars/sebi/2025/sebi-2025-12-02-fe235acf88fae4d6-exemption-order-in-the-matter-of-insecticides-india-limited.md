@@ -29,11 +29,11 @@ stocks:
 - INSECTICID
 tags:
 - exemption-order
-- takeover
-- sast-regulations
 - family-trust
 - promoter-restructuring
+- regulatory-framework
 - share-acquisition
+- takeover
 title: Exemption Order in the matter of Insecticides (India) Limited
 ---
 

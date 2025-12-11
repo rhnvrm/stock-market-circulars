@@ -26,13 +26,11 @@ source: nse
 stocks:
 - GE_SHIPPING
 tags:
-- suspension
-- non-convertible-debentures
+- debt-securities
 - ncd
-- debt-market
-- redemption
 - privately-placed
-- debentures
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures (Privately Placed)
 ---
 

@@ -26,12 +26,10 @@ source: bse
 stocks:
 - MANPASAND
 tags:
+- appeal
 - delisting
-- compulsory-delisting
-- manpasand-beverages
+- regulatory-framework
 - suspension
-- sat-order
-- sebi-regulations
 title: Compulsory Delisting of Manpasand Beverages Ltd Effective August 05, 2025
 ---
 

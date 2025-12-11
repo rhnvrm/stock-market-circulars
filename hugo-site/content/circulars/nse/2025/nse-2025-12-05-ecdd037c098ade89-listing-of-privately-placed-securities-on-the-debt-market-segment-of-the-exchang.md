@@ -25,7 +25,7 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML71656.pdf
 severity: low
 source: nse
 stocks:
-- TATACAPITAL
+- TATACAP
 - HSBCINVEST
 - GODREJIND
 - ISEC
@@ -33,11 +33,10 @@ stocks:
 - ASEEMINFRA
 - L&TFH
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
 - private-placement
-- debt-securities
 title: Listing of Privately Placed Debt Securities - December 05, 2025
 ---
 

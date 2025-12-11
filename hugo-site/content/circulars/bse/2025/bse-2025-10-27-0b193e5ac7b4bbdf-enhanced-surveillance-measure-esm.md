@@ -32,13 +32,12 @@ stocks:
 - NIVAKA
 - ONTIC
 - TIMESGREEN
-- NIDHIGRANITES
+- NIDHGRN
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-measure
+- asm-stage
+- market-operations
+- surveillance
 - trading-restrictions
-- market-regulation
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective October
   28, 2025
 ---

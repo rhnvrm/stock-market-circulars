@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - algo-trading
-- empanelment
-- trading-solutions
-- vendor-approval
 - derivatives
+- empanelment
+- market-infrastructure
+- vendor-approval
 title: Algo Provider – Provisional Empanelment for providing Algorithmic Trading Solutions
 ---
 

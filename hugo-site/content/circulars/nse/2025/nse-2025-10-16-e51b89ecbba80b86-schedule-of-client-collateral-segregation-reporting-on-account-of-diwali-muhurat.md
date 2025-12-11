@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- client-collateral
-- segregation-reporting
-- muhurat-trading
-- diwali
 - clearing
+- client-collateral
 - compliance-deadline
-- trading-members
+- diwali
+- segregation-reporting
+- trading-member
+- trading-session
 title: Schedule of Client Collateral Segregation Reporting on account of Diwali -
   Muhurat Trading Session
 ---

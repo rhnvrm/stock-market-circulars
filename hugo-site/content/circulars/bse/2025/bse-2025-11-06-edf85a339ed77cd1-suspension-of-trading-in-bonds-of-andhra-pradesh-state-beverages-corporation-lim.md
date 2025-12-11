@@ -26,12 +26,12 @@ source: bse
 stocks:
 - APSBCL
 tags:
-- trading-suspension
-- bonds
+- bond
+- corporate-action
 - debt-securities
-- redemption
 - interest-payment
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of ANDHRA PRADESH STATE BEVERAGES CORPORATION
   LIMITED
 ---

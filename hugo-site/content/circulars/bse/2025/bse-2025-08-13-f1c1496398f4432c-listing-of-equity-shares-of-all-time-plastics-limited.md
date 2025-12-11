@@ -25,10 +25,9 @@ source: bse
 stocks:
 - ALLTIME
 tags:
+- company-related
+- equity
 - listing
-- equity-shares
-- new-company
-- ALLTIME
 title: Listing of Equity Shares of ALL TIME PLASTICS LIMITED
 ---
 

@@ -48,11 +48,10 @@ stocks:
 - TITANBIO
 - VIMTA
 tags:
+- asm-stage
+- market-operations
 - surveillance
 - trading
-- asm
-- st-asm
-- market-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- etf
-- nfo
 - dsp-mutual-fund
-- bse-star-mf
 - equity
+- etf
 - msci-india
+- mutual-fund
+- nfo
 title: Launch of ETF NFO of DSP Mutual Fund on BSE StAR MF Platform
 ---
 

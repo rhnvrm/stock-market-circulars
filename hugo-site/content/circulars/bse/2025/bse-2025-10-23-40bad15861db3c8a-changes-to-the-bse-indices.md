@@ -27,19 +27,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '532960'
-- '533520'
-- '532939'
-- '532900'
+- IBULLSLTD
+- RPOWER
+- PAISALO
 tags:
-- index-changes
-- amalgamation
 - corporate-action
 - dhani-services
-- yaari-digital
-- reliance-power
+- index-change
 - paisalo-digital
-- index-rebalancing
+- reliance-power
+- scheme-of-arrangement
+- yaari-digital
 title: Changes to the BSE Indices - Dhani Services Amalgamation
 ---
 

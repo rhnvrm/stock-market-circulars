@@ -26,12 +26,11 @@ source: nse
 stocks:
 - CHOLAFIN
 tags:
-- suspension
-- non-convertible-debentures
-- ncd
-- maturity
-- debt-securities
 - cholamandalam
+- debt-securities
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - Cholamandalam Investment
   and Finance Company Limited
 ---

@@ -26,13 +26,13 @@ source: sebi
 stocks:
 - BIR
 tags:
-- recovery-certificate
-- compliance
-- bir-finance
-- illiquid-stocks
-- bse
 - attachment
+- bir-finance
+- bse
+- compliance
 - enforcement
+- illiquid-stocks
+- recovery
 title: SEBI Order for Compliance – Notice of Attachment for Recovery Certificate No.
   8811 of 2025 against BIR Finance Private Limited
 ---

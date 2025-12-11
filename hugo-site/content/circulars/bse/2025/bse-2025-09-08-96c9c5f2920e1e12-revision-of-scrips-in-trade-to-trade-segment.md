@@ -25,7 +25,7 @@ severity: medium
 source: bse
 stocks:
 - SILVERLINETECH
-- ROLLATAINERS
+- ROLLT
 - IFBAGRO
 - DCMFINSERV
 - STANDARDCAP
@@ -35,7 +35,7 @@ stocks:
 - HCPPLAST
 - VENUSREM
 - ANUPAMFIN
-- CHOKSIASIA
+- CHOKSI
 - ZEELEARN
 - LYPSAGEMS
 - GOLDCOINHF
@@ -44,10 +44,10 @@ stocks:
 - RELHOMEFIN
 - ASSOCIATEDCOAT
 tags:
-- trade-to-trade
+- asm-stage
 - segment-revision
+- trade-to-trade
 - trading-category
-- surveillance-measure
 title: Revision of Scrips in Trade to Trade Segment - Securities Moving Out of T2T
   Category
 ---

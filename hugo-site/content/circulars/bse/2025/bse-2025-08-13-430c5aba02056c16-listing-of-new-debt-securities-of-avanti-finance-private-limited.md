@@ -26,11 +26,11 @@ source: bse
 stocks:
 - AVANTI
 tags:
+- avanti-finance
 - debt-securities
 - listing
+- ncd
 - private-placement
-- avanti-finance
-- debentures
 title: Listing of new debt securities of AVANTI FINANCE PRIVATE LIMITED
 ---
 

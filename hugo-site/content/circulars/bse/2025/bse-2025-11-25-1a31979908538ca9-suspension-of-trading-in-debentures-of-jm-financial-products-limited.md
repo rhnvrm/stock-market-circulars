@@ -28,15 +28,14 @@ source: bse
 stocks:
 - JMFPL
 tags:
-- trading-suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- record-date
 - jm-financial-products
-- debt-segment
-- corporate-actions
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Products Limited
 ---
 

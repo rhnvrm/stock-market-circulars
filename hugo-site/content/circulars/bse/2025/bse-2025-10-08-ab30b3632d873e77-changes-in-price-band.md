@@ -43,10 +43,10 @@ stocks:
 - VALENCIA
 - VMSTMT
 tags:
+- market-controls
 - price-band
 - surveillance
-- trading-parameters
-- market-controls
+- trading-operations
 title: BSE Revises Price Bands for 17 Securities Effective October 9, 2025
 ---
 

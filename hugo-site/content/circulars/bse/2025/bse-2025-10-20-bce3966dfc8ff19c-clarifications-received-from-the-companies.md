@@ -27,12 +27,11 @@ stocks:
 - BBTC
 - TARAPUR
 tags:
-- price-movement
-- volume-movement
-- surveillance
 - disclosure
+- market-operations
+- price-movement
 - regulation-30
-- market-driven
+- surveillance
 title: Clarifications received from the companies
 ---
 

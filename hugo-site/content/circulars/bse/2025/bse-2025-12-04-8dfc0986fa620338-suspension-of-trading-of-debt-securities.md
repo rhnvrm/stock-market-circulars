@@ -29,11 +29,11 @@ stocks:
 - DIAL
 - AFL
 tags:
+- corporate-action
 - debt-securities
-- suspension
 - delisting
 - redemption
-- corporate-actions
+- suspension
 - trading-halt
 title: Suspension of Trading of Debt Securities
 ---

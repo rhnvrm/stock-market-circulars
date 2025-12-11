@@ -26,14 +26,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- listing
-- eligibility-criteria
-- sme
-- main-board
-- migration
-- direct-listing
-- market-capitalisation
 - compliance
+- direct-listing
+- eligibility-criteria
+- listing
+- main-board
+- market-capitalisation
+- migration
+- sme
 title: Revision in the Eligibility Criteria for companies listed on other recognized
   stock exchanges seeking direct listing to Main Board
 ---

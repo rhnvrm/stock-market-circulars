@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GVFILMS
+- GVFILM
 tags:
-- z-group
-- x-group
-- group-transfer
-- penal-actions
+- asm-stage
+- group-change
 - gv-films
+- penal-actions
 - sebi-master-circular
 title: GV Films Ltd to be Moved Out of Z Group to X Group
 ---

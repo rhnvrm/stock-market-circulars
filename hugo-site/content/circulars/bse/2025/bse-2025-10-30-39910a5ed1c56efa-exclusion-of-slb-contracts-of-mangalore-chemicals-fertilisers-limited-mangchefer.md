@@ -27,12 +27,11 @@ source: bse
 stocks:
 - MANGCHEFER
 tags:
-- slb-segment
-- securities-lending-borrowing
-- exclusion
-- amalgamation
-- mangchefer
-- trading-suspension
+- addition
+- collateral
+- scheme-of-arrangement
+- slb
+- suspension
 title: Exclusion of SLB Contracts of Mangalore Chemicals & Fertilisers Limited from
   SLB Segment
 ---

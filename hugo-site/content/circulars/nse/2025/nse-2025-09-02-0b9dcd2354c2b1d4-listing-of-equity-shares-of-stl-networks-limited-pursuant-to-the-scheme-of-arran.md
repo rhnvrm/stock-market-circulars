@@ -26,12 +26,10 @@ source: nse
 stocks:
 - STLNETWORK
 tags:
+- equity
 - listing
-- equity-shares
 - scheme-of-arrangement
-- demerger
-- STL
-- STLNETWORK
+- stl
 title: Listing of Equity Shares of STL Networks Limited pursuant to Scheme of Arrangement
 ---
 

@@ -30,11 +30,10 @@ stocks:
 - REFEXREN
 - SEATVNET
 tags:
-- enhanced-surveillance
-- esm
+- asm-stage
 - framework
 - securities
-- surveillance-measure
+- surveillance
 - trading
 title: Enhanced Surveillance Measure (ESM) Framework Updates - September 2025
 ---

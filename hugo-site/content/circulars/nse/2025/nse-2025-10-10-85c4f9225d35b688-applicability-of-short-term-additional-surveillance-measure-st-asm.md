@@ -37,11 +37,9 @@ stocks:
 - RUSHIL
 - UMIYA-MRO
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

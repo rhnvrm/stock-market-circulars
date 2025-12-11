@@ -28,10 +28,10 @@ stocks:
 - HEMO
 tags:
 - adjudication
-- trading-violations
-- pfutp-regulations
-- enforcement-action
+- enforcement
 - hemo-organic
+- regulatory-framework
+- trading-operations
 title: Adjudication order in the matter of Hemo Organic Limited
 ---
 

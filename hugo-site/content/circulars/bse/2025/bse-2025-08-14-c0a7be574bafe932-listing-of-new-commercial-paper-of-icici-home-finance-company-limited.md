@@ -26,10 +26,9 @@ stocks:
 - ICICIBANK
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - icici-home-finance
 - private-placement
-- debt-market
 title: Listing of New Commercial Paper of ICICI HOME FINANCE COMPANY LIMITED
 ---
 

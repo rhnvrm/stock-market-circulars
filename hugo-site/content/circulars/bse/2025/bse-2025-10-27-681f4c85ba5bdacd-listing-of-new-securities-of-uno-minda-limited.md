@@ -28,11 +28,9 @@ source: bse
 stocks:
 - UNOMINDA
 tags:
-- listing
-- amalgamation
-- equity-shares
-- uno-minda
+- equity
 - kosei-minda
+- listing
 - scheme-of-arrangement
 title: Listing of New Securities of UNO Minda Limited Pursuant to Scheme of Amalgamation
 ---

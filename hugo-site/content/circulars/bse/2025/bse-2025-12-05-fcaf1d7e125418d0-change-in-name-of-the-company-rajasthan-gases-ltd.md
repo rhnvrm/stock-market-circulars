@@ -26,9 +26,9 @@ source: bse
 stocks:
 - RAJGAS
 tags:
-- company-name-change
-- rajasthan-gases
 - corporate-action
+- name-change
+- rajasthan-gases
 title: Change in Name of the Company - Rajasthan Gases Ltd
 ---
 

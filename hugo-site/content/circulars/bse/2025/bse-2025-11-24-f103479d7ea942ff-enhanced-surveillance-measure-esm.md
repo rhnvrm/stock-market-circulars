@@ -27,18 +27,16 @@ severity: high
 source: bse
 stocks:
 - SSPNFIN
-- TCM
+- TCMLMTD
 - COVIDH
 - GAUTAMEX
 - MSRINDIA
 - YURANUS
 tags:
-- enhanced-surveillance-measure
-- esm
+- asm-stage
+- market-operations
 - surveillance
 - trading-restrictions
-- market-monitoring
-- stage-movement
 title: Enhanced Surveillance Measure (ESM) - Securities Movement Effective November
   25, 2025
 ---

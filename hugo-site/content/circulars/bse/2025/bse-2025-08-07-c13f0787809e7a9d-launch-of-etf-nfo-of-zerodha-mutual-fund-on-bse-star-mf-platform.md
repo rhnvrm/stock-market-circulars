@@ -26,11 +26,10 @@ source: bse
 stocks: []
 tags:
 - etf
-- nfo
+- gsec
 - mutual-fund
-- government-securities
+- nfo
 - zerodha
-- bse-star-mf
 title: Launch of ZERODHA NIFTY 8-13 YR G-SEC ETF NFO on BSE StAR MF Platform
 ---
 

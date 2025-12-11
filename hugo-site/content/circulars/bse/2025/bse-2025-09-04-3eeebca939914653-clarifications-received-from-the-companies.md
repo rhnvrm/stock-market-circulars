@@ -23,14 +23,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- BHARATSEATS
+- BHARATSE
 - GRASIM
 - INDUSTOWER
 tags:
-- clarifications
-- price-movement
-- volume-movement
+- clarification
 - disclosure
+- price-movement
 - regulation-30
 title: Company Clarifications on Stock Price and Volume Movements
 ---

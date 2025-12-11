@@ -28,10 +28,9 @@ stocks:
 - BBCT
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- bbct
+- debt-securities
 - kotak-mahindra-bank
+- private-placement
 title: Listing of new Commercial Paper of The Bombay Burmah Trading Corporation Ltd.
 ---
 

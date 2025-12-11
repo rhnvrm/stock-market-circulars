@@ -27,15 +27,15 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- municipal-bonds
-- reit
-- invit
-- urban-local-bodies
-- infrastructure-financing
-- outreach-programme
 - chhattisgarh
-- raipur
+- infrastructure-financing
+- invit
+- municipal-bonds
+- outreach-programme
 - public-assets-monetization
+- raipur
+- reit
+- urban-local-bodies
 title: SEBI Hosts Municipal Bond and REIT/InvIT Outreach Programme in Raipur to Boost
   Urban Infrastructure Financing
 ---

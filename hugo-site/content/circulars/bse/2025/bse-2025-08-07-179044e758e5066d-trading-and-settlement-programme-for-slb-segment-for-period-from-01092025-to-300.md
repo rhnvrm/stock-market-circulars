@@ -25,10 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- slb
+- collateral
 - settlement
+- slb
 - trading-schedule
-- securities-lending-borrowing
 title: Trading and Settlement Programme for SLB Segment - September 2025
 ---
 

@@ -28,13 +28,11 @@ source: bse
 stocks:
 - HINDUNILVR
 tags:
-- derivatives
-- futures-and-options
-- corporate-action
-- scheme-of-arrangement
-- demerger
 - contract-adjustment
-- HINDUNILVR
+- corporate-action
+- derivatives
+- futures-options
+- scheme-of-arrangement
 title: Adjustment of Futures and Options contracts on account of Scheme of Arrangement
   of Hindustan Unilever Ltd
 ---

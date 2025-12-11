@@ -26,11 +26,11 @@ source: bse
 stocks:
 - VARROC
 tags:
-- corporate-actions
-- debentures
-- part-redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- debt
+- ncd
+- redemption
 - varroc-engineering
 title: Part Redemption of Debentures of VARROC ENGINEERING LIMITED
 ---

@@ -26,16 +26,16 @@ source: bse
 stocks:
 - COVIDH
 - ELEGANT
-- HINDrectifiers
-- OMAXAUTOS
-- PANTHINFINITY
+- HIRECT
+- OMAXAUTO
+- PANTH
 - VINTAGE
 - YURANUS
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for Seven Securities
 ---
 

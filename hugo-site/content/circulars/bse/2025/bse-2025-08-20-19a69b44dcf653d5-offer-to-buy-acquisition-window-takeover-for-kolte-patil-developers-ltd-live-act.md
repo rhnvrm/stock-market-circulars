@@ -26,12 +26,9 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover
-- acquisition
-- offer-to-buy
-- kolte-patil
-- trading-schedule
 - otb
+- takeover
+- trading-schedule
 title: Offer to Buy - Acquisition Window (Takeover) for Kolte Patil Developers Ltd
   - Live Activities Schedule
 ---

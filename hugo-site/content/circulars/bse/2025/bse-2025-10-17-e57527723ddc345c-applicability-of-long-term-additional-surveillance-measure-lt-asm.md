@@ -36,12 +36,10 @@ stocks:
 - SABTV
 - IRONWOOD
 tags:
-- surveillance
-- asm
-- long-term-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - regulatory-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

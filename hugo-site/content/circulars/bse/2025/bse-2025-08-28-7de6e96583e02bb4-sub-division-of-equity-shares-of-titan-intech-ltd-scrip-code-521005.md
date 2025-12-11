@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TITANINTECH
+- TITANIN
 tags:
-- corporate-actions
-- subdivision
-- equity-shares
+- corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: Sub-Division of Equity Shares of Titan Intech Ltd
 ---
 

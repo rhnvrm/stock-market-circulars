@@ -26,9 +26,8 @@ source: bse
 stocks:
 - ADISHAKTI
 tags:
-- gsm
+- asm-stage
 - surveillance
-- stage-movement
 - trading-restrictions
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages

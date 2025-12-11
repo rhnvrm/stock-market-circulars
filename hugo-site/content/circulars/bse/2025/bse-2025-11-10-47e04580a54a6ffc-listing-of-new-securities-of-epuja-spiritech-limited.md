@@ -27,11 +27,11 @@ source: bse
 stocks:
 - EPUJA
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of EPUJA SPIRITECH LIMITED - 12 Lakh Equity Shares
 ---
 

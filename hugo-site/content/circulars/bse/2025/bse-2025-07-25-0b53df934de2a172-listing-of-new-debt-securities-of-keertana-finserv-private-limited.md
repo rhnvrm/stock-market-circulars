@@ -25,12 +25,12 @@ source: bse
 stocks:
 - KFPL
 tags:
-- debt-securities
-- new-listing
-- private-placement
-- keertana-finserv
-- corporate-bonds
+- bond
 - bse-debt-segment
+- debt-securities
+- keertana-finserv
+- listing
+- private-placement
 title: BSE Lists New Debt Securities of Keertana Finserv Private Limited
 ---
 

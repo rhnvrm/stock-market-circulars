@@ -28,13 +28,12 @@ source: bse
 stocks:
 - HELLOJI
 tags:
-- trading-segment
+- asm-stage
 - group-change
-- sme-ipo
 - rolling-segment
+- sme
 - trade-for-trade
-- mt-group
-- m-group
+- trading
 title: Change in Group of Equity Shares of HELLOJI HOLIDAYS LIMITED
 ---
 

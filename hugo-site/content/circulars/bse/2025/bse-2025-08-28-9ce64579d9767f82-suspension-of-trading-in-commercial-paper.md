@@ -29,12 +29,10 @@ stocks:
 - HDFCSEC
 tags:
 - commercial-paper
-- suspension
+- debt-securities
+- hdfc-securities
 - redemption
-- debt-segment
-- BHEL
-- BCML
-- HDFC-Securities
+- suspension
 title: Suspension of Trading in Commercial Paper of Five Companies
 ---
 

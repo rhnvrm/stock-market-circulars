@@ -25,11 +25,10 @@ source: bse
 stocks:
 - JSWENERGY
 tags:
-- commercial-paper
-- debt-listing
-- jsw-energy
-- private-placement
 - axis-bank
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of JSW Energy Limited
 ---
 

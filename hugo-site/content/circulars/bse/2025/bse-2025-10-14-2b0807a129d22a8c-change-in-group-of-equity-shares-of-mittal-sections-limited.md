@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544575'
+- MITTALSTL
 tags:
 - group-change
-- sme
-- rolling-segment
-- trade-for-trade
 - mittal-sections
+- rolling-segment
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of MITTAL SECTIONS LIMITED
 ---
 

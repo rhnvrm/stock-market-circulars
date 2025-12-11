@@ -38,12 +38,9 @@ stocks:
 - TECHM
 - UTIAMC
 tags:
+- equity
 - esop
-- esos
-- equity-listing
-- securities-listing
-- employee-stock-options
-- new-listing
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - November 19, 2025
 ---
 

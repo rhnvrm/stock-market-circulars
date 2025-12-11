@@ -28,11 +28,10 @@ source: bse
 stocks:
 - VFPL
 tags:
-- debentures
-- trading-suspension
-- early-redemption
-- debt-market
+- debt-securities
 - ncd
+- redemption
+- suspension
 - varthana-finance
 title: Suspension of Trading in Debentures of Varthana Finance Pvt Ltd
 ---

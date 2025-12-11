@@ -28,12 +28,10 @@ source: bse
 stocks:
 - MAGNUMVEN
 tags:
-- debt
-- debentures
+- debt-securities
+- ncd
+- redemption
 - suspension
-- early-redemption
-- magnum-ventures
-- non-convertible-debentures
 - trading-halt
 title: Suspension of Trading in Debentures of MAGNUM VENTURES LIMITED
 ---

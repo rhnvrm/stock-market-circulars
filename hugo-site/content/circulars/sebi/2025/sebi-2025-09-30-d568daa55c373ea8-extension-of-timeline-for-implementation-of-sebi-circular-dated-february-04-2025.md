@@ -28,13 +28,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- API-trading
-- stock-brokers
-- implementation-timeline
+- algo-trading
 - compliance
 - exchanges
+- implementation-timeline
+- retail-investor
+- stock-broker
 title: Extension of timeline for implementation of SEBI Circular dated February 04,
   2025 on 'Safer participation of retail investors in Algorithmic trading'
 ---

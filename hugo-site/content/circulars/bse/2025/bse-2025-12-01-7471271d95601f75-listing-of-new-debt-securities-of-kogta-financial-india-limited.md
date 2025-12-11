@@ -28,10 +28,10 @@ stocks:
 - KFIL
 tags:
 - debt-securities
-- listing
-- private-placement
 - kogta-financial
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Kogta Financial (India) Limited
 ---
 

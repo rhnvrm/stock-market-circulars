@@ -28,11 +28,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- listing
 - debt-securities
+- icra-a1-plus
+- listing
 - nuvama-custodial-services
 - private-placement
-- icra-a1-plus
 title: Listing of new Commercial Paper of Nuvama Custodial Services Limited
 ---
 

@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - KOLARBIO
 tags:
-- release-order
-- recovery-certificate
-- enforcement
 - adsul-trading
-- kolar-biotech
+- enforcement
+- recovery
+- release
 title: Release Order dated December 04, 2025 issued under RC No. 300 of 2014 drawn
   against Adsul Trading Private Limited in the matter of Kolar Biotech Limited
 ---

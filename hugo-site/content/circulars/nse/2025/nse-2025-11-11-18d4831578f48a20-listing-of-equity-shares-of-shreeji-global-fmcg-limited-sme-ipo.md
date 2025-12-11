@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SHETHJI
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
-- trade-for-trade
+- listing
+- sme
 - surveillance
+- trade-for-trade
 title: Listing of Equity Shares of Shreeji Global FMCG Limited (SME IPO)
 ---
 

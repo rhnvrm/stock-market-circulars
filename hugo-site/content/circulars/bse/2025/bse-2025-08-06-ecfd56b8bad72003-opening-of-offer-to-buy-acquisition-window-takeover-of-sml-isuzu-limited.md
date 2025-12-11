@@ -27,13 +27,10 @@ stocks:
 - SMLISUZU
 - M&M
 tags:
-- takeover
-- open-offer
-- acquisition
+- equity
 - mahindra
-- sml-isuzu
-- sebi-sast
-- equity-shares
+- sast
+- takeover
 title: Opening of Offer to Buy - Acquisition Window (Takeover) of SML ISUZU LIMITED
   by Mahindra & Mahindra Limited
 ---

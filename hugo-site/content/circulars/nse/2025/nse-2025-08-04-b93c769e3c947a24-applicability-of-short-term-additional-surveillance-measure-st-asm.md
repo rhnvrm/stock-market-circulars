@@ -50,10 +50,9 @@ stocks:
 - WHITEFORCE
 - ZUARI
 tags:
-- surveillance
-- asm
-- trading
 - risk-management
+- surveillance
+- trading
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -29,12 +29,10 @@ stocks:
 - SVPGLOBAL
 - OMNITEX
 tags:
-- enhanced-surveillance-measure
-- esm
-- surveillance
-- market-integrity
-- trading-restrictions
+- market-operations
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - November 28, 2025
 ---
 

@@ -24,12 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bank-of-india
+- equity
+- mid-cap
 - mutual-fund
 - nfo
-- bank-of-india
-- mid-cap
-- equity
-- bse-star-mf
 title: Launch of Bank of India Mid Cap Fund NFO on BSE StAR MF Platform
 ---
 

@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
-- neat-version
-- system-upgrade
-- trading-software
-- disaster-recovery
 - bcp-site
+- derivatives
+- disaster-recovery
+- mock-trading
+- system-update
+- trading-platform
+- trading-software
 title: Mock session on Saturday, October 04, 2025 - New version of NEAT 1.5.2
 ---
 

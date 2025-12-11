@@ -27,11 +27,11 @@ stocks:
 - IUTA1
 - IUTAL2
 tags:
-- corporate-actions
+- corporate-action
 - debt-securities
-- ptc-redemption
 - face-value-reduction
 - india-universal-trust
+- ptc-redemption
 title: Part Redemption of PTCs of India Universal Trust AL1 & AL2 - Series A1, A2
   & A3
 ---

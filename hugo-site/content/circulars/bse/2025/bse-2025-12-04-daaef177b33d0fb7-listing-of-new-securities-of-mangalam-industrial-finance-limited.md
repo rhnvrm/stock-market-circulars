@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '537800'
+- MANGIND
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
-- new-securities
 - mangalam-industrial-finance
+- new-securities
+- rights-issue
 title: Listing of New Securities of Mangalam Industrial Finance Limited
 ---
 

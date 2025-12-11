@@ -25,11 +25,11 @@ source: bse
 stocks:
 - RITCO
 tags:
-- new-listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-issue
+- conversion
+- equity
+- listing
+- preferential-issue
+- promoter
 title: Listing of New Securities of Ritco Logistics Limited
 ---
 

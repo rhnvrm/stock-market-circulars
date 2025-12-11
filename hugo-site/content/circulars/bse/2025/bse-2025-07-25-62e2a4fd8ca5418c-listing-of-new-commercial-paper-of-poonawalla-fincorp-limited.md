@@ -25,9 +25,8 @@ stocks:
 - POONAWALLA
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- poonawalla-fincorp
 - short-term-financing
 title: BSE Lists New Commercial Paper of Poonawalla Fincorp Limited
 ---

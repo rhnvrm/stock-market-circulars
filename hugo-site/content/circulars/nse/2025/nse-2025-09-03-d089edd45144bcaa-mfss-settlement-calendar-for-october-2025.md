@@ -26,10 +26,10 @@ source: nse
 stocks: []
 tags:
 - mfss
-- settlement-calendar
-- mutual-funds
-- subscription
+- mutual-fund
 - october-2025
+- settlement-calendar
+- subscription
 title: MFSS Settlement Calendar for October 2025
 ---
 

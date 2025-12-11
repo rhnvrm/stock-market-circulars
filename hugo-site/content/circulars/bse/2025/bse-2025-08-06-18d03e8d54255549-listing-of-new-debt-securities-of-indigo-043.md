@@ -26,9 +26,9 @@ stocks:
 - INDIGO043
 tags:
 - debt-securities
+- indigo
 - listing
 - private-placement
-- indigo
 - ptc
 title: Listing of New Debt Securities of INDIGO 043
 ---

@@ -33,17 +33,11 @@ stocks:
 - GODREJAGROVE
 - NUVOCO
 tags:
-- listing
-- debt-market
+- abmoney
 - commercial-paper
-- privately-placed-securities
-- HDFCSEC
-- ISEC
-- ABCAPITAL
-- GODREJIND
-- GODREJAGROVE
-- NUVOCO
-- ABMONEY
+- debt-securities
+- listing
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - November 21,
   2025
 ---

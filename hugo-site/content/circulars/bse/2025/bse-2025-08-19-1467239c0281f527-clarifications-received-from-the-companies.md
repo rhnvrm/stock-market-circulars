@@ -28,11 +28,11 @@ stocks:
 - KEC
 - RIIL
 tags:
-- volume-movement
-- surveillance
-- disclosure
 - compliance
-- market-driven
+- disclosure
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding volume movement
 ---
 

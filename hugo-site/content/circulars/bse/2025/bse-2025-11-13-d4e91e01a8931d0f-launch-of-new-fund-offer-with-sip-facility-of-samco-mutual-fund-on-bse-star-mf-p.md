@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity-scheme
 - mutual-fund
 - nfo
-- new-fund-offer
 - samco-mutual-fund
-- small-cap-fund
 - sip
-- bse-star-mf
-- equity-scheme
+- small-cap-fund
 title: Launch of SAMCO Small Cap Fund NFO on BSE StAR MF Platform
 ---
 

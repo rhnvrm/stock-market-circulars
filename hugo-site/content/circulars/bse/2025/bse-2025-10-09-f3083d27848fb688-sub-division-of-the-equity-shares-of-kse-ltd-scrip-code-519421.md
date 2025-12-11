@@ -27,11 +27,10 @@ stocks:
 - KSE
 tags:
 - corporate-action
-- stock-split
-- sub-division
-- equity-shares
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-Division of Equity Shares of KSE LTD (Scrip Code: 519421)'
 ---
 

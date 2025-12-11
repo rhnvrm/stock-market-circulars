@@ -32,11 +32,10 @@ stocks:
 - PSIT
 - VANTAGEKNOW
 tags:
-- surveillance
-- asm
 - long-term
-- trading-restrictions
 - risk-management
+- surveillance
+- trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

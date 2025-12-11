@@ -26,10 +26,9 @@ source: nse
 stocks:
 - THELEELA
 tags:
-- name-change
 - corporate-action
 - listing
-- THELEELA
+- name-change
 title: Change in name of Schloss Bangalore Limited to Leela Palaces Hotels & Resorts
   Limited
 ---

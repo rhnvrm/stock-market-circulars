@@ -27,13 +27,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
-- margin-requirements
+- derivatives
 - gold
-- silver
-- risk-management
 - iccl
-- tender-period
+- margin
+- risk-management
+- silver
+- tender-offer
 title: Update on Additional Margin in All Variants of Gold and Silver
 ---
 

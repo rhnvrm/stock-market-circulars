@@ -27,12 +27,12 @@ source: nse
 stocks:
 - MVKAGRO
 tags:
-- listing
+- emerge-platform
+- equity
 - further-issue
-- preferential-allotment
-- sme-emerge
-- equity-shares
+- listing
 - lock-in
+- preferential-issue
 title: Listing of Further Issues of M.V.K. Agro Food Product Limited and Quicktouch
   Technologies Limited
 ---

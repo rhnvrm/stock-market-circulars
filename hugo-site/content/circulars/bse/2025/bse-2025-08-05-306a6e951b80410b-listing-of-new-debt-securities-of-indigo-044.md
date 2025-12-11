@@ -25,11 +25,11 @@ source: bse
 stocks:
 - INDIGO044
 tags:
+- bond
 - debt-securities
+- indigo
 - listing
 - private-placement
-- indigo
-- corporate-bonds
 title: Listing of new debt securities of INDIGO 044
 ---
 

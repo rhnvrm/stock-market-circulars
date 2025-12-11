@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '515008'
+- MODINSU
 tags:
+- asm-stage
+- corporate-action
 - group-change
 - modern-insulators
-- x-group
-- xt-group
-- corporate-actions
-- trading-members
+- trading-member
 title: Change in Group of Equity Shares of MODERN INSULATORS LTD.
 ---
 

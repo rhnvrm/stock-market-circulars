@@ -48,12 +48,12 @@ stocks:
 - JTLIND
 - HITECH
 tags:
-- dividend
-- corporate-action
-- slb
-- securities-lending
 - book-closure
-- ex-date
+- collateral
+- corporate-action
+- dividend
+- record-date
+- slb
 title: Corporate Action in SLB Securities - Dividend Declarations
 ---
 

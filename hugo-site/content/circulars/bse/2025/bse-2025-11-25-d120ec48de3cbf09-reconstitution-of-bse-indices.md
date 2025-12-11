@@ -30,16 +30,16 @@ stocks:
 - LGELEC
 - TATACAP
 tags:
-- index
-- reconstitution
-- bse-allcap
-- bse-midcap
+- bse-consumer-discretionary
+- bse-financial-services
+- bse-index
 - bse-largecap
 - bse-largemidcap
+- bse-midcap
 - bse-midsmallcap
-- bse-financial-services
-- bse-consumer-discretionary
-- index-changes
+- index-change
+- index-fund
+- reconstitution
 title: Reconstitution of BSE Indices - Addition of HDB Financial Services, LG Electronics
   India, and Tata Capital
 ---

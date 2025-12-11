@@ -27,12 +27,12 @@ source: bse
 stocks:
 - MIDLAND
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- face-value-change
 - interest-payment
+- ncd
 - record-date
-- reduced-face-value
-- corporate-actions
+- redemption
 title: Part Redemption of Debentures of MIDLAND MICROFIN LIMITED
 ---
 

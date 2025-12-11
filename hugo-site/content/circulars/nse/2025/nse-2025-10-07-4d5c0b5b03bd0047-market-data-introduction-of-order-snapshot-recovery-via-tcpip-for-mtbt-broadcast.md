@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- market-data
-- mtbt
-- tcp-ip
-- order-snapshot-recovery
-- trading-infrastructure
-- technology
 - cm-segment
+- market-data
+- market-infrastructure
+- mtbt
+- order-snapshot-recovery
+- tcp-ip
+- technology
 title: Market Data - Introduction of Order Snapshot Recovery via TCP/IP for MTBT Broadcast
   in CM Segment
 ---

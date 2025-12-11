@@ -26,17 +26,17 @@ severity: low
 source: nse
 stocks: []
 tags:
+- debt-securities
+- hybrid-long-short-fund
 - mutual-fund
 - qsif
 - quant-mutual-fund
-- hybrid-long-short-fund
-- nse-mf-invest
-- subscriptions
-- redemptions
+- redemption
 - sip
 - stp
+- subscription
 - swp
-- debt-fund
+- trading-platform
 title: Availability of QSIF Hybrid Long-Short Fund for Ongoing Transactions on NSE
   MF Invest Platform
 ---

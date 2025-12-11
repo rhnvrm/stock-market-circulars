@@ -25,9 +25,7 @@ source: bse
 stocks:
 - STELLANT
 tags:
-- bonus-issue
-- stellant-securities
-- '526071'
+- bonus
 - corporate-action
 - equity
 title: Stellant Securities Bonus Issue - Record Date September 12, 2025

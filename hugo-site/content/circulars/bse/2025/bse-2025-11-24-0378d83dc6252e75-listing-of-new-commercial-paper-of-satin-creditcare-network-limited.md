@@ -27,7 +27,7 @@ stocks:
 - SATIN
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - satin-creditcare
 - short-term-debt

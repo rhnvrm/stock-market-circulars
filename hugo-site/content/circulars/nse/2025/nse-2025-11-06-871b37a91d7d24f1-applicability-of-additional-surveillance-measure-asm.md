@@ -27,12 +27,9 @@ source: nse
 stocks:
 - SILLYMONKS
 tags:
-- surveillance
-- additional-surveillance-measure
-- asm
-- margin-requirements
+- margin
 - risk-management
-- SILLYMONKS
+- surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

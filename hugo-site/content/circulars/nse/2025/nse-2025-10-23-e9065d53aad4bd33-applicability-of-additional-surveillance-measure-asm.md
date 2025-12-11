@@ -32,12 +32,9 @@ stocks:
 - SELMC
 - XELPMOC
 tags:
+- asm-stage
 - surveillance
-- asm
-- additional-surveillance-measure
-- long-term-asm
 - trade-restrictions
-- market-surveillance
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

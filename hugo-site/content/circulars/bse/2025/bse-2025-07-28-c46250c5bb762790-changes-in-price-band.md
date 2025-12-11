@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks:
 - GLEN
-- HAMPSBIO
+- HAMPS
 - ICONFAC
 - IBCL
 - KESAR
 - OMNITEX
-- PANTHINFINITY
+- PANTH
 - SHRISTI
 - SOFTRAK
 - PHOSPHATE
@@ -38,9 +38,9 @@ stocks:
 - YARNSYN
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: Changes in Price Band for 13 Securities Effective July 29, 2025
 ---
 

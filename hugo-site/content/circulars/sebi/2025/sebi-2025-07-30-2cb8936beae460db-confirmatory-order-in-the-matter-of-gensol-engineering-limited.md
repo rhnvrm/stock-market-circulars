@@ -28,12 +28,12 @@ stocks:
 - GENSOL
 tags:
 - corporate-governance
-- document-falsification
 - credit-rating
-- enforcement
-- directors
 - debt-servicing
-- compliance-violation
+- directors
+- document-falsification
+- enforcement
+- non-compliance
 title: Confirmatory Order Against Gensol Engineering Limited for Document Falsification
   and Corporate Governance Violations
 ---

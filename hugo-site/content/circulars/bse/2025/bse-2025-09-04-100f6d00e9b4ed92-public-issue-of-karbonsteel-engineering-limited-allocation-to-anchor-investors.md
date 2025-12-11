@@ -26,11 +26,10 @@ source: bse
 stocks:
 - KARBONSTEEL
 tags:
-- public-issue
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - ipo
-- karbonsteel-engineering
+- public-issue
 title: Public Issue of Karbonsteel Engineering Limited - Allocation to Anchor Investors
 ---
 

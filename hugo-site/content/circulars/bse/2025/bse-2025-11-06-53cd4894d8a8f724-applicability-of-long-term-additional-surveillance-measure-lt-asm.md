@@ -28,10 +28,9 @@ stocks:
 - DUKE
 - LIBORD
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- LT-ASM
-- additional-surveillance-measure
-- market-integrity
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

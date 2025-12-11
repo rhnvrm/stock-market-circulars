@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- compliance
+- derivatives
+- iti-securities
 - membership
 - surrender
 - trading-member
-- currency-derivatives
-- ITI-securities
-- compliance
 title: Segmental Surrender of Membership - ITI Securities Broking Limited
 ---
 

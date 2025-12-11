@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- front-running
-- pfutp-regulations
-- trading-violations
-- enforcement-action
-- eastman-group
+- adjudication
 - dealer-misconduct
+- eastman-group
+- enforcement
+- investigation
+- regulatory-framework
+- trading-operations
 title: Adjudication Order in the matter of front running activities by multiple clients
   (Eastman Group)
 ---

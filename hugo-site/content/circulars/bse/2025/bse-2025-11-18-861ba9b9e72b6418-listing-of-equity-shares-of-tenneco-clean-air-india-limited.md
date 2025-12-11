@@ -26,13 +26,11 @@ source: bse
 stocks:
 - TENNECO
 tags:
-- listing
-- equity-shares
+- anchor-investor
+- equity
 - ipo
+- listing
 - lock-in
-- anchor-investors
-- tenneco
-- new-listing
 title: Listing of Equity Shares of Tenneco Clean Air India Limited
 ---
 

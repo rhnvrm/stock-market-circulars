@@ -27,13 +27,12 @@ source: bse
 stocks:
 - LENSKART
 tags:
-- listing
-- ipo
-- lock-in
-- equity-shares
-- lenskart
-- anchor-investors
+- anchor-investor
+- equity
 - esop
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Lenskart Solutions Limited
 ---
 

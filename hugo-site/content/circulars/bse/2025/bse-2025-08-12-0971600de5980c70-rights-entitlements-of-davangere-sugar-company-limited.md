@@ -26,11 +26,11 @@ source: bse
 stocks:
 - DAVAN
 tags:
-- rights-entitlements
-- trading
+- demat
 - renunciation
+- rights-issue
 - t1-settlement
-- dematerialized
+- trading
 title: Trading of Rights Entitlements for DAVANGERE SUGAR COMPANY LIMITED
 ---
 

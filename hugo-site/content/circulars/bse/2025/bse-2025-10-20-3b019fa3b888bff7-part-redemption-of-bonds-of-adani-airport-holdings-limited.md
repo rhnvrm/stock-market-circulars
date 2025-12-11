@@ -27,12 +27,12 @@ source: bse
 stocks:
 - ADANIAIRPORT
 tags:
-- bonds
-- redemption
-- debt-securities
+- bond
 - corporate-action
+- debt-securities
 - face-value-reduction
 - interest-payment
+- redemption
 title: Part Redemption of Bonds of ADANI AIRPORT HOLDINGS LIMITED
 ---
 

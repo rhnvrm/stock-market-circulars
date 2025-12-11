@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SNSPROP
 tags:
-- takeover
-- settlement
-- sns-properties
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- sns-properties
+- takeover
 title: Settlement Schedule for SNS Properties and Leasing Limited Takeover Offer
 ---
 

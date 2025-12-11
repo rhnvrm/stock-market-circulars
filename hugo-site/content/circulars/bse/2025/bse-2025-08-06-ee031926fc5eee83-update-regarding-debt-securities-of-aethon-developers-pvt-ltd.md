@@ -27,10 +27,10 @@ stocks:
 - AETHON
 tags:
 - debt-securities
-- ncds
-- isin-change
+- isin
+- ncd
 - security-mode
-- trading-update
+- trading
 title: Update Regarding Debt Securities of AETHON DEVELOPERS Pvt Ltd - Security Mode
   and ISIN Changes
 ---

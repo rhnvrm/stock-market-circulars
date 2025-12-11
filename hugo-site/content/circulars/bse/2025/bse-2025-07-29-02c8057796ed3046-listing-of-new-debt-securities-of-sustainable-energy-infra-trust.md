@@ -25,12 +25,12 @@ source: bse
 stocks:
 - SEIT
 tags:
-- debt-securities
-- listing
-- sustainable-energy-infra-trust
-- private-placement
-- invit
 - crisil-aaa
+- debt-securities
+- invit
+- listing
+- private-placement
+- sustainable-energy-infra-trust
 title: Listing of new debt securities of SUSTAINABLE ENERGY INFRA TRUST
 ---
 

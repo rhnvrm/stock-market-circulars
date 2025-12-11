@@ -30,15 +30,11 @@ stocks:
 - ARIHANT
 - BANCOINDIA
 tags:
-- price-movement
-- surveillance
 - clarification
 - disclosure
+- price-movement
 - regulation-30
-- volume-increase
-- V2RETAIL
-- ARIHANT
-- BANCOINDIA
+- surveillance
 title: Clarifications received from the companies
 ---
 

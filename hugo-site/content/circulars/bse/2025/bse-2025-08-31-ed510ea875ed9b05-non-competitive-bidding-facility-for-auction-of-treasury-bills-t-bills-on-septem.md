@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- government-securities
-- non-competitive-bidding
 - auction
-- debt-trading
+- debt-securities
+- gsec
+- non-competitive-bidding
 - rbi
+- treasury-bills
 title: Non-Competitive Bidding Facility for Treasury Bills Auction - September 3,
   2025
 ---

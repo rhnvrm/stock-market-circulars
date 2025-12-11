@@ -28,12 +28,10 @@ source: nse
 stocks:
 - TGL
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
+- margin
+- market-operations
 - surveillance
-- market-regulation
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM) - Addition of Teerth Gopicon
   Limited
 ---

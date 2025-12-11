@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ADVANCE_MULTITECH
+- ADVMULT
 tags:
-- trading
-- suspension-revocation
-- equity-shares
 - advance-multitech
+- equity
+- release
 - scrip-526331
+- trading
 title: Revocation of Suspension in Trading of Equity Shares of Advance Multitech Ltd
 ---
 

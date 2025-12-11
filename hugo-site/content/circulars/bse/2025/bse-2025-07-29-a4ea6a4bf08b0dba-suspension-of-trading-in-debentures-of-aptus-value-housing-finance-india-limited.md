@@ -26,12 +26,12 @@ source: bse
 stocks:
 - APTUS
 tags:
+- corporate-action
 - debenture-suspension
-- trading-halt
-- corporate-actions
 - debt-securities
-- redemption
 - interest-payment
+- redemption
+- trading-halt
 title: Suspension of Trading in Debentures of APTUS VALUE HOUSING FINANCE INDIA LIMITED
 ---
 

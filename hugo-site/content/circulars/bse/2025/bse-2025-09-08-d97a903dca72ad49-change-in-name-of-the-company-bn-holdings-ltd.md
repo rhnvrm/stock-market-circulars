@@ -25,11 +25,10 @@ source: bse
 stocks:
 - BNHOLDINGS
 tags:
-- name-change
-- incorporation-certificate
-- bn-holdings
 - bn-agrochem
+- certificate
 - corporate-affairs
+- name-change
 title: Change in Name of BN Holdings Limited to BN Agrochem Limited
 ---
 

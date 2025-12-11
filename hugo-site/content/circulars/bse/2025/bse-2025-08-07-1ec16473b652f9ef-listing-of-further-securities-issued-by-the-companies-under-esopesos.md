@@ -27,10 +27,8 @@ source: bse
 stocks: []
 tags:
 - esop
-- esos
-- securities-listing
-- employee-stock-options
-- lock-in-period
+- listing
+- lock-in
 title: Listing of Further Securities Issued Under ESOP/ESOS with Lock-in Expiry Details
 ---
 

@@ -28,14 +28,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- lodr-regulations
-- related-party-transactions
-- disclosure-requirements
-- listing-obligations
-- subsidiary-transactions
-- audit-committee-approval
-- key-managerial-personnel
 - amendment
+- audit-committee-approval
+- disclosure
+- key-managerial-personnel
+- lodr
+- related-party-transactions
+- subsidiary-transactions
 title: Securities and Exchange Board of India (Listing Obligations and Disclosure
   Requirements) (Fifth Amendment) Regulations, 2025
 ---

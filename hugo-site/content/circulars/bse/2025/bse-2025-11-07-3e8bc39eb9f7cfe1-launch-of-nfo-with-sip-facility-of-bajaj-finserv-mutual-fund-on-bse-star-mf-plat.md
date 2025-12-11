@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bajaj-finserv
+- banking-financial-services
+- equity
 - mutual-fund
 - nfo
-- new-fund-offer
 - sip
-- bajaj-finserv
-- equity-fund
-- banking-financial-services
-- bse-star-mf
 title: Launch of NFO with SIP facility of BAJAJ FINSERV Mutual Fund on BSE StAR MF
   Platform
 ---

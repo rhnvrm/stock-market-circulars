@@ -27,12 +27,11 @@ source: bse
 stocks:
 - GOEL
 tags:
+- asm-stage
 - group-change
-- trading-segment
-- mt-group
-- m-group
 - rolling-segment
 - trade-for-trade
+- trading
 title: GOEL CONSTRUCTION COMPANY LIMITED Equity Shares Transfer from Trade for Trade
   to Rolling Segment
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - GREAVFIN
 tags:
-- debentures
-- part-redemption
-- debt-market
+- corporate-action
+- debt-securities
 - face-value-reduction
-- corporate-actions
+- ncd
+- redemption
 title: Part Redemption of Debentures of GREAVES FINANCE LTD.
 ---
 

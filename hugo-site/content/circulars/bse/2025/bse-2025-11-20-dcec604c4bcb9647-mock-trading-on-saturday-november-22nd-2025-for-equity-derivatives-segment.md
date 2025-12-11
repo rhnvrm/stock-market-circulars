@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mock-trading
-- equity-derivatives
-- pre-open-session
-- testing
-- trading-platforms
+- derivatives
+- market-infrastructure
 - market-operations
+- mock-trading
+- pre-open-session
 title: Mock Trading on Saturday November 22nd, 2025 for Equity Derivatives segment
 ---
 

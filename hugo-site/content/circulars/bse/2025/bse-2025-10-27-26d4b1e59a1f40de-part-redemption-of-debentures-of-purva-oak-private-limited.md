@@ -28,13 +28,11 @@ source: bse
 stocks:
 - PURVA OAK PRIVATE LIMITED
 tags:
-- part-redemption
-- debentures
-- non-convertible-debentures
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - face-value-reduction
-- purva-oak
+- ncd
+- redemption
 title: Part Redemption of Debentures of PURVA OAK PRIVATE LIMITED
 ---
 

@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- hsbc-mutual-fund
+- idcw
+- investment-limits
 - mutual-fund
 - overseas-investment
-- subscription-suspension
 - sebi
-- hsbc-mutual-fund
-- investment-limits
 - sip
 - stp
-- idcw
+- suspension
 title: Temporary Suspension of Subscription in Certain Schemes of HSBC Mutual Fund
 ---
 

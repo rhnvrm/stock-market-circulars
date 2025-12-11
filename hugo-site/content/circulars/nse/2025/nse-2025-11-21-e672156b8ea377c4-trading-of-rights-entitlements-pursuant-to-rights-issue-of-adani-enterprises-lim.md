@@ -28,13 +28,11 @@ source: nse
 stocks:
 - ADANIENT
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- adani-enterprises
-- trade-to-trade
 - demat
 - renunciation
+- rights-issue
+- trade-to-trade
+- trading
 title: Trading of Rights Entitlements pursuant to Rights Issue of Adani Enterprises
   Limited
 ---

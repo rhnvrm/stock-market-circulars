@@ -25,11 +25,11 @@ source: bse
 stocks:
 - NWFL
 tags:
+- bse-debt-segment
 - debt-securities
 - listing
 - nuvama-wealth-finance
 - private-placement
-- bse-debt-segment
 title: Listing of new debt securities of Nuvama Wealth Finance Limited
 ---
 

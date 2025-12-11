@@ -31,7 +31,7 @@ stocks:
 - RICO
 - RITAFINANCE
 - STARHOUSING
-- UMIYATUBES
+- UMIYA
 - VLSFINANCE
 - DHAMPURE
 - EIGHTYJEW
@@ -43,7 +43,7 @@ stocks:
 - ATISHAY
 - BAMPSL
 - BATLIBOI
-- BESTAGROLIFE
+- BESTAGRO
 - BIGBLOC
 - CAPTRUST
 - CLASSICLEA
@@ -51,11 +51,10 @@ stocks:
 - ERAAYA
 - GETA
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

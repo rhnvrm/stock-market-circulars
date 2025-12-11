@@ -28,14 +28,11 @@ source: bse
 stocks:
 - CUPIDALBV
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
-- equity
-- trading
 - cupid-breweries
-- cupidalbv
+- equity
+- otb
+- takeover
+- trading
 title: Offer to Buy – Acquisition Window (Takeover) for CUPID BREWERIES AND DISTILLERIES
   LTD - Live Activities Schedule
 ---

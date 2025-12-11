@@ -26,8 +26,8 @@ source: bse
 stocks:
 - UGROLTD
 tags:
+- corporate-action
 - debenture-redemption
-- corporate-actions
 - debt-securities
 - face-value-reduction
 - interest-payment

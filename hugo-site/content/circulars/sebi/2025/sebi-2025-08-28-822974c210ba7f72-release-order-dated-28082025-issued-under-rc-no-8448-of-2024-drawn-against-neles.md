@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - VKSPROJECT
 tags:
-- release-order
 - enforcement
-- vks-project-limited
 - nelesh-vora
 - rc-8448-2024
+- release
 title: SEBI Release Order Against Nelesh Devendra Vora - VKS Project Limited Case
 ---
 

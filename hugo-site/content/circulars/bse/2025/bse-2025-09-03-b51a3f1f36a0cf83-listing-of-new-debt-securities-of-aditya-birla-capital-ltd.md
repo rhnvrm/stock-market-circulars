@@ -25,11 +25,11 @@ source: bse
 stocks:
 - ABCL
 tags:
-- debt-listing
-- private-placement
 - aditya-birla-capital
-- zero-coupon
 - cumulative
+- debt-securities
+- private-placement
+- zero-coupon
 title: Listing of new debt securities of Aditya Birla Capital Ltd
 ---
 

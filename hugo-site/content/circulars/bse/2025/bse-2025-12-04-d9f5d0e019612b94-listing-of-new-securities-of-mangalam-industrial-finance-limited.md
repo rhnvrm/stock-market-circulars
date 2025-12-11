@@ -28,11 +28,10 @@ source: bse
 stocks:
 - MANGALAM
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- MANGALAM
+- rights-issue
 title: Listing of New Securities of Mangalam Industrial Finance Limited
 ---
 

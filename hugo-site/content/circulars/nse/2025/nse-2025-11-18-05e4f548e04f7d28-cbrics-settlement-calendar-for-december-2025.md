@@ -26,13 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bond
 - cbrics
-- settlement-calendar
-- corporate-bonds
-- debt-segment
 - clearing
-- nsdl
-- cdsl
+- debt-securities
+- depository
+- settlement-calendar
 title: CBRICS Settlement Calendar for December 2025
 ---
 

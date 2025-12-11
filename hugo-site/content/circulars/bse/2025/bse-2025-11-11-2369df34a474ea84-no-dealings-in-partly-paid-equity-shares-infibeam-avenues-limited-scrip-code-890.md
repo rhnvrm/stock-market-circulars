@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INFIBEAM
 tags:
-- trading-suspension
-- partly-paid-shares
 - call-money
+- corporate-action
+- partly-paid
 - record-date
-- corporate-actions
+- suspension
 title: No Dealings in Partly Paid Equity Shares - Infibeam Avenues Limited
 ---
 

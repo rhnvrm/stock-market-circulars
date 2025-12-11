@@ -36,7 +36,6 @@ tags:
 - price-band
 - surveillance
 - trading-restrictions
-- market-surveillance
 title: Changes in Price Band for Six Scrips Effective November 21, 2025
 ---
 

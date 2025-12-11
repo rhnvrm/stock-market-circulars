@@ -28,12 +28,12 @@ source: bse
 stocks:
 - PIRAMALENT
 tags:
+- corporate-action
 - debt-securities
-- debentures
 - name-change
+- ncd
 - piramal-finance
 - scrip-update
-- corporate-action
 title: Update Regarding Debt Securities of Piramal Enterprises Limited - Name Change
   to Piramal Finance Limited
 ---

@@ -41,12 +41,11 @@ stocks:
 - SANSERA
 - SYRMATECH
 tags:
-- corporate-actions
+- corporate-action
 - dividend
-- stock-split
-- slb-securities
 - record-date
-- ex-date
+- slb
+- split
 title: Corporate Actions in SLB Securities - Dividend and Stock Split Updates
 ---
 

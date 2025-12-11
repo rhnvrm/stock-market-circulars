@@ -26,12 +26,11 @@ source: bse
 stocks:
 - JUPITER
 tags:
-- takeover
-- acquisition
-- settlement
+- early-pay-in
 - jupiter-infomedia
 - otb
-- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for Jupiter Infomedia Limited Takeover Offer to Buy
 ---
 

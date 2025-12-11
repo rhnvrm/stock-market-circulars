@@ -35,11 +35,10 @@ stocks:
 - SAILANI
 - SILVEROAK
 tags:
-- gsm
-- graded-surveillance
-- surveillance-measure
-- trading
+- asm-stage
 - compliance
+- surveillance
+- trading
 title: Graded Surveillance Measure (GSM) - Securities Movement Across GSM Stages
 ---
 

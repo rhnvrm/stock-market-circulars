@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544504'
+- GOELCONS
 tags:
-- index-addition
-- sme-ipo
-- goel-construction
+- index-change
 - listing
+- sme
 title: Addition of Goel Construction Company Limited to BSE SME IPO Index
 ---
 

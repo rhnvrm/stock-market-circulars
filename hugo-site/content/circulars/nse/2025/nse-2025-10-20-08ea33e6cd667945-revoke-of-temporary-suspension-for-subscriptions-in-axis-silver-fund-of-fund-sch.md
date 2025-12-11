@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription
 - axis-mutual-fund
-- fund-of-fund
-- silver-fund
+- fund-of-funds
+- mutual-fund
 - nsemf-invest-platform
+- silver
+- subscription
 - suspension-withdrawal
 title: Revoke of Temporary Suspension for Subscriptions in Axis Silver Fund of Fund
   on NSE MF Invest Platform

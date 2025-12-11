@@ -28,11 +28,11 @@ source: bse
 stocks:
 - DOLPHIN
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Dolphin Kitchen Utencils and Appliances Limited
 ---
 

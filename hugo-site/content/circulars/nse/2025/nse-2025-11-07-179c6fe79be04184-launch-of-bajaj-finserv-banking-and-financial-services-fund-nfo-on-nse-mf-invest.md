@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bajaj-finserv
+- banking-sector
+- equity
+- financial-services
 - mutual-fund
 - nfo
-- new-fund-offer
-- bajaj-finserv
-- equity-fund
-- banking-sector
-- financial-services
 title: Launch of Bajaj Finserv Banking and Financial Services Fund NFO on NSE MF Invest
   Platform
 ---

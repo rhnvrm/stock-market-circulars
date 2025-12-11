@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
+- india-infradebt
 - listing
 - private-placement
-- india-infradebt
-- corporate-bonds
 title: Listing of New Debt Securities of India Infradebt Limited
 ---
 

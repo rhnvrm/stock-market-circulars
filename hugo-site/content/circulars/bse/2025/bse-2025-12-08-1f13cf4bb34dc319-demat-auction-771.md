@@ -28,7 +28,7 @@ stocks:
 - ADANIPOWER
 - BANKBARODA
 - ICICIBANK
-- INFOSYS
+- INFY
 - REDDYSLAB
 - DIVISLAB
 - GODREJIND
@@ -36,18 +36,18 @@ stocks:
 - JSWENERGY
 - MPHASIS
 - ONWARDTEC
-- RELIANCEPOWER
-- WELSPUNCORP
-- VODAFONEIDEA
+- RPOWER
+- WELCORP
+- IDEA
 - COFORGE
 - DCBBANK
 - JIOFINANCIAL
 - OLAELEC
 tags:
-- demat-auction
-- settlement
 - auction
-- delivery-obligation
+- demat
+- early-pay-in
+- settlement
 title: Demat Auction Settlement No. 771
 ---
 

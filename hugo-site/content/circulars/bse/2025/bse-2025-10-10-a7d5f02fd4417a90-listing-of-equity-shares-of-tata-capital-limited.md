@@ -27,9 +27,8 @@ source: bse
 stocks:
 - TATACAP
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - tata-capital
 title: Listing of Equity Shares of TATA CAPITAL LIMITED
 ---

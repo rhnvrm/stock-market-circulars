@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- remittance-order
+- bse
+- demand-notice
 - enforcement
 - iso
-- bse
-- regulatory-action
 - kratika-commercial
+- regulatory
 title: General Remittance Order Against Kratika Commercial Private Limited - ISO at
   BSE
 ---

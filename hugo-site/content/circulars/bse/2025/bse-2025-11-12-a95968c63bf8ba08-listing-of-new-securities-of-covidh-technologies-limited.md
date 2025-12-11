@@ -27,11 +27,11 @@ source: bse
 stocks:
 - COVIDH
 tags:
-- listing
-- rights-issue
-- equity-shares
 - covidh-technologies
+- equity
+- listing
 - new-securities
+- rights-issue
 title: Listing of 80,85,550 Rights Equity Shares of COVIDH TECHNOLOGIES LIMITED
 ---
 

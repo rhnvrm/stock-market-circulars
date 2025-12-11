@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- securities-lending-borrowing
-- slb
-- settlement
-- expiry-date
 - clearing
+- collateral
+- expiry-date
+- settlement
+- slb
 title: Change in Expiry Day for Securities Lending & Borrowing (SLB) Contracts
 ---
 

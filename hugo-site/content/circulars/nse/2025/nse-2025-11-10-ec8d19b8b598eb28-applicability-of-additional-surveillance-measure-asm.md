@@ -27,12 +27,10 @@ stocks:
 - UNITEDPOLY
 - LANCORHOL
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- asm
-- margin-requirements
 - trade-for-trade
-- long-term-asm
 title: Applicability of Additional Surveillance Measure (ASM) - Long Term Framework
   Updates
 ---

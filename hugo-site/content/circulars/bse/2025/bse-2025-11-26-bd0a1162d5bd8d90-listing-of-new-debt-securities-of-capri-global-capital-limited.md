@@ -27,11 +27,11 @@ source: bse
 stocks:
 - CGCL
 tags:
-- debt-listing
+- capri-global-capital
+- debt-securities
+- demat-trading
 - ncd
 - private-placement
-- capri-global-capital
-- demat-trading
 title: Listing of New Debt Securities of Capri Global Capital Limited
 ---
 

@@ -27,16 +27,16 @@ source: bse
 stocks:
 - COVIDH
 - ELEGANT
-- HINDrect
+- HINDRECT
 - OMAX
 - PANTH
 - VINTAGE
 - YURANUS
 tags:
-- price-band
-- trading
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading
 title: Price Band Revisions for Seven Securities Effective July 31, 2025
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- inspection
-- mii
-- stock-brokers
-- depository-participants
 - compliance
+- depository
 - ease-of-business
+- investigation
+- mii
+- stock-broker
 - supervision
 title: Joint Annual Inspection Policy for Market Infrastructure Institutions - Information
   Sharing Mechanism

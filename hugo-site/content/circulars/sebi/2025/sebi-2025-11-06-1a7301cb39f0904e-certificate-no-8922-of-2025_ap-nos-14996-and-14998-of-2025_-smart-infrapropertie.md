@@ -28,12 +28,11 @@ source: sebi
 stocks:
 - CRESSANDA
 tags:
-- recovery-certificate
-- attachment-proceedings
-- enforcement
-- cressanda-solutions
-- smart-infraproperties
+- attachment
 - compliance
+- enforcement
+- recovery
+- smart-infraproperties
 title: Certificate No. 8922 of 2025 - Attachment Proceedings against Smart Infraproperties
   Private Limited in Cressanda Solutions Matter
 ---

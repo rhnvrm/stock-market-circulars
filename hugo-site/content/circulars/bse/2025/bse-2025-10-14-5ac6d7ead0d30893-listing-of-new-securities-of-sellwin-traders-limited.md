@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SELLWIN
 tags:
+- conversion
+- equity
 - listing
-- new-securities
-- equity-shares
-- preferential-issue
-- warrant-conversion
 - lock-in
+- new-securities
+- preferential-issue
 title: Listing of New Securities of SELLWIN TRADERS LIMITED - 49.35 Lakh Equity Shares
 ---
 

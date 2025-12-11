@@ -26,12 +26,12 @@ source: sebi
 stocks: []
 tags:
 - adjudication
-- research-analyst
-- investment-adviser
-- violations
-- penalties
-- eqwires
 - compliance
+- eqwires
+- investment-adviser
+- penalty
+- research-analyst
+- violations
 title: Adjudication Order Against Eqwires Research Analyst for Regulatory Violations
 ---
 

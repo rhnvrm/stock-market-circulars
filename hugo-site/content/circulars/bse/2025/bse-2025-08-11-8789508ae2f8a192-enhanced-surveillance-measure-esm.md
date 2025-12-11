@@ -33,11 +33,9 @@ stocks:
 - KACCHMIN
 - SHREESYN
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - risk-management
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Classification
   Changes
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - PAISALO
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- fccb-conversion
-- paisalo-digital
 - new-securities
+- paisalo-digital
 title: Listing of New Equity Shares of Paisalo Digital Ltd.
 ---
 

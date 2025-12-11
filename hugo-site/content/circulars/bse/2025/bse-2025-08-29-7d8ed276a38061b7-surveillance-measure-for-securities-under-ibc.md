@@ -32,12 +32,9 @@ stocks:
 - STRINGME
 - SWANDEFH
 tags:
-- surveillance
-- ibc
+- corporate-action
 - insolvency
-- bankruptcy
-- additional-surveillance-measure
-- corporate-announcement
+- surveillance
 title: Surveillance Measure for Securities under IBC - September 2025 Updates
 ---
 

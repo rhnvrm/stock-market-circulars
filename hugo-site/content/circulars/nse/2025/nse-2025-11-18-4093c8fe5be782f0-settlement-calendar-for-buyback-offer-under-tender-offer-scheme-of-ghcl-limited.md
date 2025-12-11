@@ -28,11 +28,10 @@ stocks:
 - GHCL
 tags:
 - buyback
-- tender-offer
-- settlement-calendar
-- ghcl
 - early-pay-in
 - securities-transaction-tax
+- settlement-calendar
+- tender-offer
 title: Settlement Calendar for Buyback Offer under Tender Offer scheme of GHCL Limited
 ---
 

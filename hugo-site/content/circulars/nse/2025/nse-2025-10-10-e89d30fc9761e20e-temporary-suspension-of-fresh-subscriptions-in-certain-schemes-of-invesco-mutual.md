@@ -27,13 +27,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- fund-of-funds
 - invesco
-- subscription-suspension
+- mutual-fund
 - overseas-investment
-- fund-of-fund
 - sebi-limits
-- nse-mf-invest
+- suspension
+- trading-platform
 title: Temporary Suspension of Fresh Subscriptions in Certain Schemes of Invesco Mutual
   Fund on NSE MF Invest Platform
 ---

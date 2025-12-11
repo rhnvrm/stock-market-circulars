@@ -26,10 +26,9 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
-- confidential-investigation
 - complaint-examination
+- confidential-investigation
+- rti
 - section-8-1-h
 title: Appeal No. 6614 of 2025 filed by Ganesh Bhausaheb Kshirsagar
 ---

@@ -44,16 +44,15 @@ stocks:
 - SUPRIYA
 - HINDCOPPER
 - RBLBANK
-- HITECHPIPES
+- HITECH
 - TECHNO
 tags:
-- corporate-actions
-- dividend
 - buyback
-- slb
-- securities-lending-borrowing
+- collateral
+- corporate-action
+- dividend
 - record-date
-- ex-date
+- slb
 title: Corporate Actions in SLB Securities - September 2025
 ---
 

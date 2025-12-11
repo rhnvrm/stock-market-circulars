@@ -28,13 +28,11 @@ source: bse
 stocks:
 - DEVITRD
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- OTB
-- bidding-schedule
+- book-building
 - devinsu-trading
 - equity
+- otb
+- takeover
 title: Offer to Buy – Acquisition Window (Takeover) for DEVINSU TRADING LTD - Live
   Activities Schedule
 ---

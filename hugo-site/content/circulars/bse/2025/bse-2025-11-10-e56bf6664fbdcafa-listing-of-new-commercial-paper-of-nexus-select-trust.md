@@ -26,10 +26,10 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
+- debt-securities
 - listing
-- debt-segment
-- private-placement
 - nexus-select-trust
+- private-placement
 title: Listing of new Commercial Paper of Nexus Select Trust
 ---
 

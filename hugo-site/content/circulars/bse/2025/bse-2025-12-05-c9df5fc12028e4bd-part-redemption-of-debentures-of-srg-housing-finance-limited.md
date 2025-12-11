@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SRGHFL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
+- corporate-action
 - debt-securities
-- interest-payment
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 - srg-housing-finance
 title: Part Redemption of Debentures of SRG Housing Finance Limited
 ---

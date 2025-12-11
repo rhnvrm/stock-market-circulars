@@ -26,12 +26,12 @@ source: bse
 stocks:
 - DBLIPL
 tags:
-- debentures
-- part-redemption
+- corporate-action
+- dbl-infra-assets
 - debt-securities
 - face-value-reduction
-- corporate-actions
-- dbl-infra-assets
+- ncd
+- redemption
 title: Part Redemption of Debentures of DBL INFRA ASSETS PVT LTD
 ---
 

@@ -31,12 +31,11 @@ stocks:
 - MRUGESH
 - SOMA
 tags:
-- enhanced-surveillance
-- esm
-- surveillance-framework
+- asm-stage
+- compliance
 - risk-management
+- surveillance
 - trade-monitoring
-- regulatory-compliance
 title: Enhanced Surveillance Measure (ESM) Framework Updates - November 2025
 ---
 

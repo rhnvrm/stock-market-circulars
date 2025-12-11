@@ -23,9 +23,9 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544492'
+- MEIL
 tags:
-- index-addition
+- index-change
 - ipo-index
 - listing
 - mangal-electrical

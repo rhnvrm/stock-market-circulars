@@ -26,11 +26,10 @@ source: nse
 stocks:
 - INOXWIND
 tags:
-- position-limits
-- trading-limits
-- market-operations
 - derivatives
-- inox-wind
+- market-operations
+- position-limits
+- trading-operations
 title: Revised MWPL, TM, FII/FPI & MF limits for INOX WIND LIMITED
 ---
 

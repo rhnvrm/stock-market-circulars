@@ -38,10 +38,10 @@ stocks:
 - SBICAP
 tags:
 - commercial-paper
-- suspension
+- corporate-action
+- debt-securities
 - redemption
-- debt-market
-- corporate-actions
+- suspension
 - trading-halt
 title: Suspension of Trading in Commercial Paper - Multiple Issuers
 ---

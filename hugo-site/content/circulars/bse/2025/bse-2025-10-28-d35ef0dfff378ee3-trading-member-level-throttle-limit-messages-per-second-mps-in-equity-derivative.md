@@ -27,13 +27,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- billing
 - derivatives
-- trading-operations
 - mps-limit
 - throttle-limit
-- billing
-- equity-derivatives
-- trading-members
+- trading-member
+- trading-operations
 title: Trading Member Level Throttle Limit/MPS Changes in Equity Derivatives - Weekly
   Subscription Cycle
 ---

@@ -28,12 +28,9 @@ stocks:
 - QUADRANT
 - ARSS
 tags:
-- surveillance
-- ibc
 - insolvency
-- bankruptcy
-- asm
-- trading-measures
+- surveillance
+- trading-operations
 title: Surveillance Measure for Securities Under IBC - Stage Updates Effective September
   04, 2025
 ---

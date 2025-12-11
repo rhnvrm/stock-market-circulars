@@ -27,8 +27,8 @@ stocks:
 tags:
 - commercial-paper
 - debt-securities
-- private-placement
 - listing
+- private-placement
 - shree-cements
 title: Listing of new Commercial Paper of Shree Cements Ltd.
 ---

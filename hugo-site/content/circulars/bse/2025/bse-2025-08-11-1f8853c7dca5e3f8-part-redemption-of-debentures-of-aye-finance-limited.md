@@ -27,12 +27,12 @@ source: bse
 stocks:
 - AYE FINANCE LIMITED
 tags:
-- corporate-actions
-- debentures
-- part-redemption
-- interest-payment
-- record-date
+- corporate-action
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of AYE FINANCE LIMITED
 ---
 

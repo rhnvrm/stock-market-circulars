@@ -26,15 +26,13 @@ severity: medium
 source: bse
 stocks:
 - CHPL
-- MRCAGROTECH
+- MRCAGRO
 - SABEVENTS
 - SVARNIMTRADE
 tags:
-- enhanced-surveillance-measure
-- esm
+- asm-stage
 - surveillance
 - trading-restrictions
-- stage-changes
 title: Enhanced Surveillance Measure (ESM) - Changes Effective November 26, 2025
 ---
 

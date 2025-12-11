@@ -33,11 +33,10 @@ stocks:
 - NEWJAISA
 - SHREERAMA
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- asm
-- st-asm
 - trading-restrictions
-- market-regulation
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

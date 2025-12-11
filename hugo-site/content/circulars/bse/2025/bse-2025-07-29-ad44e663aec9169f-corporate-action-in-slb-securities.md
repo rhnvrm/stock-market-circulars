@@ -36,7 +36,7 @@ stocks:
 - TTKPRESTIG
 - PARASDEF
 - INDIAGLYCL
-- JKBANK
+- J&KBANK
 - MASFIN
 - MANGCHEFER
 - CHAMBLFERT
@@ -45,13 +45,13 @@ stocks:
 - HINDPETRO
 - LTFOODS
 tags:
-- corporate-actions
-- dividends
-- bonus-issue
-- stock-split
-- slb-securities
+- bonus
+- corporate-action
+- dividend
 - ex-dates
-- record-dates
+- record-date
+- slb
+- split
 title: Corporate Action Schedule for SLB Securities - Multiple Dividends, Bonus Issue
   and Stock Split
 ---

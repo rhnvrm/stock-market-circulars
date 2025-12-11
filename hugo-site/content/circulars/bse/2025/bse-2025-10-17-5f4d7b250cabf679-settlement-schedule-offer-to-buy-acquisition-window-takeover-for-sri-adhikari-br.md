@@ -28,12 +28,10 @@ source: bse
 stocks:
 - SABTNL
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
-- offer-to-buy
-- SABTNL
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SRI ADHIKARI
   BROTHERS TELEVISION NETWORK LIMITED
 ---

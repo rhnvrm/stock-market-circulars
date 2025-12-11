@@ -27,10 +27,9 @@ stocks:
 - CAMS
 tags:
 - corporate-action
-- isin-change
-- share-subdivision
 - equity
-- CAMS
+- face-value-change
+- isin
 title: New ISIN Number for COMPUTER AGE MANAGEMENT SERVICES LTD Following Share Sub-Division
 ---
 

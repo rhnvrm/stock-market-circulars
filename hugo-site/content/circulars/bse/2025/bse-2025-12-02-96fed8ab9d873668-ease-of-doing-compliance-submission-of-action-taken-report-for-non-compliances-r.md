@@ -27,13 +27,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- compliance
-- internal-audit
 - action-taken-report
-- trading-members
-- befs
+- compliance
 - regulatory-framework
 - sebi
+- system-audit
+- trading-member
+- trading-platform
 title: Ease of Doing Compliance - Action Taken Report Framework for Internal Audit
   Non-Compliances
 ---

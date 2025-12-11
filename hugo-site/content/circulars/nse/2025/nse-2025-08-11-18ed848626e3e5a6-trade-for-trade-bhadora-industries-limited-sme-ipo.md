@@ -26,9 +26,9 @@ source: nse
 stocks:
 - BHADORA
 tags:
-- trade-for-trade
-- sme-ipo
 - segment-transfer
+- sme
+- trade-for-trade
 - trading
 title: Trade for Trade - Bhadora Industries Limited (SME IPO)
 ---

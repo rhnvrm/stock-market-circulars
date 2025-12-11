@@ -30,7 +30,7 @@ stocks:
 - ARUNJYOTI
 - ATHENA
 - CHAMBAL
-- CLNENERGY
+- CLN
 - COLORCHIPS
 - DANUBE
 - EIGHTY
@@ -61,11 +61,11 @@ stocks:
 - VIJI
 - WOMEN
 tags:
-- price-band
-- trading
-- surveillance
-- equity
 - circuit-limits
+- equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 35 Securities - Effective November 24, 2025
 ---
 

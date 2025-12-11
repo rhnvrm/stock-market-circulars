@@ -28,12 +28,12 @@ stocks:
 - CPS
 - DUGLOBAL
 tags:
-- listing
-- further-issue
-- sme-emerge
-- preferential-allotment
+- emerge-platform
+- equity
 - esop
-- equity-shares
+- further-issue
+- listing
+- preferential-issue
 title: Listing of Further Issues of Securities - CPS Shapers Limited and DUDIGITAL
   GLOBAL LIMITED
 ---

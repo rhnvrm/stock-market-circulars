@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- enforcement
-- remittance-order
-- Emed.com-Technologies
 - compliance
+- demand-notice
+- emed.com-technologies
+- enforcement
 - monetary-recovery
-- regulatory-action
+- recovery
+- regulatory
 title: Remittance Order Issued in RC No. 8849 of 2025 Against Emed.com Technologies
   Limited
 ---

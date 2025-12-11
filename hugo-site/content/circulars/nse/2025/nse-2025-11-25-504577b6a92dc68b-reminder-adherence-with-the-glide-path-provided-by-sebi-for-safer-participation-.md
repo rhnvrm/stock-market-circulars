@@ -27,14 +27,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- algorithmic-trading
-- retail-investors
-- sebi-framework
+- algo-trading
 - compliance
-- stock-brokers
-- api-trading
-- implementation-timeline
 - glide-path
+- implementation-timeline
+- regulatory-framework
+- retail-investor
+- stock-broker
 title: Reminder - Adherence with the glide path provided by SEBI for safer participation
   of retail investors in Algorithmic Trading
 ---

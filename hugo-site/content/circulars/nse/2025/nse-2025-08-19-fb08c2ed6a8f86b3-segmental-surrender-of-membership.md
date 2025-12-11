@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- cd-segment
+- compliance
+- irf-segment
 - membership
 - surrender
 - trading-member
-- cd-segment
-- irf-segment
-- compliance
 title: Segmental Surrender of Trading Membership - Prabhat Financial Services Ltd.
 ---
 

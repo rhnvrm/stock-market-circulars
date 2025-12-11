@@ -27,12 +27,12 @@ stocks:
 - CLEAN
 - SULA
 tags:
-- clarification
-- news-response
+- acquisition-denial
 - block-trade
 - broker-error
-- acquisition-denial
+- clarification
 - media-correction
+- news-response
 title: Clarifications received from the companies on news articles
 ---
 

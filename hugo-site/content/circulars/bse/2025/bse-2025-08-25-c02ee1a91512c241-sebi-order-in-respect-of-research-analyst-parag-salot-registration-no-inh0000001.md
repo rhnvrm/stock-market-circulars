@@ -26,14 +26,14 @@ severity: high
 source: bse
 stocks: []
 tags:
+- assured-returns
+- compliance-failures
+- investigation
+- investment-adviser
+- mis-selling
+- non-compliance
 - research-analyst
 - sebi-order
-- fraudulent-practices
-- regulatory-violations
-- compliance-failures
-- mis-selling
-- assured-returns
-- investment-advisory
 title: SEBI Order Against Research Analyst Parag Salot for Fraudulent Practices and
   Regulatory Violations
 ---

@@ -28,12 +28,9 @@ stocks:
 - BIGBLOC
 - JAYESH
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- st-asm
-- margin-requirements
-- additional-surveillance-measure
-- short-term-asm
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

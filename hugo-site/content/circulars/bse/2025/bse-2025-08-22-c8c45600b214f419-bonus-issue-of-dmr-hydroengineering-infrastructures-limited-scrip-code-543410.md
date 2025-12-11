@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DMRHYDRO
 tags:
-- bonus-issue
-- record-date
-- equity-shares
+- bonus
+- equity
 - listing
-- dmr-hydroengineering
+- record-date
 title: Bonus Issue of DMR Hydroengineering & Infrastructures Limited - Record Date
   Approval
 ---

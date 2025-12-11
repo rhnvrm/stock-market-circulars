@@ -26,12 +26,11 @@ source: bse
 stocks:
 - VERITASFINANCE
 tags:
-- debt-securities
-- coupon-rate
-- debentures
-- interest-rate-change
-- veritas-finance
 - amendment
+- coupon-rate
+- debt-securities
+- interest-rate-change
+- ncd
 title: Update Regarding Debt Securities of VERITAS FINANCE Pvt Ltd - Coupon Rate Reduction
 ---
 

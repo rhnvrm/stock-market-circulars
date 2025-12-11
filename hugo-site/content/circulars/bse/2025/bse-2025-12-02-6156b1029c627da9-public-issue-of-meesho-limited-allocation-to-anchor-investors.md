@@ -27,11 +27,10 @@ source: bse
 stocks:
 - MEESHO
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
 - public-issue
-- meesho
-- allocation
 - subscription
 title: Public Issue of Meesho Limited - Allocation to Anchor Investors
 ---

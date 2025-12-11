@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ADDIND
 tags:
+- equity
+- otb
 - takeover
-- acquisition-window
-- offer-to-buy
 - trading-schedule
-- equity-shares
 title: Offer to Buy – Acquisition Window (Takeover) for ADDI INDUSTRIES LTD - Live
   Activities Schedule
 ---

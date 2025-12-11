@@ -25,12 +25,12 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
-- sahara-india
+- investor-deposit
 - pulse-india-finance
 - refund-policy
-- investor-deposit
+- rti
+- sahara-india
 title: Appeal No. 6608 of 2025 filed by Vivend Joarg Francis
 ---
 

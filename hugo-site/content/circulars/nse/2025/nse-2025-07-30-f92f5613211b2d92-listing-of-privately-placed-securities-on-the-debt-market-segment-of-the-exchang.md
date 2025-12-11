@@ -36,11 +36,10 @@ stocks:
 - LTFL
 - MMFSL
 tags:
-- listing
-- debt-securities
 - commercial-paper
+- debt-securities
+- listing
 - private-placement
-- debt-market
 title: Listing of privately placed securities on the debt market segment
 ---
 

@@ -26,15 +26,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- inspection
-- compliance
-- stock-brokers
-- depositories
 - clearing-corporations
+- compliance
+- depository
 - ease-of-doing-business
-- sebi-circular
-- joint-inspection
 - information-sharing
+- investigation
+- joint-inspection
+- sebi
+- stock-broker
 title: SEBI introduces joint annual inspection policy for stock brokers and depositories
   to ease compliance burden
 ---

@@ -48,11 +48,11 @@ stocks:
 - VATECHWA
 - DHANI
 tags:
-- listing
-- further-issue
-- esop
-- equity-shares
 - capital-market
+- equity
+- esop
+- further-issue
+- listing
 title: Listing of Further Issues of Securities for 22 Companies
 ---
 

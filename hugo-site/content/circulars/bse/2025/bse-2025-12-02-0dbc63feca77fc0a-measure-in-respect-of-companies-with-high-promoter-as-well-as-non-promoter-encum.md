@@ -29,15 +29,14 @@ stocks:
 - BLKASHYAP
 - BEDMUTHA
 - BRIL
-- INDIANIVESH
+- INDIANVSH
 - SUDALINDS
 tags:
+- asm-stage
+- compliance
 - encumbrance
-- surveillance-measure
-- promoter-encumbrance
 - non-promoter-encumbrance
-- SEBI-SAST
-- regulatory-compliance
+- sast
 title: Measure in Respect of Companies with High Promoter and Non-Promoter Encumbrance
 ---
 

@@ -27,15 +27,15 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- invesco
-- subscription-suspension
-- overseas-investment-limits
-- sebi
 - fund-of-funds
+- idcw
+- invesco
+- mutual-fund
+- overseas-investment
+- sebi
 - sip
 - stp
-- idcw
+- suspension
 title: Temporary Suspension of Fresh Subscriptions for Certain Schemes of Invesco
   Mutual Fund
 ---

@@ -29,9 +29,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- arman-financial
-- debentures
 title: Listing of New Debt Securities of Arman Financial Services Limited
 ---
 

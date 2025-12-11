@@ -29,12 +29,11 @@ stocks:
 - MANGCHEFER
 - PARADEEPHOS
 tags:
-- amalgamation
-- merger
-- nclt
-- share-swap
-- record-date
+- conversion
 - corporate-action
+- nclt
+- record-date
+- scheme-of-arrangement
 - suspension
 title: Amalgamation of Mangalore Chemicals & Fertilisers Limited with Paradeep Phosphates
   Limited

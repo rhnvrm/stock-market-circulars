@@ -25,11 +25,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analysts
+- compliance
+- intermediary
 - registration
 - regulations
-- compliance
-- intermediaries
+- research-analyst
 - research-reports
 title: Securities and Exchange Board of India (Research Analysts) Regulations, 2014
   [Last amended on August 6, 2025]

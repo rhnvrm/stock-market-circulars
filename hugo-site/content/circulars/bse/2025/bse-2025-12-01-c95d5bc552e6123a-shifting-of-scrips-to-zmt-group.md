@@ -39,7 +39,7 @@ stocks:
 - ITNL
 - JAYBHARAT
 - KLIFESTYLE
-- KOBOBIOTECH
+- KOBO
 - LAKPRE
 - MEPINFRA
 - MORARJEE
@@ -57,14 +57,13 @@ stocks:
 - STURDY
 - VIKASPROP
 tags:
-- z-group
-- mt-group
-- trade-for-trade
+- annual-report
+- asm-stage
+- lodr
 - non-compliance
 - regulation-34
-- lodr
-- annual-report
 - suspension
+- trade-for-trade
 title: Shifting of 30 Scrips to 'Z'/'MT' Group for Non-Compliance with Annual Report
   Filing
 ---

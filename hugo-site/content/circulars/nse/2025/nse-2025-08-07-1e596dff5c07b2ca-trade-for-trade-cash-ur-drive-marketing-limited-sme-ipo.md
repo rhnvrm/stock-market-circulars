@@ -25,10 +25,10 @@ source: nse
 stocks:
 - CUDML
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Cash Ur Drive Marketing Limited (SME IPO)
 ---
 

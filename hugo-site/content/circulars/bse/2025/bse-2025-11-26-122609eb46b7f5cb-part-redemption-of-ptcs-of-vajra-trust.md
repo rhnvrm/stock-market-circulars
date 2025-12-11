@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debt
-- corporate-actions
-- ptc
-- partial-redemption
-- vajra-trust
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ptc
+- redemption
+- vajra-trust
 title: Part Redemption of PTCs of Vajra Trust - Reduced Face Values Effective November
   27, 2025
 ---

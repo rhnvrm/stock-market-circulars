@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- avigna-housing
 - debt-securities
 - listing
+- ncd
 - private-placement
-- debentures
-- avigna-housing
 title: Listing of New Debt Securities of Avigna Housing Private Limited
 ---
 

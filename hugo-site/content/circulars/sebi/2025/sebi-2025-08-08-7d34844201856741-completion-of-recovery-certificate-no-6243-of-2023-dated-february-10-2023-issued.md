@@ -27,12 +27,11 @@ source: sebi
 stocks:
 - WISECGLOBAL
 tags:
-- recovery-certificate
-- defaulter
-- wisec-global-limited
 - arun-kochar
-- enforcement-action
 - completion
+- defaulter
+- enforcement
+- recovery
 title: Completion of Recovery Certificate No. 6243 of 2023 - Arun Kochar (Defaulter)
   in Wisec Global Limited Matter
 ---

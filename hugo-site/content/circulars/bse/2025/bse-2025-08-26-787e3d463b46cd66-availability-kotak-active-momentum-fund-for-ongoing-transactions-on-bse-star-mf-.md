@@ -24,11 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
+- equity
 - kotak
-- equity-fund
+- mutual-fund
 - trading-platform
-- bse-star-mf
 title: KOTAK ACTIVE MOMENTUM FUND Available for Trading on BSE StAR MF Platform
 ---
 

@@ -27,12 +27,12 @@ source: bse
 stocks:
 - BALUFORGE
 tags:
+- conversion
+- equity
 - listing
+- lock-in
 - new-securities
 - preferential-issue
-- warrant-conversion
-- lock-in
-- equity-shares
 title: Listing of New Securities of BALU FORGE INDUSTRIES LIMITED
 ---
 

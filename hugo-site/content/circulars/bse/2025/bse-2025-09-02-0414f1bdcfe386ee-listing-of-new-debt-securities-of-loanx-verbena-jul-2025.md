@@ -25,10 +25,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- fixed-income
+- loanx-verbena
 - private-placement
 - ptc
-- loanx-verbena
-- fixed-income
 title: Listing of new debt securities of LoanX Verbena Jul 2025
 ---
 

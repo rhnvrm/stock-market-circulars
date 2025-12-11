@@ -28,10 +28,10 @@ stocks:
 - MUTHOOT
 tags:
 - debenture-redemption
-- trading-suspension
-- debt-market
-- non-convertible-debentures
+- debt-securities
 - muthoot-fincorp
+- ncd
+- suspension
 title: Suspension of Trading in Debentures of MUTHOOT FINCORP LIMITED
 ---
 

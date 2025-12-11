@@ -27,11 +27,11 @@ stocks:
 - GICL
 - TRANSTEEL
 tags:
+- conversion
+- equity
 - listing
-- sme
-- equity-shares
 - preferential-issue
-- warrant-conversion
+- sme
 title: Listing of Further Issues of Globe International Carriers Limited and Transteel
   Seating Technologies Limited
 ---

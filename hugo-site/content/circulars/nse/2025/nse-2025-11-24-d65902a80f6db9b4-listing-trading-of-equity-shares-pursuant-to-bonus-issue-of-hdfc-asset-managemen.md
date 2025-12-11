@@ -27,12 +27,11 @@ source: nse
 stocks:
 - HDFCAMC
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- corporate-action
+- equity
 - listing
 - trading
-- corporate-action
-- hdfc-amc
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of HDFC Asset Management
   Company Limited
 ---

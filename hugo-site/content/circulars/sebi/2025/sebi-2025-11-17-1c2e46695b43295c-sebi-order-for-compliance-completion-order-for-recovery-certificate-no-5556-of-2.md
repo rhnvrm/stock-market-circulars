@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - SMSTEC
 tags:
+- completion-order
+- compliance
 - enforcement
 - recovery
-- completion-order
 - sms-techsoft
-- compliance
 title: SEBI Completion Order for Recovery Certificate No. 5556 of 2022 - Himanshu
   Prafulchandra Shah in SMS Techsoft Matter
 ---

@@ -42,13 +42,13 @@ stocks:
 - OBEROIRLTY
 - PAGEIND
 tags:
-- dividend
-- record-date
 - book-closure
-- interest-payment
 - commercial-paper
-- debentures
-- corporate-actions
+- corporate-action
+- dividend
+- interest-payment
+- ncd
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Dividend Announcements
 ---
 

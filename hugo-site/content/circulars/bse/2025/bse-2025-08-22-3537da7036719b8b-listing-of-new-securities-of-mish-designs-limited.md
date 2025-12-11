@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MISHDESIGNS
+- MISHDESIGN
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-issue
+- conversion
+- equity
 - lock-in
+- preferential-issue
 title: Listing of new securities of Mish Designs Limited
 ---
 

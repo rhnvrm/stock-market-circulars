@@ -27,13 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- debenture-trustees
-- regulations
-- debt-securities
-- compliance
-- registration
-- corporate-governance
 - amendments-2025
+- compliance
+- corporate-governance
+- debenture-trustees
+- debt-securities
+- registration
+- regulations
 title: Securities and Exchange Board of India (Debenture Trustees) Regulations, 1993
   [Last amended on October 27, 2025]
 ---

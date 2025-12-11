@@ -25,11 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- sme-ipo
-- draft-offer-document
-- public-comments
-- icdr-regulations
+- draft-document
+- icdr
 - jain-international-power
+- public-comments
+- sme
 title: SME IPO - Draft Offer Document of Jain International Power Limited
 ---
 

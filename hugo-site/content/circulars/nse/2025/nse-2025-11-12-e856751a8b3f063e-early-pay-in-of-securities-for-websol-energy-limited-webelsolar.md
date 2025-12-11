@@ -29,10 +29,10 @@ stocks:
 - WEBELSOLAR
 tags:
 - early-pay-in
-- face-value-split
-- stock-split
-- settlement
+- face-value-change
 - margin-exemption
+- settlement
+- split
 - websol-energy
 title: Early Pay-in of Securities for Websol Energy Limited (WEBELSOLAR)
 ---

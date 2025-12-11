@@ -34,10 +34,9 @@ stocks:
 - NUVOCO
 - KOTAKBANK
 tags:
-- debt-market
-- listing
 - commercial-paper
 - debt-securities
+- listing
 - private-placement
 title: Listing of Privately Placed Debt Securities - November 17, 2025
 ---

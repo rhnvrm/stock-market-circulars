@@ -45,11 +45,9 @@ stocks:
 - SIZEMASTERS
 - TRIL
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- short-term-asm
-- market-regulation
 - trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---

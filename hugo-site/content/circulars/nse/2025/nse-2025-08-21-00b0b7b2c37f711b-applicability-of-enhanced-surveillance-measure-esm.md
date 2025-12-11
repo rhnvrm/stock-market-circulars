@@ -27,13 +27,9 @@ stocks:
 - KOTYARK
 - USASEEDS
 tags:
+- margin
 - surveillance
-- esm
-- enhanced-surveillance
-- margin-requirements
 - trade-for-trade
-- kotyark
-- usaseeds
 title: Enhanced Surveillance Measure (ESM) - Addition of KOTYARK and USASEEDS to Stage
   I
 ---

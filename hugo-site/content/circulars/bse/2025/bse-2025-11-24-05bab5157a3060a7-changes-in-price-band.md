@@ -28,7 +28,7 @@ source: bse
 stocks:
 - CATVISION
 - ELCID
-- GAUTAMEXIM
+- GEL
 - GOPALSTEELS
 - MANGALAMDRUGS
 - MAYURLEATHER
@@ -36,10 +36,10 @@ stocks:
 - SECUREKLOUD
 - YURANUS
 tags:
-- price-band
-- trading-restrictions
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading-restrictions
 - volatility-control
 title: Changes in Price Band for 9 Scrips Effective November 25, 2025
 ---

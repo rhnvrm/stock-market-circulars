@@ -28,18 +28,18 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- amendment
-- postal-services
-- registered-post
-- speed-post
-- collective-investment-schemes
-- intermediaries
-- icdr
-- regulatory-change
-- communication
-- refund-orders
 - allotment-letters
+- amendment
+- collective-investment-schemes
+- communication
+- icdr
+- intermediary
+- postal-services
+- refund-orders
+- registered-post
+- regulatory
 - share-certificates
+- speed-post
 title: Securities and Exchange Board of India (Substitution of Registered Post with
   Speed Post) (Amendment) Regulations, 2025
 ---

@@ -26,13 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- trading-suspension
 - debt-securities
-- redemption
 - interest-payment
+- ncd
 - record-date
-- non-convertible-debentures
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Light Microfinance Private Limited
 ---
 

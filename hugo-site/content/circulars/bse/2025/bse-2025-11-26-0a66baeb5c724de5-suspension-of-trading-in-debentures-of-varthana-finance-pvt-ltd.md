@@ -26,12 +26,11 @@ source: bse
 stocks:
 - VARTHANA
 tags:
-- debentures
+- corporate-action
+- debt-securities
+- ncd
+- redemption
 - suspension
-- early-redemption
-- debt-market
-- varthana-finance
-- corporate-actions
 title: Suspension of Trading in Debentures of Varthana Finance Pvt Ltd
 ---
 

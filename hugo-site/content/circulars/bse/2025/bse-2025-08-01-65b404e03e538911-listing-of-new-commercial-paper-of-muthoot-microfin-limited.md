@@ -26,10 +26,9 @@ stocks:
 - MUTHOOTMF
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
 - muthoot-microfin
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Muthoot Microfin Limited
 ---
 

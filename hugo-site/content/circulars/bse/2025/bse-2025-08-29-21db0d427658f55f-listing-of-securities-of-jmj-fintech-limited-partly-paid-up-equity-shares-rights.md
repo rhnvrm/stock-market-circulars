@@ -26,11 +26,11 @@ source: bse
 stocks:
 - JMJFINPP
 tags:
+- asm-stage
+- equity
 - listing
-- rights-issue
-- equity-shares
 - partly-paid
-- xt-group
+- rights-issue
 title: Listing of JMJ Fintech Limited Partly Paid-up Equity Shares (Rights Issue)
 ---
 

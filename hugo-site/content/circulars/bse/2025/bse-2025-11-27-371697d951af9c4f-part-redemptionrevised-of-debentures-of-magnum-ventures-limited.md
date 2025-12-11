@@ -27,11 +27,11 @@ source: bse
 stocks:
 - MAGNUMVEN
 tags:
-- debentures
-- redemption
-- face-value-reduction
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption (Revised) of Debentures of Magnum Ventures Limited
 ---
 

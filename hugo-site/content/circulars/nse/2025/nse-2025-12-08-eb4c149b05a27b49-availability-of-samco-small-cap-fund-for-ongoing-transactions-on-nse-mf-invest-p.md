@@ -26,14 +26,14 @@ source: nse
 stocks: []
 tags:
 - mutual-fund
+- redemption
 - samco-mutual-fund
-- small-cap-fund
-- subscriptions
-- redemptions
 - sip
+- small-cap-fund
 - stp
+- subscription
 - swp
-- nse-mf-invest
+- trading-platform
 title: Availability of Samco Small Cap Fund for Ongoing Transactions on NSE MF Invest
   Platform
 ---

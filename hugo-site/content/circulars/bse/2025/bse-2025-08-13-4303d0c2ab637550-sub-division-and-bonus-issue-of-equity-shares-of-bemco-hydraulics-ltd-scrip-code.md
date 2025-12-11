@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BEMCO
 tags:
-- equity-shares
-- sub-division
-- bonus-issue
+- bonus
 - corporate-action
-- BEMCO
+- equity
+- split
 title: Sub-Division and Bonus Issue of Equity Shares of BEMCO HYDRAULICS LTD
 ---
 

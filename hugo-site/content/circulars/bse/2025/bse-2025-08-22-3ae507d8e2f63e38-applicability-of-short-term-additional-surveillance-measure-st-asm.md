@@ -31,10 +31,9 @@ stocks:
 - EUREKA
 - PENTOKEY
 tags:
-- st-asm
-- surveillance-measures
-- trading-restrictions
+- asm-stage
 - risk-management
+- trading-restrictions
 title: Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

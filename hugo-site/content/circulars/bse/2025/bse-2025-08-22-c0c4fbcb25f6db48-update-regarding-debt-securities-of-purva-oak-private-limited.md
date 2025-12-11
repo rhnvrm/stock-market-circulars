@@ -28,10 +28,10 @@ stocks:
 - PURVAOAK
 tags:
 - debt-securities
-- ncds
-- trading-update
-- security-conversion
 - isin-revision
+- ncd
+- security-conversion
+- trading
 title: Update Regarding Debt Securities of Purva Oak Private Limited - Revised Trading
   Terms
 ---

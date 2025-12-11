@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- egr
-- electronic-gold-receipts
-- settlement-schedule
-- trading-calendar
 - auction
-- pay-in-pay-out
+- egr
+- settlement
+- settlement-calendar
+- trading-calendar
 title: Trading and Settlement Programme for EGR Segment - December 2025
 ---
 

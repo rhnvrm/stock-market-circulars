@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- currency-derivatives
-- settlement-schedule
-- mark-to-market
-- futures
-- options
-- t-bills
+- derivatives
+- futures-options
 - interest-rate-contracts
+- mark-to-market
+- options
+- settlement
+- treasury-bills
 title: CDS - Monthly Settlement Schedule for SEPTEMBER 2025
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SAMUNNATI
 tags:
-- debentures
-- trading-suspension
-- maturity
 - debt-securities
-- samunnati-finance
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in Debentures of SAMUNNATI FINANCE PRIVATE LIMITED
 ---
 

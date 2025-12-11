@@ -26,11 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- demand-notice
 - enforcement
-- recovery-certificate
 - generic-engineering
-- remittance-order
+- recovery
 title: General Remittance Order dated 02.12.2025 in Recovery Certificate No. 8918
   of 2025 issued against Laxman Dhananjay Gunde
 ---

@@ -24,14 +24,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- ANANDRAYONS
+- ARL
 tags:
-- listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
 - anand-rayons
+- conversion
+- equity
+- listing
 - lock-in
+- preferential-issue
 title: Listing of New Equity Shares - Anand Rayons Limited
 ---
 

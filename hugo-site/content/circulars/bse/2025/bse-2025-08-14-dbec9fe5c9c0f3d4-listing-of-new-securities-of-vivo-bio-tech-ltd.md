@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- VIVOBIOTECH
+- VIVOBIOT
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-issue
-- lock-in-period
+- conversion
+- equity
+- lock-in
 - new-securities
+- preferential-issue
 title: Listing of New Securities of Vivo Bio Tech Ltd - 20.75 Lakh Equity Shares
 ---
 

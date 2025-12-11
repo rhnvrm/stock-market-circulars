@@ -28,11 +28,11 @@ source: bse
 stocks:
 - TIMESGRE
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
-- ex-rights
+- equity
 - record-date
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Times Green Energy (India) Limited
 ---
 

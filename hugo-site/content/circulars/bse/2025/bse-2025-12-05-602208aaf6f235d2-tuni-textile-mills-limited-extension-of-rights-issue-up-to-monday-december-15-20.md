@@ -28,12 +28,11 @@ source: bse
 stocks:
 - TUNITEXT
 tags:
-- rights-issue
-- issue-extension
-- tuni-textile
 - corporate-action
-- equity-shares
+- equity
+- extension
 - issue-schedule
+- rights-issue
 title: TUNI TEXTILE MILLS LIMITED - Extension of Rights Issue Closing Date to December
   15, 2025
 ---

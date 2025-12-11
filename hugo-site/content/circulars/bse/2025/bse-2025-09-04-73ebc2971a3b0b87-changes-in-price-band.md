@@ -27,7 +27,7 @@ stocks:
 - A2Z
 - CROPSTER
 - EKENNIS
-- INDIABULLS
+- IBULLSLTD
 - INDOKEM
 - KAUSHALYA
 - RAWEDGE
@@ -39,10 +39,10 @@ stocks:
 - ZUARI
 - ABAN
 tags:
+- equity
 - price-band
-- trading-controls
 - surveillance
-- equity-trading
+- trading-controls
 title: Changes in Price Band for 14 Securities Effective September 5, 2025
 ---
 

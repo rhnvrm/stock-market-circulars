@@ -29,9 +29,9 @@ stocks:
 - WINPRO
 tags:
 - annual-listing-fees
-- trading-suspension
 - compliance
-- equity-segment
+- equity
+- suspension
 - trade-for-trade
 title: Trading Suspension Revoked for Companies After Annual Listing Fee Payment
 ---

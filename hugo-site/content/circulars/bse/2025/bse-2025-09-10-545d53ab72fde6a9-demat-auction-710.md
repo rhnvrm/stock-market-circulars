@@ -24,12 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ADANI POWER
-- BAJAJ AUTO
+- ADANIPOWER
+- BAJAJ-AUTO
 - RELIANCE IND
-- TATA MOTORS
-- YES BANK
-- JSW STEEL
+- TMCV
+- YESBANK
+- JSWSTEEL
 - MARUTI SUZUK
 - MAHINDRA & M
 tags:

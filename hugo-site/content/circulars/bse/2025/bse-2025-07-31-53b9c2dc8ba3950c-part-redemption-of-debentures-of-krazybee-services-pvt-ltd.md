@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KSPL
 tags:
-- debentures
-- part-redemption
-- face-value-reduction
+- corporate-action
 - debt-securities
-- corporate-actions
+- face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of KRAZYBEE SERVICES PVT LTD
 ---
 

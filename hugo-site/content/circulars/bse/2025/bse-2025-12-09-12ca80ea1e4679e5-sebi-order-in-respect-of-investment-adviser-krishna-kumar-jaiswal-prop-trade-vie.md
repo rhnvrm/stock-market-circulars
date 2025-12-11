@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- investment-adviser
-- sebi-order
-- regulatory-action
-- compliance-violation
-- inspection
 - contact-details
+- investigation
+- investment-adviser
+- non-compliance
+- regulatory
+- sebi-order
 - trade-view
 title: SEBI Order in Respect of Investment Adviser - Krishna Kumar Jaiswal, Prop.
   Trade View - Registration No. INA000009074

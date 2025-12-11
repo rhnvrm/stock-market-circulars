@@ -49,12 +49,11 @@ stocks:
 - MANGALAM
 - MAYUR
 tags:
-- surveillance
-- st-asm
-- additional-surveillance-measure
-- short-term
-- trading-restrictions
+- asm-stage
 - market-operations
+- short-term
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

@@ -53,10 +53,10 @@ stocks:
 - SUDARSHAN
 - SYSTEMATIX
 tags:
-- price-band
-- trading
-- surveillance
 - equity
+- price-band
+- surveillance
+- trading
 title: Changes in Price Band for 27 Securities Effective August 28, 2025
 ---
 

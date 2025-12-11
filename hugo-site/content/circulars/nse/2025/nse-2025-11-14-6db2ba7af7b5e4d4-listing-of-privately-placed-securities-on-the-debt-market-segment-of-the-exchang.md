@@ -25,7 +25,7 @@ rss_url: https://nsearchives.nseindia.com/content/circulars/CML71305.pdf
 severity: low
 source: nse
 stocks:
-- TATACAPITAL
+- TATACAP
 - ISEC
 - IIFL
 - GODREJIND
@@ -34,19 +34,17 @@ stocks:
 - ABCAPITAL
 - LTFH
 tags:
-- debt-market
+- abcl
 - commercial-paper
+- debt-securities
+- gcpl
+- gil
+- gpl
 - listing
-- privately-placed-securities
-- TCHFL
-- ISEC
-- IIFL
-- GIL
-- GPL
-- GCPL
-- SIDBI
-- ABCL
-- LTFL
+- ltfl
+- privately-placed
+- sidbi
+- tchfl
 title: Listing of Privately Placed Securities on Debt Market Segment
 ---
 

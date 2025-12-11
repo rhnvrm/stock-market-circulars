@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- appellate-authority
+- appeal
 - cpgrams
-- public-grievance
 - information-disclosure
+- public-grievance
+- rti
 title: Appeal No. 6559 of 2025 filed by Divyansh Dwivedi
 ---
 

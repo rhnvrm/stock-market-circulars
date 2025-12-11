@@ -27,13 +27,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- slbs
-- securities-lending-borrowing
 - bank-guarantee
-- fixed-deposit
-- approved-banks
 - collateral
+- empanelment
+- fixed-deposit
 - margin-deposit
+- slbs
 - south-indian-bank
 title: Revision in List of Approved Banks for the issuance of FDRs and BGs
 ---

@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
 - appeal
-- misconduct-complaint
 - hypothetical-query
 - information-access
+- misconduct-complaint
+- rti
 title: Appeal No. 6472 of 2025 filed by Nitin Goradia - RTI Application Dismissed
 ---
 

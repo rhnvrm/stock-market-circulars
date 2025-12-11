@@ -39,11 +39,11 @@ stocks:
 - AUBANK
 - ICICIPRULI
 tags:
-- listing
-- securities
+- equity
 - esop
-- preferential-allotment
-- equity-shares
+- listing
+- preferential-issue
+- securities
 title: Listing of Further Issues of Securities - 14 Companies Including ICICI Bank,
   Adani Green Energy
 ---

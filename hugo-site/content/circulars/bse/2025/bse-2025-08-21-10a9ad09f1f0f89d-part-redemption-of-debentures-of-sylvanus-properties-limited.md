@@ -26,12 +26,12 @@ source: bse
 stocks:
 - SPL
 tags:
-- corporate-actions
-- debt
-- debentures
-- part-redemption
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of Sylvanus Properties Limited
 ---
 

@@ -33,11 +33,9 @@ stocks:
 - TEJASNET
 - WIPRO
 tags:
-- listing
-- esop
-- esos
 - equity
-- employee-stock-options
+- esop
+- listing
 - new-securities
 title: Listing of Securities Issued Under ESOP/ESOS - 6 Companies
 ---

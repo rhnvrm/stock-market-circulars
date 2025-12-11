@@ -27,10 +27,9 @@ source: bse
 stocks:
 - CHEMOPHARMA
 tags:
-- company-name-change
-- certificate-of-incorporation
+- certificate
 - ministry-of-corporate-affairs
-- chemo-pharma-laboratories
+- name-change
 - starsource-multitrade
 title: Change in Name of CHEMO PHARMA LABORATORIES LTD to STARSOURCE MULTITRADE LIMITED
 ---

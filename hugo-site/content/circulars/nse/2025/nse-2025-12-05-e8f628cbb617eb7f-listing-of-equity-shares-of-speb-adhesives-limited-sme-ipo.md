@@ -26,12 +26,11 @@ source: nse
 stocks:
 - SPEB
 tags:
-- listing
-- sme-ipo
 - emerge-platform
+- listing
+- sme
+- surveillance
 - trade-for-trade
-- surveillance-segment
-- new-listing
 title: Listing of Equity Shares of Speb Adhesives Limited (SME IPO)
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MUTHOOTMF
 tags:
-- debentures
-- part-redemption
-- interest-payment
+- corporate-action
 - debt-securities
-- corporate-actions
+- interest-payment
 - muthoot-microfin
+- ncd
+- redemption
 title: Part Redemption of Debentures of Muthoot Microfin Limited
 ---
 

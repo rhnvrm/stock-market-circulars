@@ -27,14 +27,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- related-party-transactions
 - compliance
-- audit-committee
-- shareholder-approval
-- sebi-regulations
-- lodr
 - corporate-governance
-- disclosure-requirements
+- disclosure
+- lodr
+- regulatory-framework
+- related-party-transactions
+- shareholder-approval
+- system-audit
 title: SEBI Circular on Minimum Information to be Provided to the Audit Committee
   and Shareholders for Approval of Related Party Transactions
 ---

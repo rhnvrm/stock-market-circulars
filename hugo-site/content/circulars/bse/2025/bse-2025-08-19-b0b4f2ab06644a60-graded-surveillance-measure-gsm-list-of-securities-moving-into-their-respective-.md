@@ -35,10 +35,9 @@ stocks:
 - RAYMED
 - GOLDEN
 tags:
-- gsm
-- surveillance
-- market-monitoring
 - compliance
+- market-operations
+- surveillance
 - trading-restrictions
 title: GSM Framework Updates - Securities Moving to Different Surveillance Stages
 ---

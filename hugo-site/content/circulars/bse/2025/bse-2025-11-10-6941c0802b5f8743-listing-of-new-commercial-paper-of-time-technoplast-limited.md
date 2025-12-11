@@ -28,11 +28,9 @@ stocks:
 - TIMETECHNO
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- time-technoplast
+- debt-securities
 - idbi-bank
-- debt-segment
+- private-placement
 title: Listing of new Commercial Paper of Time Technoplast Limited
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks: []
 tags:
 - annual-inspection
-- joint-inspection
 - broker-supervision
-- depository-participants
 - clearing-corporations
 - compliance
+- depository
 - ease-of-business
+- joint-inspection
 - risk-based-supervision
 title: SEBI Introduces Joint Annual Inspection Policy for Market Infrastructure Institutions
 ---

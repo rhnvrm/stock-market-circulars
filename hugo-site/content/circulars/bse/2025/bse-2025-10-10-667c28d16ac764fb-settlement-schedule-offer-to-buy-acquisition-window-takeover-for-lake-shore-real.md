@@ -28,13 +28,12 @@ source: bse
 stocks:
 - LAKESHOREALTY
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
 - early-pay-in
 - lake-shore-realty
-- offer-to-buy
+- otb
+- settlement
 - settlement-calendar
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for LAKE SHORE
   REALTY LIMITED
 ---

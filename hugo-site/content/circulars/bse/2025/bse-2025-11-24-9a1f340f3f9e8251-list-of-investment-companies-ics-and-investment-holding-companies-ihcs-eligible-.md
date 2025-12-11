@@ -29,12 +29,12 @@ stocks:
 - HARYANAFL
 - EASYFIN
 tags:
+- equity
+- group-change
 - investment-companies
 - investment-holding-companies
 - special-call-auction
 - trade-for-trade
-- group-change
-- equity-segment
 title: List of Investment Companies (ICs) and Investment Holding Companies (IHCs)
   eligible for Special Call-Auctions
 ---

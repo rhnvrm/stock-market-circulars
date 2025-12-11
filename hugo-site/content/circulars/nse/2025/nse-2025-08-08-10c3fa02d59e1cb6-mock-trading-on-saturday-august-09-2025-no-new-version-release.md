@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mock-trading
 - capital-market
-- trading-session
 - disaster-recovery
-- neat-plus
+- mock-trading
+- trading-platform
+- trading-session
 title: Mock trading on Saturday, August 09, 2025 - No new version release
 ---
 

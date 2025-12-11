@@ -26,11 +26,10 @@ source: bse
 stocks:
 - CHIRAHARIT
 tags:
+- equity
 - listing
-- sme-ipo
-- equity-shares
 - lock-in
-- new-listing
+- sme
 title: Listing of Equity Shares of Chiraharit Limited - SME IPO
 ---
 

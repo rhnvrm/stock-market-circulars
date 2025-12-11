@@ -26,13 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bajaj-finserv
+- liquid-fund
 - mutual-fund
 - nfo
 - smart-switch
-- bajaj-finserv
-- bse-star-mf
-- liquid-fund
-- overnight-fund
 title: Activation of SMART Switch Facility under BAJAJ FINSERV BANKING AND FINANCIAL
   SERVICES FUND - NFO on BSE StAR MF platform
 ---

@@ -32,11 +32,11 @@ stocks:
 - VIKRAMSOL
 - SHAREINDIA
 tags:
-- surveillance
+- compliance
 - encumbrance
-- promoter-holdings
-- sebi-sast
-- regulatory-compliance
+- sast
+- shareholding-pattern
+- surveillance
 - trading-restrictions
 title: Applicability of Surveillance Measure for Companies with High Encumbrance under
   SEBI SAST Regulation

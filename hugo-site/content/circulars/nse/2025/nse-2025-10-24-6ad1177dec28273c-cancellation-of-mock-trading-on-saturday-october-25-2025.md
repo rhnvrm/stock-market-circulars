@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mock-trading
-- commodity-derivatives
 - cancellation
-- trading-session
+- derivatives
+- mock-trading
 - neat-platform
+- trading-session
 title: Cancellation of Mock Trading on Saturday October 25, 2025
 ---
 

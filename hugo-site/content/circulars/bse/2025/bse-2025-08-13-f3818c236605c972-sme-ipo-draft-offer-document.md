@@ -26,10 +26,10 @@ source: bse
 stocks:
 - SIHORA
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
 - public-comments
 - sihora-industries
+- sme
 title: SME IPO Draft Offer Document - SIHORA INDUSTRIES LIMITED
 ---
 

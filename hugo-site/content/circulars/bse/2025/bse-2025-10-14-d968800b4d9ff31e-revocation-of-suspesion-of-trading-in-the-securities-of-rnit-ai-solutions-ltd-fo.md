@@ -27,13 +27,13 @@ source: bse
 stocks:
 - RNIT
 tags:
-- trading-suspension
-- revocation
-- nclt-order
-- resolution-plan
-- special-pre-open-session
-- relisting
+- call-money
 - equity
+- nclt
+- release
+- relisting
+- resolution-plan
+- suspension
 title: Revocation of Suspension of Trading in RNIT AI Solutions Ltd.
 ---
 

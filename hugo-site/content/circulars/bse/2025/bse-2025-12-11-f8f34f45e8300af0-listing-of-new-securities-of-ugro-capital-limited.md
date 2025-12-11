@@ -27,10 +27,10 @@ source: bse
 stocks:
 - UGROCAP
 tags:
-- listing
-- equity-shares
-- preferential-allotment
 - debenture-conversion
+- equity
+- listing
+- preferential-issue
 - ugro-capital
 title: Listing of New Securities of Ugro Capital Limited
 ---

@@ -29,13 +29,12 @@ source: bse
 stocks:
 - PATELEG
 tags:
-- rights-issue
-- rights-entitlements
-- renunciation
 - equity
-- trading
-- settlement
 - patel-engineering
+- renunciation
+- rights-issue
+- settlement
+- trading
 title: Rights Entitlements Trading for Patel Engineering Limited
 ---
 

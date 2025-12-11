@@ -26,12 +26,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- debentures
-- ncd
-- early-redemption
-- debt-market
 - corporate-action
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Grand Hills Developments Private Limited
 ---
 

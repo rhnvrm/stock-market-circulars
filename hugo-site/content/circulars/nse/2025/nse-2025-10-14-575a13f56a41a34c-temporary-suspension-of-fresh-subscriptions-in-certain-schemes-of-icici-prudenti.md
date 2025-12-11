@@ -25,13 +25,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-fund
 - etf
-- subscription-suspension
-- silver-etf
 - icici-prudential
 - investor-protection
+- mutual-fund
+- silver
 - supply-constraints
+- suspension
 title: Temporary Suspension of Fresh Subscriptions in ICICI Prudential Silver ETF
   Fund of Fund
 ---

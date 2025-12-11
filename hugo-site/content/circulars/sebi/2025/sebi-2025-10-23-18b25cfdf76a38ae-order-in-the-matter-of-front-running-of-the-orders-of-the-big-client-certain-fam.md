@@ -28,14 +28,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- front-running
-- pfutp
-- enforcement
-- fraudulent-trading
-- unfair-trade-practices
-- family-trusts
-- settlement-proceedings
 - angel-one
+- enforcement
+- family-trusts
+- investigation
+- pfutp
+- settlement-proceedings
+- unfair-trade-practices
 title: Order in the matter of front running of the orders of the Big Client (certain
   family trusts) by certain entities
 ---

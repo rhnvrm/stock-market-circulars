@@ -26,10 +26,9 @@ source: nse
 stocks:
 - STEELCAS
 tags:
-- face-value-split
-- equity-shares
 - corporate-action
-- steelcast
+- equity
+- face-value-change
 title: Face Value Split - Steelcast Limited (STEELCAS)
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - MIRCELECTR
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
-- mirc-electronics
 - new-securities
+- rights-issue
 title: Listing of New Equity Shares - Mirc Electronics Ltd Rights Issue
 ---
 

@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- research-analyst
-- regulatory-violation
-- debarred-person
 - compliance
+- debarred-person
 - enforcement
-- penalties
+- non-compliance
+- penalty
+- research-analyst
 title: Order Against Priyanka Yadav - Proprietor of Trade Money Research for Regulatory
   Violations
 ---

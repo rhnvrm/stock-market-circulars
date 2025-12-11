@@ -25,13 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- suspension
-- non-convertible-debentures
-- ncd
-- maturity
-- iifl-samasta-finance
 - debt-securities
 - delisting
+- iifl-samasta-finance
+- maturity
+- ncd
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures - IIFL Samasta Finance
   Limited
 ---

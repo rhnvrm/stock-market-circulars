@@ -33,11 +33,10 @@ stocks:
 - HDBK
 - IRFC
 tags:
-- debt-segment
-- corporate-bonds
+- bond
+- debt-securities
 - dvp-3-settlement
 - institutional-platform
-- debt-securities
 - settlement-mechanism
 title: Revised list of privately issued Corporate Bonds made eligible under DVP-3
   settlement on Institutional Platform of Debt Segment

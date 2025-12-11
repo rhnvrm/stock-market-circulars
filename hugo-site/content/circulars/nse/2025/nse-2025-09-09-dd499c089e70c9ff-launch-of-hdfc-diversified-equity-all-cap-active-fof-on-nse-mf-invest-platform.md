@@ -24,12 +24,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
 - equity
 - fund-of-funds
 - hdfc
 - investment
+- mutual-fund
+- nfo
 title: Launch of HDFC Diversified Equity All Cap Active FOF on NSE MF Invest Platform
 ---
 

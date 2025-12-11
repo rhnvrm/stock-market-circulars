@@ -28,11 +28,9 @@ stocks:
 - STLTECH
 - TIMESGUARANTY
 tags:
-- surveillance
-- asm
 - long-term
+- surveillance
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

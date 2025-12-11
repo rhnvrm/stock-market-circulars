@@ -27,13 +27,11 @@ source: bse
 stocks:
 - MAGNITE DEVELOPERS PRIVATE LIMITED
 tags:
-- debentures
-- part-redemption
+- debt-securities
 - interest-payment
+- ncd
 - record-date
-- debt-segment
-- magnite-developers
-- non-convertible-debentures
+- redemption
 title: Part Redemption of Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED
 ---
 

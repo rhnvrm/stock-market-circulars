@@ -27,12 +27,11 @@ source: bse
 stocks:
 - GHPL
 tags:
-- trading-suspension
-- debentures
+- debt-securities
 - ncd
-- early-redemption
 - record-date
-- debt-market
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Grand Hills Developments Private Limited
 ---
 

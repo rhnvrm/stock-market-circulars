@@ -26,11 +26,11 @@ source: bse
 stocks:
 - FINQUEST
 tags:
-- debentures
-- trading-resumption
 - call-option
-- early-redemption
-- corporate-actions
+- corporate-action
+- ncd
+- redemption
+- trading-resumption
 title: Resumption of Trading in Debentures of FINQUEST FINANCIAL SOLUTIONS PRIVATE
   LIMITED
 ---

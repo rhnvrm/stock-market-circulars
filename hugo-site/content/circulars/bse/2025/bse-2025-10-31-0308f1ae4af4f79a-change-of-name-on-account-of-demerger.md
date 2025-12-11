@@ -26,14 +26,13 @@ severity: low
 source: bse
 stocks: []
 tags:
-- demerger
-- name-change
-- member-update
-- stock-broking
 - cash-segment
-- equity-derivative
 - currency-derivative
-- commodity-derivative
+- derivatives
+- member-update
+- name-change
+- scheme-of-arrangement
+- stock-broking
 title: Change of Name on account of Demerger - Growth Securities Pvt. Ltd. to Algoquant
   Fintech Limited
 ---

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - DAVANGERE
 tags:
+- corporate-action
+- equity
+- renunciation
 - rights-issue
-- equity-shares
-- corporate-actions
-- davangere-sugar
-- ex-rights
 title: Rights Issue of Equity Shares - Davangere Sugar Company Limited
 ---
 

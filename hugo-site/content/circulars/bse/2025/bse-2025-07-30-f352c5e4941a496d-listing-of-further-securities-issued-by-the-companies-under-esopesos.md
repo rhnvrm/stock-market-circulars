@@ -25,11 +25,10 @@ severity: low
 source: bse
 stocks: []
 tags:
+- equity
 - esop
-- esos
-- equity-shares
 - listing
-- lock-in-period
+- lock-in
 title: Listing of further securities issued by the companies under ESOP/ESOS
 ---
 

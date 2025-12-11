@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- scheme-name-change
-- fund-of-fund
 - dsp-mutual-fund
-- sebi-framework
+- fund-of-funds
+- mutual-fund
+- name-change
+- regulatory-framework
 title: Change in scheme name of DSP Mutual Fund on NSE MF Invest platform
 ---
 

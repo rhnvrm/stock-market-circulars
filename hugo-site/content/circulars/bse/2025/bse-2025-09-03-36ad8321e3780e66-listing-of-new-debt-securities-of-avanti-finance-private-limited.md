@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- debt-listing
-- private-placement
 - avanti-finance
+- debt-securities
 - new-securities
+- private-placement
 title: Listing of New Debt Securities of Avanti Finance Private Limited
 ---
 

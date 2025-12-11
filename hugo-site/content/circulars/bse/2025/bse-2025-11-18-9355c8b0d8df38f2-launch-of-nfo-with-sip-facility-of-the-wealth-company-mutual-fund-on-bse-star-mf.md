@@ -27,12 +27,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- multi-asset
 - mutual-fund
 - nfo
 - sip
 - wealth-company-mutual-fund
-- multi-asset-allocation
-- bse-star-mf
 title: Launch of NFO with SIP facility of THE WEALTH COMPANY MULTI ASSET ALLOCATION
   FUND on BSE StAR MF Platform
 ---

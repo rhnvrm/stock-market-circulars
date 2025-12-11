@@ -27,11 +27,11 @@ source: nse
 stocks:
 - EASTSILK
 tags:
-- trading-resumption
 - capital-reduction
+- nclt
 - resolution-plan
-- nclt-approval
 - trade-for-trade
+- trading-resumption
 title: Recommencement of Trading in Eastern Silk Industries Limited Post Capital Reduction
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - KILITCH
 tags:
-- equity-shares
-- rights-issue
-- new-listing
+- equity
 - kilitch-drugs
+- listing
+- rights-issue
 title: Listing of New Securities of Kilitch Drugs (I) Ltd
 ---
 

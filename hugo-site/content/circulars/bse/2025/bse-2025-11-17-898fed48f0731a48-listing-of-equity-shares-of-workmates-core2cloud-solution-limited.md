@@ -26,11 +26,10 @@ source: bse
 stocks:
 - WORKMATES
 tags:
-- listing
-- equity-shares
-- lock-in
+- equity
 - ipo
-- new-listing
+- listing
+- lock-in
 title: Listing of Equity Shares of Workmates Core2Cloud Solution Limited
 ---
 

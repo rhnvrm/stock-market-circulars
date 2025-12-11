@@ -27,12 +27,11 @@ source: nse
 stocks:
 - ADANIENT
 tags:
-- futures-and-options
-- derivatives
-- corporate-action
-- rights-issue
 - contract-adjustment
-- adani-enterprises
+- corporate-action
+- derivatives
+- futures-options
+- rights-issue
 title: 'RIGHTS: Adjustment of Futures and Options contracts in ADANIENT'
 ---
 

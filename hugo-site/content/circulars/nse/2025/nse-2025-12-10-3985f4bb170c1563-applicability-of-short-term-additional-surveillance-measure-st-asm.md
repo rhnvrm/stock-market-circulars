@@ -31,15 +31,10 @@ stocks:
 - PRANIK
 - MANGALAM
 tags:
-- surveillance
-- margin-requirements
-- st-asm
-- additional-surveillance-measure
+- asm-stage
+- margin
 - risk-management
-- AURIGROW
-- NEELAM
-- PRANIK
-- MANGALAM
+- surveillance
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM)
 ---
 

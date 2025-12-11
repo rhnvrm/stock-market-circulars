@@ -27,15 +27,15 @@ severity: high
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- pgim-india
-- overseas-investment
-- subscription-suspension
-- sebi-limits
 - fund-of-funds
+- mutual-fund
+- overseas-investment
+- pgim-india
+- sebi-limits
 - sip
+- smart-switch
 - stp
-- switch
+- suspension
 title: Temporary Suspension of Fresh Subscriptions in Certain Schemes of PGIM Mutual
   Fund on NSE MF Invest Platform
 ---

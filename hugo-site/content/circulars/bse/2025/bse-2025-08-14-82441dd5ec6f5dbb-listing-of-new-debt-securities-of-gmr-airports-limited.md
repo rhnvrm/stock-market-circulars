@@ -25,11 +25,11 @@ source: bse
 stocks:
 - GMRINFRA
 tags:
+- crisil-rated
 - debt-securities
-- private-placement
 - gmr-airports
 - listing
-- crisil-rated
+- private-placement
 title: Listing of new debt securities of GMR Airports Limited
 ---
 

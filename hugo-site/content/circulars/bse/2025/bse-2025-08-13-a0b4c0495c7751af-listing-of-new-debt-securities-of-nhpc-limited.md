@@ -25,11 +25,10 @@ source: bse
 stocks:
 - NHPC
 tags:
-- debt-listing
-- private-placement
-- nhpc
-- corporate-bonds
+- bond
+- debt-securities
 - power-sector
+- private-placement
 title: Listing of new debt securities of NHPC Limited
 ---
 

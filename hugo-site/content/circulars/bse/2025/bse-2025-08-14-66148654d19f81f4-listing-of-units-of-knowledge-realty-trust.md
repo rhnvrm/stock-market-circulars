@@ -26,10 +26,10 @@ source: bse
 stocks:
 - KREIT
 tags:
-- reit
-- listing
 - knowledge-realty-trust
+- listing
 - real-estate
+- reit
 - units
 title: Listing of Units of Knowledge Realty Trust
 ---

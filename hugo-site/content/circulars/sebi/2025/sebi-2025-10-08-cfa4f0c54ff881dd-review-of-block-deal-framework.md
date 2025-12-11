@@ -28,14 +28,14 @@ source: sebi
 stocks: []
 tags:
 - block-deal
-- trading-window
 - market-operations
-- settlement-cycle
+- order-execution
+- settlement-calendar
+- stock-exchange
 - t0-settlement
 - t1-settlement
-- stock-exchange
+- trading-window
 - vwap
-- order-execution
 title: Review of Block Deal Framework
 ---
 

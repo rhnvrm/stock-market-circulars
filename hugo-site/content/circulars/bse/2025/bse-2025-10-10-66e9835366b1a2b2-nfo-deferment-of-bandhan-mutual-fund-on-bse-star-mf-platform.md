@@ -25,14 +25,13 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bandhan-mutual-fund
+- deferment
+- etf
+- gold
 - mutual-fund
 - nfo
-- etf
-- gold-etf
-- silver-etf
-- deferment
-- bandhan-mutual-fund
-- bse-star-mf
+- silver
 title: NFO Deferment of Bandhan Gold ETF and Bandhan Silver ETF
 ---
 

@@ -26,12 +26,12 @@ source: bse
 stocks:
 - PIRAMAL
 tags:
-- debt-securities
-- debentures
 - coupon-rate
-- rating-downgrade
+- debt-securities
 - mandatory-redemption
+- ncd
 - piramal-finance
+- rating-downgrade
 title: Update Regarding Debt Securities of Piramal Finance Limited
 ---
 

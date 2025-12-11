@@ -102,7 +102,7 @@ stocks:
 - SAIL
 - SUNPHARMA
 - SUZLON
-- TATACAPITAL
+- TATACAP
 - TATATECH
 - TECHM
 - TITAN
@@ -115,9 +115,9 @@ stocks:
 - WAAREE
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction
+- demat
+- settlement
 - trading
 title: Demat Auction - 749
 ---

@@ -27,15 +27,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- banknifty
+- bse-index
 - derivatives
+- eligibility-criteria
+- finnifty
+- index-change
 - indices
 - non-benchmark-indices
 - prudential-norms
-- bankex
-- finnifty
-- banknifty
-- index-rebalancing
-- eligibility-criteria
 - stock-exchanges
 title: Implementation of eligibility criteria for derivatives on existing Non-Benchmark
   Indices

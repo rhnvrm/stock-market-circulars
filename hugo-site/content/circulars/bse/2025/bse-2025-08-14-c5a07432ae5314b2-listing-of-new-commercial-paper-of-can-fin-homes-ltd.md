@@ -25,11 +25,10 @@ source: bse
 stocks:
 - CANFINHOME
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
-- can-fin-homes
 - a1-rating
+- commercial-paper
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of Can Fin Homes Ltd
 ---
 

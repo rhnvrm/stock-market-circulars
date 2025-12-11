@@ -25,12 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- fixed-deposit-receipts
-- electronic-form
-- collateral
 - clearing-members
+- collateral
+- electronic-form
+- fixed-income
 - mufg-bank
-- securities-lending-borrowing
 title: MUFG Bank Ltd Added to Electronic Fixed Deposit Receipts (FDRs) Provider List
 ---
 

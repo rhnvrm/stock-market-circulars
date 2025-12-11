@@ -30,7 +30,6 @@ tags:
 - debt-securities
 - listing
 - ncd
-- sammaan-capital
 - private-placement
 title: Listing of new debt securities of Sammaan Capital Limited
 ---

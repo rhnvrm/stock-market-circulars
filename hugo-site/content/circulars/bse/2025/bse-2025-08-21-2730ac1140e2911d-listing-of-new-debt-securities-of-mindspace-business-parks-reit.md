@@ -26,11 +26,10 @@ stocks:
 - MINDSPACE
 tags:
 - debt-securities
-- listing
-- reit
-- mindspace-business-parks
-- private-placement
 - icra-aaa
+- listing
+- private-placement
+- reit
 title: Listing of new debt securities of Mindspace Business Parks REIT
 ---
 

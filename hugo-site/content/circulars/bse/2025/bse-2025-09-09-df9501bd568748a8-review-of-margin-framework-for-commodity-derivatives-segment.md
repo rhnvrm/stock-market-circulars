@@ -25,12 +25,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- commodity-derivatives
+- crude-oil
+- derivatives
+- gold
 - margin-framework
 - risk-management
 - settlement
-- crude-oil
-- gold
 - silver
 title: Review of Margin Framework for Commodity Derivatives Segment
 ---

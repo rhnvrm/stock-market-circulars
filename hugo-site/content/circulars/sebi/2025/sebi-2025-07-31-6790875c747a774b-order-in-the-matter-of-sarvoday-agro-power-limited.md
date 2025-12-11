@@ -27,11 +27,11 @@ stocks:
 - SAPL
 tags:
 - enforcement
-- debentures
+- ncd
 - public-issue
+- show-cause-notice
 - unlisted-company
 - violations
-- show-cause-notice
 title: Order in the matter of Sarvoday Agro Power Limited
 ---
 

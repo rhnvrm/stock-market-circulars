@@ -29,10 +29,10 @@ stocks:
 - INFY
 tags:
 - buyback
-- tender-offer
-- infosys
-- web-based-bidding
 - capital-market
+- infosys
+- tender-offer
+- web-based-bidding
 title: Buyback Offer under Tender Offer scheme by Infosys Limited
 ---
 

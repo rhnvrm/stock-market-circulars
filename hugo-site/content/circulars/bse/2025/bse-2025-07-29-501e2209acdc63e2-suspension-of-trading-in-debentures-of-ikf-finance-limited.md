@@ -26,11 +26,11 @@ source: bse
 stocks:
 - IKFFL
 tags:
-- trading-suspension
-- debentures
-- corporate-actions
+- corporate-action
 - debt-securities
 - ikf-finance
+- ncd
+- suspension
 title: Suspension of Trading in Debentures of IKF Finance Limited
 ---
 

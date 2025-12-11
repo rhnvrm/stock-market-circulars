@@ -26,12 +26,12 @@ source: bse
 stocks:
 - REFEX
 tags:
+- conversion
+- equity
 - listing
-- preferential-issue
-- warrant-conversion
-- promoter-allotment
-- equity-shares
 - lock-in
+- preferential-issue
+- promoter
 title: Listing of New Securities of Refex Industries Limited
 ---
 

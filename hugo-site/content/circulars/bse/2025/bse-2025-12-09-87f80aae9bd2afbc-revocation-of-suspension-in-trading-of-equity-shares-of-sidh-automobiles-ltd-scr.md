@@ -27,12 +27,12 @@ source: bse
 stocks:
 - SIDHAUTML
 tags:
-- trading
-- suspension-revocation
-- equity-shares
 - compliance
-- sidh-automobiles
+- equity
 - nbfc
+- release
+- sidh-automobiles
+- trading
 title: 'Revocation of Suspension in Trading of Equity Shares of Sidh Automobiles Ltd.
   (Scrip Code: 539983)'
 ---

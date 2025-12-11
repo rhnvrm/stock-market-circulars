@@ -27,18 +27,18 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- telecom
-- regulatory
-- bfsi
-- banking
-- securities
-- pension
-- compliance
 - 1600-series
-- numbering
+- banking
+- bfsi
+- compliance
 - consumer-protection
+- numbering
+- pension
+- regulatory
+- securities
 - spam-prevention
+- telecom
+- trai
 title: TRAI Direction on Mandatory Adoption of 1600-Series Numbers for BFSI Entities
 ---
 

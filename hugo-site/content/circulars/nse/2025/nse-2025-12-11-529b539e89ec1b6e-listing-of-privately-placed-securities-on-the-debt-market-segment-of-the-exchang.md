@@ -29,18 +29,18 @@ stocks:
 - ABML
 - GPL
 - GIL
-- CEAT
+- CEATLTD
 - ASL
 - KSL
 - HSL
 - BILIPL
 - IIFL
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
+- further-issue
 - listing
 - private-placement
-- fresh-issue
 - re-issue
 title: Listing of privately placed securities on the debt market segment of the Exchange
 ---

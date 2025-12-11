@@ -25,23 +25,23 @@ severity: medium
 source: bse
 stocks:
 - TECHNOPLAST
-- NEXUS-SELECT-TRUST
+- NXST-RR
 - HDFCSEC
 - IGH-HOLDINGS
 - INFINA-FINANCE
 - NETWORK18
-- 360ONE-WAM
+- 360ONE
 - BAJAJFINSV
 - ABRL
 - DALBHARAT
 - RELIANCE
 tags:
 - commercial-paper
-- trading-suspension
-- redemption
+- corporate-action
+- debt-securities
 - record-date
-- debt-market
-- corporate-actions
+- redemption
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

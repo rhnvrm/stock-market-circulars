@@ -44,11 +44,9 @@ stocks:
 - RBLBANK
 - WABAG
 tags:
-- esop
-- esos
-- listing
 - equity
-- employee-stock-options
+- esop
+- listing
 title: Listing of Further Securities Issued Under ESOP/ESOS - 18 Companies
 ---
 

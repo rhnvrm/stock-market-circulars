@@ -28,11 +28,8 @@ source: bse
 stocks:
 - TASTYDAIR
 tags:
-- surveillance
 - insolvency
-- ibc
-- additional-surveillance-measure
-- corporate-insolvency
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---

@@ -46,10 +46,10 @@ stocks:
 - UNIONBANK
 - VOLTAS
 tags:
+- equity
+- settlement-calendar
 - t0-settlement
 - trading-restrictions
-- settlement-cycle
-- equity-trading
 title: 20 Scrips Excluded from T+0 Trading on September 30, 2025
 ---
 

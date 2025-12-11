@@ -36,11 +36,10 @@ stocks:
 - NIVABUPA
 - MANGALCMP
 tags:
-- index
-- reconstitution
-- bse-ipo-index
-- bse-sme-ipo-index
+- bse-index
+- index-fund
 - monthly-rebalancing
+- reconstitution
 title: Reconstitution of BSE Indices
 ---
 

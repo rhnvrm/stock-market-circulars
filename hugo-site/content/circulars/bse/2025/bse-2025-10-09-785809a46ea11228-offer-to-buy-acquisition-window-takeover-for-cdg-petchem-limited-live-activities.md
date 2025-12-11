@@ -28,13 +28,11 @@ source: bse
 stocks:
 - CDG
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
 - cdg-petchem
-- trading-schedule
 - equity
+- otb
+- takeover
+- trading-schedule
 title: Offer to Buy – Acquisition Window (Takeover) for CDG PETCHEM LIMITED - Live
   Activities Schedule
 ---

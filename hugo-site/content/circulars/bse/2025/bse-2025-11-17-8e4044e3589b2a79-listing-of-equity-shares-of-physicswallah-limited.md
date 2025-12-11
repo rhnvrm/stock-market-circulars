@@ -24,13 +24,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- PHYSICSWALLAH
+- PWL
 tags:
-- listing
-- equity-shares
-- physicswallah
-- new-listing
+- equity
 - ipo
+- listing
+- physicswallah
 title: Listing of Equity Shares of Physicswallah Limited
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - SHREEJI
 tags:
+- anchor-investor
+- equity
+- ipo
 - listing
 - lock-in
-- ipo
-- equity-shares
-- anchor-investors
 title: Listing of Equity Shares of Shreeji Shipping Global Limited
 ---
 

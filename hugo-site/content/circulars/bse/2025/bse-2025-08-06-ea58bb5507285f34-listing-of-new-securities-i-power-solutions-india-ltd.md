@@ -23,14 +23,13 @@ published_date: '2025-08-06T10:44:06+00:00'
 rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={87F5C454-B841-406C-80FB-4B398124D0EC}&noticeno=20250806-18&dt=08/06/2025&icount=18&totcount=60&flag=0
 severity: low
 source: bse
-stocks:
-- '512405'
+stocks: []
 tags:
-- equity-shares
-- preferential-issue
+- equity
+- i-power-solutions
 - listing
 - lock-in
-- i-power-solutions
+- preferential-issue
 title: Listing of new securities of i Power Solutions India Ltd
 ---
 

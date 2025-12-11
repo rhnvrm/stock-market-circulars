@@ -27,9 +27,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- ambit-finvest
-- debentures
 title: Listing of new debt securities of Ambit Finvest Private Limited
 ---
 

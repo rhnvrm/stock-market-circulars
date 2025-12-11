@@ -31,13 +31,13 @@ stocks:
 - ASIANENERGY
 - ASIANSTAR
 tags:
-- daily-bulletin
 - book-closure
-- record-date
+- commercial-paper
+- corporate-action
+- daily-bulletin
 - dividend
 - interest-payment
-- corporate-actions
-- commercial-paper
+- record-date
 title: Daily Bulletin - Book Closure, Record Dates and Corporate Actions
 ---
 

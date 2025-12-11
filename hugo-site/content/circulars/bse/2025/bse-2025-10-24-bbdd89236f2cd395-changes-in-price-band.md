@@ -45,7 +45,7 @@ stocks:
 - DSMFRESH
 - ESHAMED
 - GENESIS
-- INDIABULLS
+- IBULLSLTD
 - INDUCTO
 - KINENG
 - LORDSCA
@@ -83,10 +83,10 @@ stocks:
 - XELPMOC
 - YOGI
 tags:
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- market-operations
 title: Price Band Revisions for 57 Securities Effective October 27, 2025
 ---
 

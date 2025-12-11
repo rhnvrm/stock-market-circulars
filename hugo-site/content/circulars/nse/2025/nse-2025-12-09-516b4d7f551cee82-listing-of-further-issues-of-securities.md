@@ -39,11 +39,10 @@ stocks:
 - BFIL
 - LLOYDSME
 tags:
-- listing
+- equity
 - esop
-- equity-shares
 - further-issue
-- employee-stock-options
+- listing
 title: Listing of Further Issues of Securities - 12 Companies
 ---
 

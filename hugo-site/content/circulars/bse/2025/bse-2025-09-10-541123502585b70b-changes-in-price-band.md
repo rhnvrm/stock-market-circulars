@@ -25,23 +25,23 @@ severity: medium
 source: bse
 stocks:
 - AHMEDSTEELCRAFT
-- COVANCESOFTSOL
-- CROPSTERAGRO
-- FYNXCAPITAL
+- COVANCE
+- CROPSTER
+- FYNX
 - HIMALAYAFOOD
 - REFEXRENEWABLES
 - SALSTEEL
-- SARVESHWARFOODS
+- SARVESHWAR
 - SCARNOSEINTL
-- SEATVNETWORK
-- SMRUTHIORGANICS
-- TOYAMSPORTS
-- VAMAINDUSTRIES
+- SEATV
+- SMRUTHIORG
+- TOYAMSL
+- VAMA
 tags:
 - price-band
-- trading-parameters
-- surveillance
 - risk-management
+- surveillance
+- trading-operations
 title: Changes in Price Band for 13 Securities Effective September 11, 2025
 ---
 

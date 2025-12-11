@@ -26,10 +26,10 @@ source: bse
 stocks:
 - ABCAPITAL
 tags:
+- aditya-birla-capital
 - debt-securities
 - listing
 - private-placement
-- aditya-birla-capital
 title: Listing of new debt securities of Aditya Birla Capital Ltd
 ---
 

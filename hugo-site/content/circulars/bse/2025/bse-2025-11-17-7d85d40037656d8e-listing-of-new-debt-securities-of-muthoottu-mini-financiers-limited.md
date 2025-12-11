@@ -29,10 +29,9 @@ stocks:
 tags:
 - debt-securities
 - listing
-- private-placement
 - muthoottu-mini-financiers
-- ncds
-- debt-segment
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Muthoottu Mini Financiers Limited
 ---
 

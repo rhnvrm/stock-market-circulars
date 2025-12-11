@@ -31,13 +31,10 @@ stocks:
 - SOUTHWEST
 - GUJRAFFIA
 tags:
+- margin
 - surveillance
-- esm
-- enhanced-surveillance-measure
-- margin-requirements
 - trade-for-trade
-- market-surveillance
-- periodic-call-auction
+- trading-session
 title: Applicability of Enhanced Surveillance Measure (ESM) - December 2025
 ---
 

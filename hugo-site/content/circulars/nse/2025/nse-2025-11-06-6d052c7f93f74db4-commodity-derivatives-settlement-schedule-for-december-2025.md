@@ -25,11 +25,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- settlement-schedule
-- december-2025
-- trading-calendar
 - clearing
+- december-2025
+- derivatives
+- settlement
+- trading-calendar
 title: Commodity Derivatives Settlement Schedule for December 2025
 ---
 

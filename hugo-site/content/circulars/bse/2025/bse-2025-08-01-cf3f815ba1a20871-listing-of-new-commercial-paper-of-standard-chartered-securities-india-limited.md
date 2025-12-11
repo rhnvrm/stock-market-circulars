@@ -26,10 +26,9 @@ stocks:
 - SCSIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
 - standard-chartered
-- scsil
 title: Listing of Commercial Paper of Standard Chartered Securities India Limited
 ---
 

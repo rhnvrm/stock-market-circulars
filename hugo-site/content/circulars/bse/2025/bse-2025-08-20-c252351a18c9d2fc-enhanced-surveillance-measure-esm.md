@@ -39,11 +39,10 @@ stocks:
 - TRILIANCE
 - VALLABH
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- securities-monitoring
 - risk-management
+- securities-monitoring
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities List Changes
 ---
 

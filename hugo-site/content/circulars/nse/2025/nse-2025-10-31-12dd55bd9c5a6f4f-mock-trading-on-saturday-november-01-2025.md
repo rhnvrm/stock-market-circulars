@@ -28,10 +28,10 @@ source: nse
 stocks: []
 tags:
 - mock-trading
+- system-update
+- trading-operations
 - ucc
 - unique-client-code
-- system-maintenance
-- trading-operations
 title: Mock Trading Session on Saturday, November 01, 2025
 ---
 

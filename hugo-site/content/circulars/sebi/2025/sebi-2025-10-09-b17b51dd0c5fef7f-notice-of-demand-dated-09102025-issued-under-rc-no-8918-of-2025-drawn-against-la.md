@@ -30,13 +30,12 @@ source: sebi
 stocks:
 - GECL
 tags:
-- notice-of-demand
-- recovery-proceedings
-- enforcement-action
-- recovery-certificate
-- Generic Engineering Construction and Projects Limited
-- Laxman Dhananjay Gunde
-- RC-8918-2025
+- demand-notice
+- enforcement
+- generic engineering construction and projects limited
+- laxman dhananjay gunde
+- rc-8918-2025
+- recovery
 title: Notice of Demand dated 09.10.2025 issued under RC No. 8918 of 2025 against
   Laxman Dhananjay Gunde
 ---

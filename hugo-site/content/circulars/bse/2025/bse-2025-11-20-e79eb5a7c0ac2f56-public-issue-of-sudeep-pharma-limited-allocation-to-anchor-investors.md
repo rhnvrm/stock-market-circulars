@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SUDEEPPHARMA
+- SUDEEPPHRM
 tags:
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- equity-listing
-- sudeep-pharma
 - pharma-sector
 - public-issue
+- sudeep-pharma
 title: Public Issue of Sudeep Pharma Limited - Allocation to Anchor Investors
 ---
 

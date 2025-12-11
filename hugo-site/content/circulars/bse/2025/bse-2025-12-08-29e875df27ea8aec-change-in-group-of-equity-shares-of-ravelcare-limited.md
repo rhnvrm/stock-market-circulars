@@ -25,15 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- RAVELCARE
+- RAVEL
 tags:
+- asm-stage
 - group-change
-- segment-transfer
-- sme-ipo
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
+- segment-transfer
+- sme
+- trade-for-trade
 title: Change in Group of Equity Shares of RAVELCARE LIMITED
 ---
 

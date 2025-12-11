@@ -24,11 +24,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- investment-advisers
 - compliance
-- disabilities-act
+- digital-accessibility
+- investment-adviser
 - mandatory-submission
-- regulatory-requirement
+- regulatory
 title: Rights of Persons with Disabilities Act, 2016 - Mandatory Compliance Confirmation
   Required
 ---

@@ -26,11 +26,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- two-factor-authentication
-- ibbs-platform
+- authentication
 - security
 - trading-platform
-- authentication
+- two-factor-authentication
 title: Two-Factor Authentication Implementation on IBBS Platform - Security Questions
   Option Removal
 ---

@@ -26,11 +26,11 @@ source: sebi
 stocks: []
 tags:
 - financial-literacy
+- grassroots-awareness
 - investor-education
 - panchayati-raj
 - rural-outreach
 - training-program
-- grassroots-awareness
 title: SEBI collaborates with Ministry of Panchayati Raj to build financial literacy
   and investor awareness capacities at grassroots level
 ---

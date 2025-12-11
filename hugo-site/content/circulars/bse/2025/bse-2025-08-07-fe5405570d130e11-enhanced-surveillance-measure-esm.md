@@ -31,10 +31,9 @@ stocks:
 - PACETRONIX
 - GAYATRI
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
 - security-classification
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates
 ---
 

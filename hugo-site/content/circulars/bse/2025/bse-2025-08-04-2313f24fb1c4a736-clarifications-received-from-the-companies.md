@@ -27,11 +27,11 @@ stocks:
 - NETWORK18
 - CHALET
 tags:
-- volume-increase
 - clarification
-- surveillance
-- disclosure-requirements
+- disclosure
+- price-movement
 - regulation-30
+- surveillance
 title: Clarifications Received from Companies - Volume Increase Responses
 ---
 

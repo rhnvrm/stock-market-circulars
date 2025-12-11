@@ -28,10 +28,10 @@ stocks:
 - DALMIAIND
 - NIHAR
 tags:
-- trading-suspension
 - annual-listing-fees
 - compliance
-- equity-segment
+- equity
+- suspension
 - trade-for-trade
 title: BSE Revokes Trading Suspension for Two Companies After Annual Listing Fee Payment
 ---

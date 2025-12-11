@@ -28,13 +28,12 @@ source: bse
 stocks:
 - GREAVES FINANCE LIMITED
 tags:
-- debt
-- debentures
-- part-redemption
-- interest-payment
-- corporate-actions
-- greaves-finance
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- redemption
 title: Part Redemption of Debentures of GREAVES FINANCE LIMITED
 ---
 

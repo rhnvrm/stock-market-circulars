@@ -26,12 +26,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- pacl-limited
+- appeal
 - investor-refund
 - lodha-committee
-- appeal-dismissed
-- right-to-information
+- pacl-limited
+- rti
 title: Appeal No. 6558 of 2025 filed by Amber Arunam - RTI Appeal Dismissed
 ---
 

@@ -27,11 +27,9 @@ source: bse
 stocks:
 - WEWORK
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
-- wework
+- listing
 title: Listing of Equity Shares of We Work India Management Limited
 ---
 

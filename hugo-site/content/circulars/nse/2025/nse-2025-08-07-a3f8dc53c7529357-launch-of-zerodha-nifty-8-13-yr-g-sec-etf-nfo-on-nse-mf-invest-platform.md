@@ -24,11 +24,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- etf
-- nfo
-- government-securities
-- zerodha-mutual-fund
 - debt-scheme
+- etf
+- gsec
+- nfo
+- zerodha-mutual-fund
 title: Launch of Zerodha Nifty 8-13 Yr G-Sec ETF NFO on NSE MF Invest Platform
 ---
 

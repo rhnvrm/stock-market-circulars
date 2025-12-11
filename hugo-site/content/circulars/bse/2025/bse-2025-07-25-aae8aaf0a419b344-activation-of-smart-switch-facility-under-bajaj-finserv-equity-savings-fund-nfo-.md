@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- bajaj-finserv
+- equity-savings-fund
+- mutual-fund
 - nfo
 - smart-switch
-- bajaj-finserv
-- bse-star-mf
-- equity-savings-fund
 title: Activation of SMART Switch Facility for Bajaj Finserv Equity Savings Fund NFO
   on BSE StAR MF Platform
 ---

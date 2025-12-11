@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MFSL
 tags:
-- trading-suspension
-- debentures
 - corporate-action
-- interest-payment
-- redemption
 - debt-securities
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of MAS Financial Services Limited
 ---
 

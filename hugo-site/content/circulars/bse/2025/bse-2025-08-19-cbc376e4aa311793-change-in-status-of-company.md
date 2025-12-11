@@ -28,8 +28,7 @@ tags:
 - delisting
 - status-change
 - supreme-court
-- suspended
-- bhagawati-gas
+- suspension
 title: Change in Status of Bhagawati Gas Ltd from Delisted to Suspended
 ---
 

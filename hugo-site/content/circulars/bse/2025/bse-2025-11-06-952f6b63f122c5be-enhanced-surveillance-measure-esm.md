@@ -28,11 +28,9 @@ source: bse
 stocks:
 - CONTINENTC
 tags:
-- enhanced-surveillance-measure
-- esm
-- trading-restrictions
-- surveillance
 - continental-controls
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Continental Controls Ltd Added to Framework
 ---
 

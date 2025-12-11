@@ -25,11 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- settlement
-- mutual-fund
 - holiday-revision
 - id-e-milad
+- mutual-fund
 - rbi-notification
+- settlement
 title: Communication for transactions acceptance on September 05, 2025, and redemption
   payouts on September 09, 2025
 ---

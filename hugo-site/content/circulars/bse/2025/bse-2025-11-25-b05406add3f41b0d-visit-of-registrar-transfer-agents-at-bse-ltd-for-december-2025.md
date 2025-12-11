@@ -26,7 +26,7 @@ source: bse
 stocks:
 - ANTARISIND
 - ANANDPRO
-- INDIANIVESH
+- INDIANVSH
 - MARATHON
 - HINDRECT
 - PERMAGNET
@@ -42,13 +42,13 @@ stocks:
 - MILGREY
 - BOMTALKIE
 - YASHMAN
-- SCANSTEELS
+- SCANSTL
 - NILKANTH
 - BANGANGA
 - DHANSAFAL
 - KAJALSYN
 - SECUREKLOUD
-- BAJAJGLOBAL
+- BAJGLOB
 - TASHIIND
 - CHAMBREW
 - MANSOON
@@ -75,13 +75,12 @@ stocks:
 - RESONANCE
 - UNIMERS
 - ASIANPETRO
-- BERYLDRUGS
+- BERLDRG
 tags:
-- rta
-- registrar-transfer-agents
-- investor-services
-- adroit-corporate
 - administrative
+- adroit-corporate
+- investor-services
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for December 2025
 ---
 

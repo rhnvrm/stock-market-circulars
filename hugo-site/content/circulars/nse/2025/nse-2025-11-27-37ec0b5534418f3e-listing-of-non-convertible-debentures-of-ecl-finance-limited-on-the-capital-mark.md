@@ -28,13 +28,13 @@ source: nse
 stocks:
 - ECLFINL
 tags:
-- listing
-- non-convertible-debentures
-- scheme-of-arrangement
+- capital-market-segment
+- debt-securities
 - ecl-finance
 - edelweiss-retail-finance
-- debt-securities
-- capital-market-segment
+- listing
+- ncd
+- scheme-of-arrangement
 title: Listing of Non-Convertible Debentures of ECL Finance Limited on Capital Market
   Segment
 ---

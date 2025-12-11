@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BILCARE
+- BI
 - GTNTEX
 - INDIAHOME
 - KAMADGIRI
@@ -37,10 +37,10 @@ stocks:
 - SCANPROJ
 - BCCFUBA
 tags:
-- surveillance
-- lt-asm
-- trading
+- asm-stage
 - risk-management
+- surveillance
+- trading
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

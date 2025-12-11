@@ -25,11 +25,10 @@ source: bse
 stocks:
 - SHRIRAMFIN
 tags:
+- bond
 - debt-securities
 - listing
-- shriram-finance
 - private-placement
-- corporate-bonds
 title: Listing of New Debt Securities of Shriram Finance Limited
 ---
 

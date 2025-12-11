@@ -30,11 +30,10 @@ stocks:
 - MRPL
 - POKARNA
 tags:
-- volume-spurt
-- surveillance
-- price-sensitive-information
 - disclosure
+- price-movement
 - stock-exchange-query
+- surveillance
 title: Clarifications received from the companies
 ---
 

@@ -26,12 +26,11 @@ source: sebi
 stocks:
 - METALMAN
 tags:
-- enforcement
-- recovery
-- investor-grievance
 - attachment
 - defaulter
-- METALMAN
+- enforcement
+- investor-grievance
+- recovery
 title: Notice of Attachment of Bank Accounts and Demat Accounts against Metalman Industries
   Limited
 ---

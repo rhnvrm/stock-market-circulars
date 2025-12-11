@@ -28,7 +28,7 @@ stocks:
 - MOTILALOFS
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - motilal-oswal
 - private-placement
 - short-term-debt

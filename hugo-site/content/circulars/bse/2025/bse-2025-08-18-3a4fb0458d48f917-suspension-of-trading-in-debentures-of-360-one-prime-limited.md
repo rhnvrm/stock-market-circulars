@@ -26,11 +26,11 @@ source: bse
 stocks:
 - 360ONEPRM
 tags:
-- suspension
-- debentures
-- redemption
 - 360-one-prime
-- corporate-actions
+- corporate-action
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of 360 ONE PRIME LIMITED
 ---
 

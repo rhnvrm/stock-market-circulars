@@ -27,14 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limit
 - etf
-- silver
-- investor-protection
+- fund-of-funds
 - hdfc
-- fund-of-fund
+- investor-protection
 - market-volatility
+- mutual-fund
+- silver
+- subscription-limit
 title: Change in Maximum Subscription Limit of Subscription in HDFC Silver ETF Fund
   of Fund
 ---

@@ -27,12 +27,9 @@ source: nse
 stocks:
 - RNPL
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
+- margin
 - surveillance
-- RNPL
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

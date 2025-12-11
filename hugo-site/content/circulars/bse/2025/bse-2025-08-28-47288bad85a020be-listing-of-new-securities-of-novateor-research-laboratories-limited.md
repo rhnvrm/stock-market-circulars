@@ -26,11 +26,10 @@ source: bse
 stocks:
 - NOVATEOR
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
 - preferential-issue
-- warrant-conversion
-- novateor-research
 title: Listing of New Securities of Novateor Research Laboratories Limited
 ---
 

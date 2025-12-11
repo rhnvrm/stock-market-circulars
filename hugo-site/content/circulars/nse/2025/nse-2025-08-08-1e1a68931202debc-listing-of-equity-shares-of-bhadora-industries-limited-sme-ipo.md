@@ -25,12 +25,12 @@ source: nse
 stocks:
 - BHADORA
 tags:
-- sme-ipo
+- bhadora-industries
+- disclosure
+- equity
 - listing
 - shareholding-pattern
-- bhadora-industries
-- equity-shares
-- disclosure
+- sme
 title: Listing of Equity Shares of Bhadora Industries Limited (SME IPO)
 ---
 

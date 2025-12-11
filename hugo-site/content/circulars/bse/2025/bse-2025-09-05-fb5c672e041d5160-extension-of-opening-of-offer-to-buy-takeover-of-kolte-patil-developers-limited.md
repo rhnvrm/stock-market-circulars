@@ -26,10 +26,8 @@ source: bse
 stocks:
 - KOLTEPAT
 tags:
+- extension
 - takeover
-- open-offer
-- acquisition
-- deadline-extension
 - trading
 title: Extension of Opening of Offer to Buy (Takeover) of KOLTE-PATIL DEVELOPERS LIMITED
 ---

@@ -28,13 +28,9 @@ stocks:
 - GABRIEL
 - ZENITHEXPO
 tags:
+- margin
 - surveillance
-- asm
-- margin-requirements
 - trading-restrictions
-- balajiphos
-- gabriel
-- zenithexpo
 title: Applicability of Additional Surveillance Measure (ASM)
 ---
 

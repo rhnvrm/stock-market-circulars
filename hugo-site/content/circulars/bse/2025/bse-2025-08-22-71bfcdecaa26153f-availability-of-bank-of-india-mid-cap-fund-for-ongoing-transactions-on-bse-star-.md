@@ -25,10 +25,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - bank-of-india
 - mid-cap-fund
+- mutual-fund
 - sip
 - stp
 - swp

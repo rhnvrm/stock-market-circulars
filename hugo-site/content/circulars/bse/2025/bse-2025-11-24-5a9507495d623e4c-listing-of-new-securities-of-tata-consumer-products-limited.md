@@ -26,11 +26,10 @@ source: bse
 stocks:
 - TATACONSUM
 tags:
-- listing
-- equity-shares
-- tata-consumer
-- scheme
 - abeyance
+- equity
+- listing
+- scheme
 title: Listing of New Securities of Tata Consumer Products Limited
 ---
 

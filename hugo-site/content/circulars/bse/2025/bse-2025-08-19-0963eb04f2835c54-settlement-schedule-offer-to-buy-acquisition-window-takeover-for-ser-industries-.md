@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SER
 tags:
-- takeover
-- settlement
-- acquisition
-- early-pay-in
 - demat-shares
+- early-pay-in
+- settlement
+- takeover
 title: Settlement Schedule for SER Industries Limited Takeover Offer to Buy
 ---
 

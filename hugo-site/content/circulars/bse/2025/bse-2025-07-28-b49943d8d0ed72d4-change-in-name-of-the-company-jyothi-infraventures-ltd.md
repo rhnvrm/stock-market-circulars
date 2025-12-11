@@ -25,11 +25,11 @@ source: bse
 stocks:
 - JYOTHI
 tags:
-- name-change
+- certificate
 - corporate-action
-- incorporation-certificate
-- mizzen-ventures
 - jyothi-infraventures
+- mizzen-ventures
+- name-change
 title: 'Name Change: Jyothi Infraventures Limited to Mizzen Ventures Limited'
 ---
 

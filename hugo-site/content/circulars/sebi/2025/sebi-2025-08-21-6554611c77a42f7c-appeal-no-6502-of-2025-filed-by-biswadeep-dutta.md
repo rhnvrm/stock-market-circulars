@@ -25,11 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-act
-- insider-trading
 - adjudication-orders
+- appeal
 - information-disclosure
-- appellate-authority
+- investigation
+- rti
 title: Appeal No. 6502 of 2025 filed by Biswadeep Dutta - RTI Request for Insider
   Trading Adjudication Orders
 ---

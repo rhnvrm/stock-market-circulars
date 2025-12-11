@@ -51,12 +51,10 @@ stocks:
 - JDCABLES
 - JHANDEWA
 tags:
-- surveillance
-- asm
-- short-term-asm
-- trading-restrictions
-- market-surveillance
+- asm-stage
 - regulatory-framework
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

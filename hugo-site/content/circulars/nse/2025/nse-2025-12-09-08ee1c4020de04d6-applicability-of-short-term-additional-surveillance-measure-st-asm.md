@@ -34,17 +34,10 @@ stocks:
 - TUNWAL
 - CAPTRUST
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
 - trading-restrictions
-- CHAVDA
-- KAYNES
-- KESORAMIND
-- MARINETRAN
-- IDENTICAL
-- TUNWAL
 title: Short-Term Additional Surveillance Measure (ST-ASM) - December 2025 Update
 ---
 

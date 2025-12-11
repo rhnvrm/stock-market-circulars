@@ -28,12 +28,11 @@ source: bse
 stocks:
 - LAKSHRL
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- offer-to-buy
-- early-pay-in
 - demat-shares
+- early-pay-in
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for LAKE SHORE
   REALTY LIMITED
 ---

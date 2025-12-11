@@ -34,7 +34,7 @@ stocks:
 - ALLIEDBLND
 - ANTELOPUS
 - ANUH
-- APTECH
+- APTECHT
 - ARCHIES
 - ASAHISONG
 - ATISHAY
@@ -71,7 +71,7 @@ stocks:
 - INTELLECT
 - IPCALAB
 - JARO
-- JAYUSHIN
+- JAYUSH
 - JIOFIN
 - JSWSTEEL
 - JYOTIRESINS
@@ -99,8 +99,8 @@ stocks:
 - NIPPOBEES
 - NOVELIX
 - PIIND
-- PAUSHAK
-- PGFOILS
+- PAUSHAKLTD
+- PGFOILQ
 - PRAJIND
 - RAGHAV
 - RASHCHEM
@@ -117,7 +117,7 @@ stocks:
 - TAMBOLI
 - TNPETRO
 - TATATECH
-- TCM
+- TCMLMTD
 - THYROCARE
 - TIERRA
 - TIMETECH
@@ -133,10 +133,10 @@ stocks:
 - YESBANK
 - ZEEL
 tags:
-- demat-auction
-- settlement
 - auction
-- delivery-default
+- demat
+- early-pay-in
+- settlement
 title: Demat Auction Settlement No. 747 - November 3, 2025
 ---
 

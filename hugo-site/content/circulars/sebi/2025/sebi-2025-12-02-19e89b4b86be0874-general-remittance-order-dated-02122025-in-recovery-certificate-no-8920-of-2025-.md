@@ -27,11 +27,9 @@ source: sebi
 stocks:
 - GECPL
 tags:
-- recovery-certificate
 - enforcement
-- recovery-proceedings
-- debt-recovery
 - general-remittance-order
+- recovery
 title: General Remittance Order dated 02.12.2025 in Recovery Certificate No. 8920
   of 2025 against Shivakumar Gattai Kamballa
 ---

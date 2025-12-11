@@ -27,10 +27,10 @@ stocks:
 - RJIL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- listing
 - private-placement
 - reliance-jio
-- new-listing
 title: Listing of new Commercial Paper of Reliance Jio Infocomm Limited
 ---
 

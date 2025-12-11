@@ -26,11 +26,9 @@ source: bse
 stocks:
 - SPANDANA
 tags:
-- rights-issue
-- rights-entitlements
-- trading
-- spandana-sphoorty
 - equity
+- rights-issue
+- trading
 title: Rights Entitlements Trading for Spandana Sphoorty Financial Limited
 ---
 

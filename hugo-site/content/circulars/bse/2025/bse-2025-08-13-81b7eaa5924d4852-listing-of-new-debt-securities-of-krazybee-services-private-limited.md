@@ -25,11 +25,10 @@ source: bse
 stocks:
 - KRAZYBEE
 tags:
+- bond
 - debt-securities
-- private-placement
 - listing
-- krazybee-services
-- corporate-bonds
+- private-placement
 title: Listing of new debt securities of Krazybee Services Private Limited
 ---
 

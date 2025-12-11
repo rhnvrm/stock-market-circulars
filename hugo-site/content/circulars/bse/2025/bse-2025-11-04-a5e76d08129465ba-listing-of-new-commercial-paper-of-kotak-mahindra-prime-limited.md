@@ -28,10 +28,10 @@ stocks:
 - KOTAKBANK
 tags:
 - commercial-paper
-- listing
-- debt-segment
-- private-placement
+- debt-securities
 - kotak-mahindra-prime
+- listing
+- private-placement
 title: Listing of new Commercial Paper of Kotak Mahindra Prime Limited
 ---
 

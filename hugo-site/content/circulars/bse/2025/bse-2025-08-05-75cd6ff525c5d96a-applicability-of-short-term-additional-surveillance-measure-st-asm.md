@@ -30,14 +30,14 @@ stocks:
 - NETWEB
 - SAINIK
 - SAURASHTRA
-- VIPUL
+- VIPULLTD
 - ANGEL
 - SIGNPOST
 tags:
-- surveillance
-- st-asm
-- trading-restrictions
+- asm-stage
 - market-operations
+- surveillance
+- trading-restrictions
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

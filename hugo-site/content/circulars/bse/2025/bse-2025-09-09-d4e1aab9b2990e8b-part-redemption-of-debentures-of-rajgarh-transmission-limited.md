@@ -26,12 +26,11 @@ source: bse
 stocks:
 - RTL
 tags:
-- part-redemption
-- debentures
-- non-convertible-debentures
-- corporate-actions
-- debt
+- corporate-action
+- debt-securities
 - face-value-reduction
+- ncd
+- redemption
 title: Part Redemption of Debentures of RAJGARH TRANSMISSION LIMITED
 ---
 

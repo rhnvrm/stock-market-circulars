@@ -29,8 +29,6 @@ tags:
 - listing
 - private-placement
 - satin-creditcare
-- scnl
-- new-listing
 title: Listing of New Debt Securities of Satin Creditcare Network Limited
 ---
 

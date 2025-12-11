@@ -26,11 +26,10 @@ source: bse
 stocks:
 - UNICOMMERCE
 tags:
-- equity-listing
-- preferential-issue
+- equity
 - lock-in
 - new-securities
-- unicommerce
+- preferential-issue
 title: Listing of Securities - UNICOMMERCE ESOLUTIONS LIMITED
 ---
 

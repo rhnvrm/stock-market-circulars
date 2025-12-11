@@ -25,8 +25,8 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ANGELFIBERS
-- APTUSPHARMA
+- ANGEL
+- APPL
 - BHARATROHAN
 - CAMBRIDGE
 - CENTEXT
@@ -40,11 +40,11 @@ stocks:
 - WEWIN
 - WOMENNETWORK
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading-restrictions
-- equity
-- market-operations
 title: Changes in Price Band for 14 Securities
 ---
 

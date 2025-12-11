@@ -24,28 +24,26 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544281'
-- '543210'
-- '729660'
-- '976038'
-- '976306'
-- '976585'
-- '531761'
-- '531297'
-- '533229'
-- '729607'
-- '543618'
-- '938328'
-- '938334'
-- '939317'
-- '939325'
-- '939687'
+- ABINFRA
+- AARTISURF
+- 86ABRL27
+- 14ACAP26
+- 145ACAPL26
+- APOLLOPIPE
+- ARTEFACT
+- BAJAJCON
+- CARGOTRANS
+- 11CCIL26
+- CCILZC26
+- 1075CCIL26
+- CCI110324
+- 1075CCI26
 tags:
-- corporate-actions
-- dividends
-- record-dates
 - buyback
-- debt-redemption
+- corporate-action
+- debt-securities
+- dividend
+- record-date
 title: Daily Bulletin - Book Closure/Record Dates and Corporate Actions
 ---
 

@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bond
 - debt-securities
 - listing
+- ncd
 - private-placement
-- corporate-bonds
-- debentures
 title: Listing of New Debt Securities of CSA Investments Private Limited
 ---
 

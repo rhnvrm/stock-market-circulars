@@ -26,11 +26,10 @@ source: bse
 stocks:
 - UPL
 tags:
-- partly-paid-shares
-- equity-listing
-- UPL
-- share-trading
 - call-money
+- equity
+- partly-paid
+- share-trading
 title: Listing of Partly Paid-up Equity Shares of UPL Limited (Scrip Code 890209)
 ---
 

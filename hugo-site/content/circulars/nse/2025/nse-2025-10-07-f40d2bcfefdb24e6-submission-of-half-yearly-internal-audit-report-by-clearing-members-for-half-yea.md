@@ -26,14 +26,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- internal-audit
+- auditor-registration
 - clearing-members
 - compliance
-- reporting
-- pcm
 - half-yearly-report
-- auditor-registration
 - ncl-portal
+- pcm
+- reporting
+- system-audit
 title: Submission of Half Yearly Internal Audit Report by Clearing Members for Half
   Year Ended September 30, 2025
 ---

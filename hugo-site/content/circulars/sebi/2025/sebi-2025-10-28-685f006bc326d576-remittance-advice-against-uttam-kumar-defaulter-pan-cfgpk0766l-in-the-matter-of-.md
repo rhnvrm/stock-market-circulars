@@ -27,12 +27,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-proceedings
+- bse
 - defaulter
 - enforcement
-- bse
 - iso
 - payment-advice
+- recovery
 title: Remittance Advice - Recovery Proceedings Against Uttam Kumar (Defaulter) -
   RC No. 8356/2024
 ---

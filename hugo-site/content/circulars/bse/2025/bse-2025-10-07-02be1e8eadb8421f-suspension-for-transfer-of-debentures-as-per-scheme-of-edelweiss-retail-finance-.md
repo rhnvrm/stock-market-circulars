@@ -27,16 +27,13 @@ source: bse
 stocks:
 - EDELWEISS
 tags:
-- debentures
-- ncd
-- merger
-- amalgamation
-- nclt
-- debt-market
 - corporate-action
-- edelweiss-retail-finance
+- debt-securities
 - ecl-finance
+- ncd
+- nclt
 - record-date
+- scheme-of-arrangement
 title: Suspension for Transfer of Debentures - Edelweiss Retail Finance Limited Merger
   into ECL Finance Limited
 ---

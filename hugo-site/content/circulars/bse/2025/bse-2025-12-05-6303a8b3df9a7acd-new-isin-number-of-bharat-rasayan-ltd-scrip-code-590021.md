@@ -26,11 +26,10 @@ source: bse
 stocks:
 - BHARATRAS
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
+- equity
+- isin
+- split
 title: 'New ISIN Number of BHARAT RASAYAN LTD (Scrip Code: 590021)'
 ---
 

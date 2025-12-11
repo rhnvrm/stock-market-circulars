@@ -33,11 +33,11 @@ stocks:
 - LTFL
 - SFL
 tags:
-- debt-market
+- bond
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
-- corporate-bonds
+- privately-placed
 title: Listing of Privately Placed Debt Securities - November 19, 2025
 ---
 

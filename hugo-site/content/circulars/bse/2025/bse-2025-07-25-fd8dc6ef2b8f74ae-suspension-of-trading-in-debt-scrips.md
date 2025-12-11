@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
+- corporate-action
 - debt-securities
-- trading-suspension
 - maturity
-- debentures
-- corporate-actions
+- ncd
+- suspension
 title: Suspension of Trading in Debt Scrips - IND-29-7-25-PVT Maturity
 ---
 

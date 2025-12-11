@@ -26,13 +26,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- net-worth
-- compliance
+- capital-adequacy
 - certificate-submission
 - clearing-members
-- sebi-regulations
-- capital-adequacy
-- regulatory-compliance
+- compliance
+- net-worth
+- regulatory-framework
 title: Reminder for Submission of Half Yearly Net Worth Certificate as on September
   30, 2025
 ---

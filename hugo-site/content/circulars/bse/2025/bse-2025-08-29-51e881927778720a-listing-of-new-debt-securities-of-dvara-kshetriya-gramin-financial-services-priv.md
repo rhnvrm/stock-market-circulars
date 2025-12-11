@@ -25,9 +25,9 @@ source: bse
 stocks: []
 tags:
 - debt-securities
+- dvara-kshetriya-gramin
 - listing
 - private-placement
-- dvara-kshetriya-gramin
 title: Listing of new debt securities of DVARA KSHETRIYA GRAMIN FINANCIAL SERVICES
   PRIVATE LIMITED
 ---

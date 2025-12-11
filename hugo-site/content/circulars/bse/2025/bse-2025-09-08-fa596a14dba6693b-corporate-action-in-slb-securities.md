@@ -43,12 +43,12 @@ stocks:
 - ACUTAAS
 - TEGA
 tags:
-- slb
-- securities-lending-borrowing
+- collateral
 - corporate-action
 - dividend
-- stock-split
 - foreclosure
+- slb
+- split
 title: Corporate Action in SLB Securities - September 2025
 ---
 

@@ -31,10 +31,9 @@ stocks:
 - EXPLICIT
 - GRAVITY
 tags:
-- gsm
+- asm-stage
 - surveillance
 - trading-restrictions
-- stage-movement
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

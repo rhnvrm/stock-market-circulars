@@ -24,12 +24,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '534338'
+- MAXHEIGHTS
 tags:
-- company-name-change
-- listing
 - corporate-action
-- maxheights-infrastructure
+- listing
+- name-change
 title: 'Amendment of Company Name - Maxheights Infrastructure Ltd (Scrip Code: 534338)'
 ---
 

@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- nfo
+- equity-scheme
 - hdfc-mutual-fund
 - index-fund
-- bse-star-mf
+- mutual-fund
+- nfo
 - sip
-- equity-scheme
 title: Launch of HDFC BSE India Sector Leaders Index Fund NFO on BSE StAR MF Platform
 ---
 

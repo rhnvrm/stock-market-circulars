@@ -27,10 +27,10 @@ source: nse
 stocks:
 - ABINFRA
 tags:
-- face-value-split
 - corporate-action
-- equity-shares
-- stock-split
+- equity
+- face-value-change
+- split
 title: Face Value Split - A B Infrabuild Limited (ABINFRA)
 ---
 

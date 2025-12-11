@@ -27,11 +27,9 @@ source: bse
 stocks:
 - WOSAL
 tags:
+- equity
 - listing
 - sme
-- equity-shares
-- new-listing
-- WOSAL
 title: Listing of Equity Shares of Western Overseas Study Abroad Limited
 ---
 

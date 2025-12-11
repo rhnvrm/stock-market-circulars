@@ -27,10 +27,10 @@ stocks:
 - BAJAJCON
 tags:
 - buyback
-- tender-offer
-- equity-shares
 - corporate-action
+- equity
 - shareholder-offer
+- tender-offer
 title: Opening of Buyback Offer for Bajaj Consumer Care Limited - Tender Offer Route
 ---
 

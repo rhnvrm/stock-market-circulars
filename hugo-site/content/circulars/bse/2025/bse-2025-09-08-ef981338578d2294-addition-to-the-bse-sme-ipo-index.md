@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '544503'
+- RACHIT
 tags:
-- index
-- sme-ipo
+- index-fund
 - listing
 - rachit-prints
+- sme
 title: Addition to the BSE SME IPO INDEX - Rachit Prints Limited
 ---
 

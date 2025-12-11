@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
-- trading-violation
-- illiquid-stocks
-- options-trading
-- enforcement-action
 - bse
+- enforcement
+- illiquid-stocks
+- options
+- recovery
+- trading-violation
 title: Notice of Demand under Recovery Certificate No. 8879 of 2025 against Satish
   Agrawal HUF for Trading in Illiquid Stock Options at BSE
 ---

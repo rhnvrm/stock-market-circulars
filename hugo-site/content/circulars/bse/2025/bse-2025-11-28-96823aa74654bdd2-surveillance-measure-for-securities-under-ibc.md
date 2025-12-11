@@ -30,7 +30,7 @@ stocks:
 - CARNATIND
 - EASTSIL
 - GOENDIA
-- INDOSOLAR
+- WAAREEINDO-BE
 - JPASSOCIAT
 - KOBOBIO
 - MAXGROW
@@ -40,12 +40,8 @@ stocks:
 - VASINFRA
 - BODHTREE
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
-- asm
-- corporate-insolvency
+- surveillance
 title: Surveillance Measure for Securities under IBC - December 2025 Update
 ---
 

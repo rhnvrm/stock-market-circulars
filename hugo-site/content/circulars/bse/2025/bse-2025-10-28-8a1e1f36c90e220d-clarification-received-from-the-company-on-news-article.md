@@ -27,12 +27,12 @@ source: bse
 stocks:
 - STYLAM
 tags:
+- acquisition-rumor
 - clarification
 - media-report
-- acquisition-rumor
-- stylam-industries
-- price-sensitive-information
+- price-movement
 - regulation-30
+- stylam-industries
 title: Clarification received from the company on news article
 ---
 

@@ -28,15 +28,14 @@ source: sebi
 stocks:
 - HAL
 tags:
-- enforcement
-- insider-trading
 - account-attachment
-- recovery-proceedings
-- defaulter
-- hindustan-aeronautics-limited
-- hal
 - bank-account-freeze
+- defaulter
 - demat-account-freeze
+- enforcement
+- hindustan-aeronautics-limited
+- investigation
+- recovery
 title: Attachment of Bank and Demat Accounts - Mr. Rajat Mishra - Insider Trading
   in Hindustan Aeronautics Limited
 ---

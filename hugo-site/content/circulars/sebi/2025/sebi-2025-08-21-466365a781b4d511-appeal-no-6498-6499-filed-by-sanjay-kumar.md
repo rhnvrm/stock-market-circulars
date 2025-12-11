@@ -25,13 +25,11 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti
 - appeal
-- demat-account
-- cdsl
-- nsdl
+- demat
+- depository
 - information-disclosure
-- appellate-authority
+- rti
 title: Appeal No. 6498 & 6499 of 2025 filed by Sanjay Kumar - RTI Appeals Regarding
   Demat Account Information
 ---

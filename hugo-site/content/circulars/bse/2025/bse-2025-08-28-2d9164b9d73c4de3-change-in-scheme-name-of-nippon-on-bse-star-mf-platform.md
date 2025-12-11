@@ -24,12 +24,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- scheme-name-change
-- fund-of-funds
-- nippon-india
-- sebi-framework
 - amfi
+- fund-of-funds
+- mutual-fund
+- name-change
+- nippon-india
+- regulatory-framework
 title: Change in Scheme Name of Nippon India Multi Asset Active FoF to Multi-Asset
   Omni FoF
 ---

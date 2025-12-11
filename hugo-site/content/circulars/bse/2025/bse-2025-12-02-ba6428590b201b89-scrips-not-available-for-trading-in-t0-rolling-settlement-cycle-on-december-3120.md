@@ -27,9 +27,9 @@ stocks:
 - UNIONBANK
 - YESBANK
 tags:
+- settlement-calendar
 - t0-settlement
-- trading-restriction
-- settlement-cycle
+- trading-restrictions
 - year-end
 title: T+0 Trading Unavailable for Union Bank and Yes Bank on December 31, 2025
 ---

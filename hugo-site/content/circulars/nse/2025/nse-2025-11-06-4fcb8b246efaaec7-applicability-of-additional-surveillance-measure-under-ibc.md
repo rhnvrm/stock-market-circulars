@@ -27,13 +27,10 @@ source: nse
 stocks:
 - SEYAIND
 tags:
-- surveillance
-- asm
-- ibc
-- insolvency-bankruptcy-code
-- seya-industries
 - compliance
-- market-surveillance
+- insolvency
+- seya-industries
+- surveillance
 title: Applicability of Additional Surveillance Measure under IBC
 ---
 

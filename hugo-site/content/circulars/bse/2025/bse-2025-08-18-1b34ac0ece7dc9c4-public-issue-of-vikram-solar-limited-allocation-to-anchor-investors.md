@@ -23,11 +23,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- VIKRAMSOLAR
+- VIKRAMSOLR
 tags:
+- allotment
+- anchor-investor
 - public-issue
-- anchor-investors
-- allocation
 - vikram-solar
 title: Public Issue of VIKRAM SOLAR LIMITED - Allocation to Anchor Investors
 ---

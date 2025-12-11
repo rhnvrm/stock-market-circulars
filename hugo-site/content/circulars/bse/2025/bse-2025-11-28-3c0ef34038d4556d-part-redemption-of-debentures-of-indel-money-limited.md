@@ -28,14 +28,13 @@ source: bse
 stocks:
 - INDELMONEY
 tags:
-- debt
-- debentures
-- part-redemption
-- corporate-actions
-- indel-money
-- record-date
-- interest-payment
+- corporate-action
+- debt-securities
 - face-value-reduction
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of INDEL MONEY LIMITED
 ---
 

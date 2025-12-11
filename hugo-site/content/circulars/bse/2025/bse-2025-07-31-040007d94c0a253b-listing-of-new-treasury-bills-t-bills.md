@@ -24,11 +24,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- treasury-bills
-- government-securities
-- debt-instruments
+- asm-stage
+- debt-securities
+- gsec
 - listing
-- g-group
+- treasury-bills
 title: Listing of New Treasury Bills (T-Bills) - Three New Government Securities
 ---
 

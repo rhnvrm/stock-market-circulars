@@ -39,10 +39,10 @@ stocks:
 - TEJASNET
 - WALCHANNAGAR
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 - securities-admission
 title: Listing of Further Issues of Securities - 14 Companies
 ---

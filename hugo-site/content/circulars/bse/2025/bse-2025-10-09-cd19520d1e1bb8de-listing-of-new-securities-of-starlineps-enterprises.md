@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks:
 - STARLINEPS
+- STARLENT
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- '540492'
+- rights-issue
 title: Listing of New Securities of STARLINEPS ENTERPRISES LIMITED
 ---
 

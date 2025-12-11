@@ -26,13 +26,12 @@ source: sebi
 stocks:
 - PATELENG
 tags:
-- takeover-regulations
-- substantial-acquisition
 - exemption-order
-- promoter-transmission
-- patel-engineering
-- share-transmission
 - inheritance
+- promoter-transmission
+- sast
+- share-transmission
+- takeover-regulations
 title: SEBI Exemption Order for Patel Engineering Limited Share Acquisition
 ---
 

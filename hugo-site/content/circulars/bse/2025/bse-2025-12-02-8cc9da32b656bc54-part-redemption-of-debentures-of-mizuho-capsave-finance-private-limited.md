@@ -28,13 +28,12 @@ source: bse
 stocks:
 - MCFPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- record-date
-- debt-segment
-- non-convertible-debentures
 - corporate-action
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of MIZUHO CAPSAVE FINANCE PRIVATE LIMITED
 ---
 

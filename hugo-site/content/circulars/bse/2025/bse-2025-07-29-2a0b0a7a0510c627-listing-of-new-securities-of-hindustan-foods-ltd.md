@@ -25,10 +25,10 @@ source: bse
 stocks:
 - HINDFOOD
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
+- conversion
+- equity
 - hindustan-foods
+- preferential-issue
 title: Listing of New Securities of Hindustan Foods Ltd.
 ---
 

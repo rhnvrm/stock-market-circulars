@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '541161'
-- '539110'
+- DHARAN
+- NORTHLINK
 tags:
-- suspension-cancellation
-- trading-resumption
-- SEBI-LODR
 - compliance
-- equity-segment
+- equity
+- lodr
+- release
+- trading-resumption
 title: Cancellation of Suspension of Trading for Two Companies - SEBI LODR Compliance
 ---
 

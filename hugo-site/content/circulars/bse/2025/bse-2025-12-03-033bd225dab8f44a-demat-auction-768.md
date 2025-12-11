@@ -32,7 +32,7 @@ stocks:
 - BANKBARODA
 - BELRISE
 - BHEL
-- BHARATSEATS
+- BHARATSE
 - BIOCON
 - CANBK
 - CAPILLARY
@@ -75,8 +75,8 @@ stocks:
 - PADAMCOTTON
 - PALCO
 - PARMESHWAR
-- PAUSHAK
-- PHYSICSWALLAH
+- PAUSHAKLTD
+- PWL
 - PIONEER
 - PNBHOUSING
 - PNB
@@ -90,7 +90,7 @@ stocks:
 - SUKHJIT
 - SUNPHARMA
 - SWIGGY
-- TATAMOTORS
+- TMCV
 - TENNECO
 - TIPSFILMS
 - TOMORROW
@@ -100,10 +100,10 @@ stocks:
 - VIKRAN
 - YESBANK
 tags:
-- demat-auction
-- settlement
 - auction-768
+- demat
 - securities-auction
+- settlement
 title: Demat Auction Settlement No. 768 - December 3, 2025
 ---
 

@@ -25,13 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- etf
-- mutual-fund
-- government-securities
-- listing
-- zerodha
-- g-sec
 - bond-etf
+- etf
+- gsec
+- listing
+- mutual-fund
+- zerodha
 title: Listing of Zerodha Nifty 8-13 Yr G-Sec ETF Units on BSE
 ---
 

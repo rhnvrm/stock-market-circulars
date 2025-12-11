@@ -24,18 +24,17 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- FIRSTFINTEC
+- FIRSTFIN
 - KANUNGO
 - KKALPANA
 - MORGAN
-- NDLVENTURES
+- NDLVENTURE
 - YATRA
 - INTERGLOBEFI
 tags:
-- surveillance
-- asm
-- trading-measures
 - risk-management
+- surveillance
+- trading-operations
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM) - August
   14, 2025
 ---

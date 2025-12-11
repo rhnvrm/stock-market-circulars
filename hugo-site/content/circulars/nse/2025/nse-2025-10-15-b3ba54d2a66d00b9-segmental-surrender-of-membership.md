@@ -26,11 +26,11 @@ severity: low
 source: nse
 stocks: []
 tags:
-- membership
-- surrender
+- compliance
 - currency-segment
 - irf-segment
-- compliance
+- membership
+- surrender
 - trading-member
 title: Segmental Surrender of Membership - DP TRADEKING PVT LTD
 ---

@@ -27,12 +27,12 @@ source: nse
 stocks:
 - DALMIASUG
 tags:
-- trade-for-trade
-- scheme-of-arrangement
-- call-auction
+- call-money
 - pre-open-session
+- scheme-of-arrangement
 - series-be
-- trading-segment
+- trade-for-trade
+- trading
 title: Trade for Trade - Dalmia Bharat Sugar and Industries Limited (DALMIASUG)
 ---
 

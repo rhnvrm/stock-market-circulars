@@ -27,11 +27,11 @@ source: bse
 stocks:
 - STUDDS
 tags:
-- shareholding-pattern
-- regulation-31
-- listing
-- equity-shares
 - disclosure
+- equity
+- listing
+- regulation-31
+- shareholding-pattern
 - studds-accessories
 title: Listing of Equity Shares of Studds Accessories Limited
 ---

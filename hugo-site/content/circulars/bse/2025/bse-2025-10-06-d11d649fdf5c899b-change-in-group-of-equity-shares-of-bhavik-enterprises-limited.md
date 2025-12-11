@@ -27,12 +27,11 @@ source: bse
 stocks:
 - BHAVIK
 tags:
-- trade-for-trade
-- rolling-segment
+- asm-stage
 - group-change
+- rolling-segment
 - sme
-- mt-group
-- m-group
+- trade-for-trade
 title: Change in Group of Equity Shares of Bhavik Enterprises Limited
 ---
 

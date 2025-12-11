@@ -26,11 +26,11 @@ severity: high
 source: sebi
 stocks: []
 tags:
+- cybersecurity
+- enforcement
 - fraud-alert
 - impersonation
 - investor-protection
-- cybersecurity
-- enforcement
 title: Caution to the public regarding impersonation of SEBI
 ---
 

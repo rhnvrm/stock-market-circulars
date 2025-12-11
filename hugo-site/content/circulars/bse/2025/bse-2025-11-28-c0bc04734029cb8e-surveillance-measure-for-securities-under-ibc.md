@@ -29,7 +29,7 @@ stocks:
 - CARNINDS
 - EASTSIL
 - GOENDIA
-- INDOSOLAR
+- WAAREEINDO-BE
 - JPASSOCIAT
 - KOBOBIO
 - MAXGROW
@@ -39,12 +39,9 @@ stocks:
 - VASINFRA
 - BODHTREE
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- asm
-- bankruptcy-code
-- stage-classification
+- surveillance
 title: Surveillance Measure for Securities under IBC - December 2025 Update
 ---
 

@@ -26,10 +26,9 @@ source: bse
 stocks:
 - ORKLAINDIA
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
+- listing
 title: Listing of Equity Shares of Orkla India Limited
 ---
 

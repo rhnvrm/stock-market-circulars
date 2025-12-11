@@ -28,15 +28,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- digital-accessibility
 - compliance
+- digital-accessibility
+- intermediary
 - investors-rights
-- persons-with-disabilities
-- sebi-circular
-- regulated-entities
-- scores
-- accessibility-audit
 - reporting-requirements
+- scores
+- sebi
 title: Clarification on Digital Accessibility Requirements for Regulated Entities
   under Rights of Persons with Disabilities Act, 2016
 ---

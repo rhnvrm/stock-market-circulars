@@ -33,11 +33,9 @@ stocks:
 - KACCHHMINERALS
 - SHREERAJASTHAN
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- market-surveillance
 - securities-monitoring
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) Framework Updates - Securities Movement
 ---
 

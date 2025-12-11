@@ -29,13 +29,13 @@ severity: high
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- subscription-limits
-- overseas-investment
 - edelweiss-mutual-fund
-- sip-restrictions
 - investment-caps
-- sebi-compliance
+- mutual-fund
+- overseas-investment
+- sebi
+- sip
+- subscription-limit
 title: Change in Limit of Subscription Amount for Certain Schemes of Edelweiss Mutual
   Fund on NSE MF Invest Platform
 ---

@@ -27,16 +27,16 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- illiquid-stock-options
 - bse
-- pfutp-regulations
+- illiquid-stock-options
+- market-operations
 - non-genuine-trades
-- reversal-trades
 - penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Tavarya Trade-Link Pvt. Ltd. in the matter
   of Illiquid Stock Options at BSE
 ---

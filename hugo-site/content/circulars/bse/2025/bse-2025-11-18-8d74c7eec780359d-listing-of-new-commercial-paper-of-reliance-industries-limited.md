@@ -27,11 +27,9 @@ stocks:
 - RELIANCE
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
 - private-placement
-- reliance-industries
 - ril
-- debt-segment
 title: Listing of new Commercial Paper of Reliance Industries Limited
 ---
 

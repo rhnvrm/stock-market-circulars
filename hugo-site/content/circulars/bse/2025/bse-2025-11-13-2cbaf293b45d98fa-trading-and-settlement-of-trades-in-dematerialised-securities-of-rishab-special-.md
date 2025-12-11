@@ -30,9 +30,8 @@ stocks:
 tags:
 - dematerialisation
 - group-migration
-- settlement-changes
 - market-lot-revision
-- RISHABSPL
+- settlement-changes
 title: Trading and Settlement of Trades in Dematerialised Securities of RISHAB SPECIAL
   YARNS LIMITED
 ---

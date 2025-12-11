@@ -28,13 +28,12 @@ stocks:
 - MEDINOVA
 - VIJAYA
 tags:
-- amalgamation
-- merger
+- conversion
 - corporate-action
-- nclt-approval
-- no-dealings
-- share-exchange
 - equity
+- nclt
+- no-dealings
+- scheme-of-arrangement
 title: 'Amalgamation of MEDINOVA DIAGNOSTIC SERVICES LTD (Scrip Code: 526301)'
 ---
 

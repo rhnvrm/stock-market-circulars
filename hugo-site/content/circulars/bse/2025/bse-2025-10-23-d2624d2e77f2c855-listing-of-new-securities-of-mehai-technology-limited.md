@@ -27,13 +27,12 @@ severity: low
 source: bse
 stocks:
 - MEHAI
-- '540730'
 tags:
+- equity
 - listing
-- equity-shares
-- rights-issue
-- new-securities
 - mehai-technology
+- new-securities
+- rights-issue
 title: Listing of New Securities of Mehai Technology Limited
 ---
 

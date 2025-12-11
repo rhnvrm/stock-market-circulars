@@ -27,11 +27,10 @@ source: bse
 stocks:
 - CONVENIENTHOSP
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- convenient-hospitals
-- corporate-bonds
 title: Listing of New Debt Securities of Convenient Hospitals Limited
 ---
 

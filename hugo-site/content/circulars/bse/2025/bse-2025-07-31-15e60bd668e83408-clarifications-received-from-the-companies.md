@@ -26,12 +26,11 @@ stocks:
 - NIACL
 - SHIVALIK
 tags:
-- price-movement
 - clarification
-- surveillance
 - disclosure
-- volume-increase
-- market-driven
+- market-operations
+- price-movement
+- surveillance
 title: Clarifications received from companies regarding price movement - New India
   Assurance and Shivalik Rasayan
 ---

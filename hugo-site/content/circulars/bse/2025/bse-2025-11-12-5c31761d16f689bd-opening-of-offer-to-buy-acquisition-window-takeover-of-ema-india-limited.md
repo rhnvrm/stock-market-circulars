@@ -28,13 +28,10 @@ source: bse
 stocks:
 - EMAINDIA
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
-- ema-india
+- draft-document
 - dynalog-india
-- letter-of-offer
+- sast
+- takeover
 title: Opening of Offer to Buy (Acquisition Window Takeover) of EMA India Limited
 ---
 

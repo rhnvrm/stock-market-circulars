@@ -32,19 +32,12 @@ stocks:
 - DECORINT
 - ASHIANA
 - OMKARPHAR
-- DIGJAM
+- DIGJAMLMTD
 tags:
-- gsm
+- digjam
+- market-operations
 - surveillance
 - trading-restrictions
-- market-operations
-- GUJLEASE
-- SANATENT
-- SILVEROAK
-- DECORINT
-- ASHIANA
-- OMKARPHAR
-- DIGJAM
 title: Graded Surveillance Measure (GSM) - Securities Moving to GSM Stages
 ---
 

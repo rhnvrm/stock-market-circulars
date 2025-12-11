@@ -26,11 +26,10 @@ source: bse
 stocks:
 - ECOHO
 tags:
-- rights-entitlements
-- rights-issue
 - equity
-- trading
+- rights-issue
 - settlement
+- trading
 title: Rights Entitlements Trading for ECO HOTELS AND RESORTS LIMITED
 ---
 

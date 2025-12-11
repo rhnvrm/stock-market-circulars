@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- MANBAFINANCE
+- MANBA
 tags:
 - debt-securities
 - listing
-- private-placement
 - manba-finance
+- private-placement
 - trading
 title: Listing of new debt securities of Manba Finance Limited
 ---

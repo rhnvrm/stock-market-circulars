@@ -29,7 +29,7 @@ stocks:
 - JAINEXAA
 - MUNOTHCAP
 - MFSINTER
-- RAPCORP
+- RAP
 - NOIDATOLL
 - SHASHTRDR
 - FLORACORP
@@ -41,10 +41,8 @@ stocks:
 - MACHOTEL
 - EASUNCA
 tags:
-- gsm
+- market-operations
 - surveillance
-- graded-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: GSM Framework - 14 Securities Moving to Various Surveillance Stages
 ---

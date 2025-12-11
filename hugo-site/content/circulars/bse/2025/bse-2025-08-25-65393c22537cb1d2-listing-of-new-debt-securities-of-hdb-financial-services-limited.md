@@ -26,10 +26,10 @@ stocks:
 - HDBFIN
 tags:
 - debt-securities
-- private-placement
-- listing
 - hdb-financial-services
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of HDB Financial Services Limited
 ---
 

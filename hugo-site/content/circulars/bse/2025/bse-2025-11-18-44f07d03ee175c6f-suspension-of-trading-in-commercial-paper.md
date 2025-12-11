@@ -39,10 +39,10 @@ stocks:
 - JK
 tags:
 - commercial-paper
-- debt-market
-- trading-suspension
+- corporate-action
+- debt-securities
 - redemption
-- corporate-actions
+- suspension
 title: Suspension of Trading in Commercial Paper - Multiple Companies
 ---
 

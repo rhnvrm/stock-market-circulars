@@ -25,10 +25,10 @@ source: bse
 stocks:
 - ESSEX
 tags:
+- disclosure
+- equity
 - listing
 - shareholding-pattern
-- equity-shares
-- disclosure
 title: Listing of Equity Shares of ESSEX MARINE LIMITED
 ---
 

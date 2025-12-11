@@ -27,14 +27,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- settlement-order
-- front-running
-- fraudulent-trading
-- pfutp-regulations
 - antique-stock-broking
-- enforcement-action
 - debarment
 - disgorgement
+- enforcement
+- investigation
+- regulatory-framework
+- settlement-order
 title: Settlement Order Against Atul G. Chaturvedi for Front Running Societe Generale
   Trades
 ---

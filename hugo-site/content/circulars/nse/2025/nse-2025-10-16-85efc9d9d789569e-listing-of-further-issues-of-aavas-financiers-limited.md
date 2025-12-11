@@ -26,11 +26,11 @@ source: nse
 stocks:
 - AAVAS
 tags:
-- listing
-- equity-shares
+- aavas-financiers
+- equity
 - esop
 - further-issue
-- aavas-financiers
+- listing
 title: Listing of further issues of Aavas Financiers Limited
 ---
 

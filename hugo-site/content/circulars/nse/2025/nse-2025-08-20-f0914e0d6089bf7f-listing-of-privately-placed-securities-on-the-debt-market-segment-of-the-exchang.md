@@ -25,7 +25,7 @@ severity: medium
 source: nse
 stocks:
 - TCHFL
-- CEAT
+- CEATLTD
 - ABML
 - ISEC
 - MOFS
@@ -35,10 +35,10 @@ stocks:
 - JCL
 - AOL
 tags:
-- debt-market
 - commercial-paper
+- debt-securities
 - listing
-- privately-placed-securities
+- privately-placed
 title: Listing of Privately Placed Securities on Debt Market Segment - August 2025
 ---
 

@@ -26,12 +26,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
+- adjudication
 - debenture-trustee
-- penalty
-- compliance-violation
-- recovery-expense-fund
 - monitoring-failure
+- non-compliance
+- penalty
+- recovery-expense-fund
 - vardhman-trusteeship
 title: SEBI Adjudication Order Against Vardhman Trusteeship Private Limited for Debenture
   Trustee Violations

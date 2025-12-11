@@ -34,11 +34,11 @@ stocks:
 - TECHNOPACK
 - TVSHL
 tags:
+- equity
+- market-operations
 - price-band
 - surveillance
 - trading
-- market-operations
-- equity
 title: Revision of Price Bands for 7 Securities Effective November 14, 2025
 ---
 

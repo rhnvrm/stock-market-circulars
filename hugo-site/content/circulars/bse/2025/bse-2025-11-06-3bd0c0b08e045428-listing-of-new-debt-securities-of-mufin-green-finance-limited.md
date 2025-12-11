@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MUFIN
 tags:
+- bond
 - debt-securities
 - listing
+- mufin-green-finance
+- ncd
 - private-placement
-- MUFIN-GREEN-FINANCE
-- debentures
-- corporate-bonds
 title: Listing of New Debt Securities of MUFIN GREEN FINANCE LIMITED
 ---
 

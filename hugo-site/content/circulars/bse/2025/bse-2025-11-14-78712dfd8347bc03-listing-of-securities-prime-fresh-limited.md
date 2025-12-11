@@ -27,12 +27,12 @@ source: bse
 stocks:
 - PRIMEFR
 tags:
-- equity-listing
-- preferential-allotment
-- warrant-conversion
-- promoter-allotment
+- conversion
+- equity
 - lock-in
+- preferential-issue
 - prime-fresh-limited
+- promoter
 title: Listing of 12,805 Equity Shares of Prime Fresh Limited from Warrant Conversion
 ---
 

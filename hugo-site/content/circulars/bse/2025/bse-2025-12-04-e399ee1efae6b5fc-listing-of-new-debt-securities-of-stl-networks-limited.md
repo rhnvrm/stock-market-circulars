@@ -26,11 +26,10 @@ source: bse
 stocks:
 - STLNETWORK
 tags:
+- bond
 - debt-securities
 - listing
 - private-placement
-- corporate-bonds
-- stl-networks
 title: Listing of New Debt Securities of STL Networks Limited
 ---
 

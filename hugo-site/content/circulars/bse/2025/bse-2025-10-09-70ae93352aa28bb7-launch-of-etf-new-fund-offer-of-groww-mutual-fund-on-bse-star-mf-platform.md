@@ -26,12 +26,10 @@ source: bse
 stocks: []
 tags:
 - etf
-- nfo
-- mutual-fund
 - groww-mutual-fund
+- mutual-fund
+- nfo
 - nifty-smallcap-250
-- bse-star-mf
-- new-fund-offer
 title: Launch of ETF New Fund Offer of GROWW Mutual Fund on BSE StAR MF Platform
 ---
 

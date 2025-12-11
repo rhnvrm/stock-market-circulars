@@ -26,11 +26,10 @@ source: bse
 stocks:
 - PBGLOBAL
 tags:
-- suspension-revocation
-- equity-shares
-- trading-resumption
-- pb-global
+- equity
+- release
 - scrip-506580
+- trading-resumption
 title: 'Revocation of Suspension in trading of equity shares of PB Global Ltd. (Scrip
   Code: 506580)'
 ---

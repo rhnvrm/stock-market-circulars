@@ -31,11 +31,11 @@ stocks:
 - THYROCARE
 - TULSYAN
 tags:
-- surveillance
 - encumbrance
 - promoter
-- SAST
 - regulatory-measure
+- sast
+- surveillance
 title: High Promoter and Non-Promoter Encumbrance Surveillance Measure Update
 ---
 

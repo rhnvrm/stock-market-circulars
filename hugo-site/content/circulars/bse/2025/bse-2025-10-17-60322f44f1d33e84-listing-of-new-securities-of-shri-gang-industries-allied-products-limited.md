@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SHRIGANG
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- ccps-conversion
 - lock-in
+- preferential-issue
 title: Listing of New Securities of Shri Gang Industries & Allied Products Limited
 ---
 

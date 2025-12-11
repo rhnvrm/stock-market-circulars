@@ -33,7 +33,7 @@ stocks:
 - CGPOWER
 - HDBFS
 - INDIGO
-- BANKOFMAHARASHTRA
+- MAHABANK
 - MARICO
 - MUFIN
 - NUVAMA
@@ -41,11 +41,11 @@ stocks:
 - STARHEALTH
 - QUICKHEAL
 tags:
-- listing
+- equity
 - esop
-- preferential-allotment
 - further-issue
-- equity-shares
+- listing
+- preferential-issue
 - securities-admission
 title: Listing of Further Issues of Securities - 12 Companies
 ---

@@ -26,11 +26,10 @@ source: nse
 stocks:
 - JTEKT
 tags:
+- capital-market
+- jtekt-india
 - rights-issue
 - trading
-- jtekt-india
-- rights-entitlements
-- capital-market
 title: Trading of Rights Entitlements Pursuant to Rights Issue of Jtekt India Limited
 ---
 

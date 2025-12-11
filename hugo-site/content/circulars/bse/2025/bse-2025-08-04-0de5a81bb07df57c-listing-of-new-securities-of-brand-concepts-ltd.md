@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- BRANDCONCEPTS
+- BCONCEPTS-BE
 tags:
-- listing
-- equity-shares
-- amalgamation
 - brand-concepts
+- equity
+- listing
 - new-securities
+- scheme-of-arrangement
 title: Listing of new securities of Brand Concepts Ltd.
 ---
 

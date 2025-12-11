@@ -34,17 +34,16 @@ stocks:
 - MEHTAS
 - ADJIA
 tags:
-- gsm
-- surveillance
-- market-regulation
-- trading-restrictions
-- hemo-organic
-- suncity-synthetics
-- indergiri-finance
-- bc-power-controls
-- span-divergent
-- mehta-securities
 - adjia-technologies
+- bc-power-controls
+- hemo-organic
+- indergiri-finance
+- market-operations
+- mehta-securities
+- span-divergent
+- suncity-synthetics
+- surveillance
+- trading-restrictions
 title: Graded Surveillance Measure (GSM) - Securities Moving into GSM Stages
 ---
 

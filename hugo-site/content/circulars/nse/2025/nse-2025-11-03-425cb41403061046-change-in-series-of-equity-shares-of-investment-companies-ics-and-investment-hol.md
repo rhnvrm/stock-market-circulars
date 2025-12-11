@@ -39,10 +39,10 @@ stocks:
 tags:
 - investment-companies
 - investment-holding-companies
-- series-change
-- trade-for-trade
 - rolling-segment
 - segment-transfer
+- series-change
+- trade-for-trade
 title: Change in series of Equity shares of Investment Companies (ICs) and Investment
   Holding Companies (IHCs)
 ---

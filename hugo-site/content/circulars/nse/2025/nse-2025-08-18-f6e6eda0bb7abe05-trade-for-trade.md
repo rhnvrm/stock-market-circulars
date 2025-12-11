@@ -29,11 +29,11 @@ stocks:
 - OMKARCHEM
 - RCOM
 tags:
-- trade-for-trade
-- surveillance
+- market-operations
 - price-band
-- market-safety
 - rolling-segment
+- surveillance
+- trade-for-trade
 title: Trade for Trade Movement for NDL Ventures Limited and Continuation of Surveillance
   Action
 ---

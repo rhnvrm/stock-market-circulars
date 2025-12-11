@@ -25,11 +25,11 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - cancellation-order
-- investment-advisory
-- unregistered-services
 - compliance
+- investment-adviser
+- recovery
+- unregistered-services
 title: SEBI Cancellation Order for Recovery Certificate No. 8418 of 2024 against Heet
   Manish Bapna
 ---

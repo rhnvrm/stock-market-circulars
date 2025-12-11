@@ -25,10 +25,9 @@ source: bse
 stocks:
 - NISMGMT
 tags:
+- equity
 - listing
-- equity-shares
 - sme
-- new-listing
 - trading
 title: Listing of Equity Shares of NIS MANAGEMENT LIMITED
 ---

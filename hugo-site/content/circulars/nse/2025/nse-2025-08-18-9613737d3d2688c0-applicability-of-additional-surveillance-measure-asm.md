@@ -26,11 +26,10 @@ source: nse
 stocks:
 - AARON
 tags:
-- surveillance
-- additional-surveillance-measure
-- margin-requirement
 - aaron-industries
-- long-term-asm
+- asm-stage
+- margin
+- surveillance
 title: Additional Surveillance Measure (ASM) - Aaron Industries Limited
 ---
 

@@ -27,10 +27,10 @@ stocks:
 - MAZAGON
 tags:
 - clarification
-- submarine-project
-- p75w
 - defense-contract
 - media-reports
+- p75w
+- submarine-project
 - thyssenkrupp
 title: Mazagon Dock Clarifies Submarine Contract Negotiations with Germany's Thyssenkrupp
 ---

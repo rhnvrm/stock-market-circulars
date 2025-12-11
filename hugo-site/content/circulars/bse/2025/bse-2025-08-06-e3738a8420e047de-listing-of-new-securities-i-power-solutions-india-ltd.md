@@ -26,10 +26,10 @@ source: bse
 stocks:
 - IPOWER
 tags:
-- equity-listing
-- preferential-issue
-- new-securities
+- equity
 - i-power-solutions
+- new-securities
+- preferential-issue
 title: Listing of New Securities - i Power Solutions India Ltd
 ---
 

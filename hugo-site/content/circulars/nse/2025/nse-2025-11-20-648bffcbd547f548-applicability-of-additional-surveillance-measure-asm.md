@@ -26,12 +26,9 @@ source: nse
 stocks:
 - TGL
 tags:
+- asm-stage
+- margin
 - surveillance
-- asm
-- additional-surveillance-measure
-- margin-requirements
-- long-term-asm
-- TGL
 title: Applicability of Additional Surveillance Measure (ASM) - Teerth Gopicon Limited
   Added to Long-Term ASM Stage I
 ---

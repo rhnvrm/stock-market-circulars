@@ -25,9 +25,8 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
 - abakkus-mutual-fund
+- mutual-fund
 - nfo
 - nri-investment
 - platform-activation

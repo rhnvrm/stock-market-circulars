@@ -26,14 +26,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '543310'
+- TIMESGREEN
 tags:
-- rights-issue
-- equity-shares
 - corporate-action
+- equity
 - record-date
-- ex-rights
-- '543310'
+- renunciation
+- rights-issue
 title: Rights Issue of Equity Shares of Times Green Energy (India) Limited
 ---
 

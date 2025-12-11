@@ -28,11 +28,10 @@ source: bse
 stocks:
 - ARMANFIN
 tags:
+- bond
 - debt-securities
 - listing
-- corporate-bonds
 - private-placement
-- arman-financial
 title: Listing of New Debt Securities of Arman Financial Services Limited
 ---
 

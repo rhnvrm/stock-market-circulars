@@ -27,7 +27,7 @@ stocks:
 - BAJAJ FINANC
 - BHARAT HEAVY
 - COAL INDIA L
-- DABUR INDIA
+- DABUR
 - TATA STEEL L
 - BERGER PAINT
 - MAHINDRA & M
@@ -35,11 +35,11 @@ stocks:
 - WOCKHARDT LT
 - FOSTER INDIA
 tags:
-- demat-auction
-- settlement
 - auction-708
-- trading
+- demat
 - securities-list
+- settlement
+- trading
 title: Demat Auction 708 - Securities Settlement List
 ---
 

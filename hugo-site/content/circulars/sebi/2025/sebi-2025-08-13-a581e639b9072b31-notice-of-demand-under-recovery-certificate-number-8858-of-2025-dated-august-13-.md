@@ -26,11 +26,10 @@ source: sebi
 stocks:
 - CONTINENTAL
 tags:
-- recovery-certificate
-- demand-notice
 - defaulters
-- continental-seeds
+- demand-notice
 - enforcement
+- recovery
 title: Notice of Demand under Recovery Certificate No. 8858 of 2025 - Continental
   Seeds and Chemicals Limited Matter
 ---

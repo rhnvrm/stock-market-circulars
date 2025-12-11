@@ -28,13 +28,12 @@ source: bse
 stocks:
 - HARIGOVI
 tags:
-- takeover
-- acquisition-window
-- settlement-schedule
-- early-pay-in
 - demat-shares
+- early-pay-in
 - iccl
-- offer-to-buy
+- otb
+- settlement
+- takeover
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for HARI GOVIND
   INTERNATIONAL LIMITED
 ---

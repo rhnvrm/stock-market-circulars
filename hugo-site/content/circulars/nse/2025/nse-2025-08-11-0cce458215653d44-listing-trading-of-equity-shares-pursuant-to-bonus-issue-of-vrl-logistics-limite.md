@@ -26,11 +26,11 @@ source: nse
 stocks:
 - VRLLOG
 tags:
-- bonus-issue
-- equity-shares
+- bonus
+- equity
 - listing
-- trading
 - logistics
+- trading
 title: Listing & Trading of Equity Shares pursuant to Bonus Issue of VRL Logistics
   Limited
 ---

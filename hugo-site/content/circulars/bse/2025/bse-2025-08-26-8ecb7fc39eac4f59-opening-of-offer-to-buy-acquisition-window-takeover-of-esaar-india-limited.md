@@ -26,11 +26,9 @@ source: bse
 stocks:
 - ESAAR
 tags:
-- takeover
-- open-offer
-- acquisition
 - change-in-control
-- sebi-sast
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of ESAAR (INDIA) LIMITED
 ---
 

@@ -35,11 +35,11 @@ stocks:
 - THYROCARE
 - TULSYAN
 tags:
-- surveillance
-- promoter-encumbrance
-- sast-regulation
-- framework-update
 - compliance
+- encumbrance
+- framework-update
+- sast
+- surveillance
 title: Measure for Companies with High Promoter and non-Promoter Encumbrance - August
   2025 Update
 ---

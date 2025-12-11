@@ -28,12 +28,11 @@ stocks:
 - AADHAR
 - SUDARSCHEM
 tags:
-- volume-clarification
-- surveillance
-- open-offer
-- takeover
 - blackstone
 - jm-financial
+- price-movement
+- surveillance
+- takeover
 title: Clarifications received from the companies
 ---
 

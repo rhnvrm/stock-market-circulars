@@ -26,16 +26,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 - TMPV
 tags:
-- derivatives
-- equity-derivatives
-- name-change
-- symbol-change
 - contract-master
+- derivatives
+- name-change
+- scheme-of-arrangement
 - tata-motors
-- corporate-restructuring
 title: Change in Underlying Asset Name & Symbol in Equity Derivative - Tata Motors
 ---
 

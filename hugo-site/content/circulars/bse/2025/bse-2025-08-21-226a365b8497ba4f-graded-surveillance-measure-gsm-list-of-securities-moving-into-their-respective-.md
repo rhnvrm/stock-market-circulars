@@ -27,10 +27,9 @@ stocks:
 - SHASHANK
 - ADLINE
 tags:
-- gsm
-- surveillance
+- asm-stage
 - enhanced-monitoring
-- stage-changes
+- surveillance
 title: GSM Stage Changes for Shashank Traders Ltd and Adline Chem Lab Ltd
 ---
 

@@ -28,11 +28,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- commodity-derivatives
-- crude-oil
-- options-on-futures
 - contract-expiry
-- trading-parameters
+- crude-oil
+- derivatives
+- options-on-futures
+- trading-operations
 - wti-crude-oil
 title: Modification in Expiry Date of WTI Crude Oil Options on Futures
 ---

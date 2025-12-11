@@ -27,15 +27,14 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- suspension
-- debentures
-- non-convertible-debentures
-- redemption
+- corporate-action
+- debt-securities
 - interest-payment
-- record-date
 - jm-financial-arc
-- debt-market
-- corporate-actions
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of JM Financial Asset Reconstruction Company
   Ltd
 ---

@@ -27,14 +27,14 @@ severity: high
 source: nse
 stocks: []
 tags:
-- ipo
 - bid-placement
-- client-instructions
-- trading-members
-- compliance
-- inspection
-- public-issue
 - broker-obligations
+- client-instructions
+- compliance
+- investigation
+- ipo
+- public-issue
+- trading-member
 title: Prior Instructions Required for Initial Public Offering (IPO) Bid Placement
 ---
 

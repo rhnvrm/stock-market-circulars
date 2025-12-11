@@ -26,11 +26,10 @@ source: nse
 stocks:
 - GREENLEAF
 tags:
-- trade-for-trade
 - rolling-segment
-- sme-ipo
 - segment-transfer
-- greenleaf-envirotech
+- sme
+- trade-for-trade
 title: Trade for Trade - Greenleaf Envirotech Limited (SME IPO)
 ---
 

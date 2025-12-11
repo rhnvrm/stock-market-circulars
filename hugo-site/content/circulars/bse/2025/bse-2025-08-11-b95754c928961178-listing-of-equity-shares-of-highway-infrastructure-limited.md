@@ -26,10 +26,9 @@ source: bse
 stocks:
 - HILINFRA
 tags:
-- listing
-- equity-shares
-- new-listing
 - company-related
+- equity
+- listing
 title: Listing of Equity Shares of Highway Infrastructure Limited
 ---
 

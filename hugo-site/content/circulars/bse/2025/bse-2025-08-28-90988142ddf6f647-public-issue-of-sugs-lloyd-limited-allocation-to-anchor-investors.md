@@ -23,13 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SUGS LLOYD
+- SUGSLLOYD
 tags:
-- public-issue
-- anchor-investors
-- allocation
+- allotment
+- anchor-investor
 - ipo
-- sugs-lloyd
+- public-issue
 title: Public Issue of SUGS LLOYD LIMITED - Allocation to Anchor Investors
 ---
 

@@ -27,14 +27,13 @@ source: bse
 stocks:
 - ATIPL
 tags:
-- debentures
-- part-redemption
-- interest-payment
-- debt-segment
-- corporate-actions
-- record-date
+- corporate-action
+- debt-securities
 - face-value-reduction
-- non-convertible-debentures
+- interest-payment
+- ncd
+- record-date
+- redemption
 title: Part Redemption of Debentures of ASCEND TELECOM INFRASTRUCTURE PRIVATE LIMITED
 ---
 

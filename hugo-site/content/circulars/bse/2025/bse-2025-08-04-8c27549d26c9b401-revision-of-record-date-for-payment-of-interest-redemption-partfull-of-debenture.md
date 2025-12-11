@@ -26,12 +26,12 @@ source: bse
 stocks:
 - MAGNITE
 tags:
-- corporate-actions
-- debentures
-- record-date
+- corporate-action
 - interest-payment
-- redemption
 - magnite-developers
+- ncd
+- record-date
+- redemption
 title: Revision of Record Date for Payment of Interest Redemption of MAGNITE DEVELOPERS
   PRIVATE LIMITED Debentures
 ---

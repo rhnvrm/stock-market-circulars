@@ -26,13 +26,13 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- suspension
-- silver-etf
-- fund-of-fund
 - aditya-birla-sun-life
+- fund-of-funds
 - investor-protection
-- market-conditions
+- market-operations
+- mutual-fund
+- silver
+- suspension
 title: Temporary Suspension of Fresh Subscriptions in Aditya Birla Sun Life Silver
   ETF Fund of Fund
 ---

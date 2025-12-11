@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- name-change
-- certificate-of-incorporation
-- corporate-action
+- certificate
 - compliance
+- corporate-action
+- name-change
 title: Change in Name of the Company
 ---
 

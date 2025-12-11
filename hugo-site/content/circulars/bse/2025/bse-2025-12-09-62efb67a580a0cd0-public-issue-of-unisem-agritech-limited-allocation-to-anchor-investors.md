@@ -27,10 +27,10 @@ source: bse
 stocks:
 - UNISEM
 tags:
+- allotment
+- anchor-investor
+- equity
 - ipo
-- anchor-investors
-- allocation
-- equity-shares
 - public-issue
 - unisem-agritech
 title: Public Issue of UNISEM AGRITECH LIMITED - Allocation to Anchor Investors

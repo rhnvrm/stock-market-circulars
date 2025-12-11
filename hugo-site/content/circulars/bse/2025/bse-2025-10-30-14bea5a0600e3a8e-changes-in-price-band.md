@@ -43,10 +43,10 @@ stocks:
 - TELECANOR
 - UNIFIEDD
 tags:
-- price-band
-- trading-restrictions
-- surveillance
 - market-operations
+- price-band
+- surveillance
+- trading-restrictions
 title: Changes in Price Band for 16 Securities
 ---
 

@@ -25,13 +25,13 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- reit
-- anchor-investors
-- public-issue
+- allotment
+- anchor-investor
 - ipo
-- allocation
 - knowledge-realty
+- public-issue
 - real-estate
+- reit
 title: Knowledge Realty Trust REIT - Anchor Investor Allocation of ₹1,620 Crores
 ---
 

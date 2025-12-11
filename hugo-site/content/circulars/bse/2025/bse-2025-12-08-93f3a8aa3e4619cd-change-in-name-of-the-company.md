@@ -27,10 +27,10 @@ source: bse
 stocks:
 - VEERAM
 tags:
-- company-name-change
 - corporate-action
-- mca-certificate
 - incorporation
+- mca-certificate
+- name-change
 - veeram-securities
 - viram-suvarn
 title: Change in Name of VEERAM SECURITIES LIMITED to VIRAM SUVARN LIMITED

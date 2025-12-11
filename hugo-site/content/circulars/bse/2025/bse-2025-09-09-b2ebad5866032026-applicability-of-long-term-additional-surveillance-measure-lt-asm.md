@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- ABINFRABUILD
+- ABINFRA
 - CREDENTGLOBAL
 - CRESSANDA
 - DAIKAFFIL
@@ -39,10 +39,8 @@ stocks:
 - VINTRON
 - SALSTEEL
 tags:
-- surveillance
-- additional-surveillance-measure
-- asm
 - long-term
+- surveillance
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

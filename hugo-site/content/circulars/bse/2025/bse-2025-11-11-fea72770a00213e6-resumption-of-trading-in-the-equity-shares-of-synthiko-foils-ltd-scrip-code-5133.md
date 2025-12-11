@@ -27,11 +27,11 @@ source: bse
 stocks:
 - SYNTHIKO
 tags:
+- corporate-action
+- equity
+- face-value-change
 - share-consolidation
 - trading-resumption
-- corporate-action
-- equity-shares
-- face-value-change
 title: Resumption of Trading in Synthiko Foils Ltd After Share Consolidation
 ---
 

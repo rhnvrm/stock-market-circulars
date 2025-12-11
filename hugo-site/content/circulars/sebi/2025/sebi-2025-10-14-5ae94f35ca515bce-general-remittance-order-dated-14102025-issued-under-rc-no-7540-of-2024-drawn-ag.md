@@ -25,12 +25,12 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- enforcement
-- remittance-order
-- recovery-certificate
 - compliance
 - core-investment
+- demand-notice
+- enforcement
 - proprietary-firms
+- recovery
 title: General Remittance Order Against Core Investment (Prop. Deepak Bamne) and Core
   Group (Prop. Matwar Mehra)
 ---

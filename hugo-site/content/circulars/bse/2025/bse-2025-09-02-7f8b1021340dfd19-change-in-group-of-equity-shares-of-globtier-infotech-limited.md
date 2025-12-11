@@ -27,11 +27,9 @@ source: bse
 stocks:
 - GLOBTIER
 tags:
-- trading
-- segment-change
+- segment-transfer
 - sme
-- globtier-infotech
-- '544494'
+- trading
 title: Change in Group of Equity Shares of Globtier Infotech Limited
 ---
 

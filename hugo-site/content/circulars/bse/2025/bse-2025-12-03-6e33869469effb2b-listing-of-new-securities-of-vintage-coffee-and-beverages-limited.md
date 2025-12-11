@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '538920'
+- VINCOFE
 tags:
+- equity
 - listing
-- preferential-allotment
-- equity-shares
-- vintage-coffee-beverages
 - lock-in
+- preferential-issue
+- vintage-coffee-beverages
 title: Listing of New Securities of Vintage Coffee and Beverages Limited
 ---
 

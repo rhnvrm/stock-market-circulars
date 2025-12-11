@@ -25,7 +25,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SCAGROTECH
+- SCAGRO
 - PANABYTE
 - DECILLION
 - JAINEX
@@ -34,13 +34,12 @@ stocks:
 - JPTSEC
 - SHREEMANUF
 - ACEEDU
-- RAPCORP
+- RAP
 tags:
-- gsm
-- surveillance
-- market-regulation
+- asm-stage
 - investor-protection
-- stage-movement
+- market-operations
+- surveillance
 title: Graded Surveillance Measure (GSM) - Securities Moving to Different GSM Stages
 ---
 

@@ -25,12 +25,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- debentures
-- debt-market
-- redemption
-- interest-payment
 - annapurna-finance
+- debt-securities
+- interest-payment
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Debenture of Annapurna Finance Private Limited
 ---
 

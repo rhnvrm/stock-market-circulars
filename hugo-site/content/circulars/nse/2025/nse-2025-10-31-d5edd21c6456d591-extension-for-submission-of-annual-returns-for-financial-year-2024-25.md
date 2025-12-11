@@ -29,13 +29,13 @@ stocks: []
 tags:
 - annual-returns
 - compliance
-- deadline-extension
-- financial-statements
-- mca
-- registrar-of-companies
-- fy-2024-25
-- members
 - enit-portal
+- extension
+- financial-statements
+- fy-2024-25
+- mca
+- members
+- registrar-of-companies
 title: Extension for submission of Annual Returns for Financial Year 2024-25
 ---
 

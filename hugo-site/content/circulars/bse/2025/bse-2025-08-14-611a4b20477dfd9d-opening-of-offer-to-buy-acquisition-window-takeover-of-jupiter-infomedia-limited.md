@@ -26,12 +26,9 @@ source: bse
 stocks:
 - JUPITERINFO
 tags:
-- takeover
-- open-offer
-- acquisition
-- jupiter-infomedia
 - arix-capital
-- substantial-acquisition
+- sast
+- takeover
 title: Open Offer for Acquisition of Jupiter Infomedia Limited by Arix Capital Limited
   and Kajal Gopal Baldha
 ---

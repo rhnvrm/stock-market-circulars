@@ -27,15 +27,15 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- trading
 - blocked-amount
-- secondary-market
-- customer-banks
+- canara-bank
 - collateral
+- customer-banks
 - hdfc-bank
 - icici-bank
-- canara-bank
 - indusind-bank
+- secondary-market
+- trading
 title: Trading supported by Blocked Amount in Secondary Market - Revised List of Empaneled
   Customer Banks
 ---

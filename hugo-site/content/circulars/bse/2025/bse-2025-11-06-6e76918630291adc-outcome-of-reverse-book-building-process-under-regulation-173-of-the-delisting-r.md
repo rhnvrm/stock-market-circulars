@@ -26,12 +26,10 @@ source: bse
 stocks:
 - MANPHOOL
 tags:
+- book-building
 - delisting
-- reverse-book-building
-- manphool-exports
-- regulation-17-3
 - delisting-regulations
-- voluntary-delisting
+- regulation-17-3
 title: Outcome of Reverse Book Building Process for Delisting - Manphool Exports Limited
 ---
 

@@ -36,11 +36,11 @@ stocks:
 - NUVAMA
 - SHAREINDIA
 tags:
-- surveillance
 - encumbrance
 - sast
 - sebi
-- trading-measures
+- surveillance
+- trading-operations
 title: BSE Surveillance Measure for Companies with High Encumbrance under SEBI SAST
   Regulation
 ---

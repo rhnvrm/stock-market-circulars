@@ -25,10 +25,10 @@ severity: low
 source: nse
 stocks: []
 tags:
-- approved-banks
-- collateral
 - banking
 - capital-market
+- collateral
+- empanelment
 - nse-clearing
 title: Revision in List of Approved Banks - Addition of Credit Agricole Corporate
   and Investment Bank

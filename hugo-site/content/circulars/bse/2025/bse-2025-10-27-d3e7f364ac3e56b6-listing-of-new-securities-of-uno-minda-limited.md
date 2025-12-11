@@ -26,11 +26,10 @@ source: bse
 stocks:
 - UNOMINDA
 tags:
+- equity
 - listing
 - new-securities
-- amalgamation
-- equity-shares
-- uno-minda
+- scheme-of-arrangement
 title: Listing of New Securities of UNO Minda Limited - 281,974 Shares
 ---
 

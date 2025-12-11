@@ -38,11 +38,11 @@ stocks:
 - CUBEXTUB
 - DEVLABTECH
 - DHARANINFRA
-- DIGICONTENT
+- DGCONTENT
 - DREAMFOLKS
 - EXCELREALTY
 - EXHICON
-- FLUIDOMAT
+- FLUIDOM
 - GARNETCON
 - GRATEX
 - INDIABULLSE
@@ -51,7 +51,7 @@ stocks:
 - JAINEX
 - KALPACOM
 - KESAR
-- KUBERUDYOG
+- KUBERJI
 - LANDMARC
 - LYONSMARKET
 - MAGNAELECT
@@ -79,18 +79,18 @@ stocks:
 - STELLANT
 - TRUSTWAVE
 - UMAEXPORTS
-- UMIYATUBES
+- UMIYA
 - UNIVERSUS
 - VIRATIND
 - WELSPUNIND
 - YASH
 - ZINEMA
 tags:
+- equity
+- market-volatility
 - price-band
 - surveillance
-- trading-parameters
-- market-volatility
-- equity
+- trading-operations
 title: Changes in Price Band for 61 Securities - Effective October 13, 2025
 ---
 

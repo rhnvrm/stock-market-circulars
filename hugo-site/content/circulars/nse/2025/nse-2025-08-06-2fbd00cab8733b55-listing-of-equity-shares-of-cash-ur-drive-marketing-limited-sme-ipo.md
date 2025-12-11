@@ -26,12 +26,12 @@ source: nse
 stocks:
 - CUDML
 tags:
-- sme-ipo
-- listing
-- equity-shares
 - emerge-platform
-- trade-for-trade
+- equity
+- listing
+- sme
 - surveillance
+- trade-for-trade
 title: Listing of Equity Shares of Cash Ur Drive Marketing Limited (SME IPO)
 ---
 

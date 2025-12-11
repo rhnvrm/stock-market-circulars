@@ -29,9 +29,9 @@ stocks:
 - GHCL
 tags:
 - buyback
-- tender-offer
 - corporate-action
-- equity-shares
+- equity
+- tender-offer
 - web-based-bidding
 title: Buyback Offer under Tender Offer scheme by GHCL Limited
 ---

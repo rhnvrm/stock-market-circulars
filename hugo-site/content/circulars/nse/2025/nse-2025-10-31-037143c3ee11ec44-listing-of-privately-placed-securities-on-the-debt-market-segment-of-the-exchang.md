@@ -30,25 +30,21 @@ stocks:
 - GODREJIND
 - PEL
 - TATAPROJECTS
-- GODREJAGROVET
+- GODREJAGRO
 - ASTEC
 - NIRMA
 - ABCAPITLAL
 tags:
-- listing
-- debt-market
-- commercial-paper
-- privately-placed-securities
-- icici-securities
-- godrej-industries
-- piramal-finance
-- tata-projects
-- godrej-agrovet
-- astec-lifesciences
-- nirma
-- smfg-india-home-finance
 - aditya-birla-capital
+- astec-lifesciences
 - barclays
+- commercial-paper
+- debt-securities
+- icici-securities
+- listing
+- piramal-finance
+- privately-placed
+- smfg-india-home-finance
 title: Listing of Privately Placed Securities on Debt Market Segment
 ---
 

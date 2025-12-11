@@ -31,15 +31,10 @@ stocks:
 - BIGBLOC
 - WOL3D
 tags:
+- asm-stage
+- margin
 - surveillance
-- additional-surveillance-measure
-- st-asm
-- margin-requirements
 - trading-restrictions
-- SHYAMCENT
-- TOTAL
-- BIGBLOC
-- WOL3D
 title: Applicability of Short-Term Additional Surveillance Measure (ST-ASM) - December
   2025
 ---

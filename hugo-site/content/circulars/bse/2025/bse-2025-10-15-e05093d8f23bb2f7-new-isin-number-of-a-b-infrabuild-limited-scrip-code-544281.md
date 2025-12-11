@@ -28,11 +28,10 @@ source: bse
 stocks:
 - ABINFRA
 tags:
-- isin-change
-- stock-split
-- sub-division
 - corporate-action
-- equity-shares
+- equity
+- isin
+- split
 title: 'New ISIN Number of A B INFRABUILD LIMITED (Scrip Code: 544281)'
 ---
 

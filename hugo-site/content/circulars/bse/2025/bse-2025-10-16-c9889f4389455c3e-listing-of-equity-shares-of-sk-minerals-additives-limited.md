@@ -28,11 +28,11 @@ source: bse
 stocks:
 - SKMINERALS
 tags:
+- demat
+- equity
 - ipo
 - listing
-- equity-shares
 - lock-in
-- demat
 title: Listing of Equity Shares of SK Minerals & Additives Limited
 ---
 

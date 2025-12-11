@@ -26,11 +26,11 @@ source: bse
 stocks: []
 tags:
 - commercial-paper
-- debt-segment
-- private-placement
+- debt-securities
 - dsp-finance
-- listing
 - icra-rating
+- listing
+- private-placement
 title: Listing of New Commercial Paper of DSP Finance Private Limited
 ---
 

@@ -25,14 +25,11 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- SHAKTIPRESS
+- SHAKTIPR
 - INTLDATAMGT
 tags:
-- gsm
 - surveillance
-- graded-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Graded Surveillance Measure (GSM) - List of securities moving into their respective
   GSM Stages
 ---

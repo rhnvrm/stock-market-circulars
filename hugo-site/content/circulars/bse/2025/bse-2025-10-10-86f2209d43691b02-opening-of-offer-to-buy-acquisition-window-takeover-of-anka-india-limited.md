@@ -26,14 +26,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- ANKAINDIA
+- ANKIN
 tags:
-- open-offer
-- takeover
-- acquisition
-- sebi-sast
-- equity-shares
 - anka-india
+- equity
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of Anka India Limited
 ---
 

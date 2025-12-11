@@ -28,12 +28,12 @@ source: bse
 stocks:
 - ABHFL
 tags:
+- aditya-birla-housing-finance
+- bond
 - debt-securities
+- further-issue
 - listing
 - private-placement
-- aditya-birla-housing-finance
-- corporate-bonds
-- new-issuance
 title: Listing of New Debt Securities of Aditya Birla Housing Finance Limited
 ---
 

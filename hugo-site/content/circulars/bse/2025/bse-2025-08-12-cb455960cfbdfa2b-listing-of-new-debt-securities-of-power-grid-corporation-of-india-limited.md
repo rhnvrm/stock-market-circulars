@@ -25,11 +25,10 @@ source: bse
 stocks:
 - POWERGRID
 tags:
+- aaa-rating
 - debt-securities
 - listing
-- power-grid
 - private-placement
-- aaa-rating
 title: Listing of new debt securities of POWER GRID CORPORATION OF INDIA LIMITED
 ---
 

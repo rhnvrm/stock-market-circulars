@@ -26,13 +26,13 @@ source: bse
 stocks:
 - KMIL
 tags:
-- trading-suspension
-- debentures
 - debt-securities
-- record-date
 - interest-payment
-- redemption
 - kotak-mahindra
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Kotak Mahindra Investments Limited
 ---
 

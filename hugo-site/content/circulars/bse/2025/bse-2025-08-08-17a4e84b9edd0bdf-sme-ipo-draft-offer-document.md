@@ -26,10 +26,10 @@ source: bse
 stocks:
 - LOGICIEL
 tags:
-- sme-ipo
-- draft-offer-document
+- draft-document
+- icdr
 - public-comments
-- icdr-regulations
+- sme
 title: SME IPO Draft Offer Document - LOGICIEL SOLUTIONS LIMITED
 ---
 

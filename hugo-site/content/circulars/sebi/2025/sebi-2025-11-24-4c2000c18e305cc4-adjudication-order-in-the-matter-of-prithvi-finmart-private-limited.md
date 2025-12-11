@@ -26,14 +26,14 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
-- regulatory-violation
+- adjudication
 - authorized-person
-- trading-terminal-monitoring
 - compliance-breach
-- inspection
-- enforcement-action
+- enforcement
+- investigation
+- non-compliance
+- stock-broker
+- trading-terminal-monitoring
 title: Adjudication Order in the matter of Prithvi Finmart Private Limited
 ---
 

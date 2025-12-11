@@ -26,11 +26,11 @@ source: bse
 stocks:
 - INDIAGL
 tags:
-- corporate-actions
-- share-subdivision
-- isin-change
-- equity-shares
+- corporate-action
+- equity
+- face-value-change
 - india-glycols
+- isin
 title: New ISIN Number for INDIA GLYCOLS LTD Following Share Sub-Division
 ---
 

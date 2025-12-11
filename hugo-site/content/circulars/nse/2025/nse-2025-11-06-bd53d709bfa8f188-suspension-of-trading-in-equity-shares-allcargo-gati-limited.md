@@ -26,11 +26,10 @@ source: nse
 stocks:
 - ACLGATI
 tags:
-- trading-suspension
-- amalgamation
-- scheme-of-arrangement
-- equity-shares
 - delisting
+- equity
+- scheme-of-arrangement
+- suspension
 title: Suspension of Trading in Equity Shares - Allcargo Gati Limited
 ---
 

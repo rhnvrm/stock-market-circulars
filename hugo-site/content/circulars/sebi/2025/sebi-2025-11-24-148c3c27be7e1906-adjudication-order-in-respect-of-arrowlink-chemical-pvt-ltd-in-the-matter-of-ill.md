@@ -28,15 +28,15 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-options
-- market-manipulation
+- adjudication
 - artificial-volume
-- reversal-trades
-- BSE
-- PFUTP-regulations
+- bse
+- market-operations
 - non-genuine-trades
 - penalty
+- regulatory-framework
+- reversal-trades
+- stock-options
 title: Adjudication Order in respect of Arrowlink Chemical Pvt Ltd in the matter of
   Illiquid Stock Options at BSE
 ---

@@ -29,15 +29,10 @@ stocks:
 - SRD
 - SADHNANIQ
 tags:
-- enhanced-surveillance
-- esm
-- margin-requirements
+- asm-stage
+- margin
+- surveillance
 - trade-for-trade
-- surveillance-measures
-- agni
-- kaushalya
-- srd
-- sadhnaniq
 title: Applicability of Enhanced Surveillance Measure (ESM) - September 2025
 ---
 

@@ -26,11 +26,10 @@ source: bse
 stocks:
 - SUDEEPPHRM
 tags:
-- listing
-- equity-shares
-- new-listing
-- sudeep-pharma
 - company-related
+- equity
+- listing
+- sudeep-pharma
 title: Listing of Equity Shares of SUDEEP PHARMA LIMITED
 ---
 

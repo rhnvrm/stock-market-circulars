@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- index-rebalancing
+- banking-sector
 - bse-bankex
 - derivatives
+- index-change
 - index-constituents
-- banking-sector
 title: Change in Constituents of BSE BANKEX
 ---
 

@@ -25,10 +25,10 @@ source: bse
 stocks:
 - SHALIMAR
 tags:
-- name-change
+- certificate
+- company-related
 - corporate-affairs
-- incorporation-certificate
-- company-registration
+- name-change
 title: Change in Name from Shalimar Agencies Ltd to Spice Lounge Food Works Limited
 ---
 

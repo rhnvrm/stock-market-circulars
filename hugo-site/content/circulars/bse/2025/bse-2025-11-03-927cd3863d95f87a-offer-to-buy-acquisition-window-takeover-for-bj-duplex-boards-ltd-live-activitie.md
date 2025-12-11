@@ -27,14 +27,10 @@ source: bse
 stocks:
 - BJDUP
 tags:
-- offer-to-buy
-- acquisition-window
-- takeover
-- otb
-- bjdup
-- ibbs
-- rtrms
 - equity
+- otb
+- takeover
+- trading-platform
 title: Offer to Buy – Acquisition Window (Takeover) for BJ DUPLEX BOARDS LTD - Live
   Activities Schedule
 ---

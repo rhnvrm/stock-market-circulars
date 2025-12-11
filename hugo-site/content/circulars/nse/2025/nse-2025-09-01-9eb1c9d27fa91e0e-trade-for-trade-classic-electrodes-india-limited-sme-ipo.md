@@ -26,10 +26,10 @@ source: nse
 stocks:
 - CLASSICEIL
 tags:
-- trade-for-trade
-- sme-ipo
-- segment-transfer
 - rolling-segment
+- segment-transfer
+- sme
+- trade-for-trade
 title: Trade for Trade - Classic Electrodes (India) Limited (SME IPO)
 ---
 

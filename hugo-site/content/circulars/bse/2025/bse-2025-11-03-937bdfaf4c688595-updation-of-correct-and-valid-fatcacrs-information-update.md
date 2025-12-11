@@ -27,12 +27,12 @@ severity: high
 source: bse
 stocks: []
 tags:
-- FATCA
-- CRS
-- tax-compliance
-- TIN
-- regulatory-compliance
+- compliance
+- crs
+- fatca
 - international-taxation
+- tax-compliance
+- tin
 title: Updation of Correct and Valid FATCA/CRS Information - Country TIN Structures
 ---
 

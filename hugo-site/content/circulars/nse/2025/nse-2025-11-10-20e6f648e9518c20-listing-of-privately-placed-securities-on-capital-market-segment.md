@@ -24,14 +24,13 @@ published_date: '2025-11-10T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CML71216.pdf
 severity: low
 source: nse
-stocks:
-- 741NIIF31
+stocks: []
 tags:
-- listing
 - debt-securities
+- listing
+- ncd
+- niif
 - private-placement
-- non-convertible-debentures
-- NIIF
 title: Listing of privately placed securities on capital market segment - NIIF Infrastructure
   Finance Limited
 ---

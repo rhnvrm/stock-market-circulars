@@ -26,10 +26,10 @@ source: bse
 stocks:
 - RNITAI
 tags:
-- group-change
-- x-group
-- trading-status
+- asm-stage
 - company-related
+- group-change
+- trading-status
 title: Change in Group of Equity Shares of RNIT AI Solutions Limited to 'X' Group
 ---
 

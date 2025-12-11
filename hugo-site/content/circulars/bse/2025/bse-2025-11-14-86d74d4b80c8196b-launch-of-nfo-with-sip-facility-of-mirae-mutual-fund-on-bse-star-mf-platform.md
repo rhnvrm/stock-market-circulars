@@ -26,12 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
+- infrastructure-fund
+- mirae-asset
 - mutual-fund
 - nfo
 - sip
-- mirae-asset
-- infrastructure-fund
-- bse-star-mf
 title: Launch of NFO with SIP facility of MIRAE MUTUAL FUND on BSE StAR MF Platform
 ---
 

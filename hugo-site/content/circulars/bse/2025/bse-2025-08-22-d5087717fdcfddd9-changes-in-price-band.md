@@ -127,10 +127,10 @@ stocks:
 - VENUS
 - WANBURY
 tags:
-- price-band
-- trading-parameters
-- equity-segment
+- equity
 - market-operations
+- price-band
+- trading-operations
 title: BSE Revises Price Bands for 102 Securities Effective August 25, 2025
 ---
 

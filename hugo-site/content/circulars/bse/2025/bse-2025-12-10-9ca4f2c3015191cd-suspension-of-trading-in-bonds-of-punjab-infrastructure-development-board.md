@@ -25,13 +25,13 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trading-suspension
-- bonds
-- debt-market
+- bond
 - corporate-action
-- redemption
+- debt-securities
 - interest-payment
 - punjab-infrastructure-development-board
+- redemption
+- suspension
 title: Suspension of Trading in Bonds of Punjab Infrastructure Development Board
 ---
 

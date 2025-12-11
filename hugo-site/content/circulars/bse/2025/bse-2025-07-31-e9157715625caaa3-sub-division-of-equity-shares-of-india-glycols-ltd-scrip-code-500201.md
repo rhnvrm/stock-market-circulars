@@ -25,11 +25,11 @@ source: bse
 stocks:
 - INDIANGL
 tags:
-- sub-division
-- equity-shares
 - corporate-action
+- equity
+- isin
 - record-date
-- isin-change
+- split
 title: 'Sub-division of Equity Shares of India Glycols Ltd (Scrip Code: 500201)'
 ---
 

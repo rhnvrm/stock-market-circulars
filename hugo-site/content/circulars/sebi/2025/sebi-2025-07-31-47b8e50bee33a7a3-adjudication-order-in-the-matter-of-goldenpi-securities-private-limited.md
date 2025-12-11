@@ -26,13 +26,13 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- adjudication-order
-- stock-broker
+- adjudication
+- compliance
+- goldenpis
+- non-compliance
 - obpp
 - online-bond-platform
-- regulatory-violations
-- goldenpis
-- compliance
+- stock-broker
 title: Adjudication Order Against GoldenPi Securities Private Limited and Directors
 ---
 

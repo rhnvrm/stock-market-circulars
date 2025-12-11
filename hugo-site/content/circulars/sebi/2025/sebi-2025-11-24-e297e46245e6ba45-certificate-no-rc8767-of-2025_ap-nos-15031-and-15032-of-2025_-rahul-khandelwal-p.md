@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-certificate
 - enforcement
 - getrise-infotech
 - rahul-khandelwal
+- recovery
 - securities-violations
 title: SEBI Recovery Certificate Against Rahul Khandelwal in Getrise Infotech Matter
 ---

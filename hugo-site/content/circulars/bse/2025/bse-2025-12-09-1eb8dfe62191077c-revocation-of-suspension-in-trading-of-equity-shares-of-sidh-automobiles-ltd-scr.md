@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SIDHAUTOMOBILE
 tags:
-- trading-suspension
-- revocation
-- equity-shares
+- equity
 - nbfc
-- sidh-automobiles
-- surveillance-action
+- release
+- surveillance
+- suspension
 title: Revocation of Suspension in Trading of Equity Shares of Sidh Automobiles Ltd
 ---
 

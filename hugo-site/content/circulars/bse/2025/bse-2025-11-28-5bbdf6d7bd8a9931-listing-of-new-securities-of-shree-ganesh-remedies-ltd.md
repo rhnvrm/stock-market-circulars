@@ -27,11 +27,10 @@ source: bse
 stocks:
 - SHREEGANESH
 tags:
-- listing
-- equity-shares
 - conversion
-- partly-paid-shares
-- shree-ganesh-remedies
+- equity
+- listing
+- partly-paid
 title: Listing of New Securities of Shree Ganesh Remedies Ltd
 ---
 

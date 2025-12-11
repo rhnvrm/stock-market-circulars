@@ -26,9 +26,9 @@ source: bse
 stocks:
 - BBTC
 tags:
-- name-change
 - corporate-action
 - listing
+- name-change
 title: Amendment in the Name of Bombay Burmah Trading Corporation Ltd
 ---
 

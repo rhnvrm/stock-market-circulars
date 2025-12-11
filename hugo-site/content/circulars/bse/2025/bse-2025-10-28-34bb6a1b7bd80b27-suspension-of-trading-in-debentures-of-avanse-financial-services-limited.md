@@ -28,13 +28,13 @@ source: bse
 stocks:
 - AVANSE
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
-- debt-market
-- record-date
 - avanse-financial
+- debt-securities
+- interest-payment
+- ncd
+- record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of AVANSE FINANCIAL SERVICES LIMITED
 ---
 

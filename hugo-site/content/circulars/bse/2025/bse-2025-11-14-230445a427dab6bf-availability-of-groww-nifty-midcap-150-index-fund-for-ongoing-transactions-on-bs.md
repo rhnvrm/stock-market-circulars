@@ -26,16 +26,15 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-fund
-- bse-star-mf
+- equity
 - groww-nifty-midcap-150
-- subscription
+- index-fund
+- mutual-fund
 - redemption
 - sip
 - stp
+- subscription
 - swp
-- equity-fund
-- index-fund
 title: Availability of GROWW NIFTY MIDCAP 150 INDEX FUND for ongoing transactions
   on BSE StAR MF Platform
 ---

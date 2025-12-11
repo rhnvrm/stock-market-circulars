@@ -122,11 +122,11 @@ stocks:
 - WIPRO
 - YESBANK
 tags:
-- demat-auction
-- settlement
-- physical-delivery
 - auction
+- demat
 - market-operations
+- physical-delivery
+- settlement
 title: Demat Auction - Settlement No. 734
 ---
 

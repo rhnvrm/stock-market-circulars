@@ -30,14 +30,14 @@ stocks:
 - BBTC
 - CIFL
 tags:
-- volume-movement
-- surveillance
-- clarification
-- disclosure
-- compliance
-- solara-active-pharma
 - bombay-burmah
 - capital-india-finance
+- clarification
+- compliance
+- disclosure
+- price-movement
+- solara-active-pharma
+- surveillance
 title: Clarifications received from companies on volume movement queries
 ---
 

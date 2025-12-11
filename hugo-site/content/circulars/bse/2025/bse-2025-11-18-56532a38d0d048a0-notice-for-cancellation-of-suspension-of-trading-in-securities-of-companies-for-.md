@@ -25,14 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '519191'
-- '539291'
+- RGRL
 tags:
-- suspension-cancellation
-- trading-resumption
-- sebi-dp-regulations
 - compliance
 - equity
+- release
+- sebi-dp-regulations
+- trading-resumption
 title: Cancellation of Suspension of Trading for Retro Green Revolution Ltd and Vasudhagama
   Enterprises Ltd
 ---

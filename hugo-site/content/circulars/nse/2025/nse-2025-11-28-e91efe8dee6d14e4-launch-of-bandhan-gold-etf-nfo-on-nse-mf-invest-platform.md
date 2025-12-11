@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
+- bandhan-mutual-fund
+- etf
+- gold
 - mutual-fund
 - nfo
-- etf
-- gold-etf
-- bandhan-mutual-fund
-- nse-mf-invest
+- trading-platform
 title: Launch of Bandhan Gold ETF NFO on NSE MF Invest Platform
 ---
 

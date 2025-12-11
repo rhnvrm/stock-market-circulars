@@ -26,11 +26,10 @@ source: nse
 stocks:
 - VISAMAN
 tags:
+- emerge-platform
+- equity
 - listing
 - preferential-issue
-- sme-emerge
-- equity-shares
-- visaman
 title: Listing of Further Issues of Visaman Global Sales Limited
 ---
 

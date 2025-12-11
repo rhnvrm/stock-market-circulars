@@ -27,11 +27,11 @@ source: sebi
 stocks: []
 tags:
 - compliance
-- recovery-certificate
-- release-order
-- investment-advisory
-- unregistered-services
 - enforcement
+- investment-adviser
+- recovery
+- release
+- unregistered-services
 title: SEBI Order for Compliance - Release Order for Recovery Certificate No. 8418
   of 2024 against Heet Manish Bapna alias Heet Manish Bafna (Standard Chartist Proprietor)
   in the matter of Unregistered Investment Advisory Services

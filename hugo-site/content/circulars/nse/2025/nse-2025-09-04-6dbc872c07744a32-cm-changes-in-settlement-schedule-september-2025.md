@@ -25,11 +25,11 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- settlement
-- holiday
 - cash-segment
-- schedule-change
+- holiday
 - public-holiday
+- revised-schedule
+- settlement
 title: CM - Changes in Settlement Schedule - September 2025
 ---
 

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - UJJIVAN
 tags:
-- capital-raising
-- qip
-- media-clarification
 - analyst-day
+- capital-raising
 - growth-plans
+- media-clarification
+- qip
 - universal-bank-application
 title: Ujjivan Small Finance Bank Clarification on Capital Raising Plans
 ---

@@ -27,15 +27,15 @@ severity: medium
 source: sebi
 stocks: []
 tags:
+- amendment
 - foreign-venture-capital-investors
 - fvci
-- amendment
-- regulations
-- swagat-fi
-- single-window-access
-- registration
-- terminology-changes
 - investment-limits
+- registration
+- regulations
+- single-window-access
+- swagat-fi
+- terminology-changes
 title: Securities and Exchange Board of India (Foreign Venture Capital Investors)
   (Amendment) Regulations, 2025
 ---

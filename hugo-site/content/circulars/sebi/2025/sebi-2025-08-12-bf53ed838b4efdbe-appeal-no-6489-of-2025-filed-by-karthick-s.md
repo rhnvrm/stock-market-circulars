@@ -25,12 +25,12 @@ severity: medium
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- enforcement
 - groww-platform
-- unauthorized-trading
 - gtt-orders
-- enforcement-action
 - investor-complaints
+- rti
+- unauthorized-trading
 title: Appeal No. 6489 of 2025 filed by Karthick S - RTI Appeal regarding Groww Platform
   Incident
 ---

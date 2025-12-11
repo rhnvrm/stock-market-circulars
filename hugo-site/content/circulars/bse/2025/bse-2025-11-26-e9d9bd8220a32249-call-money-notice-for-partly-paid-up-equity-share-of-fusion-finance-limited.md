@@ -29,12 +29,11 @@ stocks:
 - FUSIONPP
 tags:
 - call-money
-- partly-paid-shares
-- fusion-finance
 - equity
+- fusion-finance
+- partly-paid
 - payment-notice
-- FUSIONPP
-- ibbs
+- trading-platform
 title: Call Money Notice for Partly Paid-up Equity Share of Fusion Finance Limited
 ---
 

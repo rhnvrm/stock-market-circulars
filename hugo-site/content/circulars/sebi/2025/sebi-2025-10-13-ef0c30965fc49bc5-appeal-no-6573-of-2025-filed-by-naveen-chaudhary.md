@@ -26,11 +26,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
-- right-to-information
+- appeal
 - complaint-handling
-- appellate-authority
 - information-disclosure
+- rti
 title: Appeal No. 6573 of 2025 filed by Naveen Chaudhary
 ---
 

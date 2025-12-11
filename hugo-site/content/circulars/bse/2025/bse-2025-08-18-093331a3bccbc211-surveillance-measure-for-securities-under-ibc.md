@@ -27,11 +27,10 @@ stocks:
 - HINGLASSIN
 - STEELCOG
 tags:
-- surveillance
-- ibc
 - insolvency
-- trading-restrictions
 - stage-transitions
+- surveillance
+- trading-restrictions
 title: Surveillance Measure for Securities under Insolvency and Bankruptcy Code (IBC)
 ---
 

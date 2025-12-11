@@ -27,13 +27,13 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
-- nfo
-- specialized-investment-fund
+- diviniti
 - equity-long-short
 - iti-mutual-fund
-- diviniti
-- nse-mf-invest
+- mutual-fund
+- nfo
+- sif
+- trading-platform
 title: Launch of Diviniti Equity Long Short Fund NFO under Specialized Investment
   Fund (SIF) on NSE MF Invest Platform
 ---

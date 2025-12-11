@@ -29,10 +29,8 @@ stocks:
 - CSIL
 tags:
 - delisting
-- offer-to-buy
-- acquisition-window
-- CSIL
 - equity
+- otb
 - trading-schedule
 title: Offer to Buy – Acquisition Window (Delisting) for Chandi Steel Industries Limited
   – Live Activities Schedule

@@ -28,19 +28,19 @@ severity: high
 source: bse
 stocks: []
 tags:
-- bsebond
-- ebp-platform
-- operational-guidelines
-- debt-securities
-- private-placement
 - anchor-investor
-- ncs
-- municipal-debt
-- commercial-paper
+- bsebond
 - certificate-of-deposit
-- reits
-- invits
+- commercial-paper
+- debt-securities
+- invit
+- municipal-debt
+- ncs
+- operational-guidelines
+- private-placement
+- reit
 - securitised-debt
+- trading-platform
 title: Updated Operational Guidelines for participation on BSEBOND (EBP platform of
   BSE)
 ---

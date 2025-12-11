@@ -26,10 +26,10 @@ source: nse
 stocks:
 - DEVIT
 tags:
-- isin-change
-- subdivision
-- equity-shares
 - corporate-action
+- equity
+- isin
+- split
 title: Change in ISIN - Dev Information Technology Limited (DEVIT)
 ---
 

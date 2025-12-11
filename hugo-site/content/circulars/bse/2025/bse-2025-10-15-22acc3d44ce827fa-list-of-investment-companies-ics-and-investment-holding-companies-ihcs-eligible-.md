@@ -41,13 +41,13 @@ stocks:
 - HARYANAFL
 - EASYFIN
 tags:
+- asset-disclosure
+- book-value
+- call-money
 - investment-companies
 - investment-holding-companies
-- call-auction
 - special-auction
-- trading-mechanism
-- book-value
-- asset-disclosure
+- trading-operations
 title: List of Investment Companies (ICs) and Investment Holding Companies (IHCs)
   Eligible for Special Call-Auctions
 ---

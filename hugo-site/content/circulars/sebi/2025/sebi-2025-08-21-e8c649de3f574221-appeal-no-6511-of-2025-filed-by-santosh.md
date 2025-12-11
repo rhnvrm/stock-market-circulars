@@ -25,10 +25,10 @@ severity: low
 source: sebi
 stocks: []
 tags:
-- rti-appeal
+- appeal
 - complaint-status
 - information-access
-- appellate-authority
+- rti
 title: Appeal No. 6511 of 2025 filed by Santosh - RTI Appeal Decision
 ---
 

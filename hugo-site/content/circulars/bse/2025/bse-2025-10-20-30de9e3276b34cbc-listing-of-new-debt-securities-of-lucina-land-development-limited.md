@@ -27,10 +27,10 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- new-listing
-- private-placement
+- listing
 - lucina-land-development
-- non-convertible-debentures
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Lucina Land Development Limited
 ---
 

@@ -30,9 +30,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- tata-housing
-- non-convertible-debentures
 title: Listing of New Debt Securities of Tata Housing Development Company Limited
 ---
 

@@ -27,11 +27,11 @@ source: sebi
 stocks:
 - KAVIT
 tags:
-- recovery-certificate
-- enforcement
-- trading-violation
-- kavit-industries
 - completion-order
+- enforcement
+- kavit-industries
+- recovery
+- trading-violation
 title: SEBI Completion Order for Recovery Certificate No. 8714 of 2025 against Natvarbhai
   Vegda
 ---

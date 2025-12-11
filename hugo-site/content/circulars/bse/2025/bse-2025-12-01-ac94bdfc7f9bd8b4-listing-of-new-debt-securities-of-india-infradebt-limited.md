@@ -27,11 +27,11 @@ source: bse
 stocks: []
 tags:
 - debt-securities
-- listing
-- private-placement
-- india-infradebt-limited
-- debentures
 - fixed-income
+- india-infradebt-limited
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of India Infradebt Limited
 ---
 

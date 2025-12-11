@@ -24,10 +24,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- name-change
+- corporate-action
 - debt-securities
-- corporate-actions
 - listing
+- name-change
 title: Change in Name of Debt Listed Company
 ---
 

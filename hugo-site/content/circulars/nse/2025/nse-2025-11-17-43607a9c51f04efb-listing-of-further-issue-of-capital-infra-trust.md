@@ -28,13 +28,12 @@ source: nse
 stocks:
 - CAPINVIT
 tags:
-- listing
-- invit
 - capital-infra-trust
-- preferential-issue
-- lock-in
 - further-issue
-- CAPINVIT
+- invit
+- listing
+- lock-in
+- preferential-issue
 title: Listing of Further Issue of Capital Infra Trust - 43.26 Million Units
 ---
 

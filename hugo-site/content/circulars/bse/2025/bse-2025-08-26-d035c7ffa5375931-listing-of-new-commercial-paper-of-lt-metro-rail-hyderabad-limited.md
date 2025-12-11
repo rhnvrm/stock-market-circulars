@@ -26,10 +26,9 @@ stocks:
 - LTMRHL
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
-- ltmrhl
 - crisil-rating
+- debt-securities
+- private-placement
 title: Listing of new Commercial Paper of L&T Metro Rail (Hyderabad) Limited
 ---
 

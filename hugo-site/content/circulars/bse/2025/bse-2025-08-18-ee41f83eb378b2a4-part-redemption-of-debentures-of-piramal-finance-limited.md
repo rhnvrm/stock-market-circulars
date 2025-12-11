@@ -27,11 +27,11 @@ source: bse
 stocks:
 - PIRAMAL
 tags:
-- corporate-actions
-- debt-securities
+- corporate-action
 - debenture-redemption
-- piramal-finance
+- debt-securities
 - face-value-reduction
+- piramal-finance
 title: Part Redemption of Debentures of Piramal Finance Limited - Reduced Face Value
   Effective August 28, 2025
 ---

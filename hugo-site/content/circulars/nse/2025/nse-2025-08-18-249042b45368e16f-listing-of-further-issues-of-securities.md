@@ -44,10 +44,10 @@ stocks:
 - TIRUPATI
 - VINTAGE
 tags:
-- listing
-- esop
-- equity-shares
 - capital-market
+- equity
+- esop
+- listing
 - securities
 title: Listing of Further Securities for 19 Companies under ESOP
 ---

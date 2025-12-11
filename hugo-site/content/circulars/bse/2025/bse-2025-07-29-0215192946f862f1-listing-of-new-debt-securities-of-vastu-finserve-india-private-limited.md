@@ -27,9 +27,9 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
 - vastu-finserve
-- debentures
 title: Listing of new debt securities of Vastu Finserve India Private Limited
 ---
 

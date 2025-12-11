@@ -40,11 +40,10 @@ stocks:
 - SAIL
 - TNPETRO
 tags:
-- corporate-actions
-- record-date
-- ex-date
+- corporate-action
 - dividend
 - interest-payment
+- record-date
 - settlement-holiday
 title: Revision of Record Dates and Ex Dates of Corporate Actions due to Settlement
   Holiday

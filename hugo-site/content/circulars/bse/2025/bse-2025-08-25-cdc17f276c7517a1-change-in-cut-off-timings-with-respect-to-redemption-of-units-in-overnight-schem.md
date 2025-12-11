@@ -25,8 +25,8 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
 - cut-off-timings
+- mutual-fund
 - overnight-schemes
 - redemption
 - trading-hours

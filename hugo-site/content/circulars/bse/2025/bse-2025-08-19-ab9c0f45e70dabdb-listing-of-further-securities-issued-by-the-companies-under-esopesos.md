@@ -34,12 +34,11 @@ stocks:
 - NUVAMA
 - VBL
 tags:
-- esop
-- esos
-- listing
-- equity
-- stock-options
 - employee-benefits
+- equity
+- esop
+- listing
+- stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - Multiple Companies
 ---
 

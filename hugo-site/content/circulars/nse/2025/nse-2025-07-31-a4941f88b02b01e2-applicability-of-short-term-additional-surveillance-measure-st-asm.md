@@ -28,10 +28,9 @@ stocks:
 - ORTINGLOBE
 - POCL
 tags:
-- surveillance
+- asm-stage
 - margin
-- st-asm
-- additional-surveillance-measure
+- surveillance
 - trading
 title: Short-Term Additional Surveillance Measure (ST-ASM) Implementation
 ---

@@ -30,11 +30,9 @@ stocks:
 - MARUTIINT
 - SRIADHIKA
 tags:
+- asm-stage
 - surveillance
-- asm
-- long-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

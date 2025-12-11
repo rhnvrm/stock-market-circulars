@@ -28,9 +28,8 @@ stocks:
 tags:
 - debt-securities
 - listing
+- ncd
 - private-placement
-- non-convertible-debentures
-- adani-enterprises
 title: Listing of New Debt Securities of Adani Enterprises Ltd
 ---
 

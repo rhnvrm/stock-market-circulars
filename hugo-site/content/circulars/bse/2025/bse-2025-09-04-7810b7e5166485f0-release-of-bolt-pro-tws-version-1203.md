@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- trading-system
-- bolt-pro-tws
-- software-update
 - derivatives
 - market-data
+- market-infrastructure
+- system-update
+- trading-platform
 title: Release of BOLT Pro TWS Version 12.03
 ---
 

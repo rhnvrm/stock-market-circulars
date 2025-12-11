@@ -26,10 +26,10 @@ stocks:
 - CES
 tags:
 - delisting
-- settlement
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
 title: Revised Settlement Schedule for CES Limited Delisting Offer to Buy
 ---
 

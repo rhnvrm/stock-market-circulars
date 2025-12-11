@@ -25,14 +25,14 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- GALLARDSTEEL
+- GALLARD
 tags:
-- listing
-- ipo
-- equity-shares
+- anchor-investor
+- equity
 - gallard-steel
-- lock-in-shares
-- anchor-investors
+- ipo
+- listing
+- lock-in
 title: Listing of Equity Shares of Gallard Steel Limited - Initial Public Offer
 ---
 

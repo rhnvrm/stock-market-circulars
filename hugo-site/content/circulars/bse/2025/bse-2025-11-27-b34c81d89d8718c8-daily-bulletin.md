@@ -30,14 +30,14 @@ stocks:
 - EDELFIN
 - HUDCO
 tags:
+- bond
 - book-closure
-- record-date
+- corporate-action
 - dividend
-- ncd
-- bonds
 - interest-payment
+- ncd
+- record-date
 - redemption
-- corporate-actions
 title: Daily Bulletin - Book Closure and Record Dates for Corporate Actions
 ---
 

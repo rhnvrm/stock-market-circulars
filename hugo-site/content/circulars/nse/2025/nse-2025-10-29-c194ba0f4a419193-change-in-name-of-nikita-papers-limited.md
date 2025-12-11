@@ -26,10 +26,10 @@ source: nse
 stocks:
 - NIKITA
 tags:
-- name-change
 - corporate-action
-- nikita-papers
+- name-change
 - nikita-greentech-recycling
+- nikita-papers
 title: Change in name of Nikita Papers Limited
 ---
 

@@ -26,7 +26,7 @@ source: bse
 stocks:
 - GENESIS
 - GOLDEN
-- HI-KLASS
+- HIKLASS
 - INDERGIRI
 - MIRC
 - VEERKRUPA
@@ -38,13 +38,12 @@ stocks:
 - INDIANLINK
 - MIZZEN
 - PARSHWANATH
-- VRWOODART
+- VRWODAR
 tags:
-- enhanced-surveillance
-- esm
-- trading-restrictions
-- securities-monitoring
 - compliance
+- securities-monitoring
+- surveillance
+- trading-restrictions
 title: Enhanced Surveillance Measure (ESM) - Securities List Update Effective August
   13, 2025
 ---

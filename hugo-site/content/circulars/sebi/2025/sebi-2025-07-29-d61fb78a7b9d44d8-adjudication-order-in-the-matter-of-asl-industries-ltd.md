@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - ASL
 tags:
-- adjudication-order
-- sast-regulations
-- disclosure-violation
-- open-offer
-- promoter-compliance
+- adjudication
+- compliance
+- information-disclosure
+- regulatory-framework
+- takeover
 title: Adjudication Order Against ASL Enterprises Limited for SAST Disclosure Violations
 ---
 

@@ -28,12 +28,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery
-- enforcement
 - defaulter
-- remittance-advice
-- recovery-certificate
-- recovery-proceedings
+- demand-notice
+- enforcement
+- recovery
 title: Remittance Advice - Recovery Certificate No. 7803 of 2024 against Amrapali
   Aadya Trading & Investment Pvt. Ltd.
 ---

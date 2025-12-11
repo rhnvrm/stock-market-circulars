@@ -29,11 +29,11 @@ stocks:
 - DALBHARAT
 tags:
 - commercial-paper
-- listing
-- debt-securities
-- private-placement
 - dalmia-cement
-- DCBL
+- dcbl
+- debt-securities
+- listing
+- private-placement
 title: Listing of New Commercial Paper of Dalmia Cement (Bharat) Limited
 ---
 

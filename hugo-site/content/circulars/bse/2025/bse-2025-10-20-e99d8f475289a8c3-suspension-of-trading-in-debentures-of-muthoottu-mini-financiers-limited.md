@@ -28,12 +28,12 @@ source: bse
 stocks:
 - MMFL
 tags:
-- debentures
-- trading-suspension
-- redemption
-- interest-payment
 - debt-securities
+- interest-payment
+- ncd
 - record-date
+- redemption
+- suspension
 title: Suspension of Trading in Debentures of Muthoottu Mini Financiers Limited
 ---
 

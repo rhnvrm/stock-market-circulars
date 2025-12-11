@@ -31,13 +31,13 @@ stocks:
 - SERA
 - TRANSFORMERS
 - BLUECLOUDSOFT
-- ESSEXMARINE
-- MAFIATRENDS
+- ESSEX
+- MAFIA
 - PNGSGARGI
 - SANDUR
 - SUGAL
 - SUNSKYLOG
-- TRADEWINGS
+- TRADWIN
 - AAPLUSTRADE
 - AARNAV
 - ADORMULTI
@@ -48,11 +48,9 @@ stocks:
 - BATLIBOI
 - BHARATBHUSHAN
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

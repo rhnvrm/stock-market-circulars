@@ -26,12 +26,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- kyc
-- kra
-- trading-restrictions
 - compliance
-- sebi-regulations
 - investor-demise
+- kyc
+- regulatory-framework
+- trading-restrictions
 - validation
 title: KYC Validation Requirements and Trading Restrictions for Non-Compliant Clients
 ---

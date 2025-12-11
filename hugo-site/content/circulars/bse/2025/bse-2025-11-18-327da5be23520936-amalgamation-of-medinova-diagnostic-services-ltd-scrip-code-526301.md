@@ -27,12 +27,10 @@ stocks:
 - MEDINOVA
 - VIJAYAPATH
 tags:
-- amalgamation
-- merger
-- nclt-order
-- trading-suspension
-- share-swap
-- medinova-diagnostic
+- conversion
+- nclt
+- scheme-of-arrangement
+- suspension
 - vijaya-diagnostic
 title: Amalgamation of MEDINOVA DIAGNOSTIC SERVICES LTD into VIJAYA DIAGNOSTIC CENTRE
   LTD

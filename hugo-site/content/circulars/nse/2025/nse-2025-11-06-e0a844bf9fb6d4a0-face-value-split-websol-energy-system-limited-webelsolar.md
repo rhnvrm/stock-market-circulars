@@ -27,11 +27,11 @@ source: nse
 stocks:
 - WEBELSOLAR
 tags:
-- face-value-split
-- stock-split
 - corporate-action
-- equity-shares
+- equity
+- face-value-change
 - listing
+- split
 title: Face Value Split - Websol Energy System Limited (WEBELSOLAR)
 ---
 

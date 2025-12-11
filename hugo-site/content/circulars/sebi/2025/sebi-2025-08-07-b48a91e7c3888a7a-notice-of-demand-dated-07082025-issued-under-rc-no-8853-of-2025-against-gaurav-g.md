@@ -26,10 +26,9 @@ source: sebi
 stocks:
 - FAMILYCARE
 tags:
-- recovery-certificate
-- notice-of-demand
+- demand-notice
 - enforcement
-- family-care-hospitals
+- recovery
 title: Notice of Demand against Gaurav Goyal - Recovery Certificate No. 8853/2025
 ---
 

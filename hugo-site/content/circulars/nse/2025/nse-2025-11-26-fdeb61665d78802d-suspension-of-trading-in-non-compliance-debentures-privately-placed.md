@@ -27,13 +27,11 @@ stocks:
 - GODREJIND
 - CHOLAFIN
 tags:
-- suspension
-- ncd
-- non-convertible-debentures
-- debt-market
-- redemption
-- godrej-industries
 - cholamandalam
+- debt-securities
+- ncd
+- redemption
+- suspension
 title: Suspension of Trading in Non-Convertible Debentures of Godrej Industries and
   Cholamandalam Investment
 ---

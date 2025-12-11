@@ -45,10 +45,10 @@ stocks:
 - UNIONBANK
 - VOLTAS
 tags:
-- trading
-- settlement-cycle
-- t+0
 - equity
+- settlement-calendar
+- t+0
+- trading
 title: Scrips not available for trading in T+0 rolling settlement cycle on September
   30, 2025
 ---

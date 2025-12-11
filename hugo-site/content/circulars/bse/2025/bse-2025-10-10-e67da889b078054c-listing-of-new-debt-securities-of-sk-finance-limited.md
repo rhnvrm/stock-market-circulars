@@ -26,12 +26,11 @@ source: bse
 stocks:
 - SKFIN
 tags:
-- listing
 - debt-securities
+- listing
+- ncd
 - private-placement
 - sk-finance
-- debentures
-- new-listing
 title: Listing of New Debt Securities of SK Finance Limited
 ---
 

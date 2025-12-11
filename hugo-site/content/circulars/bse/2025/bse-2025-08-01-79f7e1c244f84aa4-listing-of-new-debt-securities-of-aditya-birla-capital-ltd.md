@@ -26,12 +26,12 @@ source: bse
 stocks:
 - ABCL
 tags:
+- aaa-rating
+- aditya-birla-capital
 - debt-securities
 - listing
+- ncd
 - private-placement
-- aditya-birla-capital
-- debentures
-- aaa-rating
 title: Listing of new debt securities of Aditya Birla Capital Ltd
 ---
 

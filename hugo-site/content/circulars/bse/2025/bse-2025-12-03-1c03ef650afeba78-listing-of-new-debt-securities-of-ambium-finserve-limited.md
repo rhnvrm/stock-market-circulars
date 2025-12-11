@@ -29,11 +29,10 @@ stocks:
 - AMBIUMFIN
 tags:
 - debt-securities
-- private-placement
+- demat
 - listing
-- ambium-finserve
-- non-convertible-debentures
-- dematerialised-trading
+- ncd
+- private-placement
 title: Listing of New Debt Securities of AMBIUM FINSERVE LIMITED
 ---
 

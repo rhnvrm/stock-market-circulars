@@ -28,11 +28,10 @@ stocks:
 - MAHAMAYA
 tags:
 - group-change
-- trading-segment
-- sme
 - rolling-segment
+- sme
 - trade-for-trade
-- mahamaya-lifesciences
+- trading
 title: Change in Group of Equity Shares of MAHAMAYA LIFESCIENCES LIMITED
 ---
 

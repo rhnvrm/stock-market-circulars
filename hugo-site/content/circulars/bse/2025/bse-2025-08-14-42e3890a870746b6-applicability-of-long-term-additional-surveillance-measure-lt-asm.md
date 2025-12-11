@@ -24,7 +24,7 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- FIRSTFINTEC
+- FIRSTFIN
 - KKALPANA
 - RAMGOPAL
 - SUNSHINE
@@ -34,10 +34,9 @@ stocks:
 - RAJCYL
 - RDB
 tags:
-- surveillance-measures
-- lt-asm
-- trading-framework
-- market-surveillance
+- asm-stage
+- surveillance
+- trading-operations
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---
 

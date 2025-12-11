@@ -25,14 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- consumption-fund
+- equity
 - mutual-fund
 - nfo
-- new-fund-offer
 - sip
 - union-mutual-fund
-- equity-fund
-- consumption-fund
-- bse-star-mf
 title: Launch of New Fund Offer with SIP facility of UNION Mutual Fund on BSE StAR
   MF Platform
 ---

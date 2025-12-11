@@ -27,11 +27,11 @@ source: bse
 stocks:
 - VINTAGE
 tags:
+- equity
 - listing
-- equity-shares
-- preferential-issue
-- non-promoters
 - lock-in
+- preferential-issue
+- shareholding-pattern
 title: Listing of New Securities of Vintage Coffee and Beverages Limited
 ---
 

@@ -53,9 +53,9 @@ stocks:
 - VALLABH
 tags:
 - price-band
-- trading
-- surveillance
 - risk-management
+- surveillance
+- trading
 title: BSE Revises Price Bands for 27 Securities Effective August 21, 2025
 ---
 

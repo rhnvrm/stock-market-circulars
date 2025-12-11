@@ -25,10 +25,10 @@ source: bse
 stocks:
 - CHOICE
 tags:
-- equity-listing
-- warrant-conversion
-- preferential-issue
 - choice-international
+- conversion
+- equity
+- preferential-issue
 title: Listing of New Equity Shares of Choice International Ltd
 ---
 

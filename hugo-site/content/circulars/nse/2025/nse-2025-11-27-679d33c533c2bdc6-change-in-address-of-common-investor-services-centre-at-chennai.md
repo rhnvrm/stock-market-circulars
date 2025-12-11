@@ -26,10 +26,10 @@ severity: low
 source: nse
 stocks: []
 tags:
+- administrative
+- chennai
 - investor-services
 - office-relocation
-- chennai
-- administrative
 title: Change in Address of Common Investor Services Centre at Chennai
 ---
 

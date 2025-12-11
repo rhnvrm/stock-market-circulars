@@ -32,11 +32,9 @@ stocks:
 - FYNXCAP
 - NUTRICIRCLE
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-safety
 title: Enhanced Surveillance Measure (ESM) - Securities List Update
 ---
 

@@ -26,12 +26,12 @@ severity: low
 source: bse
 stocks:
 - KOTHARI
+- KOTIC
 tags:
-- new-listing
-- preferential-allotment
-- equity-shares
+- equity
+- listing
 - lock-in
-- '509732'
+- preferential-issue
 title: Listing of New Securities of Kothari Industrial Corporation Ltd
 ---
 

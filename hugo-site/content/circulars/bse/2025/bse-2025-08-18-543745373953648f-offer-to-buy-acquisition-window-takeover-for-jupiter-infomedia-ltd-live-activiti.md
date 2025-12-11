@@ -27,10 +27,8 @@ source: bse
 stocks:
 - JUPITERIN
 tags:
+- otb
 - takeover
-- acquisition
-- offer-to-buy
-- jupiter-infomedia
 - trading-schedule
 title: Offer to Buy - Acquisition Window (Takeover) for Jupiter Infomedia Ltd - Live
   Activities Schedule

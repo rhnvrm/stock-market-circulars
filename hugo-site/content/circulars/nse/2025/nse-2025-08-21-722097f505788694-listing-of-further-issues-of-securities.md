@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PELATRO
 tags:
+- emerge-platform
+- equity
 - listing
-- equity-shares
-- sme-emerge
-- preferential-allotment
-- pelatro
+- preferential-issue
 title: Listing of further issues of Pelatro Limited securities
 ---
 

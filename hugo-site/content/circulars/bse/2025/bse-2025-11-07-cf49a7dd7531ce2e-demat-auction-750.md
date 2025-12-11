@@ -39,7 +39,7 @@ stocks:
 - BIOCON
 - BIRLACABLE
 - BLUECLOUD
-- BOROSIL
+- BOROLTD
 - BSLLTD
 - CASTROLIND
 - CCLPROD
@@ -60,7 +60,7 @@ stocks:
 - FORBES
 - FORCEMOT
 - NYKAA
-- GNAAXLES
+- GNA
 - GRASIM
 - GREENPLY
 - HCLTECH
@@ -74,7 +74,7 @@ stocks:
 - JINDALPOLY
 - JOHNCOCK
 - JUBLINGREA
-- KPENERGY
+- KPEL
 - KALYANKJIL
 - KSE
 - LIBORDFINL
@@ -114,15 +114,15 @@ stocks:
 - TORNTPHARM
 - VEDAVAAG
 - VEERAMSECU
-- WEIZMANN
+- WEIZMANIND
 - WIPRO
 - ZFCVINDIA
 - ZODIACLOTH
 tags:
-- demat-auction
-- settlement
+- demat
 - securities-shortages
-- trading-members
+- settlement
+- trading-member
 title: Demat Auction - Settlement No. 750
 ---
 

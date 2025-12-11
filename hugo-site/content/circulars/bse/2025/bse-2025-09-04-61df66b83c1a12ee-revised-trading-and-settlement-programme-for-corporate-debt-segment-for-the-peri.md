@@ -25,11 +25,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- settlement
 - corporate-debt
 - icdm
-- trading-schedule
 - september-2025
+- settlement
+- trading-schedule
 title: Revised Trading and Settlement Programme for Corporate Debt Segment - September
   2025
 ---

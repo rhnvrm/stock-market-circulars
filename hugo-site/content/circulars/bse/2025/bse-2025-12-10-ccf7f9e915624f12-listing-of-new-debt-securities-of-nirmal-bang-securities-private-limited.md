@@ -29,9 +29,9 @@ stocks: []
 tags:
 - debt-securities
 - listing
-- private-placement
+- ncd
 - nirmal-bang
-- debentures
+- private-placement
 - quarterly-interest
 title: Listing of New Debt Securities of Nirmal Bang Securities Private Limited
 ---

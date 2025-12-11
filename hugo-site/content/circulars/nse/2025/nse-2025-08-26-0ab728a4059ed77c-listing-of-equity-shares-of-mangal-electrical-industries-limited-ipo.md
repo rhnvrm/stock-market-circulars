@@ -28,8 +28,6 @@ tags:
 - ipo
 - listing
 - shareholding-pattern
-- promoter-holding
-- public-holding
 title: Listing of Equity Shares of Mangal Electrical Industries Limited (IPO)
 ---
 

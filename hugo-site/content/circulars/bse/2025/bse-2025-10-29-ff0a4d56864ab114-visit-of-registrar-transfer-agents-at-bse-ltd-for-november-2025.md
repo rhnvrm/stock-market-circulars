@@ -77,11 +77,10 @@ stocks:
 - ASIANPETRO
 - BERYL
 tags:
-- rta
-- registrar-transfer-agents
+- adroit-corporate
 - corporate-services
 - investor-services
-- adroit-corporate
+- rta
 title: Visit of Registrar & Transfer Agents at BSE Ltd. for November 2025
 ---
 

@@ -26,8 +26,8 @@ source: bse
 stocks:
 - PCPL
 tags:
+- corporate-action
 - debenture-redemption
-- corporate-actions
 - debt-securities
 - face-value-reduction
 title: Part Redemption of Debentures of Provident Cedar Private Limited

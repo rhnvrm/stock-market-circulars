@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- MBENGINEERING
+- MBEL
 tags:
+- allotment
+- anchor-investor
 - ipo
-- anchor-investors
-- allocation
-- public-issue
 - m-b-engineering
+- public-issue
 title: Public Issue of M & B Engineering Limited - Allocation to Anchor Investors
 ---
 

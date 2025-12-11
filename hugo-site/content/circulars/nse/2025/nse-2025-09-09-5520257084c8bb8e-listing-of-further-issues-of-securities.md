@@ -40,10 +40,10 @@ stocks:
 - XPROINDIA
 - ZENSARTECH
 tags:
-- listing
+- equity
 - esop
-- equity-shares
-- further-issues
+- further-issue
+- listing
 - trading-admission
 title: Listing of Further Issues of Securities - 16 Companies Including ICICI Bank,
   Infosys, CG Power

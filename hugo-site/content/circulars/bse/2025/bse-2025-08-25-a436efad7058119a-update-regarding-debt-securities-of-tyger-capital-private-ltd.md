@@ -26,12 +26,12 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- debentures
-- debt-securities
 - coupon-rate
+- debt-securities
 - modification
-- tyger-capital
+- ncd
 - step-up-rate
+- tyger-capital
 title: Modification to Terms of Series A and Series B Debentures of Tyger Capital
   Private Ltd
 ---

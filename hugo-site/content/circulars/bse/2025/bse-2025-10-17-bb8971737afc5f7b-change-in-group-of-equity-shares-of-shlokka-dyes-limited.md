@@ -27,12 +27,11 @@ source: bse
 stocks:
 - SHLOKKA
 tags:
+- asm-stage
 - group-change
-- trade-for-trade
 - rolling-segment
-- mt-group
-- m-group
 - sme
+- trade-for-trade
 title: Change in Group of Equity Shares of SHLOKKA DYES LIMITED
 ---
 

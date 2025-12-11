@@ -28,15 +28,12 @@ source: nse
 stocks:
 - ORTEL
 tags:
-- graded-surveillance-measure
-- gsm
-- stage-ii
-- trade-for-trade
 - additional-surveillance-deposit
 - asd
+- asm-stage
 - price-band
 - surveillance
-- ORTEL
+- trade-for-trade
 title: ORTEL Communications Limited Moved to Stage II of Graded Surveillance Measure
   (GSM)
 ---

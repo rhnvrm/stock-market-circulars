@@ -38,9 +38,9 @@ stocks:
 - SHIVTEX
 - VASHUBHA
 tags:
+- asm-stage
 - price-band
 - trading-restrictions
-- surveillance-measure
 - volatility-control
 title: Changes in Price Band for 11 Securities - Effective October 14, 2025
 ---

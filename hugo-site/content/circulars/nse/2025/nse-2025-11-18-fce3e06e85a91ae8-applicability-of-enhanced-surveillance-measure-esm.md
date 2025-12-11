@@ -28,12 +28,10 @@ stocks:
 - MEGAFLEX
 - NEPHROCARE
 tags:
-- enhanced-surveillance-measure
-- esm
-- trade-for-trade
-- margin-requirements
-- surveillance
+- margin
 - market-segment
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

@@ -26,12 +26,10 @@ source: sebi
 stocks:
 - CRESSANDA
 tags:
-- recovery-certificate
-- enforcement
-- debt-recovery
-- yuvika-tradewing-llp
-- cressanda-solutions
 - compliance
+- enforcement
+- recovery
+- yuvika-tradewing-llp
 title: Notice of Demand under Recovery Certificate No. 8924 of 2025 against Yuvika
   Tradewing LLP
 ---

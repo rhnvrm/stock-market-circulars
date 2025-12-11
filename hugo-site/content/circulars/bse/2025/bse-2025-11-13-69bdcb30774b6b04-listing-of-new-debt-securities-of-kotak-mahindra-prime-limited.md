@@ -27,12 +27,12 @@ source: bse
 stocks:
 - KOTAKPRIME
 tags:
+- bond
 - debt-securities
-- listing
-- private-placement
 - kotak-mahindra-prime
-- bonds
-- debentures
+- listing
+- ncd
+- private-placement
 title: Listing of New Debt Securities of Kotak Mahindra Prime Limited
 ---
 

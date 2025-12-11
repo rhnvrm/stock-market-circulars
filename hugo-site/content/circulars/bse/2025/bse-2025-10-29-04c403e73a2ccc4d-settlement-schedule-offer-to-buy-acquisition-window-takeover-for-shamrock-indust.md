@@ -28,12 +28,11 @@ source: bse
 stocks:
 - SHAMROCK
 tags:
+- demat-shares
+- early-pay-in
+- otb
 - settlement
 - takeover
-- acquisition-window
-- offer-to-buy
-- early-pay-in
-- demat-shares
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for SHAMROCK
   INDUSTRIAL COMPANY LIMITED
 ---

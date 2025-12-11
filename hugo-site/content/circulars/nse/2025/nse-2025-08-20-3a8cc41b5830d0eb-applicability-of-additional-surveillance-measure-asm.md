@@ -28,12 +28,10 @@ stocks:
 - SATIPOLY
 - STALLION
 tags:
-- surveillance
-- asm
-- additional-surveillance-measure
 - margin
-- trade-for-trade
 - market-operations
+- surveillance
+- trade-for-trade
 title: Additional Surveillance Measure (ASM) - Long Term Framework Changes
 ---
 

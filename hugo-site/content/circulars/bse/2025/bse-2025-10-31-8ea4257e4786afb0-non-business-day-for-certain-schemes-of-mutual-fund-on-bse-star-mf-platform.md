@@ -27,12 +27,10 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- non-business-day
-- bse-star-mf
-- international-funds
 - fund-of-funds
-- holiday-schedule
+- holiday
+- international-funds
+- mutual-fund
 title: Non-Business Day for Certain Schemes of Mutual Fund on BSE StAR MF Platform
   - November 2025
 ---

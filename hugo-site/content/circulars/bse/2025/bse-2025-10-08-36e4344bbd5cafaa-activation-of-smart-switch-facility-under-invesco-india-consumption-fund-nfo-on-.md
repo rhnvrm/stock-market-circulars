@@ -26,14 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- mutual-funds
+- consumption-fund
+- invesco
+- liquid-fund
+- mutual-fund
 - nfo
 - smart-switch
-- invesco
-- consumption-fund
-- liquid-fund
-- overnight-fund
-- bse-star-mf
 title: Activation of SMART Switch Facility under INVESCO INDIA CONSUMPTION FUND -
   NFO on BSE StAR MF platform
 ---

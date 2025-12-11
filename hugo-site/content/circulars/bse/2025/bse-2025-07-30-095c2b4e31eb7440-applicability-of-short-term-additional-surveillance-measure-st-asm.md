@@ -31,7 +31,7 @@ stocks:
 - VASHUINFRA
 - ARFIN
 - DPIL
-- GARGFURNACE
+- GARGFUR
 - INDOBIOTEC
 - INFOBEANS
 - NARMADA
@@ -50,11 +50,10 @@ stocks:
 - GARUDA
 - HUBTOWN
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: BSE Applicability of Short Term Additional Surveillance Measure (ST-ASM) -
   July 31, 2025
 ---

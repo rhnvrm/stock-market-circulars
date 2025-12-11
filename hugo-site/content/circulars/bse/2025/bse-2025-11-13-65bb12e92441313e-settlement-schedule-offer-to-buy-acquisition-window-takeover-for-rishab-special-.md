@@ -27,13 +27,12 @@ source: bse
 stocks:
 - RISHABSPL
 tags:
+- demat-shares
+- early-pay-in
+- market-operations
+- otb
 - settlement
 - takeover
-- acquisition-window
-- offer-to-buy
-- early-pay-in
-- demat-shares
-- market-operations
 title: Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for RISHAB
   SPECIAL YARNS LIMITED
 ---

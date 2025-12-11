@@ -27,13 +27,11 @@ source: bse
 stocks:
 - AMBIUMFIN
 tags:
-- trading-suspension
-- debentures
+- debt-securities
+- interest-payment
 - ncd
 - redemption
-- interest-payment
-- debt-market
-- ambium-finserve
+- suspension
 title: Suspension of Trading in Debentures of AMBIUM FINSERVE LIMITED
 ---
 

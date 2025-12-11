@@ -26,10 +26,9 @@ source: bse
 stocks:
 - SESHACHAL
 tags:
+- asm-stage
+- equity
 - group-change
-- x-group
-- equity-shares
-- seshachal-technologies
 title: Change in Group of Equity Shares of Seshachal Technologies Limited
 ---
 

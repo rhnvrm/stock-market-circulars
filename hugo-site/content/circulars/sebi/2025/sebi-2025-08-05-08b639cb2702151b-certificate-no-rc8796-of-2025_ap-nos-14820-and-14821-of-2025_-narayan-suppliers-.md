@@ -26,11 +26,11 @@ source: sebi
 stocks:
 - PSIT
 tags:
-- regulatory-certificate
-- enforcement
-- ps-it-infrastructure
-- narayan-suppliers
 - compliance
+- enforcement
+- narayan-suppliers
+- ps-it-infrastructure
+- regulatory-certificate
 title: 'Certificate No. RC8796 of 2025 - A.P Nos 14820 and 14821 of 2025 - Narayan
   Suppliers Pvt Ltd (PAN: AACCN9623R) in the matter of PS IT Infrastructure and Services
   Limited'

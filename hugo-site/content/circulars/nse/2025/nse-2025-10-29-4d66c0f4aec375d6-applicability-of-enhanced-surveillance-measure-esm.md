@@ -32,13 +32,11 @@ stocks:
 - PROZONER
 - PURPLEUTED
 tags:
-- enhanced-surveillance-measure
-- esm
-- margin-requirements
-- trade-for-trade
-- surveillance
-- market-regulation
+- margin
+- market-operations
 - price-band
+- surveillance
+- trade-for-trade
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

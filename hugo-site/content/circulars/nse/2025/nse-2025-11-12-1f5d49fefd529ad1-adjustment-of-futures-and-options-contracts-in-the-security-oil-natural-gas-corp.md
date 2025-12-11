@@ -28,11 +28,9 @@ source: nse
 stocks:
 - ONGC
 tags:
-- futures-and-options
-- dividend-adjustment
+- clearing
 - contract-adjustment
-- clearing-settlement
-- ONGC
+- futures-options
 title: Adjustment of Futures and Options contracts in ONGC for Rs. 6 Dividend
 ---
 

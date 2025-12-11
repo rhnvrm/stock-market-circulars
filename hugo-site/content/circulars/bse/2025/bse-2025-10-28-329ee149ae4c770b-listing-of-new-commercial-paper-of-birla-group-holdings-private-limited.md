@@ -26,11 +26,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- commercial-paper
-- debt-listing
-- private-placement
 - birla-group-holdings
-- new-listing
+- commercial-paper
+- debt-securities
+- listing
+- private-placement
 title: Listing of New Commercial Paper of Birla Group Holdings Private Limited
 ---
 

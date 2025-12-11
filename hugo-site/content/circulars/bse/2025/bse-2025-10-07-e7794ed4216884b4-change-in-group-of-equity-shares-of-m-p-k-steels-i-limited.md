@@ -24,14 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '544553'
+- MPKSTEELS
 tags:
+- asm-stage
 - group-change
+- rolling-segment
 - sme
 - trade-for-trade
-- rolling-segment
-- m-group
-- mt-group
 title: Change in Group of Equity Shares of M P K STEELS (I) LIMITED
 ---
 

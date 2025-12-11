@@ -25,11 +25,11 @@ source: bse
 stocks:
 - BIRLACORPN
 tags:
-- commercial-paper
-- debt-listing
 - birla-corporation
-- private-placement
+- commercial-paper
 - crisil-a1+
+- debt-securities
+- private-placement
 title: Listing of New Commercial Paper of Birla Corporation Ltd
 ---
 

@@ -28,13 +28,10 @@ source: bse
 stocks:
 - ILCML
 tags:
-- open-offer
-- takeover
-- acquisition
 - change-in-control
-- public-announcement
-- ILCML
-- substantial-acquisition
+- public-issue
+- sast
+- takeover
 title: Opening of Offer to Buy – Acquisition Window (Takeover) of The Indian Link
   Chain Manufacturers Limited
 ---

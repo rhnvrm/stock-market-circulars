@@ -27,11 +27,10 @@ source: bse
 stocks:
 - TATAINVEST
 tags:
-- isin-change
-- share-sub-division
 - corporate-action
-- tata-investment-corporation
+- isin
 - scrip-501301
+- share-sub-division
 title: New ISIN Number for Tata Investment Corporation Ltd - Equity Share Sub-Division
 ---
 

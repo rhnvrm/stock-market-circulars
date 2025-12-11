@@ -26,11 +26,11 @@ source: bse
 stocks:
 - MFL
 tags:
-- debentures
-- part-redemption
-- corporate-actions
-- debt-segment
+- corporate-action
+- debt-securities
 - moneyboxx-finance
+- ncd
+- redemption
 title: Part Redemption of Debentures of MONEYBOXX FINANCE LIMITED
 ---
 

@@ -28,12 +28,9 @@ source: bse
 stocks:
 - SHREEPAC
 tags:
-- takeover
-- offer-to-buy
-- acquisition-window
 - otb
+- takeover
 - trading-schedule
-- shreepac
 title: Offer to Buy – Acquisition Window (Takeover) for SHREE PACETRONIX LIMITED -
   Live Activities Schedule
 ---

@@ -27,11 +27,11 @@ source: bse
 stocks:
 - EMBASSY
 tags:
+- conversion
+- equity
 - listing
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- promoter-holding
+- preferential-issue
+- shareholding-pattern
 title: Listing of new Securities of Embassy Developments Limited
 ---
 

@@ -25,10 +25,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- recovery-notice
+- bse
 - enforcement
 - illiquid-options
-- bse
+- recovery
 - trading-violation
 title: SEBI Notice of Demand under Recovery Certificate No. 8886/2025 - Meenu Ajmera
 ---

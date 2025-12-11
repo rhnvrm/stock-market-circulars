@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ABRIL
 tags:
-- trading-segment
 - group-change
 - rolling-segment
-- trade-for-trade
 - sme
+- trade-for-trade
+- trading
 title: Change in Group of Equity Shares of ABRIL PAPER TECH LIMITED
 ---
 

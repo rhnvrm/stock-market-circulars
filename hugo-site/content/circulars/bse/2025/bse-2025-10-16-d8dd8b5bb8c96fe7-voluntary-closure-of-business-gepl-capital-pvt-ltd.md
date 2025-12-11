@@ -26,9 +26,9 @@ severity: low
 source: bse
 stocks: []
 tags:
-- voluntary-closure
-- currency-derivatives
+- derivatives
 - membership
+- surrender
 - trading-member
 title: Voluntary Closure of Business – GEPL Capital Pvt. Ltd
 ---

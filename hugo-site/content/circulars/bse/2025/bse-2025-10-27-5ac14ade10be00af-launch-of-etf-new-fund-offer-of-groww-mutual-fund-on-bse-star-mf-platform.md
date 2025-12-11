@@ -26,13 +26,12 @@ severity: low
 source: bse
 stocks: []
 tags:
-- etf
-- nfo
-- mutual-fund
-- groww
-- nifty-midcap-150
-- bse-star-mf
 - equity
+- etf
+- groww
+- mutual-fund
+- nfo
+- nifty-midcap-150
 title: Launch of ETF New Fund Offer of GROWW Mutual Fund on BSE StAR MF Platform
 ---
 

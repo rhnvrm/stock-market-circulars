@@ -25,25 +25,23 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '532628'
-- '543712'
-- '540691'
-- '543235'
-- '544397'
-- '543896'
-- '544120'
-- '544179'
-- '533150'
-- '526299'
-- '500800'
-- '500408'
-- '507880'
+- 3IINFOLTD
+- AFSL
+- ABCAPITAL
+- ANGELONE
+- ATHERENERG
+- AVALON
+- CAPITALSFB
+- GODIGIT
+- GODREJPROP
+- MPHASIS
+- TATACONSUM
+- TATAELXSI
+- VIPIND
 tags:
 - esop
-- esos
 - listing
 - new-securities
-- employee-stock-options
 title: Listing of Further Securities Issued Under ESOP/ESOS - 13 Companies
 ---
 

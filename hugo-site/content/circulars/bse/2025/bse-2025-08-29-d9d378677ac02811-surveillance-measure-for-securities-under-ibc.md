@@ -32,12 +32,10 @@ stocks:
 - STRING
 - SWAN
 tags:
-- surveillance
-- ibc
+- asm-stage
 - insolvency
-- bankruptcy
 - market-supervision
-- stage-classification
+- surveillance
 title: Surveillance Measure for Securities Under Insolvency and Bankruptcy Code (IBC)
 ---
 

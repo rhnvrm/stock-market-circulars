@@ -27,15 +27,15 @@ severity: high
 source: bse
 stocks: []
 tags:
-- penalties
-- trading-members
-- compliance
-- inspection
-- regulatory-framework
-- ease-of-doing-business
 - client-funds
-- net-worth
+- compliance
 - disciplinary-action
+- ease-of-doing-business
+- investigation
+- net-worth
+- penalty
+- regulatory-framework
+- trading-member
 title: Ease of Doing Business - Rationalization and Standardization of Penalties Levied
   on Trading Members
 ---

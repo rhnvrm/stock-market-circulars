@@ -27,14 +27,14 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- depositories
+- change-in-control
+- compliance
+- corporate-governance
+- depository
+- key-management-personnel
+- market-infrastructure
 - participants
 - regulations
-- compliance
-- market-infrastructure
-- change-in-control
-- governance
-- key-management-personnel
 title: Securities and Exchange Board of India (Depositories and Participants) Regulations,
   2018 [Last amended on November 22, 2025]
 ---

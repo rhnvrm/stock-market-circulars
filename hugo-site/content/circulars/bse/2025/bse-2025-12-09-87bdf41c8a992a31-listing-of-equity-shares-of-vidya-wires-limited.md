@@ -26,10 +26,9 @@ source: bse
 stocks:
 - VIDYAWIRES
 tags:
-- listing
-- equity-shares
-- new-listing
+- equity
 - ipo
+- listing
 title: Listing of Equity Shares of VIDYA WIRES LIMITED
 ---
 

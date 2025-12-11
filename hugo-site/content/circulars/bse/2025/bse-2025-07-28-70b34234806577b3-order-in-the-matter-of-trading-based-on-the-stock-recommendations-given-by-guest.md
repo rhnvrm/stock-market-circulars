@@ -25,14 +25,14 @@ severity: high
 source: bse
 stocks: []
 tags:
-- sebi-order
-- insider-trading
-- market-manipulation
-- zee-business
-- guest-experts
-- stock-recommendations
 - final-order
-- regulatory-action
+- guest-experts
+- investigation
+- market-operations
+- regulatory
+- sebi-order
+- stock-recommendations
+- zee-business
 title: SEBI Final Order - Trading Based on Stock Recommendations by Zee Business Guest
   Experts
 ---

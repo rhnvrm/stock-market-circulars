@@ -26,10 +26,10 @@ source: nse
 stocks:
 - ASTEC
 tags:
+- astec-lifesciences
+- equity
 - listing
 - rights-issue
-- equity-shares
-- astec-lifesciences
 title: Listing of further issues of Astec LifeSciences Limited
 ---
 

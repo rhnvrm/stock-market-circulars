@@ -28,10 +28,10 @@ stocks:
 - PILANIINVS
 tags:
 - commercial-paper
-- debt-listing
-- private-placement
+- debt-securities
+- listing
 - pilani-investment
-- new-listing
+- private-placement
 title: Listing of new Commercial Paper of Pilani Investment And Industries Corporation
   Limited
 ---

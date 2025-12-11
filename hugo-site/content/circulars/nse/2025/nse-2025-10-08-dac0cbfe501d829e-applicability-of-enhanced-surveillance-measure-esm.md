@@ -29,11 +29,9 @@ stocks:
 - NARMADA
 - TECHD
 tags:
-- enhanced-surveillance-measure
-- esm
+- market-operations
 - surveillance
 - trading-restrictions
-- market-regulation
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

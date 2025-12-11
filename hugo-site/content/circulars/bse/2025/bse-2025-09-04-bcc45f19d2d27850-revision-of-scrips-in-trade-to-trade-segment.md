@@ -55,11 +55,11 @@ stocks:
 - WARDWIZARD
 - WILLIAMSON
 tags:
-- trade-to-trade
-- surveillance
+- enhanced-monitoring
 - scrip-classification
 - sme
-- enhanced-monitoring
+- surveillance
+- trade-to-trade
 title: Revision of Scrips in Trade to Trade Segment - 30 Companies Moved to T/XT Group
 ---
 

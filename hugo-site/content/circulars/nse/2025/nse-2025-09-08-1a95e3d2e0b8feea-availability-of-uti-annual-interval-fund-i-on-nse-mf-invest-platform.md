@@ -25,12 +25,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-fund
+- debt-securities
 - interval-fund
-- uti-mutual-fund
-- subscription
+- mutual-fund
 - redemption
-- debt-fund
+- subscription
+- uti-mutual-fund
 title: Availability of UTI Annual Interval Fund-I on NSE MF Invest Platform
 ---
 

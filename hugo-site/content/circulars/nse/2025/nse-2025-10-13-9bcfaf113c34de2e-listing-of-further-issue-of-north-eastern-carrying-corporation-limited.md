@@ -28,12 +28,12 @@ source: nse
 stocks:
 - NECCLTD
 tags:
-- listing
-- equity-shares
-- conversion
-- partly-paid-to-fully-paid
-- further-issue
 - capital-market
+- conversion
+- equity
+- further-issue
+- listing
+- partly-paid-to-fully-paid
 title: Listing of Further Issue of North Eastern Carrying Corporation Limited
 ---
 

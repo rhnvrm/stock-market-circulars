@@ -26,9 +26,8 @@ source: bse
 stocks:
 - TAKYON
 tags:
+- equity
 - listing
-- equity-shares
-- new-listing
 - takyon-networks
 title: Listing of Equity Shares of TAKYON NETWORKS LIMITED
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - PRECWIRE
 tags:
-- equity-shares
-- preferential-allotment
-- warrant-conversion
-- lock-in
+- conversion
+- equity
 - listing
+- lock-in
+- preferential-issue
 title: Listing of New Securities of Precision Wires India Ltd - 13.83 Lakh Equity
   Shares
 ---

@@ -26,11 +26,11 @@ source: bse
 stocks:
 - GOLDIAM
 tags:
-- listing
-- qip
-- equity-shares
+- equity
 - goldiam-international
+- listing
 - new-securities
+- qip
 title: Listing of new securities of Goldiam International Ltd - QIP allotment
 ---
 

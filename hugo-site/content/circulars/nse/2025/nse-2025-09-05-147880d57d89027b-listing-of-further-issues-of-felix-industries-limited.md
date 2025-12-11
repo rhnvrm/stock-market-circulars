@@ -26,12 +26,12 @@ source: nse
 stocks:
 - FELIX
 tags:
-- listing
-- sme
-- emerge
-- preferential-allotment
+- emerge-platform
+- equity
 - felix-industries
-- equity-shares
+- listing
+- preferential-issue
+- sme
 title: Listing of further issues of Felix Industries Limited
 ---
 

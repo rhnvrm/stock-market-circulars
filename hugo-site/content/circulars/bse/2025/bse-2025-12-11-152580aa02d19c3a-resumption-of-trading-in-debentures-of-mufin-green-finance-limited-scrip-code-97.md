@@ -28,12 +28,11 @@ source: bse
 stocks:
 - MUFINGREEN
 tags:
-- debentures
-- trading-resumption
-- record-date
-- interest-payment
 - debt-securities
-- mufin-green-finance
+- interest-payment
+- ncd
+- record-date
+- trading-resumption
 title: Resumption of Trading in Debentures of MUFIN GREEN FINANCE LIMITED (Scrip Code
   977318)
 ---

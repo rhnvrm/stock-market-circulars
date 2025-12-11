@@ -33,11 +33,11 @@ stocks:
 - TECHNOPOLY
 - TVSHOLDING
 tags:
-- price-band
-- surveillance
-- trading-parameters
 - equity
 - market-operations
+- price-band
+- surveillance
+- trading-operations
 title: Changes in Price Band for 7 Securities Effective November 14, 2025
 ---
 

@@ -25,12 +25,11 @@ severity: low
 source: bse
 stocks: []
 tags:
-- t-bills
-- treasury-bills
-- debt-market
-- trading-suspension
+- 799mahsdl25
+- debt-securities
 - maturity
-- 799MAHSDL25
+- suspension
+- treasury-bills
 title: Suspension of Trading in T-bills - 799MAHSDL25
 ---
 

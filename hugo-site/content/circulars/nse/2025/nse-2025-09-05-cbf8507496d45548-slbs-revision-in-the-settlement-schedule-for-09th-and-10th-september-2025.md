@@ -26,12 +26,12 @@ severity: medium
 source: nse
 stocks: []
 tags:
-- slbs
-- settlement-schedule
-- securities-lending
 - borrowing
-- trading-operations
 - clearing
+- collateral
+- settlement
+- slbs
+- trading-operations
 title: SLBS - Revision in the settlement schedule for 09th and 10th September 2025
 ---
 

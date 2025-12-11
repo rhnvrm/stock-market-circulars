@@ -26,12 +26,10 @@ source: nse
 stocks:
 - BEML
 tags:
-- securities-lending-borrowing
-- position-limits
-- mwpl
+- collateral
+- institutional-investor
 - participant-limits
-- institutional-limits
-- beml
+- position-limits
 title: Revised MWPL, Participant, Institutional & Non-institutional Client Limits
   for BEML
 ---

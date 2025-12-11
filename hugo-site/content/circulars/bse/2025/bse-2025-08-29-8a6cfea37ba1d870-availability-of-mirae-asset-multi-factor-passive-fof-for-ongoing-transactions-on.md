@@ -25,15 +25,14 @@ severity: low
 source: bse
 stocks: []
 tags:
+- fund-of-funds
+- mirae-asset
 - mutual-fund
 - nfo
-- bse-star-mf
-- fof
-- mirae-asset
-- subscription
 - redemption
 - sip
 - stp
+- subscription
 - swp
 title: MIRAE ASSET MULTI FACTOR PASSIVE FOF Available for Ongoing Transactions on
   BSE StAR MF Platform

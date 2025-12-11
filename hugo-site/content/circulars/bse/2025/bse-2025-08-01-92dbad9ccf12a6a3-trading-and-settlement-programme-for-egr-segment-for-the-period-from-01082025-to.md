@@ -25,11 +25,10 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- egr
-- electronic-gold-receipts
-- trading-schedule
-- settlement
 - august-2025
+- egr
+- settlement
+- trading-schedule
 title: Trading and Settlement Programme for EGR Segment - August 2025
 ---
 

@@ -25,11 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- derivatives
-- futures-and-options
-- market-wide-position-limits
-- mwpl
 - delta-computation
+- derivatives
+- futures-options
+- market-wide-position-limits
+- position-limits
 - risk-management
 - surveillance
 - trading-methodology

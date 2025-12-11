@@ -25,12 +25,12 @@ severity: low
 source: bse
 stocks: []
 tags:
+- bestway-smart-financial
+- compliance
+- enforcement
 - investment-adviser
 - sebi-order
-- enforcement-action
-- regulatory-compliance
 - smart-financial
-- bestway-smart-financial
 title: SEBI Disposes Investment Adviser Case Against Manoj Jethanand Varyani Without
   Adverse Action
 ---

@@ -27,12 +27,11 @@ severity: medium
 source: bse
 stocks: []
 tags:
-- mutual-funds
-- scheme-merger
 - aditya-birla-sunlife
-- debt-funds
-- index-funds
-- bse-star-mf
+- debt-securities
+- index-fund
+- mutual-fund
+- scheme-merger
 title: Merger of Aditya Birla Sun Life CRISIL-IBX AAA NBFC-HFC Index Fund Schemes
 ---
 

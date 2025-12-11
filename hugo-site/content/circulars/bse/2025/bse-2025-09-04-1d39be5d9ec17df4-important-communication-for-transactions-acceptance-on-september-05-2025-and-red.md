@@ -25,11 +25,11 @@ severity: high
 source: bse
 stocks: []
 tags:
-- transactions
+- market-operations
 - redemption
 - settlement
 - trading-operations
-- market-operations
+- transactions
 title: Important Communication for Transactions Acceptance on September 05, 2025,
   and Redemption Payouts on September 09, 2025
 ---

@@ -28,13 +28,11 @@ source: bse
 stocks:
 - KOGTAFIN
 tags:
+- care-rating
 - debt-securities
 - listing
-- kogta-financial
-- private-placement
 - ncd
-- debentures
-- care-rating
+- private-placement
 title: Listing of New Debt Securities of Kogta Financial (India) Limited
 ---
 

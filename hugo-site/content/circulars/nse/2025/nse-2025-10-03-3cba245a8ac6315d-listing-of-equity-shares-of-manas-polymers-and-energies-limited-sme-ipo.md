@@ -26,12 +26,11 @@ source: nse
 stocks:
 - MPEL
 tags:
-- listing
-- sme-ipo
 - emerge-platform
-- new-listing
-- trade-for-trade
+- listing
 - market-maker
+- sme
+- trade-for-trade
 title: Listing of Equity Shares of Manas Polymers and Energies Limited (SME IPO)
 ---
 

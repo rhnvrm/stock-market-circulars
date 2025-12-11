@@ -26,19 +26,19 @@ severity: high
 source: bse
 stocks: []
 tags:
-- trai
-- telecom
 - 1600-series
-- bfsi
 - banking
+- bfsi
+- compliance
+- customer-communication
 - financial-services
 - insurance
-- spam-prevention
-- regulatory-compliance
+- pfrda
 - rbi
 - sebi
-- pfrda
-- customer-communication
+- spam-prevention
+- telecom
+- trai
 title: TRAI Direction on Mandatory Phase-wise Adoption of 1600-Series Numbers by BFSI
   Entities
 ---

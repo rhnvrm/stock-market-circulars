@@ -27,12 +27,12 @@ source: nse
 stocks:
 - SOBHA
 tags:
-- listing
-- equity-shares
-- further-issue
-- conversion
-- partly-paid-shares
 - capital-market
+- conversion
+- equity
+- further-issue
+- listing
+- partly-paid
 title: Listing of Further Issue of Sobha Limited - Conversion of Partly Paid-up Shares
 ---
 

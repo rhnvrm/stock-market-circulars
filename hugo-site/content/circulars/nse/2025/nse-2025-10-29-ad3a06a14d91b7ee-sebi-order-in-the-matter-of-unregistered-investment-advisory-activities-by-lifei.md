@@ -27,12 +27,12 @@ severity: high
 source: nse
 stocks: []
 tags:
-- sebi-order
 - debarment
-- investment-advisory
-- unregistered-activities
 - enforcement
+- investment-adviser
 - prohibition
+- sebi-order
+- unregistered-activities
 title: SEBI Debars Lifeinspire Knowledge Solutions Private Limited for Unregistered
   Investment Advisory Activities
 ---

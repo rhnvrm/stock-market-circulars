@@ -29,11 +29,11 @@ stocks:
 - MMTC
 tags:
 - clarification
-- volume-spurt
-- surveillance
-- disclosure
 - compliance
-- LODR-regulations
+- disclosure
+- lodr
+- price-movement
+- surveillance
 title: Clarifications received from the companies
 ---
 

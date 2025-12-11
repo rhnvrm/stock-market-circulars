@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - AGRIBIO
-- ALEMBIC
+- ALEMBICLTD
 - AMFORGE
 - AVANCE
 - AWL
@@ -50,7 +50,7 @@ stocks:
 - HIND
 - HITACHI
 - INDIACEM
-- INFOSYS
+- INFY
 - INTEC
 - JAMES
 - JIOFINANCIAL
@@ -58,7 +58,7 @@ stocks:
 - MAESTROS
 - MEGA
 - MEHAI
-- MODISON
+- MODISONLTD
 - MOTISONS
 - NATIONALALU
 - OLA
@@ -85,12 +85,12 @@ stocks:
 - TELOGICA
 - UHZAVERI
 - UVS
-- WOCKHARDT
+- WOCKPHARMA
 - ZYDUS
 tags:
-- demat-auction
-- settlement
+- demat
 - market-operations
+- settlement
 - trading
 title: Demat Auction - Settlement No. 770
 ---

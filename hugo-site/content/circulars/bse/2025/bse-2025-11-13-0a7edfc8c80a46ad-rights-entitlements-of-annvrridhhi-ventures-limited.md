@@ -27,12 +27,11 @@ source: bse
 stocks:
 - ANVRDHI
 tags:
-- rights-entitlements
-- rights-issue
-- renunciation
-- equity
-- settlement
 - demat
+- equity
+- renunciation
+- rights-issue
+- settlement
 title: Rights Entitlements Trading of ANNVRRIDHHI VENTURES LIMITED
 ---
 

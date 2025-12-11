@@ -37,10 +37,9 @@ stocks:
 - LANCOR
 - UTLINDS
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- lt-asm
-- additional-surveillance-measure
-- market-monitoring
 - trading-restrictions
 title: Applicability of Long Term Additional Surveillance Measure (LT-ASM)
 ---

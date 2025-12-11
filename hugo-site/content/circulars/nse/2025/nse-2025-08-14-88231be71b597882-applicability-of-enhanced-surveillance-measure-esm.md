@@ -34,12 +34,10 @@ stocks:
 - GSTL
 - KAVDEFENCE
 tags:
-- surveillance
-- esm
-- enhanced-surveillance
-- margin-requirements
-- trade-for-trade
+- margin
 - price-band
+- surveillance
+- trade-for-trade
 title: Enhanced Surveillance Measure (ESM) - Securities Movement and New Inclusions
 ---
 

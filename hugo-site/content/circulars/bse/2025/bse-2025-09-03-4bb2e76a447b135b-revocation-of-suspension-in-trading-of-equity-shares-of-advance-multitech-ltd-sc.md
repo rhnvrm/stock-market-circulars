@@ -26,11 +26,11 @@ source: bse
 stocks:
 - ADVMTECH
 tags:
-- trading
-- suspension
-- revocation
 - advance-multitech
-- equity-shares
+- equity
+- release
+- suspension
+- trading
 title: Revocation of Suspension in Trading of Equity Shares of Advance Multitech Ltd
 ---
 

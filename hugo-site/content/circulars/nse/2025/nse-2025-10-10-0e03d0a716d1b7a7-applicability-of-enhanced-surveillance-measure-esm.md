@@ -32,15 +32,12 @@ stocks:
 - ACL
 - DHARAN
 - EXCEL
-- IEL
+- INDXTRA
 - SADHNANIQ
 tags:
+- margin
 - surveillance
-- esm
-- enhanced-surveillance-measure
-- margin-requirements
 - trade-for-trade
-- market-surveillance
 title: Applicability of Enhanced Surveillance Measure (ESM)
 ---
 

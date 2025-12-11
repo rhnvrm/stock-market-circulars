@@ -28,12 +28,12 @@ source: bse
 stocks:
 - LODHADE
 tags:
+- crisil-rating
 - debt-securities
 - listing
 - lodha-developers
-- treasury-bills
 - private-placement
-- crisil-rating
+- treasury-bills
 title: Listing of New Debt Securities of Lodha Developers Limited
 ---
 

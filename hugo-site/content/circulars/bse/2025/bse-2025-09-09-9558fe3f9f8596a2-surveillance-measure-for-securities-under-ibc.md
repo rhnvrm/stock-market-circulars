@@ -27,10 +27,8 @@ stocks:
 - HARIG
 - VIKAS
 tags:
-- surveillance
-- ibc
 - insolvency
-- additional-surveillance-measure
+- surveillance
 - trading-restrictions
 title: Surveillance Measure for Securities Under IBC - September 2025 Update
 ---

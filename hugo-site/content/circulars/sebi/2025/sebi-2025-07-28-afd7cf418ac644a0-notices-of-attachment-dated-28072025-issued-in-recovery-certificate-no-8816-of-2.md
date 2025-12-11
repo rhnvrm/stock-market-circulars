@@ -26,11 +26,10 @@ severity: high
 source: sebi
 stocks: []
 tags:
-- attachment-notice
-- recovery-proceedings
+- attachment
+- enforcement
+- recovery
 - unregistered-investment-advisor
-- enforcement-action
-- recovery-certificate
 title: Notices of Attachment Against Krishnamurthy G. in Recovery Certificate No.
   8816 of 2025
 ---

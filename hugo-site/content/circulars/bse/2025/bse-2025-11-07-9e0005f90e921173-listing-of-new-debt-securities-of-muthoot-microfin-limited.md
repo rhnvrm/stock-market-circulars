@@ -31,7 +31,6 @@ tags:
 - muthoot-microfin
 - ncd
 - private-placement
-- MUTHOOTMF
 title: Listing of new debt securities of Muthoot Microfin Limited
 ---
 

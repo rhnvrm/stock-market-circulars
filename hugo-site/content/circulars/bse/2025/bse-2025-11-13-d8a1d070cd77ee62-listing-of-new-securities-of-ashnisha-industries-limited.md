@@ -27,11 +27,10 @@ source: bse
 stocks:
 - ASHNISHA
 tags:
+- equity
 - listing
-- rights-issue
-- equity-shares
 - new-securities
-- ashnisha-industries
+- rights-issue
 title: Listing of New Securities of Ashnisha Industries Limited
 ---
 

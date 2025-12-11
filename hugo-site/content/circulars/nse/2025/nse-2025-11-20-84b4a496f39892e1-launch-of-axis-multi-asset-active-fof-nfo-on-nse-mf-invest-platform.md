@@ -26,12 +26,12 @@ severity: low
 source: nse
 stocks: []
 tags:
-- mutual-funds
-- nfo
 - axis-mutual-fund
 - fund-of-funds
 - multi-asset
-- nse-mf-invest
+- mutual-fund
+- nfo
+- trading-platform
 title: Launch of Axis Multi-Asset Active FOF NFO on NSE MF Invest Platform
 ---
 

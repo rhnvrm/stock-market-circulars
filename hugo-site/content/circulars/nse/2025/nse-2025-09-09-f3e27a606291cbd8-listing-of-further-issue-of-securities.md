@@ -26,11 +26,10 @@ source: nse
 stocks:
 - PATTECH
 tags:
+- emerge-platform
+- equity
 - listing
 - preferential-issue
-- sme-emerge
-- equity-shares
-- pattech
 title: Listing of further issue of securities - Pattech Fitwell Tube Components Limited
 ---
 

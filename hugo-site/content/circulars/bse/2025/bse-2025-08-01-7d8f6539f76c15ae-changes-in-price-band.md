@@ -33,7 +33,7 @@ stocks:
 - ATHARV
 - BROOKS
 - CARGOSOL
-- COUNTRYCONDOS
+- COUNCODOS
 - CREATIVE
 - CYBELE
 - DAVIN
@@ -52,9 +52,9 @@ stocks:
 - HIGHENERGY
 - HIRA
 - HYBRID
-- IGCINDUSTRIES
+- IGCIL
 - INDIANLINK
-- ISF
+- ISFL
 - JHAVERI
 - KANDR
 - KAYPOWER
@@ -92,12 +92,12 @@ stocks:
 - VIKRAM
 - VINNY
 - VIVID
-- VRWOODART
+- VRWODAR
 tags:
+- equity
 - price-band
-- trading-limits
 - surveillance
-- equity-segment
+- trading-operations
 title: Price Band Revisions for 68 Securities Effective August 4, 2025
 ---
 

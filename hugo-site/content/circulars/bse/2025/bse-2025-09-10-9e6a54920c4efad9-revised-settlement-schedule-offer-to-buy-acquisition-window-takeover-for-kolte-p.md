@@ -26,11 +26,11 @@ source: bse
 stocks:
 - KOLTEPATIL
 tags:
-- takeover
-- settlement-schedule
-- acquisition-window
 - demat-shares
 - early-pay-in
+- otb
+- settlement
+- takeover
 title: Revised Settlement Schedule for KOLTE-PATIL DEVELOPERS LTD Takeover Offer
 ---
 

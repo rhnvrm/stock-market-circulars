@@ -27,10 +27,10 @@ stocks:
 - AKARACAP
 tags:
 - debt-securities
-- listing
-- private-placement
-- debentures
 - icra-rating
+- listing
+- ncd
+- private-placement
 title: Listing of new debt securities of Akara Capital Advisors Private Limited
 ---
 

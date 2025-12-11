@@ -34,11 +34,9 @@ stocks:
 - MIPCO
 - ACEDUTREND
 tags:
-- gsm
+- market-operations
 - surveillance
-- esm
 - trading-restrictions
-- market-regulation
 title: 'GSM Stage Changes: 9 Securities Moving Across Surveillance Framework Stages'
 ---
 

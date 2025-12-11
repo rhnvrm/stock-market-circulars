@@ -25,13 +25,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: high
 source: bse
 stocks:
-- TATAMOTORS
+- TMCV
 tags:
 - cross-margin
-- demerger
 - derivatives
-- risk-management
 - portfolio-adjustment
+- risk-management
+- scheme-of-arrangement
 - spread-margin
 title: Adjustment in Cross Margin Weightages on Account of Demerger in Tata Motors
   Limited

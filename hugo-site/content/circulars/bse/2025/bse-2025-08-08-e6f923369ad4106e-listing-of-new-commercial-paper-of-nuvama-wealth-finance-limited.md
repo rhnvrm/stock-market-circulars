@@ -26,10 +26,10 @@ stocks:
 - NWFL
 tags:
 - commercial-paper
-- debt-listing
+- debt-securities
+- demat
 - nuvama-wealth
 - private-placement
-- dematerialised-trading
 title: Listing of new Commercial Paper of Nuvama Wealth Finance Limited
 ---
 

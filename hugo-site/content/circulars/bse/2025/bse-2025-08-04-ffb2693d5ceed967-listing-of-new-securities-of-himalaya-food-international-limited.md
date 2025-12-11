@@ -23,12 +23,12 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: low
 source: bse
 stocks:
-- '526899'
+- HFIL
 tags:
-- new-listing
-- rights-issue
-- equity-shares
+- equity
 - himalaya-food
+- listing
+- rights-issue
 title: Listing of New Securities of HIMALAYA FOOD INTERNATIONAL LIMITED
 ---
 

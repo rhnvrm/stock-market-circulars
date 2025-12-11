@@ -26,8 +26,8 @@ source: bse
 stocks:
 - BHARATSEAT
 - BINNYMILLS
-- BLTLOGISTICS
-- CRYOGENICOGS
+- BLT
+- CRYOGENIC
 - GUJCREDITCORP
 - HARSHILAGRO
 - PARKERAGRO
@@ -41,13 +41,12 @@ stocks:
 - KAUSHALYAINFRA
 - KISAANPARIV
 - NTCIND
-- ROYALSENSE
+- ROYAL
 tags:
+- asm-stage
+- market-operations
 - surveillance
-- st-asm
-- additional-surveillance-measure
 - trading-restrictions
-- market-regulation
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

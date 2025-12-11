@@ -26,7 +26,7 @@ severity: medium
 source: bse
 stocks:
 - ARCLORG
-- E-LAND
+- ELAND
 - GEPOWER
 - JHANDEWALAS
 - MAESTROS
@@ -34,7 +34,7 @@ stocks:
 - PIONEERINV
 - SIZEMASTERS
 - VASUNDHARA
-- VIVIDmerc
+- VIVIDMERC
 - WELCURE
 - AANNAVFASH
 - KUNSTSTOF
@@ -43,12 +43,9 @@ stocks:
 - VANTABIO
 - INFINITYINF
 tags:
+- asm-stage
 - surveillance
-- st-asm
-- additional-surveillance-measure
-- short-term-asm
 - trading-restrictions
-- market-surveillance
 title: Applicability of Short Term Additional Surveillance Measure (ST-ASM)
 ---
 

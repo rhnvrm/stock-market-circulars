@@ -32,15 +32,11 @@ stocks:
 - SOUTHERN
 - UNJHA
 tags:
-- st-asm
+- asm-stage
+- market-operations
+- risk-management
 - surveillance
 - trading-restrictions
-- market-safety
-- risk-management
-- ABANS
-- DATAMATICS
-- IEX
-- MAESTROS
 title: Short Term Additional Surveillance Measure (ST-ASM) Framework Updates
 ---
 

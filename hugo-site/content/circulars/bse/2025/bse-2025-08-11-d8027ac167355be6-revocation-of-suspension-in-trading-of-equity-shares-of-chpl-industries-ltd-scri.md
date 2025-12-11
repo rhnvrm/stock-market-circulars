@@ -24,13 +24,13 @@ rss_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 severity: medium
 source: bse
 stocks:
-- '539335'
+- CHPLIND
 tags:
-- suspension-revocation
-- trading-resumption
-- name-change
 - infrastructure
+- name-change
 - real-estate
+- release
+- trading-resumption
 title: 'Revocation of Suspension in trading of equity shares of CHPL Industries Ltd.
   (Scrip Code: 539335)'
 ---

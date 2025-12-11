@@ -35,7 +35,6 @@ stocks:
 - SAIL
 - BLUEJET
 - IRCON
-- NIITLTD
 - VEDL
 - FINOLEXIND
 - HFCL
@@ -47,11 +46,10 @@ stocks:
 - VTL
 - SUPRAJIT
 tags:
-- dividend
+- book-closure
 - corporate-action
+- dividend
 - record-date
-- ex-date
-- shut-period
 title: Corporate Action Schedule for Multiple Securities - Dividend Declarations
 ---
 
