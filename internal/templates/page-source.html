@@ -21,10 +21,14 @@
   <header>
     <h1><a href="/">Stock Market Circulars</a></h1>
     <nav>
-      <a href="/">Home</a>
+      <a href="/">Recent</a>
+      <a href="/circulars/">All</a>
       <a href="/circulars/nse/">NSE</a>
       <a href="/circulars/bse/">BSE</a>
       <a href="/circulars/sebi/">SEBI</a>
+      <a href="/tags/">Tags</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/feeds/">RSS</a>
       <a href="/search">Search</a>
     </nav>
   </header>
@@ -76,11 +80,16 @@
               {{range slice .Tags 0 2}}
               <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
               {{end}}
+              {{$stockLen := len .Stocks}}{{$tagLen := len .Tags}}
+              {{$total := add $stockLen $tagLen}}
+              {{if gt $total 4}}
+              <span class="tag-more">+{{sub $total 4}}</span>
+              {{end}}
             </div>
           </td>
           <td class="article-expand">
             <button class="expand-button"
-                    @click="expanded['{{.CircularID}}'] = !expanded['{{.CircularID}}']]"
+                    @click="expanded['{{.CircularID}}'] = !expanded['{{.CircularID}}']"
                     :class="{ 'expanded': expanded['{{.CircularID}}'] }"
                     aria-label="Expand details">›</button>
           </td>
@@ -140,6 +149,7 @@
                       <a href="{{$.BaseURL}}{{.Permalink}}" class="simple-link">{{.CircularID}}</a>
                       {{if .PDFURL}}<a href="{{.PDFURL}}" target="_blank" class="simple-link">PDF</a>{{end}}
                       {{if .RSSURL}}<a href="{{.RSSURL}}" target="_blank" class="simple-link">Source</a>{{end}}
+                      {{if .HasContent}}<a href="{{$.BaseURL}}{{.Permalink}}" class="simple-link">Analysis</a>{{end}}
                     </td>
                   </tr>
                 </table>
@@ -153,9 +163,41 @@
   </div>
 
   {{if .Pagination}}
-  <div class="pagination">
-    <span>Page {{.Pagination.CurrentPage}} of {{.Pagination.TotalPages}}</span>
-  </div>
+  {{if gt .Pagination.TotalPages 1}}
+  <nav class="pagination">
+    {{if .Pagination.HasPrev}}
+    <a href="{{.Path}}?page={{sub .Pagination.CurrentPage 1}}" class="pagination-prev">← prev</a>
+    {{else}}
+    <span class="pagination-prev disabled">← prev</span>
+    {{end}}
+
+    {{if gt .Pagination.CurrentPage 2}}
+    <a href="{{.Path}}?page=1" class="pagination-page">1</a>
+    {{if gt .Pagination.CurrentPage 3}}<span class="pagination-ellipsis">…</span>{{end}}
+    {{end}}
+
+    {{if gt .Pagination.CurrentPage 1}}
+    <a href="{{.Path}}?page={{sub .Pagination.CurrentPage 1}}" class="pagination-page">{{sub .Pagination.CurrentPage 1}}</a>
+    {{end}}
+
+    <span class="pagination-current">{{.Pagination.CurrentPage}}</span>
+
+    {{if lt .Pagination.CurrentPage .Pagination.TotalPages}}
+    <a href="{{.Path}}?page={{add .Pagination.CurrentPage 1}}" class="pagination-page">{{add .Pagination.CurrentPage 1}}</a>
+    {{end}}
+
+    {{if lt .Pagination.CurrentPage (sub .Pagination.TotalPages 1)}}
+    {{if lt .Pagination.CurrentPage (sub .Pagination.TotalPages 2)}}<span class="pagination-ellipsis">…</span>{{end}}
+    <a href="{{.Path}}?page={{.Pagination.TotalPages}}" class="pagination-page">{{.Pagination.TotalPages}}</a>
+    {{end}}
+
+    {{if .Pagination.HasNext}}
+    <a href="{{.Path}}?page={{add .Pagination.CurrentPage 1}}" class="pagination-next">next →</a>
+    {{else}}
+    <span class="pagination-next disabled">next →</span>
+    {{end}}
+  </nav>
+  {{end}}
   {{end}}
 </section>
 

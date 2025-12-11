@@ -7,8 +7,8 @@
 
   <title>{{if .Title}}{{.Title}} | {{end}}Stock Market Circulars</title>
 
-  {{if .Description}}
-  <meta name="description" content="{{.Description}}">
+  {{if .Circular.Description}}
+  <meta name="description" content="{{.Circular.Description}}">
   {{end}}
 
   <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
@@ -21,86 +21,173 @@
   <header>
     <h1><a href="/">Stock Market Circulars</a></h1>
     <nav>
-      <a href="/">Home</a>
+      <a href="/">Recent</a>
+      <a href="/circulars/">All</a>
       <a href="/circulars/nse/">NSE</a>
       <a href="/circulars/bse/">BSE</a>
       <a href="/circulars/sebi/">SEBI</a>
+      <a href="/tags/">Tags</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/feeds/">RSS</a>
       <a href="/search">Search</a>
     </nav>
   </header>
 
   <main>
 
-<article class="circular-detail">
-  <header class="circular-header">
-    <h2>{{.Circular.Title}}</h2>
-    <div class="circular-meta">
-      <span class="meta-item">
-        <strong>Source:</strong>
-        <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
-      </span>
-      <span class="meta-item">
-        <strong>Date:</strong>
-        <time datetime="{{formatDateTime .Circular.Date.Time}}">{{.Circular.Date.Time.Format "January 2, 2006"}}</time>
-      </span>
-      {{if .Circular.Category}}
-      <span class="meta-item">
-        <strong>Category:</strong>
-        <span class="tag-badge category-badge">{{.Circular.Category}}</span>
-      </span>
+<article>
+  <header class="article-header">
+    <h1>{{.Circular.Title}}</h1>
+    <div class="article-dates">
+      <div class="date-item">
+        <span class="date-label">Published:</span>
+        <time datetime="{{formatDateTime .Circular.Date.Time}}" class="date-value">{{formatDateLong .Circular.Date.Time}}</time>
+      </div>
+      {{if .Circular.Processing.ProcessedAt.Time.Year}}
+      <div class="date-item">
+        <span class="date-label">Processed:</span>
+        <time class="date-value">{{formatDateLong .Circular.Processing.ProcessedAt.Time}}</time>
+      </div>
       {{end}}
-      {{if .Circular.Impact}}
-      <span class="meta-item">
-        <strong>Impact:</strong>
-        <span class="tag-badge">{{title .Circular.Impact}}</span>
-      </span>
+    </div>
+
+    <!-- Quick Tags -->
+    <div class="article-quick-tags">
+      {{if .Circular.Source}}
+      <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
+      {{end}}
+      {{if .Circular.Category}}
+      <span class="tag-badge category-badge">{{.Circular.Category}}</span>
+      {{end}}
+      {{range slice .Circular.Stocks 0 2}}
+      <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+      {{end}}
+      {{range slice .Circular.Tags 0 2}}
+      <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
       {{end}}
     </div>
   </header>
 
+  <!-- PDF Embed Section -->
+  {{if .Circular.PDFURL}}
+  {{if hasSuffix .Circular.PDFURL ".pdf"}}
+  <div class="pdf-section">
+    <h2>PDF Document</h2>
+    <div class="pdf-container">
+      <embed src="{{.Circular.PDFURL}}" type="application/pdf" width="100%" height="600px" />
+      <p class="pdf-fallback">
+        <a href="{{.Circular.PDFURL}}" target="_blank" class="simple-link">
+          If the PDF doesn't display, click here to view it in a new tab ↗
+        </a>
+      </p>
+    </div>
+  </div>
+  {{end}}
+  {{end}}
+
+  <!-- Main Content -->
+  <div class="article-body">
   {{if .Circular.Description}}
-  <section class="circular-section">
-    <h3>Description</h3>
+    <h2>Description</h2>
     <p>{{.Circular.Description}}</p>
-  </section>
   {{end}}
 
   {{if .Circular.HTMLContent}}
-  <section class="circular-section">
-    <h3>Content</h3>
-    <div class="circular-content">
-      {{.Circular.HTMLContent | safeHTML}}
-    </div>
-  </section>
+    {{.Circular.HTMLContent | safeHTML}}
   {{end}}
 
-  {{if .Circular.Stocks}}
-  <section class="circular-section">
-    <h3>Stocks Mentioned</h3>
-    <div class="tag-container">
-      {{range .Circular.Stocks}}
-      <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
-      {{end}}
-    </div>
-  </section>
+  {{if .Circular.Justification}}
+    <h2>Impact Justification</h2>
+    <p class="justification-text">{{.Circular.Justification}}</p>
   {{end}}
+  </div>
 
-  {{if .Circular.Tags}}
-  <section class="circular-section">
-    <h3>Tags</h3>
-    <div class="tag-container">
-      {{range .Circular.Tags}}
-      <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
-      {{end}}
-    </div>
-  </section>
-  {{end}}
+  <!-- Metadata Table -->
+  <div class="metadata-section">
+    <table class="metadata-table">
+      <tbody>
+        {{if .Circular.Category}}
+        <tr>
+          <td class="metadata-label">Category</td>
+          <td class="metadata-value">
+            <span class="tag-badge category-badge">{{.Circular.Category}}</span>
+          </td>
+        </tr>
+        {{end}}
 
-  {{if .Circular.PDFURL}}
-  <section class="circular-section">
-    <p><a href="{{.Circular.PDFURL}}" target="_blank" class="pdf-link">View PDF Document</a></p>
-  </section>
-  {{end}}
+        {{if .Circular.CircularID}}
+        <tr>
+          <td class="metadata-label">Circular ID</td>
+          <td class="metadata-value">
+            <code class="circular-id">{{.Circular.CircularID}}</code>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Impact}}
+        <tr>
+          <td class="metadata-label">Impact</td>
+          <td class="metadata-value">
+            <span class="tag-badge impact-badge impact-{{lower .Circular.Impact}}">{{title .Circular.Impact}}</span>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Severity}}
+        <tr>
+          <td class="metadata-label">Severity</td>
+          <td class="metadata-value">
+            <span class="tag-badge severity-badge severity-{{lower .Circular.Severity}}">{{title .Circular.Severity}}</span>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Stocks}}
+        <tr>
+          <td class="metadata-label">Stocks</td>
+          <td class="metadata-value tag-cell">
+            {{range .Circular.Stocks}}
+            <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+            {{end}}
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Tags}}
+        <tr>
+          <td class="metadata-label">Tags</td>
+          <td class="metadata-value tag-cell">
+            {{range .Circular.Tags}}
+            <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
+            {{end}}
+          </td>
+        </tr>
+        {{end}}
+
+        <tr>
+          <td class="metadata-label">Source</td>
+          <td class="metadata-value">
+            {{if .Circular.Source}}
+            <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
+            {{end}}
+          </td>
+        </tr>
+
+        <tr>
+          <td class="metadata-label">Links</td>
+          <td class="metadata-value">
+            {{if .Circular.PDFURL}}
+            <a href="{{.Circular.PDFURL}}" target="_blank" class="simple-link">PDF Document ↗</a>
+            {{end}}
+            {{if .Circular.RSSURL}}
+            <a href="{{.Circular.RSSURL}}" target="_blank" class="simple-link">Original Source ↗</a>
+            {{end}}
+            <a href="{{.BaseURL}}{{.Path}}" class="simple-link">Permalink</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </article>
 
   </main>

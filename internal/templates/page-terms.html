@@ -1,0 +1,103 @@
+{{define "page-terms"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{.Title}} | Stock Market Circulars</title>
+
+  <meta name="description" content="{{.Description}}">
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1><a href="/">Stock Market Circulars</a></h1>
+    <nav>
+      <a href="/">Recent</a>
+      <a href="/circulars/">All</a>
+      <a href="/circulars/nse/">NSE</a>
+      <a href="/circulars/bse/">BSE</a>
+      <a href="/circulars/sebi/">SEBI</a>
+      <a href="/tags/">Tags</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/feeds/">RSS</a>
+      <a href="/search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<section>
+  <header>
+    <h1>{{.Title}}</h1>
+  </header>
+
+  <!-- Quick Links Section -->
+  <div class="taxonomy-quick-links">
+    <!-- Top 20 Most Used -->
+    <div class="taxonomy-section">
+      <h2>Most Popular {{.Title}}</h2>
+      <div class="taxonomy-grid">
+        {{range .TopByCount}}
+        <div class="taxonomy-item">
+          <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-link">
+            <span class="taxonomy-name">{{if $.IsStocks}}{{upper .Name}}{{else}}{{lower .Name}}{{end}}</span>
+            <span class="taxonomy-count">{{.Count}}</span>
+          </a>
+        </div>
+        {{end}}
+      </div>
+    </div>
+
+    <!-- Recently Updated -->
+    <div class="taxonomy-section">
+      <h2>Recently Active {{.Title}}</h2>
+      <div class="taxonomy-grid">
+        {{range .TopByRecent}}
+        <div class="taxonomy-item">
+          <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-link">
+            <span class="taxonomy-name">{{if $.IsStocks}}{{upper .Name}}{{else}}{{lower .Name}}{{end}}</span>
+            <span class="taxonomy-date">{{formatDate .LastUpdate}}</span>
+          </a>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+
+  <!-- All Items Section -->
+  <div class="taxonomy-all-section">
+    <h2>All {{.Title}} ({{.TotalCount}})</h2>
+    <div class="taxonomy-columns">
+      {{range .AllItems}}
+      <div class="taxonomy-column-item">
+        <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-column-link">
+          <span class="taxonomy-column-name">
+            {{if $.IsStocks}}<span class="stock-symbol">{{upper .Name}}</span>{{else}}{{lower .Name}}{{end}}
+          </span>
+          <span class="taxonomy-column-meta">
+            <span class="count-badge">{{.Count}}</span>
+            <time class="taxonomy-date">{{formatDate .LastUpdate}}</time>
+          </span>
+        </a>
+      </div>
+      {{end}}
+    </div>
+  </div>
+
+</section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

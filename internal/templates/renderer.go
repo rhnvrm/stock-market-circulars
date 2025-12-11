@@ -26,7 +26,11 @@ func NewRenderer() (*Renderer, error) {
 		"formatDateTime": func(t time.Time) string {
 			return t.Format("2006-01-02T15:04:05Z07:00")
 		},
+		"formatDateLong": func(t time.Time) string {
+			return t.Format("January 2, 2006")
+		},
 		"upper": strings.ToUpper,
+		"lower": strings.ToLower,
 		"title": strings.Title,
 		"truncate": func(s string, length int) string {
 			if len(s) <= length {
@@ -48,6 +52,24 @@ func NewRenderer() (*Renderer, error) {
 		},
 		"safeHTML": func(s string) template.HTML {
 			return template.HTML(s)
+		},
+		"add": func(a, b int) int {
+			return a + b
+		},
+		"sub": func(a, b int) int {
+			return a - b
+		},
+		"gt": func(a, b int) bool {
+			return a > b
+		},
+		"lt": func(a, b int) bool {
+			return a < b
+		},
+		"len": func(items []string) int {
+			return len(items)
+		},
+		"hasSuffix": func(s, suffix string) bool {
+			return strings.HasSuffix(s, suffix)
 		},
 	}
 

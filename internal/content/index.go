@@ -235,3 +235,53 @@ func slugify(s string) string {
 	s = strings.ReplaceAll(s, " ", "-")
 	return s
 }
+
+// TaxonomyStat holds statistics for a tag or stock
+type TaxonomyStat struct {
+	Name       string
+	Slug       string
+	Count      int
+	LastUpdate time.Time
+}
+
+// GetTagStats returns statistics for all tags
+func (idx *SiteIndex) GetTagStats() []TaxonomyStat {
+	idx.mu.RLock()
+	defer idx.mu.RUnlock()
+
+	stats := make([]TaxonomyStat, 0, len(idx.TagCounts))
+	for slug, count := range idx.TagCounts {
+		var lastUpdate time.Time
+		if items, ok := idx.ByTag[slug]; ok && len(items) > 0 {
+			lastUpdate = items[0].Date.Time // Items are sorted by date desc
+		}
+		stats = append(stats, TaxonomyStat{
+			Name:       slug, // For tags, slug is the display name
+			Slug:       slug,
+			Count:      count,
+			LastUpdate: lastUpdate,
+		})
+	}
+	return stats
+}
+
+// GetStockStats returns statistics for all stocks
+func (idx *SiteIndex) GetStockStats() []TaxonomyStat {
+	idx.mu.RLock()
+	defer idx.mu.RUnlock()
+
+	stats := make([]TaxonomyStat, 0, len(idx.StockCounts))
+	for slug, count := range idx.StockCounts {
+		var lastUpdate time.Time
+		if items, ok := idx.ByStock[slug]; ok && len(items) > 0 {
+			lastUpdate = items[0].Date.Time // Items are sorted by date desc
+		}
+		stats = append(stats, TaxonomyStat{
+			Name:       strings.ToUpper(slug), // Stocks display as uppercase
+			Slug:       slug,
+			Count:      count,
+			LastUpdate: lastUpdate,
+		})
+	}
+	return stats
+}

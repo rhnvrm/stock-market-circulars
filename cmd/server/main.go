@@ -6,6 +6,8 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"sort"
+	"strconv"
 	"strings"
 	"time"
 
@@ -97,7 +99,8 @@ func main() {
 
 	// Routes - Minimal MVP
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
-		result := idx.Query(content.QueryOptions{Page: 1, PageSize: 50})
+		page := getPage(r)
+		result := idx.Query(content.QueryOptions{Page: page, PageSize: 50})
 
 		// Load full circulars for template
 		circulars := make([]*models.Circular, 0, len(result.Items))
@@ -119,6 +122,8 @@ func main() {
 			"Pagination": map[string]interface{}{
 				"CurrentPage": result.Page,
 				"TotalPages":  result.TotalPages,
+				"HasPrev":     result.HasPrev,
+				"HasNext":     result.HasNext,
 			},
 		}
 
@@ -128,11 +133,51 @@ func main() {
 		}
 	})
 
+	// All circulars page (must be before {source} route)
+	r.Get("/circulars/", func(w http.ResponseWriter, r *http.Request) {
+		page := getPage(r)
+		result := idx.Query(content.QueryOptions{
+			Page:     page,
+			PageSize: 50,
+		})
+
+		// Load full circulars for template
+		circulars := make([]*models.Circular, 0, len(result.Items))
+		for _, summary := range result.Items {
+			circular, err := loader.LoadFull(summary.FilePath)
+			if err != nil {
+				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
+				continue
+			}
+			circulars = append(circulars, circular)
+		}
+
+		data := map[string]interface{}{
+			"Title":      "All Circulars",
+			"BaseURL":    baseURL,
+			"Path":       "/circulars/",
+			"TotalCount": result.Total,
+			"Circulars":  circulars,
+			"Pagination": map[string]interface{}{
+				"CurrentPage": result.Page,
+				"TotalPages":  result.TotalPages,
+				"HasPrev":     result.HasPrev,
+				"HasNext":     result.HasNext,
+			},
+		}
+
+		if err := tmplRenderer.Render(w, "page-all", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
 	r.Get("/circulars/{source}/", func(w http.ResponseWriter, r *http.Request) {
 		source := chi.URLParam(r, "source")
+		page := getPage(r)
 		result := idx.Query(content.QueryOptions{
 			Source:   source,
-			Page:     1,
+			Page:     page,
 			PageSize: 50,
 		})
 
@@ -156,10 +201,222 @@ func main() {
 			"Pagination": map[string]interface{}{
 				"CurrentPage": result.Page,
 				"TotalPages":  result.TotalPages,
+				"HasPrev":     result.HasPrev,
+				"HasNext":     result.HasNext,
 			},
 		}
 
 		if err := tmplRenderer.Render(w, "page-source", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
+	// Tags listing page
+	r.Get("/tags/", func(w http.ResponseWriter, r *http.Request) {
+		stats := idx.GetTagStats()
+
+		// Sort by count for top by count
+		topByCount := make([]content.TaxonomyStat, len(stats))
+		copy(topByCount, stats)
+		sort.Slice(topByCount, func(i, j int) bool {
+			return topByCount[i].Count > topByCount[j].Count
+		})
+		if len(topByCount) > 20 {
+			topByCount = topByCount[:20]
+		}
+
+		// Sort by recent activity
+		topByRecent := make([]content.TaxonomyStat, len(stats))
+		copy(topByRecent, stats)
+		sort.Slice(topByRecent, func(i, j int) bool {
+			return topByRecent[i].LastUpdate.After(topByRecent[j].LastUpdate)
+		})
+		if len(topByRecent) > 20 {
+			topByRecent = topByRecent[:20]
+		}
+
+		// Sort alphabetically for all items
+		allItems := make([]content.TaxonomyStat, len(stats))
+		copy(allItems, stats)
+		sort.Slice(allItems, func(i, j int) bool {
+			return allItems[i].Name < allItems[j].Name
+		})
+
+		data := map[string]interface{}{
+			"Title":       "Tags",
+			"Description": "Browse all tags for stock market circulars",
+			"BaseURL":     baseURL,
+			"Path":        "/tags/",
+			"BasePath":    "/tags/",
+			"IsStocks":    false,
+			"TotalCount":  len(stats),
+			"TopByCount":  topByCount,
+			"TopByRecent": topByRecent,
+			"AllItems":    allItems,
+		}
+
+		if err := tmplRenderer.Render(w, "page-terms", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
+	// Tag-specific page
+	r.Get("/tags/{tag}/", func(w http.ResponseWriter, r *http.Request) {
+		tag := chi.URLParam(r, "tag")
+		page := getPage(r)
+		result := idx.Query(content.QueryOptions{
+			Tag:      tag,
+			Page:     page,
+			PageSize: 50,
+		})
+
+		if result.Total == 0 {
+			http.NotFound(w, r)
+			return
+		}
+
+		// Load full circulars for template
+		circulars := make([]*models.Circular, 0, len(result.Items))
+		for _, summary := range result.Items {
+			circular, err := loader.LoadFull(summary.FilePath)
+			if err != nil {
+				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
+				continue
+			}
+			circulars = append(circulars, circular)
+		}
+
+		data := map[string]interface{}{
+			"Title":       fmt.Sprintf("Tag: %s", tag),
+			"Description": fmt.Sprintf("Circulars tagged with %s", tag),
+			"BaseURL":     baseURL,
+			"Path":        fmt.Sprintf("/tags/%s/", tag),
+			"FeedURL":     fmt.Sprintf("/tags/%s/feed.xml", tag),
+			"TotalCount":  result.Total,
+			"Circulars":   circulars,
+			"Pagination": map[string]interface{}{
+				"CurrentPage": result.Page,
+				"TotalPages":  result.TotalPages,
+				"HasPrev":     result.HasPrev,
+				"HasNext":     result.HasNext,
+			},
+		}
+
+		if err := tmplRenderer.Render(w, "page-taxonomy", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
+	// Stocks listing page
+	r.Get("/stocks/", func(w http.ResponseWriter, r *http.Request) {
+		stats := idx.GetStockStats()
+
+		// Sort by count for top by count
+		topByCount := make([]content.TaxonomyStat, len(stats))
+		copy(topByCount, stats)
+		sort.Slice(topByCount, func(i, j int) bool {
+			return topByCount[i].Count > topByCount[j].Count
+		})
+		if len(topByCount) > 20 {
+			topByCount = topByCount[:20]
+		}
+
+		// Sort by recent activity
+		topByRecent := make([]content.TaxonomyStat, len(stats))
+		copy(topByRecent, stats)
+		sort.Slice(topByRecent, func(i, j int) bool {
+			return topByRecent[i].LastUpdate.After(topByRecent[j].LastUpdate)
+		})
+		if len(topByRecent) > 20 {
+			topByRecent = topByRecent[:20]
+		}
+
+		// Sort alphabetically for all items
+		allItems := make([]content.TaxonomyStat, len(stats))
+		copy(allItems, stats)
+		sort.Slice(allItems, func(i, j int) bool {
+			return allItems[i].Name < allItems[j].Name
+		})
+
+		data := map[string]interface{}{
+			"Title":       "Stocks",
+			"Description": "Browse circulars by stock symbol",
+			"BaseURL":     baseURL,
+			"Path":        "/stocks/",
+			"BasePath":    "/stocks/",
+			"IsStocks":    true,
+			"TotalCount":  len(stats),
+			"TopByCount":  topByCount,
+			"TopByRecent": topByRecent,
+			"AllItems":    allItems,
+		}
+
+		if err := tmplRenderer.Render(w, "page-terms", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
+	// Stock-specific page
+	r.Get("/stocks/{stock}/", func(w http.ResponseWriter, r *http.Request) {
+		stock := strings.ToLower(chi.URLParam(r, "stock"))
+		page := getPage(r)
+		result := idx.Query(content.QueryOptions{
+			Stock:    stock,
+			Page:     page,
+			PageSize: 50,
+		})
+
+		if result.Total == 0 {
+			http.NotFound(w, r)
+			return
+		}
+
+		// Load full circulars for template
+		circulars := make([]*models.Circular, 0, len(result.Items))
+		for _, summary := range result.Items {
+			circular, err := loader.LoadFull(summary.FilePath)
+			if err != nil {
+				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
+				continue
+			}
+			circulars = append(circulars, circular)
+		}
+
+		data := map[string]interface{}{
+			"Title":       fmt.Sprintf("Stock: %s", strings.ToUpper(stock)),
+			"Description": fmt.Sprintf("Circulars mentioning %s", strings.ToUpper(stock)),
+			"BaseURL":     baseURL,
+			"Path":        fmt.Sprintf("/stocks/%s/", stock),
+			"FeedURL":     fmt.Sprintf("/stocks/%s/feed.xml", stock),
+			"TotalCount":  result.Total,
+			"Circulars":   circulars,
+			"Pagination": map[string]interface{}{
+				"CurrentPage": result.Page,
+				"TotalPages":  result.TotalPages,
+				"HasPrev":     result.HasPrev,
+				"HasNext":     result.HasNext,
+			},
+		}
+
+		if err := tmplRenderer.Render(w, "page-taxonomy", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
+	})
+
+	// Feeds info page
+	r.Get("/feeds/", func(w http.ResponseWriter, r *http.Request) {
+		data := map[string]interface{}{
+			"Title":   "RSS Feeds",
+			"BaseURL": baseURL,
+			"Path":    "/feeds/",
+		}
+
+		if err := tmplRenderer.Render(w, "page-feeds", data); err != nil {
 			log.Printf("Error rendering template: %v", err)
 			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
 		}
@@ -259,12 +516,23 @@ func main() {
 	// HTML search page
 	r.Get("/search", func(w http.ResponseWriter, r *http.Request) {
 		query := r.URL.Query().Get("q")
+		source := r.URL.Query().Get("source")
+		pageStr := r.URL.Query().Get("page")
+
+		// Parse page number
+		page := 1
+		if pageStr != "" {
+			if p, err := strconv.Atoi(pageStr); err == nil && p > 0 {
+				page = p
+			}
+		}
 
 		data := map[string]interface{}{
 			"Title":   "Search Circulars",
 			"BaseURL": baseURL,
 			"Path":    "/search",
 			"Query":   query,
+			"Source":  source,
 		}
 
 		// Show search form if no query
@@ -289,7 +557,8 @@ func main() {
 		// Perform search
 		result, err := searchSvc.Search(search.SearchOptions{
 			Query:   query,
-			Page:    1,
+			Source:  source,
+			Page:    page,
 			PerPage: 20,
 		})
 		if err != nil {
@@ -306,6 +575,10 @@ func main() {
 		data["TotalResults"] = result.Total
 		data["CurrentPage"] = result.Page
 		data["TotalPages"] = result.TotalPages
+		data["HasPrev"] = result.Page > 1
+		data["HasNext"] = result.Page < result.TotalPages
+		data["PrevPage"] = result.Page - 1
+		data["NextPage"] = result.Page + 1
 
 		if err := tmplRenderer.Render(w, "page-search", data); err != nil {
 			log.Printf("Error rendering template: %v", err)
@@ -363,4 +636,15 @@ func getEnv(key, defaultValue string) string {
 		return value
 	}
 	return defaultValue
+}
+
+// getPage extracts page number from query string
+func getPage(r *http.Request) int {
+	page := 1
+	if p := r.URL.Query().Get("page"); p != "" {
+		if parsed, err := strconv.Atoi(p); err == nil && parsed > 0 {
+			page = parsed
+		}
+	}
+	return page
 }

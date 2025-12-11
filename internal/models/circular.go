@@ -129,6 +129,11 @@ func (c *Circular) Permalink() string {
 	return fmt.Sprintf("/circulars/%s/%d/%s/", c.Source, c.Year, c.Slug)
 }
 
+// HasContent returns true if the circular has markdown body content
+func (c *Circular) HasContent() bool {
+	return strings.TrimSpace(c.RawContent) != ""
+}
+
 func (c *CircularSummary) Permalink() string {
 	return fmt.Sprintf("/circulars/%s/%d/%s/", c.Source, c.Year, c.Slug)
 }

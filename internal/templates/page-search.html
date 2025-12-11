@@ -21,10 +21,14 @@
   <header>
     <h1><a href="/">Stock Market Circulars</a></h1>
     <nav>
-      <a href="/">Home</a>
+      <a href="/">Recent</a>
+      <a href="/circulars/">All</a>
       <a href="/circulars/nse/">NSE</a>
       <a href="/circulars/bse/">BSE</a>
       <a href="/circulars/sebi/">SEBI</a>
+      <a href="/tags/">Tags</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/feeds/">RSS</a>
       <a href="/search">Search</a>
     </nav>
   </header>
@@ -38,6 +42,12 @@
 
   <form method="get" action="/search" class="search-form">
     <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" class="search-input" autofocus>
+    <select name="source" class="search-select">
+      <option value=""{{if eq .Source ""}} selected{{end}}>All Sources</option>
+      <option value="nse"{{if eq .Source "nse"}} selected{{end}}>NSE</option>
+      <option value="bse"{{if eq .Source "bse"}} selected{{end}}>BSE</option>
+      <option value="sebi"{{if eq .Source "sebi"}} selected{{end}}>SEBI</option>
+    </select>
     <button type="submit" class="search-button">Search</button>
   </form>
 
@@ -47,39 +57,54 @@
 
   {{if .Results}}
   <div class="search-results">
-    <p class="results-count">Found {{.TotalResults}} results</p>
+    <p class="search-results-info">Found {{.TotalResults}} results{{if .Source}} in {{upper .Source}}{{end}}</p>
 
     <div class="results-list">
       {{range .Results}}
       <div class="search-result-item">
-        <h3 class="result-title">
-          <a href="{{.URL}}">{{.Title}}</a>
+        <div class="result-header">
+          <h3 class="result-title">
+            <a href="{{.URL}}">{{.Title}}</a>
+          </h3>
           <span class="tag-badge source-badge">{{upper .Source}}</span>
-        </h3>
+        </div>
         <p class="result-description">{{.Description}}</p>
         {{if .Highlights}}
         <div class="result-highlights">
           {{range $field, $snippet := .Highlights}}
-          <div class="highlight">{{$snippet}}</div>
+          <div class="highlight">{{safeHTML $snippet}}</div>
           {{end}}
         </div>
         {{end}}
-        <p class="result-meta">
+        <div class="result-meta">
           <span class="result-date">{{.Date}}</span>
           {{if .Category}}<span class="tag-badge category-badge">{{.Category}}</span>{{end}}
-        </p>
+        </div>
       </div>
       {{end}}
     </div>
 
     {{if gt .TotalPages 1}}
-    <div class="pagination">
-      <span>Page {{.CurrentPage}} of {{.TotalPages}}</span>
-    </div>
+    <nav class="pagination">
+      {{if .HasPrev}}
+      <a href="/search?q={{.Query}}{{if .Source}}&source={{.Source}}{{end}}&page={{.PrevPage}}" class="pagination-prev">← prev</a>
+      {{else}}
+      <span class="pagination-prev disabled">← prev</span>
+      {{end}}
+
+      <span class="pagination-current">{{.CurrentPage}}</span>
+      <span class="pagination-info">of {{.TotalPages}}</span>
+
+      {{if .HasNext}}
+      <a href="/search?q={{.Query}}{{if .Source}}&source={{.Source}}{{end}}&page={{.NextPage}}" class="pagination-next">next →</a>
+      {{else}}
+      <span class="pagination-next disabled">next →</span>
+      {{end}}
+    </nav>
     {{end}}
   </div>
   {{else if .Query}}
-  <p class="no-results">No results found for "{{.Query}}"</p>
+  <p class="no-results">No results found for "{{.Query}}"{{if .Source}} in {{upper .Source}}{{end}}</p>
   {{end}}
 </section>
 

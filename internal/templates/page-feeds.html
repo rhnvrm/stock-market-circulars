@@ -1,0 +1,116 @@
+{{define "page-feeds"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>RSS Feeds | Stock Market Circulars</title>
+
+  <meta name="description" content="Subscribe to RSS feeds for stock market circulars from NSE, BSE, and SEBI">
+
+  <link rel="canonical" href="{{.BaseURL}}/feeds/">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1><a href="/">Stock Market Circulars</a></h1>
+    <nav>
+      <a href="/">Recent</a>
+      <a href="/circulars/">All</a>
+      <a href="/circulars/nse/">NSE</a>
+      <a href="/circulars/bse/">BSE</a>
+      <a href="/circulars/sebi/">SEBI</a>
+      <a href="/tags/">Tags</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/feeds/">RSS</a>
+      <a href="/search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<section>
+  <header>
+    <h1>RSS Feeds</h1>
+    <p>Subscribe to any of these RSS feeds to stay updated on stock market circulars.</p>
+  </header>
+
+  <div class="feeds-section">
+    <h2>Main Feeds</h2>
+    <table class="feeds-table">
+      <tbody>
+        <tr>
+          <td class="feed-name">All Circulars</td>
+          <td class="feed-description">All circulars from NSE, BSE, and SEBI</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/feed.xml" class="simple-link">feed.xml</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="feeds-section">
+    <h2>By Source</h2>
+    <table class="feeds-table">
+      <tbody>
+        <tr>
+          <td class="feed-name">NSE Circulars</td>
+          <td class="feed-description">Circulars from National Stock Exchange</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/circulars/nse/feed.xml" class="simple-link">nse/feed.xml</a>
+          </td>
+        </tr>
+        <tr>
+          <td class="feed-name">BSE Circulars</td>
+          <td class="feed-description">Circulars from Bombay Stock Exchange</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/circulars/bse/feed.xml" class="simple-link">bse/feed.xml</a>
+          </td>
+        </tr>
+        <tr>
+          <td class="feed-name">SEBI Circulars</td>
+          <td class="feed-description">Circulars from Securities and Exchange Board of India</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/circulars/sebi/feed.xml" class="simple-link">sebi/feed.xml</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="feeds-section">
+    <h2>By Tag</h2>
+    <p>You can also subscribe to feeds for specific tags. The URL format is:</p>
+    <pre class="feed-format">{{.BaseURL}}/tags/{tag-name}/feed.xml</pre>
+    <p>For example: <a href="{{.BaseURL}}/tags/trading/feed.xml" class="simple-link">trading feed</a></p>
+  </div>
+
+  <div class="feeds-section">
+    <h2>RSS Feed Format</h2>
+    <p>All feeds follow the RSS 2.0 specification and include custom namespace elements for circular-specific metadata:</p>
+    <ul>
+      <li><code>circular:source</code> - Exchange (NSE, BSE, SEBI)</li>
+      <li><code>circular:category</code> - Regulatory category</li>
+      <li><code>circular:impact</code> - Impact level</li>
+      <li><code>circular:severity</code> - Severity level</li>
+      <li><code>circular:id</code> - Unique circular ID</li>
+      <li><code>circular:pdfUrl</code> - Link to PDF document</li>
+      <li><code>circular:stock</code> - Related stock symbols</li>
+    </ul>
+  </div>
+
+</section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}
