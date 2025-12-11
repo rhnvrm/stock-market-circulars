@@ -18,10 +18,10 @@ regenerate *args:
 
 # Development Commands
 
-# Start Go development server
+# Start Go development server (port 9999 by default to avoid conflicts)
 serve:
-    @echo "🌐 Starting Go development server..."
-    go run cmd/server/main.go
+    @echo "🌐 Starting Go development server on :9999..."
+    ADDR=:9999 BASE_URL=http://localhost:9999 go run cmd/server/main.go
 
 # Build Go server binary for production
 build:
@@ -120,6 +120,6 @@ typesense-logs:
 
 # Run Go server with Typesense
 serve-with-search:
-    @echo "🌐 Starting Go server with Typesense search..."
-    TYPESENSE_API_KEY=stock-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
+    @echo "🌐 Starting Go server with Typesense search on :9999..."
+    ADDR=:9999 BASE_URL=http://localhost:9999 TYPESENSE_API_KEY=stock-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
 
