@@ -1,0 +1,1356 @@
+# Tag normalization rules for stock market circulars
+# Format: canonical_tag: [aliases_to_merge]
+#
+# GOAL: Consolidate and deduplicate tags - NOT remove useful ones
+# We only remove tags that are clearly data values, not categories
+
+# Patterns to remove entirely (only truly invalid data-like entries)
+remove_patterns:
+  - '^\d{5,6}$'           # Numeric scrip codes like 532310, 544457 (pure numbers)
+  - '^Scrip Code:.*$'     # Scrip code with prefix
+  - '^Scrip ID:.*$'       # Scrip ID with prefix
+  - '^ISIN:.*$'           # ISIN prefixed entries (data, not category)
+  - '^Quantity:.*$'       # Quantity details
+  - '^Face Value:.*$'     # Face value entries
+  - '^Interest Rate:.*$'  # Interest rate details
+  - '^Credit Rating:.*$'  # Rating details
+  - '^Maturity Date:.*$'  # Maturity details (specific dates)
+  - '^Number of Units:.*$'  # Unit count entries
+  - '^Issue Price:.*$'    # Price entries
+  - '^Issue price:.*$'    # Price entries (lowercase variant)
+  - '^\d+,?\d* equity shares.*$'  # Share quantity entries like "39,777,247 equity shares"
+  - '^\d+,?\d* units.*$'  # Unit quantity entries
+  - '^Rs\.? \d+.*$'       # Rupee amount entries
+
+# Tag merge rules: canonical -> [aliases]
+merge_rules:
+  # ==========================================================================
+  # DEBT INSTRUMENTS
+  # ==========================================================================
+
+  # Debentures/NCDs cluster (2500+ instances)
+  ncd:
+    - ncds
+    - non-convertible-debentures
+    - non-convertible-debenture
+    - debenture
+    - debentures
+    - secured-debentures
+    - unsecured-debentures
+    - secured-ncds
+    - unsecured-ncds
+    - ncd-listing
+    - ncd-redemption
+    - ncd-transfer
+
+  # Debt Securities cluster (5400+ instances)
+  debt-securities:
+    - debt
+    - debt-segment
+    - debt-market
+    - debt-instruments
+    - debt-listing
+    - debt-fund
+    - debt-funds
+    - debt-trading
+    - debt-conversion
+    - debt-redemption
+
+  # Commercial Paper
+  commercial-paper:
+    - cp
+    - commercial-papers
+    - cp-listing
+    - cp-redemption
+
+  # Short-term debt
+  short-term-debt:
+    - short-term-debt-securities
+
+  # Bonds
+  bond:
+    - bonds
+    - secured-bonds
+    - corporate-bond
+    - corporate-bonds
+    - tax-free-bonds
+
+  # Government Securities
+  gsec:
+    - gsecs
+    - government-securities
+    - government-security
+    - g-sec
+    - government-bond
+    - government-bonds
+    - sovereign-bond
+    - sovereign-bonds
+
+  # ==========================================================================
+  # EQUITY & LISTINGS
+  # ==========================================================================
+
+  # Equity cluster (3400+ instances)
+  equity:
+    - equity-shares
+    - equity-share
+    - equities
+    - equity-listing
+    - equity-segment
+    - equity-fund
+    - equity-funds
+    - equity-trading
+    - equity-allotment
+    - equity-market
+
+  # Listing (3300+ instances)
+  listing:
+    - new-listing
+    - new-listings
+    - ipo-listing
+    - stock-listing
+    - securities-listing
+    - listing-compliance
+    - listing-update
+
+  # IPO
+  ipo:
+    - initial-public-offering
+    - initial-public-offer
+    - public-offer
+    - public-offering
+    - ipo-allotment
+
+  # New Securities
+  new-securities:
+    - new-shares
+    - new-issue
+
+  # ==========================================================================
+  # CORPORATE ACTIONS
+  # ==========================================================================
+
+  # Corporate Actions (2300+ instances)
+  corporate-action:
+    - corporate-actions
+    - corporate-event
+    - corporate-events
+    - corporate-announcement
+    - corporate-conversion
+
+  # Dividend
+  dividend:
+    - dividends
+    - interim-dividend
+    - final-dividend
+    - dividend-announcement
+
+  # Bonus
+  bonus:
+    - bonus-issue
+    - bonus-issues
+    - bonus-shares
+
+  # Split
+  split:
+    - stock-split
+    - share-split
+    - sub-division
+    - subdivision
+
+  # Rights Issue
+  rights-issue:
+    - rights-issues
+    - rights-offering
+    - rights
+    - rights-entitlement
+    - rights-entitlements
+
+  # Buyback
+  buyback:
+    - buy-back
+    - share-buyback
+    - buybacks
+
+  # Redemption (1800+ instances)
+  redemption:
+    - redemptions
+    - part-redemption
+    - partial-redemption
+    - early-redemption
+    - maturity-redemption
+    - subscription-redemption
+
+  # ==========================================================================
+  # TRADING & MARKET OPERATIONS
+  # ==========================================================================
+
+  # Trading cluster (2500+ instances)
+  trading:
+    - trade
+    - trading-segment
+    - trading-update
+    - trading-settlement
+    - trading-change
+    - trading-compliance
+    - trading-requirements
+    - trading-transfer
+
+  # Trading Members
+  trading-member:
+    - trading-members
+
+  # Suspension (1200+ instances)
+  suspension:
+    - trading-suspension
+    - suspended
+    - trade-suspension
+    - subscription-suspension
+    - debt-suspension
+    - isin-suspension
+
+  # Trading Restrictions
+  trading-restrictions:
+    - trading-restriction
+    - settlement-restrictions
+
+  # Surveillance (2600+ instances)
+  surveillance:
+    - additional-surveillance
+    - additional-surveillance-measure
+    - additional-surveillance-measures
+    - esm
+    - enhanced-surveillance-measure
+    - enhanced-surveillance
+    - gsm
+    - graded-surveillance-measure
+    - graded-surveillance
+    - asm
+    - market-surveillance
+    - surveillance-segment
+    - surveillance-action
+
+  # Settlement
+  settlement:
+    - settlements
+    - trade-settlement
+    - settlement-schedule
+    - rolling-settlement
+    - auction-settlement
+    - clearing-settlement
+    - demat-settlement
+    - securities-settlement
+
+  # T+1 Settlement
+  t1-settlement:
+    - t+1-settlement
+    - t1-settlement
+
+  # T+0 Settlement
+  t0-settlement:
+    - t+0-settlement
+
+  # ==========================================================================
+  # FUNDS & INVESTMENT VEHICLES
+  # ==========================================================================
+
+  # Mutual Funds (1200+ instances)
+  mutual-fund:
+    - mutual-funds
+    - mf
+    - bse-star-mf
+
+  # SIP
+  sip:
+    - systematic-investment-plan
+    - daily-sip
+    - weekly-sip
+    - monthly-sip
+    - sip-restrictions
+
+  # NFO
+  nfo:
+    - new-fund-offer
+    - new-fund-offers
+    - nfo-reopening
+
+  # ETF
+  etf:
+    - exchange-traded-fund
+    - exchange-traded-funds
+    - etfs
+    - etf-listing
+
+  # Fund of Funds
+  fund-of-funds:
+    - fund-of-fund
+    - fof
+
+  # Index Funds
+  index-fund:
+    - index-funds
+    - index
+
+  # REIT
+  reit:
+    - reits
+    - real-estate-investment-trust
+
+  # InvIT
+  invit:
+    - invits
+    - infrastructure-investment-trust
+
+  # ==========================================================================
+  # ISSUANCES & ALLOTMENTS
+  # ==========================================================================
+
+  # Preferential Issue (900+ instances)
+  preferential-issue:
+    - preferential-allotment
+    - preferential-issues
+    - preferential
+
+  # Private Placement
+  private-placement:
+    - private-placements
+    - privately-placed-securities
+    - pp
+
+  # QIP
+  qip:
+    - qualified-institutional-placement
+    - qualified-institutional-placements
+
+  # Public Issue
+  public-issue:
+    - public-announcement
+    - public-conversion
+
+  # Warrant
+  warrant:
+    - warrants
+    - warrant-conversion
+    - warrant-exercise
+
+  # Anchor Investors
+  anchor-investor:
+    - anchor-investors
+
+  # Promoter
+  promoter:
+    - promoter-allotment
+    - promoter-shares
+    - promoter-issue
+    - promoter-offer
+    - promoter-restrictions
+    - promoter-compliance
+    - promoter-action
+
+  # Partly Paid Shares
+  partly-paid:
+    - partly-paid-shares
+    - partly-paid-conversion
+
+  # ==========================================================================
+  # COMPLIANCE & REGULATORY
+  # ==========================================================================
+
+  # Compliance
+  compliance:
+    - regulatory-compliance
+    - sebi-compliance
+    - exchange-compliance
+    - compliance-notice
+    - compliance-action
+    - compliance-update
+    - listing-compliance
+    - sme-compliance
+    - trading-compliance
+    - disclosure-compliance
+    - promoter-compliance
+
+  # SEBI
+  sebi:
+    - sebi-circular
+    - sebi-compliance
+    - sebi-action
+
+  # RBI
+  rbi:
+    - rbi-circular
+
+  # Enforcement
+  enforcement:
+    - enforcement-action
+    - enforcement-actions
+
+  # Regulatory
+  regulatory:
+    - regulatory-action
+    - regulatory-actions
+    - regulatory-requirement
+    - regulatory-requirements
+    - regulatory-update
+    - regulatory-change
+    - regulatory-transparency
+    - regulatory-clarifications
+
+  # Disclosure
+  disclosure:
+    - disclosures
+    - disclosure-requirements
+    - disclosure-compliance
+
+  # Circular/Notice
+  circular:
+    - circulars
+    - notice
+    - notices
+    - notification
+    - notifications
+
+  # Clarification
+  clarification:
+    - clarifications
+
+  # ==========================================================================
+  # MARKET STRUCTURE
+  # ==========================================================================
+
+  # SME
+  sme:
+    - sme-platform
+    - sme-exchange
+    - sme-emerge
+    - sme-ipo
+    - sme-segment
+    - sme-compliance
+
+  # Capital Market
+  capital-market:
+    - capital-markets
+    - capital-issue
+    - capital-requirements
+
+  # Derivatives
+  derivatives:
+    - derivatives-trading
+    - equity-derivative
+    - equity-derivatives
+    - commodity-derivative
+    - commodity-derivatives
+    - currency-derivatives
+    - currency-derivatives-segment
+
+  # Options
+  options:
+    - options-trading
+
+  # Rolling Segment
+  rolling-segment:
+    - rolling-settlement
+
+  # Trade for Trade
+  trade-for-trade:
+    - t2t
+    - t-2-t
+
+  # ==========================================================================
+  # CORPORATE EVENTS
+  # ==========================================================================
+
+  # Takeover
+  takeover:
+    - takeovers
+    - acquisition
+    - acquisitions
+    - open-offer
+    - takeover-offer
+    - takeover-violations
+
+  # Tender Offer
+  tender-offer:
+    - tender-period
+
+  # Auction
+  auction:
+    - auction-securities
+    - auction-market
+
+  # Group Change
+  group-change:
+    - group-transfer
+
+  # Segment Transfer
+  segment-transfer:
+    - segment-change
+
+  # Face Value
+  face-value-reduction:
+    - face-value-change
+
+  # ==========================================================================
+  # INVESTOR & MEMBER RELATED
+  # ==========================================================================
+
+  # Investor Protection
+  investor-protection:
+    - investor-protection-fund
+
+  # Membership
+  membership:
+    - membership-requirements
+
+  # Defaulter
+  defaulter:
+    - defaulter-payment
+    - defaulter-notice
+    - defaulter-broker
+
+  # Clearing
+  clearing:
+    - clearing-settlement
+    - clearing-member
+
+  # ==========================================================================
+  # RECORDS & DATES
+  # ==========================================================================
+
+  # Record Date
+  record-date:
+    - record-dates
+    - ex-date
+
+  # Lock-in
+  lock-in:
+    - lock-in-period
+    - lock-in-requirements
+    - lock-in-shares
+    - lockin
+
+  # Interest Payment
+  interest-payment:
+    - interest-payments
+    - coupon-payment
+
+  # ==========================================================================
+  # SECURITIES & ISIN
+  # ==========================================================================
+
+  # ISIN
+  isin:
+    - isin-code
+    - isin-number
+    - isin-change
+
+  # Securities
+  securities:
+    - securities-trading
+    - securities-market
+
+  # SLB (Securities Lending & Borrowing)
+  slb:
+    - slb-securities
+    - slb-segment
+
+  # Demat
+  demat:
+    - demat-shares
+    - demat-trading
+
+  # ==========================================================================
+  # EMPLOYEE SCHEMES
+  # ==========================================================================
+
+  # ESOP
+  esop:
+    - employee-stock-options
+    - employee-stock-option
+    - esos
+    - employee-stock-plan
+    - employee-stock-plans
+    - esop-listing
+
+  # ==========================================================================
+  # MARGIN & RISK
+  # ==========================================================================
+
+  # Margin
+  margin:
+    - margin-requirements
+    - margin-requirement
+    - margin-trading
+
+  # Price Band
+  price-band:
+    - price-bands
+
+  # Risk Management
+  risk-management:
+    - risk
+
+  # ==========================================================================
+  # PUBLIC COMMENTS
+  # ==========================================================================
+
+  public-comments:
+    - public-comment
+
+  # ==========================================================================
+  # SUBSCRIPTIONS
+  # ==========================================================================
+
+  subscription:
+    - subscriptions
+    - subscription-period
+
+  # ==========================================================================
+  # ADDITIONAL MERGES FROM ANALYSIS
+  # ==========================================================================
+
+  # OFS (Offer for Sale) - 170+ instances combined
+  ofs:
+    - offer-for-sale
+
+  # OTB (Offer to Buy) - 389+ instances combined
+  otb:
+    - offer-to-buy
+    - acquisition-window
+    - otb-module
+    - otb-platform
+
+  # ASM categories - merge into surveillance
+  # Already covered by surveillance rules above
+
+  # Treasury Bills - 338+ instances combined
+  treasury-bills:
+    - t-bills
+    - tbills
+
+  # STP (Straight Through Processing)
+  stp:
+    - straight-through-processing
+
+  # SWP (Systematic Withdrawal Plan)
+  swp:
+    - systematic-withdrawal-plan
+
+  # Maturity
+  maturity:
+    - maturity-date
+
+  # Mock Trading
+  mock-trading:
+    - testing
+    - system-testing
+    - mock-session
+
+  # Name Change
+  name-change:
+    - company-name-change
+    - scheme-name-change
+    - symbol-change
+    - nomenclature-change
+
+  # Recovery
+  recovery:
+    - recovery-certificate
+    - recovery-proceedings
+    - recovery-order
+    - debt-recovery
+    - recovery-notice
+
+  # IBC/Insolvency
+  insolvency:
+    - ibc
+    - insolvency-bankruptcy-code
+    - bankruptcy
+    - bankruptcy-code
+    - corporate-insolvency
+
+  # Book Closure
+  book-closure:
+    - shut-period
+
+  # Scheme of Arrangement
+  scheme-of-arrangement:
+    - amalgamation
+    - demerger
+    - merger
+    - spin-off
+    - company-restructuring
+    - corporate-restructuring
+
+  # Delisting
+  delisting:
+    - voluntary-delisting
+    - compulsory-delisting
+
+  # Penalty
+  penalty:
+    - penalties
+    - penalty-recovery
+    - penalty-report
+    - penalty-collection
+
+  # SEBI Order
+  sebi-order:
+    - sebi-directions
+    - sebi-directive
+    - sebi-approval
+
+  # Futures & Options
+  futures-options:
+    - futures-and-options
+    - futures
+    - f-and-o
+    - fno
+
+  # Index related
+  index-change:
+    - index-addition
+    - index-additions
+    - index-inclusion
+    - index-exclusion
+    - index-changes
+    - index-rebalancing
+    - index-reconstitution
+    - rebalancing
+
+  # Trading Session
+  trading-session:
+    - trading-schedule
+    - trading-calendar
+    - trading-hours
+    - trading-halt
+    - trading-resumption
+    - pre-open-session
+
+  # Position Limits
+  position-limits:
+    - mwpl
+    - market-wide-limits
+    - market-wide-position-limit
+
+  # Encumbrance/Pledge
+  encumbrance:
+    - pledge
+    - re-pledge
+    - promoter-pledging
+    - promoter-pledge
+    - promoter-encumbrance
+
+  # Contract Adjustment
+  contract-adjustment:
+    - dividend-adjustment
+    - price-adjustment
+
+  # Adjudication
+  adjudication:
+    - adjudication-order
+
+  # Algorithmic Trading
+  algo-trading:
+    - algorithmic-trading
+    - algo-provider
+    - api-trading
+
+  # Gold/Silver
+  gold:
+    - gold-etf
+    - gold-futures
+    - sovereign-gold-bond
+    - sovereign-gold-bonds
+
+  silver:
+    - silver-etf
+    - silver-fund
+
+  # Electronic Gold Receipts
+  egr:
+    - electronic-gold-receipts
+    - egr-segment
+
+  # Disaster Recovery
+  disaster-recovery:
+    - business-continuity
+
+  # Research Analyst
+  research-analyst:
+    - research-analysts
+
+  # Investment Adviser
+  investment-adviser:
+    - investment-advisers
+    - investment-advisor
+    - investment-advisors
+    - investment-advisory
+
+  # Retail Investors
+  retail-investor:
+    - retail-investors
+
+  # Institutional Investors
+  institutional-investor:
+    - institutional-investors
+    - institutional-trading
+    - institutional-limits
+
+  # Shareholding Pattern
+  shareholding-pattern:
+    - promoter-holding
+    - promoter-holdings
+    - promoter-shareholding
+    - public-shareholding
+    - public-holding
+    - public-shareholders
+    - non-promoter
+    - non-promoters
+    - promoters
+
+  # KYC
+  kyc:
+    - kra
+    - client-onboarding
+
+  # Liquid Fund
+  liquid-fund:
+    - liquid-funds
+    - overnight-fund
+    - liquid-assets
+
+  # Non-compliance
+  non-compliance:
+    - compliance-violation
+    - compliance-violations
+    - compliance-failure
+    - regulatory-violation
+    - regulatory-violations
+
+  # Inspection/Investigation
+  investigation:
+    - inspection
+    - market-manipulation
+    - insider-trading
+    - front-running
+    - fraudulent-trading
+    - fraudulent-practices
+
+  # Attachment (recovery)
+  attachment:
+    - attachment-notice
+    - attachment-order
+    - attachment-proceedings
+    - bank-attachment
+    - bank-account-attachment
+    - demat-account-attachment
+    - demat-attachment
+
+  # Appeal
+  appeal:
+    - sat-order
+    - appeal-dismissed
+    - appellate-authority
+
+  # Depository
+  depository:
+    - depositories
+    - nsdl
+    - cdsl
+    - depository-system
+    - depository-participants
+
+  # Stock Broker
+  stock-broker:
+    - stock-brokers
+    - stockbrokers
+    - brokers
+    - qualified-stock-brokers
+    - qsb
+
+  # RTA
+  rta:
+    - registrar-transfer-agents
+
+  # NCLT
+  nclt:
+    - nclt-order
+    - nclt-approval
+    - tribunal-order
+
+  # Cybersecurity
+  cybersecurity:
+    - cyber-security
+    - cyber-resilience
+
+  # Market Infrastructure
+  market-infrastructure:
+    - trading-infrastructure
+    - trading-platform
+    - trading-platforms
+    - trading-systems
+    - trading-system
+    - trading-technology
+    - trading-solutions
+
+  # System Updates
+  system-update:
+    - system-upgrade
+    - system-maintenance
+    - software-upgrade
+    - software-update
+    - platform-update
+    - technology-upgrade
+
+  # LODR
+  lodr:
+    - sebi-lodr
+    - lodr-regulations
+    - listing-obligations
+    - listing-regulations
+
+  # Corporate Governance
+  corporate-governance:
+    - governance
+
+  # Financial Results
+  financial-results:
+    - quarterly-results
+
+  # SAST
+  sast:
+    - sebi-sast
+    - sast-regulations
+    - sast-regulation
+    - substantial-acquisition
+
+  # ICDR
+  icdr:
+    - icdr-regulations
+
+  # Regulation numbers (keep as-is, they're useful references)
+  regulation-30:
+    - reg-30
+  regulation-31:
+    - reg-31
+  regulation-33:
+    - reg-33
+
+  # Holiday
+  holiday:
+    - trading-holiday
+    - holiday-schedule
+    - non-business-day
+
+  # Allotment
+  allotment:
+    - allocation
+    - share-allotment
+
+  # ==========================================================================
+  # MORE SPECIFIC MERGES
+  # ==========================================================================
+
+  # ASM/Market Group variations (all part of surveillance framework)
+  asm-stage:
+    - st-asm
+    - short-term-asm
+    - lt-asm
+    - long-term-asm
+    - mt-group
+    - m-group
+    - x-group
+    - b-group
+    - z-group
+    - g-group
+    - t-group
+    - xt-group
+    - stage-movement
+    - stage-1
+    - stage-i
+    - stage-ii
+    - stage-classification
+    - stage-revision
+    - stage-changes
+    - stage-migration
+    - surveillance-measure
+    - surveillance-measures
+    - surveillance-framework
+    - asm-framework
+    - esm-framework
+
+  # Face value changes
+  face-value-change:
+    - face-value-split
+    - reduced-face-value
+    - face-value-revision
+    - share-subdivision
+    - paid-up-value
+
+  # Trading platforms/systems
+  trading-platform:
+    - bolt-tws
+    - bolt-plus
+    - bolt-pro-tws
+    - bolt-pro
+    - ibbs
+    - ibbs-platform
+    - eofs-platform
+    - ebp-platform
+    - star-mf-platform
+    - nse-mf-invest
+    - neat-plus
+    - neat
+    - neat-version
+    - neat-adapter
+    - bse-starmf
+    - rtrms
+    - tws
+    - befs
+    - nmass
+    - tfts
+    - extranet
+
+  # Further issue variations
+  further-issue:
+    - further-issues
+    - fresh-issue
+    - new-issuance
+    - post-issue
+
+  # Price/Volume movements
+  price-movement:
+    - volume-movement
+    - volume-increase
+    - volume-spurt
+    - volume-clarification
+    - price-sensitive-information
+
+  # Market operations/monitoring
+  market-operations:
+    - market-monitoring
+    - market-safety
+    - market-regulation
+    - market-integrity
+    - market-manipulation
+    - market-driven
+    - market-conditions
+
+  # Trading operations
+  trading-operations:
+    - trading-measures
+    - trading-parameters
+    - trading-violations
+    - trading-limits
+    - trading-programme
+    - trading-framework
+    - trading-commencement
+    - trading-mechanism
+
+  # Certificates
+  certificate:
+    - certificate-of-incorporation
+    - incorporation-certificate
+    - net-worth-certificate
+    - networth-certificate
+    - completion-certificate
+
+  # Early pay-in
+  early-pay-in:
+    - delivery-obligation
+    - delivery-obligations
+    - delivery-default
+    - delivery-failure
+    - delivery-shortage
+    - delivery-shortfall
+
+  # Demat related
+  demat:
+    - demat-auction
+    - demat-accounts
+    - demat-account
+    - demat-delivery
+    - demat-only
+    - dematerialised-trading
+    - dematerialized-trading
+    - dematerialized
+    - compulsory-demat
+
+  # Draft documents
+  draft-document:
+    - draft-offer-document
+    - drhp
+    - letter-of-offer
+
+  # Release/revocation
+  release:
+    - release-order
+    - revocation
+    - suspension-revocation
+    - suspension-cancellation
+
+  # Renunciation/rights
+  renunciation:
+    - ex-rights
+
+  # PTC (Pass Through Certificates)
+  ptc:
+    - pass-through-certificates
+
+  # Non-competitive bidding
+  non-competitive-bidding:
+    - ncb-gsec
+
+  # Call money
+  call-money:
+    - call-auction
+    - special-pre-open-session
+
+  # Collateral
+  collateral:
+    - collateral-management
+    - securities-lending-borrowing
+    - securities-lending
+    - borrowing-scheme
+
+  # Conversion
+  conversion:
+    - share-conversion
+    - warrant-conversion
+    - warrants-conversion
+    - fccb-conversion
+    - ccps-conversion
+    - share-exchange
+    - share-swap
+
+  # Forfeiture
+  forfeiture:
+    - share-forfeiture
+
+  # Settlement calendar
+  settlement-calendar:
+    - settlement-cycle
+    - settlement-account
+    - pay-in-pay-out
+
+  # Trading sessions
+  trading-session:
+    - periodic-call-auction
+    - muhurat-trading
+    - weekly-trading
+
+  # Intermediaries
+  intermediary:
+    - intermediaries
+    - intermediary-regulations
+    - regulated-entities
+
+  # Framework/regulations
+  regulatory-framework:
+    - sebi-framework
+    - sebi-regulations
+    - pfutp-regulations
+    - sast-regulations
+
+  # RTI (Right to Information)
+  rti:
+    - rti-act
+    - rti-appeal
+    - right-to-information
+
+  # State development loans
+  sdl:
+    - state-development-loans
+    - state-government-securities
+
+  # Empanelment
+  empanelment:
+    - approved-banks
+    - approved-securities
+
+  # Extension/timeline
+  extension:
+    - timeline-extension
+    - deadline-extension
+    - issue-extension
+
+  # Revised schedule
+  revised-schedule:
+    - schedule-change
+
+  # Abeyance
+  abeyance:
+    - abeyance-shares
+
+  # Surrender/voluntary closure
+  surrender:
+    - voluntary-closure
+
+  # Privately placed
+  privately-placed:
+    - privately-placed-securities
+
+  # Company related
+  company-related:
+    - company-registration
+    - company-listing
+    - new-company
+
+  # Emerge platform
+  emerge-platform:
+    - emerge
+    - sme-emerge
+
+  # Digital accessibility
+  digital-accessibility:
+    - accessibility
+    - accessibility-audit
+    - disabilities-act
+    - disability-rights
+    - persons-with-disabilities
+
+  # Cybersecurity variations
+  cybersecurity:
+    - cyber-resilience
+
+  # Information disclosure
+  information-disclosure:
+    - disclosure-violations
+    - disclosure-violation
+
+  # Administrative
+  administrative:
+    - procedural
+
+  # Volatility control
+  volatility-control:
+    - var-haircut
+    - volatility-scan-range
+
+  # Subscription limit
+  subscription-limit:
+    - subscription-limits
+    - subscription-resumption
+
+  # System audit/maintenance
+  system-audit:
+    - internal-audit
+    - audit-committee
+    - audit-requirements
+    - audit-report
+    - type-iii-audit
+
+  maintenance:
+    - system-migration
+    - uat
+    - business-closure
+
+  # Connectivity
+  connectivity:
+    - technical-connectivity
+
+  # Daily bulletin
+  daily-bulletin:
+    - dissemination-board
+
+  # Equity scheme
+  equity-scheme:
+    - equity-schemes
+
+  # Market lot
+  market-lot:
+    - market-lot-adjustment
+    - market-lot-change
+
+  # IDCW (Income Distribution cum Capital Withdrawal)
+  idcw:
+    - idcw-payment
+
+  # Overseas investment
+  overseas-investment:
+    - overseas-investment-limits
+    - investment-restriction
+    - investment-restrictions
+
+  # Registration
+  registration:
+    - terminal-registration
+
+  # Resolution plan
+  resolution-plan:
+    - resolution-framework
+
+  # BSE indices
+  bse-index:
+    - bse-ipo-index
+    - bse-sme-ipo-index
+    - bse-sensex
+    - bse-500
+    - bse-allcap
+    - bankex
+
+  # Demand notice
+  demand-notice:
+    - notice-of-demand
+    - remittance-order
+    - remittance-advice
+
+  # Reopening
+  reopening:
+    - scheme-reopening
+    - fund-reopening
+
+  # Cash segment
+  cash-segment:
+    - cash-offer
+
+  # Securities auction
+  securities-auction:
+    - auction-list
+    - auction-securities
+
+  # Book building
+  book-building:
+    - reverse-book-building
+    - bidding
+    - bidding-schedule
+
+  # Fixed income
+  fixed-income:
+    - fixed-maturity-plan
+    - fixed-deposit-receipts
+
+  # Smart switch
+  smart-switch:
+    - switch
+    - systematic-transfer-plan
+
+  # Additions/exclusions
+  addition:
+    - additions
+    - index-additions
+    - exclusion
+
+  # Compliance order
+  compliance-order:
+    - compliance-violations
+
+  # Arbitrage fund
+  arbitrage-fund:
+    - arbitrage
+
+  # Multi-asset
+  multi-asset:
+    - multi-asset-allocation
+
+  # Specialized investment fund
+  sif:
+    - specialized-investment-fund
+    - specialized-investment-funds
+
+# Case normalization: always lowercase
+lowercase: true
+
+# Remove tags that duplicate stock entries
+remove_stock_duplicates: true

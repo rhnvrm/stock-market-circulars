@@ -76,3 +76,25 @@ validate:
 setup:
     mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
 
+# Normalization Commands
+
+# Dry-run normalization to preview changes
+normalize-dry:
+    @echo "🔍 Running normalization dry-run..."
+    cd scripts && uv run run_normalization.py --dry-run
+
+# Apply normalization to all circulars
+normalize:
+    @echo "🔄 Normalizing stocks and tags..."
+    cd scripts && uv run run_normalization.py
+
+# Normalize only stocks
+normalize-stocks:
+    @echo "🔄 Normalizing stocks only..."
+    cd scripts && uv run run_normalization.py --stocks-only
+
+# Normalize only tags
+normalize-tags:
+    @echo "🔄 Normalizing tags only..."
+    cd scripts && uv run run_normalization.py --tags-only
+
