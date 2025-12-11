@@ -1,0 +1,93 @@
+{{define "page-search"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{if .Title}}{{.Title}} | {{end}}Stock Market Circulars</title>
+
+  {{if .Description}}
+  <meta name="description" content="{{.Description}}">
+  {{end}}
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1><a href="/">Stock Market Circulars</a></h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/circulars/nse/">NSE</a>
+      <a href="/circulars/bse/">BSE</a>
+      <a href="/circulars/sebi/">SEBI</a>
+      <a href="/search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<section>
+  <header>
+    <h2>Search Stock Market Circulars</h2>
+  </header>
+
+  <form method="get" action="/search" class="search-form">
+    <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" class="search-input" autofocus>
+    <button type="submit" class="search-button">Search</button>
+  </form>
+
+  {{if .Error}}
+  <p class="error-message">{{.Error}}</p>
+  {{end}}
+
+  {{if .Results}}
+  <div class="search-results">
+    <p class="results-count">Found {{.TotalResults}} results</p>
+
+    <div class="results-list">
+      {{range .Results}}
+      <div class="search-result-item">
+        <h3 class="result-title">
+          <a href="{{.URL}}">{{.Title}}</a>
+          <span class="tag-badge source-badge">{{upper .Source}}</span>
+        </h3>
+        <p class="result-description">{{.Description}}</p>
+        {{if .Highlights}}
+        <div class="result-highlights">
+          {{range $field, $snippet := .Highlights}}
+          <div class="highlight">{{$snippet}}</div>
+          {{end}}
+        </div>
+        {{end}}
+        <p class="result-meta">
+          <span class="result-date">{{.Date}}</span>
+          {{if .Category}}<span class="tag-badge category-badge">{{.Category}}</span>{{end}}
+        </p>
+      </div>
+      {{end}}
+    </div>
+
+    {{if gt .TotalPages 1}}
+    <div class="pagination">
+      <span>Page {{.CurrentPage}} of {{.TotalPages}}</span>
+    </div>
+    {{end}}
+  </div>
+  {{else if .Query}}
+  <p class="no-results">No results found for "{{.Query}}"</p>
+  {{end}}
+</section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

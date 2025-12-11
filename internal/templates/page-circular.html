@@ -1,0 +1,113 @@
+{{define "page-circular"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{if .Title}}{{.Title}} | {{end}}Stock Market Circulars</title>
+
+  {{if .Description}}
+  <meta name="description" content="{{.Description}}">
+  {{end}}
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1><a href="/">Stock Market Circulars</a></h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/circulars/nse/">NSE</a>
+      <a href="/circulars/bse/">BSE</a>
+      <a href="/circulars/sebi/">SEBI</a>
+      <a href="/search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<article class="circular-detail">
+  <header class="circular-header">
+    <h2>{{.Circular.Title}}</h2>
+    <div class="circular-meta">
+      <span class="meta-item">
+        <strong>Source:</strong>
+        <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
+      </span>
+      <span class="meta-item">
+        <strong>Date:</strong>
+        <time datetime="{{formatDateTime .Circular.Date.Time}}">{{.Circular.Date.Time.Format "January 2, 2006"}}</time>
+      </span>
+      {{if .Circular.Category}}
+      <span class="meta-item">
+        <strong>Category:</strong>
+        <span class="tag-badge category-badge">{{.Circular.Category}}</span>
+      </span>
+      {{end}}
+      {{if .Circular.Impact}}
+      <span class="meta-item">
+        <strong>Impact:</strong>
+        <span class="tag-badge">{{title .Circular.Impact}}</span>
+      </span>
+      {{end}}
+    </div>
+  </header>
+
+  {{if .Circular.Description}}
+  <section class="circular-section">
+    <h3>Description</h3>
+    <p>{{.Circular.Description}}</p>
+  </section>
+  {{end}}
+
+  {{if .Circular.HTMLContent}}
+  <section class="circular-section">
+    <h3>Content</h3>
+    <div class="circular-content">
+      {{.Circular.HTMLContent | safeHTML}}
+    </div>
+  </section>
+  {{end}}
+
+  {{if .Circular.Stocks}}
+  <section class="circular-section">
+    <h3>Stocks Mentioned</h3>
+    <div class="tag-container">
+      {{range .Circular.Stocks}}
+      <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+      {{end}}
+    </div>
+  </section>
+  {{end}}
+
+  {{if .Circular.Tags}}
+  <section class="circular-section">
+    <h3>Tags</h3>
+    <div class="tag-container">
+      {{range .Circular.Tags}}
+      <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
+      {{end}}
+    </div>
+  </section>
+  {{end}}
+
+  {{if .Circular.PDFURL}}
+  <section class="circular-section">
+    <p><a href="{{.Circular.PDFURL}}" target="_blank" class="pdf-link">View PDF Document</a></p>
+  </section>
+  {{end}}
+</article>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

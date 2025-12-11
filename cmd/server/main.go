@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 	"time"
 
 	"github.com/go-chi/chi/v5"
@@ -15,6 +16,7 @@ import (
 	"github.com/rhnvrm/stock-market-circulars/internal/models"
 	"github.com/rhnvrm/stock-market-circulars/internal/render"
 	"github.com/rhnvrm/stock-market-circulars/internal/search"
+	"github.com/rhnvrm/stock-market-circulars/internal/templates"
 )
 
 func main() {
@@ -28,6 +30,12 @@ func main() {
 	// Initialize components
 	loader := content.NewLoader(contentDir)
 	markdown := render.NewMarkdown()
+
+	// Initialize template renderer
+	tmplRenderer, err := templates.NewRenderer()
+	if err != nil {
+		log.Fatalf("Failed to initialize templates: %v", err)
+	}
 
 	// Build index
 	log.Println("Building content index...")
@@ -91,59 +99,33 @@ func main() {
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
 		result := idx.Query(content.QueryOptions{Page: 1, PageSize: 50})
 
-		w.Header().Set("Content-Type", "text/html")
-		fmt.Fprintf(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>Stock Market Circulars</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <header>
-        <h1>Stock Market Circulars</h1>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/circulars/nse/">NSE</a>
-            <a href="/circulars/bse/">BSE</a>
-            <a href="/circulars/sebi/">SEBI</a>
-        </nav>
-    </header>
-    <main>
-        <h2>Recent Circulars (%d total)</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Source</th>
-                    <th>Title</th>
-                    <th>Category</th>
-                </tr>
-            </thead>
-            <tbody>`, result.Total)
-
-		for _, c := range result.Items {
-			fmt.Fprintf(w, `
-                <tr>
-                    <td>%s</td>
-                    <td>%s</td>
-                    <td><a href="/circulars/%s/%d/%s/">%s</a></td>
-                    <td>%s</td>
-                </tr>`,
-				c.Date.Time.Format("2006-01-02"),
-				c.Source,
-				c.Source, c.Year, c.Slug,
-				c.Title,
-				c.Category,
-			)
+		// Load full circulars for template
+		circulars := make([]*models.Circular, 0, len(result.Items))
+		for _, summary := range result.Items {
+			circular, err := loader.LoadFull(summary.FilePath)
+			if err != nil {
+				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
+				continue
+			}
+			circulars = append(circulars, circular)
 		}
 
-		fmt.Fprintf(w, `
-            </tbody>
-        </table>
-        <p>Page %d of %d</p>
-    </main>
-</body>
-</html>`, result.Page, result.TotalPages)
+		data := map[string]interface{}{
+			"Title":      "Recent Circulars",
+			"BaseURL":    baseURL,
+			"Path":       "/",
+			"TotalCount": result.Total,
+			"Circulars":  circulars,
+			"Pagination": map[string]interface{}{
+				"CurrentPage": result.Page,
+				"TotalPages":  result.TotalPages,
+			},
+		}
+
+		if err := tmplRenderer.Render(w, "page-home", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
 	})
 
 	r.Get("/circulars/{source}/", func(w http.ResponseWriter, r *http.Request) {
@@ -154,41 +136,33 @@ func main() {
 			PageSize: 50,
 		})
 
-		w.Header().Set("Content-Type", "text/html")
-		fmt.Fprintf(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>%s Circulars</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <h1>%s Circulars (%d)</h1>
-    <table>
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Title</th>
-            </tr>
-        </thead>
-        <tbody>`, source, source, result.Total)
-
-		for _, c := range result.Items {
-			fmt.Fprintf(w, `
-        <tr>
-            <td>%s</td>
-            <td><a href="/circulars/%s/%d/%s/">%s</a></td>
-        </tr>`,
-				c.Date.Time.Format("2006-01-02"),
-				c.Source, c.Year, c.Slug,
-				c.Title,
-			)
+		// Load full circulars for template
+		circulars := make([]*models.Circular, 0, len(result.Items))
+		for _, summary := range result.Items {
+			circular, err := loader.LoadFull(summary.FilePath)
+			if err != nil {
+				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
+				continue
+			}
+			circulars = append(circulars, circular)
 		}
 
-		fmt.Fprint(w, `
-        </tbody>
-    </table>
-</body>
-</html>`)
+		data := map[string]interface{}{
+			"Title":      fmt.Sprintf("%s Circulars", strings.ToUpper(source)),
+			"BaseURL":    baseURL,
+			"Path":       fmt.Sprintf("/circulars/%s/", source),
+			"TotalCount": result.Total,
+			"Circulars":  circulars,
+			"Pagination": map[string]interface{}{
+				"CurrentPage": result.Page,
+				"TotalPages":  result.TotalPages,
+			},
+		}
+
+		if err := tmplRenderer.Render(w, "page-source", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
 	})
 
 	r.Get("/circulars/{source}/{year}/{slug}/", func(w http.ResponseWriter, r *http.Request) {
@@ -216,42 +190,20 @@ func main() {
 			return
 		}
 
-		// Render markdown
+		// Render markdown to HTML
 		circular.HTMLContent = markdown.Render(circular.RawContent)
 
-		w.Header().Set("Content-Type", "text/html")
-		fmt.Fprintf(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>%s</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <article>
-        <h1>%s</h1>
-        <p><strong>Source:</strong> %s | <strong>Date:</strong> %s</p>
-        <p><strong>Category:</strong> %s | <strong>Impact:</strong> %s</p>
+		data := map[string]interface{}{
+			"Title":    circular.Title,
+			"BaseURL":  baseURL,
+			"Path":     circular.Permalink,
+			"Circular": circular,
+		}
 
-        <h2>Description</h2>
-        <p>%s</p>
-
-        <h2>Content</h2>
-        %s
-
-        <p><a href="%s" target="_blank">View PDF</a></p>
-    </article>
-</body>
-</html>`,
-			circular.Title,
-			circular.Title,
-			circular.Source,
-			circular.Date.Time.Format("January 2, 2006"),
-			circular.Category,
-			circular.Impact,
-			circular.Description,
-			circular.HTMLContent,
-			circular.PDFURL,
-		)
+		if err := tmplRenderer.Render(w, "page-circular", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+		}
 	})
 
 	// RSS Feeds
@@ -308,51 +260,29 @@ func main() {
 	r.Get("/search", func(w http.ResponseWriter, r *http.Request) {
 		query := r.URL.Query().Get("q")
 
+		data := map[string]interface{}{
+			"Title":   "Search Circulars",
+			"BaseURL": baseURL,
+			"Path":    "/search",
+			"Query":   query,
+		}
+
 		// Show search form if no query
 		if query == "" {
-			w.Header().Set("Content-Type", "text/html")
-			fmt.Fprint(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>Search Circulars</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <header>
-        <h1>Search Stock Market Circulars</h1>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/circulars/nse/">NSE</a>
-            <a href="/circulars/bse/">BSE</a>
-            <a href="/circulars/sebi/">SEBI</a>
-        </nav>
-    </header>
-    <main>
-        <form method="get" action="/search">
-            <input type="text" name="q" placeholder="Search circulars..." size="50">
-            <button type="submit">Search</button>
-        </form>
-    </main>
-</body>
-</html>`)
+			if err := tmplRenderer.Render(w, "page-search", data); err != nil {
+				log.Printf("Error rendering template: %v", err)
+				http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+			}
 			return
 		}
 
 		// Check if search is enabled
 		if !searchSvc.IsEnabled() {
-			w.Header().Set("Content-Type", "text/html")
-			fmt.Fprint(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>Search Unavailable</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <h1>Search Unavailable</h1>
-    <p>Search functionality is not configured. Please set TYPESENSE_API_KEY environment variable.</p>
-    <p><a href="/">Return to home</a></p>
-</body>
-</html>`)
+			data["Error"] = "Search functionality is not configured. Please set TYPESENSE_API_KEY environment variable."
+			if err := tmplRenderer.Render(w, "page-search", data); err != nil {
+				log.Printf("Error rendering template: %v", err)
+				http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+			}
 			return
 		}
 
@@ -363,63 +293,24 @@ func main() {
 			PerPage: 20,
 		})
 		if err != nil {
-			http.Error(w, "Search error: "+err.Error(), 500)
+			data["Error"] = "Search error: " + err.Error()
+			if err := tmplRenderer.Render(w, "page-search", data); err != nil {
+				log.Printf("Error rendering template: %v", err)
+				http.Error(w, "Internal Server Error", http.StatusInternalServerError)
+			}
 			return
 		}
 
 		// Render results
-		w.Header().Set("Content-Type", "text/html")
-		fmt.Fprintf(w, `<!DOCTYPE html>
-<html>
-<head>
-    <title>Search Results: %s</title>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-    <header>
-        <h1>Search Results</h1>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/search">New Search</a>
-        </nav>
-    </header>
-    <main>
-        <h2>Results for: %s</h2>
-        <p>Found %d results</p>
-        <table>
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Source</th>
-                    <th>Title</th>
-                    <th>Category</th>
-                </tr>
-            </thead>
-            <tbody>`, query, query, result.Total)
+		data["Results"] = result.Items
+		data["TotalResults"] = result.Total
+		data["CurrentPage"] = result.Page
+		data["TotalPages"] = result.TotalPages
 
-		for _, item := range result.Items {
-			fmt.Fprintf(w, `
-                <tr>
-                    <td>%s</td>
-                    <td>%s</td>
-                    <td><a href="%s">%s</a></td>
-                    <td>%s</td>
-                </tr>`,
-				item.Date,
-				item.Source,
-				item.URL,
-				item.Title,
-				item.Category,
-			)
+		if err := tmplRenderer.Render(w, "page-search", data); err != nil {
+			log.Printf("Error rendering template: %v", err)
+			http.Error(w, "Internal Server Error", http.StatusInternalServerError)
 		}
-
-		fmt.Fprintf(w, `
-            </tbody>
-        </table>
-        <p>Page %d of %d</p>
-    </main>
-</body>
-</html>`, result.Page, result.TotalPages)
 	})
 
 	// JSON API endpoint
