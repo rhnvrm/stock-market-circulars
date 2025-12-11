@@ -18,15 +18,16 @@ regenerate *args:
 
 # Development Commands
 
-# Start Hugo development server
+# Start Go development server
 serve:
-    @echo "🌐 Starting Hugo development server..."
-    cd hugo-site && hugo server --buildDrafts --watch --bind 0.0.0.0
+    @echo "🌐 Starting Go development server..."
+    go run cmd/server/main.go
 
-# Build static site for production
+# Build Go server binary for production
 build:
-    @echo "🏗️ Building static site..."
-    cd hugo-site && hugo --minify --gc
+    @echo "🏗️ Building Go server binary..."
+    go build -o server.bin cmd/server/main.go
+    @echo "✅ Binary created: server.bin"
 
 # Essential Utilities
 
@@ -34,7 +35,7 @@ build:
 deps:
     @echo "🔧 Checking dependencies..."
     @which curl > /dev/null && echo "✅ curl" || echo "❌ curl"
-    @which hugo > /dev/null && echo "✅ hugo" || echo "❌ hugo"  
+    @which go > /dev/null && echo "✅ go" || echo "❌ go"
     @which claude > /dev/null && echo "✅ claude" || echo "❌ claude"
     @cd scripts && uv run combined_pipeline.py --help > /dev/null && echo "✅ Python dependencies" || echo "❌ Missing Python dependencies"
 
@@ -48,9 +49,11 @@ logs:
 
 # Cleaning Commands
 
-# Clean Hugo build artifacts
+# Clean build artifacts
 clean:
-    rm -rf hugo-site/public/ hugo-site/resources/
+    @echo "🧹 Cleaning build artifacts..."
+    rm -f server.bin
+    @echo "✅ Build artifacts cleaned"
 
 # Reset pipeline state for fresh run
 clean-state:
@@ -98,21 +101,25 @@ normalize-tags:
     @echo "🔄 Normalizing tags only..."
     cd scripts && uv run run_normalization.py --tags-only
 
-# Go Server Commands
+# Docker Commands
 
-# Run Go server (local development)
-server:
-    @echo "🚀 Starting Go server..."
-    go run cmd/server/main.go
+# Start Typesense container
+typesense-up:
+    @echo "🐳 Starting Typesense container..."
+    docker-compose up -d
+    @echo "✅ Typesense running on localhost:8108"
 
-# Build Go server binary
-server-build:
-    @echo "🏗️ Building Go server..."
-    go build -o server.bin cmd/server/main.go
-    @echo "✅ Binary created: server.bin"
+# Stop Typesense container
+typesense-down:
+    @echo "🛑 Stopping Typesense container..."
+    docker-compose down
 
-# Run built Go server
-server-run: server-build
-    @echo "🚀 Running Go server..."
-    ./server.bin
+# View Typesense logs
+typesense-logs:
+    docker-compose logs -f typesense
+
+# Run Go server with Typesense
+serve-with-search:
+    @echo "🌐 Starting Go server with Typesense search..."
+    TYPESENSE_API_KEY=stock-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
 

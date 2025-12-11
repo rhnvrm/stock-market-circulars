@@ -17,12 +17,12 @@ Regulatory circulars from official RSS feeds:
 The dataset updates automatically every 3 hours via GitHub Actions:
 
 1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger)
-2. **Environment Setup** - Nix development environment provides Python, uv, Claude CLI, and Hugo
+2. **Environment Setup** - Nix development environment provides Python, uv, Claude CLI, and Go
 3. **Pipeline Execution** - `just pipeline` command runs the complete RSS monitoring and processing pipeline
 4. **Content Processing** - Python scripts download PDFs, extract text, and use Claude AI for analysis
 5. **Dataset Updates** - New circulars are committed as structured markdown files with timestamps
-6. **Site Rebuild** - Hugo regenerates the static site with new content
-7. **Deployment** - Updated website automatically deploys to GitHub Pages
+6. **Site Deployment** - Go server provides fast access to the dataset with search capabilities
+7. **GitHub Pages** - Static HTML is generated for public access
 
 All processing happens in the cloud using GitHub's infrastructure - no local setup required for the dataset to stay current.
 
@@ -31,15 +31,33 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 ## Repository Structure
 
 ```
-├── scripts/                 # Python processing pipeline
-├── config/                  # Configuration files
-├── hugo-site/              # Static website
-│   └── content/circulars/  # Processed dataset
+├── cmd/server/             # Go web server (main application)
+├── internal/               # Go server internals
+│   ├── content/           # Content loading and indexing
+│   ├── handlers/          # HTTP handlers (RSS, etc.)
+│   ├── search/            # Typesense search integration
+│   └── templates/         # HTML templates
+├── scripts/                # Python processing pipeline
+├── config/                 # Configuration files
+├── hugo-site/content/      # Processed dataset (markdown files)
+│   └── circulars/
 │       ├── nse/           # NSE circulars by year
 │       ├── bse/           # BSE circulars by year
 │       └── sebi/          # SEBI circulars by year
-└── .github/workflows/     # GitHub Actions for automation
+├── static/css/             # Stylesheets
+└── .github/workflows/      # GitHub Actions for automation
 ```
+
+## Development
+
+**Quick start:**
+```bash
+just serve              # Start development server
+just serve-with-search  # Start server with Typesense search
+just build              # Build production binary
+```
+
+See `justfile` for all available commands.
 
 ## Contributing
 

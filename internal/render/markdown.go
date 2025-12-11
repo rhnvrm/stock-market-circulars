@@ -21,7 +21,7 @@ func NewMarkdown() *Markdown {
 			extension.Typographer, // Smart quotes
 		),
 		goldmark.WithRendererOptions(
-			html.WithUnsafe(), // Allow raw HTML (match Hugo config)
+			html.WithUnsafe(), // Allow raw HTML in markdown
 		),
 	)
 
