@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  typesense:
+    image: typesense/typesense:27.1
+    container_name: stock-circulars-typesense
+    ports:
+      - "8108:8108"
+    volumes:
+      - typesense-data:/data
+    environment:
+      - TYPESENSE_DATA_DIR=/data
+      - TYPESENSE_API_KEY=${TYPESENSE_API_KEY:-stock-circulars-dev-key}
+      - TYPESENSE_ENABLE_CORS=true
+    command: '--data-dir /data --api-key=${TYPESENSE_API_KEY:-stock-circulars-dev-key} --enable-cors'
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8108/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  typesense-data:
+    driver: local
