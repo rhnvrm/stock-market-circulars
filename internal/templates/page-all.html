@@ -58,7 +58,11 @@
         <tr class="article-row" :class="{ 'expanded': expanded['{{.CircularID}}'] }">
           <td class="article-date">
             <a href="{{$.BaseURL}}{{.Permalink}}" class="date-link">
-              <time datetime="{{formatDateTime .PublishedDate.Time}}">{{formatDate .PublishedDate.Time}}</time>
+              <time datetime="{{formatDateTime .PublishedDate.Time}}">
+                <span class="date-day">{{formatDay .PublishedDate.Time}}</span>
+                <span class="date-month">{{formatMonth .PublishedDate.Time}}</span>
+                <span class="date-year">{{formatYear .PublishedDate.Time}}</span>
+              </time>
             </a>
           </td>
           <td class="article-circular">

@@ -29,6 +29,15 @@ func NewRenderer() (*Renderer, error) {
 		"formatDateLong": func(t time.Time) string {
 			return t.Format("January 2, 2006")
 		},
+		"formatDay": func(t time.Time) string {
+			return t.Format("02")
+		},
+		"formatMonth": func(t time.Time) string {
+			return strings.ToUpper(t.Format("Jan"))
+		},
+		"formatYear": func(t time.Time) string {
+			return t.Format("06")
+		},
 		"upper": strings.ToUpper,
 		"lower": strings.ToLower,
 		"title": strings.Title,
