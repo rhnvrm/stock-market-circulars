@@ -44,6 +44,19 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 └── .github/workflows/      # GitHub Actions for automation
 ```
 
+## Documentation
+
+Complete documentation is available in the [`docs/`](./docs/) directory:
+
+- **[Server Guide](./docs/server.md)** - Running and deploying the Go server
+- **[Configuration](./docs/configuration.md)** - Environment variables and settings
+- **[Search Setup](./docs/search-setup.md)** - Setting up Typesense search
+- **[Migration Roadmap](./docs/migration-roadmap.md)** - Hugo → Go migration status
+- **[Development](./docs/development.md)** - Development workflow and contributing
+- **[Implementation Notes](./docs/implementation.md)** - Technical details and architecture
+
+For a quick start, see the commands below.
+
 ## Development
 
 **Quick start:**
@@ -53,7 +66,7 @@ just serve-with-search  # Start server with Typesense search
 just build              # Build production binary
 ```
 
-See `justfile` for all available commands.
+See `justfile` for all available commands or check the [Development Guide](./docs/development.md) for detailed instructions.
 
 ## Contributing
 
@@ -61,11 +74,11 @@ Contributions welcome! You can:
 
 - Improve the processing pipeline (RSS parsing, document extraction, LLM prompts)
 - Fix data issues or incorrectly processed circulars
-- Enhance the website design or functionality  
+- Enhance the website design or functionality
 - Add new features (search, filtering, analysis)
 - Improve documentation
 
-See [Technical Reference](.local/docs/technical-reference.md) for development setup.
+See the [Development Guide](./docs/development.md) for setup instructions and contribution workflow.
 
 **Issues**: [GitHub Issues](https://github.com/rhnvrm/stock-market-circulars/issues)
 
