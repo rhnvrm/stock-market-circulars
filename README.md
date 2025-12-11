@@ -2,8 +2,6 @@
 
 A living dataset of regulatory circulars from NSE, BSE, and SEBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
-**Live Website**: https://rhnvrm.github.io/stock-market-circulars/
-
 ## Data Sources
 
 Regulatory circulars from official RSS feeds:
@@ -21,8 +19,6 @@ The dataset updates automatically every 3 hours via GitHub Actions:
 3. **Pipeline Execution** - `just pipeline` command runs the complete RSS monitoring and processing pipeline
 4. **Content Processing** - Python scripts download PDFs, extract text, and use Claude AI for analysis
 5. **Dataset Updates** - New circulars are committed as structured markdown files with timestamps
-6. **Site Deployment** - Go server provides fast access to the dataset with search capabilities
-7. **GitHub Pages** - Static HTML is generated for public access
 
 All processing happens in the cloud using GitHub's infrastructure - no local setup required for the dataset to stay current.
 

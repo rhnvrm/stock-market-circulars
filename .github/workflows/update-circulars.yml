@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
     
     steps:
     - name: Checkout repository
@@ -42,19 +40,3 @@ jobs:
           git commit -m "Update circulars - $(date -u +"%Y-%m-%d %H:%M UTC")"
           git push
         fi
-
-    - name: Build Hugo site
-      run: |
-        nix develop --command just build
-
-    - name: Setup Pages
-      uses: actions/configure-pages@v4
-
-    - name: Upload Pages artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: hugo-site/public
-
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
