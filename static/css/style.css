@@ -1,5 +1,8 @@
 /* Minimal Academic Theme - Information Dense Table Style */
 
+/* Google Font for Editorial Masthead */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap');
+
 /* Flexoki Color Theme Variables */
 :root {
   /* Flexoki Base Colors - Light Mode */
@@ -183,28 +186,115 @@ a:visited {
   color: var(--color-link);
 }
 
-/* Header */
+/* Header - Warm Editorial Style */
 header {
-  border-bottom: 1px solid var(--ui-border);
-  padding: var(--space-sm) 0;
+  background: linear-gradient(180deg, var(--base-50) 0%, var(--base-100) 100%);
+  border-bottom: 2px solid var(--base-300);
+  padding: var(--space-xl) 0 var(--space-md) 0;
+  margin-bottom: var(--space-xl);
+}
+
+.header-brand {
+  text-align: center;
   margin-bottom: var(--space-lg);
 }
 
-header nav {
-  display: flex;
-  gap: var(--space-lg);
-  align-items: center;
+.brand-link {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(1.75rem, 1.4rem + 1.2vw, 2.25rem);
+  font-weight: 700;
+  color: var(--tx-primary);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  display: block;
+  line-height: 1.1;
 }
 
-header nav a:first-child {
-  font-weight: bold;
-  font-size: var(--font-size-md);
+.brand-link:hover {
+  color: var(--base-700);
+  text-decoration: none;
+}
+
+.brand-link:visited {
   color: var(--tx-primary);
 }
 
-header nav a {
-  font-size: var(--font-size-sm);
+.brand-tagline {
+  font-size: var(--font-size-xs);
+  color: var(--tx-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  margin-top: var(--space-sm);
+  display: block;
+  font-weight: 500;
 }
+
+.header-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.nav-link {
+  font-size: var(--font-size-sm);
+  color: var(--tx-muted);
+  text-decoration: none;
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--space-xs);
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.nav-link:hover {
+  color: var(--tx-primary);
+  background: var(--base-200);
+  text-decoration: none;
+}
+
+.nav-link:visited {
+  color: var(--tx-muted);
+}
+
+.nav-link:visited:hover {
+  color: var(--tx-primary);
+}
+
+.nav-link.active {
+  color: var(--tx-primary);
+  font-weight: 600;
+}
+
+.nav-link.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+  height: 2px;
+  background: var(--base-500);
+  border-radius: 1px;
+}
+
+.nav-divider {
+  width: 1px;
+  height: 14px;
+  background: var(--base-300);
+  flex-shrink: 0;
+}
+
+.nav-search {
+  background: var(--base-200);
+  border: 1px solid var(--base-300);
+}
+
+.nav-search:hover {
+  background: var(--base-300);
+  border-color: var(--base-400);
+}
+
 
 /* Main Content */
 main {
@@ -790,10 +880,28 @@ footer {
     text-align: center;
   }
   
-  header nav {
-    flex-wrap: wrap;
-    gap: var(--space-md);
+  /* Header responsive - new editorial style */
+  .header-brand {
+    margin-bottom: var(--space-sm);
   }
+
+  .brand-link {
+    font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem);
+  }
+
+  .header-nav {
+    gap: var(--space-xs);
+  }
+
+  .nav-link {
+    padding: var(--space-xs);
+    font-size: var(--font-size-xs);
+  }
+
+  .nav-divider {
+    display: none;
+  }
+
   
   /* Mobile tag layout adjustments */
   .tag-row {
