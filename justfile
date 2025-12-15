@@ -131,11 +131,39 @@ serve-with-search:
 # - NOMAD_LOGIN_SCRIPT: Path to nomad login script
 # - NOMAD_LOGS_SCRIPT: Path to logs script
 # - NOMAD_DEPLOYMENT: Deployment directory name
+#
+# If aws/nomad are not in PATH, use: nix develop --command just deploy-uat
 
 # Version string for builds
 last_commit := `git rev-parse --short HEAD`
 last_commit_date := `git show -s --format=%ci`
 buildstr := "UAT (" + last_commit + " " + last_commit_date + ")"
+
+# Check UAT deployment dependencies
+_check-uat-deps:
+    #!/usr/bin/env bash
+    missing=""
+    which aws > /dev/null 2>&1 || missing="$missing aws"
+    which nomad > /dev/null 2>&1 || missing="$missing nomad"
+    if [ -n "$missing" ]; then
+        echo "⚠️  Missing dependencies:$missing"
+        echo "💡 Run with nix: nix develop --command just deploy-uat"
+        exit 1
+    fi
+
+# Check UAT env vars are set
+_check-uat-env:
+    #!/usr/bin/env bash
+    missing=""
+    [ -z "$S3_ENDPOINT" ] && missing="$missing S3_ENDPOINT"
+    [ -z "$S3_BUCKET" ] && missing="$missing S3_BUCKET"
+    [ -z "$INFRA_PATH" ] && missing="$missing INFRA_PATH"
+    [ -z "$NOMAD_LOGIN_SCRIPT" ] && missing="$missing NOMAD_LOGIN_SCRIPT"
+    if [ -n "$missing" ]; then
+        echo "⚠️  Missing env vars:$missing"
+        echo "💡 Source your env file: source .env.local && just deploy-uat"
+        exit 1
+    fi
 
 # Build static binary for UAT deployment
 build-uat:
@@ -145,15 +173,13 @@ build-uat:
     @echo "✅ Binary created: bin/circulars.bin"
 
 # Upload binary to S3/MinIO
-upload-uat:
-    just build-uat
+upload-uat: _check-uat-deps _check-uat-env build-uat
     @echo "📤 Uploading to S3..."
     aws s3 cp bin/circulars.bin s3://$S3_BUCKET/ --endpoint-url $S3_ENDPOINT
     @echo "✅ Binary uploaded to s3://$S3_BUCKET/circulars.bin"
 
 # Deploy to UAT Nomad
-deploy-uat:
-    just upload-uat
+deploy-uat: upload-uat
     @echo "🚀 Deploying to UAT..."
     eval $($NOMAD_LOGIN_SCRIPT) && \
     cd $INFRA_PATH/deployments/$NOMAD_DEPLOYMENT/ && \
@@ -161,7 +187,7 @@ deploy-uat:
     @echo "✅ Deployed to UAT. Check Nomad UI for status."
 
 # View UAT logs
-logs-uat:
+logs-uat: _check-uat-deps _check-uat-env
     @echo "📋 Fetching UAT logs..."
     eval $($NOMAD_LOGIN_SCRIPT) && \
     $NOMAD_LOGS_SCRIPT logs $NOMAD_DEPLOYMENT server
