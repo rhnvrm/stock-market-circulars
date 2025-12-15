@@ -31,9 +31,12 @@
             # Go server
             go
             nodejs_20  # For Claude Code
-            
+
             # Development utilities
             direnv
+
+            # Deployment tools
+            awscli2
           ];
 
           shellHook = ''
