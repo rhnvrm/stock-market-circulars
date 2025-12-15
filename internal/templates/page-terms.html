@@ -77,27 +77,34 @@
   </div>
 
   <!-- All Items Section - CSS-based filtering for performance -->
-  <div class="taxonomy-all-section" x-data="{
-    search: '',
-    debouncedSearch: '',
-    visibleCount: {{.TotalCount}},
-    debounceTimer: null,
-    updateFilter(value) {
-      clearTimeout(this.debounceTimer);
-      this.debounceTimer = setTimeout(() => {
-        this.debouncedSearch = value;
-        // Update count after filter applied
-        this.$nextTick(() => {
-          if (!value) {
-            this.visibleCount = {{.TotalCount}};
-          } else {
-            const q = value.toLowerCase();
-            this.visibleCount = document.querySelectorAll('.taxonomy-column-item[data-name*=\"' + q + '\"]').length;
-          }
-        });
-      }, 150);
+  <script>
+    function taxonomyFilter(totalCount) {
+      return {
+        search: '',
+        debouncedSearch: '',
+        visibleCount: totalCount,
+        debounceTimer: null,
+        updateFilter(value) {
+          clearTimeout(this.debounceTimer);
+          this.debounceTimer = setTimeout(() => {
+            this.debouncedSearch = value;
+            this.$nextTick(() => {
+              if (!value) {
+                this.visibleCount = totalCount;
+              } else {
+                const q = value.toLowerCase();
+                this.visibleCount = document.querySelectorAll('.taxonomy-column-item[data-name*="' + q + '"]').length;
+              }
+            });
+          }, 150);
+        },
+        init() {
+          this.$watch('search', value => this.updateFilter(value));
+        }
+      }
     }
-  }" x-init="$watch('search', value => updateFilter(value))">
+  </script>
+  <div class="taxonomy-all-section" x-data="taxonomyFilter({{.TotalCount}})">
     <div class="taxonomy-all-header">
       <h2>All {{.Title}} <span class="taxonomy-total" x-text="'(' + visibleCount + ')'"></span></h2>
 
@@ -116,7 +123,7 @@
 
     <!-- Dynamic CSS filter - much faster than x-show on each item -->
     <template x-if="debouncedSearch">
-      <style x-text="`.taxonomy-column-item:not([data-name*='${debouncedSearch.toLowerCase()}']) { display: none; }`"></style>
+      <style x-text="'.taxonomy-column-item:not([data-name*=\'' + debouncedSearch.toLowerCase() + '\']) { display: none; }'"></style>
     </template>
 
     <div class="taxonomy-columns">
