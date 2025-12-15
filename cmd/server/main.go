@@ -331,11 +331,11 @@ func main() {
 			topByRecent = topByRecent[:20]
 		}
 
-		// Sort alphabetically for all items
+		// Sort by count descending for all items
 		allItems := make([]content.TaxonomyStat, len(stats))
 		copy(allItems, stats)
 		sort.Slice(allItems, func(i, j int) bool {
-			return allItems[i].Name < allItems[j].Name
+			return allItems[i].Count > allItems[j].Count
 		})
 
 		data := map[string]interface{}{
@@ -429,11 +429,11 @@ func main() {
 			topByRecent = topByRecent[:20]
 		}
 
-		// Sort alphabetically for all items
+		// Sort by count descending for all items
 		allItems := make([]content.TaxonomyStat, len(stats))
 		copy(allItems, stats)
 		sort.Slice(allItems, func(i, j int) bool {
-			return allItems[i].Name < allItems[j].Name
+			return allItems[i].Count > allItems[j].Count
 		})
 
 		data := map[string]interface{}{

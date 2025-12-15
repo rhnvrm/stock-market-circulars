@@ -76,12 +76,52 @@
     </div>
   </div>
 
-  <!-- All Items Section -->
-  <div class="taxonomy-all-section">
-    <h2>All {{.Title}} ({{.TotalCount}})</h2>
+  <!-- All Items Section - CSS-based filtering for performance -->
+  <div class="taxonomy-all-section" x-data="{
+    search: '',
+    debouncedSearch: '',
+    visibleCount: {{.TotalCount}},
+    debounceTimer: null,
+    updateFilter(value) {
+      clearTimeout(this.debounceTimer);
+      this.debounceTimer = setTimeout(() => {
+        this.debouncedSearch = value;
+        // Update count after filter applied
+        this.$nextTick(() => {
+          if (!value) {
+            this.visibleCount = {{.TotalCount}};
+          } else {
+            const q = value.toLowerCase();
+            this.visibleCount = document.querySelectorAll('.taxonomy-column-item[data-name*=\"' + q + '\"]').length;
+          }
+        });
+      }, 150);
+    }
+  }" x-init="$watch('search', value => updateFilter(value))">
+    <div class="taxonomy-all-header">
+      <h2>All {{.Title}} <span class="taxonomy-total" x-text="'(' + visibleCount + ')'"></span></h2>
+
+      <div class="taxonomy-filter">
+        <svg class="filter-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.35-4.35"></path>
+        </svg>
+        <input type="text"
+               x-model="search"
+               placeholder="Filter {{if .IsStocks}}stocks{{else}}tags{{end}}..."
+               class="filter-input">
+        <button class="filter-clear" x-show="search" @click="search = ''" x-transition>×</button>
+      </div>
+    </div>
+
+    <!-- Dynamic CSS filter - much faster than x-show on each item -->
+    <template x-if="debouncedSearch">
+      <style x-text="`.taxonomy-column-item:not([data-name*='${debouncedSearch.toLowerCase()}']) { display: none; }`"></style>
+    </template>
+
     <div class="taxonomy-columns">
       {{range .AllItems}}
-      <div class="taxonomy-column-item">
+      <div class="taxonomy-column-item" data-name="{{lower .Name}}">
         <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-column-link">
           <span class="taxonomy-column-name">
             {{if $.IsStocks}}<span class="stock-symbol">{{upper .Name}}</span>{{else}}{{lower .Name}}{{end}}
@@ -93,6 +133,11 @@
         </a>
       </div>
       {{end}}
+    </div>
+
+    <!-- Empty state -->
+    <div class="taxonomy-empty" x-show="debouncedSearch && visibleCount === 0" x-cloak>
+      <p>No {{if .IsStocks}}stocks{{else}}tags{{end}} match "<span x-text="debouncedSearch"></span>"</p>
     </div>
   </div>
 
