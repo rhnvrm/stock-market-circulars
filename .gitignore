@@ -43,6 +43,8 @@ hugo-site/public/
 hugo-site/resources/
 dist/
 build/
+bin/
+*.bin
 
 # --- Nix ---
 result

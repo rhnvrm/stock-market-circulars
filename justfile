@@ -123,3 +123,56 @@ serve-with-search:
     @echo "🌐 Starting Go server with Typesense search on :9999..."
     ADDR=:9999 BASE_URL=http://localhost:9999 TYPESENSE_API_KEY=stock-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
 
+# UAT Deployment Commands
+# Environment variables required (set in .env.local):
+# - S3_ENDPOINT: MinIO/S3 endpoint URL
+# - S3_BUCKET: Target bucket name
+# - INFRA_PATH: Path to nomad infra repo
+# - NOMAD_LOGIN_SCRIPT: Path to nomad login script
+# - NOMAD_LOGS_SCRIPT: Path to logs script
+# - NOMAD_DEPLOYMENT: Deployment directory name
+
+# Version string for builds
+last_commit := `git rev-parse --short HEAD`
+last_commit_date := `git show -s --format=%ci`
+buildstr := "UAT (" + last_commit + " " + last_commit_date + ")"
+
+# Build static binary for UAT deployment
+build-uat:
+    @echo "🏗️ Building UAT binary..."
+    mkdir -p bin
+    CGO_ENABLED=0 GOOS=linux go build -ldflags="-s -w -extldflags '-static' -X 'main.buildString={{buildstr}}'" -o bin/circulars.bin cmd/server/main.go
+    @echo "✅ Binary created: bin/circulars.bin"
+
+# Upload binary to S3/MinIO
+upload-uat:
+    just build-uat
+    @echo "📤 Uploading to S3..."
+    aws s3 cp bin/circulars.bin s3://$S3_BUCKET/ --endpoint-url $S3_ENDPOINT
+    @echo "✅ Binary uploaded to s3://$S3_BUCKET/circulars.bin"
+
+# Deploy to UAT Nomad
+deploy-uat:
+    just upload-uat
+    @echo "🚀 Deploying to UAT..."
+    eval $($NOMAD_LOGIN_SCRIPT) && \
+    cd $INFRA_PATH/deployments/$NOMAD_DEPLOYMENT/ && \
+    nomad run deployment.nomad
+    @echo "✅ Deployed to UAT. Check Nomad UI for status."
+
+# View UAT logs
+logs-uat:
+    @echo "📋 Fetching UAT logs..."
+    eval $($NOMAD_LOGIN_SCRIPT) && \
+    $NOMAD_LOGS_SCRIPT logs $NOMAD_DEPLOYMENT server
+
+# Test git sync locally
+serve-with-git-sync:
+    @echo "🌐 Starting server with git sync mode..."
+    GIT_REPO_URL=https://github.com/rhnvrm/stock-market-circulars.git \
+    GIT_DATA_PATH=/tmp/stock-market-circulars-data \
+    SYNC_INTERVAL="@every 5m" \
+    ADDR=:9999 \
+    BASE_URL=http://localhost:9999 \
+    go run cmd/server/main.go
+

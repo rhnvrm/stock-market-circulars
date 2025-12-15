@@ -3,23 +3,31 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/fs"
 	"log"
 	"net/http"
 	"os"
 	"sort"
 	"strconv"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/rhnvrm/stock-market-circulars/internal/content"
+	"github.com/rhnvrm/stock-market-circulars/internal/gitsync"
 	"github.com/rhnvrm/stock-market-circulars/internal/handlers"
 	"github.com/rhnvrm/stock-market-circulars/internal/models"
 	"github.com/rhnvrm/stock-market-circulars/internal/render"
+	"github.com/rhnvrm/stock-market-circulars/internal/scheduler"
 	"github.com/rhnvrm/stock-market-circulars/internal/search"
 	"github.com/rhnvrm/stock-market-circulars/internal/templates"
+	"github.com/rhnvrm/stock-market-circulars/static"
 )
+
+// Build information - injected via ldflags
+var buildString = "dev"
 
 func main() {
 	// Configuration
@@ -27,11 +35,13 @@ func main() {
 	contentDir := getEnv("CONTENT_DIR", "./hugo-site/content")
 	baseURL := getEnv("BASE_URL", "http://localhost:8080")
 
-	log.Println("Starting Stock Market Circulars Server...")
+	// Git sync configuration
+	gitRepoURL := getEnv("GIT_REPO_URL", "")
+	gitDataPath := getEnv("GIT_DATA_PATH", "/tmp/stock-market-circulars-data")
+	gitBranch := getEnv("GIT_BRANCH", "master")
+	syncInterval := getEnv("SYNC_INTERVAL", "@every 1h")
 
-	// Initialize components
-	loader := content.NewLoader(contentDir)
-	markdown := render.NewMarkdown()
+	log.Printf("Starting Stock Market Circulars Server (Build: %s)...", buildString)
 
 	// Initialize template renderer
 	tmplRenderer, err := templates.NewRenderer()
@@ -39,37 +49,121 @@ func main() {
 		log.Fatalf("Failed to initialize templates: %v", err)
 	}
 
-	// Build index
-	log.Println("Building content index...")
-	start := time.Now()
-	builder := content.NewBuilder(contentDir, loader)
-	idx, err := builder.Build()
-	if err != nil {
-		log.Fatalf("Failed to build index: %v", err)
-	}
-	log.Printf("Index built: %d circulars in %v", idx.TotalCount, time.Since(start))
+	markdown := render.NewMarkdown()
 
-	// Initialize Typesense search
+	// Typesense configuration
 	typesenseHost := getEnv("TYPESENSE_HOST", "localhost:8108")
 	typesenseKey := getEnv("TYPESENSE_API_KEY", "")
 	typesenseCollection := getEnv("TYPESENSE_COLLECTION", "circulars")
 	typesenseAutoIndex := getEnv("TYPESENSE_AUTO_INDEX", "true") == "true"
 
 	searchSvc := search.NewService(typesenseHost, typesenseKey, typesenseCollection)
+
+	// Index lock for thread-safe access during sync
+	var indexLock sync.RWMutex
+	var idx *content.SiteIndex
+	var loader *content.Loader
+
+	// Function to rebuild index and re-index Typesense
+	rebuildIndex := func(contentPath string) {
+		log.Println("Rebuilding content index...")
+		start := time.Now()
+
+		newLoader := content.NewLoader(contentPath)
+		builder := content.NewBuilder(contentPath, newLoader)
+		newIdx, err := builder.Build()
+		if err != nil {
+			log.Printf("Error rebuilding index: %v", err)
+			return
+		}
+
+		// Atomic swap
+		indexLock.Lock()
+		idx = newIdx
+		loader = newLoader
+		indexLock.Unlock()
+
+		log.Printf("Index rebuilt: %d circulars in %v", newIdx.TotalCount, time.Since(start))
+
+		// Re-index Typesense if enabled
+		if searchSvc.IsEnabled() && typesenseAutoIndex {
+			log.Println("Re-indexing Typesense...")
+			indexLock.RLock()
+			allCirculars := idx.Query(content.QueryOptions{PageSize: idx.TotalCount})
+			circulars := make([]*models.Circular, 0, len(allCirculars.Items))
+			for _, summary := range allCirculars.Items {
+				circular, err := loader.LoadFull(summary.FilePath)
+				if err != nil {
+					continue
+				}
+				circulars = append(circulars, circular)
+			}
+			indexLock.RUnlock()
+
+			if err := searchSvc.EnsureIndexed(circulars, baseURL, true); err != nil {
+				log.Printf("Warning: Failed to re-index Typesense: %v", err)
+			} else {
+				log.Println("Typesense re-indexing completed")
+			}
+		}
+	}
+
+	// Initialize git sync if configured
+	var gitSync *gitsync.SyncManager
+	var sched *scheduler.Scheduler
+
+	if gitRepoURL != "" {
+		log.Printf("Git sync mode enabled: %s -> %s", gitRepoURL, gitDataPath)
+
+		gitSync = gitsync.NewSyncManager(gitRepoURL, gitDataPath, func() {
+			rebuildIndex(gitSync.ContentPath())
+		})
+		gitSync.SetBranch(gitBranch)
+
+		// Clone repository on startup
+		if err := gitSync.Clone(); err != nil {
+			log.Fatalf("Failed to clone git repository: %v", err)
+		}
+
+		// Use git-synced content path
+		contentDir = gitSync.ContentPath()
+
+		// Start scheduler for periodic sync
+		sched = scheduler.New()
+		if err := sched.AddSyncJob(syncInterval, func() {
+			if err := gitSync.Pull(); err != nil {
+				log.Printf("Scheduled sync error: %v", err)
+			}
+		}); err != nil {
+			log.Printf("Warning: Failed to add sync job: %v", err)
+		}
+		sched.Start()
+		defer sched.Stop()
+	}
+
+	// Initial index build
+	loader = content.NewLoader(contentDir)
+	log.Println("Building initial content index...")
+	start := time.Now()
+	builder := content.NewBuilder(contentDir, loader)
+	idx, err = builder.Build()
+	if err != nil {
+		log.Fatalf("Failed to build index: %v", err)
+	}
+	log.Printf("Index built: %d circulars in %v", idx.TotalCount, time.Since(start))
+
+	// Initialize Typesense search
 	if searchSvc.IsEnabled() {
 		log.Println("Typesense search enabled")
 
-		// Ensure collection exists
 		if err := searchSvc.EnsureCollection(); err != nil {
 			log.Printf("Warning: Failed to ensure Typesense collection: %v", err)
 		}
 
-		// Auto-index if enabled
 		if typesenseAutoIndex {
 			log.Println("Auto-indexing enabled, loading circulars...")
 			allCirculars := idx.Query(content.QueryOptions{PageSize: idx.TotalCount})
 
-			// Load full content for indexing
 			circulars := make([]*models.Circular, 0, len(allCirculars.Items))
 			for _, summary := range allCirculars.Items {
 				circular, err := loader.LoadFull(summary.FilePath)
@@ -94,8 +188,9 @@ func main() {
 	r.Use(middleware.Recoverer)
 	r.Use(middleware.Compress(5))
 
-	// Static files
-	r.Handle("/css/*", http.StripPrefix("/css/", http.FileServer(http.Dir("./static/css"))))
+	// Static files (embedded in binary)
+	cssFS, _ := fs.Sub(static.Files, "css")
+	r.Handle("/css/*", http.StripPrefix("/css/", http.FileServer(http.FS(cssFS))))
 
 	// Routes - Minimal MVP
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
@@ -620,7 +715,10 @@ func main() {
 
 	// Health check
 	r.Get("/health", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "OK - %d circulars indexed\n", idx.TotalCount)
+		indexLock.RLock()
+		count := idx.TotalCount
+		indexLock.RUnlock()
+		fmt.Fprintf(w, "OK - %d circulars indexed (Build: %s)\n", count, buildString)
 	})
 
 	// Start server
