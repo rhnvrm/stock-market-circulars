@@ -67,6 +67,9 @@ type Circular struct {
 	Tags   []string `yaml:"tags"`
 	Stocks []string `yaml:"stocks"`
 
+	// Draft status
+	Draft bool `yaml:"draft"`
+
 	// Processing metadata
 	Processing ProcessingInfo `yaml:"processing"`
 
@@ -90,37 +93,41 @@ type ProcessingInfo struct {
 
 // CircularSummary is a lightweight version for index/list views
 type CircularSummary struct {
-	CircularID  string
-	Slug        string
-	Source      string
-	Year        int
-	Title       string
-	Description string
-	Date        FlexibleTime
-	Category    string
-	Impact      string
-	Severity    string
-	Tags        []string
-	Stocks      []string
-	FilePath    string
+	CircularID       string
+	Slug             string
+	Source           string
+	Year             int
+	Title            string
+	Description      string
+	Date             FlexibleTime
+	Category         string
+	Impact           string
+	Severity         string
+	Tags             []string
+	Stocks           []string
+	FilePath         string
+	Draft            bool
+	ProcessingStatus string
 }
 
 // ToSummary converts a Circular to CircularSummary
 func (c *Circular) ToSummary() *CircularSummary {
 	return &CircularSummary{
-		CircularID:  c.CircularID,
-		Slug:        c.Slug,
-		Source:      c.Source,
-		Year:        c.Year,
-		Title:       c.Title,
-		Description: c.Description,
-		Date:        c.Date,
-		Category:    c.Category,
-		Impact:      c.Impact,
-		Severity:    c.Severity,
-		Tags:        c.Tags,
-		Stocks:      c.Stocks,
-		FilePath:    c.FilePath,
+		CircularID:       c.CircularID,
+		Slug:             c.Slug,
+		Source:           c.Source,
+		Year:             c.Year,
+		Title:            c.Title,
+		Description:      c.Description,
+		Date:             c.Date,
+		Category:         c.Category,
+		Impact:           c.Impact,
+		Severity:         c.Severity,
+		Tags:             c.Tags,
+		Stocks:           c.Stocks,
+		FilePath:         c.FilePath,
+		Draft:            c.Draft,
+		ProcessingStatus: c.Processing.Status,
 	}
 }
 

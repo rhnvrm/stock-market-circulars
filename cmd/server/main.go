@@ -548,7 +548,7 @@ func main() {
 		data := map[string]interface{}{
 			"Title":    circular.Title,
 			"BaseURL":  baseURL,
-			"Path":     circular.Permalink,
+			"Path":     circular.Permalink(),
 			"Circular": circular,
 		}
 

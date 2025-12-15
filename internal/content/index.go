@@ -89,6 +89,11 @@ func (b *Builder) Build() (*SiteIndex, error) {
 				return nil // Continue processing other files
 			}
 
+			// Skip drafts and non-published circulars
+			if summary.Draft || (summary.ProcessingStatus != "" && summary.ProcessingStatus != "published") {
+				return nil
+			}
+
 			idx.addCircular(summary)
 			return nil
 		})
