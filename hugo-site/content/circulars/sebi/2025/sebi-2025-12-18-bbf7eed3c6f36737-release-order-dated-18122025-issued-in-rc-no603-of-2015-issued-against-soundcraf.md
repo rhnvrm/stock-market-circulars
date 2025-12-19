@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/1766126332428.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2025-12-19T16:11:06.690444'
+  processed_at: '2025-12-19T19:10:47.273914'
   processor_version: '2.0'
   stage: download_failed
   status: failed
