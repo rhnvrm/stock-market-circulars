@@ -2,11 +2,11 @@
 circular_id: 1c9964cbb21ebe2a
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/dec-2025/certificate-no-rc8981-of-2025-notice-of-demand-in-respect-of-piccadily-sales-and-services-pvt-ltd-now-amalgamated-with-plenty-niryat-pvt-ltd-pan-aabcp6776c-in-the-matter-of-thirani-projects-ltd-_98803.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jan-2026/1767353684804.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/dec-2025/certificate-no-rc8981-of-2025-notice-of-demand-in-respect-of-piccadily-sales-and-services-pvt-ltd-now-amalgamated-with-plenty-niryat-pvt-ltd-pan-aabcp6776c-in-the-matter-of-thirani-projects-ltd-_98803.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-01-02T21:38:56.356561'
+  processed_at: '2026-01-04T18:37:31.866378'
   processor_version: '2.0'
   stage: download_failed
   status: failed
