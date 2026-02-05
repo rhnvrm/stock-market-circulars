@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/orders/feb-2026/adjudication-order-
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-03T02:29:20.122785'
+  processed_at: '2026-02-05T07:15:42.487639'
   processor_version: '2.0'
   stage: download_failed
   status: failed
