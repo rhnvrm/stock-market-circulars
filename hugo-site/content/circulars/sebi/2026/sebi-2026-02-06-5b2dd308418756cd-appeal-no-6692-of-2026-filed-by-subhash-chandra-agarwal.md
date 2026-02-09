@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/orders/feb-2026/appeal-no-6692-of-2
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-06T21:51:10.478211'
+  processed_at: '2026-02-09T05:12:03.330868'
   processor_version: '2.0'
   stage: download_failed
   status: failed

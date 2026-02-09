@@ -2,11 +2,11 @@
 circular_id: f73d3a3a06520b87
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/feb-2026/release-order-kamaljeet-singh-defaulter-pan-anipk8791p-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-certificate-no-8496-of-2025-_99574.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/feb-2026/release-order-kamaljeet-singh-defaulter-pan-anipk8791p-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-certificate-no-8496-of-2025-_99574.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/feb-2026/1770378592294.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-06T21:51:10.501694'
+  processed_at: '2026-02-09T05:12:01.994690'
   processor_version: '2.0'
   stage: download_failed
   status: failed
