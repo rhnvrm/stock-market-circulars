@@ -45,19 +45,21 @@
     <h2>Search Stock Market Circulars</h2>
   </header>
 
-  <form method="get" action="/search" class="search-form">
-    <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" autofocus>
-    <select name="source">
-      <option value=""{{if eq .Source ""}} selected{{end}}>All Sources</option>
-      <option value="nse"{{if eq .Source "nse"}} selected{{end}}>NSE</option>
-      <option value="bse"{{if eq .Source "bse"}} selected{{end}}>BSE</option>
-      <option value="sebi"{{if eq .Source "sebi"}} selected{{end}}>SEBI</option>
-    </select>
-    <button type="submit">Search</button>
+  <form method="get" action="/search">
+    <fieldset class="group">
+      <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" autofocus>
+      <select name="source">
+        <option value=""{{if eq .Source ""}} selected{{end}}>All Sources</option>
+        <option value="nse"{{if eq .Source "nse"}} selected{{end}}>NSE</option>
+        <option value="bse"{{if eq .Source "bse"}} selected{{end}}>BSE</option>
+        <option value="sebi"{{if eq .Source "sebi"}} selected{{end}}>SEBI</option>
+      </select>
+      <button type="submit">Search</button>
+    </fieldset>
   </form>
 
   {{if .Error}}
-  <p class="error-message">{{.Error}}</p>
+  <div role="alert" data-variant="error">{{.Error}}</div>
   {{end}}
 
   {{if .Results}}
@@ -66,8 +68,8 @@
 
     <div class="results-list">
       {{range .Results}}
-      <div class="search-result-item">
-        <div class="result-header">
+      <article class="card search-result-item">
+        <div class="flex justify-between result-header">
           <h3 class="result-title">
             <a href="{{.URL}}">{{.Title}}</a>
           </h3>
@@ -81,11 +83,11 @@
           {{end}}
         </div>
         {{end}}
-        <div class="result-meta">
+        <div class="hstack result-meta">
           <span class="result-date">{{.Date}}</span>
           {{if .Category}}<span class="badge secondary category-badge">{{.Category}}</span>{{end}}
         </div>
-      </div>
+      </article>
       {{end}}
     </div>
 

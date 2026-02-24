@@ -43,7 +43,7 @@
 <article>
   <header class="article-header">
     <h1>{{.Circular.Title}}</h1>
-    <div class="article-dates">
+    <div class="hstack article-dates">
       <div class="date-item">
         <span class="date-label">Published:</span>
         <time datetime="{{formatDateTime .Circular.Date.Time}}" class="date-value">{{formatDateLong .Circular.Date.Time}}</time>
@@ -57,7 +57,7 @@
     </div>
 
     <!-- Quick Tags -->
-    <div class="article-quick-tags">
+    <div class="hstack article-quick-tags">
       {{if .Circular.Source}}
       <a href="/circulars/{{.Circular.Source}}/" class="badge source-badge">{{upper .Circular.Source}}</a>
       {{end}}
@@ -108,7 +108,7 @@
   </div>
 
   <!-- Metadata Table -->
-  <div class="metadata-section">
+  <article class="card metadata-section">
     <table class="metadata-table">
       <tbody>
         {{if .Circular.Category}}
@@ -192,7 +192,7 @@
         </tr>
       </tbody>
     </table>
-  </div>
+  </article>
 </article>
 
   </main>
