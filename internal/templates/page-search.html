@@ -46,14 +46,14 @@
   </header>
 
   <form method="get" action="/search" class="search-form">
-    <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" class="search-input" autofocus>
-    <select name="source" class="search-select">
+    <input type="text" name="q" placeholder="Search circulars..." value="{{.Query}}" autofocus>
+    <select name="source">
       <option value=""{{if eq .Source ""}} selected{{end}}>All Sources</option>
       <option value="nse"{{if eq .Source "nse"}} selected{{end}}>NSE</option>
       <option value="bse"{{if eq .Source "bse"}} selected{{end}}>BSE</option>
       <option value="sebi"{{if eq .Source "sebi"}} selected{{end}}>SEBI</option>
     </select>
-    <button type="submit" class="search-button">Search</button>
+    <button type="submit">Search</button>
   </form>
 
   {{if .Error}}
@@ -71,7 +71,7 @@
           <h3 class="result-title">
             <a href="{{.URL}}">{{.Title}}</a>
           </h3>
-          <span class="tag-badge source-badge">{{upper .Source}}</span>
+          <span class="badge source-badge">{{upper .Source}}</span>
         </div>
         <p class="result-description">{{.Description}}</p>
         {{if .Highlights}}
@@ -83,7 +83,7 @@
         {{end}}
         <div class="result-meta">
           <span class="result-date">{{.Date}}</span>
-          {{if .Category}}<span class="tag-badge category-badge">{{.Category}}</span>{{end}}
+          {{if .Category}}<span class="badge secondary category-badge">{{.Category}}</span>{{end}}
         </div>
       </div>
       {{end}}

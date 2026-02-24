@@ -59,16 +59,16 @@
     <!-- Quick Tags -->
     <div class="article-quick-tags">
       {{if .Circular.Source}}
-      <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
+      <a href="/circulars/{{.Circular.Source}}/" class="badge source-badge">{{upper .Circular.Source}}</a>
       {{end}}
       {{if .Circular.Category}}
-      <span class="tag-badge category-badge">{{.Circular.Category}}</span>
+      <span class="badge secondary category-badge">{{.Circular.Category}}</span>
       {{end}}
       {{range slice .Circular.Stocks 0 2}}
-      <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+      <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
       {{end}}
       {{range slice .Circular.Tags 0 2}}
-      <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
+      <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
       {{end}}
     </div>
   </header>
@@ -115,7 +115,7 @@
         <tr>
           <td class="metadata-label">Category</td>
           <td class="metadata-value">
-            <span class="tag-badge category-badge">{{.Circular.Category}}</span>
+            <span class="badge secondary category-badge">{{.Circular.Category}}</span>
           </td>
         </tr>
         {{end}}
@@ -133,7 +133,7 @@
         <tr>
           <td class="metadata-label">Impact</td>
           <td class="metadata-value">
-            <span class="tag-badge impact-badge impact-{{lower .Circular.Impact}}">{{title .Circular.Impact}}</span>
+            <span class="badge impact-{{lower .Circular.Impact}}">{{title .Circular.Impact}}</span>
           </td>
         </tr>
         {{end}}
@@ -142,7 +142,7 @@
         <tr>
           <td class="metadata-label">Severity</td>
           <td class="metadata-value">
-            <span class="tag-badge severity-badge severity-{{lower .Circular.Severity}}">{{title .Circular.Severity}}</span>
+            <span class="badge severity-{{lower .Circular.Severity}}">{{title .Circular.Severity}}</span>
           </td>
         </tr>
         {{end}}
@@ -152,7 +152,7 @@
           <td class="metadata-label">Stocks</td>
           <td class="metadata-value tag-cell">
             {{range .Circular.Stocks}}
-            <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+            <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
             {{end}}
           </td>
         </tr>
@@ -163,7 +163,7 @@
           <td class="metadata-label">Tags</td>
           <td class="metadata-value tag-cell">
             {{range .Circular.Tags}}
-            <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
+            <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
             {{end}}
           </td>
         </tr>
@@ -173,7 +173,7 @@
           <td class="metadata-label">Source</td>
           <td class="metadata-value">
             {{if .Circular.Source}}
-            <a href="/circulars/{{.Circular.Source}}/" class="tag-badge source-badge">{{upper .Circular.Source}}</a>
+            <a href="/circulars/{{.Circular.Source}}/" class="badge source-badge">{{upper .Circular.Source}}</a>
             {{end}}
           </td>
         </tr>

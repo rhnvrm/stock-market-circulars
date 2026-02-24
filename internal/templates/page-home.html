@@ -88,16 +88,16 @@
           <td class="article-tags">
             <div class="tag-container">
               {{if .Source}}
-              <a href="/circulars/{{.Source}}/" class="tag-badge source-badge">{{upper .Source}}</a>
+              <a href="/circulars/{{.Source}}/" class="badge source-badge">{{upper .Source}}</a>
               {{end}}
               {{if .Category}}
-              <span class="tag-badge category-badge">{{.Category}}</span>
+              <span class="badge secondary category-badge">{{.Category}}</span>
               {{end}}
               {{range slice .Stocks 0 2}}
-              <a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>
+              <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
               {{end}}
               {{range slice .Tags 0 2}}
-              <a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>
+              <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
               {{end}}
               {{$stockLen := len .Stocks}}{{$tagLen := len .Tags}}
               {{$total := add $stockLen $tagLen}}
@@ -126,14 +126,14 @@
                   {{if .Impact}}
                   <tr>
                     <td class="detail-label">Impact</td>
-                    <td class="detail-value"><span class="tag-badge">{{title .Impact}}</span></td>
+                    <td class="detail-value"><span class="badge secondary">{{title .Impact}}</span></td>
                   </tr>
                   {{end}}
 
                   {{if .Severity}}
                   <tr>
                     <td class="detail-label">Severity</td>
-                    <td class="detail-value"><span class="tag-badge">{{title .Severity}}</span></td>
+                    <td class="detail-value"><span class="badge secondary">{{title .Severity}}</span></td>
                   </tr>
                   {{end}}
 
@@ -148,7 +148,7 @@
                   <tr>
                     <td class="detail-label">Stocks</td>
                     <td class="detail-value tag-cell">
-                      {{range .Stocks}}<a href="/stocks/{{.}}/" class="tag-badge stock-badge">{{upper .}}</a>{{end}}
+                      {{range .Stocks}}<a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>{{end}}
                     </td>
                   </tr>
                   {{end}}
@@ -157,7 +157,7 @@
                   <tr>
                     <td class="detail-label">Tags</td>
                     <td class="detail-value tag-cell">
-                      {{range .Tags}}<a href="/tags/{{.}}/" class="tag-badge">{{.}}</a>{{end}}
+                      {{range .Tags}}<a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>{{end}}
                     </td>
                   </tr>
                   {{end}}
