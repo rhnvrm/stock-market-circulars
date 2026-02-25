@@ -2,11 +2,11 @@
 circular_id: d530ffff77fcc672
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/feb-2026/adjudication-order-in-the-matter-of-india-knowledge-manufacturing-fund-i-a-scheme-of-forum-synergies-india-trust_99924.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/feb-2026/ORDER_1771834253.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/orders/feb-2026/adjudication-order-in-the-matter-of-india-knowledge-manufacturing-fund-i-a-scheme-of-forum-synergies-india-trust_99924.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-24T02:11:36.100204'
+  processed_at: '2026-02-25T10:05:33.800569'
   processor_version: '2.0'
   stage: download_failed
   status: failed
