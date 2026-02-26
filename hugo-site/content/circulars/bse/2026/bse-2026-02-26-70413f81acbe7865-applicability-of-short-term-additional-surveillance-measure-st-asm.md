@@ -6,7 +6,7 @@ pdf_url: https://www.bseindia.com/markets/MarketInfo/DownloadAttach.aspx?id=2026
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-26T19:00:47.759655'
+  processed_at: '2026-02-26T21:37:49.046251'
   processor_version: '2.0'
   stage: download_failed
   status: failed
