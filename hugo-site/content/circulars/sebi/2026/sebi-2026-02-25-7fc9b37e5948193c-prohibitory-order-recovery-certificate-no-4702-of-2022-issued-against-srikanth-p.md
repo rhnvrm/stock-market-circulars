@@ -2,11 +2,11 @@
 circular_id: 7fc9b37e5948193c
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/feb-2026/prohibitory-order-recovery-certificate-no-4702-of-2022-issued-against-srikanth-patchava-pan-amipp2715r-in-the-matter-of-venus-power-ventures-india-ltd-_99974.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/feb-2026/prohibitory-order-recovery-certificate-no-4702-of-2022-issued-against-srikanth-patchava-pan-amipp2715r-in-the-matter-of-venus-power-ventures-india-ltd-_99974.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/feb-2026/1772078332031.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-26T04:58:17.224641'
+  processed_at: '2026-02-26T07:02:15.344515'
   processor_version: '2.0'
   stage: download_failed
   status: failed
