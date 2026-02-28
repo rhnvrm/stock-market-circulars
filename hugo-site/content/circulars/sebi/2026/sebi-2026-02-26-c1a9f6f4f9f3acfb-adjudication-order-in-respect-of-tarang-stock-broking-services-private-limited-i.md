@@ -2,11 +2,11 @@
 circular_id: c1a9f6f4f9f3acfb
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/feb-2026/adjudication-order-in-respect-of-tarang-stock-broking-services-private-limited-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100036.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/feb-2026/adjudication-order-in-respect-of-tarang-stock-broking-services-private-limited-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100036.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/feb-2026/1772167646574.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-02-27T07:00:49.461472'
+  processed_at: '2026-02-28T01:59:48.207764'
   processor_version: '2.0'
   stage: download_failed
   status: failed
