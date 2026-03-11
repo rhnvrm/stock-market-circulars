@@ -2,11 +2,11 @@
 circular_id: 2b0acdbb4258d47e
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/mar-2026/adjudication-order-in-respect-of-ratan-kumar-sikaria-huf-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100201.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/ORDER_1773048936.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/orders/mar-2026/adjudication-order-in-respect-of-ratan-kumar-sikaria-huf-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100201.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-03-10T06:56:40.899834'
+  processed_at: '2026-03-11T07:00:33.258512'
   processor_version: '2.0'
   stage: download_failed
   status: failed
