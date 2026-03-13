@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM73268.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-03-13T13:07:30.011600'
+  processed_at: '2026-03-13T15:57:39.466906'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-03-13T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/COM73268.pdf
