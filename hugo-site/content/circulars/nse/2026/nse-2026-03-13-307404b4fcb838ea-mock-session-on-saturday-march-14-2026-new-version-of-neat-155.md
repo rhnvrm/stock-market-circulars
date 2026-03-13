@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM73261.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-03-13T09:44:49.939031'
+  processed_at: '2026-03-13T13:08:11.513566'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
