@@ -1,0 +1,20 @@
+---
+circular_id: 4318a07f0eb25236
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/mar-2026/adjudication-order-in-respect-of-shanti-bhutra-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100340.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/ORDER_1773398901.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-03-15T02:31:50.330262'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2026-03-13T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/mar-2026/adjudication-order-in-respect-of-shanti-bhutra-in-the-matter-of-dealings-in-illiquid-stock-options-on-bse_100340.html
+source: sebi
+title: Adjudication Order in respect of Shanti Bhutra in the matter of dealings in
+  Illiquid Stock Options on BSE
+---
+
+Processing in progress...
