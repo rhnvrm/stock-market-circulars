@@ -6,7 +6,7 @@ pdf_url: https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-03-31T16:06:44.085523'
+  processed_at: '2026-03-31T19:03:15.591597'
   processor_version: '2.0'
   stage: download_failed
   status: failed
