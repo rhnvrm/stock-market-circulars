@@ -2,11 +2,11 @@
 circular_id: c08fea32e0d1c68d
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/apr-2026/certificate-no-rc9042-of-2026-a-p-nos-15275-and-15276-of-2026-in-respect-of-faithful-cloth-merchants-pvt-ltd-pan-aabcf6670p-in-the-matter-of-illiquid-stock-options_100887.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1775824309930.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/apr-2026/certificate-no-rc9042-of-2026-a-p-nos-15275-and-15276-of-2026-in-respect-of-faithful-cloth-merchants-pvt-ltd-pan-aabcf6670p-in-the-matter-of-illiquid-stock-options_100887.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-04-15T07:56:50.831545'
+  processed_at: '2026-04-16T07:52:45.227048'
   processor_version: '2.0'
   stage: download_failed
   status: failed
