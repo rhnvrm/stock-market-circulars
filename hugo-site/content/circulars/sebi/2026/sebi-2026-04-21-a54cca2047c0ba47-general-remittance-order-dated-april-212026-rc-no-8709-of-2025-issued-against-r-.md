@@ -1,20 +1,67 @@
 ---
+category: compliance
 circular_id: a54cca2047c0ba47
-draft: true
+date: '2026-04-21'
+description: 'SEBI issued a General Remittance Order dated April 21, 2026 under Recovery
+  Certificate No. 8709 of 2025 against R S Ramani (PAN: AHVPR9966J) in the matter
+  of Securekloud Technologies Limited.'
+draft: false
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/apr-2026/general-remittance-order-dated-april-21-2026-rc-no-8709-of-2025-issued-against-r-s-ramani-pan-ahvpr9966j-in-the-matter-of-securekloud-technologies-limited-_101050.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/apr-2026/general-remittance-order-dated-april-21-2026-rc-no-8709-of-2025-issued-against-r-s-ramani-pan-ahvpr9966j-in-the-matter-of-securekloud-technologies-limited-_101050.html
+impact: low
+impact_ranking: low
+importance_ranking: medium
+justification: Enforcement action targeting a specific individual; limited broader
+  market impact but significant for the named party and Securekloud Technologies Limited
+  matter.
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/1776851723390.pdf
 processing:
   attempts: 1
-  content_hash: ''
-  processed_at: '2026-04-23T05:40:24.529876'
+  content_hash: a296be914dcfcda6
+  processed_at: '2026-04-26T19:05:13.395455'
   processor_version: '2.0'
-  stage: download_failed
-  status: failed
+  stage: completed
+  status: published
 published_date: '2026-04-21T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/apr-2026/general-remittance-order-dated-april-21-2026-rc-no-8709-of-2025-issued-against-r-s-ramani-pan-ahvpr9966j-in-the-matter-of-securekloud-technologies-limited-_101050.html
+severity: high
 source: sebi
-title: 'General Remittance Order dated April 21,2026 – RC no 8709 of 2025 issued against
-  R S Ramani (PAN: AHVPR9966J)  in the matter of Securekloud Technologies Limited.'
+stocks:
+- SECUREKLOUD
+tags:
+- recovery-certificate
+- remittance-order
+- enforcement
+- securekloud-technologies
+- individual-action
+title: General Remittance Order Against R S Ramani in the Matter of Securekloud Technologies
+  Limited
 ---
 
-Processing in progress...
+## Summary
+
+SEBI has issued a General Remittance Order dated April 21, 2026 under Recovery Certificate No. 8709 of 2025 against R S Ramani (PAN: AHVPR9966J) in connection with the matter of Securekloud Technologies Limited. This order directs the recovery of dues owed to SEBI as determined in prior adjudication or regulatory proceedings.
+
+## Key Points
+
+- Recovery Certificate No. 8709 of 2025 issued against R S Ramani (PAN: AHVPR9966J)
+- General Remittance Order dated April 21, 2026
+- Proceedings relate to the matter of Securekloud Technologies Limited
+- SEBI is exercising its powers to recover outstanding dues from the named individual
+
+## Regulatory Changes
+
+No new regulatory changes are introduced. This order is an enforcement action under existing SEBI recovery and adjudication frameworks.
+
+## Compliance Requirements
+
+- R S Ramani (PAN: AHVPR9966J) is required to comply with the remittance order and pay the dues specified under Recovery Certificate No. 8709 of 2025
+- Banks and financial institutions may be directed to assist in recovery as per SEBI's enforcement powers
+
+## Important Dates
+
+- Recovery Certificate No.: 8709 of 2025
+- General Remittance Order Date: April 21, 2026
+
+## Impact Assessment
+
+This is an individual enforcement action with limited broader market impact. It signals SEBI's continued pursuit of outstanding recovery certificates related to the Securekloud Technologies Limited matter. The action does not directly affect current market participants or trading operations beyond the named respondent.

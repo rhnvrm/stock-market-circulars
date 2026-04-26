@@ -2,11 +2,11 @@
 circular_id: 05157c824ca51e73
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/apr-2026/adjudication-order-in-respect-of-fastino-dealers-private-limited-in-the-matter-of-illiquid-stock-options-at-bse_101003.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/apr-2026/ORDER_1776665444.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/orders/apr-2026/adjudication-order-in-respect-of-fastino-dealers-private-limited-in-the-matter-of-illiquid-stock-options-at-bse_101003.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-04-23T05:46:29.251676'
+  processed_at: '2026-04-26T19:07:01.797704'
   processor_version: '2.0'
   stage: download_failed
   status: failed
