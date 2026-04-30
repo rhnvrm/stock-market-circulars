@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COMP73981.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-04-30T19:35:22.977178'
+  processed_at: '2026-04-30T22:07:01.761514'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-04-30T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/COMP73981.zip
