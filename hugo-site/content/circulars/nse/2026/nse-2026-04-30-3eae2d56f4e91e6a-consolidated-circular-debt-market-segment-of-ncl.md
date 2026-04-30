@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS74002.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-04-30T16:57:49.194403'
+  processed_at: '2026-04-30T19:33:04.586903'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
