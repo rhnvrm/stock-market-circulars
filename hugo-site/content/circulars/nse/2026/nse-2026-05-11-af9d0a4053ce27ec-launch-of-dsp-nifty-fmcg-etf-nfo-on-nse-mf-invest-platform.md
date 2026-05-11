@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF74140.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-11T15:18:14.007031'
+  processed_at: '2026-05-11T17:31:13.507190'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
