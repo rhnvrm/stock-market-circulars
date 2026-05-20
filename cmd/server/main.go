@@ -100,10 +100,10 @@ func main() {
 			}
 			indexLock.RUnlock()
 
-			if err := searchSvc.EnsureIndexed(circulars, baseURL, true); err != nil {
+			if err := searchSvc.IndexCirculars(circulars, baseURL); err != nil {
 				log.Printf("Warning: Failed to re-index Typesense: %v", err)
 			} else {
-				log.Println("Typesense re-indexing completed")
+				log.Printf("Typesense re-indexing completed with %d circulars", len(circulars))
 			}
 		}
 	}
