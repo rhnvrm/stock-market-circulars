@@ -79,3 +79,6 @@ combined_pipeline.log
 inbox/*.pdf
 inbox/*.doc
 inbox/*.docx*.bin
+
+typesense-data/
+app-data/
