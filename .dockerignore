@@ -1,0 +1,48 @@
+.git
+.github
+.gitignore
+.envrc
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Build artifacts
+server.bin
+*.exe
+*.test
+*.out
+dist/
+bin/
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Docs and non-build assets
+README.md
+docs/
+*.md
+
+# Python pipeline (not needed in Go image)
+scripts/
+combined_pipeline.log
+*.log
+
+# Hugo legacy site (content is pulled via git sync or mounted)
+hugo-site/
+
+# Nix
+flake.nix
+flake.lock
+.direnv/
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+typesense-data/
+app-data/
