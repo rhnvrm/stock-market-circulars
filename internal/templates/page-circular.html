@@ -1,0 +1,205 @@
+{{define "page-circular"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{if .Title}}{{.Title}} | {{end}}Stock Market Circulars</title>
+
+  {{if .Circular.Description}}
+  <meta name="description" content="{{.Circular.Description}}">
+  {{end}}
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-brand">
+      <a href="/" class="brand-link">Stock Market Circulars</a>
+      <span class="brand-tagline">NSE • BSE • SEBI</span>
+    </div>
+    <nav class="header-nav">
+      <a href="/" class="nav-link">Recent</a>
+      <a href="/circulars/" class="nav-link">All</a>
+      <span class="nav-divider"></span>
+      <a href="/circulars/nse/" class="nav-link">NSE</a>
+      <a href="/circulars/bse/" class="nav-link">BSE</a>
+      <a href="/circulars/sebi/" class="nav-link">SEBI</a>
+      <span class="nav-divider"></span>
+      <a href="/tags/" class="nav-link">Tags</a>
+      <a href="/stocks/" class="nav-link">Stocks</a>
+      <a href="/feeds/" class="nav-link">RSS</a>
+      <a href="/search" class="nav-link nav-search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<article>
+  <header class="article-header">
+    <h1>{{.Circular.Title}}</h1>
+    <div class="hstack article-dates">
+      <div class="date-item">
+        <span class="date-label">Published:</span>
+        <time datetime="{{formatDateTime .Circular.Date.Time}}" class="date-value">{{formatDateLong .Circular.Date.Time}}</time>
+      </div>
+      {{if .Circular.Processing.ProcessedAt.Time.Year}}
+      <div class="date-item">
+        <span class="date-label">Processed:</span>
+        <time class="date-value">{{formatDateLong .Circular.Processing.ProcessedAt.Time}}</time>
+      </div>
+      {{end}}
+    </div>
+
+    <!-- Quick Tags -->
+    <div class="hstack article-quick-tags">
+      {{if .Circular.Source}}
+      <a href="/circulars/{{.Circular.Source}}/" class="badge source-badge">{{upper .Circular.Source}}</a>
+      {{end}}
+      {{if .Circular.Category}}
+      <span class="badge secondary category-badge">{{.Circular.Category}}</span>
+      {{end}}
+      {{range slice .Circular.Stocks 0 2}}
+      <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
+      {{end}}
+      {{range slice .Circular.Tags 0 2}}
+      <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
+      {{end}}
+    </div>
+  </header>
+
+  <!-- PDF Embed Section -->
+  {{if .Circular.PDFURL}}
+  {{if hasSuffix .Circular.PDFURL ".pdf"}}
+  <div class="pdf-section">
+    <h2>PDF Document</h2>
+    <div class="pdf-container">
+      <embed src="{{.Circular.PDFURL}}" type="application/pdf" width="100%" height="600px" />
+      <p class="pdf-fallback">
+        <a href="{{.Circular.PDFURL}}" target="_blank" class="simple-link">
+          If the PDF doesn't display, click here to view it in a new tab ↗
+        </a>
+      </p>
+    </div>
+  </div>
+  {{end}}
+  {{end}}
+
+  <!-- Main Content -->
+  <div class="article-body">
+  {{if .Circular.Description}}
+    <h2>Description</h2>
+    <p>{{.Circular.Description}}</p>
+  {{end}}
+
+  {{if .Circular.HTMLContent}}
+    {{.Circular.HTMLContent | safeHTML}}
+  {{end}}
+
+  {{if .Circular.Justification}}
+    <h2>Impact Justification</h2>
+    <p class="justification-text">{{.Circular.Justification}}</p>
+  {{end}}
+  </div>
+
+  <!-- Metadata Table -->
+  <article class="card metadata-section">
+    <table class="metadata-table">
+      <tbody>
+        {{if .Circular.Category}}
+        <tr>
+          <td class="metadata-label">Category</td>
+          <td class="metadata-value">
+            <span class="badge secondary category-badge">{{.Circular.Category}}</span>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.CircularID}}
+        <tr>
+          <td class="metadata-label">Circular ID</td>
+          <td class="metadata-value">
+            <code class="circular-id">{{.Circular.CircularID}}</code>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Impact}}
+        <tr>
+          <td class="metadata-label">Impact</td>
+          <td class="metadata-value">
+            <span class="badge impact-{{lower .Circular.Impact}}">{{title .Circular.Impact}}</span>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Severity}}
+        <tr>
+          <td class="metadata-label">Severity</td>
+          <td class="metadata-value">
+            <span class="badge severity-{{lower .Circular.Severity}}">{{title .Circular.Severity}}</span>
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Stocks}}
+        <tr>
+          <td class="metadata-label">Stocks</td>
+          <td class="metadata-value tag-cell">
+            {{range .Circular.Stocks}}
+            <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
+            {{end}}
+          </td>
+        </tr>
+        {{end}}
+
+        {{if .Circular.Tags}}
+        <tr>
+          <td class="metadata-label">Tags</td>
+          <td class="metadata-value tag-cell">
+            {{range .Circular.Tags}}
+            <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
+            {{end}}
+          </td>
+        </tr>
+        {{end}}
+
+        <tr>
+          <td class="metadata-label">Source</td>
+          <td class="metadata-value">
+            {{if .Circular.Source}}
+            <a href="/circulars/{{.Circular.Source}}/" class="badge source-badge">{{upper .Circular.Source}}</a>
+            {{end}}
+          </td>
+        </tr>
+
+        <tr>
+          <td class="metadata-label">Links</td>
+          <td class="metadata-value">
+            {{if .Circular.PDFURL}}
+            <a href="{{.Circular.PDFURL}}" target="_blank" class="simple-link">PDF Document ↗</a>
+            {{end}}
+            {{if .Circular.RSSURL}}
+            <a href="{{.Circular.RSSURL}}" target="_blank" class="simple-link">Original Source ↗</a>
+            {{end}}
+            <a href="{{.BaseURL}}{{.Path}}" class="simple-link">Permalink</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </article>
+</article>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

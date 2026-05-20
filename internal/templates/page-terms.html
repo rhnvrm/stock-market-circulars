@@ -1,0 +1,160 @@
+{{define "page-terms"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{.Title}} | Stock Market Circulars</title>
+
+  <meta name="description" content="{{.Description}}">
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-brand">
+      <a href="/" class="brand-link">Stock Market Circulars</a>
+      <span class="brand-tagline">NSE • BSE • SEBI</span>
+    </div>
+    <nav class="header-nav">
+      <a href="/" class="nav-link">Recent</a>
+      <a href="/circulars/" class="nav-link">All</a>
+      <span class="nav-divider"></span>
+      <a href="/circulars/nse/" class="nav-link">NSE</a>
+      <a href="/circulars/bse/" class="nav-link">BSE</a>
+      <a href="/circulars/sebi/" class="nav-link">SEBI</a>
+      <span class="nav-divider"></span>
+      <a href="/tags/" class="nav-link{{if eq .Path "/tags/"}} active{{end}}">Tags</a>
+      <a href="/stocks/" class="nav-link{{if eq .Path "/stocks/"}} active{{end}}">Stocks</a>
+      <a href="/feeds/" class="nav-link">RSS</a>
+      <a href="/search" class="nav-link nav-search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+<section>
+  <header>
+    <h1>{{.Title}}</h1>
+  </header>
+
+  <!-- Quick Links Section -->
+  <div class="taxonomy-quick-links">
+    <!-- Top 20 Most Used -->
+    <div class="taxonomy-section">
+      <h2>Most Popular {{.Title}}</h2>
+      <div class="taxonomy-grid">
+        {{range .TopByCount}}
+        <div class="taxonomy-item">
+          <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-link">
+            <span class="taxonomy-name">{{if $.IsStocks}}{{upper .Name}}{{else}}{{lower .Name}}{{end}}</span>
+            <span class="taxonomy-count">{{.Count}}</span>
+          </a>
+        </div>
+        {{end}}
+      </div>
+    </div>
+
+    <!-- Recently Updated -->
+    <div class="taxonomy-section">
+      <h2>Recently Active {{.Title}}</h2>
+      <div class="taxonomy-grid">
+        {{range .TopByRecent}}
+        <div class="taxonomy-item">
+          <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-link">
+            <span class="taxonomy-name">{{if $.IsStocks}}{{upper .Name}}{{else}}{{lower .Name}}{{end}}</span>
+            <span class="taxonomy-date">{{formatDate .LastUpdate}}</span>
+          </a>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+
+  <!-- All Items Section - CSS-based filtering for performance -->
+  <script>
+    function taxonomyFilter(totalCount) {
+      return {
+        search: '',
+        debouncedSearch: '',
+        visibleCount: totalCount,
+        debounceTimer: null,
+        updateFilter(value) {
+          clearTimeout(this.debounceTimer);
+          this.debounceTimer = setTimeout(() => {
+            this.debouncedSearch = value;
+            this.$nextTick(() => {
+              if (!value) {
+                this.visibleCount = totalCount;
+              } else {
+                const q = value.toLowerCase();
+                this.visibleCount = document.querySelectorAll('.taxonomy-column-item[data-name*="' + q + '"]').length;
+              }
+            });
+          }, 150);
+        },
+        init() {
+          this.$watch('search', value => this.updateFilter(value));
+        }
+      }
+    }
+  </script>
+  <div class="taxonomy-all-section" x-data="taxonomyFilter({{.TotalCount}})">
+    <div class="flex justify-between taxonomy-all-header">
+      <h2>All {{.Title}} <span class="taxonomy-total" x-text="'(' + visibleCount + ')'"></span></h2>
+
+      <div class="taxonomy-filter">
+        <svg class="filter-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.35-4.35"></path>
+        </svg>
+        <input type="text"
+               x-model="search"
+               placeholder="Filter {{if .IsStocks}}stocks{{else}}tags{{end}}..."
+               class="filter-input">
+        <button class="filter-clear" x-show="search" @click="search = ''" x-transition>×</button>
+      </div>
+    </div>
+
+    <!-- Dynamic CSS filter - much faster than x-show on each item -->
+    <template x-if="debouncedSearch">
+      <style x-text="'.taxonomy-column-item:not([data-name*=\'' + debouncedSearch.toLowerCase() + '\']) { display: none; }'"></style>
+    </template>
+
+    <div class="taxonomy-columns">
+      {{range .AllItems}}
+      <div class="taxonomy-column-item" data-name="{{lower .Name}}">
+        <a href="{{$.BasePath}}{{.Slug}}/" class="taxonomy-column-link">
+          <span class="taxonomy-column-name">
+            {{if $.IsStocks}}<span class="stock-symbol">{{upper .Name}}</span>{{else}}{{lower .Name}}{{end}}
+          </span>
+          <span class="taxonomy-column-meta">
+            <span class="count-badge">{{.Count}}</span>
+            <time class="taxonomy-date">{{formatDate .LastUpdate}}</time>
+          </span>
+        </a>
+      </div>
+      {{end}}
+    </div>
+
+    <!-- Empty state -->
+    <div class="taxonomy-empty" x-show="debouncedSearch && visibleCount === 0" x-cloak>
+      <p>No {{if .IsStocks}}stocks{{else}}tags{{end}} match "<span x-text="debouncedSearch"></span>"</p>
+    </div>
+  </div>
+
+</section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

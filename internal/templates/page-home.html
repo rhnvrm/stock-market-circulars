@@ -1,0 +1,232 @@
+{{define "page-home"}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{if .Title}}{{.Title}} | {{end}}Stock Market Circulars</title>
+
+  {{if .Description}}
+  <meta name="description" content="{{.Description}}">
+  {{end}}
+
+  <link rel="canonical" href="{{.BaseURL}}{{.Path}}">
+  <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Stock Market Circulars",
+    "url": "{{.BaseURL}}"
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <div class="header-brand">
+      <a href="/" class="brand-link">Stock Market Circulars</a>
+      <span class="brand-tagline">NSE • BSE • SEBI</span>
+    </div>
+    <nav class="header-nav">
+      <a href="/" class="nav-link active">Recent</a>
+      <a href="/circulars/" class="nav-link">All</a>
+      <span class="nav-divider"></span>
+      <a href="/circulars/nse/" class="nav-link">NSE</a>
+      <a href="/circulars/bse/" class="nav-link">BSE</a>
+      <a href="/circulars/sebi/" class="nav-link">SEBI</a>
+      <span class="nav-divider"></span>
+      <a href="/tags/" class="nav-link">Tags</a>
+      <a href="/stocks/" class="nav-link">Stocks</a>
+      <a href="/feeds/" class="nav-link">RSS</a>
+      <a href="/search" class="nav-link nav-search">Search</a>
+    </nav>
+  </header>
+
+  <main>
+
+
+<section>
+  <header>
+    <h2>Recent Circulars ({{.TotalCount}} total)</h2>
+  </header>
+
+  <div x-data="{ expanded: {} }">
+    <div class="table">
+    <table class="article-table">
+      <thead>
+        <tr class="table-header">
+          <th class="header-date">Date</th>
+          <th class="header-circular">Circular</th>
+          <th class="header-tags">Tags</th>
+          <th class="header-expand"></th>
+        </tr>
+      </thead>
+      <tbody>
+        {{range .Circulars}}
+        <tr class="article-row" :class="{ 'expanded': expanded['{{.CircularID}}'] }">
+          <td class="article-date">
+            <a href="{{$.BaseURL}}{{.Permalink}}" class="date-link">
+              <time datetime="{{formatDateTime .PublishedDate.Time}}">
+                <span class="date-day">{{formatDay .PublishedDate.Time}}</span>
+                <span class="date-month">{{formatMonth .PublishedDate.Time}}</span>
+                <span class="date-year">{{formatYear .PublishedDate.Time}}</span>
+              </time>
+            </a>
+          </td>
+          <td class="article-circular">
+            <div class="circular-title">
+              <a href="{{$.BaseURL}}{{.Permalink}}">{{.Title}}</a>
+            </div>
+            {{if .Description}}
+            <div class="circular-description">{{truncate .Description 140}}</div>
+            {{end}}
+          </td>
+          <td class="article-tags">
+            <div class="tag-container">
+              {{if .Source}}
+              <a href="/circulars/{{.Source}}/" class="badge source-badge">{{upper .Source}}</a>
+              {{end}}
+              {{if .Category}}
+              <span class="badge secondary category-badge">{{.Category}}</span>
+              {{end}}
+              {{range slice .Stocks 0 2}}
+              <a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>
+              {{end}}
+              {{range slice .Tags 0 2}}
+              <a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>
+              {{end}}
+              {{$stockLen := len .Stocks}}{{$tagLen := len .Tags}}
+              {{$total := add $stockLen $tagLen}}
+              {{if gt $total 4}}
+              <span class="tag-more">+{{sub $total 4}}</span>
+              {{end}}
+            </div>
+          </td>
+          <td class="article-expand">
+            <button class="expand-button"
+                    @click="expanded['{{.CircularID}}'] = !expanded['{{.CircularID}}']"
+                    :class="{ 'expanded': expanded['{{.CircularID}}'] }"
+                    aria-label="Expand details">›</button>
+          </td>
+        </tr>
+        <template x-if="expanded['{{.CircularID}}']">
+          <tr class="article-details">
+            <td class="empty-date-column"></td>
+            <td colspan="3">
+              <div class="details-content">
+                {{if .Description}}
+                <div class="full-description">{{.Description}}</div>
+                {{end}}
+
+                <table class="details-table">
+                  {{if .Impact}}
+                  <tr>
+                    <td class="detail-label">Impact</td>
+                    <td class="detail-value"><span class="badge secondary">{{title .Impact}}</span></td>
+                  </tr>
+                  {{end}}
+
+                  {{if .Severity}}
+                  <tr>
+                    <td class="detail-label">Severity</td>
+                    <td class="detail-value"><span class="badge secondary">{{title .Severity}}</span></td>
+                  </tr>
+                  {{end}}
+
+                  {{if .Justification}}
+                  <tr>
+                    <td class="detail-label">Justification</td>
+                    <td class="detail-value">{{.Justification}}</td>
+                  </tr>
+                  {{end}}
+
+                  {{if .Stocks}}
+                  <tr>
+                    <td class="detail-label">Stocks</td>
+                    <td class="detail-value tag-cell">
+                      {{range .Stocks}}<a href="/stocks/{{.}}/" class="badge outline stock-badge">{{upper .}}</a>{{end}}
+                    </td>
+                  </tr>
+                  {{end}}
+
+                  {{if .Tags}}
+                  <tr>
+                    <td class="detail-label">Tags</td>
+                    <td class="detail-value tag-cell">
+                      {{range .Tags}}<a href="/tags/{{.}}/" class="badge secondary">{{.}}</a>{{end}}
+                    </td>
+                  </tr>
+                  {{end}}
+
+                  <tr>
+                    <td class="detail-label">Links</td>
+                    <td class="detail-value">
+                      <a href="{{$.BaseURL}}{{.Permalink}}" class="simple-link">{{.CircularID}}</a>
+                      {{if .PDFURL}}<a href="{{.PDFURL}}" target="_blank" class="simple-link">PDF</a>{{end}}
+                      {{if .RSSURL}}<a href="{{.RSSURL}}" target="_blank" class="simple-link">Source</a>{{end}}
+                      {{if .HasContent}}<a href="{{$.BaseURL}}{{.Permalink}}" class="simple-link">Analysis</a>{{end}}
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+        </template>
+        {{end}}
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+  {{if .Pagination}}
+  {{if gt .Pagination.TotalPages 1}}
+  <nav class="pagination">
+    {{if .Pagination.HasPrev}}
+    <a href="/?page={{sub .Pagination.CurrentPage 1}}" class="pagination-prev">← prev</a>
+    {{else}}
+    <span class="pagination-prev disabled">← prev</span>
+    {{end}}
+
+    {{if gt .Pagination.CurrentPage 2}}
+    <a href="/?page=1" class="pagination-page">1</a>
+    {{if gt .Pagination.CurrentPage 3}}<span class="pagination-ellipsis">…</span>{{end}}
+    {{end}}
+
+    {{if gt .Pagination.CurrentPage 1}}
+    <a href="/?page={{sub .Pagination.CurrentPage 1}}" class="pagination-page">{{sub .Pagination.CurrentPage 1}}</a>
+    {{end}}
+
+    <span class="pagination-current">{{.Pagination.CurrentPage}}</span>
+
+    {{if lt .Pagination.CurrentPage .Pagination.TotalPages}}
+    <a href="/?page={{add .Pagination.CurrentPage 1}}" class="pagination-page">{{add .Pagination.CurrentPage 1}}</a>
+    {{end}}
+
+    {{if lt .Pagination.CurrentPage (sub .Pagination.TotalPages 1)}}
+    {{if lt .Pagination.CurrentPage (sub .Pagination.TotalPages 2)}}<span class="pagination-ellipsis">…</span>{{end}}
+    <a href="/?page={{.Pagination.TotalPages}}" class="pagination-page">{{.Pagination.TotalPages}}</a>
+    {{end}}
+
+    {{if .Pagination.HasNext}}
+    <a href="/?page={{add .Pagination.CurrentPage 1}}" class="pagination-next">next →</a>
+    {{else}}
+    <span class="pagination-next disabled">next →</span>
+    {{end}}
+  </nav>
+  {{end}}
+  {{end}}
+</section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+  </footer>
+</body>
+</html>
+{{end}}

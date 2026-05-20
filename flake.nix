@@ -28,17 +28,20 @@
             stdenv.cc.cc.lib  # libstdc++
             zlib
             
-            # Static site generation
-            hugo
-            nodejs_20  # For Claude Code and Hugo tooling
-            
+            # Go server
+            go
+            nodejs_20  # For Claude Code
+
             # Development utilities
             direnv
+
+            # Deployment tools
+            awscli2
           ];
 
           shellHook = ''
             echo "🚀 Stock Market Circulars Processing Pipeline"
-            echo "Python + uv + Claude + Hugo development environment"
+            echo "Python + uv + Claude + Go development environment"
             echo ""
             
             # Set up library paths for Python packages
@@ -62,7 +65,8 @@
             echo ""
             echo "🔧 Available commands:"
             echo "  just pipeline    # Run RSS scraping & AI processing"
-            echo "  just serve       # Start Hugo development server"
+            echo "  just serve       # Start Go development server"
+            echo "  just build       # Build Go server binary"
             echo "  just stats       # Show processing statistics"
             echo ""
             echo "📚 Documentation: README.md"
