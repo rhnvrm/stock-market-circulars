@@ -7,10 +7,9 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"sort"
 	"strconv"
 	"strings"
-	"sync"
+	"sync/atomic"
 	"time"
 
 	"github.com/go-chi/chi/v5"
@@ -18,7 +17,6 @@ import (
 	"github.com/rhnvrm/stock-market-circulars/internal/content"
 	"github.com/rhnvrm/stock-market-circulars/internal/gitsync"
 	"github.com/rhnvrm/stock-market-circulars/internal/handlers"
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
 	"github.com/rhnvrm/stock-market-circulars/internal/render"
 	"github.com/rhnvrm/stock-market-circulars/internal/scheduler"
 	"github.com/rhnvrm/stock-market-circulars/internal/search"
@@ -56,101 +54,84 @@ func main() {
 	typesenseKey := getEnv("TYPESENSE_API_KEY", "")
 	typesenseCollection := getEnv("TYPESENSE_COLLECTION", "circulars")
 	typesenseAutoIndex := getEnv("TYPESENSE_AUTO_INDEX", "true") == "true"
+	typesenseReindexOnSync := getEnv("TYPESENSE_REINDEX_ON_SYNC", "true") == "true"
 
 	searchSvc := search.NewService(typesenseHost, typesenseKey, typesenseCollection)
 
-	// Index lock for thread-safe access during sync
-	var indexLock sync.RWMutex
-	var idx *content.SiteIndex
-	var loader *content.Loader
+	var currentState atomic.Pointer[appState]
+	var reindexInFlight atomic.Bool
+	var syncInFlight atomic.Bool
 
-	// Function to rebuild index and re-index Typesense
-	rebuildIndex := func(contentPath string) {
-		log.Println("Rebuilding content index...")
+	buildAndSwapState := func(contentPath string) (*appState, error) {
+		log.Printf("Building content state from %s...", contentPath)
 		start := time.Now()
 
-		newLoader := content.NewLoader(contentPath)
-		builder := content.NewBuilder(contentPath, newLoader)
-		newIdx, err := builder.Build()
+		state, err := buildAppState(contentPath, markdown)
 		if err != nil {
-			log.Printf("Error rebuilding index: %v", err)
+			return nil, err
+		}
+
+		currentState.Store(state)
+		log.Printf("Content state ready: %d circulars in %v", state.index.TotalCount, time.Since(start))
+		return state, nil
+	}
+
+	triggerTypesenseReindex := func(state *appState) {
+		if !searchSvc.IsEnabled() || !typesenseAutoIndex || !typesenseReindexOnSync {
+			return
+		}
+		if !reindexInFlight.CompareAndSwap(false, true) {
+			log.Println("Skipping Typesense reindex: previous run still in progress")
 			return
 		}
 
-		// Atomic swap
-		indexLock.Lock()
-		idx = newIdx
-		loader = newLoader
-		indexLock.Unlock()
-
-		log.Printf("Index rebuilt: %d circulars in %v", newIdx.TotalCount, time.Since(start))
-
-		// Re-index Typesense if enabled
-		if searchSvc.IsEnabled() && typesenseAutoIndex {
-			log.Println("Re-indexing Typesense...")
-			indexLock.RLock()
-			allCirculars := idx.Query(content.QueryOptions{PageSize: idx.TotalCount})
-			circulars := make([]*models.Circular, 0, len(allCirculars.Items))
-			for _, summary := range allCirculars.Items {
-				circular, err := loader.LoadFull(summary.FilePath)
-				if err != nil {
-					continue
-				}
-				circulars = append(circulars, circular)
+		go func(snapshot *appState) {
+			defer reindexInFlight.Store(false)
+			log.Println("Background Typesense reindex started")
+			start := time.Now()
+			if err := searchSvc.IndexCirculars(snapshot.allCirculars, baseURL); err != nil {
+				log.Printf("Warning: Background Typesense reindex failed: %v", err)
+				return
 			}
-			indexLock.RUnlock()
+			log.Printf("Background Typesense reindex completed with %d circulars in %v", len(snapshot.allCirculars), time.Since(start))
+		}(state)
+	}
 
-			if err := searchSvc.IndexCirculars(circulars, baseURL); err != nil {
-				log.Printf("Warning: Failed to re-index Typesense: %v", err)
-			} else {
-				log.Printf("Typesense re-indexing completed with %d circulars", len(circulars))
-			}
+	getState := func(w http.ResponseWriter) *appState {
+		state := currentState.Load()
+		if state == nil {
+			http.Error(w, "Content state unavailable", http.StatusServiceUnavailable)
+			return nil
 		}
+		return state
 	}
 
 	// Initialize git sync if configured
 	var gitSync *gitsync.SyncManager
 	var sched *scheduler.Scheduler
+	startupSyncChanged := false
 
 	if gitRepoURL != "" {
 		log.Printf("Git sync mode enabled: %s -> %s", gitRepoURL, gitDataPath)
 
-		gitSync = gitsync.NewSyncManager(gitRepoURL, gitDataPath, func() {
-			rebuildIndex(gitSync.ContentPath())
-		})
+		gitSync = gitsync.NewSyncManager(gitRepoURL, gitDataPath)
 		gitSync.SetBranch(gitBranch)
 
 		// Clone repository on startup
-		if err := gitSync.Clone(); err != nil {
+		startupSyncChanged, err = gitSync.Clone()
+		if err != nil {
 			log.Fatalf("Failed to clone git repository: %v", err)
 		}
 
 		// Use git-synced content path
 		contentDir = gitSync.ContentPath()
-
-		// Start scheduler for periodic sync
-		sched = scheduler.New()
-		if err := sched.AddSyncJob(syncInterval, func() {
-			if err := gitSync.Pull(); err != nil {
-				log.Printf("Scheduled sync error: %v", err)
-			}
-		}); err != nil {
-			log.Printf("Warning: Failed to add sync job: %v", err)
-		}
-		sched.Start()
-		defer sched.Stop()
 	}
 
-	// Initial index build
-	loader = content.NewLoader(contentDir)
-	log.Println("Building initial content index...")
-	start := time.Now()
-	builder := content.NewBuilder(contentDir, loader)
-	idx, err = builder.Build()
+	// Initial state build
+	state, err := buildAndSwapState(contentDir)
 	if err != nil {
-		log.Fatalf("Failed to build index: %v", err)
+		log.Fatalf("Failed to build content state: %v", err)
 	}
-	log.Printf("Index built: %d circulars in %v", idx.TotalCount, time.Since(start))
 
 	// Initialize Typesense search
 	if searchSvc.IsEnabled() {
@@ -161,25 +142,53 @@ func main() {
 		}
 
 		if typesenseAutoIndex {
-			log.Println("Auto-indexing enabled, loading circulars...")
-			allCirculars := idx.Query(content.QueryOptions{PageSize: idx.TotalCount})
-
-			circulars := make([]*models.Circular, 0, len(allCirculars.Items))
-			for _, summary := range allCirculars.Items {
-				circular, err := loader.LoadFull(summary.FilePath)
-				if err != nil {
-					log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-					continue
+			if startupSyncChanged && typesenseReindexOnSync {
+				log.Println("Startup git sync changed content, refreshing Typesense index...")
+				if err := searchSvc.IndexCirculars(state.allCirculars, baseURL); err != nil {
+					log.Printf("Warning: Failed to refresh Typesense index after startup sync: %v", err)
 				}
-				circulars = append(circulars, circular)
-			}
-
-			if err := searchSvc.EnsureIndexed(circulars, baseURL, typesenseAutoIndex); err != nil {
+			} else if err := searchSvc.EnsureIndexed(state.allCirculars, baseURL, typesenseAutoIndex); err != nil {
 				log.Printf("Warning: Failed to ensure indexing: %v", err)
 			}
 		}
+
+		if !typesenseReindexOnSync {
+			log.Println("Typesense sync reindex disabled; search will only be refreshed automatically when the collection is empty at startup")
+		}
 	} else {
 		log.Println("Typesense search disabled (TYPESENSE_API_KEY not set)")
+	}
+
+	if gitSync != nil {
+		// Start scheduler for periodic sync after initial state/search setup
+		sched = scheduler.New()
+		if err := sched.AddSyncJob(syncInterval, func() {
+			if !syncInFlight.CompareAndSwap(false, true) {
+				log.Println("Scheduled sync skipped: previous run still in progress")
+				return
+			}
+			defer syncInFlight.Store(false)
+
+			changed, err := gitSync.Pull()
+			if err != nil {
+				log.Printf("Scheduled sync error: %v", err)
+				return
+			}
+			if !changed {
+				return
+			}
+
+			state, err := buildAndSwapState(gitSync.ContentPath())
+			if err != nil {
+				log.Printf("Error rebuilding content state after sync: %v", err)
+				return
+			}
+			triggerTypesenseReindex(state)
+		}); err != nil {
+			log.Printf("Warning: Failed to add sync job: %v", err)
+		}
+		sched.Start()
+		defer sched.Stop()
 	}
 
 	// Setup router
@@ -194,19 +203,13 @@ func main() {
 
 	// Routes - Minimal MVP
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
-		page := getPage(r)
-		result := idx.Query(content.QueryOptions{Page: page, PageSize: 50})
-
-		// Load full circulars for template
-		circulars := make([]*models.Circular, 0, len(result.Items))
-		for _, summary := range result.Items {
-			circular, err := loader.LoadFull(summary.FilePath)
-			if err != nil {
-				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-				continue
-			}
-			circulars = append(circulars, circular)
+		state := getState(w)
+		if state == nil {
+			return
 		}
+
+		page := getPage(r)
+		result, circulars := state.queryCirculars(content.QueryOptions{Page: page, PageSize: 50})
 
 		data := map[string]interface{}{
 			"Title":      "Recent Circulars",
@@ -230,22 +233,16 @@ func main() {
 
 	// All circulars page (must be before {source} route)
 	r.Get("/circulars/", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		page := getPage(r)
-		result := idx.Query(content.QueryOptions{
+		result, circulars := state.queryCirculars(content.QueryOptions{
 			Page:     page,
 			PageSize: 50,
 		})
-
-		// Load full circulars for template
-		circulars := make([]*models.Circular, 0, len(result.Items))
-		for _, summary := range result.Items {
-			circular, err := loader.LoadFull(summary.FilePath)
-			if err != nil {
-				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-				continue
-			}
-			circulars = append(circulars, circular)
-		}
 
 		data := map[string]interface{}{
 			"Title":      "All Circulars",
@@ -268,24 +265,18 @@ func main() {
 	})
 
 	r.Get("/circulars/{source}/", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		source := chi.URLParam(r, "source")
 		page := getPage(r)
-		result := idx.Query(content.QueryOptions{
+		result, circulars := state.queryCirculars(content.QueryOptions{
 			Source:   source,
 			Page:     page,
 			PageSize: 50,
 		})
-
-		// Load full circulars for template
-		circulars := make([]*models.Circular, 0, len(result.Items))
-		for _, summary := range result.Items {
-			circular, err := loader.LoadFull(summary.FilePath)
-			if err != nil {
-				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-				continue
-			}
-			circulars = append(circulars, circular)
-		}
 
 		data := map[string]interface{}{
 			"Title":      fmt.Sprintf("%s Circulars", strings.ToUpper(source)),
@@ -309,34 +300,10 @@ func main() {
 
 	// Tags listing page
 	r.Get("/tags/", func(w http.ResponseWriter, r *http.Request) {
-		stats := idx.GetTagStats()
-
-		// Sort by count for top by count
-		topByCount := make([]content.TaxonomyStat, len(stats))
-		copy(topByCount, stats)
-		sort.Slice(topByCount, func(i, j int) bool {
-			return topByCount[i].Count > topByCount[j].Count
-		})
-		if len(topByCount) > 20 {
-			topByCount = topByCount[:20]
+		state := getState(w)
+		if state == nil {
+			return
 		}
-
-		// Sort by recent activity
-		topByRecent := make([]content.TaxonomyStat, len(stats))
-		copy(topByRecent, stats)
-		sort.Slice(topByRecent, func(i, j int) bool {
-			return topByRecent[i].LastUpdate.After(topByRecent[j].LastUpdate)
-		})
-		if len(topByRecent) > 20 {
-			topByRecent = topByRecent[:20]
-		}
-
-		// Sort by count descending for all items
-		allItems := make([]content.TaxonomyStat, len(stats))
-		copy(allItems, stats)
-		sort.Slice(allItems, func(i, j int) bool {
-			return allItems[i].Count > allItems[j].Count
-		})
 
 		data := map[string]interface{}{
 			"Title":       "Tags",
@@ -345,10 +312,10 @@ func main() {
 			"Path":        "/tags/",
 			"BasePath":    "/tags/",
 			"IsStocks":    false,
-			"TotalCount":  len(stats),
-			"TopByCount":  topByCount,
-			"TopByRecent": topByRecent,
-			"AllItems":    allItems,
+			"TotalCount":  state.tags.TotalCount,
+			"TopByCount":  state.tags.TopByCount,
+			"TopByRecent": state.tags.TopByRecent,
+			"AllItems":    state.tags.AllItems,
 		}
 
 		if err := tmplRenderer.Render(w, "page-terms", data); err != nil {
@@ -359,9 +326,14 @@ func main() {
 
 	// Tag-specific page
 	r.Get("/tags/{tag}/", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		tag := chi.URLParam(r, "tag")
 		page := getPage(r)
-		result := idx.Query(content.QueryOptions{
+		result, circulars := state.queryCirculars(content.QueryOptions{
 			Tag:      tag,
 			Page:     page,
 			PageSize: 50,
@@ -370,17 +342,6 @@ func main() {
 		if result.Total == 0 {
 			http.NotFound(w, r)
 			return
-		}
-
-		// Load full circulars for template
-		circulars := make([]*models.Circular, 0, len(result.Items))
-		for _, summary := range result.Items {
-			circular, err := loader.LoadFull(summary.FilePath)
-			if err != nil {
-				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-				continue
-			}
-			circulars = append(circulars, circular)
 		}
 
 		data := map[string]interface{}{
@@ -407,34 +368,10 @@ func main() {
 
 	// Stocks listing page
 	r.Get("/stocks/", func(w http.ResponseWriter, r *http.Request) {
-		stats := idx.GetStockStats()
-
-		// Sort by count for top by count
-		topByCount := make([]content.TaxonomyStat, len(stats))
-		copy(topByCount, stats)
-		sort.Slice(topByCount, func(i, j int) bool {
-			return topByCount[i].Count > topByCount[j].Count
-		})
-		if len(topByCount) > 20 {
-			topByCount = topByCount[:20]
+		state := getState(w)
+		if state == nil {
+			return
 		}
-
-		// Sort by recent activity
-		topByRecent := make([]content.TaxonomyStat, len(stats))
-		copy(topByRecent, stats)
-		sort.Slice(topByRecent, func(i, j int) bool {
-			return topByRecent[i].LastUpdate.After(topByRecent[j].LastUpdate)
-		})
-		if len(topByRecent) > 20 {
-			topByRecent = topByRecent[:20]
-		}
-
-		// Sort by count descending for all items
-		allItems := make([]content.TaxonomyStat, len(stats))
-		copy(allItems, stats)
-		sort.Slice(allItems, func(i, j int) bool {
-			return allItems[i].Count > allItems[j].Count
-		})
 
 		data := map[string]interface{}{
 			"Title":       "Stocks",
@@ -443,10 +380,10 @@ func main() {
 			"Path":        "/stocks/",
 			"BasePath":    "/stocks/",
 			"IsStocks":    true,
-			"TotalCount":  len(stats),
-			"TopByCount":  topByCount,
-			"TopByRecent": topByRecent,
-			"AllItems":    allItems,
+			"TotalCount":  state.stocks.TotalCount,
+			"TopByCount":  state.stocks.TopByCount,
+			"TopByRecent": state.stocks.TopByRecent,
+			"AllItems":    state.stocks.AllItems,
 		}
 
 		if err := tmplRenderer.Render(w, "page-terms", data); err != nil {
@@ -457,9 +394,14 @@ func main() {
 
 	// Stock-specific page
 	r.Get("/stocks/{stock}/", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		stock := strings.ToLower(chi.URLParam(r, "stock"))
 		page := getPage(r)
-		result := idx.Query(content.QueryOptions{
+		result, circulars := state.queryCirculars(content.QueryOptions{
 			Stock:    stock,
 			Page:     page,
 			PageSize: 50,
@@ -468,17 +410,6 @@ func main() {
 		if result.Total == 0 {
 			http.NotFound(w, r)
 			return
-		}
-
-		// Load full circulars for template
-		circulars := make([]*models.Circular, 0, len(result.Items))
-		for _, summary := range result.Items {
-			circular, err := loader.LoadFull(summary.FilePath)
-			if err != nil {
-				log.Printf("Warning: Failed to load circular %s: %v", summary.CircularID, err)
-				continue
-			}
-			circulars = append(circulars, circular)
 		}
 
 		data := map[string]interface{}{
@@ -518,32 +449,27 @@ func main() {
 	})
 
 	r.Get("/circulars/{source}/{year}/{slug}/", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		source := chi.URLParam(r, "source")
 		year := chi.URLParam(r, "year")
 		slug := chi.URLParam(r, "slug")
 
 		pathKey := fmt.Sprintf("%s/%s/%s", source, year, slug)
-		circularID, ok := idx.ByPath[pathKey]
+		circularID, ok := state.index.ByPath[pathKey]
 		if !ok {
 			http.NotFound(w, r)
 			return
 		}
 
-		summary := idx.ByID[circularID]
-		if summary == nil {
-			http.NotFound(w, r)
+		circular, ok := state.circularByID[circularID]
+		if !ok {
+			http.Error(w, "Error loading circular", http.StatusInternalServerError)
 			return
 		}
-
-		// Load full content
-		circular, err := loader.LoadFull(summary.FilePath)
-		if err != nil {
-			http.Error(w, "Error loading circular", 500)
-			return
-		}
-
-		// Render markdown to HTML
-		circular.HTMLContent = markdown.Render(circular.RawContent)
 
 		data := map[string]interface{}{
 			"Title":    circular.Title,
@@ -561,28 +487,43 @@ func main() {
 	// RSS Feeds
 	// Main RSS feed (all sources)
 	r.Get("/feed.xml", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       "Stock Market Circulars",
 			Link:        baseURL,
 			Description: "Latest stock market circulars from NSE, BSE, and SEBI",
 			SelfLink:    baseURL + "/feed.xml",
 			BaseURL:     baseURL,
-		}, idx, loader, markdown)
+		}, state.index, state.circularByID)
 	})
 
 	// All circulars feed
 	r.Get("/circulars/feed.xml", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       "All Stock Market Circulars",
 			Link:        baseURL + "/circulars/",
 			Description: "All circulars from NSE, BSE, and SEBI",
 			SelfLink:    baseURL + "/circulars/feed.xml",
 			BaseURL:     baseURL,
-		}, idx, loader, markdown)
+		}, state.index, state.circularByID)
 	})
 
 	// Source-specific RSS feeds
 	r.Get("/circulars/{source}/feed.xml", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		source := chi.URLParam(r, "source")
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       fmt.Sprintf("%s Circulars", source),
@@ -591,11 +532,16 @@ func main() {
 			SelfLink:    baseURL + "/circulars/" + source + "/feed.xml",
 			BaseURL:     baseURL,
 			Source:      source,
-		}, idx, loader, markdown)
+		}, state.index, state.circularByID)
 	})
 
 	// Tag-specific RSS feeds
 	r.Get("/tags/{tag}/feed.xml", func(w http.ResponseWriter, r *http.Request) {
+		state := getState(w)
+		if state == nil {
+			return
+		}
+
 		tag := chi.URLParam(r, "tag")
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       "Circulars tagged: " + tag,
@@ -604,7 +550,7 @@ func main() {
 			SelfLink:    baseURL + "/tags/" + tag + "/feed.xml",
 			BaseURL:     baseURL,
 			Tag:         tag,
-		}, idx, loader, markdown)
+		}, state.index, state.circularByID)
 	})
 
 	// Search endpoints
@@ -688,7 +634,7 @@ func main() {
 		// Check if search is enabled
 		if !searchSvc.IsEnabled() {
 			w.Header().Set("Content-Type", "application/json")
-			w.WriteHeader(503)
+			w.WriteHeader(http.StatusServiceUnavailable)
 			json.NewEncoder(w).Encode(map[string]string{
 				"error": "Search is not enabled - TYPESENSE_API_KEY not configured",
 			})
@@ -701,7 +647,7 @@ func main() {
 		})
 		if err != nil {
 			w.Header().Set("Content-Type", "application/json")
-			w.WriteHeader(500)
+			w.WriteHeader(http.StatusInternalServerError)
 			json.NewEncoder(w).Encode(map[string]string{
 				"error": err.Error(),
 			})
@@ -715,10 +661,11 @@ func main() {
 
 	// Health check
 	r.Get("/health", func(w http.ResponseWriter, r *http.Request) {
-		indexLock.RLock()
-		count := idx.TotalCount
-		indexLock.RUnlock()
-		fmt.Fprintf(w, "OK - %d circulars indexed (Build: %s)\n", count, buildString)
+		state := getState(w)
+		if state == nil {
+			return
+		}
+		fmt.Fprintf(w, "OK - %d circulars indexed (Build: %s)\n", state.index.TotalCount, buildString)
 	})
 
 	// Start server

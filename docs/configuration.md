@@ -19,7 +19,8 @@ The server is configured via environment variables. Copy `.env.example` to `.env
 | `TYPESENSE_HOST` | `localhost:8108` | Typesense server address |
 | `TYPESENSE_API_KEY` | _(none)_ | Typesense API key (search disabled if empty) |
 | `TYPESENSE_COLLECTION` | `circulars` | Collection name in Typesense |
-| `TYPESENSE_AUTO_INDEX` | `true` | Auto-index circulars on server startup |
+| `TYPESENSE_AUTO_INDEX` | `true` | Auto-index circulars when the collection is empty on server startup |
+| `TYPESENSE_REINDEX_ON_SYNC` | `true` | Run full Typesense reindex in the background after a git sync |
 
 ## Quick Start
 
@@ -57,4 +58,9 @@ export TYPESENSE_HOST=typesense.example.com:443
 ### Disable auto-indexing
 ```bash
 TYPESENSE_AUTO_INDEX=false just serve-with-search
+```
+
+### Disable sync-time reindex while keeping startup indexing
+```bash
+TYPESENSE_REINDEX_ON_SYNC=false just serve-with-search
 ```

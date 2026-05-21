@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/rhnvrm/stock-market-circulars/internal/content"
-	"github.com/rhnvrm/stock-market-circulars/internal/render"
+	"github.com/rhnvrm/stock-market-circulars/internal/models"
 )
 
 // RSS represents the root RSS element with namespaces
@@ -82,7 +82,7 @@ type FeedOptions struct {
 }
 
 // GenerateRSSFeed generates and writes an RSS feed to the response
-func GenerateRSSFeed(w http.ResponseWriter, opts FeedOptions, idx *content.SiteIndex, loader *content.Loader, markdown *render.Markdown) {
+func GenerateRSSFeed(w http.ResponseWriter, opts FeedOptions, idx *content.SiteIndex, circularByID map[string]*models.Circular) {
 	// Query circulars based on filter options
 	result := idx.Query(content.QueryOptions{
 		Source:   opts.Source,
@@ -114,17 +114,9 @@ func GenerateRSSFeed(w http.ResponseWriter, opts FeedOptions, idx *content.SiteI
 
 	// Build items from query results
 	for _, summary := range result.Items {
-		// Load full circular to get PDFURL, ImportanceRanking, and content
-		circular, err := loader.LoadFull(summary.FilePath)
-		if err != nil {
-			// Skip items that fail to load
+		circular, ok := circularByID[summary.CircularID]
+		if !ok {
 			continue
-		}
-
-		// Render markdown to HTML for content:encoded
-		htmlContent := ""
-		if circular.RawContent != "" {
-			htmlContent = markdown.Render(circular.RawContent)
 		}
 
 		// Determine pubDate - prefer PublishedDate, fallback to Date
@@ -152,8 +144,8 @@ func GenerateRSSFeed(w http.ResponseWriter, opts FeedOptions, idx *content.SiteI
 		}
 
 		// Add CDATA-wrapped content if available
-		if htmlContent != "" {
-			item.ContentEncoded = &CDATA{Text: htmlContent}
+		if circular.HTMLContent != "" {
+			item.ContentEncoded = &CDATA{Text: circular.HTMLContent}
 		}
 
 		rss.Channel.Items = append(rss.Channel.Items, item)
