@@ -8,6 +8,7 @@ import (
 	"time"
 
 	"github.com/go-git/go-git/v5"
+	"github.com/go-git/go-git/v5/config"
 	"github.com/go-git/go-git/v5/plumbing"
 )
 
@@ -17,15 +18,13 @@ type SyncManager struct {
 	branch    string
 	repo      *git.Repository
 	mu        sync.Mutex
-	onSync    func()
 }
 
-func NewSyncManager(repoURL, localPath string, onSync func()) *SyncManager {
+func NewSyncManager(repoURL, localPath string) *SyncManager {
 	return &SyncManager{
 		repoURL:   repoURL,
 		localPath: localPath,
 		branch:    "master",
-		onSync:    onSync,
 	}
 }
 
@@ -33,7 +32,7 @@ func (s *SyncManager) SetBranch(branch string) {
 	s.branch = branch
 }
 
-func (s *SyncManager) Clone() error {
+func (s *SyncManager) Clone() (bool, error) {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 
@@ -41,10 +40,29 @@ func (s *SyncManager) Clone() error {
 		log.Printf("Repository exists at %s, opening", s.localPath)
 		repo, err := git.PlainOpen(s.localPath)
 		if err != nil {
-			return err
+			return false, err
 		}
 		s.repo = repo
-		return s.pullLocked()
+		changed, err := s.syncLocked()
+		if err != nil {
+			log.Printf("Existing repository sync failed, recloning: %v", err)
+			return s.recloneLocked()
+		}
+		return changed, nil
+	}
+
+	return s.cloneFreshLocked()
+}
+
+func (s *SyncManager) Pull() (bool, error) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	return s.syncLocked()
+}
+
+func (s *SyncManager) cloneFreshLocked() (bool, error) {
+	if err := os.MkdirAll(filepath.Dir(s.localPath), 0o755); err != nil {
+		return false, err
 	}
 
 	log.Printf("Cloning %s to %s", s.repoURL, s.localPath)
@@ -54,64 +72,76 @@ func (s *SyncManager) Clone() error {
 		URL:           s.repoURL,
 		ReferenceName: plumbing.NewBranchReferenceName(s.branch),
 		SingleBranch:  true,
-		Depth:         1,
+		Tags:          git.NoTags,
 		Progress:      os.Stdout,
 	})
 	if err != nil {
-		return err
+		return false, err
 	}
 
 	s.repo = repo
 	log.Printf("Clone completed in %v", time.Since(start))
+	return true, nil
+}
 
-	if s.onSync != nil {
-		s.onSync()
+func (s *SyncManager) recloneLocked() (bool, error) {
+	s.repo = nil
+	if err := os.RemoveAll(s.localPath); err != nil {
+		return false, err
 	}
-
-	return nil
+	return s.cloneFreshLocked()
 }
 
-func (s *SyncManager) Pull() error {
-	s.mu.Lock()
-	defer s.mu.Unlock()
-	return s.pullLocked()
-}
-
-func (s *SyncManager) pullLocked() error {
+func (s *SyncManager) syncLocked() (bool, error) {
 	if s.repo == nil {
-		return nil
+		return false, nil
 	}
 
-	log.Printf("Pulling from %s", s.repoURL)
+	log.Printf("Fetching %s", s.repoURL)
 	start := time.Now()
+
+	err := s.repo.Fetch(&git.FetchOptions{
+		RemoteName: "origin",
+		RefSpecs: []config.RefSpec{
+			config.RefSpec("+refs/heads/" + s.branch + ":refs/remotes/origin/" + s.branch),
+		},
+		Tags:     git.NoTags,
+		Force:    true,
+		Progress: os.Stdout,
+	})
+	if err != nil && err != git.NoErrAlreadyUpToDate {
+		return false, err
+	}
+
+	remoteRef, err := s.repo.Reference(plumbing.NewRemoteReferenceName("origin", s.branch), true)
+	if err != nil {
+		return false, err
+	}
+
+	headRef, err := s.repo.Head()
+	if err != nil {
+		return false, err
+	}
+
+	if headRef.Hash() == remoteRef.Hash() {
+		log.Printf("Already up to date (%v)", time.Since(start))
+		return false, nil
+	}
 
 	w, err := s.repo.Worktree()
 	if err != nil {
-		return err
+		return false, err
 	}
 
-	err = w.Pull(&git.PullOptions{
-		RemoteName:    "origin",
-		ReferenceName: plumbing.NewBranchReferenceName(s.branch),
-		SingleBranch:  true,
-		Progress:      os.Stdout,
-	})
-
-	if err == git.NoErrAlreadyUpToDate {
-		log.Printf("Already up to date (%v)", time.Since(start))
-		return nil
-	}
-	if err != nil {
-		return err
+	if err := w.Reset(&git.ResetOptions{
+		Commit: remoteRef.Hash(),
+		Mode:   git.HardReset,
+	}); err != nil {
+		return false, err
 	}
 
-	log.Printf("Pull completed in %v", time.Since(start))
-
-	if s.onSync != nil {
-		s.onSync()
-	}
-
-	return nil
+	log.Printf("Sync completed in %v", time.Since(start))
+	return true, nil
 }
 
 func (s *SyncManager) ContentPath() string {
