@@ -145,7 +145,32 @@ justification: "Brief reasoning for rankings"
 
 [Market/operational impact analysis]
 
-Extract concrete information from the circular content. Be specific and accurate. Use flat tag structure (no nesting)."""
+Extract concrete information from the circular content. Be specific and accurate. Use flat tag structure (no nesting).
+
+Tag guidance:
+- Prefer concise, reusable tags over one-off phrases.
+- Prefer lowercase hyphenated tags like `rights-issue`, `change-in-symbol`, `settlement-calendar`, `mutual-fund`, `internal-audit-report`.
+- These suggested tags are preferred but NOT exclusive. If the circular clearly needs a more precise tag, you may create one.
+- Avoid generating near-duplicate variants when one of these fits.
+
+Suggested tag themes and examples:
+- Corporate actions: bonus, split, dividend, rights-issue, rights-entitlement, buyback, capital-reduction, open-offer, offer-for-sale, takeover, share-swap, warrant-conversion, partly-paid, call-money, renunciation, issue-opening, letter-of-offer, ccd, ncd, spinoff, delisting, price-adjustment, ex-date, ex-dividend, record-date
+- Mergers and restructuring: merger, demerger, amalgamation, scheme-of-arrangement, ibc
+- Securities and identification changes: change-in-isin, change-in-name, change-in-symbol, change-in-series, listing-of-equity-shares, same-day-listing, ipo, new-fund-offer
+- Surveillance and trading restrictions: asm, gsm, esm, graded-surveillance-measure, suspension-of-trading, trade-for-trade, illiquid-securities, unauthorized-market-practices
+- Futures and options: introduction-of-futures-contracts, introduction-of-options-contracts, exclusion-of-futures-and-options-contracts, adjustment-of-futures-and-options-contracts, launch-of-futures-contracts, launch-of-options-contracts, modification-in-the-contract, change-in-expiry, force-closure, freeze-quantity, lot-size-change, partly-paid-equity-shares
+- Settlement and operations: settlement-calendar, revised-settlement, settlement-holiday, early-pay-in-of-securities, special-trading, mock-trading, live-activities-schedule, revised-list-of-approved-securities
+- Debt and government securities: g-sec, sdl, t-bill, 91-day-t-bill, 182-day-t-bill, 364-day-t-bill, dated-security, auction, primary-market, yield, coupon, maturity, issuance, bidding
+- Mutual funds: mutual-fund, fund-house, fund-manager, fund-scheme, amc, nav, sip, systematic-investment, redemption, subscription, switch, allotment, cancellation, folio, units, equity-fund, debt-fund, liquid-fund, hybrid-fund, index-fund, etf, star-mf, mf-platform, mf-trading, mf-settlement, mf-operations, fund-accounting, fund-valuation, fund-pricing, fund-performance, scheme-name, scheme-code, rta, trustee, distributor, investment-adviser, portfolio-manager, investor-grievance, investor-protection
+- AMC names when directly relevant: hdfc, icici, sbi, axis, kotak, reliance, aditya-birla, nippon, uti, franklin, dsp, idfc, edelweiss, quantum, mirae, invesco, hsbc, baroda, canara, union, lic, tata, mahindra, sundaram, principal, motilal, iifl, pgim, bandhan, trust
+- Margins and collateral: collateral, allocation, segregation, penalty, margins, upstreaming, downstream, running-account, standardised, additional, haircut, margin-collection
+- Compliance and audit: internal-audit, internal-audit-report, half-yearly-internal-audit-report, action-taken-report, risk-based-supervision, inspection-and-compliance, display-of-brokerage, statutory-and-regulatory-levies, authorised-persons
+- Client onboarding and KYC: kyc, know-your-client, kra, kyc-registration-agency, pan-verification, ucc, unique-client-code, ucc-file-format, ucc-api, uci, unique-client-identifier
+- Regulatory circulars: master-circular
+- New product launches: product-launch
+- Regulatory sources and venues: sebi, rbi, pfrda, bse, nse, bse-star, nse-mf, bse-mf
+- Offers and acquisitions: offer-to-buy, acquisition-window, takeover-offer, buyback-offer, opening-of-offer-to-buy, settlement-schedule-offer, settlement-schedule-offer-to-buy
+- Bhavcopy and market data: bhavcopy, segment-bhavcopy"""
 
 [github_actions]
 # GitHub Actions specific settings
