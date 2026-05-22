@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM74353.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-22T15:10:49.593075'
+  processed_at: '2026-05-22T17:20:04.573416'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

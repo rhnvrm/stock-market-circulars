@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML74347.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-22T15:12:10.510789'
+  processed_at: '2026-05-22T17:21:26.668565'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
