@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG74371.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-22T17:18:44.036058'
+  processed_at: '2026-05-22T19:58:57.869447'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-05-22T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/INVG74371.zip
