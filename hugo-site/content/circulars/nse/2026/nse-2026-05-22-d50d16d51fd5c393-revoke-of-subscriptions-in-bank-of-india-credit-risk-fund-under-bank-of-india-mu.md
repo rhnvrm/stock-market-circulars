@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF74342.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-22T20:07:55.165160'
+  processed_at: '2026-05-22T22:16:00.491805'
   processor_version: '2.0'
   stage: download_failed
   status: failed

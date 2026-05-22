@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD74375.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-22T19:57:58.367820'
+  processed_at: '2026-05-22T22:16:00.533337'
   processor_version: '2.0'
   stage: download_failed
   status: failed
