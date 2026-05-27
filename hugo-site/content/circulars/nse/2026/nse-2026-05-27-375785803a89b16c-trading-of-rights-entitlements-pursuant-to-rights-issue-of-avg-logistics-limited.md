@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML74429.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-05-27T16:13:29.359592'
+  processed_at: '2026-05-27T20:21:44.498063'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
