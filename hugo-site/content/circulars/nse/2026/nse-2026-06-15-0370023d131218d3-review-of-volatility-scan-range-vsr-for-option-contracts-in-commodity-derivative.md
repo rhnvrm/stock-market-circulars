@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM74705.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-15T12:29:09.163517'
+  processed_at: '2026-06-15T19:20:05.973597'
   processor_version: '2.0'
   stage: download_failed
   status: failed
