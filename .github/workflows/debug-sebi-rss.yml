@@ -36,38 +36,36 @@ jobs:
 
       - name: Debug SEBI RSS with httpx
         run: |
-          nix develop --command bash -lc '
-            cd scripts
-            uv run --script - <<"PY"
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["httpx", "lxml"]
-# ///
-import asyncio
-import httpx
-from lxml import etree
+          cat > /tmp/debug_sebi_httpx.py <<'PY'
+          # /// script
+          # requires-python = ">=3.11"
+          # dependencies = ["httpx", "lxml"]
+          # ///
+          import asyncio
+          import httpx
+          from lxml import etree
 
-URL = "https://www.sebi.gov.in/sebirss.xml"
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+          URL = "https://www.sebi.gov.in/sebirss.xml"
+          HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
-async def main():
-    try:
-        async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
-            response = await client.get(URL, headers=HEADERS)
-            print("status", response.status_code)
-            print("content-type", response.headers.get("content-type"))
-            print("server", response.headers.get("server"))
-            print("content-length", response.headers.get("content-length"))
-            print("body-len", len(response.text))
-            print("body-preview", response.text[:500])
-            response.raise_for_status()
-            etree.fromstring(response.text.encode())
-            print("xml-parse", "ok")
-    except Exception as e:
-        print("exception-type", type(e).__name__)
-        print("exception", str(e))
-        raise
+          async def main():
+              try:
+                  async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
+                      response = await client.get(URL, headers=HEADERS)
+                      print("status", response.status_code)
+                      print("content-type", response.headers.get("content-type"))
+                      print("server", response.headers.get("server"))
+                      print("content-length", response.headers.get("content-length"))
+                      print("body-len", len(response.text))
+                      print("body-preview", response.text[:500])
+                      response.raise_for_status()
+                      etree.fromstring(response.text.encode())
+                      print("xml-parse", "ok")
+              except Exception as e:
+                  print("exception-type", type(e).__name__)
+                  print("exception", str(e))
+                  raise
 
-asyncio.run(main())
-PY
-          '
+          asyncio.run(main())
+          PY
+          nix develop --command uv run --script /tmp/debug_sebi_httpx.py
