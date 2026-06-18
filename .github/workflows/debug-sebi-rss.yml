@@ -1,0 +1,73 @@
+name: Debug SEBI RSS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug-sebi-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@v17
+
+      - name: Setup Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@v8
+
+      - name: Debug SEBI RSS with curl
+        run: |
+          set -o pipefail
+          echo "Testing SEBI RSS via curl"
+          curl -v -L --max-time 30 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+            -D /tmp/sebi-headers.txt \
+            -o /tmp/sebi-body.xml \
+            https://www.sebi.gov.in/sebirss.xml 2>&1 | tee /tmp/sebi-curl.log
+
+          echo "--- headers ---"
+          cat /tmp/sebi-headers.txt
+
+          echo "--- body preview ---"
+          head -c 1000 /tmp/sebi-body.xml || true
+          echo
+
+      - name: Debug SEBI RSS with httpx
+        run: |
+          nix develop --command bash -lc '
+            cd scripts
+            uv run --script - <<"PY"
+# /// script
+# requires-python = ">=3.11"
+# dependencies = ["httpx", "lxml"]
+# ///
+import asyncio
+import httpx
+from lxml import etree
+
+URL = "https://www.sebi.gov.in/sebirss.xml"
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+async def main():
+    try:
+        async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
+            response = await client.get(URL, headers=HEADERS)
+            print("status", response.status_code)
+            print("content-type", response.headers.get("content-type"))
+            print("server", response.headers.get("server"))
+            print("content-length", response.headers.get("content-length"))
+            print("body-len", len(response.text))
+            print("body-preview", response.text[:500])
+            response.raise_for_status()
+            etree.fromstring(response.text.encode())
+            print("xml-parse", "ok")
+    except Exception as e:
+        print("exception-type", type(e).__name__)
+        print("exception", str(e))
+        raise
+
+asyncio.run(main())
+PY
+          '
