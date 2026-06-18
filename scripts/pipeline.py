@@ -197,7 +197,7 @@ class CircularsPipeline:
             self.log(f"No RSS URL configured for source: {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
         
-        rss_content = await self.content_scraper.fetch_content(rss_url)
+        rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
         if not rss_content:
             self.log(f"Failed to download RSS feed for {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
