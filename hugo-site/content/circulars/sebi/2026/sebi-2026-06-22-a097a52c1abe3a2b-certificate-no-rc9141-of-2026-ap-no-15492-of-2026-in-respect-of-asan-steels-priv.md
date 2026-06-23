@@ -2,13 +2,13 @@
 circular_id: a097a52c1abe3a2b
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-a-p-no-15492-of-2026-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_102311.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1782214203221_4.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-a-p-no-15492-of-2026-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_102311.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-23T17:34:21.814031'
+  processed_at: '2026-06-23T20:27:02.290361'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-06-22T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9141-of-2026-a-p-no-15492-of-2026-in-respect-of-asan-steels-private-limited-pan-aahca8637p-in-the-matter-of-illiquid-stock-options_102311.html

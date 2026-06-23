@@ -2,13 +2,13 @@
 circular_id: 0a8ff6dc9a54c736
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9140-of-2026-a-p-no-15489-of-2026-in-respect-of-bimla-devi-killa-pan-aespk3270j-in-the-matter-of-illiquid-stock-options_102323.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1782215103430_4.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9140-of-2026-a-p-no-15489-of-2026-in-respect-of-bimla-devi-killa-pan-aespk3270j-in-the-matter-of-illiquid-stock-options_102323.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-23T17:32:56.993491'
+  processed_at: '2026-06-23T20:23:36.378007'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-06-22T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/certificate-no-rc9140-of-2026-a-p-no-15489-of-2026-in-respect-of-bimla-devi-killa-pan-aespk3270j-in-the-matter-of-illiquid-stock-options_102323.html
