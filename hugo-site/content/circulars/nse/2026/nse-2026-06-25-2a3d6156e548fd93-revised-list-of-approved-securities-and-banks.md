@@ -6,9 +6,9 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD74873.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-25T09:28:56.094378'
+  processed_at: '2026-06-25T15:13:03.579940'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-06-25T00:00:00+05:30'
 rss_url: https://nsearchives.nseindia.com/content/circulars/CD74873.zip

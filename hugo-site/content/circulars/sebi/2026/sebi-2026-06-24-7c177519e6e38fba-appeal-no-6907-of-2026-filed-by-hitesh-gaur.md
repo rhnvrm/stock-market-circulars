@@ -1,0 +1,19 @@
+---
+circular_id: 7c177519e6e38fba
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6907-of-2026-filed-by-hitesh-gaur_102408.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1782381447368.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-06-25T15:15:06.250177'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-06-24T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6907-of-2026-filed-by-hitesh-gaur_102408.html
+source: sebi
+title: Appeal No. 6907 of 2026 filed by Hitesh Gaur
+---
+
+Processing in progress...
