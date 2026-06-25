@@ -2,11 +2,11 @@
 circular_id: e5623a30d626981b
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6911-of-2026-filed-by-surajsingh-vakhatsinh-rathod_102420.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6911-of-2026-filed-by-surajsingh-vakhatsinh-rathod_102420.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/1782387543910.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-25T17:32:54.460891'
+  processed_at: '2026-06-25T20:28:22.505039'
   processor_version: '2.0'
   stage: download_failed
   status: failed
