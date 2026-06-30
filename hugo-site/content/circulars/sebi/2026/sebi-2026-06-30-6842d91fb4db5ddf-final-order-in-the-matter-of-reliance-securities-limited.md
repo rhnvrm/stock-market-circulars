@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jun-2026/ORDER_1782822190.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-06-30T14:58:16.537591'
+  processed_at: '2026-06-30T17:28:07.095679'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
