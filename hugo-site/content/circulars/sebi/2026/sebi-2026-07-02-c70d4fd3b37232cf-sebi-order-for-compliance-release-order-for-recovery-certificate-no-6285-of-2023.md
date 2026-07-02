@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1782987303591_9.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-02T17:13:23.534276'
+  processed_at: '2026-07-02T19:54:51.129228'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-02T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6285-of-2023-against-mr-ashi-arunkumar-tulsian-in-the-matter-of-excel-castronics-limited-_102537.html
