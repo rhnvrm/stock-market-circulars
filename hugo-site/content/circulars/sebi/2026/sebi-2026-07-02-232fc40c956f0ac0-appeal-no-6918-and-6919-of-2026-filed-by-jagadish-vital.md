@@ -2,13 +2,13 @@
 circular_id: 232fc40c956f0ac0
 draft: true
 guid: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6918-and-6919-of-2026-filed-by-jagadish-vital_102545.html
-pdf_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6918-and-6919-of-2026-filed-by-jagadish-vital_102545.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1782992045168.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-02T14:31:59.076734'
+  processed_at: '2026-07-02T17:12:54.630998'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-02T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6918-and-6919-of-2026-filed-by-jagadish-vital_102545.html
