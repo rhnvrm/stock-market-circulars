@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1782995403255_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-02T19:50:13.686534'
+  processed_at: '2026-07-02T22:23:08.935709'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-02T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demand-dated-02-07-2026-issued-under-rc-no-9190-of-2026-against-girish-kantilal-parmar-audpp6127a-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-techno-_102554.html
