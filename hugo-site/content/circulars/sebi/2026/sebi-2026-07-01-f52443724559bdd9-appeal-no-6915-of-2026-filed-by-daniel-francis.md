@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6915-of-2
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-03T03:40:13.983549'
+  processed_at: '2026-07-03T06:47:42.477763'
   processor_version: '2.0'
   stage: download_failed
   status: failed
