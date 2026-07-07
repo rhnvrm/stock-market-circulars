@@ -2,11 +2,11 @@
 circular_id: a68883580ddcf6f8
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demands-dated-july-06-2026-issued-under-rc-no-9204-of-2026-drawn-against-usha-devi-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-_102647.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demands-dated-july-06-2026-issued-under-rc-no-9204-of-2026-drawn-against-usha-devi-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-limited-_102647.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783423802940_4.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-07T20:19:01.549052'
+  processed_at: '2026-07-07T22:33:07.671836'
   processor_version: '2.0'
   stage: download_failed
   status: failed
