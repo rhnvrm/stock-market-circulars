@@ -2,13 +2,13 @@
 circular_id: cca4586ad12e0729
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demand-under-recovery-certificate-number-9214-of-2026-dated-july-7-2026-issued-to-dheeraj-wadhawan-pan-aaopw4517g-defaulter-in-the-matter-of-dewan-housing-finance-corporation-limited-_102634.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783420202700_1.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demand-under-recovery-certificate-number-9214-of-2026-dated-july-7-2026-issued-to-dheeraj-wadhawan-pan-aaopw4517g-defaulter-in-the-matter-of-dewan-housing-finance-corporation-limited-_102634.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-07T17:31:44.040823'
+  processed_at: '2026-07-07T20:28:01.936491'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-07T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-demand-under-recovery-certificate-number-9214-of-2026-dated-july-7-2026-issued-to-dheeraj-wadhawan-pan-aaopw4517g-defaulter-in-the-matter-of-dewan-housing-finance-corporation-limited-_102634.html
