@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783595703629_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-09T15:42:24.526673'
+  processed_at: '2026-07-09T20:11:01.110020'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-09T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/certificate-no-rc9164-of-2026-a-p-nos-15540-of-2026-adhunik-ventures-private-limited-pan-aahca7165l-in-the-matter-of-illiquid-stock-options_102735.html
