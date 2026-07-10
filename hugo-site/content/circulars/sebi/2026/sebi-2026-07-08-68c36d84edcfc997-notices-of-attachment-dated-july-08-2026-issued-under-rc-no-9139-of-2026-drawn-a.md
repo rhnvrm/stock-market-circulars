@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1783678503388_3.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-10T15:01:32.130759'
+  processed_at: '2026-07-10T17:15:14.089567'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-08T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-s-of-attachment-dated-july-08-2026-issued-under-rc-no-9139-of-2026-drawn-against-mr-k-sai-prasad-pan-aajps6517m-in-the-matter-of-mediaone-global-entertainment-limited-_102758.html
