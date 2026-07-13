@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INVG75180.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-13T17:27:11.395022'
+  processed_at: '2026-07-13T19:36:24.458109'
   processor_version: '2.0'
   stage: download_failed
   status: failed
