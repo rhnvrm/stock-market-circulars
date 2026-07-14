@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/ISC75191.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-14T16:27:01.151062'
+  processed_at: '2026-07-14T19:31:20.222841'
   processor_version: '2.0'
   stage: download_failed
   status: failed
