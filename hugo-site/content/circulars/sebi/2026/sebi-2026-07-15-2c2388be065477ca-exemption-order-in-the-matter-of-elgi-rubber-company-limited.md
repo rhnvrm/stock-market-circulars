@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/eo_elgi_rubber_co
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-15T14:15:30.944923'
+  processed_at: '2026-07-15T16:39:00.159602'
   processor_version: '2.0'
   stage: download_failed
   status: failed

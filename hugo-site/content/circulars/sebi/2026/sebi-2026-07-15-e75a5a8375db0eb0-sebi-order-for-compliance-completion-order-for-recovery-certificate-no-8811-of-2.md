@@ -2,11 +2,11 @@
 circular_id: e75a5a8375db0eb0
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8811-of-2025-against-bir-finance-private-limited-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-_102848.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8811-of-2025-against-bir-finance-private-limited-in-the-matter-of-trading-in-illiquid-stock-options-at-bse-_102848.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784111403422_1.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-15T14:18:18.969983'
+  processed_at: '2026-07-15T16:39:00.158506'
   processor_version: '2.0'
   stage: download_failed
   status: failed
