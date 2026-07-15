@@ -2,13 +2,13 @@
 circular_id: 7dc43a79dde146ae
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15542-and-15543-of-2026-dated-july-13-2026-against-jigneshkumar-purshottamdas-patel-defaulter-in-the-matter-of-trading-activities-_102839.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15542-and-15543-of-2026-dated-july-13-2026-against-jigneshkumar-purshottamdas-patel-defaulter-in-the-matter-of-trading-activities-_102839.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784110504885_4.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-15T16:53:30.126442'
+  processed_at: '2026-07-15T19:22:05.116430'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-13T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15542-and-15543-of-2026-dated-july-13-2026-against-jigneshkumar-purshottamdas-patel-defaulter-in-the-matter-of-trading-activities-_102839.html
