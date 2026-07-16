@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784110504885_3.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-16T05:59:02.785920'
+  processed_at: '2026-07-16T08:19:47.788896'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-13T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15544-and-15545-of-2026-dated-july-13-2026-against-girish-kantilal-parmar-defaulter-in-the-matter-of-trading-activities-of-certain-_102837.html
