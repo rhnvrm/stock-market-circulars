@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/legal/regulations/jul-2026/securities-and-excha
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-16T14:21:56.738624'
+  processed_at: '2026-07-16T16:47:28.511140'
   processor_version: '2.0'
   stage: download_failed
   status: failed
