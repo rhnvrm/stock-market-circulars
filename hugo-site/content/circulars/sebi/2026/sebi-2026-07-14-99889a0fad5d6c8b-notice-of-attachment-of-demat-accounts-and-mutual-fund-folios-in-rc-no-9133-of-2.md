@@ -2,13 +2,13 @@
 circular_id: 99889a0fad5d6c8b
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-demat-accounts-and-mutual-fund-folios-in-rc-no-9133-of-2026-against-pragnesh-bhupendrabhai-thakkar-pan-aevpt7357l-in-the-matter-of-trading-in-illiquid-stock-options-at-bse_102930.html
-pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-demat-accounts-and-mutual-fund-folios-in-rc-no-9133-of-2026-against-pragnesh-bhupendrabhai-thakkar-pan-aevpt7357l-in-the-matter-of-trading-in-illiquid-stock-options-at-bse_102930.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784292303376_2.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-17T16:34:17.006949'
+  processed_at: '2026-07-17T19:25:43.543985'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-14T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-of-attachment-of-demat-accounts-and-mutual-fund-folios-in-rc-no-9133-of-2026-against-pragnesh-bhupendrabhai-thakkar-pan-aevpt7357l-in-the-matter-of-trading-in-illiquid-stock-options-at-bse_102930.html
