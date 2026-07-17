@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784283303134_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-17T13:53:45.092719'
+  processed_at: '2026-07-17T16:33:04.269161'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-15T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-8234-of-2024-against-rocket-tips-prop-mehul-pravinbhai-jiyani-pan-agppj1611h-in-the-matter-of-unregistered-investment-a-_102911.html
