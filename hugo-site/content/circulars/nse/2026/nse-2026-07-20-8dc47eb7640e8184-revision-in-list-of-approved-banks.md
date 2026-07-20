@@ -1,0 +1,19 @@
+---
+circular_id: 8dc47eb7640e8184
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CD75275.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CD75275.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-07-20T14:23:18.334805'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2026-07-20T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CD75275.pdf
+source: nse
+title: Revision in List of Approved Banks
+---
+
+Processing in progress...
