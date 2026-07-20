@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF75274.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-20T16:46:00.361813'
+  processed_at: '2026-07-20T20:03:29.602967'
   processor_version: '2.0'
   stage: download_failed
   status: failed

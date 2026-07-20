@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD75288.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-20T16:44:16.599215'
+  processed_at: '2026-07-20T20:01:13.734766'
   processor_version: '2.0'
   stage: download_failed
   status: failed

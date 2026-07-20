@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS75292.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-20T16:43:10.331811'
+  processed_at: '2026-07-20T20:00:38.163228'
   processor_version: '2.0'
   stage: download_failed
   status: failed
