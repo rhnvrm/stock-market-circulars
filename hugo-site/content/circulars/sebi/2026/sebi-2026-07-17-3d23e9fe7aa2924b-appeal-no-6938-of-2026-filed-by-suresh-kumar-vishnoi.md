@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6938-of-2
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-20T14:36:20.080177'
+  processed_at: '2026-07-20T16:50:10.446182'
   processor_version: '2.0'
   stage: download_failed
   status: failed
