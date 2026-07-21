@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML75269.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-20T22:19:48.538762'
+  processed_at: '2026-07-21T02:53:54.991447'
   processor_version: '2.0'
   stage: download_failed
   status: failed
