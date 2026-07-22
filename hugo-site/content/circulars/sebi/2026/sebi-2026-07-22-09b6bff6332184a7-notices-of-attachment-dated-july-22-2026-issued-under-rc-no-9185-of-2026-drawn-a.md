@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784726111500_10.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-22T16:35:05.735800'
+  processed_at: '2026-07-22T19:33:56.443531'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-22T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/notice-s-of-attachment-dated-july-22-2026-issued-under-rc-no-9185-of-2026-drawn-against-usha-devi-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-technologies-lim-_103014.html
