@@ -1,0 +1,20 @@
+---
+circular_id: e610ac80caea59d5
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20260727-5/20260727-5.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260727-5/20260727-5.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-07-27T17:26:25.188913'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-07-27T10:14:06+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260727-5/20260727-5.pdf
+source: bse
+title: Offer to Buy – Acquisition Window (Takeover) for NIRAJ CEMENT STRUTURALS LIMITED
+  – Live Activities Schedule
+---
+
+Processing in progress...
