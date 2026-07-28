@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF75408.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-28T05:59:14.078685'
+  processed_at: '2026-07-28T08:46:22.949120'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
