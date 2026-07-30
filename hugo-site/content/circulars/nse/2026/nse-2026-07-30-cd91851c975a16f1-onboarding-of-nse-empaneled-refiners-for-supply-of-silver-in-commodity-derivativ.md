@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM75471.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-30T11:24:31.882279'
+  processed_at: '2026-07-30T14:32:26.670529'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT75476.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-30T11:23:54.019144'
+  processed_at: '2026-07-30T14:30:39.703177'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

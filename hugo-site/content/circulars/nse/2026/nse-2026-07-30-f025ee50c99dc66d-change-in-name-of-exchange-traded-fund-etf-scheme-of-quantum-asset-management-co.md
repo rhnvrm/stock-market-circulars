@@ -1,0 +1,20 @@
+---
+circular_id: f025ee50c99dc66d
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/CML75487.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/CML75487.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-07-30T14:28:23.523635'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-07-30T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/CML75487.pdf
+source: nse
+title: Change in name of Exchange Traded Fund (ETF) scheme of Quantum Asset Management
+  Company Private Limited
+---
+
+Processing in progress...

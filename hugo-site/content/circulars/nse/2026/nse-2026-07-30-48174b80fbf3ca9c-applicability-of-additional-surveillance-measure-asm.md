@@ -1,0 +1,19 @@
+---
+circular_id: 48174b80fbf3ca9c
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/SURV75483.zip
+pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV75483.zip
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-07-30T14:28:59.656419'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-07-30T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/SURV75483.zip
+source: nse
+title: Applicability of Additional Surveillance Measure (ASM)
+---
+
+Processing in progress...

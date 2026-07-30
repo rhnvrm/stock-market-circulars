@@ -1,0 +1,22 @@
+---
+circular_id: 1cfb3503ed2d3a0b
+draft: true
+guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-8933-of-2025-against-pinal-rajesh-mehta-legal-representative-of-rajesh-rajnikant-meht-_103194.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785407965949_41.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-07-30T14:38:40.348298'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-07-28T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/sebi-order-for-compliance-notice-of-attachment-demat-account-and-mutual-fund-folio-s-for-recovery-certificate-no-8933-of-2025-against-pinal-rajesh-mehta-legal-representative-of-rajesh-rajnikant-meht-_103194.html
+source: sebi
+title: SEBI Order for Compliance Notice of Attachment Demat Account and Mutual Fund
+  Folio(S) for Recovery Certificate No.8933 of 2025 against Pinal Rajesh Mehta (Legal
+  Representative of Rajesh Rajnikant Mehta who is deceased) in the matter of Jay Energy
+  & S Energies Limited
+---
+
+Processing in progress...
