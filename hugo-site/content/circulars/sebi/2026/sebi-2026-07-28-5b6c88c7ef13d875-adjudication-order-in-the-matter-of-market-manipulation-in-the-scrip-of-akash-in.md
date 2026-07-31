@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785325607629.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-31T07:01:52.876332'
+  processed_at: '2026-07-31T11:49:52.788882'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-28T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/adjudication-order-in-the-matter-of-market-manipulation-in-the-scrip-of-akash-infra-projects-limited_103102.html
