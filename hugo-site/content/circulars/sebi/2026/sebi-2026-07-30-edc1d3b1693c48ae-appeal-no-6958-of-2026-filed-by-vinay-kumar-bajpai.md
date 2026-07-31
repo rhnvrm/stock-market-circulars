@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785412538334.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-31T03:26:46.949657'
+  processed_at: '2026-07-31T06:55:19.876495'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-30T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6958-of-2026-filed-by-vinay-kumar-bajpai_103245.html
