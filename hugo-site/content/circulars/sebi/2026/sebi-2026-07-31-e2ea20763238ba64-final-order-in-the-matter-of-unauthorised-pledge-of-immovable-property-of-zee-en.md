@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/final-order-in-the-
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-07-31T20:04:47.440085'
+  processed_at: '2026-07-31T22:42:21.115556'
   processor_version: '2.0'
   stage: download_failed
   status: failed
