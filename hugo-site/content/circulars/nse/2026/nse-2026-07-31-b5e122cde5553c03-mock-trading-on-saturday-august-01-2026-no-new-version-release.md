@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR75499.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T03:20:24.463597'
+  processed_at: '2026-08-01T06:30:50.419232'
   processor_version: '2.0'
   stage: download_failed
   status: failed
