@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FAOP75521.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T11:09:02.254706'
+  processed_at: '2026-08-01T13:44:18.505339'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

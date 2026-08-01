@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SLBS75473.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T11:16:20.211332'
+  processed_at: '2026-08-01T13:50:49.454750'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
