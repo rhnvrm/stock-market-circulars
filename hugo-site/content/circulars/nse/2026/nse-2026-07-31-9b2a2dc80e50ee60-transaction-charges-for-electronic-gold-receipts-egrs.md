@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/FA75523.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T08:36:50.102547'
+  processed_at: '2026-08-01T11:08:29.031848'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
