@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV75524.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T16:14:33.328011'
+  processed_at: '2026-08-01T19:19:21.780518'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
