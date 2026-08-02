@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD75501.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T22:16:22.049773'
+  processed_at: '2026-08-02T03:03:11.327124'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

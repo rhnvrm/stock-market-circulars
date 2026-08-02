@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD75498.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-01T22:16:54.081522'
+  processed_at: '2026-08-02T03:04:23.171831'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
