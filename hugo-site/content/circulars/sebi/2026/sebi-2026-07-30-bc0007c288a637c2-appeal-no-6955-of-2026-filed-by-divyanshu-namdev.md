@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785412477990.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-02T13:50:07.671438'
+  processed_at: '2026-08-02T16:29:23.559577'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-30T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6955-of-2026-filed-by-divyanshu-namdev_103243.html

@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/INSP75508.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-02T13:38:30.449043'
+  processed_at: '2026-08-02T16:18:45.298621'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/ORDER_1785485350.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-02T13:43:45.353485'
+  processed_at: '2026-08-02T16:23:37.594424'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: download_failed
   status: failed
 published_date: '2026-07-31T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/jul-2026/in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-securekloud-technologies-ltd-_103289.html

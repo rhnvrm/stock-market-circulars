@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM75497.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-02T13:41:58.842253'
+  processed_at: '2026-08-02T16:21:32.447505'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
