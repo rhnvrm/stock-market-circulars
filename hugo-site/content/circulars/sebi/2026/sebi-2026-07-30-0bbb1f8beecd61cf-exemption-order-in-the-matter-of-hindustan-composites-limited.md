@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/exemption_order_h
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-02T03:10:52.627377'
+  processed_at: '2026-08-02T06:22:13.544192'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
