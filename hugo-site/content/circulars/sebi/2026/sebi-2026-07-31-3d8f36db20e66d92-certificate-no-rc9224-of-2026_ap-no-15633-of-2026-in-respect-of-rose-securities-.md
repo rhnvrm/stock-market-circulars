@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1785492903344_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-03T22:38:58.433393'
+  processed_at: '2026-08-04T02:59:26.717327'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-07-31T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/certificate-no-rc9224-of-2026-a-p-no-15633-of-2026-in-respect-of-rose-securities-limited-pan-aadcr1312e-in-the-matter-of-illiquid-stock-options_103264.html
