@@ -1,0 +1,19 @@
+---
+circular_id: 748881e91e3bd4a2
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-13/20260804-13.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-13/20260804-13.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-04T11:32:48.930281'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-04T11:18:35+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-13/20260804-13.pdf
+source: bse
+title: Group Change - Triveni Engineering & Industries Ltd
+---
+
+Processing in progress...
