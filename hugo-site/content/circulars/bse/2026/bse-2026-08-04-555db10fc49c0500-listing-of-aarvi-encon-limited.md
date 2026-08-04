@@ -1,0 +1,19 @@
+---
+circular_id: 555db10fc49c0500
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-19/20260804-19.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-19/20260804-19.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-04T14:34:14.069616'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-04T12:03:57+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260804-19/20260804-19.pdf
+source: bse
+title: Listing of Aarvi Encon Limited
+---
+
+Processing in progress...
