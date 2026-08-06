@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/DS75578.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-05T22:47:49.745959'
+  processed_at: '2026-08-06T03:05:41.482449'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

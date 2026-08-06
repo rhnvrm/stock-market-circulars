@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML75583.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-05T22:46:13.637856'
+  processed_at: '2026-08-06T03:04:32.746773'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
