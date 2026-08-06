@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMPT75599.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-06T02:59:54.282397'
+  processed_at: '2026-08-06T06:18:30.481459'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
