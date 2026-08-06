@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/ORDER_1785751718.
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-06T11:44:32.897857'
+  processed_at: '2026-08-06T14:40:39.871973'
   processor_version: '2.0'
-  stage: download_failed
+  stage: claude_failed
   status: failed
 published_date: '2026-08-03T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/aug-2026/adjudication-order-in-the-matter-of-decillion-finance-limited_103309.html
