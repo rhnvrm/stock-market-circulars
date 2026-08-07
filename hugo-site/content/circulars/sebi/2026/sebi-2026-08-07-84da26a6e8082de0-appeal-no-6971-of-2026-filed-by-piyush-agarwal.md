@@ -1,0 +1,19 @@
+---
+circular_id: 84da26a6e8082de0
+draft: true
+guid: https://www.sebi.gov.in/enforcement/orders/aug-2026/appeal-no-6971-of-2026-filed-by-piyush-agarwal_103436.html
+pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786099559609.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-07T13:20:57.028797'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-07T00:00:00+05:30'
+rss_url: https://www.sebi.gov.in/enforcement/orders/aug-2026/appeal-no-6971-of-2026-filed-by-piyush-agarwal_103436.html
+source: sebi
+title: Appeal No. 6971 of 2026 filed by Piyush Agarwal
+---
+
+Processing in progress...
