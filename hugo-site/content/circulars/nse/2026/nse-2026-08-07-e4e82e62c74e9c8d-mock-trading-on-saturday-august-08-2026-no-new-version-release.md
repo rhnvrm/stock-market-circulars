@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CD75633.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-08T13:23:50.122703'
+  processed_at: '2026-08-08T16:06:11.210165'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
