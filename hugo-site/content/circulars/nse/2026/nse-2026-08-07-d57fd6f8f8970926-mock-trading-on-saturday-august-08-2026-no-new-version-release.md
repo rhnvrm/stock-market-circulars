@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR75646.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-08T02:03:43.233944'
+  processed_at: '2026-08-08T04:29:50.419768'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
