@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML75641.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-08T19:12:24.093131'
+  processed_at: '2026-08-08T21:52:16.951572'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
