@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/SURV75640.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-09T10:01:04.767510'
+  processed_at: '2026-08-09T13:25:04.568974'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
