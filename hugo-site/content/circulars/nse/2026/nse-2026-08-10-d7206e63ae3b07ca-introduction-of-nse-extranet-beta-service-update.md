@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/MSD75654.zip
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-10T16:16:56.587424'
+  processed_at: '2026-08-10T19:23:35.637226'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
