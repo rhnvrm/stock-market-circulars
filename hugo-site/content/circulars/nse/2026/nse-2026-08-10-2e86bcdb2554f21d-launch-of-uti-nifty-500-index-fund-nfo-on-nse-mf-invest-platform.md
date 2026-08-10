@@ -1,0 +1,19 @@
+---
+circular_id: 2e86bcdb2554f21d
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-10T13:46:34.453297'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-10T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/NMF75657.pdf
+source: nse
+title: Launch of UTI Nifty 500 Index Fund NFO on NSE MF Invest Platform
+---
+
+Processing in progress...
