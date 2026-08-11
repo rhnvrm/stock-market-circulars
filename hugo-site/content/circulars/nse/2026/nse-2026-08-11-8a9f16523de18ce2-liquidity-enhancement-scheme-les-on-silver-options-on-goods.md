@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/COM75690.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-11T19:24:35.336797'
+  processed_at: '2026-08-11T22:21:41.425743'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

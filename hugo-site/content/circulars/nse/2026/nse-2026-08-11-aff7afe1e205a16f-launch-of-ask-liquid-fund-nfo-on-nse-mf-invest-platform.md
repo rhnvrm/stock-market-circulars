@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/NMF75676.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-11T19:27:26.681360'
+  processed_at: '2026-08-11T22:24:58.504186'
   processor_version: '2.0'
   stage: claude_failed
   status: failed
