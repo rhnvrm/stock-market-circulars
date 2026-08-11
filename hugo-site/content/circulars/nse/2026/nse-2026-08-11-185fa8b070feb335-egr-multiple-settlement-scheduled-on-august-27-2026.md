@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR75671.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-11T10:13:56.157157'
+  processed_at: '2026-08-11T13:32:41.937226'
   processor_version: '2.0'
   stage: claude_failed
   status: failed

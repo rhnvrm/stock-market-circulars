@@ -1,0 +1,19 @@
+---
+circular_id: 63b36bc7de3894a4
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/EGR75691.pdf
+pdf_url: https://nsearchives.nseindia.com/content/circulars/EGR75691.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-11T13:27:46.907388'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-11T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/EGR75691.pdf
+source: nse
+title: Introduction of Multiplier Field in Electronic Gold Receipts Security File
+---
+
+Processing in progress...
