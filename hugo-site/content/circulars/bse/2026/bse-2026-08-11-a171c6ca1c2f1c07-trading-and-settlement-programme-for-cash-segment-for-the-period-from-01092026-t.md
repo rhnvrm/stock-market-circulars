@@ -1,0 +1,20 @@
+---
+circular_id: a171c6ca1c2f1c07
+draft: true
+guid: https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-10/20260811-10.pdf
+pdf_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-10/20260811-10.pdf
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-11T10:10:34.327247'
+  processor_version: '2.0'
+  stage: claude_failed
+  status: failed
+published_date: '2026-08-11T08:48:18+00:00'
+rss_url: https://www.bseindia.com/downloads/UploadDocs/Notices/20260811-10/20260811-10.pdf
+source: bse
+title: TRADING AND SETTLEMENT PROGRAMME FOR CASH SEGMENT FOR THE PERIOD FROM 01.09.2026
+  TO 30.09.2026 – T+1 & T+0 Settlement Cycle
+---
+
+Processing in progress...
