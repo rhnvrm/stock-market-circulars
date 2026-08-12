@@ -503,22 +503,24 @@ class CircularsPipeline:
                     'pubdate': existing_metadata.get('published_date', '')
                 }
                 
+                item_source = source or existing_metadata.get('source', '')
                 self.log(f"Regenerating item {item_id}: {item_data['title']}", "INFO", item_id)
                 
                 # Delete existing file and reprocess using SAME method as main pipeline
                 content_path.unlink()
-                success = await self.process_item_content_based(source, item_data)
+                success = await self.process_item_content_based(item_source, item_data)
 
-                # Stamp retry metadata so manual backfill attempts are traceable
-                regenerated_files = self.frontmatter_manager.find_files_by_circular_id(item_id)
-                if regenerated_files:
-                    self.frontmatter_manager.update_processing_state(
-                        regenerated_files[0],
-                        {
-                            'retry_source': 'backfill',
-                            'retry_requested_for_stage': existing_metadata.get('processing', {}).get('stage', ''),
-                        },
-                    )
+                # Stamp retry metadata so successful manual backfill attempts are traceable
+                if success:
+                    regenerated_files = self.frontmatter_manager.find_files_by_circular_id(item_id)
+                    if regenerated_files:
+                        self.frontmatter_manager.update_processing_state(
+                            regenerated_files[0],
+                            {
+                                'retry_source': 'backfill',
+                                'retry_requested_for_stage': existing_metadata.get('processing', {}).get('stage', ''),
+                            },
+                        )
 
                 return success
                 
