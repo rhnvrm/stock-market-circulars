@@ -2,11 +2,11 @@
 circular_id: cfd0381fe685f291
 draft: true
 guid: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15651-and-15652-of-2026-dated-august-10-2026-against-jigar-bhailalbhai-khalash-defaulter-in-the-matter-of-trading-activity-in-the-_103502.html
-pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786529703281_2.pdf
+pdf_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/notice-of-attachment-of-bank-accounts-and-demat-accounts-with-ap-no-15651-and-15652-of-2026-dated-august-10-2026-against-jigar-bhailalbhai-khalash-defaulter-in-the-matter-of-trading-activity-in-the-_103502.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T14:19:05.561562'
+  processed_at: '2026-08-12T17:07:15.091678'
   processor_version: '2.0'
   stage: download_failed
   status: failed
