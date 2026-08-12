@@ -507,7 +507,20 @@ class CircularsPipeline:
                 
                 # Delete existing file and reprocess using SAME method as main pipeline
                 content_path.unlink()
-                return await self.process_item_content_based(source, item_data)
+                success = await self.process_item_content_based(source, item_data)
+
+                # Stamp retry metadata so manual backfill attempts are traceable
+                regenerated_files = self.frontmatter_manager.find_files_by_circular_id(item_id)
+                if regenerated_files:
+                    self.frontmatter_manager.update_processing_state(
+                        regenerated_files[0],
+                        {
+                            'retry_source': 'backfill',
+                            'retry_requested_for_stage': existing_metadata.get('processing', {}).get('stage', ''),
+                        },
+                    )
+
+                return success
                 
             except Exception as e:
                 self.log(f"Failed to parse existing metadata: {e}", "ERROR", item_id)
