@@ -104,7 +104,7 @@ def list_ids(
     source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi"),
     stage: List[str] = typer.Option([], "--stage", help="Failure stages to include: claude_failed, ai_failed"),
     offset: int = typer.Option(0, "--offset", min=0),
-    limit: int = typer.Option(50, "--limit", min=1),
+    limit: Optional[int] = typer.Option(None, "--limit", min=1, help="Max items to return. Omit to return all eligible items."),
     verbose: bool = typer.Option(False, "--verbose", help="Log skipped items and selection decisions"),
 ):
     if source and source not in VALID_SOURCES:
@@ -113,7 +113,7 @@ def list_ids(
         raise typer.BadParameter(f"Invalid stage filter: {stage}")
 
     items = collect_failed_items(source, stage, verbose=verbose)
-    selected = items[offset: offset + limit]
+    selected = items[offset:] if limit is None else items[offset: offset + limit]
     for item in selected:
         print(item)
 

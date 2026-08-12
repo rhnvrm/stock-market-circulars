@@ -26,8 +26,8 @@ on:
         description: "Start offset in failed-item list"
         required: false
         default: "0"
-      limit:
-        description: "Max failed items to regenerate in this run"
+      batch_size:
+        description: "Items to regenerate before each commit/push"
         required: false
         default: "25"
 
@@ -65,26 +65,26 @@ jobs:
             ARGS="$ARGS --stage claude_failed --stage ai_failed"
           fi
 
-          nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --limit '${{ inputs.limit }}' --verbose" > selected_ids.txt
-          grep '^SKIP ' selected_ids.txt || true
-          grep -v '^SKIP ' selected_ids.txt > selected_ids.filtered.txt || true
-          mv selected_ids.filtered.txt selected_ids.txt
+          nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --verbose" > selected_ids.raw.txt
+          grep '^SKIP ' selected_ids.raw.txt || true
+          grep -v '^SKIP ' selected_ids.raw.txt > selected_ids.txt || true
           count=$(wc -l < selected_ids.txt | tr -d ' ')
           echo "count=$count" >> "$GITHUB_OUTPUT"
           echo "Selected $count IDs after cooldown filtering"
           cat selected_ids.txt
 
-      - name: Run backfill regenerate batch
+      - name: Run backfill and commit in batches
         if: steps.select.outputs.count != '0'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
           set -euo pipefail
-          IDS=$(tr '\n' ' ' < selected_ids.txt | xargs)
-          if [ -z "$IDS" ]; then
-            echo "No IDs selected"
-            exit 0
+
+          BATCH_SIZE="${{ inputs.batch_size }}"
+          if ! [[ "$BATCH_SIZE" =~ ^[0-9]+$ ]] || [ "$BATCH_SIZE" -lt 1 ]; then
+            echo "Invalid batch_size: $BATCH_SIZE"
+            exit 1
           fi
 
           if [ -n "${{ inputs.source }}" ]; then
@@ -93,16 +93,32 @@ jobs:
             SOURCE_ARG=""
           fi
 
-          nix develop --command bash -lc "cd scripts && uv run combined_pipeline.py regenerate $IDS $SOURCE_ARG"
-
-      - name: Commit backfilled content
-        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Backfill failed circulars - $(date -u +"%Y-%m-%d %H:%M UTC")"
-            git push
-          fi
+
+          mapfile -t IDS < selected_ids.txt
+          total="${#IDS[@]}"
+          echo "Processing $total eligible failed items in batches of $BATCH_SIZE"
+
+          batch_num=0
+          for ((i=0; i<total; i+=BATCH_SIZE)); do
+            batch_num=$((batch_num + 1))
+            batch=("${IDS[@]:i:BATCH_SIZE}")
+            echo "=== Batch $batch_num starting at index $i with ${#batch[@]} items ==="
+            printf '%s\n' "${batch[@]}"
+
+            IDS_JOINED=$(printf '%q ' "${batch[@]}")
+            nix develop --command bash -lc "cd scripts && uv run combined_pipeline.py regenerate $IDS_JOINED $SOURCE_ARG"
+
+            git add .
+            if git diff --staged --quiet; then
+              echo "No changes to commit for batch $batch_num"
+            else
+              git commit -m "Backfill failed circulars batch $batch_num - $(date -u +"%Y-%m-%d %H:%M UTC")"
+              git push
+            fi
+          done
+
+      - name: No eligible items
+        if: steps.select.outputs.count == '0'
+        run: echo "No eligible failed circulars found after cooldown filtering"
