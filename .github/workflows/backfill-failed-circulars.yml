@@ -36,9 +36,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      SELECTED_IDS_RAW: ${{ runner.temp }}/backfill-selected-ids.raw.txt
-      SELECTED_IDS: ${{ runner.temp }}/backfill-selected-ids.txt
 
     steps:
       - name: Checkout repository
@@ -68,12 +65,15 @@ jobs:
             ARGS="$ARGS --stage claude_failed --stage ai_failed"
           fi
 
+          SELECTED_IDS_RAW="$RUNNER_TEMP/backfill-selected-ids.raw.txt"
+          SELECTED_IDS="$RUNNER_TEMP/backfill-selected-ids.txt"
           nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --verbose" > "$SELECTED_IDS_RAW"
           grep '^SKIP ' "$SELECTED_IDS_RAW" || true
           grep -v '^SKIP ' "$SELECTED_IDS_RAW" > "$SELECTED_IDS" || true
           count=$(wc -l < "$SELECTED_IDS" | tr -d ' ')
           echo "count=$count" >> "$GITHUB_OUTPUT"
           echo "Selected $count IDs after cooldown filtering"
+          echo "selected_ids=$SELECTED_IDS" >> "$GITHUB_OUTPUT"
           cat "$SELECTED_IDS"
 
       - name: Run backfill and commit in batches
@@ -99,7 +99,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          mapfile -t IDS < "$SELECTED_IDS"
+          mapfile -t IDS < "${{ steps.select.outputs.selected_ids }}"
           total="${#IDS[@]}"
           echo "Processing $total eligible failed items in batches of $BATCH_SIZE"
 
