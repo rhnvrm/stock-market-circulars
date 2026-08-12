@@ -30,16 +30,24 @@ def parse_rss_date(pubdate: str) -> str:
     """Convert RSS pubDate format to ISO format"""
     if not pubdate:
         raise ValueError("pubDate is missing from RSS feed item")
+
+    normalized = str(pubdate).strip()
+
+    try:
+        # Accept already-normalized ISO timestamps from existing frontmatter
+        return datetime.fromisoformat(normalized.replace('Z', '+00:00')).isoformat()
+    except Exception:
+        pass
     
     try:
         # Try RFC 2822 format first (standard RSS format)
-        dt = parsedate_to_datetime(pubdate)
+        dt = parsedate_to_datetime(normalized)
         return dt.isoformat()
     except Exception:
         # Handle SEBI's non-standard format: "25 Jul, 2025 +0530"
         try:
             # Extract components using pre-compiled regex
-            match = SEBI_DATE_PATTERN.match(pubdate.strip())
+            match = SEBI_DATE_PATTERN.match(normalized)
             if match:
                 day, month_str, year, tz = match.groups()
                 
@@ -322,7 +330,7 @@ class CircularsPipeline:
                 'source': source,
                 'title': item['title'],
                 'circular_id': circular_id,
-                'published_date': item.get('pubdate', '') if item.get('pubdate', '').startswith('2025-') else parse_rss_date(item.get('pubdate', '')),
+                'published_date': parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
                 'rss_url': item['download_url']  # Original URL from RSS feed
             }
@@ -505,13 +513,18 @@ class CircularsPipeline:
                 
                 item_source = source or existing_metadata.get('source', '')
                 self.log(f"Regenerating item {item_id}: {item_data['title']}", "INFO", item_id)
-                
-                # Delete existing file and reprocess using SAME method as main pipeline
-                content_path.unlink()
+
+                backup_path = content_path.with_suffix(f"{content_path.suffix}.bak")
+                if backup_path.exists():
+                    backup_path.unlink()
+                content_path.replace(backup_path)
+
                 success = await self.process_item_content_based(item_source, item_data)
 
-                # Stamp retry metadata so successful manual backfill attempts are traceable
                 if success:
+                    if backup_path.exists():
+                        backup_path.unlink()
+
                     regenerated_files = self.frontmatter_manager.find_files_by_circular_id(item_id)
                     if regenerated_files:
                         self.frontmatter_manager.update_processing_state(
@@ -521,8 +534,16 @@ class CircularsPipeline:
                                 'retry_requested_for_stage': existing_metadata.get('processing', {}).get('stage', ''),
                             },
                         )
+                    return True
 
-                return success
+                self.log("Regeneration failed, restoring original file", "WARNING", item_id)
+                regenerated_files = self.frontmatter_manager.find_files_by_circular_id(item_id)
+                for regenerated_file in regenerated_files:
+                    if regenerated_file != backup_path and regenerated_file.exists():
+                        regenerated_file.unlink()
+                if backup_path.exists():
+                    backup_path.replace(content_path)
+                return False
                 
             except Exception as e:
                 self.log(f"Failed to parse existing metadata: {e}", "ERROR", item_id)
