@@ -18,7 +18,7 @@ If you have Nix installed with flakes enabled:
 # Enter development environment
 nix develop
 
-# This provides: Go, Python, uv, Claude CLI, Node.js
+# This provides: Go, Python, uv, Gemini CLI, Node.js
 ```
 
 ### Manual Setup

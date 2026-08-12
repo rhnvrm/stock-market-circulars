@@ -10,20 +10,20 @@ Complete pipeline configuration including:
 - RSS feed URLs for NSE, BSE, SEBI
 - Concurrency limits for parallel processing
 - Directory structure (content-based state management)
-- AI prompts for Claude analysis (JSON output format)
-- Claude API configuration (Read-only permissions)
+- AI prompts for Gemini analysis (JSON output format)
+- Gemini API configuration
 
 ## Editing Tips
 
 ### Prompts (in config.toml [prompts] section)
-- Use clear, specific instructions for Claude
+- Use clear, specific instructions for Gemini
 - Test prompt changes with sample documents
 - Keep the YAML frontmatter format consistent
 - Include examples for complex requirements
 
 ### General Configuration
 - **Concurrency**: Adjust `max_concurrent_*` settings based on system resources
-- **Delays**: Modify `request_delay` and `claude_delay` based on API rate limits
+- **Delays**: Modify `request_delay` and `gemini_delay` based on API rate limits
 - **RSS Feeds**: Add new sources to the `[rss_feeds]` section
 - **Directories**: Content stored in `content_dir`, logs in root `combined_pipeline.log`
 - **State Management**: No JSON files needed - all state in markdown frontmatter
@@ -31,53 +31,33 @@ Complete pipeline configuration including:
 ## Environment Variables
 
 Settings can be overridden with environment variables (useful for CI/CD):
-- `CLAUDE_API_KEY` - Your Claude API key
+- `GEMINI_API_KEY` - Your Gemini API key
 - `DEBUG` - Enable debug logging (true/false/1/yes)
 - `LOG_LEVEL` - Set logging level (DEBUG, INFO, WARN, ERROR)
 - `LOG_TO_FILE` - Write logs to file (true/false) - set to false for CI/CD
 - `LOG_TO_CONSOLE` - Output logs to console (true/false)
 - `REQUEST_DELAY` - Delay between requests in seconds (float)
-- `CLAUDE_DELAY` - Delay for Claude API calls in seconds (float)
+- `GEMINI_DELAY` - Delay for Gemini API calls in seconds (float)
 - `TIMEOUT` - Request timeout in seconds (integer)
 
 **Priority Order**: CLI arguments > Environment variables > Config file > Defaults
 
 ## GitHub Actions State Persistence
 
-**The Problem**: GitHub Actions runners don't persist state between runs, which would cause:
-- Duplicate processing of the same circulars
-- Loss of progress tracking and error history
-- No incremental processing capability
+**The Problem**: GitHub Actions runners do not persist local filesystem state between runs, which would otherwise cause duplicate processing and loss of in-progress markers.
 
-**The Solution**: The workflow automatically commits and pushes essential state files back to the repository:
-- `state/combined_progress/*.json` - Individual item progress tracking
-- `state/*_combined_seen_guids.txt` - GUID deduplication tracking  
-- `state/combined_errors/*.json` - Error tracking for debugging
+**The Solution**: The workflow commits updated markdown content back to the repository. Each circular file carries its own processing state in YAML frontmatter, so state persists with the content itself instead of separate JSON progress files.
 
-**Note**: Log files (`*.log`) are NOT committed (to avoid repo bloat). In GitHub Actions, logging is configured to output directly to console (set via `LOG_TO_FILE=false`), making logs available in the workflow output.
-
-**Behavior**:
-- ✅ State preserved even if pipeline fails (configurable)
-- ✅ Incremental processing - only new circulars processed
-- ✅ Resume capability - failed items can be retried up to 3 times
-- ✅ Automatic retry logic for temporary failures (BSE server issues, network problems)
-- ✅ Attempt counting and progress tracking across pipeline runs
-- ✅ Commit messages include processing statistics
-- ✅ Hugo site only deployed on successful runs
+**Current behavior**:
+- Processing state lives in each markdown file under the `processing` frontmatter key
+- New pipeline runs reuse existing content files to determine prior state
+- Historical stage values like `claude_processing` and `claude_failed` are still recognized by reporting scripts
+- New pipeline writes provider-neutral stages like `ai_processing` and `ai_failed`
+- Log files are not committed
 
 ## Retry and Resilience Features
 
-**3-Attempt Retry System**: The pipeline automatically retries failed items up to 3 times before marking them as permanently failed. This handles:
-- Temporary network issues
-- Server-side errors (like BSE's 500 responses) 
-- Infrastructure outages
-- Rate limiting
-
-**State Preservation**: Progress files include attempt counts and error history, allowing the pipeline to:
-- Resume processing exactly where it left off
-- Track retry attempts across different pipeline runs
-- Maintain consistency in ephemeral GitHub Actions environments
-- Handle items that may disappear from RSS feeds but still need retry attempts
+The pipeline preserves failure and progress state in frontmatter so subsequent runs can avoid blindly reprocessing everything and can surface historical failures in stats.
 
 **BSE-Specific Fixes**: Special handling for BSE's attachment system:
 - Extract `Noticeid` GUIDs from RSS URLs

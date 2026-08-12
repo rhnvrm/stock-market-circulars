@@ -16,6 +16,16 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import sys
 
+STAGE_ALIASES = {
+    "claude_processing": "ai_processing",
+    "claude_failed": "ai_failed",
+}
+
+
+def normalize_stage(stage):
+    return STAGE_ALIASES.get(stage, stage)
+
+
 def extract_frontmatter(file_path):
     """Extract YAML frontmatter from markdown file."""
     try:
@@ -38,11 +48,11 @@ def extract_frontmatter(file_path):
 
 def analyze_circulars():
     """Analyze all circulars and group by status/stage."""
-    base_path = Path("hugo-site/content/circulars")
+    base_path = (Path(__file__).resolve().parent / "../hugo-site/content/circulars").resolve()
     
     if not base_path.exists():
         print("❌ No circulars directory found")
-        return
+        return defaultdict(lambda: defaultdict(int)), defaultdict(Counter), defaultdict(int)
     
     stats = defaultdict(lambda: defaultdict(int))
     stage_counts = defaultdict(Counter)
@@ -66,7 +76,7 @@ def analyze_circulars():
                 
             # Extract processing stage/status
             processing = frontmatter.get('processing', {})
-            stage = processing.get('stage', 'unknown')
+            stage = normalize_stage(processing.get('stage', 'unknown'))
             status = processing.get('status', 'unknown')
             
             # Count by stage
@@ -102,9 +112,9 @@ def print_stats():
         stages = stage_counts[source]
         
         # Sort stages by priority
-        stage_order = ['completed', 'claude_processing', 'text_extraction', 'downloading', 
+        stage_order = ['completed', 'ai_processing', 'text_extraction', 'downloading', 
                       'url_extraction', 'discovered', 'html_fallback', 'download_failed', 
-                      'claude_failed', 'unknown']
+                      'ai_failed', 'unknown']
         
         for stage in stage_order:
             if stage in stages:
@@ -114,14 +124,14 @@ def print_stats():
                 # Add emoji for status
                 emoji = {
                     'completed': '✅',
-                    'claude_processing': '🤖',
+                    'ai_processing': '🤖',
                     'text_extraction': '📄',
                     'downloading': '⬇️',
                     'url_extraction': '🔗',
                     'discovered': '🔍',
                     'html_fallback': '🌐',
                     'download_failed': '❌',
-                    'claude_failed': '🚫',
+                    'ai_failed': '🚫',
                     'unknown': '❓'
                 }.get(stage, '📋')
                 
@@ -132,7 +142,7 @@ def print_stats():
     total_all = sum(total_counts.values())
     total_completed = sum(stage_counts[source].get('completed', 0) for source in stage_counts)
     total_failed = sum(stage_counts[source].get('download_failed', 0) + 
-                      stage_counts[source].get('claude_failed', 0) for source in stage_counts)
+                      stage_counts[source].get('ai_failed', 0) for source in stage_counts)
     
     if total_all > 0:
         completion_rate = (total_completed / total_all * 100)

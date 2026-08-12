@@ -36,7 +36,7 @@ deps:
     @echo "🔧 Checking dependencies..."
     @which curl > /dev/null && echo "✅ curl" || echo "❌ curl"
     @which go > /dev/null && echo "✅ go" || echo "❌ go"
-    @which claude > /dev/null && echo "✅ claude" || echo "❌ claude"
+    @which gemini > /dev/null && echo "✅ gemini" || echo "❌ gemini"
     @cd scripts && uv run combined_pipeline.py --help > /dev/null && echo "✅ Python dependencies" || echo "❌ Missing Python dependencies"
 
 # Show processing statistics and status

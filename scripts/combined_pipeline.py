@@ -23,7 +23,7 @@ The functionality has been split into multiple modules:
 - models.py: Data models and enums
 - config.py: Configuration handling  
 - extractors.py: RSS parsing and PDF URL extraction
-- processors.py: File processing and Claude integration
+- processors.py: File processing and Gemini integration
 - pipeline.py: Main pipeline orchestration
 - cli.py: Command-line interface
 

@@ -22,7 +22,7 @@ def main(
     max_items: Optional[int] = typer.Option(None, "--max-items", help="Maximum items per source"),
     debug: bool = typer.Option(False, "--debug", help="Enable debug mode"),
     request_delay: Optional[int] = typer.Option(None, "--request-delay", help="Delay between requests (overrides config)"),
-    claude_delay: int = typer.Option(None, "--claude-delay", help="Delay for Claude API calls (overrides config)"),
+    gemini_delay: int = typer.Option(None, "--gemini-delay", help="Delay for Gemini API calls (overrides config)"),
 ):
     """Process RSS feeds and generate markdown content using AI."""
     
@@ -34,8 +34,8 @@ def main(
         config_override["general"]["max_items"] = max_items
     if request_delay is not None:
         config_override["general"]["request_delay"] = request_delay
-    if claude_delay is not None:
-        config_override["general"]["claude_delay"] = claude_delay
+    if gemini_delay is not None:
+        config_override["general"]["gemini_delay"] = gemini_delay
     
     config = load_config()
     
@@ -57,11 +57,11 @@ def main(
     # Initialize pipeline
     pipeline = CircularsPipeline(config)
     
-    console.print("🚀 Parallel RSS Fetch & AI Processing Pipeline (MarkItDown + Claude)")
+    console.print("🚀 Parallel RSS Fetch & AI Processing Pipeline (MarkItDown + Gemini)")
     console.print(f"Working directory: {pipeline.state_dir.parent.absolute()}")
     console.print(f"Debug mode: {pipeline.debug}")
-    console.print(f"Request delay: {pipeline.request_delay}s, Claude delay: {pipeline.claude_delay}s")
-    console.print(f"Parallel limits: {pipeline.max_concurrent_items} items/source, {pipeline.max_concurrent_sources} sources, {pipeline.claude_processor.claude_semaphore._value} Claude calls, {pipeline.file_downloader.download_semaphore._value} downloads")
+    console.print(f"Request delay: {pipeline.request_delay}s, Gemini delay: {pipeline.gemini_delay}s")
+    console.print(f"Parallel limits: {pipeline.max_concurrent_items} items/source, {pipeline.max_concurrent_sources} sources, {pipeline.gemini_processor.gemini_semaphore._value} Gemini calls, {pipeline.file_downloader.download_semaphore._value} downloads")
     
     # Check dependencies
     if not check_dependencies():
@@ -86,11 +86,11 @@ def main(
 def check_dependencies() -> bool:
     """Check if required tools are available"""
     try:
-        subprocess.run(["claude", "--help"], capture_output=True, check=True)
+        subprocess.run(["gemini", "--help"], capture_output=True, check=True)
         return True
     except (subprocess.CalledProcessError, FileNotFoundError):
-        console.print("❌ claude CLI tool not found or not working", style="red")
-        console.print("Install with: curl -sSL https://claude.ai/download/cli | sh", style="yellow")
+        console.print("❌ gemini CLI tool not found or not working", style="red")
+        console.print("Install with: npm install -g @google/gemini-cli", style="yellow")
         return False
 
 

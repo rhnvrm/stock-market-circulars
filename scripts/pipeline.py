@@ -14,7 +14,7 @@ from config import load_config
 from extractors import ContentScraper, PDFURLExtractor, RSSExtractor
 from frontmatter_manager import FrontmatterManager
 from models import PipelineStats, SourceStats
-from processors import ClaudeProcessor, FileDownloader, TextExtractor
+from processors import GeminiProcessor, FileDownloader, TextExtractor
 
 # Pre-compiled regex for SEBI date format parsing
 SEBI_DATE_PATTERN = re.compile(r'(\d{1,2})\s+(\w{3}),?\s+(\d{4})\s+([+-]\d{4})')
@@ -74,14 +74,14 @@ class CircularsPipeline:
         # Configuration
         general = self.config.get("general", {})
         self.request_delay = general.get("request_delay", 2.0)
-        self.claude_delay = general.get("claude_delay", 3.0)
+        self.gemini_delay = general.get("gemini_delay", general.get("claude_delay", 3.0))
         self.timeout = general.get("timeout", 30)
         self.debug = general.get("debug", False)
         
         # Concurrency settings
         self.max_concurrent_items = general.get("max_concurrent_items", 5)
         self.max_concurrent_sources = general.get("max_concurrent_sources", 3)
-        max_claude_calls = general.get("max_concurrent_claude_calls", 2)
+        max_gemini_calls = general.get("max_concurrent_gemini_calls", general.get("max_concurrent_claude_calls", 2))
         max_downloads = general.get("max_concurrent_downloads", 3)
         
         # Create semaphores for concurrency control
@@ -93,9 +93,9 @@ class CircularsPipeline:
         self.content_scraper = ContentScraper(self.timeout)
         self.file_downloader = FileDownloader(max_downloads, logger=self.log)
         self.text_extractor = TextExtractor(logger=self.log)
-        self.claude_processor = ClaudeProcessor(
-            self.claude_delay, 
-            max_claude_calls, 
+        self.gemini_processor = GeminiProcessor(
+            self.gemini_delay, 
+            max_gemini_calls, 
             self.config.get("prompts", {}),
             logger=self.log
         )
@@ -366,29 +366,29 @@ class CircularsPipeline:
                         if html_text and len(html_text) > 100:
                             self.log(f"Successfully extracted {len(html_text)} characters from BSE HTML", "INFO", circular_id)
                             
-                            # Process the HTML content with Claude
-                            self.frontmatter_manager.write_state_file(content_path, base_metadata, "claude_processing", "processing")
+                            # Process the HTML content with Gemini
+                            self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_processing", "processing")
                             try:
-                                self.log(f"Calling Claude with {len(html_text)} chars of HTML", "DEBUG", circular_id)
-                                claude_content = await self.claude_processor.run_claude(html_text, base_metadata, circular_id)
-                                self.log(f"Claude returned: {type(claude_content)} - {len(claude_content) if claude_content else 0} chars", "DEBUG", circular_id)
+                                self.log(f"Calling Gemini with {len(html_text)} chars of HTML", "DEBUG", circular_id)
+                                ai_content = await self.gemini_processor.run_gemini(html_text, base_metadata, circular_id)
+                                self.log(f"Gemini returned: {type(ai_content)} - {len(ai_content) if ai_content else 0} chars", "DEBUG", circular_id)
                             except Exception as e:
-                                self.log(f"Claude call failed: {e}", "ERROR", circular_id)
+                                self.log(f"Gemini call failed: {e}", "ERROR", circular_id)
                                 raise
                             
-                            if claude_content:
+                            if ai_content:
                                 # Stage 5: Finalize and write content
                                 self.frontmatter_manager.write_state_file(content_path, base_metadata, "finalizing", "processing")
                                 
                                 processing_state = self.frontmatter_manager.create_processing_state(
                                     status="published",
                                     stage="completed",
-                                    content_hash=hashlib.md5(claude_content.encode()).hexdigest()[:16]
+                                    content_hash=hashlib.md5(ai_content.encode()).hexdigest()[:16]
                                 )
                                 
                                 success = self.frontmatter_manager.write_content_file(
                                     content_path, 
-                                    claude_content, 
+                                    ai_content, 
                                     base_metadata, 
                                     processing_state
                                 )
@@ -414,24 +414,24 @@ class CircularsPipeline:
             
             extracted_text = self.text_extractor.extract_file_text(temp_file, circular_id)
             
-            # Stage 4: Generate content with Claude
-            self.frontmatter_manager.write_state_file(content_path, base_metadata, "claude_processing", "processing")
+            # Stage 4: Generate content with Gemini
+            self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_processing", "processing")
             
             # Try text-based approach first, fallback to PDF direct processing
             if extracted_text and len(extracted_text) > 50:
-                claude_content = await self.claude_processor.run_claude(extracted_text, base_metadata, circular_id)
+                ai_content = await self.gemini_processor.run_gemini(extracted_text, base_metadata, circular_id)
             else:
                 self.log(f"Text extraction failed/insufficient, trying direct PDF processing", "WARNING", circular_id)
-                claude_content = await self.claude_processor.run_claude_with_pdf(temp_file, base_metadata, circular_id)
+                ai_content = await self.gemini_processor.run_gemini_with_pdf(temp_file, base_metadata, circular_id)
             
             # Clean up temp file
             if temp_file and temp_file.exists():
                 temp_file.unlink()
             
-            if not claude_content:
-                self.log(f"Claude processing failed", "ERROR", circular_id)
+            if not ai_content:
+                self.log(f"AI processing failed", "ERROR", circular_id)
                 # Write failure state
-                self.frontmatter_manager.write_state_file(content_path, base_metadata, "claude_failed", "failed")
+                self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_failed", "failed")
                 return False
             
             # Stage 5: Write final content file with processing state
@@ -441,13 +441,13 @@ class CircularsPipeline:
             processing_state = self.frontmatter_manager.create_processing_state(
                 status="published",
                 stage="completed", 
-                content_hash=self.frontmatter_manager.get_content_hash(claude_content)
+                content_hash=self.frontmatter_manager.get_content_hash(ai_content)
             )
             
             # Write the final content file
             success = self.frontmatter_manager.write_content_file(
                 content_path, 
-                claude_content, 
+                ai_content, 
                 base_metadata, 
                 processing_state
             )
