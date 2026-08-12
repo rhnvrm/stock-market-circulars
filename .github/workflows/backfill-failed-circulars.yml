@@ -110,14 +110,39 @@ jobs:
             echo "=== Batch $batch_num starting at index $i with ${#batch[@]} items ==="
             printf '%s\n' "${batch[@]}"
 
+            BEFORE_HEAD=$(git rev-parse HEAD)
+            BEFORE_SNAPSHOT=$(mktemp)
+            git ls-files -s > "$BEFORE_SNAPSHOT"
+
             IDS_JOINED=$(printf '%q ' "${batch[@]}")
-            nix develop --command bash -lc "cd scripts && uv run combined_pipeline.py regenerate $IDS_JOINED $SOURCE_ARG"
+            BATCH_LOG="$RUNNER_TEMP/backfill-batch-$batch_num.log"
+            nix develop --command bash -lc "cd scripts && uv run combined_pipeline.py regenerate $IDS_JOINED $SOURCE_ARG" | tee "$BATCH_LOG"
+
+            SUCCESS_COUNT=$(grep -c '^✅ Regenerated ' "$BATCH_LOG" || true)
+            FAILURE_COUNT=$(grep -c '^❌ Failed to regenerate ' "$BATCH_LOG" || true)
+            echo "Batch $batch_num summary: successes=$SUCCESS_COUNT failures=$FAILURE_COUNT"
+
+            if [ "$SUCCESS_COUNT" -eq 0 ]; then
+              echo "Batch $batch_num had zero successful regenerations; reverting workspace changes"
+              git reset --hard "$BEFORE_HEAD"
+              git clean -fd
+              continue
+            fi
+
+            AFTER_SNAPSHOT=$(mktemp)
+            git ls-files -s > "$AFTER_SNAPSHOT"
+            if diff "$BEFORE_SNAPSHOT" "$AFTER_SNAPSHOT" | grep -q '^<'; then
+              echo "Batch $batch_num removed tracked files; reverting workspace changes for safety"
+              git reset --hard "$BEFORE_HEAD"
+              git clean -fd
+              continue
+            fi
 
             git add .
             if git diff --staged --quiet; then
               echo "No changes to commit for batch $batch_num"
             else
-              git commit -m "Backfill failed circulars batch $batch_num - $(date -u +"%Y-%m-%d %H:%M UTC")"
+              git commit -m "fix(backfill): regenerate failed circulars batch $batch_num"
               git push
             fi
           done
