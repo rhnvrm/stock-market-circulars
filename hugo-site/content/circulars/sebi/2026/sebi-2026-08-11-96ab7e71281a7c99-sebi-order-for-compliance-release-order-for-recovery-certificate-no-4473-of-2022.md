@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786443303610_2.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T07:44:49.240345'
+  processed_at: '2026-08-12T08:23:40.810467'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-08-11T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-4473-of-2022-mr-girishkumar-prabhudas-ruparel-pan-aippr8860g-in-the-matter-of-atlanta-infrastructure-and-finance-limited-_103482.html

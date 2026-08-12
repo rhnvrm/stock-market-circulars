@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786361403248_2.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T07:45:51.284470'
+  processed_at: '2026-08-12T08:24:09.765654'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-08-10T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-kamlesh-ahuja-defaulter-pan-adfpa4706r-in-the-matter-of-dealings-in-illiquid-stock-options-at-bse-under-certificate-no-8037-of-2024-_103474.html

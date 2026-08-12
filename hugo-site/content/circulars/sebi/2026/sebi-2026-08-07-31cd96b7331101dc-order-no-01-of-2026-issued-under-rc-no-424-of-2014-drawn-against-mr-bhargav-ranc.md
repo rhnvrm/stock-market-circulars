@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786105161768.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T07:48:06.846937'
+  processed_at: '2026-08-12T08:26:08.148164'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-08-07T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/order-no-01-of-2026-issued-under-rc-no-424-of-2014-drawn-against-mr-bhargav-ranchodlal-panchal-pan-afupp7738m-in-the-matter-of-ipo-irregularities-_103448.html

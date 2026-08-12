@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786099702715.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T07:49:41.511535'
+  processed_at: '2026-08-12T08:27:32.637236'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-08-07T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/orders/aug-2026/appeal-no-6976-of-2026-filed-by-chhabeg-singh_103442.html

@@ -6,9 +6,9 @@ pdf_url: https://www.sebi.gov.in/sebi_data/attachdocs/aug-2026/1786018503299_1.p
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-12T07:52:27.826959'
+  processed_at: '2026-08-12T08:30:26.444209'
   processor_version: '2.0'
-  stage: claude_failed
+  stage: ai_failed
   status: failed
 published_date: '2026-08-06T00:00:00+05:30'
 rss_url: https://www.sebi.gov.in/enforcement/recovery-proceedings/aug-2026/release-order-certificate-no-rc8582-of-2025-in-respect-of-consolidated-mercantiles-private-limited-pan-aaccc2960n-in-the-matter-of-illiquid-stock-options_103414.html
