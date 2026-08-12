@@ -4,7 +4,7 @@
 [general]
 # Default processing delays (seconds)
 request_delay = 2.0
-claude_delay = 3.0
+gemini_delay = 3.0
 timeout = 60
 
 # Debug and logging
@@ -16,7 +16,7 @@ log_to_console = true  # Whether to also output to console (in addition to file)
 # Concurrency limits
 max_concurrent_items = 5
 max_concurrent_sources = 3
-max_concurrent_claude_calls = 2
+max_concurrent_gemini_calls = 2
 max_concurrent_downloads = 3
 
 [rss_feeds]
@@ -59,8 +59,8 @@ category_mapping = [
 
 [api]
 # API configuration (can be overridden by environment variables)
-# claude_api_key = ""  # Set via CLAUDE_API_KEY env var
-# claude_model = "claude-3-sonnet-20240229"  # Override default model
+# gemini_api_key = ""  # Set via GEMINI_API_KEY env var
+# gemini_model = "gemini-2.5-flash"  # Override default model if needed
 
 [directories]
 # Directory structure (relative to scripts directory)
@@ -68,8 +68,8 @@ content_dir = "../hugo-site/content/circulars"
 log_file = "../combined_pipeline.log"
 
 [prompts]
-# Claude AI prompts for content generation
-claude_analysis = """Generate Hugo content as JSON with separate frontmatter and content sections.
+# Gemini AI prompts for content generation
+gemini_analysis = """Generate Hugo content as JSON with separate frontmatter and content sections.
 
 SOURCE: $source | TITLE: $title | URL: $pdf_url | ID: $circular_id
 

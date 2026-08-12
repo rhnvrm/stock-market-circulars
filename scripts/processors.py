@@ -1,7 +1,8 @@
-"""File processing, text extraction, and Claude integration."""
+"""File processing, text extraction, and Gemini integration."""
 
 import asyncio
 import json
+import os
 import re
 import shlex
 import subprocess
@@ -219,14 +220,14 @@ class TextExtractor:
             return None
 
 
-class ClaudeProcessor:
-    """Handles Claude API interactions"""
+class GeminiProcessor:
+    """Handles Gemini CLI interactions"""
     
-    def __init__(self, claude_delay: float = 3.0, max_claude_calls: int = 2, prompts: Dict[str, str] = None, logger=None):
-        self.claude_delay = claude_delay
-        self.claude_semaphore = asyncio.Semaphore(max_claude_calls)
-        if not prompts or not prompts.get("claude_analysis"):
-            raise ValueError("Missing required prompt: claude_analysis")
+    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, logger=None):
+        self.gemini_delay = gemini_delay
+        self.gemini_semaphore = asyncio.Semaphore(max_gemini_calls)
+        if not prompts or not prompts.get("gemini_analysis"):
+            raise ValueError("Missing required prompt: gemini_analysis")
         self.prompts = prompts
         self.logger = logger or print  # Fallback to print if no logger provided
     
@@ -237,15 +238,15 @@ class ClaudeProcessor:
         else:
             print(message)
     
-    async def run_claude_with_pdf(self, pdf_path: Path, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
-        """Run Claude with PDF file directly using @filepath syntax"""
+    async def run_gemini_with_pdf(self, pdf_path: Path, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
+        """Run Gemini with PDF file directly using @filepath syntax"""
         # Build metadata string for prompt
         metadata_str = "\\n".join([f"- {k}: {v}" for k, v in metadata.items() if v])
         
         # Use string.Template to avoid issues with braces in content
         import string
-        template = string.Template(self.prompts["claude_analysis"])
-        claude_prompt = template.safe_substitute(
+        template = string.Template(self.prompts["gemini_analysis"])
+        gemini_prompt = template.safe_substitute(
             source=metadata.get("source", "unknown"),
             title=metadata.get("title", "Untitled"),
             pdf_url=metadata.get("pdf_url", ""),
@@ -255,22 +256,22 @@ class ClaudeProcessor:
         )
         
         # Use @filepath syntax for direct PDF processing
-        full_prompt = f"@{pdf_path} {claude_prompt}"
+        full_prompt = f"@{pdf_path} {gemini_prompt}"
         
-        response = await self._run_claude_with_retry(full_prompt, item_id)
-        if response and response.get("result"):
-            return self._parse_structured_response(response["result"], item_id)
+        response = await self._run_gemini_with_retry(full_prompt, item_id)
+        if response and response.get("response"):
+            return self._parse_structured_response(response["response"], item_id)
         return None
     
-    async def run_claude(self, pdf_content: str, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
-        """Run Claude with extracted text content"""
+    async def run_gemini(self, pdf_content: str, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
+        """Run Gemini with extracted text content"""
         # Build metadata string for prompt
         metadata_str = "\\n".join([f"- {k}: {v}" for k, v in metadata.items() if v])
         
         # Use string.Template to avoid issues with braces in content
         import string
-        template = string.Template(self.prompts["claude_analysis"])
-        claude_prompt = template.safe_substitute(
+        template = string.Template(self.prompts["gemini_analysis"])
+        gemini_prompt = template.safe_substitute(
             source=metadata.get("source", "unknown"),
             title=metadata.get("title", "Untitled"),
             pdf_url=metadata.get("pdf_url", ""),
@@ -281,23 +282,23 @@ class ClaudeProcessor:
         
         # Debug: log the content and prompt
         self._log(f"Content length: {len(pdf_content)} chars", "DEBUG", item_id)
-        self._log(f"Prompt length: {len(claude_prompt)} chars", "DEBUG", item_id)
+        self._log(f"Prompt length: {len(gemini_prompt)} chars", "DEBUG", item_id)
         
-        response = await self._run_claude_with_retry(claude_prompt, item_id)
-        if response and response.get("result"):
-            self._log(f"Claude returned result, calling parser", "DEBUG", item_id)
-            result = self._parse_structured_response(response["result"], item_id)
+        response = await self._run_gemini_with_retry(gemini_prompt, item_id)
+        if response and response.get("response"):
+            self._log(f"Gemini returned result, calling parser", "DEBUG", item_id)
+            result = self._parse_structured_response(response["response"], item_id)
             self._log(f"Parser returned: {type(result)}", "DEBUG", item_id)
             return result
         else:
-            self._log(f"No result from Claude: {response}", "DEBUG", item_id)
+            self._log(f"No result from Gemini: {response}", "DEBUG", item_id)
             return None
     
     def _parse_structured_response(self, response: str, item_id: str = None) -> Optional[str]:
         """Parse structured JSON response and reconstruct markdown"""
         try:
             # Log the raw response for debugging
-            self._log(f"Raw Claude response ({len(response)} chars): {response[:200]}...", "DEBUG", item_id)
+            self._log(f"Raw Gemini response ({len(response)} chars): {response[:200]}...", "DEBUG", item_id)
             
             # Extract JSON from response (handle markdown code blocks if present)
             json_content = response.strip()
@@ -365,8 +366,8 @@ class ClaudeProcessor:
         
         return prompt.strip()
     
-    async def _run_claude_with_retry(self, prompt: str, item_id: str = None, max_retries: int = 3) -> Optional[Dict]:
-        """Run Claude command with retry logic and concurrency control, returns JSON response"""
+    async def _run_gemini_with_retry(self, prompt: str, item_id: str = None, max_retries: int = 3) -> Optional[Dict]:
+        """Run Gemini CLI with retry logic and concurrency control, returns JSON response"""
         # Sanitize input
         try:
             sanitized_prompt = self._sanitize_prompt(prompt)
@@ -374,50 +375,52 @@ class ClaudeProcessor:
             self._log(f"Prompt validation failed: {e}", "ERROR", item_id)
             return None
         
-        async with self.claude_semaphore:
+        async with self.gemini_semaphore:
             for attempt in range(1, max_retries + 1):
                 try:
                     if attempt > 1:
-                        await asyncio.sleep(self.claude_delay * (attempt + 1))
+                        await asyncio.sleep(self.gemini_delay * (attempt + 1))
                     else:
-                        await asyncio.sleep(self.claude_delay)
+                        await asyncio.sleep(self.gemini_delay)
                     
-                    self._log(f"Running Claude (attempt {attempt}/{max_retries})", "INFO", item_id)
+                    self._log(f"Running Gemini (attempt {attempt}/{max_retries})", "INFO", item_id)
                     
                     # Use list format to prevent shell injection
                     cmd = [
-                        "claude", 
+                        "gemini", 
                         "-p", sanitized_prompt,
                         "--output-format", "json",
-                        "--allowedTools", "Read"
+                        "--skip-trust"
                     ]
                     
+                    env = dict(os.environ)
                     result = subprocess.run(
                         cmd,
                         capture_output=True,
                         text=True,
                         timeout=120,
-                        check=False  # Don't raise on non-zero exit
+                        check=False,  # Don't raise on non-zero exit
+                        env=env
                     )
                     
                     if result.returncode == 0 and result.stdout.strip():
                         try:
                             response_data = json.loads(result.stdout.strip())
-                            if response_data.get("type") == "result" and not response_data.get("is_error", False):
-                                content = response_data.get("result", "")
+                            if response_data.get("response"):
+                                content = response_data.get("response", "")
                                 self._log(f"Successfully generated content ({len(content)} chars)", "INFO", item_id)
                                 return response_data
                             else:
-                                self._log(f"Claude returned error response: {response_data.get('result', 'Unknown error')}", "ERROR", item_id)
+                                self._log(f"Gemini returned empty response payload", "ERROR", item_id)
                         except json.JSONDecodeError as e:
-                            self._log(f"Failed to parse Claude JSON response: {e}", "ERROR", item_id)
+                            self._log(f"Failed to parse Gemini JSON response: {e}", "ERROR", item_id)
                     else:
-                        self._log(f"Claude attempt {attempt} failed: {result.stderr}", "ERROR", item_id)
+                        self._log(f"Gemini attempt {attempt} failed: {result.stderr}", "ERROR", item_id)
                         
                 except subprocess.TimeoutExpired:
-                    self._log(f"Claude attempt {attempt} timed out", "ERROR", item_id)
+                    self._log(f"Gemini attempt {attempt} timed out", "ERROR", item_id)
                 except Exception as e:
-                    self._log(f"Claude attempt {attempt} error: {e}", "ERROR", item_id)
+                    self._log(f"Gemini attempt {attempt} error: {e}", "ERROR", item_id)
                     
-            self._log(f"All Claude attempts failed after {max_retries} tries", "ERROR", item_id)
+            self._log(f"All Gemini attempts failed after {max_retries} tries", "ERROR", item_id)
             return None

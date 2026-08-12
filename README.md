@@ -15,9 +15,9 @@ Regulatory circulars from official RSS feeds:
 The dataset updates automatically every 3 hours via GitHub Actions:
 
 1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger)
-2. **Environment Setup** - Nix development environment provides Python, uv, Claude CLI, and Go
+2. **Environment Setup** - Nix development environment provides Python, uv, Gemini CLI, and Go
 3. **Pipeline Execution** - `just pipeline` command runs the complete RSS monitoring and processing pipeline
-4. **Content Processing** - Python scripts download PDFs, extract text, and use Claude AI for analysis
+4. **Content Processing** - Python scripts download PDFs, extract text, and use Gemini AI for analysis
 5. **Dataset Updates** - New circulars are committed as structured markdown files with timestamps
 
 All processing happens in the cloud using GitHub's infrastructure - no local setup required for the dataset to stay current.

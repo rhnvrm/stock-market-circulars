@@ -30,7 +30,7 @@
             
             # Go server
             go
-            nodejs_20  # For Claude Code
+            nodejs_20  # For Gemini CLI
 
             # Development utilities
             direnv
@@ -41,7 +41,7 @@
 
           shellHook = ''
             echo "🚀 Stock Market Circulars Processing Pipeline"
-            echo "Python + uv + Claude + Go development environment"
+            echo "Python + uv + Gemini + Go development environment"
             echo ""
             
             # Set up library paths for Python packages
@@ -54,12 +54,12 @@
             # Create npm global directory if it doesn't exist
             mkdir -p "$NPM_CONFIG_PREFIX"
             
-            # Install Claude Code if not available
-            if ! command -v claude &> /dev/null; then
-              echo "📦 Installing Claude Code..."
-              npm install -g @anthropic-ai/claude-code
+            # Install Gemini CLI if not available
+            if ! command -v gemini &> /dev/null; then
+              echo "📦 Installing Gemini CLI..."
+              npm install -g @google/gemini-cli
             else
-              echo "✅ Claude Code available"
+              echo "✅ Gemini CLI available"
             fi
             
             echo ""
