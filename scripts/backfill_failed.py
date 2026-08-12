@@ -9,8 +9,9 @@
 
 from __future__ import annotations
 
+from datetime import datetime
 from pathlib import Path
-from typing import List, Optional
+from typing import List, Optional, Tuple
 
 import frontmatter
 import typer
@@ -23,11 +24,20 @@ VALID_STAGES = {"claude_failed", "ai_failed"}
 VALID_SOURCES = {"nse", "bse", "sebi"}
 
 
+def extract_sort_key(post, md_file: Path) -> Tuple[str, str]:
+    published_date = post.metadata.get("published_date") or ""
+    try:
+        normalized = datetime.fromisoformat(str(published_date).replace("Z", "+00:00")).isoformat()
+    except Exception:
+        normalized = ""
+    return (normalized, md_file.name)
+
+
 def collect_failed_items(source: Optional[str], stages: List[str]) -> List[str]:
-    items: List[str] = []
+    items: List[Tuple[Tuple[str, str], str]] = []
     chosen_stages = set(stages) if stages else VALID_STAGES
 
-    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+    for md_file in CONTENT_DIR.rglob("*.md"):
         try:
             post = frontmatter.load(md_file)
         except Exception:
@@ -45,9 +55,10 @@ def collect_failed_items(source: Optional[str], stages: List[str]) -> List[str]:
         if not circular_id:
             continue
 
-        items.append(circular_id)
+        items.append((extract_sort_key(post, md_file), circular_id))
 
-    return items
+    items.sort(reverse=True)
+    return [circular_id for _, circular_id in items]
 
 
 @app.command()
