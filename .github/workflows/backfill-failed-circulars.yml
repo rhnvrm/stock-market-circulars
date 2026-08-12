@@ -65,10 +65,13 @@ jobs:
             ARGS="$ARGS --stage claude_failed --stage ai_failed"
           fi
 
-          nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --limit '${{ inputs.limit }}'" > selected_ids.txt
+          nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --limit '${{ inputs.limit }}' --verbose" > selected_ids.txt
+          grep '^SKIP ' selected_ids.txt || true
+          grep -v '^SKIP ' selected_ids.txt > selected_ids.filtered.txt || true
+          mv selected_ids.filtered.txt selected_ids.txt
           count=$(wc -l < selected_ids.txt | tr -d ' ')
           echo "count=$count" >> "$GITHUB_OUTPUT"
-          echo "Selected $count IDs"
+          echo "Selected $count IDs after cooldown filtering"
           cat selected_ids.txt
 
       - name: Run backfill regenerate batch

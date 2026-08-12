@@ -9,7 +9,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import List, Optional, Tuple
 
@@ -22,18 +22,48 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "hugo-site" / "content" / "circulars"
 VALID_STAGES = {"claude_failed", "ai_failed"}
 VALID_SOURCES = {"nse", "bse", "sebi"}
+BACKFILL_COOLDOWN_DAYS = 7
+
+
+def parse_timestamp(value: str) -> Optional[datetime]:
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except Exception:
+        return None
 
 
 def extract_sort_key(post, md_file: Path) -> Tuple[str, str]:
     published_date = post.metadata.get("published_date") or ""
-    try:
-        normalized = datetime.fromisoformat(str(published_date).replace("Z", "+00:00")).isoformat()
-    except Exception:
-        normalized = ""
+    parsed = parse_timestamp(str(published_date))
+    normalized = parsed.isoformat() if parsed else ""
     return (normalized, md_file.name)
 
 
-def collect_failed_items(source: Optional[str], stages: List[str]) -> List[str]:
+def should_skip_for_cooldown(processing: dict) -> tuple[bool, str]:
+    retry_source = processing.get("retry_source")
+    if retry_source != "backfill":
+        return False, ""
+
+    last_updated = parse_timestamp(str(processing.get("last_updated") or processing.get("processed_at") or ""))
+    if not last_updated:
+        return False, ""
+
+    if last_updated.tzinfo is None:
+        last_updated = last_updated.replace(tzinfo=timezone.utc)
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=BACKFILL_COOLDOWN_DAYS)
+    if last_updated >= cutoff:
+        return True, (
+            f"skip cooldown: retried via backfill at {last_updated.isoformat()} "
+            f"which is newer than {BACKFILL_COOLDOWN_DAYS} days"
+        )
+
+    return False, ""
+
+
+def collect_failed_items(source: Optional[str], stages: List[str], verbose: bool = False) -> List[str]:
     items: List[Tuple[Tuple[str, str], str]] = []
     chosen_stages = set(stages) if stages else VALID_STAGES
 
@@ -47,8 +77,16 @@ def collect_failed_items(source: Optional[str], stages: List[str]) -> List[str]:
         if source and post_source != source:
             continue
 
-        stage = post.metadata.get("processing", {}).get("stage")
+        processing = post.metadata.get("processing", {})
+        stage = processing.get("stage")
         if stage not in chosen_stages:
+            continue
+
+        skip, reason = should_skip_for_cooldown(processing)
+        if skip:
+            if verbose:
+                circular_id = post.metadata.get("circular_id") or md_file.name
+                print(f"SKIP {circular_id} - {reason}")
             continue
 
         circular_id = post.metadata.get("circular_id")
@@ -67,13 +105,14 @@ def list_ids(
     stage: List[str] = typer.Option([], "--stage", help="Failure stages to include: claude_failed, ai_failed"),
     offset: int = typer.Option(0, "--offset", min=0),
     limit: int = typer.Option(50, "--limit", min=1),
+    verbose: bool = typer.Option(False, "--verbose", help="Log skipped items and selection decisions"),
 ):
     if source and source not in VALID_SOURCES:
         raise typer.BadParameter(f"Invalid source: {source}")
     if any(s not in VALID_STAGES for s in stage):
         raise typer.BadParameter(f"Invalid stage filter: {stage}")
 
-    items = collect_failed_items(source, stage)
+    items = collect_failed_items(source, stage, verbose=verbose)
     selected = items[offset: offset + limit]
     for item in selected:
         print(item)
@@ -83,13 +122,14 @@ def list_ids(
 def count(
     source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi"),
     stage: List[str] = typer.Option([], "--stage", help="Failure stages to include: claude_failed, ai_failed"),
+    verbose: bool = typer.Option(False, "--verbose", help="Log skipped items and selection decisions"),
 ):
     if source and source not in VALID_SOURCES:
         raise typer.BadParameter(f"Invalid source: {source}")
     if any(s not in VALID_STAGES for s in stage):
         raise typer.BadParameter(f"Invalid stage filter: {stage}")
 
-    items = collect_failed_items(source, stage)
+    items = collect_failed_items(source, stage, verbose=verbose)
     print(len(items))
 
 
