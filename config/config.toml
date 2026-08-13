@@ -60,7 +60,7 @@ category_mapping = [
 [api]
 # API configuration (can be overridden by environment variables)
 # gemini_api_key = ""  # Set via GEMINI_API_KEY env var
-# gemini_model = "gemini-3.5-flash"  # Override default model if needed
+# gemini_model = "gemini-3.5-flash-lite"  # Override default model if needed
 
 [directories]
 # Directory structure (relative to scripts directory)

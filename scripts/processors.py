@@ -223,13 +223,13 @@ class TextExtractor:
 class GeminiProcessor:
     """Handles Gemini CLI interactions"""
     
-    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, model: str = "gemini-3.5-flash", logger=None):
+    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, model: str = "gemini-3.5-flash-lite", logger=None):
         self.gemini_delay = gemini_delay
         self.gemini_semaphore = asyncio.Semaphore(max_gemini_calls)
         if not prompts or not prompts.get("gemini_analysis"):
             raise ValueError("Missing required prompt: gemini_analysis")
         self.prompts = prompts
-        self.model = model or "gemini-3.5-flash"
+        self.model = model or "gemini-3.5-flash-lite"
         self.logger = logger or print  # Fallback to print if no logger provided
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):

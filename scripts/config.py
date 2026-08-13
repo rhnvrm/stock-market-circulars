@@ -25,7 +25,7 @@ def load_config() -> Dict[str, Any]:
         },
         "api": {
             "gemini_api_key": "",
-            "gemini_model": "gemini-3.5-flash"
+            "gemini_model": "gemini-3.5-flash-lite"
         },
         "prompts": {},
         "rss_feeds": {}

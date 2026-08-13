@@ -105,7 +105,7 @@ class CircularsPipeline:
             self.gemini_delay,
             max_gemini_calls,
             self.config.get("prompts", {}),
-            self.config.get("api", {}).get("gemini_model", "gemini-3.5-flash"),
+            self.config.get("api", {}).get("gemini_model", "gemini-3.5-flash-lite"),
             logger=self.log
         )
         
