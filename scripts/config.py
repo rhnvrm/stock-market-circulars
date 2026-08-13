@@ -7,9 +7,13 @@ from typing import Any, Dict
 import tomli
 
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+
+
 def load_config() -> Dict[str, Any]:
     """Load configuration from TOML file with environment overrides"""
-    config_path = Path("../config/config.toml").resolve()  # Resolve to absolute path
+    config_path = REPO_ROOT / "config" / "config.toml"
     
     # Default configuration
     config = {
@@ -39,6 +43,16 @@ def load_config() -> Dict[str, Any]:
         with open(config_path, "rb") as f:
             file_config = tomli.load(f)
             config.update(file_config)
+            
+            directories = config.get("directories", {})
+            if directories:
+                resolved_directories = {}
+                for key, value in directories.items():
+                    if isinstance(value, str):
+                        resolved_directories[key] = str((SCRIPT_DIR / value).resolve())
+                    else:
+                        resolved_directories[key] = value
+                config["directories"] = resolved_directories
     except Exception as e:
         raise RuntimeError(f"Failed to load config from {config_path}: {e}")
     

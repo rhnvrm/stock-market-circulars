@@ -117,11 +117,11 @@ class CircularsPipeline:
         })
         
         # Logging directory (no longer using JSON state files)
-        self.state_dir = Path("state")
+        self.state_dir = Path(self.config.get("directories", {}).get("state_dir", Path(__file__).resolve().parent / "state"))
         self.state_dir.mkdir(exist_ok=True)
         
         # Content-based state management
-        content_dir = Path(self.config.get("directories", {}).get("content_dir", "hugo-site/content/circulars"))
+        content_dir = Path(self.config.get("directories", {}).get("content_dir", Path(__file__).resolve().parent.parent / "hugo-site" / "content" / "circulars"))
         self.frontmatter_manager = FrontmatterManager(content_dir, logger=self.log)
     
     def log(self, message: str, level: str = "INFO", item_id: str = None):
@@ -135,7 +135,7 @@ class CircularsPipeline:
         print(formatted_message)
         
         # Also write to log file
-        log_file = Path("combined_pipeline.log")
+        log_file = Path(self.config.get("directories", {}).get("log_file", Path(__file__).resolve().parent.parent / "combined_pipeline.log"))
         with open(log_file, "a", encoding="utf-8") as f:
             f.write(formatted_message + "\n")
 
