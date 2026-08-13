@@ -32,12 +32,25 @@ jobs:
 
     - name: Commit updated content
       run: |
+        set -euo pipefail
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
         if git diff --staged --quiet; then
           echo "No changes to commit"
-        else
-          git commit -m "Update circulars - $(date -u +"%Y-%m-%d %H:%M UTC")"
-          git push
+          exit 0
         fi
+
+        git commit -m "Update circulars - $(date -u +"%Y-%m-%d %H:%M UTC")"
+
+        for attempt in 1 2; do
+          echo "Push attempt $attempt"
+          git fetch origin master
+          git pull --rebase origin master
+          if git push origin HEAD:master; then
+            exit 0
+          fi
+        done
+
+        echo "Failed to push after retries"
+        exit 1

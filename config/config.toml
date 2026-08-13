@@ -5,7 +5,7 @@
 # Default processing delays (seconds)
 request_delay = 2.0
 gemini_delay = 3.0
-timeout = 60
+timeout = 300
 
 # Debug and logging
 debug = false
@@ -16,7 +16,7 @@ log_to_console = true  # Whether to also output to console (in addition to file)
 # Concurrency limits
 max_concurrent_items = 5
 max_concurrent_sources = 3
-max_concurrent_gemini_calls = 2
+max_concurrent_gemini_calls = 6
 max_concurrent_downloads = 3
 
 [rss_feeds]
@@ -60,7 +60,7 @@ category_mapping = [
 [api]
 # API configuration (can be overridden by environment variables)
 # gemini_api_key = ""  # Set via GEMINI_API_KEY env var
-# gemini_model = "gemini-2.5-flash"  # Override default model if needed
+# gemini_model = "gemini-3.5-flash"  # Override default model if needed
 
 [directories]
 # Directory structure (relative to scripts directory)

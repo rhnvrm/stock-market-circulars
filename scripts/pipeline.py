@@ -102,9 +102,10 @@ class CircularsPipeline:
         self.file_downloader = FileDownloader(max_downloads, logger=self.log)
         self.text_extractor = TextExtractor(logger=self.log)
         self.gemini_processor = GeminiProcessor(
-            self.gemini_delay, 
-            max_gemini_calls, 
+            self.gemini_delay,
+            max_gemini_calls,
             self.config.get("prompts", {}),
+            self.config.get("api", {}).get("gemini_model", "gemini-3.5-flash"),
             logger=self.log
         )
         

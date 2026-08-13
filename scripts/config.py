@@ -16,15 +16,16 @@ def load_config() -> Dict[str, Any]:
         "general": {
             "request_delay": 2.0,
             "gemini_delay": 3.0,
-            "timeout": 30,
+            "timeout": 300,
             "debug": False,
             "max_concurrent_items": 5,
             "max_concurrent_sources": 3,
-            "max_concurrent_gemini_calls": 2,
+            "max_concurrent_gemini_calls": 6,
             "max_concurrent_downloads": 3
         },
         "api": {
-            "gemini_api_key": ""
+            "gemini_api_key": "",
+            "gemini_model": "gemini-3.5-flash"
         },
         "prompts": {},
         "rss_feeds": {}
@@ -51,6 +52,7 @@ def load_config() -> Dict[str, Any]:
     # Environment variable overrides
     env_overrides = {
         "gemini_api_key": os.getenv("GEMINI_API_KEY", "") or os.getenv("GOOGLE_API_KEY", "") or os.getenv("CLAUDE_CODE_OAUTH_TOKEN", ""),
+        "gemini_model": os.getenv("GEMINI_MODEL", "") or None,
         "request_delay": float(os.getenv("REQUEST_DELAY", "0")) or None,
         "gemini_delay": float(os.getenv("GEMINI_DELAY", "0")) or float(os.getenv("CLAUDE_DELAY", "0")) or None,
         "timeout": int(os.getenv("TIMEOUT", "0")) or None,
@@ -61,6 +63,8 @@ def load_config() -> Dict[str, Any]:
     # Apply non-None environment overrides
     if env_overrides["gemini_api_key"]:
         config.setdefault("api", {})["gemini_api_key"] = env_overrides["gemini_api_key"]
+    if env_overrides["gemini_model"]:
+        config.setdefault("api", {})["gemini_model"] = env_overrides["gemini_model"]
     
     for key in ["request_delay", "gemini_delay", "timeout", "max_items"]:
         if env_overrides[key]:

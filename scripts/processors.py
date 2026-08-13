@@ -223,12 +223,13 @@ class TextExtractor:
 class GeminiProcessor:
     """Handles Gemini CLI interactions"""
     
-    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, logger=None):
+    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, model: str = "gemini-3.5-flash", logger=None):
         self.gemini_delay = gemini_delay
         self.gemini_semaphore = asyncio.Semaphore(max_gemini_calls)
         if not prompts or not prompts.get("gemini_analysis"):
             raise ValueError("Missing required prompt: gemini_analysis")
         self.prompts = prompts
+        self.model = model or "gemini-3.5-flash"
         self.logger = logger or print  # Fallback to print if no logger provided
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
@@ -383,11 +384,12 @@ class GeminiProcessor:
                     else:
                         await asyncio.sleep(self.gemini_delay)
                     
-                    self._log(f"Running Gemini (attempt {attempt}/{max_retries})", "INFO", item_id)
+                    self._log(f"Running Gemini model {self.model} (attempt {attempt}/{max_retries})", "INFO", item_id)
                     
                     # Use list format to prevent shell injection
                     cmd = [
-                        "gemini", 
+                        "gemini",
+                        "--model", self.model,
                         "-p", sanitized_prompt,
                         "--output-format", "json",
                         "--skip-trust"
@@ -398,7 +400,7 @@ class GeminiProcessor:
                         cmd,
                         capture_output=True,
                         text=True,
-                        timeout=120,
+                        timeout=300,
                         check=False,  # Don't raise on non-zero exit
                         env=env
                     )

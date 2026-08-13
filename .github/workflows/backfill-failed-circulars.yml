@@ -53,23 +53,23 @@ jobs:
         id: select
         run: |
           set -euo pipefail
-          ARGS=""
+          ARGS=()
           if [ -n "${{ inputs.source }}" ]; then
-            ARGS="$ARGS --source ${{ inputs.source }}"
+            ARGS+=(--source "${{ inputs.source }}")
           fi
           if [ "${{ inputs.stage }}" = "claude_failed" ]; then
-            ARGS="$ARGS --stage claude_failed"
+            ARGS+=(--stage claude_failed)
           elif [ "${{ inputs.stage }}" = "ai_failed" ]; then
-            ARGS="$ARGS --stage ai_failed"
+            ARGS+=(--stage ai_failed)
           else
-            ARGS="$ARGS --stage claude_failed --stage ai_failed"
+            ARGS+=(--stage claude_failed --stage ai_failed)
           fi
 
           SELECTED_IDS_RAW="$RUNNER_TEMP/backfill-selected-ids.raw.txt"
           SELECTED_IDS="$RUNNER_TEMP/backfill-selected-ids.txt"
-          nix develop --command bash -lc "uv run scripts/backfill_failed.py list-ids $ARGS --offset '${{ inputs.offset }}' --verbose" > "$SELECTED_IDS_RAW"
+          nix develop --command uv run scripts/backfill_failed.py list-ids "${ARGS[@]}" --offset "${{ inputs.offset }}" --verbose > "$SELECTED_IDS_RAW"
           grep '^SKIP ' "$SELECTED_IDS_RAW" || true
-          grep -v '^SKIP ' "$SELECTED_IDS_RAW" > "$SELECTED_IDS" || true
+          grep -E '^[a-f0-9]{16}$' "$SELECTED_IDS_RAW" > "$SELECTED_IDS" || true
           count=$(wc -l < "$SELECTED_IDS" | tr -d ' ')
           echo "count=$count" >> "$GITHUB_OUTPUT"
           echo "Selected $count IDs after cooldown filtering"
@@ -114,9 +114,8 @@ jobs:
             BEFORE_SNAPSHOT=$(mktemp)
             git ls-files -s > "$BEFORE_SNAPSHOT"
 
-            IDS_JOINED=$(printf '%q ' "${batch[@]}")
             BATCH_LOG="$RUNNER_TEMP/backfill-batch-$batch_num.log"
-            nix develop --command bash -lc "cd scripts && uv run combined_pipeline.py regenerate $IDS_JOINED $SOURCE_ARG" | tee "$BATCH_LOG"
+            nix develop --command uv run scripts/combined_pipeline.py regenerate "${batch[@]}" ${SOURCE_ARG:+$SOURCE_ARG} | tee "$BATCH_LOG"
 
             SUCCESS_COUNT=$(grep -c '^✅ Regenerated ' "$BATCH_LOG" || true)
             FAILURE_COUNT=$(grep -c '^❌ Failed to regenerate ' "$BATCH_LOG" || true)
