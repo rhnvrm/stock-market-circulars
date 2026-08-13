@@ -142,7 +142,18 @@ jobs:
               echo "No changes to commit for batch $batch_num"
             else
               git commit -m "fix(backfill): regenerate failed circulars batch $batch_num"
-              git push
+              for attempt in 1 2; do
+                echo "Push attempt $attempt for batch $batch_num"
+                git fetch origin master
+                git pull --rebase origin master
+                if git push origin HEAD:master; then
+                  break
+                fi
+                if [ "$attempt" -eq 2 ]; then
+                  echo "Failed to push batch $batch_num after retries"
+                  exit 1
+                fi
+              done
             fi
           done
 
