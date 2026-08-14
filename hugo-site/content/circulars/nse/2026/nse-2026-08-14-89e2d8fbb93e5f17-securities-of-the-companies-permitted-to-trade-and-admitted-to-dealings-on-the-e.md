@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML75748.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-14T18:57:22.624265'
+  processed_at: '2026-08-14T21:29:38.915281'
   processor_version: '2.0'
   stage: download_failed
   status: failed
