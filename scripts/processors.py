@@ -40,7 +40,7 @@ class FileDownloader:
                 temp_path = Path(temp_file.name)
                 temp_file.close()
                 
-                async with httpx.AsyncClient(timeout=60) as client:
+                async with httpx.AsyncClient(timeout=60, follow_redirects=True) as client:
                     self._log(f"Downloading file temporarily: {url}", "INFO", item_id)
                     async with client.stream('GET', url, headers=headers) as response:
                         response.raise_for_status()
@@ -169,7 +169,7 @@ class TextExtractor:
             
             headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
             
-            async with httpx.AsyncClient(timeout=30) as client:
+            async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
                 self._log(f"Fetching HTML content from: {url}", "INFO", item_id)
                 response = await client.get(url, headers=headers)
                 response.raise_for_status()

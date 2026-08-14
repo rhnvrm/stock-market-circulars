@@ -508,7 +508,7 @@ class CircularsPipeline:
                 item_data = {
                     'guid': existing_metadata.get('guid', ''),
                     'title': existing_metadata.get('title', ''),
-                    'download_url': existing_metadata.get('rss_url', existing_metadata.get('pdf_url', '')),
+                    'download_url': existing_metadata.get('pdf_url') or existing_metadata.get('rss_url', ''),
                     'pubdate': existing_metadata.get('published_date', '')
                 }
                 

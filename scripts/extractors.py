@@ -39,7 +39,7 @@ class RSSExtractor:
         
         for attempt in range(len(self.retry_delays) + 1):  # +1 for initial attempt
             try:
-                async with httpx.AsyncClient(timeout=self.timeout) as client:
+                async with httpx.AsyncClient(timeout=self.timeout, follow_redirects=True) as client:
                     print(f"HTTP fetch attempt {attempt + 1}/{len(self.retry_delays) + 1} for {url}")
                     response = await client.get(url, headers=headers)
                     response.raise_for_status()
@@ -105,7 +105,7 @@ class PDFURLExtractor:
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         
         try:
-            async with httpx.AsyncClient(timeout=self.timeout) as client:
+            async with httpx.AsyncClient(timeout=self.timeout, follow_redirects=True) as client:
                 response = await client.get(url, headers=headers)
                 response.raise_for_status()
                 content = response.text
@@ -189,7 +189,7 @@ class ContentScraper:
         """Generic method to fetch content from any URL"""
         try:
             headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-            async with httpx.AsyncClient(timeout=self.timeout) as client:
+            async with httpx.AsyncClient(timeout=self.timeout, follow_redirects=True) as client:
                 response = await client.get(url, headers=headers)
                 response.raise_for_status()
                 return response.text
@@ -202,7 +202,7 @@ class ContentScraper:
         try:
             headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
             
-            async with httpx.AsyncClient(timeout=self.timeout) as client:
+            async with httpx.AsyncClient(timeout=self.timeout, follow_redirects=True) as client:
                 response = await client.get(url, headers=headers)
                 response.raise_for_status()
                 content = response.text
