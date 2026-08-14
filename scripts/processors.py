@@ -33,7 +33,11 @@ class FileDownloader:
         Returns: (file_path, error_type) where error_type can be '404', 'validation', or None
         """
         async with self.download_semaphore:
-            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://www.bseindia.com/",
+                "Origin": "https://www.bseindia.com",
+            }
             
             try:
                 temp_file = tempfile.NamedTemporaryFile(suffix='.tmp', delete=False)
@@ -167,7 +171,11 @@ class TextExtractor:
             import httpx
             from bs4 import BeautifulSoup
             
-            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://www.bseindia.com/",
+                "Origin": "https://www.bseindia.com",
+            }
             
             async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
                 self._log(f"Fetching HTML content from: {url}", "INFO", item_id)

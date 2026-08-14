@@ -139,6 +139,23 @@ class CircularsPipeline:
         with open(log_file, "a", encoding="utf-8") as f:
             f.write(formatted_message + "\n")
 
+    def extract_bse_notice_no(self, *values: str) -> Optional[str]:
+        """Extract BSE notice number like 20251003-68 from known URL forms."""
+        patterns = [
+            re.compile(r'[?&]noticeno=([0-9]{8}-[0-9]+)', re.IGNORECASE),
+            re.compile(r'[?&]Notice_no=([0-9]{8}-[0-9]+)', re.IGNORECASE),
+            re.compile(r'[?&]id=([0-9]{8}-[0-9]+)', re.IGNORECASE),
+        ]
+
+        for value in values:
+            if not value:
+                continue
+            for pattern in patterns:
+                match = pattern.search(str(value))
+                if match:
+                    return match.group(1)
+        return None
+
     async def process_sources(self, sources: List[str], max_items: Optional[int] = None) -> PipelineStats:
         """Process multiple RSS sources in parallel"""
         start_time = datetime.now()
@@ -363,9 +380,24 @@ class CircularsPipeline:
             temp_file, error_type = await self.file_downloader.download_temp_file(final_url, circular_id)
             if not temp_file:
                 self.log(f"Failed to download file: {error_type}", "ERROR", circular_id)
-                
-                # BSE fallback: if 404 error, try scraping the original notice page HTML
-                if error_type == "404" and source == "bse" and item['guid']:
+
+                # BSE fallback 1: old attachment URLs may 404, but the notice-number API PDF can still work
+                if error_type == "404" and source == "bse":
+                    notice_no = self.extract_bse_notice_no(final_url, item.get('guid', ''), item.get('download_url', ''))
+                    if notice_no:
+                        api_pdf_url = f"https://api.bseindia.com/BseIndiaAPI/api/GetNoticesDownload_ng/w?Notice_no={notice_no}"
+                        self.log(f"Attempting BSE API PDF fallback via notice number {notice_no}", "INFO", circular_id)
+                        api_temp_file, api_error_type = await self.file_downloader.download_temp_file(api_pdf_url, circular_id)
+                        if api_temp_file:
+                            temp_file = api_temp_file
+                            error_type = None
+                            final_url = api_pdf_url
+                            base_metadata['pdf_url'] = api_pdf_url
+                        else:
+                            self.log(f"BSE API PDF fallback failed: {api_error_type}", "WARNING", circular_id)
+
+                # BSE fallback 2: if 404 error persists, try scraping the original notice page HTML
+                if not temp_file and error_type == "404" and source == "bse" and item['guid']:
                     self.log(f"Attempting BSE HTML fallback for 404 error", "INFO", circular_id)
                     self.frontmatter_manager.write_state_file(content_path, base_metadata, "html_fallback", "processing")
                     
@@ -414,9 +446,10 @@ class CircularsPipeline:
                     except Exception as e:
                         self.log(f"BSE HTML fallback failed: {e}", "ERROR", circular_id)
                 
-                # Write failure state
-                self.frontmatter_manager.write_state_file(content_path, base_metadata, "download_failed", "failed")
-                return False
+                if not temp_file:
+                    # Write failure state
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "download_failed", "failed")
+                    return False
             
             # Stage 3: Extract text content
             self.frontmatter_manager.write_state_file(content_path, base_metadata, "text_extraction", "processing")
