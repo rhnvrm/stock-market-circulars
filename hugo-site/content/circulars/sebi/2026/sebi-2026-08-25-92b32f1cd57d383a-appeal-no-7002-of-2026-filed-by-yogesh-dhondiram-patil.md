@@ -6,7 +6,7 @@ pdf_url: https://www.sebi.gov.in/otherentry//_103995.html
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-08-25T12:57:40.049686'
+  processed_at: '2026-08-25T18:48:08.432584'
   processor_version: '2.0'
   stage: download_failed
   status: failed
