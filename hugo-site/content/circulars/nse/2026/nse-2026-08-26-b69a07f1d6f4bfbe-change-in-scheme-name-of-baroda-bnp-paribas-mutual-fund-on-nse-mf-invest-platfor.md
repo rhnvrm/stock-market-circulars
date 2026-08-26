@@ -1,0 +1,19 @@
+---
+circular_id: b69a07f1d6f4bfbe
+draft: true
+guid: https://nsearchives.nseindia.com/content/circulars/null75950.null
+pdf_url: https://nsearchives.nseindia.com/content/circulars/null75950.null
+processing:
+  attempts: 1
+  content_hash: ''
+  processed_at: '2026-08-26T06:48:55.134560'
+  processor_version: '2.0'
+  stage: download_failed
+  status: failed
+published_date: '2026-08-26T00:00:00+05:30'
+rss_url: https://nsearchives.nseindia.com/content/circulars/null75950.null
+source: nse
+title: Change in scheme name of Baroda BNP Paribas Mutual Fund on NSE MF Invest platform
+---
+
+Processing in progress...
