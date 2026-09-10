@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CMTR76284.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-09-10T16:06:53.650479'
+  processed_at: '2026-09-10T20:39:28.238608'
   processor_version: '2.0'
   stage: download_failed
   status: failed
