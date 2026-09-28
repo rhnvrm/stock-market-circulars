@@ -28,7 +28,7 @@ The functionality has been split into multiple modules:
 - cli.py: Command-line interface
 
 Usage:
-    uv run scripts/combined_pipeline.py nse bse sebi
+    uv run scripts/combined_pipeline.py nse bse sebi rbi
     uv run scripts/combined_pipeline.py bse --max-items 5 --debug
 """
 

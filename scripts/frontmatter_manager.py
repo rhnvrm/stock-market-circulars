@@ -113,7 +113,8 @@ class FrontmatterManager:
                     'published_date': metadata.get('published_date'),
                     'pdf_url': metadata.get('pdf_url'),
                     'rss_url': metadata.get('rss_url'),  # Original RSS URL
-                    'guid': metadata.get('guid')
+                    'guid': metadata.get('guid'),
+                    'feed_type': metadata.get('feed_type'),
                 }
                 
                 # Only add pipeline metadata if not already present from Claude
@@ -333,7 +334,7 @@ class FrontmatterManager:
             raise ValueError("Circular ID must be a non-empty string")
         
         # Validate source against allowed values
-        allowed_sources = ["nse", "bse", "sebi"]
+        allowed_sources = ["nse", "bse", "sebi", "rbi"]
         if source not in allowed_sources:
             raise ValueError(f"Source must be one of: {allowed_sources}")
         

@@ -24,6 +24,10 @@ max_concurrent_downloads = 3
 nse = "https://nsearchives.nseindia.com/content/RSS/Circulars.xml"
 bse = "https://www.bseindia.com/data/xml/notices.xml"
 sebi = "https://www.sebi.gov.in/sebirss.xml"
+rbi = [
+    "https://rbi.org.in/pressreleases_rss.xml",
+    "https://rbi.org.in/notifications_rss.xml",
+]
 
 [processing]
 # PDF processing settings
