@@ -16,12 +16,12 @@
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import AsyncMock, MagicMock
+from unittest.mock import AsyncMock, MagicMock, patch
 
 from config import load_config
 from extractors import RSSExtractor
 from pipeline import CircularsPipeline
-from processors import FileDownloader, GeminiProcessor
+from processors import DEFAULT_GEMINI_ATTACHMENT_DIR, FileDownloader, GeminiProcessor
 
 
 PRESS_RELEASE_FEED = """<?xml version="1.0" encoding="utf-8"?>
@@ -194,6 +194,26 @@ class RBIPipelineTests(unittest.IsolatedAsyncioTestCase):
 
 
 class GeminiProcessorTests(unittest.IsolatedAsyncioTestCase):
+    @patch("processors.subprocess.run")
+    async def test_gemini_cli_includes_attachment_directory(self, run_mock):
+        run_mock.return_value = MagicMock(
+            returncode=0,
+            stdout='{"response":"ok"}',
+            stderr="",
+        )
+        processor = GeminiProcessor(
+            gemini_delay=0,
+            max_gemini_calls=1,
+            prompts={"gemini_analysis": "$content"},
+        )
+
+        response = await processor._run_gemini_with_retry("prompt", max_retries=1)
+
+        self.assertEqual(response, {"response": "ok"})
+        command = run_mock.call_args.args[0]
+        include_index = command.index("--include-directories")
+        self.assertEqual(command[include_index + 1], str(DEFAULT_GEMINI_ATTACHMENT_DIR.resolve()))
+
     async def test_unlimited_content_keeps_the_full_rbi_notification(self):
         processor = GeminiProcessor(
             gemini_delay=0,
@@ -220,6 +240,7 @@ class GeminiProcessorTests(unittest.IsolatedAsyncioTestCase):
         )
 
         self.assertEqual(captured["content"], long_content)
+        self.assertEqual(captured["path"].parent, DEFAULT_GEMINI_ATTACHMENT_DIR.resolve())
         self.assertIn("The complete source document is attached", captured["prompt"])
         self.assertNotIn("final operative clause", captured["prompt"])
         self.assertLess(len(captured["prompt"]), 4000)
@@ -227,6 +248,15 @@ class GeminiProcessorTests(unittest.IsolatedAsyncioTestCase):
 
 
 class FileDownloaderTests(unittest.TestCase):
+    def test_downloads_use_dedicated_gemini_attachment_directory(self):
+        downloader = FileDownloader()
+
+        self.assertEqual(downloader.attachment_dir, DEFAULT_GEMINI_ATTACHMENT_DIR.resolve())
+        self.assertEqual(
+            downloader.attachment_dir.parent,
+            Path(tempfile.gettempdir()).resolve(),
+        )
+
     def test_accepts_png_image_attachments(self):
         with tempfile.NamedTemporaryFile() as image_file:
             image_file.write(b"\x89PNG\r\n\x1a\n" + (b"\x00" * 16))

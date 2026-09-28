@@ -15,12 +15,21 @@ import httpx
 from markitdown import MarkItDown
 
 
+DEFAULT_GEMINI_ATTACHMENT_DIR = Path(tempfile.gettempdir()) / "stock-market-circulars-gemini-attachments"
+
+
 class FileDownloader:
     """Handles file downloads with validation"""
     
-    def __init__(self, max_downloads: int = 3, logger=None):
+    def __init__(
+        self,
+        max_downloads: int = 3,
+        logger=None,
+        attachment_dir: Optional[Path] = None,
+    ):
         self.download_semaphore = asyncio.Semaphore(max_downloads)
         self.logger = logger or print
+        self.attachment_dir = Path(attachment_dir or DEFAULT_GEMINI_ATTACHMENT_DIR).resolve()
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
         """Helper method for consistent logging"""
@@ -51,7 +60,12 @@ class FileDownloader:
                 })
             
             try:
-                temp_file = tempfile.NamedTemporaryFile(suffix='.tmp', delete=False)
+                self.attachment_dir.mkdir(mode=0o700, parents=True, exist_ok=True)
+                temp_file = tempfile.NamedTemporaryFile(
+                    suffix='.tmp',
+                    dir=self.attachment_dir,
+                    delete=False,
+                )
                 temp_path = Path(temp_file.name)
                 temp_file.close()
                 
@@ -252,7 +266,15 @@ class GeminiProcessor:
 
     LARGE_CONTENT_ATTACHMENT_THRESHOLD = 50_000
     
-    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, model: str = "gemini-3.5-flash-lite", logger=None):
+    def __init__(
+        self,
+        gemini_delay: float = 3.0,
+        max_gemini_calls: int = 2,
+        prompts: Dict[str, str] = None,
+        model: str = "gemini-3.5-flash-lite",
+        logger=None,
+        attachment_dir: Optional[Path] = None,
+    ):
         self.gemini_delay = gemini_delay
         self.gemini_semaphore = asyncio.Semaphore(max_gemini_calls)
         if not prompts or not prompts.get("gemini_analysis"):
@@ -260,6 +282,7 @@ class GeminiProcessor:
         self.prompts = prompts
         self.model = model or "gemini-3.5-flash-lite"
         self.logger = logger or print  # Fallback to print if no logger provided
+        self.attachment_dir = Path(attachment_dir or DEFAULT_GEMINI_ATTACHMENT_DIR).resolve()
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
         """Helper method for consistent logging"""
@@ -318,10 +341,12 @@ class GeminiProcessor:
             )
             prompt_content = prompt_content[:content_limit]
         elif len(prompt_content) > self.LARGE_CONTENT_ATTACHMENT_THRESHOLD:
+            self.attachment_dir.mkdir(mode=0o700, parents=True, exist_ok=True)
             with tempfile.NamedTemporaryFile(
                 mode="w",
                 encoding="utf-8",
                 suffix=".md",
+                dir=self.attachment_dir,
                 delete=False,
             ) as content_file:
                 content_file.write(prompt_content)
@@ -461,6 +486,7 @@ class GeminiProcessor:
                     cmd = [
                         "gemini",
                         "--model", self.model,
+                        "--include-directories", str(self.attachment_dir),
                         "-p", sanitized_prompt,
                         "--output-format", "json",
                         "--skip-trust"
