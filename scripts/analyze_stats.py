@@ -21,6 +21,8 @@ STAGE_ALIASES = {
     "claude_failed": "ai_failed",
 }
 
+SOURCES = ['nse', 'bse', 'sebi', 'rbi']
+
 
 def normalize_stage(stage):
     return STAGE_ALIASES.get(stage, stage)
@@ -58,9 +60,7 @@ def analyze_circulars():
     stage_counts = defaultdict(Counter)
     total_counts = defaultdict(int)
     
-    sources = ['nse', 'bse', 'sebi']
-    
-    for source in sources:
+    for source in SOURCES:
         source_path = base_path / source
         if not source_path.exists():
             continue
@@ -95,7 +95,7 @@ def print_stats():
     print("=" * 50)
     
     # Overall counts
-    for source in ['nse', 'bse', 'sebi']:
+    for source in SOURCES:
         count = total_counts.get(source, 0)
         print(f"{source.upper()}: {count} circulars")
     
@@ -104,7 +104,7 @@ def print_stats():
     print("-" * 30)
     
     # Status breakdown by source
-    for source in ['nse', 'bse', 'sebi']:
+    for source in SOURCES:
         if source not in stage_counts:
             continue
             
