@@ -1,14 +1,15 @@
 # Stock Market Circulars - Living Dataset
 
-A living dataset of regulatory circulars from NSE, BSE, and SEBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
+A living dataset of regulatory circulars from NSE, BSE, SEBI, and India INX, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
 ## Data Sources
 
-Regulatory circulars from official RSS feeds:
+Regulatory circulars from official exchange sources:
 
 - **NSE** - Trading circulars, market updates, regulatory changes
 - **BSE** - Listing requirements, compliance notices, market rules  
 - **SEBI** - Policy changes, investor guidelines, regulatory frameworks
+- **India INX** - India International Exchange (IFSC) circulars ([official source](https://www.indiainx.com/markets/Circulars.aspx))
 
 ## How the Living Dataset Works
 
@@ -39,7 +40,8 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 │   └── circulars/
 │       ├── nse/           # NSE circulars by year
 │       ├── bse/           # BSE circulars by year
-│       └── sebi/          # SEBI circulars by year
+│       ├── sebi/          # SEBI circulars by year
+│       └── indiainx/      # India INX circulars by year
 ├── static/css/             # Stylesheets
 └── .github/workflows/      # GitHub Actions for automation
 ```
@@ -85,3 +87,4 @@ See the [Development Guide](./docs/development.md) for setup instructions and co
 ## License
 
 [Your License Here]
+India INX monitoring reads the default latest-circulars table and processes its linked PDFs. It does not drive ASP.NET pagination or historical search filters; circulars that leave that listing before a successful run may require a separate backfill. The exchange circular number, segment, exchange category (`exchange_category`), and product are preserved in frontmatter.

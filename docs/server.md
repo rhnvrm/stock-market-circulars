@@ -16,7 +16,7 @@ A lightweight Go server that replaces Hugo with lazy markdown rendering and cach
 ### ✓ Routes Available
 ```
 GET /                              Home page (recent circulars)
-GET /circulars/{source}/           NSE/BSE/SEBI filtered lists
+GET /circulars/{source}/           NSE/BSE/SEBI/India INX filtered lists
 GET /circulars/{source}/{year}/{slug}/  Single circular detail
 GET /health                        Health check endpoint
 ```
