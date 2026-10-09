@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76836.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T18:25:22.757033'
+  processed_at: '2026-10-09T22:41:33.985055'
   processor_version: '2.0'
   stage: download_failed
   status: failed

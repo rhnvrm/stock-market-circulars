@@ -6,7 +6,7 @@ pdf_url: https://nsearchives.nseindia.com/content/circulars/CML76829.pdf
 processing:
   attempts: 1
   content_hash: ''
-  processed_at: '2026-10-09T18:26:31.243656'
+  processed_at: '2026-10-09T22:42:41.986208'
   processor_version: '2.0'
   stage: download_failed
   status: failed
