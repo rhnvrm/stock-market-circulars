@@ -7,7 +7,7 @@ This directory contains human-editable configuration files for the stock market 
 ### `config.toml` 
 Complete pipeline configuration including:
 - Processing delays and timeouts
-- RSS feed URLs for NSE, BSE, SEBI
+- RSS feed URLs for NSE, BSE, SEBI, MSEI
 - Concurrency limits for parallel processing
 - Directory structure (content-based state management)
 - AI prompts for Gemini analysis (JSON output format)
@@ -24,7 +24,7 @@ Complete pipeline configuration including:
 ### General Configuration
 - **Concurrency**: Adjust `max_concurrent_*` settings based on system resources
 - **Delays**: Modify `request_delay` and `gemini_delay` based on API rate limits
-- **RSS Feeds**: Add new sources to the `[rss_feeds]` section
+- **RSS Feeds**: Add new sources to the `[rss_feeds]` section (including MSEI)
 - **Directories**: Content stored in `content_dir`, logs in root `combined_pipeline.log`
 - **State Management**: No JSON files needed - all state in markdown frontmatter
 

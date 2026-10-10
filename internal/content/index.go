@@ -18,7 +18,7 @@ type SiteIndex struct {
 	mu sync.RWMutex
 
 	All       []*models.CircularSummary            // Sorted by date desc
-	BySource  map[string][]*models.CircularSummary // nse, bse, sebi
+	BySource  map[string][]*models.CircularSummary // nse, bse, sebi, msei
 	ByTag     map[string][]*models.CircularSummary
 	ByStock   map[string][]*models.CircularSummary
 	ByPath    map[string]string // path key -> circular_id
@@ -60,7 +60,7 @@ func (b *Builder) Build() (*SiteIndex, error) {
 	}
 
 	circularsDir := filepath.Join(b.contentDir, "circulars")
-	sources := []string{"nse", "bse", "sebi"}
+	sources := []string{"nse", "bse", "sebi", "msei"}
 
 	for _, source := range sources {
 		sourceDir := filepath.Join(circularsDir, source)
