@@ -1,6 +1,6 @@
 # Stock Market Circulars - Living Dataset
 
-A living dataset of regulatory circulars from NSE, BSE, and SEBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
+A living dataset of regulatory circulars from NSE, BSE, SEBI, and RBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
 ## Data Sources
 
@@ -9,6 +9,7 @@ Regulatory circulars from official RSS feeds:
 - **NSE** - Trading circulars, market updates, regulatory changes
 - **BSE** - Listing requirements, compliance notices, market rules  
 - **SEBI** - Policy changes, investor guidelines, regulatory frameworks
+- **RBI** - Press releases, banking notifications, monetary policy, and financial regulation
 
 ## How the Living Dataset Works
 
@@ -39,7 +40,8 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 │   └── circulars/
 │       ├── nse/           # NSE circulars by year
 │       ├── bse/           # BSE circulars by year
-│       └── sebi/          # SEBI circulars by year
+│       ├── sebi/          # SEBI circulars by year
+│       └── rbi/           # RBI releases and notifications by year
 ├── static/css/             # Stylesheets
 └── .github/workflows/      # GitHub Actions for automation
 ```

@@ -1,12 +1,14 @@
 """RSS feed parsing and PDF URL extraction."""
 
 import asyncio
+import io
 import re
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 from urllib.parse import urljoin
 
 import httpx
 from lxml import etree, html
+from markitdown import MarkItDown
 
 
 class RSSExtractor:
@@ -60,19 +62,28 @@ class RSSExtractor:
         print(f"HTTP fetch failed after all retries for {url}: {last_error}")
         return None
     
-    def parse_rss_feed(self, content: str, source: str) -> List[Dict[str, str]]:
+    def parse_rss_feed(self, content: str, source: str) -> List[Dict[str, Any]]:
         """Parse RSS feed content and extract items"""
         try:
             root = etree.fromstring(content.encode())
             items = []
+            channel_title = root.findtext(".//channel/title", default="").strip().lower()
+
+            feed_type = ""
+            if source == "rbi":
+                if "press release" in channel_title:
+                    feed_type = "press-release"
+                elif "notification" in channel_title:
+                    feed_type = "notification"
             
             for item in root.xpath('.//item'):
                 title_elem = item.find('title')
                 link_elem = item.find('link')
                 guid_elem = item.find('guid')
                 pubdate_elem = item.find('pubDate')
+                description_elem = item.find('description')
                 
-                if title_elem is not None and link_elem is not None:
+                if title_elem is not None and link_elem is not None and link_elem.text:
                     download_url = link_elem.text.strip()
                     
                     # Fix SEBI URL duplication bug
@@ -83,7 +94,10 @@ class RSSExtractor:
                         'title': title_elem.text.strip() if title_elem.text else 'Untitled',
                         'download_url': download_url,
                         'guid': guid_elem.text.strip() if guid_elem is not None and guid_elem.text else download_url,
-                        'pubdate': pubdate_elem.text.strip() if pubdate_elem is not None and pubdate_elem.text else ''
+                        'pubdate': pubdate_elem.text.strip() if pubdate_elem is not None and pubdate_elem.text else '',
+                        'content': self.html_to_markdown(description_elem.text, download_url) if description_elem is not None and description_elem.text else '',
+                        'image_urls': self.extract_image_urls(description_elem.text, download_url) if description_elem is not None and description_elem.text else [],
+                        'feed_type': feed_type,
                     })
             
             print(f"Parsed {len(items)} items from RSS feed")
@@ -91,6 +105,53 @@ class RSSExtractor:
             
         except Exception as e:
             print(f"Failed to parse RSS for {source}: {e}")
+            return []
+
+    @staticmethod
+    def html_to_markdown(content: str, base_url: str = "") -> str:
+        """Convert an RSS HTML fragment to structured Markdown."""
+        if not content:
+            return ""
+
+        try:
+            fragment = html.fragment_fromstring(content, create_parent="div")
+            if base_url:
+                for element in fragment.xpath('.//*[@href or @src]'):
+                    for attribute in ("href", "src"):
+                        value = element.get(attribute)
+                        if value:
+                            element.set(attribute, urljoin(base_url, value))
+
+            normalized_html = etree.tostring(fragment, encoding="unicode", method="html")
+            result = MarkItDown().convert_stream(
+                io.BytesIO(normalized_html.encode("utf-8")),
+                file_extension=".html",
+            )
+            markdown = result.text_content.strip()
+            return re.sub(r'\n{3,}', '\n\n', markdown)
+        except Exception:
+            return " ".join(content.split())
+
+    @staticmethod
+    def extract_image_urls(content: str, base_url: str = "") -> List[str]:
+        """Extract unique image URLs from an RSS HTML fragment."""
+        if not content:
+            return []
+
+        try:
+            fragment = html.fragment_fromstring(content, create_parent="div")
+            image_urls = []
+            seen = set()
+            for element in fragment.xpath('.//img[@src]'):
+                src = element.get("src").strip()
+                if not src:
+                    continue
+                image_url = urljoin(base_url, src)
+                if image_url and image_url not in seen:
+                    seen.add(image_url)
+                    image_urls.append(image_url)
+            return image_urls
+        except (etree.ParserError, ValueError, AttributeError):
             return []
 
 

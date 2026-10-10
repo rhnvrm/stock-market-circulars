@@ -74,10 +74,12 @@ validate:
     @curl -sf "https://nsearchives.nseindia.com/content/RSS/Circulars.xml" > /dev/null && echo "✅ NSE RSS" || echo "❌ NSE RSS"
     @curl -sf "https://www.bseindia.com/data/xml/notices.xml" > /dev/null && echo "✅ BSE RSS" || echo "❌ BSE RSS"
     @curl -sf "https://www.sebi.gov.in/sebirss.xml" > /dev/null && echo "✅ SEBI RSS" || echo "❌ SEBI RSS"
+    @curl -sf "https://rbi.org.in/pressreleases_rss.xml" > /dev/null && echo "✅ RBI press releases RSS" || echo "❌ RBI press releases RSS"
+    @curl -sf "https://rbi.org.in/notifications_rss.xml" > /dev/null && echo "✅ RBI notifications RSS" || echo "❌ RBI notifications RSS"
 
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,rbi}/2025
 
 # Normalization Commands
 
@@ -201,4 +203,3 @@ serve-with-git-sync:
     ADDR=:9999 \
     BASE_URL=http://localhost:9999 \
     go run cmd/server/main.go
-

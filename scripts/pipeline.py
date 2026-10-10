@@ -113,7 +113,11 @@ class CircularsPipeline:
         self.rss_feeds = self.config.get("rss_feeds", {
             "nse": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
             "bse": "https://www.bseindia.com/data/xml/notices.xml", 
-            "sebi": "https://www.sebi.gov.in/sebirss.xml"
+            "sebi": "https://www.sebi.gov.in/sebirss.xml",
+            "rbi": [
+                "https://rbi.org.in/pressreleases_rss.xml",
+                "https://rbi.org.in/notifications_rss.xml",
+            ],
         })
         
         # Logging directory (no longer using JSON state files)
@@ -212,26 +216,59 @@ class CircularsPipeline:
         async with semaphore:
             return await self.process_source(source, max_items)
 
+    async def _fetch_source_items(self, source: str, max_items_per_feed: Optional[int] = None) -> List[Dict[str, Any]]:
+        """Download, parse, and deduplicate every configured feed for a source."""
+        configured_feeds = self.rss_feeds.get(source)
+        if not configured_feeds:
+            return []
+
+        rss_urls = configured_feeds if isinstance(configured_feeds, list) else [configured_feeds]
+        feed_results = await asyncio.gather(
+            *(self.rss_extractor.download_rss_feed(source, url) for url in rss_urls),
+            return_exceptions=True,
+        )
+
+        items = []
+        seen_guids = set()
+        for rss_url, rss_content in zip(rss_urls, feed_results):
+            if isinstance(rss_content, Exception):
+                self.log(f"Failed to download RSS feed {rss_url}: {rss_content}", "ERROR")
+                continue
+            if not rss_content:
+                self.log(f"Failed to download RSS feed {rss_url}", "ERROR")
+                continue
+
+            feed_items = self.rss_extractor.parse_rss_feed(rss_content, source)
+            if max_items_per_feed:
+                feed_items = feed_items[:max_items_per_feed]
+
+            for item in feed_items:
+                if item["guid"] in seen_guids:
+                    continue
+                seen_guids.add(item["guid"])
+                items.append(item)
+
+        return items
+
+    async def _find_rss_item(self, source: str, guid: str) -> Optional[Dict[str, Any]]:
+        """Find a current RSS item by its stable GUID or source URL."""
+        for item in await self._fetch_source_items(source):
+            if item.get("guid") == guid or item.get("download_url") == guid:
+                return item
+        return None
+
     async def process_source(self, source: str, max_items: Optional[int] = None) -> SourceStats:
         """Process a single RSS source"""
         self.log(f"Processing {source.upper()} RSS feed")
-        self.log(f"RSS URL for {source}: {self.rss_feeds.get(source)}", "DEBUG")
+        configured_feeds = self.rss_feeds.get(source)
+        self.log(f"RSS URL(s) for {source}: {configured_feeds}", "DEBUG")
         
-        # Download RSS feed
-        rss_url = self.rss_feeds.get(source)
-        if not rss_url:
+        if not configured_feeds:
             self.log(f"No RSS URL configured for source: {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
-        if not rss_content:
-            self.log(f"Failed to download RSS feed for {source}", "ERROR")
-            return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        items = self.rss_extractor.parse_rss_feed(rss_content, source)
-        if max_items:
-            items = items[:max_items]
-        
+
+        items = await self._fetch_source_items(source, max_items_per_feed=max_items)
+
         if not items:
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
         
@@ -263,7 +300,8 @@ class CircularsPipeline:
                     'circular_id': circular_id,
                     'published_date': parse_rss_date(item.get('pubdate', '')),
                     'guid': item['guid'],
-                    'rss_url': item['download_url']  # Original URL from RSS feed
+                    'rss_url': item['download_url'],  # Original URL from RSS feed
+                    'feed_type': item.get('feed_type', ''),
                 }
                 
                 # Generate content path
@@ -327,14 +365,14 @@ class CircularsPipeline:
             errors=errors[:10]  # Limit error list
         )
     
-    async def process_item_with_semaphore(self, source: str, item: Dict[str, str], batch_num: int, total_batches: int) -> bool:
+    async def process_item_with_semaphore(self, source: str, item: Dict[str, Any], batch_num: int, total_batches: int) -> bool:
         """Process a single item with semaphore control"""
         async with self.item_semaphore:
             await asyncio.sleep(self.request_delay)  # Rate limiting
             self.log(f"Processing batch {batch_num}/{total_batches} (1 items)")
             return await self.process_item_content_based(source, item)
     
-    async def process_item_content_based(self, source: str, item: Dict[str, str]) -> bool:
+    async def process_item_content_based(self, source: str, item: Dict[str, Any]) -> bool:
         """Process a single RSS item using content-based state management"""
         # Generate unique circular ID from GUID
         circular_id = hashlib.md5(f"{source}_{item['guid']}".encode()).hexdigest()[:16]
@@ -350,7 +388,8 @@ class CircularsPipeline:
                 'circular_id': circular_id,
                 'published_date': parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
-                'rss_url': item['download_url']  # Original URL from RSS feed
+                'rss_url': item['download_url'],  # Original URL from RSS feed
+                'feed_type': item.get('feed_type', ''),
             }
             
             # Generate content path early for state tracking
@@ -360,6 +399,66 @@ class CircularsPipeline:
                 circular_id, 
                 item['title']
             )
+
+            # RBI publishes the complete release/notification body in the RSS
+            # description, so process that text directly instead of treating
+            # the linked HTML page as a downloadable document.
+            if source == "rbi":
+                embedded_content = item.get('content', '').strip()
+
+                if len(embedded_content) < 50:
+                    self.log("RBI RSS content missing; fetching the linked page", "WARNING", circular_id)
+                    embedded_content = await self.text_extractor.extract_html_text(item['download_url'], circular_id) or ""
+
+                if len(embedded_content) < 50:
+                    self.log("RBI item has insufficient content", "ERROR", circular_id)
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "content_failed", "failed")
+                    return False
+
+                image_files = []
+                for image_url in item.get('image_urls', []):
+                    image_file, image_error = await self.file_downloader.download_temp_file(
+                        image_url,
+                        circular_id,
+                        referer=item['download_url'],
+                    )
+                    if image_file:
+                        image_files.append(image_file)
+                    else:
+                        self.log(f"Unable to attach RBI image {image_url}: {image_error}", "WARNING", circular_id)
+
+                self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_processing", "processing")
+                try:
+                    ai_content = await self.gemini_processor.run_gemini(
+                        embedded_content,
+                        base_metadata,
+                        circular_id,
+                        content_limit=None,
+                        attachments=image_files,
+                    )
+                finally:
+                    for image_file in image_files:
+                        if image_file.exists():
+                            image_file.unlink()
+                if not ai_content:
+                    self.log("AI processing failed", "ERROR", circular_id)
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_failed", "failed")
+                    return False
+
+                processing_state = self.frontmatter_manager.create_processing_state(
+                    status="published",
+                    stage="completed",
+                    content_hash=self.frontmatter_manager.get_content_hash(ai_content),
+                )
+                success = self.frontmatter_manager.write_content_file(
+                    content_path,
+                    ai_content,
+                    base_metadata,
+                    processing_state,
+                )
+                if success:
+                    self.log(f"Successfully processed and saved: {content_path.name}", "INFO", circular_id)
+                return success
             
             # Stage 1: Extract PDF URL (for sources that need HTML parsing) 
             self.frontmatter_manager.write_state_file(content_path, base_metadata, "url_extraction", "processing")
@@ -513,7 +612,7 @@ class CircularsPipeline:
             self.log(f"Processing error: {e}", "ERROR", circular_id)
             return False
     
-    async def process_item(self, source: str, item: Dict[str, str]) -> bool:
+    async def process_item(self, source: str, item: Dict[str, Any]) -> bool:
         """Legacy method - redirects to content-based processing"""
         return await self.process_item_content_based(source, item)
     
@@ -542,10 +641,18 @@ class CircularsPipeline:
                     'guid': existing_metadata.get('guid', ''),
                     'title': existing_metadata.get('title', ''),
                     'download_url': existing_metadata.get('pdf_url') or existing_metadata.get('rss_url', ''),
-                    'pubdate': existing_metadata.get('published_date', '')
+                    'pubdate': existing_metadata.get('published_date', ''),
+                    'feed_type': existing_metadata.get('feed_type', ''),
                 }
                 
                 item_source = source or existing_metadata.get('source', '')
+                if item_source == "rbi" and item_data['guid']:
+                    refreshed_item = await self._find_rss_item(item_source, item_data['guid'])
+                    if refreshed_item:
+                        item_data = refreshed_item
+                    else:
+                        self.log("RBI item is no longer present in the current feeds; using source-page fallback", "WARNING", item_id)
+
                 self.log(f"Regenerating item {item_id}: {item_data['title']}", "INFO", item_id)
 
                 backup_path = content_path.with_suffix(f"{content_path.suffix}.bak")
