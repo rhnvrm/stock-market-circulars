@@ -21,7 +21,7 @@ app = typer.Typer()
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "hugo-site" / "content" / "circulars"
 VALID_STAGES = {"claude_failed", "ai_failed"}
-VALID_SOURCES = {"nse", "bse", "sebi"}
+VALID_SOURCES = {"nse", "bse", "sebi", "msei"}
 BACKFILL_COOLDOWN_DAYS = 7
 
 
@@ -101,7 +101,7 @@ def collect_failed_items(source: Optional[str], stages: List[str], verbose: bool
 
 @app.command()
 def list_ids(
-    source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi"),
+    source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi, msei"),
     stage: List[str] = typer.Option([], "--stage", help="Failure stages to include: claude_failed, ai_failed"),
     offset: int = typer.Option(0, "--offset", min=0),
     limit: Optional[int] = typer.Option(None, "--limit", min=1, help="Max items to return. Omit to return all eligible items."),
@@ -120,7 +120,7 @@ def list_ids(
 
 @app.command()
 def count(
-    source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi"),
+    source: Optional[str] = typer.Option(None, "--source", help="Filter source: nse, bse, sebi, msei"),
     stage: List[str] = typer.Option([], "--stage", help="Failure stages to include: claude_failed, ai_failed"),
     verbose: bool = typer.Option(False, "--verbose", help="Log skipped items and selection decisions"),
 ):

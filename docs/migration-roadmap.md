@@ -43,7 +43,7 @@ The project has successfully migrated from Hugo static site generation (6-minute
 
 **Routes Implemented:**
 - `/` - Home page listing recent circulars
-- `/circulars/{source}/` - Source-specific listings (NSE, BSE, SEBI)
+- `/circulars/{source}/` - Source-specific listings (NSE, BSE, SEBI, MSEI)
 - `/circulars/{source}/{year}/{slug}/` - Individual circular pages
 - `/health` - Health check endpoint
 - `/css/*` - Static CSS files
@@ -68,7 +68,7 @@ The project has successfully migrated from Hugo static site generation (6-minute
 - Feed routes:
   - `/feed.xml` - Main feed (all sources)
   - `/circulars/feed.xml` - All circulars feed
-  - `/circulars/{source}/feed.xml` - Per-source feeds (nse, bse, sebi)
+  - `/circulars/{source}/feed.xml` - Per-source feeds (nse, bse, sebi, msei)
   - `/tags/{tag}/feed.xml` - Tag-specific feeds
 
 **Custom RSS Extensions:**
@@ -339,7 +339,7 @@ Add pagination for large result sets:
 
 Add search filters:
 - Date range picker
-- Source filter (NSE/BSE/SEBI)
+- Source filter (NSE/BSE/SEBI/MSEI)
 - Category filter
 - Impact level filter
 - Stock ticker search

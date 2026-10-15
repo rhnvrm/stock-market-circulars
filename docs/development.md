@@ -151,7 +151,7 @@ Currently manual testing is performed. Future work will add automated tests.
 ### Manual Testing Checklist
 
 - [ ] Home page loads (`http://localhost:9999/`)
-- [ ] Source listings work (`/circulars/nse/`, `/circulars/bse/`, `/circulars/sebi/`)
+- [ ] Source listings work (`/circulars/nse/`, `/circulars/bse/`, `/circulars/sebi/`, `/circulars/msei/`)
 - [ ] Individual circular pages render
 - [ ] RSS feeds are valid XML (`/feed.xml`, `/circulars/nse/feed.xml`)
 - [ ] Search works (if Typesense is running)

@@ -74,10 +74,11 @@ validate:
     @curl -sf "https://nsearchives.nseindia.com/content/RSS/Circulars.xml" > /dev/null && echo "✅ NSE RSS" || echo "❌ NSE RSS"
     @curl -sf "https://www.bseindia.com/data/xml/notices.xml" > /dev/null && echo "✅ BSE RSS" || echo "❌ BSE RSS"
     @curl -sf "https://www.sebi.gov.in/sebirss.xml" > /dev/null && echo "✅ SEBI RSS" || echo "❌ SEBI RSS"
+    @curl -sf "https://www.msei.in/rss/rss?type=circular" > /dev/null && echo "✅ MSEI source" || echo "❌ MSEI source"
 
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p hugo-site/content/circulars/{nse,bse,sebi}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,msei}/2025
 
 # Normalization Commands
 

@@ -46,7 +46,7 @@ func NewService(host, apiKey, collection string) *Service {
 // SearchOptions configures a search query
 type SearchOptions struct {
 	Query   string
-	Source  string // Filter by source: nse, bse, sebi
+	Source  string // Filter by source: nse, bse, sebi, msei
 	Page    int
 	PerPage int
 }

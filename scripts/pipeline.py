@@ -113,6 +113,7 @@ class CircularsPipeline:
         self.rss_feeds = self.config.get("rss_feeds", {
             "nse": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
             "bse": "https://www.bseindia.com/data/xml/notices.xml", 
+            "msei": "https://www.msei.in/rss/rss?type=circular",
             "sebi": "https://www.sebi.gov.in/sebirss.xml"
         })
         
@@ -365,7 +366,7 @@ class CircularsPipeline:
             self.frontmatter_manager.write_state_file(content_path, base_metadata, "url_extraction", "processing")
             
             final_url = item['download_url']
-            if source in ["bse", "sebi"]:  # NSE has direct PDF URLs
+            if source in ["bse", "sebi"] or (source == "msei" and not final_url.split("?", 1)[0].lower().endswith(".pdf")):
                 extracted_url = await self.pdf_extractor.extract_pdf_url(source, item['download_url'])
                 if extracted_url:
                     final_url = extracted_url

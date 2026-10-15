@@ -8,6 +8,8 @@ from urllib.parse import urljoin
 import httpx
 from lxml import etree, html
 
+from msei import parse_msei_feed
+
 
 class RSSExtractor:
     """Handles RSS feed downloading and parsing"""
@@ -63,6 +65,8 @@ class RSSExtractor:
     def parse_rss_feed(self, content: str, source: str) -> List[Dict[str, str]]:
         """Parse RSS feed content and extract items"""
         try:
+            if source == "msei":
+                return parse_msei_feed(content)
             root = etree.fromstring(content.encode())
             items = []
             
@@ -118,6 +122,11 @@ class PDFURLExtractor:
                     return self._extract_bse_pdf_url(doc, url)
                 elif source == "sebi":
                     return self._extract_sebi_pdf_url(doc)
+                elif source == "msei":
+                    for element in doc.xpath('//a[@href]'):
+                        href = element.get("href").strip().replace("\\", "/")
+                        if href.split("?", 1)[0].lower().endswith(".pdf"):
+                            return urljoin(url, href)
                 
         except Exception as e:
             print(f"Failed to extract PDF URL from {url}: {e}")

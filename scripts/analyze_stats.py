@@ -58,7 +58,7 @@ def analyze_circulars():
     stage_counts = defaultdict(Counter)
     total_counts = defaultdict(int)
     
-    sources = ['nse', 'bse', 'sebi']
+    sources = ['nse', 'bse', 'sebi', 'msei']
     
     for source in sources:
         source_path = base_path / source
@@ -95,7 +95,7 @@ def print_stats():
     print("=" * 50)
     
     # Overall counts
-    for source in ['nse', 'bse', 'sebi']:
+    for source in ['nse', 'bse', 'sebi', 'msei']:
         count = total_counts.get(source, 0)
         print(f"{source.upper()}: {count} circulars")
     
@@ -104,7 +104,7 @@ def print_stats():
     print("-" * 30)
     
     # Status breakdown by source
-    for source in ['nse', 'bse', 'sebi']:
+    for source in ['nse', 'bse', 'sebi', 'msei']:
         if source not in stage_counts:
             continue
             
