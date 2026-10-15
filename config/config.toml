@@ -25,6 +25,10 @@ nse = "https://nsearchives.nseindia.com/content/RSS/Circulars.xml"
 bse = "https://www.bseindia.com/data/xml/notices.xml"
 sebi = "https://www.sebi.gov.in/sebirss.xml"
 
+[html_sources]
+# Latest circulars listing (not an RSS feed)
+indiainx = "https://www.indiainx.com/markets/Circulars.aspx"
+
 [processing]
 # PDF processing settings
 max_pdf_size_mb = 50

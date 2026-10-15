@@ -113,7 +113,8 @@ class FrontmatterManager:
                     'published_date': metadata.get('published_date'),
                     'pdf_url': metadata.get('pdf_url'),
                     'rss_url': metadata.get('rss_url'),  # Original RSS URL
-                    'guid': metadata.get('guid')
+                    'guid': metadata.get('guid'),
+                    **{key: metadata[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in metadata}
                 }
                 
                 # Only add pipeline metadata if not already present from Claude
@@ -121,6 +122,11 @@ class FrontmatterManager:
                     if key not in post.metadata and value is not None:
                         post.metadata[key] = value
                 
+                if metadata.get('source') == 'indiainx':
+                    for key in ('circular_no', 'segment', 'exchange_category', 'product'):
+                        if key in metadata:
+                            post.metadata[key] = metadata[key]
+
                 # Always add processing state
                 if processing_state:
                     post.metadata['processing'] = processing_state
@@ -333,7 +339,7 @@ class FrontmatterManager:
             raise ValueError("Circular ID must be a non-empty string")
         
         # Validate source against allowed values
-        allowed_sources = ["nse", "bse", "sebi"]
+        allowed_sources = ["nse", "bse", "sebi", "indiainx"]
         if source not in allowed_sources:
             raise ValueError(f"Source must be one of: {allowed_sources}")
         

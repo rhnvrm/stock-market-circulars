@@ -51,7 +51,7 @@ type Circular struct {
 	PublishedDate FlexibleTime `yaml:"published_date"`
 
 	// Classification
-	Source            string `yaml:"source"` // nse, bse, sebi
+	Source            string `yaml:"source"` // nse, bse, sebi, indiainx
 	Category          string `yaml:"category"`
 	Impact            string `yaml:"impact"`
 	Severity          string `yaml:"severity"`

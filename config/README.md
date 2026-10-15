@@ -8,6 +8,7 @@ This directory contains human-editable configuration files for the stock market 
 Complete pipeline configuration including:
 - Processing delays and timeouts
 - RSS feed URLs for NSE, BSE, SEBI
+- India INX HTML circulars listing URL
 - Concurrency limits for parallel processing
 - Directory structure (content-based state management)
 - AI prompts for Gemini analysis (JSON output format)
@@ -25,6 +26,7 @@ Complete pipeline configuration including:
 - **Concurrency**: Adjust `max_concurrent_*` settings based on system resources
 - **Delays**: Modify `request_delay` and `gemini_delay` based on API rate limits
 - **RSS Feeds**: Add new sources to the `[rss_feeds]` section
+- **HTML Sources**: India INX uses `[html_sources].indiainx` for its latest ten circulars. Historical filters and ASP.NET pagination are not driven by the monitoring pipeline.
 - **Directories**: Content stored in `content_dir`, logs in root `combined_pipeline.log`
 - **State Management**: No JSON files needed - all state in markdown frontmatter
 

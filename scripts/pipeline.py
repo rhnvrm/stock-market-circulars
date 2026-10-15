@@ -14,6 +14,7 @@ from config import load_config
 from extractors import ContentScraper, PDFURLExtractor, RSSExtractor
 from frontmatter_manager import FrontmatterManager
 from models import PipelineStats, SourceStats
+from indiainx import CIRCULARS_URL, parse_indiainx_circulars
 from processors import GeminiProcessor, FileDownloader, TextExtractor
 
 # Pre-compiled regex for SEBI date format parsing
@@ -116,6 +117,8 @@ class CircularsPipeline:
             "sebi": "https://www.sebi.gov.in/sebirss.xml"
         })
         
+        self.html_sources = self.config.get("html_sources", {"indiainx": CIRCULARS_URL})
+
         # Logging directory (no longer using JSON state files)
         self.state_dir = Path(self.config.get("directories", {}).get("state_dir", Path(__file__).resolve().parent / "state"))
         self.state_dir.mkdir(exist_ok=True)
@@ -214,21 +217,26 @@ class CircularsPipeline:
 
     async def process_source(self, source: str, max_items: Optional[int] = None) -> SourceStats:
         """Process a single RSS source"""
-        self.log(f"Processing {source.upper()} RSS feed")
+        self.log(f"Processing {source.upper()} circulars source")
         self.log(f"RSS URL for {source}: {self.rss_feeds.get(source)}", "DEBUG")
         
-        # Download RSS feed
-        rss_url = self.rss_feeds.get(source)
-        if not rss_url:
-            self.log(f"No RSS URL configured for source: {source}", "ERROR")
-            return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
-        if not rss_content:
-            self.log(f"Failed to download RSS feed for {source}", "ERROR")
-            return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        items = self.rss_extractor.parse_rss_feed(rss_content, source)
+        if source == "indiainx":
+            page_url = self.html_sources.get(source)
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            page = await self.rss_extractor._fetch_with_retry(page_url, headers) if page_url else None
+            if not page:
+                raise ValueError("Failed to download India INX circulars listing")
+            items = parse_indiainx_circulars(page, page_url)
+        else:
+            rss_url = self.rss_feeds.get(source)
+            if not rss_url:
+                self.log(f"No RSS URL configured for source: {source}", "ERROR")
+                return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
+            rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
+            if not rss_content:
+                self.log(f"Failed to download RSS feed for {source}", "ERROR")
+                return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
+            items = self.rss_extractor.parse_rss_feed(rss_content, source)
         if max_items:
             items = items[:max_items]
         
@@ -263,7 +271,8 @@ class CircularsPipeline:
                     'circular_id': circular_id,
                     'published_date': parse_rss_date(item.get('pubdate', '')),
                     'guid': item['guid'],
-                    'rss_url': item['download_url']  # Original URL from RSS feed
+                    'rss_url': item['download_url'],  # Original source URL
+                **{key: item[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in item}
                 }
                 
                 # Generate content path
@@ -350,7 +359,8 @@ class CircularsPipeline:
                 'circular_id': circular_id,
                 'published_date': parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
-                'rss_url': item['download_url']  # Original URL from RSS feed
+                'rss_url': item['download_url'],  # Original source URL
+                **{key: item[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in item}
             }
             
             # Generate content path early for state tracking
@@ -542,7 +552,8 @@ class CircularsPipeline:
                     'guid': existing_metadata.get('guid', ''),
                     'title': existing_metadata.get('title', ''),
                     'download_url': existing_metadata.get('pdf_url') or existing_metadata.get('rss_url', ''),
-                    'pubdate': existing_metadata.get('published_date', '')
+                    'pubdate': existing_metadata.get('published_date', ''),
+                    **{key: existing_metadata[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in existing_metadata}
                 }
                 
                 item_source = source or existing_metadata.get('source', '')

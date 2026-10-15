@@ -7,7 +7,7 @@
 
   <title>RSS Feeds | Stock Market Circulars</title>
 
-  <meta name="description" content="Subscribe to RSS feeds for stock market circulars from NSE, BSE, and SEBI">
+  <meta name="description" content="Subscribe to RSS feeds for stock market circulars from NSE, BSE, SEBI, and India INX">
 
   <link rel="canonical" href="{{.BaseURL}}/feeds/">
   <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
@@ -19,7 +19,7 @@
   <header>
     <div class="header-brand">
       <a href="/" class="brand-link">Stock Market Circulars</a>
-      <span class="brand-tagline">NSE • BSE • SEBI</span>
+      <span class="brand-tagline">NSE • BSE • SEBI • India INX</span>
     </div>
     <nav class="header-nav">
       <a href="/" class="nav-link">Recent</a>
@@ -28,6 +28,7 @@
       <a href="/circulars/nse/" class="nav-link">NSE</a>
       <a href="/circulars/bse/" class="nav-link">BSE</a>
       <a href="/circulars/sebi/" class="nav-link">SEBI</a>
+      <a href="/circulars/indiainx/" class="nav-link">India INX</a>
       <span class="nav-divider"></span>
       <a href="/tags/" class="nav-link">Tags</a>
       <a href="/stocks/" class="nav-link">Stocks</a>
@@ -51,7 +52,7 @@
       <tbody>
         <tr>
           <td class="feed-name">All Circulars</td>
-          <td class="feed-description">All circulars from NSE, BSE, and SEBI</td>
+          <td class="feed-description">All circulars from NSE, BSE, SEBI, and India INX</td>
           <td class="feed-link">
             <a href="{{.BaseURL}}/feed.xml" class="simple-link">feed.xml</a>
           </td>
@@ -87,6 +88,13 @@
             <a href="{{.BaseURL}}/circulars/sebi/feed.xml" class="simple-link">sebi/feed.xml</a>
           </td>
         </tr>
+        <tr>
+          <td class="feed-name">India INX Circulars</td>
+          <td class="feed-description">Circulars from India International Exchange (IFSC)</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/circulars/indiainx/feed.xml" class="simple-link">indiainx/feed.xml</a>
+          </td>
+        </tr>
       </tbody>
     </table>
     </div>
@@ -103,7 +111,7 @@
     <h2>RSS Feed Format</h2>
     <p>All feeds follow the RSS 2.0 specification and include custom namespace elements for circular-specific metadata:</p>
     <ul>
-      <li><code>circular:source</code> - Exchange (NSE, BSE, SEBI)</li>
+      <li><code>circular:source</code> - Exchange (NSE, BSE, SEBI, India INX)</li>
       <li><code>circular:category</code> - Regulatory category</li>
       <li><code>circular:impact</code> - Impact level</li>
       <li><code>circular:severity</code> - Severity level</li>
@@ -118,7 +126,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, and SEBI official websites.</p>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, SEBI, and India INX official websites.</p>
   </footer>
 </body>
 </html>
