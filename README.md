@@ -94,4 +94,6 @@ See the [Development Guide](./docs/development.md) for setup instructions and co
 
 ## License
 
-[Your License Here]
+The software and associated documentation are licensed under the [MIT License](./LICENSE).
+Third-party circulars, PDFs, and quoted or extracted source content are excluded
+and remain subject to their respective owners' rights and terms.
