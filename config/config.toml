@@ -29,6 +29,8 @@ rbi = [
     "https://rbi.org.in/notifications_rss.xml",
 ]
 
+msei = "https://www.msei.in/rss/rss?type=circular"
+
 [processing]
 # PDF processing settings
 max_pdf_size_mb = 50

@@ -77,9 +77,11 @@ validate:
     @curl -sf "https://rbi.org.in/pressreleases_rss.xml" > /dev/null && echo "✅ RBI press releases RSS" || echo "❌ RBI press releases RSS"
     @curl -sf "https://rbi.org.in/notifications_rss.xml" > /dev/null && echo "✅ RBI notifications RSS" || echo "❌ RBI notifications RSS"
 
+    @curl -sf "https://www.msei.in/rss/rss?type=circular" > /dev/null && echo "✅ MSEI source" || echo "❌ MSEI source"
+
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,rbi}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,rbi,msei}/2025
 
 # Normalization Commands
 
