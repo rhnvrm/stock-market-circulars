@@ -19,7 +19,7 @@ console = Console()
 @app.command()
 def main(
     sources: List[str] = typer.Argument(None, help="Sources to process (nse, bse, sebi, rbi)"),
-    max_items: Optional[int] = typer.Option(None, "--max-items", help="Maximum items per source"),
+    max_items: Optional[int] = typer.Option(None, "--max-items", help="Maximum items per configured feed"),
     debug: bool = typer.Option(False, "--debug", help="Enable debug mode"),
     request_delay: Optional[int] = typer.Option(None, "--request-delay", help="Delay between requests (overrides config)"),
     gemini_delay: int = typer.Option(None, "--gemini-delay", help="Delay for Gemini API calls (overrides config)"),
