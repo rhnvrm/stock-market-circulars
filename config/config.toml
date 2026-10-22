@@ -31,6 +31,10 @@ rbi = [
 
 msei = "https://www.msei.in/rss/rss?type=circular"
 
+[html_sources]
+# Latest circulars listing (not an RSS feed)
+indiainx = "https://www.indiainx.com/markets/Circulars.aspx"
+
 [processing]
 # PDF processing settings
 max_pdf_size_mb = 50

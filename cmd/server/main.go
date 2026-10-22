@@ -495,7 +495,7 @@ func main() {
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       "Stock Market Circulars",
 			Link:        baseURL,
-			Description: "Latest stock market circulars from NSE, BSE, SEBI, RBI, and MSEI",
+			Description: "Latest stock market circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX",
 			SelfLink:    baseURL + "/feed.xml",
 			BaseURL:     baseURL,
 		}, state.index, state.circularByID)
@@ -511,7 +511,7 @@ func main() {
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
 			Title:       "All Stock Market Circulars",
 			Link:        baseURL + "/circulars/",
-			Description: "All circulars from NSE, BSE, SEBI, RBI, and MSEI",
+			Description: "All circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX",
 			SelfLink:    baseURL + "/circulars/feed.xml",
 			BaseURL:     baseURL,
 		}, state.index, state.circularByID)

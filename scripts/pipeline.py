@@ -15,6 +15,7 @@ from config import load_config
 from extractors import ContentScraper, PDFURLExtractor, RSSExtractor
 from frontmatter_manager import FrontmatterManager
 from models import PipelineStats, SourceStats
+from indiainx import CIRCULARS_URL, parse_indiainx_circulars
 from processors import GeminiProcessor, FileDownloader, TextExtractor
 
 # Pre-compiled regex for SEBI date format parsing
@@ -122,6 +123,8 @@ class CircularsPipeline:
             ],
         })
         
+        self.html_sources = self.config.get("html_sources", {"indiainx": CIRCULARS_URL})
+
         # Logging directory (no longer using JSON state files)
         self.state_dir = Path(self.config.get("directories", {}).get("state_dir", Path(__file__).resolve().parent / "state"))
         self.state_dir.mkdir(exist_ok=True)
@@ -261,15 +264,23 @@ class CircularsPipeline:
 
     async def process_source(self, source: str, max_items: Optional[int] = None) -> SourceStats:
         """Process a single RSS source"""
-        self.log(f"Processing {source.upper()} RSS feed")
-        configured_feeds = self.rss_feeds.get(source)
-        self.log(f"RSS URL(s) for {source}: {configured_feeds}", "DEBUG")
-        
-        if not configured_feeds:
-            self.log(f"No RSS URL configured for source: {source}", "ERROR")
-            return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-
-        items = await self._fetch_source_items(source, max_items_per_feed=max_items)
+        self.log(f"Processing {source.upper()} circulars source")
+        if source == "indiainx":
+            page_url = self.html_sources.get(source)
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            page = await self.rss_extractor._fetch_with_retry(page_url, headers) if page_url else None
+            if not page:
+                raise ValueError("Failed to download India INX circulars listing")
+            items = parse_indiainx_circulars(page, page_url)
+            if max_items:
+                items = items[:max_items]
+        else:
+            configured_feeds = self.rss_feeds.get(source)
+            self.log(f"RSS URL(s) for {source}: {configured_feeds}", "DEBUG")
+            if not configured_feeds:
+                self.log(f"No RSS URL configured for source: {source}", "ERROR")
+                return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
+            items = await self._fetch_source_items(source, max_items_per_feed=max_items)
 
         if not items:
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
@@ -304,6 +315,7 @@ class CircularsPipeline:
                     'guid': item['guid'],
                     'rss_url': item['download_url'],  # Original URL from RSS feed
                     'feed_type': item.get('feed_type', ''),
+                    **{key: item[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in item}
                 }
                 
                 # Generate content path
@@ -392,6 +404,7 @@ class CircularsPipeline:
                 'guid': item['guid'],
                 'rss_url': item['download_url'],  # Original URL from RSS feed
                 'feed_type': item.get('feed_type', ''),
+                **{key: item[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in item}
             }
             
             # Generate content path early for state tracking
@@ -645,6 +658,7 @@ class CircularsPipeline:
                     'download_url': existing_metadata.get('pdf_url') or existing_metadata.get('rss_url', ''),
                     'pubdate': existing_metadata.get('published_date', ''),
                     'feed_type': existing_metadata.get('feed_type', ''),
+                    **{key: existing_metadata[key] for key in ('circular_no', 'segment', 'exchange_category', 'product') if key in existing_metadata}
                 }
                 
                 item_source = source or existing_metadata.get('source', '')

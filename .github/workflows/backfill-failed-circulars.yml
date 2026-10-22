@@ -15,6 +15,7 @@ on:
           - sebi
           - rbi
           - msei
+          - indiainx
       stage:
         description: "Failure stage filter"
         required: true
