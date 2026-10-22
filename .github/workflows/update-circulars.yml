@@ -14,7 +14,7 @@ jobs:
       matrix:
         source: [nse, bse, sebi]
     concurrency:
-      group: update-circulars-${{ github.ref }}-${{ matrix.source }}
+      group: update-circulars-master-${{ matrix.source }}
       cancel-in-progress: false
     permissions:
       contents: write
@@ -23,6 +23,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        # Queued runs must see content published by the preceding run.
+        ref: master
         fetch-depth: 0
 
     - name: Install Nix
