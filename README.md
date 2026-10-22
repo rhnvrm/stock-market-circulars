@@ -1,6 +1,6 @@
 # Stock Market Circulars - Living Dataset
 
-A living dataset of regulatory circulars from NSE, BSE, and SEBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
+A living dataset of regulatory circulars from NSE, BSE, SEBI, and RBI, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
 ## Data Sources
 
@@ -9,12 +9,13 @@ Regulatory circulars from official RSS feeds:
 - **NSE** - Trading circulars, market updates, regulatory changes
 - **BSE** - Listing requirements, compliance notices, market rules  
 - **SEBI** - Policy changes, investor guidelines, regulatory frameworks
+- **RBI** - Press releases, banking notifications, monetary policy, and financial regulation
 
 ## How the Living Dataset Works
 
 The dataset updates automatically every 3 hours via GitHub Actions:
 
-1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger), with independent NSE, BSE, and SEBI jobs. A failed job does not cancel the others; failed jobs can be retried separately.
+1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger), with independent NSE, BSE, SEBI, and RBI jobs. A failed job does not cancel the others; failed jobs can be retried separately.
 2. **Environment Setup** - Nix development environment provides Python, uv, Gemini CLI, and Go
 3. **Pipeline Execution** - Each job runs `just pipeline <source>` for its own source. Locally, `just pipeline` still processes all sources.
 4. **Content Processing** - Python scripts download PDFs, extract text, and use Gemini AI for analysis
@@ -39,7 +40,8 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 │   └── circulars/
 │       ├── nse/           # NSE circulars by year
 │       ├── bse/           # BSE circulars by year
-│       └── sebi/          # SEBI circulars by year
+│       ├── sebi/          # SEBI circulars by year
+│       └── rbi/           # RBI releases and notifications by year
 ├── static/css/             # Stylesheets
 └── .github/workflows/      # GitHub Actions for automation
 ```

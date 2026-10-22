@@ -8,18 +8,28 @@ import shlex
 import subprocess
 import tempfile
 from pathlib import Path
-from typing import Dict, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
+from urllib.parse import urlsplit
 
 import httpx
 from markitdown import MarkItDown
 
 
+DEFAULT_GEMINI_ATTACHMENT_DIR = Path(tempfile.gettempdir()) / "stock-market-circulars-gemini-attachments"
+
+
 class FileDownloader:
     """Handles file downloads with validation"""
     
-    def __init__(self, max_downloads: int = 3, logger=None):
+    def __init__(
+        self,
+        max_downloads: int = 3,
+        logger=None,
+        attachment_dir: Optional[Path] = None,
+    ):
         self.download_semaphore = asyncio.Semaphore(max_downloads)
         self.logger = logger or print
+        self.attachment_dir = Path(attachment_dir or DEFAULT_GEMINI_ATTACHMENT_DIR).resolve()
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
         """Helper method for consistent logging"""
@@ -28,19 +38,34 @@ class FileDownloader:
         else:
             print(message)
     
-    async def download_temp_file(self, url: str, item_id: str = None) -> Tuple[Optional[Path], Optional[str]]:
+    async def download_temp_file(
+        self,
+        url: str,
+        item_id: str = None,
+        referer: str = None,
+    ) -> Tuple[Optional[Path], Optional[str]]:
         """Download file to temporary location with validation
         Returns: (file_path, error_type) where error_type can be '404', 'validation', or None
         """
         async with self.download_semaphore:
-            headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://www.bseindia.com/",
-                "Origin": "https://www.bseindia.com",
-            }
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            if referer:
+                parsed_referer = urlsplit(referer)
+                headers["Referer"] = referer
+                headers["Origin"] = f"{parsed_referer.scheme}://{parsed_referer.netloc}"
+            else:
+                headers.update({
+                    "Referer": "https://www.bseindia.com/",
+                    "Origin": "https://www.bseindia.com",
+                })
             
             try:
-                temp_file = tempfile.NamedTemporaryFile(suffix='.tmp', delete=False)
+                self.attachment_dir.mkdir(mode=0o700, parents=True, exist_ok=True)
+                temp_file = tempfile.NamedTemporaryFile(
+                    suffix='.tmp',
+                    dir=self.attachment_dir,
+                    delete=False,
+                )
                 temp_path = Path(temp_file.name)
                 temp_file.close()
                 
@@ -92,6 +117,14 @@ class FileDownloader:
             # PDF signature
             if header.startswith(b'%PDF'):
                 return True, 'pdf'
+
+            # Common image signatures (used by RBI formula/diagram attachments)
+            elif header.startswith(b'\x89PNG\r\n\x1a\n'):
+                return True, 'png'
+            elif header.startswith(b'\xff\xd8\xff'):
+                return True, 'jpeg'
+            elif header.startswith((b'GIF87a', b'GIF89a')):
+                return True, 'gif'
             
             # ZIP/Office documents (DOCX, XLSX, etc.)
             elif header.startswith(b'PK\x03\x04'):
@@ -230,8 +263,18 @@ class TextExtractor:
 
 class GeminiProcessor:
     """Handles Gemini CLI interactions"""
+
+    LARGE_CONTENT_ATTACHMENT_THRESHOLD = 50_000
     
-    def __init__(self, gemini_delay: float = 3.0, max_gemini_calls: int = 2, prompts: Dict[str, str] = None, model: str = "gemini-3.5-flash-lite", logger=None):
+    def __init__(
+        self,
+        gemini_delay: float = 3.0,
+        max_gemini_calls: int = 2,
+        prompts: Dict[str, str] = None,
+        model: str = "gemini-3.5-flash-lite",
+        logger=None,
+        attachment_dir: Optional[Path] = None,
+    ):
         self.gemini_delay = gemini_delay
         self.gemini_semaphore = asyncio.Semaphore(max_gemini_calls)
         if not prompts or not prompts.get("gemini_analysis"):
@@ -239,6 +282,7 @@ class GeminiProcessor:
         self.prompts = prompts
         self.model = model or "gemini-3.5-flash-lite"
         self.logger = logger or print  # Fallback to print if no logger provided
+        self.attachment_dir = Path(attachment_dir or DEFAULT_GEMINI_ATTACHMENT_DIR).resolve()
     
     def _log(self, message: str, level: str = "INFO", item_id: str = None):
         """Helper method for consistent logging"""
@@ -272,7 +316,14 @@ class GeminiProcessor:
             return self._parse_structured_response(response["response"], item_id)
         return None
     
-    async def run_gemini(self, pdf_content: str, metadata: Dict[str, str], item_id: str = None) -> Optional[str]:
+    async def run_gemini(
+        self,
+        pdf_content: str,
+        metadata: Dict[str, str],
+        item_id: str = None,
+        content_limit: Optional[int] = 4000,
+        attachments: Optional[List[Path]] = None,
+    ) -> Optional[str]:
         """Run Gemini with extracted text content"""
         # Build metadata string for prompt
         metadata_str = "\\n".join([f"- {k}: {v}" for k, v in metadata.items() if v])
@@ -280,20 +331,57 @@ class GeminiProcessor:
         # Use string.Template to avoid issues with braces in content
         import string
         template = string.Template(self.prompts["gemini_analysis"])
+        prompt_content = pdf_content
+        content_attachment = None
+        if content_limit is not None and len(prompt_content) > content_limit:
+            self._log(
+                f"Content truncated from {len(prompt_content)} to {content_limit} chars",
+                "WARNING",
+                item_id,
+            )
+            prompt_content = prompt_content[:content_limit]
+        elif len(prompt_content) > self.LARGE_CONTENT_ATTACHMENT_THRESHOLD:
+            self.attachment_dir.mkdir(mode=0o700, parents=True, exist_ok=True)
+            with tempfile.NamedTemporaryFile(
+                mode="w",
+                encoding="utf-8",
+                suffix=".md",
+                dir=self.attachment_dir,
+                delete=False,
+            ) as content_file:
+                content_file.write(prompt_content)
+                content_attachment = Path(content_file.name)
+            prompt_content = "[The complete source document is attached as a Markdown file.]"
+            self._log(
+                f"Attached {len(pdf_content)} chars as {content_attachment}",
+                "INFO",
+                item_id,
+            )
+
         gemini_prompt = template.safe_substitute(
             source=metadata.get("source", "unknown"),
             title=metadata.get("title", "Untitled"),
             pdf_url=metadata.get("pdf_url", ""),
             circular_id=metadata.get("circular_id", ""),
             metadata=metadata_str,
-            content=pdf_content[:4000]  # Limit content length
+            content=prompt_content,
         )
         
         # Debug: log the content and prompt
         self._log(f"Content length: {len(pdf_content)} chars", "DEBUG", item_id)
         self._log(f"Prompt length: {len(gemini_prompt)} chars", "DEBUG", item_id)
         
-        response = await self._run_gemini_with_retry(gemini_prompt, item_id)
+        all_attachments = list(attachments or [])
+        if content_attachment:
+            all_attachments.insert(0, content_attachment)
+        attachment_prefix = " ".join(f"@{path}" for path in all_attachments)
+        full_prompt = f"{attachment_prefix}\n{gemini_prompt}" if attachment_prefix else gemini_prompt
+
+        try:
+            response = await self._run_gemini_with_retry(full_prompt, item_id)
+        finally:
+            if content_attachment and content_attachment.exists():
+                content_attachment.unlink()
         if response and response.get("response"):
             self._log(f"Gemini returned result, calling parser", "DEBUG", item_id)
             result = self._parse_structured_response(response["response"], item_id)
@@ -398,6 +486,7 @@ class GeminiProcessor:
                     cmd = [
                         "gemini",
                         "--model", self.model,
+                        "--include-directories", str(self.attachment_dir),
                         "-p", sanitized_prompt,
                         "--output-format", "json",
                         "--skip-trust"

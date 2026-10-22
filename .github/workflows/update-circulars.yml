@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: [nse, bse, sebi]
+        source: [nse, bse, sebi, rbi]
     concurrency:
       group: update-circulars-master-${{ matrix.source }}
       cancel-in-progress: false
@@ -45,7 +45,12 @@ jobs:
         set -euo pipefail
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add -- hugo-site/content/circulars/${{ matrix.source }}/
+        content_dir="hugo-site/content/circulars/${{ matrix.source }}"
+        if [ ! -d "$content_dir" ]; then
+          echo "No content directory for ${{ matrix.source }} yet"
+          exit 0
+        fi
+        git add -- "$content_dir/"
         if git diff --staged --quiet; then
           echo "No changes to commit"
           exit 0
