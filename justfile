@@ -76,7 +76,6 @@ validate:
     @curl -sf "https://www.sebi.gov.in/sebirss.xml" > /dev/null && echo "✅ SEBI RSS" || echo "❌ SEBI RSS"
     @curl -sf "https://rbi.org.in/pressreleases_rss.xml" > /dev/null && echo "✅ RBI press releases RSS" || echo "❌ RBI press releases RSS"
     @curl -sf "https://rbi.org.in/notifications_rss.xml" > /dev/null && echo "✅ RBI notifications RSS" || echo "❌ RBI notifications RSS"
-
     @curl -sf "https://www.msei.in/rss/rss?type=circular" > /dev/null && echo "✅ MSEI source" || echo "❌ MSEI source"
 
 # Setup for CI/CD or fresh development

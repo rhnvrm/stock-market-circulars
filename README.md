@@ -4,7 +4,7 @@ A living dataset of regulatory circulars from NSE, BSE, SEBI, RBI, and MSEI, con
 
 ## Data Sources
 
-Regulatory circulars from official exchange sources:
+Regulatory circulars from official sources:
 
 - **NSE** - Trading circulars, market updates, regulatory changes
 - **BSE** - Listing requirements, compliance notices, market rules  

@@ -45,10 +45,11 @@ pluralizeListTitles = false
   [[menu.main]]
     name = 'RBI'
     url = '/circulars/rbi/'
+    weight = 45
   [[menu.main]]
     name = 'MSEI'
     url = '/circulars/msei/'
-    weight = 45
+    weight = 46
   [[menu.main]]
     name = 'Tags'
     url = '/tags/'

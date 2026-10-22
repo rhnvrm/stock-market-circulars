@@ -107,6 +107,15 @@ class PipelineTests(unittest.IsolatedAsyncioTestCase):
                     self.assertEqual(metadata[key], item[key])
             self.assertTrue(pipeline.frontmatter_manager.is_processed(metadata['circular_id'], SOURCE))
 
+    async def test_direct_zip_archive_does_not_fetch_a_detail_page(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            pipeline = self.make_pipeline(temp_dir)
+            item = sample_item()
+            item['download_url'] = item['download_url'].replace('.pdf', '.zip?download=1#archive')
+            self.assertTrue(await pipeline.process_item_content_based(SOURCE, item))
+            pipeline.pdf_extractor.extract_pdf_url.assert_not_awaited()
+            self.assertEqual(pipeline.file_downloader.download_temp_file.await_args.args[0], item['download_url'])
+
     async def test_pdf_download_failure_does_not_publish(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             pipeline = self.make_pipeline(temp_dir)
