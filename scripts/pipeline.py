@@ -113,7 +113,11 @@ class CircularsPipeline:
         self.rss_feeds = self.config.get("rss_feeds", {
             "nse": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
             "bse": "https://www.bseindia.com/data/xml/notices.xml", 
-            "sebi": "https://www.sebi.gov.in/sebirss.xml"
+            "sebi": "https://www.sebi.gov.in/sebirss.xml",
+            "rbi": [
+                "https://rbi.org.in/pressreleases_rss.xml",
+                "https://rbi.org.in/notifications_rss.xml",
+            ],
         })
         
         # Logging directory (no longer using JSON state files)
@@ -215,20 +219,38 @@ class CircularsPipeline:
     async def process_source(self, source: str, max_items: Optional[int] = None) -> SourceStats:
         """Process a single RSS source"""
         self.log(f"Processing {source.upper()} RSS feed")
-        self.log(f"RSS URL for {source}: {self.rss_feeds.get(source)}", "DEBUG")
+        configured_feeds = self.rss_feeds.get(source)
+        self.log(f"RSS URL(s) for {source}: {configured_feeds}", "DEBUG")
         
-        # Download RSS feed
-        rss_url = self.rss_feeds.get(source)
-        if not rss_url:
+        if not configured_feeds:
             self.log(f"No RSS URL configured for source: {source}", "ERROR")
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        rss_content = await self.rss_extractor.download_rss_feed(source, rss_url)
-        if not rss_content:
-            self.log(f"Failed to download RSS feed for {source}", "ERROR")
+
+        rss_urls = configured_feeds if isinstance(configured_feeds, list) else [configured_feeds]
+        feed_results = await asyncio.gather(
+            *(self.rss_extractor.download_rss_feed(source, url) for url in rss_urls),
+            return_exceptions=True,
+        )
+
+        items = []
+        seen_guids = set()
+        for rss_url, rss_content in zip(rss_urls, feed_results):
+            if isinstance(rss_content, Exception):
+                self.log(f"Failed to download RSS feed {rss_url}: {rss_content}", "ERROR")
+                continue
+            if not rss_content:
+                self.log(f"Failed to download RSS feed {rss_url}", "ERROR")
+                continue
+
+            for item in self.rss_extractor.parse_rss_feed(rss_content, source):
+                if item["guid"] in seen_guids:
+                    continue
+                seen_guids.add(item["guid"])
+                items.append(item)
+
+        if not items:
             return SourceStats(source=source, total_items=0, processed_items=0, completed_items=0, failed_items=0, success_rate=0)
-        
-        items = self.rss_extractor.parse_rss_feed(rss_content, source)
+
         if max_items:
             items = items[:max_items]
         
@@ -263,7 +285,8 @@ class CircularsPipeline:
                     'circular_id': circular_id,
                     'published_date': parse_rss_date(item.get('pubdate', '')),
                     'guid': item['guid'],
-                    'rss_url': item['download_url']  # Original URL from RSS feed
+                    'rss_url': item['download_url'],  # Original URL from RSS feed
+                    'feed_type': item.get('feed_type', ''),
                 }
                 
                 # Generate content path
@@ -350,7 +373,8 @@ class CircularsPipeline:
                 'circular_id': circular_id,
                 'published_date': parse_rss_date(item.get('pubdate', '')),
                 'guid': item['guid'],
-                'rss_url': item['download_url']  # Original URL from RSS feed
+                'rss_url': item['download_url'],  # Original URL from RSS feed
+                'feed_type': item.get('feed_type', ''),
             }
             
             # Generate content path early for state tracking
@@ -360,6 +384,43 @@ class CircularsPipeline:
                 circular_id, 
                 item['title']
             )
+
+            # RBI publishes the complete release/notification body in the RSS
+            # description, so process that text directly instead of treating
+            # the linked HTML page as a downloadable document.
+            if source == "rbi":
+                embedded_content = item.get('content', '').strip()
+
+                if len(embedded_content) < 50:
+                    self.log("RBI RSS content missing; fetching the linked page", "WARNING", circular_id)
+                    embedded_content = await self.text_extractor.extract_html_text(item['download_url'], circular_id) or ""
+
+                if len(embedded_content) < 50:
+                    self.log("RBI item has insufficient content", "ERROR", circular_id)
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "content_failed", "failed")
+                    return False
+
+                self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_processing", "processing")
+                ai_content = await self.gemini_processor.run_gemini(embedded_content, base_metadata, circular_id)
+                if not ai_content:
+                    self.log("AI processing failed", "ERROR", circular_id)
+                    self.frontmatter_manager.write_state_file(content_path, base_metadata, "ai_failed", "failed")
+                    return False
+
+                processing_state = self.frontmatter_manager.create_processing_state(
+                    status="published",
+                    stage="completed",
+                    content_hash=self.frontmatter_manager.get_content_hash(ai_content),
+                )
+                success = self.frontmatter_manager.write_content_file(
+                    content_path,
+                    ai_content,
+                    base_metadata,
+                    processing_state,
+                )
+                if success:
+                    self.log(f"Successfully processed and saved: {content_path.name}", "INFO", circular_id)
+                return success
             
             # Stage 1: Extract PDF URL (for sources that need HTML parsing) 
             self.frontmatter_manager.write_state_file(content_path, base_metadata, "url_extraction", "processing")

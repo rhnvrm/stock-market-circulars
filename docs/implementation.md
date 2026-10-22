@@ -35,7 +35,7 @@ Successfully replaced Hugo static site generator with a lightweight Go server.
 - **Chi router** with middleware (logger, recoverer, compression)
 - **Working routes**:
   - `/` - Home page (50 recent circulars)
-  - `/circulars/{source}/` - NSE/BSE/SEBI filtered lists
+  - `/circulars/{source}/` - NSE/BSE/SEBI/RBI filtered lists
   - `/circulars/{source}/{year}/{slug}/` - Single circular detail
   - `/health` - Health check endpoint
 

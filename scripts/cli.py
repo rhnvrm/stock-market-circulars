@@ -18,7 +18,7 @@ console = Console()
 
 @app.command()
 def main(
-    sources: List[str] = typer.Argument(None, help="Sources to process (nse, bse, sebi)"),
+    sources: List[str] = typer.Argument(None, help="Sources to process (nse, bse, sebi, rbi)"),
     max_items: Optional[int] = typer.Option(None, "--max-items", help="Maximum items per source"),
     debug: bool = typer.Option(False, "--debug", help="Enable debug mode"),
     request_delay: Optional[int] = typer.Option(None, "--request-delay", help="Delay between requests (overrides config)"),
@@ -45,10 +45,10 @@ def main(
     
     # Default sources if none provided
     if not sources:
-        sources = ["nse", "bse", "sebi"]
+        sources = ["nse", "bse", "sebi", "rbi"]
     
     # Validate sources
-    valid_sources = ["nse", "bse", "sebi"]
+    valid_sources = ["nse", "bse", "sebi", "rbi"]
     invalid_sources = [s for s in sources if s not in valid_sources]
     if invalid_sources:
         console.print(f"❌ Invalid sources: {invalid_sources}. Valid sources: {valid_sources}", style="red")
@@ -138,7 +138,7 @@ def display_results(stats, elapsed_time: float):
 @app.command()
 def regenerate(
     item_ids: List[str] = typer.Argument(..., help="Item IDs to regenerate (e.g., 2d7ae7c3294c34e4)"),
-    source: str = typer.Option(None, "--source", help="Source filter (nse, bse, sebi)"),
+    source: str = typer.Option(None, "--source", help="Source filter (nse, bse, sebi, rbi)"),
 ):
     """Regenerate markdown content for specific items with updated prompts."""
     
