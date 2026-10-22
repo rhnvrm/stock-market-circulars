@@ -7,9 +7,9 @@ default:
 # Core Commands
 
 # Run RSS scraping and AI processing pipeline
-pipeline:
+pipeline *sources:
     @echo "🚀 Running RSS scraping & AI processing pipeline..."
-    cd scripts && uv run combined_pipeline.py main
+    cd scripts && uv run combined_pipeline.py main {{sources}}
 
 # Regenerate specific items with updated prompts
 regenerate *args:
