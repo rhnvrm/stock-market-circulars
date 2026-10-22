@@ -1,7 +1,7 @@
 ---
 category: market-operations
 circular_id: 2ca8267f230cb1da
-date: '2026-10-29'
+date: '2026-09-29'
 description: NSE Clearing notifies the revised settlement calendar for compulsory
   delivery and GST details reporting calendar for commodity derivatives segment contracts
   in October 2026.
@@ -57,7 +57,7 @@ NSE Clearing Limited has notified the revised settlement calendar (compulsory de
 
 ## Important Dates
 
-- Circular Date: October 29, 2026.
+- Circular Date: September 29, 2026.
 - Delivery settlement and GST reporting windows apply across October and November 2026 for respective contract expiries.
 
 ## Impact Assessment
