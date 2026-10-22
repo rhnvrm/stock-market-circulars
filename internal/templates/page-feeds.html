@@ -7,7 +7,7 @@
 
   <title>RSS Feeds | Stock Market Circulars</title>
 
-  <meta name="description" content="Subscribe to RSS feeds for stock market circulars from NSE, BSE, SEBI, and RBI">
+  <meta name="description" content="Subscribe to RSS feeds for stock market circulars from NSE, BSE, SEBI, RBI, and MSEI">
 
   <link rel="canonical" href="{{.BaseURL}}/feeds/">
   <link rel="alternate" type="application/rss+xml" title="Stock Market Circulars" href="{{.BaseURL}}/feed.xml">
@@ -19,7 +19,7 @@
   <header>
     <div class="header-brand">
       <a href="/" class="brand-link">Stock Market Circulars</a>
-      <span class="brand-tagline">NSE • BSE • SEBI • RBI</span>
+      <span class="brand-tagline">NSE • BSE • SEBI • RBI • MSEI</span>
     </div>
     <nav class="header-nav">
       <a href="/" class="nav-link">Recent</a>
@@ -29,6 +29,7 @@
       <a href="/circulars/bse/" class="nav-link">BSE</a>
       <a href="/circulars/sebi/" class="nav-link">SEBI</a>
       <a href="/circulars/rbi/" class="nav-link">RBI</a>
+      <a href="/circulars/msei/" class="nav-link">MSEI</a>
       <span class="nav-divider"></span>
       <a href="/tags/" class="nav-link">Tags</a>
       <a href="/stocks/" class="nav-link">Stocks</a>
@@ -52,7 +53,7 @@
       <tbody>
         <tr>
           <td class="feed-name">All Circulars</td>
-          <td class="feed-description">All circulars from NSE, BSE, SEBI, and RBI</td>
+          <td class="feed-description">All circulars from NSE, BSE, SEBI, RBI, and MSEI</td>
           <td class="feed-link">
             <a href="{{.BaseURL}}/feed.xml" class="simple-link">feed.xml</a>
           </td>
@@ -95,6 +96,13 @@
             <a href="{{.BaseURL}}/circulars/rbi/feed.xml" class="simple-link">rbi/feed.xml</a>
           </td>
         </tr>
+        <tr>
+          <td class="feed-name">MSEI Circulars</td>
+          <td class="feed-description">Circulars from Metropolitan Stock Exchange of India</td>
+          <td class="feed-link">
+            <a href="{{.BaseURL}}/circulars/msei/feed.xml" class="simple-link">msei/feed.xml</a>
+          </td>
+        </tr>
       </tbody>
     </table>
     </div>
@@ -111,7 +119,7 @@
     <h2>RSS Feed Format</h2>
     <p>All feeds follow the RSS 2.0 specification and include custom namespace elements for circular-specific metadata:</p>
     <ul>
-      <li><code>circular:source</code> - Regulatory source (NSE, BSE, SEBI, RBI)</li>
+      <li><code>circular:source</code> - Regulatory source (NSE, BSE, SEBI, RBI, MSEI)</li>
       <li><code>circular:category</code> - Regulatory category</li>
       <li><code>circular:impact</code> - Impact level</li>
       <li><code>circular:severity</code> - Severity level</li>
@@ -126,7 +134,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, SEBI, and RBI official websites.</p>
+    <p>&copy; 2025 Stock Market Circulars. Data sourced from NSE, BSE, SEBI, RBI, and MSEI official websites.</p>
   </footer>
 </body>
 </html>

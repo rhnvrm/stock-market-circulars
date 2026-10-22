@@ -21,7 +21,7 @@ STAGE_ALIASES = {
     "claude_failed": "ai_failed",
 }
 
-SOURCES = ['nse', 'bse', 'sebi', 'rbi']
+SOURCES = ['nse', 'bse', 'sebi', 'rbi', 'msei']
 
 
 def normalize_stage(stage):

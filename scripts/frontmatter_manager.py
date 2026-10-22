@@ -334,7 +334,7 @@ class FrontmatterManager:
             raise ValueError("Circular ID must be a non-empty string")
         
         # Validate source against allowed values
-        allowed_sources = ["nse", "bse", "sebi", "rbi"]
+        allowed_sources = ["nse", "bse", "sebi", "rbi", "msei"]
         if source not in allowed_sources:
             raise ValueError(f"Source must be one of: {allowed_sources}")
         

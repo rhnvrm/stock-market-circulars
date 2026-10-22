@@ -9,6 +9,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
+from urllib.parse import urlsplit
 
 from config import load_config
 from extractors import ContentScraper, PDFURLExtractor, RSSExtractor
@@ -114,6 +115,7 @@ class CircularsPipeline:
             "nse": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
             "bse": "https://www.bseindia.com/data/xml/notices.xml", 
             "sebi": "https://www.sebi.gov.in/sebirss.xml",
+            "msei": "https://www.msei.in/rss/rss?type=circular",
             "rbi": [
                 "https://rbi.org.in/pressreleases_rss.xml",
                 "https://rbi.org.in/notifications_rss.xml",
@@ -464,7 +466,7 @@ class CircularsPipeline:
             self.frontmatter_manager.write_state_file(content_path, base_metadata, "url_extraction", "processing")
             
             final_url = item['download_url']
-            if source in ["bse", "sebi"]:  # NSE has direct PDF URLs
+            if source in ["bse", "sebi"] or (source == "msei" and not urlsplit(final_url).path.lower().endswith((".pdf", ".zip", ".doc", ".docx", ".xls", ".xlsx"))):
                 extracted_url = await self.pdf_extractor.extract_pdf_url(source, item['download_url'])
                 if extracted_url:
                     final_url = extracted_url
