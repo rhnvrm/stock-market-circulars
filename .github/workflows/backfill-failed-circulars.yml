@@ -4,15 +4,16 @@ on:
   workflow_dispatch:
     inputs:
       source:
-        description: "Optional source filter"
+        description: "Source filter (all sources by default)"
         required: false
-        default: ""
+        default: all
         type: choice
         options:
-          - ""
+          - all
           - nse
           - bse
           - sebi
+          - rbi
       stage:
         description: "Failure stage filter"
         required: true
@@ -54,7 +55,7 @@ jobs:
         run: |
           set -euo pipefail
           ARGS=()
-          if [ -n "${{ inputs.source }}" ]; then
+          if [ "${{ inputs.source }}" != "all" ]; then
             ARGS+=(--source "${{ inputs.source }}")
           fi
           if [ "${{ inputs.stage }}" = "claude_failed" ]; then
@@ -90,7 +91,7 @@ jobs:
             exit 1
           fi
 
-          if [ -n "${{ inputs.source }}" ]; then
+          if [ "${{ inputs.source }}" != "all" ]; then
             SOURCE_ARG="--source ${{ inputs.source }}"
           else
             SOURCE_ARG=""

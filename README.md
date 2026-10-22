@@ -15,7 +15,7 @@ Regulatory circulars from official RSS feeds:
 
 The dataset updates automatically every 3 hours via GitHub Actions:
 
-1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger), with independent NSE, BSE, and SEBI jobs. A failed job does not cancel the others; failed jobs can be retried separately.
+1. **Scheduled Execution** - GitHub Actions runs `update-circulars.yml` every 3 hours (or on manual trigger), with independent NSE, BSE, SEBI, and RBI jobs. A failed job does not cancel the others; failed jobs can be retried separately.
 2. **Environment Setup** - Nix development environment provides Python, uv, Gemini CLI, and Go
 3. **Pipeline Execution** - Each job runs `just pipeline <source>` for its own source. Locally, `just pipeline` still processes all sources.
 4. **Content Processing** - Python scripts download PDFs, extract text, and use Gemini AI for analysis

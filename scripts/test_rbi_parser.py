@@ -20,7 +20,7 @@ from unittest.mock import AsyncMock, MagicMock, patch
 
 from config import load_config
 from extractors import RSSExtractor
-from pipeline import CircularsPipeline
+from pipeline import CircularsPipeline, parse_rss_date
 from processors import DEFAULT_GEMINI_ATTACHMENT_DIR, FileDownloader, GeminiProcessor
 
 
@@ -80,6 +80,15 @@ class RBIExtractorTests(unittest.TestCase):
         self.assertIn("[VRRR rules](https://www.rbi.org.in/rules/vrrr)", item["content"])
         self.assertIn("![Auction formula](https://www.rbi.org.in/images/formula.png)", item["content"])
         self.assertEqual(item["image_urls"], ["https://www.rbi.org.in/images/formula.png"])
+
+    def test_timezone_less_rbi_dates_are_interpreted_in_ist(self):
+        item = RSSExtractor().parse_rss_feed(PRESS_RELEASE_FEED, "rbi")[0]
+        self.assertEqual(parse_rss_date(item["pubdate"]), "2026-09-28T19:05:00+05:30")
+
+    def test_explicit_rbi_timezone_is_preserved(self):
+        feed = PRESS_RELEASE_FEED.replace("19:05:00</pubDate>", "19:05:00 GMT</pubDate>")
+        item = RSSExtractor().parse_rss_feed(feed, "rbi")[0]
+        self.assertEqual(parse_rss_date(item["pubdate"]), "2026-09-28T19:05:00+00:00")
 
     def test_classifies_notification_feed(self):
         item = RSSExtractor().parse_rss_feed(NOTIFICATION_FEED, "rbi")[0]

@@ -3,6 +3,8 @@
 import asyncio
 import io
 import re
+from datetime import timedelta, timezone
+from email.utils import parsedate_to_datetime
 from typing import Any, Dict, List, Optional
 from urllib.parse import urljoin
 
@@ -90,11 +92,22 @@ class RSSExtractor:
                     if source == "sebi" and "https://www.sebi.gov.in/https://www.sebi.gov.in/" in download_url:
                         download_url = download_url.replace('https://www.sebi.gov.in/https://www.sebi.gov.in/', 'https://www.sebi.gov.in/')
                     
+                    pubdate = pubdate_elem.text.strip() if pubdate_elem is not None and pubdate_elem.text else ''
+                    if source == 'rbi' and pubdate:
+                        # RBI publishes local Indian times without an RSS timezone.
+                        try:
+                            published_at = parsedate_to_datetime(pubdate)
+                            if published_at.tzinfo is None:
+                                published_at = published_at.replace(tzinfo=timezone(timedelta(hours=5, minutes=30)))
+                            pubdate = published_at.isoformat()
+                        except (TypeError, ValueError):
+                            pass  # Let the pipeline report an invalid publication date.
+
                     items.append({
                         'title': title_elem.text.strip() if title_elem.text else 'Untitled',
                         'download_url': download_url,
                         'guid': guid_elem.text.strip() if guid_elem is not None and guid_elem.text else download_url,
-                        'pubdate': pubdate_elem.text.strip() if pubdate_elem is not None and pubdate_elem.text else '',
+                        'pubdate': pubdate,
                         'content': self.html_to_markdown(description_elem.text, download_url) if description_elem is not None and description_elem.text else '',
                         'image_urls': self.extract_image_urls(description_elem.text, download_url) if description_elem is not None and description_elem.text else [],
                         'feed_type': feed_type,
