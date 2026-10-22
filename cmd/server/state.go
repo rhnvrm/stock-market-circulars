@@ -4,9 +4,9 @@ import (
 	"log"
 	"sort"
 
-	"github.com/rhnvrm/stock-market-circulars/internal/content"
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
-	"github.com/rhnvrm/stock-market-circulars/internal/render"
+	"github.com/rhnvrm/exchange-circulars/internal/content"
+	"github.com/rhnvrm/exchange-circulars/internal/models"
+	"github.com/rhnvrm/exchange-circulars/internal/render"
 )
 
 type taxonomyView struct {

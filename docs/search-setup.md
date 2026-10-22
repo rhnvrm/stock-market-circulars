@@ -17,7 +17,7 @@ docker-compose logs -f typesense
 
 ```bash
 export TYPESENSE_HOST=localhost:8108
-export TYPESENSE_API_KEY=stock-circulars-dev-key
+export TYPESENSE_API_KEY=exchange-circulars-dev-key
 ```
 
 ## Indexing Circulars
@@ -54,4 +54,4 @@ docker-compose down -v
 
 Access Typesense admin at: http://localhost:8108/health
 
-API Key: `stock-circulars-dev-key`
+API Key: `exchange-circulars-dev-key`

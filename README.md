@@ -1,4 +1,6 @@
-# Stock Market Circulars - Living Dataset
+# exchangecirculars.com - Living Dataset
+
+[exchangecirculars.com](https://exchangecirculars.com) · [GitHub](https://github.com/rhnvrm/exchange-circulars)
 
 A living dataset of regulatory circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX, continuously updated through automated RSS feed processing and LLM-powered content extraction.
 
@@ -88,7 +90,7 @@ Contributions welcome! You can:
 
 See the [Development Guide](./docs/development.md) for setup instructions and contribution workflow.
 
-**Issues**: [GitHub Issues](https://github.com/rhnvrm/stock-market-circulars/issues)
+**Issues**: [GitHub Issues](https://github.com/rhnvrm/exchange-circulars/issues)
 
 ## License
 

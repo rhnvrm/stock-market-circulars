@@ -14,14 +14,14 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/rhnvrm/stock-market-circulars/internal/content"
-	"github.com/rhnvrm/stock-market-circulars/internal/gitsync"
-	"github.com/rhnvrm/stock-market-circulars/internal/handlers"
-	"github.com/rhnvrm/stock-market-circulars/internal/render"
-	"github.com/rhnvrm/stock-market-circulars/internal/scheduler"
-	"github.com/rhnvrm/stock-market-circulars/internal/search"
-	"github.com/rhnvrm/stock-market-circulars/internal/templates"
-	"github.com/rhnvrm/stock-market-circulars/static"
+	"github.com/rhnvrm/exchange-circulars/internal/content"
+	"github.com/rhnvrm/exchange-circulars/internal/gitsync"
+	"github.com/rhnvrm/exchange-circulars/internal/handlers"
+	"github.com/rhnvrm/exchange-circulars/internal/render"
+	"github.com/rhnvrm/exchange-circulars/internal/scheduler"
+	"github.com/rhnvrm/exchange-circulars/internal/search"
+	"github.com/rhnvrm/exchange-circulars/internal/templates"
+	"github.com/rhnvrm/exchange-circulars/static"
 )
 
 // Build information - injected via ldflags
@@ -35,11 +35,11 @@ func main() {
 
 	// Git sync configuration
 	gitRepoURL := getEnv("GIT_REPO_URL", "")
-	gitDataPath := getEnv("GIT_DATA_PATH", "/tmp/stock-market-circulars-data")
+	gitDataPath := getEnv("GIT_DATA_PATH", "/tmp/exchange-circulars-data")
 	gitBranch := getEnv("GIT_BRANCH", "master")
 	syncInterval := getEnv("SYNC_INTERVAL", "@every 1h")
 
-	log.Printf("Starting Stock Market Circulars Server (Build: %s)...", buildString)
+	log.Printf("Starting exchangecirculars.com Server (Build: %s)...", buildString)
 
 	// Initialize template renderer
 	tmplRenderer, err := templates.NewRenderer()
@@ -493,7 +493,7 @@ func main() {
 		}
 
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
-			Title:       "Stock Market Circulars",
+			Title:       "exchangecirculars.com",
 			Link:        baseURL,
 			Description: "Latest stock market circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX",
 			SelfLink:    baseURL + "/feed.xml",
@@ -509,7 +509,7 @@ func main() {
 		}
 
 		handlers.GenerateRSSFeed(w, handlers.FeedOptions{
-			Title:       "All Stock Market Circulars",
+			Title:       "All Circulars | exchangecirculars.com",
 			Link:        baseURL + "/circulars/",
 			Description: "All circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX",
 			SelfLink:    baseURL + "/circulars/feed.xml",

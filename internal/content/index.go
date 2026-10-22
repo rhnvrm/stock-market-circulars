@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
+	"github.com/rhnvrm/exchange-circulars/internal/models"
 )
 
 // SiteIndex holds all circular indexes for fast querying

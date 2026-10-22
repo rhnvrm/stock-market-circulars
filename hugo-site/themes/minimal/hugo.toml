@@ -5,5 +5,5 @@ description = "A minimal, research-oriented theme inspired by arXiv and Hacker N
 min_version = "0.121.0"
 
 [author]
-  name = "Stock Market Circulars"
-  homepage = "https://github.com/rhnvrm/stock-market-circulars"
+  name = "exchangecirculars.com"
+  homepage = "https://github.com/rhnvrm/exchange-circulars"

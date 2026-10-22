@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rhnvrm/stock-market-circulars/internal/content"
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
+	"github.com/rhnvrm/exchange-circulars/internal/content"
+	"github.com/rhnvrm/exchange-circulars/internal/models"
 )
 
 // RSS represents the root RSS element with namespaces
@@ -95,12 +95,12 @@ func GenerateRSSFeed(w http.ResponseWriter, opts FeedOptions, idx *content.SiteI
 		Version:  "2.0",
 		Atom:     "http://www.w3.org/2005/Atom",
 		Content:  "http://purl.org/rss/1.0/modules/content/",
-		Circular: "https://rhnvrm.github.io/stock-market-circulars/ns",
+		Circular: "https://exchangecirculars.com/ns",
 		Channel: Channel{
 			Title:         opts.Title,
 			Link:          opts.Link,
 			Description:   opts.Description,
-			Generator:     "Stock Market Circulars Go Server",
+			Generator:     "exchangecirculars.com Go Server",
 			Language:      "en-us",
 			LastBuildDate: time.Now().Format(time.RFC1123Z),
 			AtomLink: AtomLink{

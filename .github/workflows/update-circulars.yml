@@ -1,4 +1,4 @@
-name: Update Stock Market Circulars
+name: Update exchangecirculars.com
 
 on:
   schedule:

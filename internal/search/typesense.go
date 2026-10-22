@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
+	"github.com/rhnvrm/exchange-circulars/internal/models"
 	"github.com/typesense/typesense-go/typesense"
 	"github.com/typesense/typesense-go/typesense/api"
 	"github.com/typesense/typesense-go/typesense/api/pointer"

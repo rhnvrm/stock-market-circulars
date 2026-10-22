@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rhnvrm/stock-market-circulars/internal/models"
+	"github.com/rhnvrm/exchange-circulars/internal/models"
 	"gopkg.in/yaml.v3"
 )
 

@@ -163,7 +163,7 @@ SERVER_README.md
 
 ```bash
 # Start server (development)
-cd /home/rhnvrm/Documents/Code/github.com/rhnvrm/stock-market-circulars
+cd /home/rhnvrm/Documents/Code/github.com/rhnvrm/exchange-circulars
 just server
 
 # Or build and run binary

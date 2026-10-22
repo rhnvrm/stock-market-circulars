@@ -1,4 +1,4 @@
-module github.com/rhnvrm/stock-market-circulars
+module github.com/rhnvrm/exchange-circulars
 
 go 1.25.4
 

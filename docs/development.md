@@ -81,7 +81,7 @@ go build -o server.bin cmd/server/main.go
 ## Code Structure
 
 ```
-stock-market-circulars/
+exchange-circulars/
 ├── cmd/
 │   └── server/
 │       └── main.go           # Main entry point, route setup
@@ -257,7 +257,7 @@ CONTENT_DIR=./hugo-site/content go run cmd/server/main.go
 
 ## Getting Help
 
-- Open an issue: https://github.com/rhnvrm/stock-market-circulars/issues
+- Open an issue: https://github.com/rhnvrm/exchange-circulars/issues
 - Check existing documentation in this directory
 - Review the [Server Guide](./server.md) for usage details
 - See the [Migration Roadmap](./migration-roadmap.md) for project status

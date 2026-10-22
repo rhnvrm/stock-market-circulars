@@ -1,4 +1,4 @@
-# Go Server for Stock Market Circulars
+# Go Server for exchangecirculars.com
 
 ## Status: MVP Complete ✓
 
@@ -43,6 +43,46 @@ just server
 # Test it
 curl http://localhost:8080/health
 ```
+
+## Published Docker image
+
+The `Publish serving app image` workflow builds the root `Dockerfile` and pushes
+the Go server image to `ghcr.io/rhnvrm/exchange-circulars` for Linux amd64.
+It authenticates with the repository's automatic `GITHUB_TOKEN`; no registry
+secret is required.
+
+To publish a release after the workflow is merged, tag the desired commit:
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+Choose a new version for each release. A stable tag such as `v1.0.0` publishes
+`:1.0.0`, `:1.0`, `:latest`, and `:sha-<full-commit-sha>`. A prerelease such as
+`v1.1.0-rc.1` publishes `:1.1.0-rc.1` and the commit tag without updating
+`:latest` or the minor version alias. Publishing an older stable release also
+moves `:latest` to that release. The version is embedded in the server through
+the Dockerfile's `BUILD_VERSION` argument.
+
+You can also run the workflow manually from GitHub Actions for a selected branch
+or tag. Branch builds publish only the commit tag.
+
+The image excludes the circular dataset. Mount a content directory to run it:
+
+```bash
+docker run --rm -p 8080:8080 \
+  -e BASE_URL=http://localhost:8080 \
+  -v "$PWD/hugo-site/content:/data/content:ro" \
+  ghcr.io/rhnvrm/exchange-circulars:1.0.0
+```
+
+The mounted files must be readable by the image's non-root `app` user. For
+anonymous pulls, set the package visibility to public in its GitHub package
+settings after the first publish; otherwise authenticate with `docker login ghcr.io`.
+
+For production, set `BASE_URL=https://exchangecirculars.com` so canonical URLs
+and feed links use the public domain.
 
 ## Environment Variables
 

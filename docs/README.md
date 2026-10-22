@@ -1,6 +1,6 @@
 # Documentation
 
-Welcome to the Stock Market Circulars documentation. This directory contains comprehensive guides for using, configuring, and contributing to the project.
+Welcome to the exchangecirculars.com documentation. This directory contains comprehensive guides for using, configuring, and contributing to the project.
 
 ## Table of Contents
 

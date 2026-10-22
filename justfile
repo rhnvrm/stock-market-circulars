@@ -1,4 +1,4 @@
-# Stock Market Circulars Project Commands
+# exchangecirculars.com Project Commands
 
 # Default: show available commands
 default:
@@ -125,7 +125,7 @@ typesense-logs:
 # Run Go server with Typesense
 serve-with-search:
     @echo "🌐 Starting Go server with Typesense search on :9999..."
-    ADDR=:9999 BASE_URL=http://localhost:9999 TYPESENSE_API_KEY=stock-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
+    ADDR=:9999 BASE_URL=http://localhost:9999 TYPESENSE_API_KEY=exchange-circulars-dev-key TYPESENSE_HOST=localhost:8108 go run cmd/server/main.go
 
 # UAT Deployment Commands
 # Environment variables required (set in .env.local):
@@ -199,8 +199,8 @@ logs-uat: _check-uat-deps _check-uat-env
 # Test git sync locally
 serve-with-git-sync:
     @echo "🌐 Starting server with git sync mode..."
-    GIT_REPO_URL=https://github.com/rhnvrm/stock-market-circulars.git \
-    GIT_DATA_PATH=/tmp/stock-market-circulars-data \
+    GIT_REPO_URL=https://github.com/rhnvrm/exchange-circulars.git \
+    GIT_DATA_PATH=/tmp/exchange-circulars-data \
     SYNC_INTERVAL="@every 5m" \
     ADDR=:9999 \
     BASE_URL=http://localhost:9999 \

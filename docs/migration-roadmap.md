@@ -600,7 +600,7 @@ Enhance `/health` endpoint:
 
 ### Getting Help
 - **Documentation**: See [`docs/`](../docs/) directory
-- **Issues**: https://github.com/rhnvrm/stock-market-circulars/issues
+- **Issues**: https://github.com/rhnvrm/exchange-circulars/issues
 - **Development Guide**: [development.md](./development.md)
 
 ### Contributing

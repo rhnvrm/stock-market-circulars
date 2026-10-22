@@ -1,5 +1,5 @@
 {
-  description = "Stock Market Circulars Processing Pipeline Development Environment";
+  description = "exchangecirculars.com Processing Pipeline Development Environment";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
@@ -40,7 +40,7 @@
           ];
 
           shellHook = ''
-            echo "🚀 Stock Market Circulars Processing Pipeline"
+            echo "🚀 exchangecirculars.com Processing Pipeline"
             echo "Python + uv + Gemini + Go development environment"
             echo ""
             

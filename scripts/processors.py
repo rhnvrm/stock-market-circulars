@@ -15,7 +15,7 @@ import httpx
 from markitdown import MarkItDown
 
 
-DEFAULT_GEMINI_ATTACHMENT_DIR = Path(tempfile.gettempdir()) / "stock-market-circulars-gemini-attachments"
+DEFAULT_GEMINI_ATTACHMENT_DIR = Path(tempfile.gettempdir()) / "exchange-circulars-gemini-attachments"
 
 
 class FileDownloader:

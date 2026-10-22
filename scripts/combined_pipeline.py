@@ -15,7 +15,7 @@
 # ///
 
 """
-Stock Market Circulars Pipeline - Modular Version
+exchangecirculars.com Pipeline - Modular Version
 
 This is the main entry point for the refactored pipeline.
 The functionality has been split into multiple modules:

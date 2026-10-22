@@ -1,6 +1,6 @@
-baseURL = 'https://rhnvrm.github.io/stock-market-circulars/'
+baseURL = 'https://exchangecirculars.com/'
 languageCode = 'en-us'
-title = 'Stock Market Circulars'
+title = 'exchangecirculars.com'
 theme = 'minimal'
 pluralizeListTitles = false
 
