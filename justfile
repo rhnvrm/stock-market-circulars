@@ -81,7 +81,7 @@ validate:
 
 # Setup for CI/CD or fresh development
 setup:
-    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,rbi,msei,indiainx}/2025
+    mkdir -p hugo-site/content/circulars/{nse,bse,sebi,rbi,msei,mcx,indiainx}/2025
 
 # Normalization Commands
 

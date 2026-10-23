@@ -14,6 +14,8 @@ from urllib.parse import urlsplit
 import httpx
 from markitdown import MarkItDown
 
+from tlsfetch import download_file, needs_impersonation
+
 
 DEFAULT_GEMINI_ATTACHMENT_DIR = Path(tempfile.gettempdir()) / "exchange-circulars-gemini-attachments"
 
@@ -69,17 +71,21 @@ class FileDownloader:
                 temp_path = Path(temp_file.name)
                 temp_file.close()
                 
-                async with httpx.AsyncClient(timeout=60, follow_redirects=True) as client:
-                    self._log(f"Downloading file temporarily: {url}", "INFO", item_id)
-                    async with client.stream('GET', url, headers=headers) as response:
-                        response.raise_for_status()
+                if needs_impersonation(url):
+                    self._log(f"Downloading file temporarily (browser TLS): {url}", "INFO", item_id)
+                    content_disposition = await download_file(url, temp_path, 60)
+                else:
+                    async with httpx.AsyncClient(timeout=60, follow_redirects=True) as client:
+                        self._log(f"Downloading file temporarily: {url}", "INFO", item_id)
+                        async with client.stream('GET', url, headers=headers) as response:
+                            response.raise_for_status()
                         
-                        # Check Content-Disposition header for filename
-                        content_disposition = response.headers.get('content-disposition', '')
+                            # Check Content-Disposition header for filename
+                            content_disposition = response.headers.get('content-disposition', '')
                         
-                        with open(temp_path, 'wb') as f:
-                            async for chunk in response.aiter_bytes():
-                                f.write(chunk)
+                            with open(temp_path, 'wb') as f:
+                                async for chunk in response.aiter_bytes():
+                                    f.write(chunk)
                 
                 is_valid, file_type = self._validate_file_type(temp_path, url, content_disposition)
                 if is_valid:

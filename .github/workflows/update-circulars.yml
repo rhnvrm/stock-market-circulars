@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        source: [nse, bse, sebi, rbi, msei, indiainx]
+        source: [nse, bse, sebi, rbi, msei, mcx, indiainx]
     concurrency:
       group: update-circulars-master-${{ matrix.source }}
       cancel-in-progress: false

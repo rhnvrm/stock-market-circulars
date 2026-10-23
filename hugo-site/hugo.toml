@@ -5,7 +5,7 @@ theme = 'minimal'
 pluralizeListTitles = false
 
 [params]
-  description = 'Regulatory circulars from NSE, BSE, SEBI, RBI, MSEI, and India INX with AI-powered summaries'
+  description = 'Regulatory circulars from NSE, BSE, SEBI, RBI, MSEI, MCX, and India INX with AI-powered summaries'
   author = 'Automated Processing System'
 
 [outputs]
@@ -54,6 +54,10 @@ pluralizeListTitles = false
     name = 'India INX'
     url = '/circulars/indiainx/'
     weight = 47
+  [[menu.main]]
+    name = 'MCX'
+    url = '/circulars/mcx/'
+    weight = 48
   [[menu.main]]
     name = 'Tags'
     url = '/tags/'

@@ -74,3 +74,5 @@ After editing configuration files:
 2. Test with a single source: `uv run scripts/combined_pipeline.py nse`
 3. Check logs in `combined_pipeline.log`
 4. Review generated content in `hugo-site/content/circulars/`
+
+MCX uses eight category feeds under `[rss_feeds].mcx`. The parser resolves relative document links, decodes escaped titles, and normalizes date-only publication dates to IST. MCX feeds and documents use `curl_cffi` with a Chrome TLS fingerprint; other sources retain the existing HTTP client.
