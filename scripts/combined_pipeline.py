@@ -6,6 +6,7 @@
 #     "typer", 
 #     "pydantic",
 #     "httpx",
+#     "curl_cffi",
 #     "lxml",
 #     "beautifulsoup4",
 #     "markitdown[pdf,docx,xlsx,xls]",
@@ -28,7 +29,7 @@ The functionality has been split into multiple modules:
 - cli.py: Command-line interface
 
 Usage:
-    uv run scripts/combined_pipeline.py nse bse sebi rbi msei indiainx
+    uv run scripts/combined_pipeline.py nse bse sebi rbi msei mcx indiainx
     uv run scripts/combined_pipeline.py bse --max-items 5 --debug
 """
 

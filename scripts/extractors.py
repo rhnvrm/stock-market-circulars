@@ -12,7 +12,9 @@ import httpx
 from lxml import etree, html
 from markitdown import MarkItDown
 
+from mcx import parse_mcx_feed
 from msei import parse_msei_feed
+from tlsfetch import fetch_text, needs_impersonation
 
 
 class RSSExtractor:
@@ -45,6 +47,9 @@ class RSSExtractor:
         
         for attempt in range(len(self.retry_delays) + 1):  # +1 for initial attempt
             try:
+                if needs_impersonation(url):
+                    print(f"HTTP fetch attempt {attempt + 1}/{len(self.retry_delays) + 1} for {url} (browser TLS)")
+                    return await fetch_text(url, self.timeout)
                 async with httpx.AsyncClient(timeout=self.timeout, follow_redirects=True) as client:
                     print(f"HTTP fetch attempt {attempt + 1}/{len(self.retry_delays) + 1} for {url}")
                     response = await client.get(url, headers=headers)
@@ -71,6 +76,8 @@ class RSSExtractor:
         try:
             if source == "msei":
                 return parse_msei_feed(content)
+            if source == "mcx":
+                return parse_mcx_feed(content)
             root = etree.fromstring(content.encode())
             items = []
             channel_title = root.findtext(".//channel/title", default="").strip().lower()

@@ -30,6 +30,16 @@ rbi = [
 ]
 
 msei = "https://www.msei.in/rss/rss?type=circular"
+mcx = [
+    "https://www.mcxindia.com/en/rssfeed/circulars/ctcl",
+    "https://www.mcxindia.com/en/rssfeed/circulars/membership-and-compliance",
+    "https://www.mcxindia.com/en/rssfeed/circulars/ddr",
+    "https://www.mcxindia.com/en/rssfeed/circulars/c-s",
+    "https://www.mcxindia.com/en/rssfeed/circulars/legal",
+    "https://www.mcxindia.com/en/rssfeed/circulars/general",
+    "https://www.mcxindia.com/en/rssfeed/circulars/tech",
+    "https://www.mcxindia.com/en/rssfeed/circulars/t-s",
+]
 
 [html_sources]
 # Latest circulars listing (not an RSS feed)

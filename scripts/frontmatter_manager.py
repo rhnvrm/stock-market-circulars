@@ -340,7 +340,7 @@ class FrontmatterManager:
             raise ValueError("Circular ID must be a non-empty string")
         
         # Validate source against allowed values
-        allowed_sources = ["nse", "bse", "sebi", "rbi", "msei", "indiainx"]
+        allowed_sources = ["nse", "bse", "sebi", "rbi", "msei", "mcx", "indiainx"]
         if source not in allowed_sources:
             raise ValueError(f"Source must be one of: {allowed_sources}")
         
@@ -392,7 +392,7 @@ class FrontmatterManager:
                 return None
             
             # Find end of frontmatter
-            end_marker = content.find('---', 3)
+            end_marker = content.find('\n---', 3)
             if end_marker == -1:
                 return None
             

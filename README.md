@@ -13,6 +13,7 @@ Regulatory circulars from official sources:
 - **SEBI** - Policy changes, investor guidelines, regulatory frameworks
 - **RBI** - Press releases, banking notifications, monetary policy, and financial regulation
 - **MSEI** - Metropolitan Stock Exchange of India circulars ([official source](https://www.msei.in/rss/rss?type=circular))
+- **MCX** - Multi Commodity Exchange circulars from all eight category feeds
 - **India INX** - India International Exchange (IFSC) circulars ([official source](https://www.indiainx.com/markets/Circulars.aspx))
 
 India INX monitoring reads the default latest-circulars table and processes its linked PDFs. It does not drive ASP.NET pagination or historical search filters; circulars that leave that listing before a successful run may require a separate backfill. The exchange circular number, segment, exchange category (`exchange_category`), and product are preserved in frontmatter.
@@ -49,6 +50,7 @@ Each circular is stored as a markdown file with YAML frontmatter containing sour
 │       ├── sebi/          # SEBI circulars by year
 │       ├── rbi/           # RBI releases and notifications by year
 │       ├── msei/          # MSEI circulars by year
+│       ├── mcx/           # MCX circulars by year
 │       └── indiainx/      # India INX circulars by year
 ├── static/css/             # Stylesheets
 └── .github/workflows/      # GitHub Actions for automation
